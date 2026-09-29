@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build JAH Dictionary data (Project 5).
 
-Words: Webster's Revised Unabridged Dictionary 1913 (public domain) from
+Words: headword list with original IWB Dictionary definitions (data/definitions/all.jsonl);
   code/dict/build/dictionary.json  ->  build cache code/dict/build/words.jsonl
 Terms: one dictionary entry per spec (signature-one-archive + shard-2 indexes)
   and per public patent (cyber-patent-catalog index).
@@ -40,34 +40,59 @@ def log(msg):
     print(msg, flush=True)
 
 
+DEF_JSONL = os.path.join(ROOT, "data", "definitions", "all.jsonl")
+
+def load_iwb_defs():
+    """Load IWB Dictionary definitions: {key: {'d':[senses],'pos':pos,'src':src}}."""
+    defs = {}
+    if os.path.exists(DEF_JSONL):
+        with open(DEF_JSONL, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    r = json.loads(line)
+                except Exception:
+                    continue
+                w = str(r.get("w", ""))
+                if not w:
+                    continue
+                d = r.get("d") or []
+                d = [str(s).strip() for s in d if str(s).strip()][:3]
+                defs[w.lower()] = {"d": d, "pos": str(r.get("pos", "") or ""),
+                                   "src": str(r.get("src", "") or "")}
+    return defs
+
 def parse_words():
-    """Parse dictionary.json into [{'w','key','d':[senses]}] sorted by key."""
+    """Headwords from dictionary.json (word list only); definitions from the
+    IWB definitions file (data/definitions/all.jsonl). Words whose IWB
+    definition is still being written ship with d=[] and defsrc='pending'."""
     with open(DICT_JSON, encoding="utf-8") as f:
         raw = json.load(f)
     log("dictionary.json entries: %d" % len(raw))
+    iwb = load_iwb_defs()
+    log("IWB definitions loaded: %d" % len(iwb))
     words = []
     seen_keys = set()
-    for word, defn in raw.items():
-        if not word or not defn:
+    for word in raw.keys():
+        if not word:
             continue
         word = str(word)
         key = word.lower()
         if key in seen_keys:
             continue
         seen_keys.add(key)
-        senses = re.split(r"\s+(?=\d{1,2}\.\s)", str(defn).strip())
-        senses = [s.strip() for s in senses if s.strip()]
-        if len(senses) > 1:
-            senses = [s[:600] for s in senses[:6]]
-        elif senses:
-            senses = [senses[0][:1200]]
-        senses = [s for s in senses if s]
-        if not senses:
-            continue
-        words.append({"w": word, "k": "w", "key": key, "d": senses})
+        rec = iwb.get(key, {})
+        senses = rec.get("d", [])
+        words.append({"w": word, "k": "w", "key": key, "d": senses,
+                      "pos": rec.get("pos", ""),
+                      "defsrc": rec.get("src", "") or "pending"})
     words.sort(key=lambda e: e["key"])
     for i, e in enumerate(words, 1):
         e["st"] = "JAH-DICT-W-%06d" % i
+    ndef = sum(1 for e in words if e["d"])
+    log("words with IWB definitions: %d / %d" % (ndef, len(words)))
     return words
 
 
@@ -189,7 +214,8 @@ def write_chunks(entries):
             for li, e in enumerate(chunk):
                 if e["k"] == "w":
                     obj = {"w": e["w"], "k": "w", "st": e["st"], "d": e["d"],
-                           "s": e.get("s", 0), "p": e.get("p", 0)}
+                           "s": e.get("s", 0), "p": e.get("p", 0),
+                           "pos": e.get("pos", ""), "defsrc": e.get("defsrc", "pending")}
                 else:
                     obj = {"w": e["w"], "k": "t", "st": e["st"], "rt": e["rt"],
                            "rid": e["rid"], "d": e["d"], "cpc": e.get("cpc", "")}
@@ -215,7 +241,7 @@ def write_stats(n_words, n_terms):
         "terms": n_terms,
         "total": n_words + n_terms,
         "updated": datetime.date.today().isoformat(),
-        "source": "Webster's Revised Unabridged Dictionary 1913 (public domain)",
+        "source": "IWB Dictionary (original definitions)",
     }
     with open(spath, "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=1)
@@ -259,7 +285,8 @@ def verify(index, ipath):
     # 3. spot-check "rug"
     rug = resolve("rug", want_k="w")
     assert rug is not None, "'rug' word entry not found"
-    assert any("frieze" in s.lower() for s in rug["d"]), "'rug' defs missing 'frieze'"
+    assert rug.get("defsrc") == "iwb", "'rug' should carry an authored IWB definition"
+    assert len(rug["d"]) >= 1, "'rug' has no IWB senses"
     log("'rug' resolves: OK (st=%s, senses=%d, s=%d, p=%d)" %
         (rug["st"], len(rug["d"]), rug.get("s", 0), rug.get("p", 0)))
     # 4. spot-check one spec term and one patent term

@@ -1,0 +1,577 @@
+{"w": "above", "pos": "preposition", "d": ["Indicates a higher position or greater rank than something else, as in 'above the clouds' or 'above the law'."]}
+{"w": "academic", "pos": "adjective", "d": ["Relating to schools, colleges, or scholarly learning.", "Theoretical rather than practical in nature."]}
+{"w": "accommodation", "pos": "noun", "d": ["A place to live or stay, such as a hotel room.", "An arrangement made to suit someone's needs."]}
+{"w": "acid", "pos": "noun", "d": ["A chemical substance that tastes sour and can burn or dissolve other materials.", "The informal name for the hallucinogenic drug LSD."]}
+{"w": "acrylic", "pos": "noun", "d": ["A synthetic fiber or plastic used in fabrics, paints, and building materials."]}
+{"w": "actual", "pos": "adjective", "d": ["Existing in fact rather than imagined or merely expected."]}
+{"w": "adjacent", "pos": "adjective", "d": ["Next to or very close to something else."]}
+{"w": "adobe", "pos": "noun", "d": ["Sun-dried clay brick used in building, or a house made from it."]}
+{"w": "adventure", "pos": "noun", "d": ["An exciting or unusual experience that involves some risk."]}
+{"w": "ae", "pos": "adjective", "d": ["One, in the Scots language."]}
+{"w": "african", "pos": "adjective", "d": ["Relating to Africa or its peoples."]}
+{"w": "aggregate", "pos": "noun", "d": ["A total formed by adding together separate amounts.", "A mixture of crushed stone or gravel used in making concrete."]}
+{"w": "aid", "pos": "noun", "d": ["Money, supplies, or help given to people in need.", "A device that helps a person perform a task, as in 'hearing aid'."]}
+{"w": "album", "pos": "noun", "d": ["A collection of recorded songs released as one set.", "A book for keeping photographs, stamps, or similar items."]}
+{"w": "alike", "pos": "adjective", "d": ["Very similar to each other."]}
+{"w": "almost", "pos": "adverb", "d": ["Nearly, but not quite; very close to."]}
+{"w": "alter", "pos": "verb", "d": ["To change or modify something."]}
+{"w": "amazon", "pos": "noun", "d": ["A great river system in South America, the largest in the world by water flow.", "A large online retail company."]}
+{"w": "amount", "pos": "noun", "d": ["How much there is of something; a quantity or total."]}
+{"w": "anchor", "pos": "noun", "d": ["A heavy device dropped from a ship to keep it from drifting.", "Anything that holds something firmly in place."]}
+{"w": "animal", "pos": "noun", "d": ["A living creature that feeds on plants or other animals and can move on its own.", "An informal word for a person who behaves cruelly or brutally."]}
+{"w": "announce", "pos": "verb", "d": ["To make something known to the public."]}
+{"w": "anti", "pos": "preposition", "d": ["Opposed to something, as in 'anti-war'."]}
+{"w": "anywhere", "pos": "adverb", "d": ["In, at, or to any place."]}
+{"w": "appendix", "pos": "noun", "d": ["A section added at the end of a book with extra information.", "A small pouch attached to the large intestine."]}
+{"w": "appreciate", "pos": "verb", "d": ["To recognize the value of something and be thankful for it.", "To rise in value over time."]}
+{"w": "apt", "pos": "adjective", "d": ["Suitable or fitting for the situation.", "Likely to do something, as in 'apt to forget'."]}
+{"w": "arbor", "pos": "noun", "d": ["A garden shelter formed by trees or vines trained over a frame."]}
+{"w": "are", "pos": "verb", "d": ["Second-person singular present tense of be, and first and third person plural."]}
+{"w": "armor", "pos": "noun", "d": ["Metal clothing worn to protect the body in battle.", "Protective covering on vehicles, ships, or animals."]}
+{"w": "arrive", "pos": "verb", "d": ["To reach a destination."]}
+{"w": "asbestos", "pos": "noun", "d": ["A fibrous mineral once widely used in insulation, now known to cause serious lung disease."]}
+{"w": "aspect", "pos": "noun", "d": ["One particular side or feature of something."]}
+{"w": "associate", "pos": "noun", "d": ["A person one works with or is connected to in business or friendship.", "A rank below full status, as in 'associate professor'."]}
+{"w": "astronomy", "pos": "noun", "d": ["The scientific study of stars, planets, and the universe."]}
+{"w": "atom", "pos": "noun", "d": ["The smallest unit of a chemical element."]}
+{"w": "attract", "pos": "verb", "d": ["To pull toward or draw the interest of someone or something."]}
+{"w": "august", "pos": "noun", "d": ["The eighth month of the year, between July and September."]}
+{"w": "autumn", "pos": "noun", "d": ["The season between summer and winter, when leaves fall from the trees."]}
+{"w": "aware", "pos": "adjective", "d": ["Knowing about or conscious of something."]}
+{"w": "babe", "pos": "noun", "d": ["An informal term of endearment for a loved one.", "An infant or baby."]}
+{"w": "bad", "pos": "adjective", "d": ["Not good; of poor quality or harmful.", "Not morally right; wicked."]}
+{"w": "ballet", "pos": "noun", "d": ["A stage dance performed with graceful, precise movements."]}
+{"w": "banking", "pos": "noun", "d": ["The business of managing money in banks.", "The act of tilting sideways, as an aircraft turning in flight."]}
+{"w": "bargain", "pos": "noun", "d": ["Something sold at a lower price than usual.", "An agreement in which each side gives something up."]}
+{"w": "basket", "pos": "noun", "d": ["A container woven from wood strips or fibers, used for carrying things.", "The scoring hoop in basketball."]}
+{"w": "bay", "pos": "noun", "d": ["A wide inward curve of a coastline.", "The deep bark of a dog, especially a hound."]}
+{"w": "beat", "pos": "verb", "d": ["To hit something repeatedly.", "To defeat an opponent in a contest."]}
+{"w": "bedding", "pos": "noun", "d": ["Sheets, blankets, and pillows used on a bed."]}
+{"w": "beginner", "pos": "noun", "d": ["A person who is just starting to learn something."]}
+{"w": "believe", "pos": "verb", "d": ["To accept that something is true."]}
+{"w": "bench", "pos": "noun", "d": ["A long seat for two or more people."]}
+{"w": "beside", "pos": "preposition", "d": ["Next to someone or something.", "In comparison with something else."]}
+{"w": "beyond", "pos": "preposition", "d": ["On the far side of something.", "Past the limits of, as in 'beyond belief'."]}
+{"w": "bidder", "pos": "noun", "d": ["A person who offers a price at an auction."]}
+{"w": "billy", "pos": "noun", "d": ["A policeman's short heavy club."]}
+{"w": "birth", "pos": "noun", "d": ["The act of being born; the beginning of life."]}
+{"w": "blame", "pos": "verb", "d": ["To say or think that someone is responsible for something wrong.", "Responsibility for a mistake or wrong."]}
+{"w": "block", "pos": "noun", "d": ["A solid piece of material with flat sides.", "The stopping of movement or progress."]}
+{"w": "bo", "pos": "interjection", "d": ["A variant of 'boo' used to startle someone."]}
+{"w": "bolt", "pos": "noun", "d": ["A metal fastener with a threaded shaft, tightened with a nut.", "The act of running away suddenly."]}
+{"w": "boost", "pos": "verb", "d": ["To increase or improve something.", "To push someone upward from below."]}
+{"w": "both", "pos": "pronoun", "d": ["Refers to two people or things together, as in 'both of them'."]}
+{"w": "bouquet", "pos": "noun", "d": ["A bunch of flowers arranged together.", "The distinctive scent of a wine."]}
+{"w": "bracket", "pos": "noun", "d": ["A support attached to a wall to hold a shelf or fixture.", "Either of the pair of punctuation marks [ ]."]}
+{"w": "brazilian", "pos": "adjective", "d": ["Relating to Brazil or its people."]}
+{"w": "breeding", "pos": "noun", "d": ["The act of raising animals or plants to produce offspring.", "Good manners or polite upbringing."]}
+{"w": "bristol", "pos": "noun", "d": ["A city and port in southwestern England."]}
+{"w": "brown", "pos": "adjective", "d": ["Having the color of wood or soil.", "Suntanned by the sun."]}
+{"w": "bug", "pos": "noun", "d": ["A small insect.", "A flaw in a computer program."]}
+{"w": "bumper", "pos": "noun", "d": ["A bar across the front and back of a car to absorb impacts.", "An unusually large amount, as in 'a bumper crop'."]}
+{"w": "burner", "pos": "noun", "d": ["The part of a stove or furnace that produces heat or flame."]}
+{"w": "but", "pos": "conjunction", "d": ["Introduces a contrast or exception, as in 'tall but thin'."]}
+{"w": "by", "pos": "preposition", "d": ["Indicates the doer of an action or the means by which something happens, as in 'written by her'."]}
+{"w": "cad", "pos": "noun", "d": ["A man who behaves dishonorably toward others."]}
+{"w": "calculation", "pos": "noun", "d": ["The act of using mathematics to find an answer."]}
+{"w": "came", "pos": "verb", "d": ["Past tense of come."]}
+{"w": "canada", "pos": "noun", "d": ["A country in North America, north of the United States."]}
+{"w": "cannon", "pos": "noun", "d": ["A large heavy gun that fires cannonballs."]}
+{"w": "capacity", "pos": "noun", "d": ["The greatest amount that something can hold.", "The ability to do or understand something."]}
+{"w": "card", "pos": "noun", "d": ["A small stiff piece of paper used for games, greetings, or identification."]}
+{"w": "carpet", "pos": "noun", "d": ["A thick floor covering made of woven fabric."]}
+{"w": "casino", "pos": "noun", "d": ["A building where people gamble on games of chance."]}
+{"w": "catch", "pos": "verb", "d": ["To seize and hold something, especially something thrown or moving.", "To become infected with an illness."]}
+{"w": "cayman", "pos": "noun", "d": ["A tropical crocodilian reptile."]}
+{"w": "cement", "pos": "noun", "d": ["A powdery building material that hardens when mixed with water.", "Anything that joins things firmly together."]}
+{"w": "ceremony", "pos": "noun", "d": ["A formal event held to mark a special occasion."]}
+{"w": "challenge", "pos": "verb", "d": ["To call on someone to compete or fight.", "To question whether something is true or fair."]}
+{"w": "chapel", "pos": "noun", "d": ["A small building or room used for Christian worship."]}
+{"w": "charm", "pos": "noun", "d": ["A pleasing personal quality.", "A small ornament worn on a bracelet."]}
+{"w": "check", "pos": "verb", "d": ["To examine something to make sure it is correct.", "To stop or slow the progress of something."]}
+{"w": "chevy", "pos": "noun", "d": ["An informal term for a Chevrolet car."]}
+{"w": "chip", "pos": "noun", "d": ["A small piece broken off a larger hard object.", "A tiny electronic circuit used in computers and other devices."]}
+{"w": "christ", "pos": "noun", "d": ["Jesus of Nazareth, regarded by Christians as the Son of God and savior."]}
+{"w": "church", "pos": "noun", "d": ["A building where Christians worship.", "The Christian religion as an institution."]}
+{"w": "cite", "pos": "verb", "d": ["To quote or refer to a source as evidence."]}
+{"w": "claire", "pos": "noun", "d": ["A feminine given name."]}
+{"w": "clear", "pos": "adjective", "d": ["Easy to see through; transparent.", "Easy to understand and free of confusion."]}
+{"w": "climbing", "pos": "verb", "d": ["Present participle of climb."]}
+{"w": "cloud", "pos": "noun", "d": ["A visible mass of tiny water droplets floating in the sky.", "A network of remote computers used to store data and run programs."]}
+{"w": "coating", "pos": "noun", "d": ["A thin layer of a substance covering a surface."]}
+{"w": "cole", "pos": "noun", "d": ["A masculine given name."]}
+{"w": "collector", "pos": "noun", "d": ["A person who gathers objects as a hobby.", "A person or device that gathers something."]}
+{"w": "combat", "pos": "noun", "d": ["Fighting between people or armed forces.", "A struggle against something harmful."]}
+{"w": "comment", "pos": "noun", "d": ["A remark that expresses an opinion or observation.", "A written note that explains something."]}
+{"w": "communicate", "pos": "verb", "d": ["To share information or ideas with others.", "To convey a message successfully."]}
+{"w": "comparative", "pos": "adjective", "d": ["Involving comparison between two or more things.", "Not absolute; measured against something else."]}
+{"w": "competition", "pos": "noun", "d": ["A contest in which people try to win.", "Rivalry between businesses or groups for an advantage."]}
+{"w": "complex", "pos": "adjective", "d": ["Made of many connected parts; not simple.", "Hard to understand because of many details."]}
+{"w": "compression", "pos": "noun", "d": ["The act of pressing something into less space.", "Reduction of data size for storage or transfer."]}
+{"w": "concerning", "pos": "preposition", "d": ["About; on the subject of."]}
+{"w": "confidence", "pos": "noun", "d": ["Trust in your own abilities.", "Trust or faith placed in someone or something."]}
+{"w": "congress", "pos": "noun", "d": ["A formal meeting of representatives for discussion and decision.", "The national lawmaking body of the United States."]}
+{"w": "consent", "pos": "noun", "d": ["Permission or agreement to do something.", "Voluntary acceptance of what is proposed."]}
+{"w": "console", "pos": "noun", "d": ["A panel or desk holding the controls of a machine or system.", "An electronic device for playing video games."]}
+{"w": "construction", "pos": "noun", "d": ["The act or business of building something.", "Something that has been built; a structure."]}
+{"w": "contest", "pos": "noun", "d": ["A competition in which people try to win.", "A dispute or challenge over something."]}
+{"w": "contrary", "pos": "adjective", "d": ["Opposite in nature or direction.", "Stubbornly unwilling to agree with others."]}
+{"w": "convenience", "pos": "noun", "d": ["Something that makes life easier or more comfortable.", "The quality of being handy or well suited to a need."]}
+{"w": "cook", "pos": "verb", "d": ["To prepare food by heating it."]}
+{"w": "cop", "pos": "noun", "d": ["An informal word for a police officer."]}
+{"w": "cork", "pos": "noun", "d": ["The light bark of the cork oak, used to make bottle stoppers.", "A stopper for a bottle made of this bark."]}
+{"w": "correction", "pos": "noun", "d": ["A change that makes something right.", "The act of correcting."]}
+{"w": "costume", "pos": "noun", "d": ["Clothing worn to look like someone or something else.", "Clothing typical of a time period, country, or role."]}
+{"w": "county", "pos": "noun", "d": ["A division of a state or country for local government."]}
+{"w": "cove", "pos": "noun", "d": ["A small sheltered bay or inlet of water.", "A small recessed or sheltered place."]}
+{"w": "crash", "pos": "verb", "d": ["To collide with something violently.", "To fail suddenly and completely, as a business or a computer."]}
+{"w": "creek", "pos": "noun", "d": ["A small stream of water.", "A narrow inlet of the sea or a river."]}
+{"w": "criticism", "pos": "noun", "d": ["The act of finding fault; expression of disapproval.", "An analysis or review that judges the quality of something."]}
+{"w": "cruise", "pos": "verb", "d": ["To travel at a steady, relaxed speed.", "To take a pleasure voyage by ship."]}
+{"w": "cumulative", "pos": "adjective", "d": ["Growing larger as more is added over time.", "Made up of parts added together."]}
+{"w": "curve", "pos": "noun", "d": ["A line that bends smoothly without sharp angles.", "A bend in a road or path."]}
+{"w": "cyprus", "pos": "noun", "d": ["An island country in the eastern Mediterranean Sea."]}
+{"w": "dale", "pos": "noun", "d": ["A wide valley, especially one between hills."]}
+{"w": "dare", "pos": "verb", "d": ["To be brave enough to do something risky.", "To challenge someone to do something as a test of courage."]}
+{"w": "dead", "pos": "adjective", "d": ["No longer alive.", "No longer working or active."]}
+{"w": "debt", "pos": "noun", "d": ["Money that is owed to someone.", "The condition of owing money."]}
+{"w": "deck", "pos": "noun", "d": ["A flat wooden platform, especially on a ship or attached to a house.", "A full set of playing cards."]}
+{"w": "default", "pos": "noun", "d": ["Failure to meet a legal or financial obligation, such as repaying a loan.", "The setting a system uses when no choice is made."]}
+{"w": "define", "pos": "verb", "d": ["To state the meaning of a word or phrase.", "To describe the exact nature or limits of something."]}
+{"w": "delete", "pos": "verb", "d": ["To remove written or recorded material.", "To erase data from a computer."]}
+{"w": "democracy", "pos": "noun", "d": ["Government by the people, usually through elected representatives.", "A country governed in this way."]}
+{"w": "deny", "pos": "verb", "d": ["To say that something is not true.", "To refuse to give or allow something."]}
+{"w": "depth", "pos": "noun", "d": ["The distance from the top to the bottom, or from the surface downward.", "The quality of being deep, thorough, or profound."]}
+{"w": "design", "pos": "verb", "d": ["To plan and create something for a specific purpose.", "To intend something for a particular use."]}
+{"w": "despite", "pos": "preposition", "d": ["In spite of; not stopped or changed by."]}
+{"w": "determination", "pos": "noun", "d": ["Firmness of purpose; the resolve to keep trying.", "The act of deciding or settling something."]}
+{"w": "diabetes", "pos": "noun", "d": ["A disease in which the body cannot properly control the level of sugar in the blood."]}
+{"w": "diana", "pos": "noun", "d": ["A feminine given name."]}
+{"w": "difficulty", "pos": "noun", "d": ["The state of being hard to do or understand.", "A problem or obstacle."]}
+{"w": "dip", "pos": "verb", "d": ["To lower something briefly into a liquid and lift it out.", "To slope or drop downward suddenly."]}
+{"w": "disability", "pos": "noun", "d": ["A physical or mental condition that limits a person's activities.", "The state of being unable to do something."]}
+{"w": "disclaimer", "pos": "noun", "d": ["A statement that denies responsibility for something.", "A refusal to accept a claim or take responsibility."]}
+{"w": "discrimination", "pos": "noun", "d": ["Unfair treatment of people because of the group they belong to.", "The ability to notice small differences."]}
+{"w": "display", "pos": "verb", "d": ["To put something where people can see it.", "To show a feeling or quality openly."]}
+{"w": "distribute", "pos": "verb", "d": ["To give things out to a number of people.", "To spread something over an area."]}
+{"w": "divine", "pos": "adjective", "d": ["Relating to God or a god.", "Extremely pleasant; heavenly."]}
+{"w": "dod", "pos": "abbreviation", "d": ["An abbreviation for the United States Department of Defense."]}
+{"w": "dom", "pos": "abbreviation", "d": ["An abbreviation for Document Object Model, the standard representation of a web page used in programming."]}
+{"w": "donation", "pos": "noun", "d": ["Something given to help a cause or person in need.", "The act of giving."]}
+{"w": "dot", "pos": "noun", "d": ["A tiny round mark or spot.", "A short signal used in Morse code."]}
+{"w": "dragon", "pos": "noun", "d": ["A mythical giant reptile that breathes fire.", "A fierce or formidable person."]}
+{"w": "dream", "pos": "noun", "d": ["Images and thoughts experienced during sleep.", "A strong wish or goal for the future."]}
+{"w": "drinking", "pos": "verb", "d": ["Present participle of drink."]}
+{"w": "dry", "pos": "adjective", "d": ["Free from water or moisture.", "Having little or no rain; arid."]}
+{"w": "dump", "pos": "verb", "d": ["To unload or drop something in a heap.", "To throw away something unwanted."]}
+{"w": "dutch", "pos": "adjective", "d": ["Of or relating to the Netherlands, its people, or their language."]}
+{"w": "early", "pos": "adjective", "d": ["Coming before the expected or usual time.", "Near the beginning of a period of time."]}
+{"w": "easy", "pos": "adjective", "d": ["Not difficult to do or understand.", "Free from worry, pain, or stress."]}
+{"w": "eden", "pos": "noun", "d": ["The garden described in the Bible as the first home of humanity."]}
+{"w": "efficient", "pos": "adjective", "d": ["Working well without wasting time, effort, or resources.", "Producing good results with little waste."]}
+{"w": "elect", "pos": "verb", "d": ["To choose someone for office by voting.", "To choose or decide on something."]}
+{"w": "elevation", "pos": "noun", "d": ["Height above sea level.", "The act of raising something to a higher rank or position."]}
+{"w": "em", "pos": "noun", "d": ["A unit of typographic measurement based on the size of the current type."]}
+{"w": "employ", "pos": "verb", "d": ["To hire someone to do work for pay.", "To use something for a purpose."]}
+{"w": "encyclopedia", "pos": "noun", "d": ["A book or set of books giving information on many subjects.", "A comprehensive collection of knowledge arranged for reference."]}
+{"w": "engineering", "pos": "noun", "d": ["The use of science and mathematics to design and build structures, machines, and systems.", "The profession of an engineer."]}
+{"w": "ensure", "pos": "verb", "d": ["To make certain that something happens or is the case."]}
+{"w": "envelope", "pos": "noun", "d": ["A flat paper cover in which a letter is mailed.", "A surrounding boundary or limit."]}
+{"w": "equity", "pos": "noun", "d": ["Fairness and justice in the way people are treated.", "The value of ownership in property after debts are subtracted."]}
+{"w": "essential", "pos": "adjective", "d": ["Absolutely necessary.", "Central to the basic nature of something."]}
+{"w": "european", "pos": "adjective", "d": ["Of or relating to Europe or its peoples."]}
+{"w": "event", "pos": "noun", "d": ["Something that happens, especially something important.", "A planned public or social occasion."]}
+{"w": "evolution", "pos": "noun", "d": ["The gradual development of living things over many generations.", "A process of gradual change and development."]}
+{"w": "except", "pos": "preposition", "d": ["Not including; other than.", "Used to leave something out of a statement."]}
+{"w": "excuse", "pos": "verb", "d": ["To forgive someone for a fault or offense.", "To free someone from a duty or allow them to leave."]}
+{"w": "exhibit", "pos": "verb", "d": ["To show or display something in public.", "To reveal a quality or behavior clearly."]}
+{"w": "expect", "pos": "verb", "d": ["To think that something is likely to happen.", "To require or demand something as rightfully due."]}
+{"w": "explain", "pos": "verb", "d": ["To make something clear or easy to understand.", "To give reasons for something."]}
+{"w": "express", "pos": "verb", "d": ["To put thoughts or feelings into words.", "To show something through words, actions, or appearance."]}
+{"w": "extract", "pos": "verb", "d": ["To pull or take something out.", "To obtain something from a larger source."]}
+{"w": "fabulous", "pos": "adjective", "d": ["Extremely good; wonderful.", "Almost too amazing to believe; legendary."]}
+{"w": "factor", "pos": "noun", "d": ["Something that helps bring about a result.", "A number that divides another number evenly."]}
+{"w": "faith", "pos": "noun", "d": ["Strong belief or trust, especially without needing proof.", "A system of religious belief."]}
+{"w": "famous", "pos": "adjective", "d": ["Known about by very many people."]}
+{"w": "fashion", "pos": "noun", "d": ["The style of clothing and decoration that is popular at a particular time.", "To shape or make something with careful work."]}
+{"w": "favor", "pos": "noun", "d": ["A kind act done for someone, usually at their request.", "To prefer or support one person or thing over others."]}
+{"w": "federation", "pos": "noun", "d": ["An organization or country formed by uniting smaller states or groups under one central authority."]}
+{"w": "fellow", "pos": "noun", "d": ["A man or boy, used in a friendly or informal way.", "A member of an academic or professional society."]}
+{"w": "few", "pos": "adjective", "d": ["A small number of; not many."]}
+{"w": "fig", "pos": "noun", "d": ["The soft, sweet fruit of the fig tree, eaten fresh or dried."]}
+{"w": "film", "pos": "noun", "d": ["A motion picture shown in theaters or on a screen.", "To record moving pictures with a camera."]}
+{"w": "finding", "pos": "noun", "d": ["A discovery or conclusion reached after searching or studying something."]}
+{"w": "first", "pos": "adjective", "d": ["Coming before all others in order, time, or importance.", "Before anything else; at the beginning."]}
+{"w": "fix", "pos": "verb", "d": ["To repair something that is broken or not working correctly.", "A difficult or awkward situation."]}
+{"w": "fleece", "pos": "noun", "d": ["The thick coat of wool covering a sheep.", "To cheat someone out of money by trickery."]}
+{"w": "floating", "pos": "adjective", "d": ["Present participle of float."]}
+{"w": "flour", "pos": "noun", "d": ["A fine powder made by grinding grain, used in baking."]}
+{"w": "fo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "follow", "pos": "verb", "d": ["To go or come after someone or something.", "To obey or act according to rules, advice, or instructions."]}
+{"w": "force", "pos": "noun", "d": ["Strength or power used to move, change, or control something.", "To make someone do something against their will."]}
+{"w": "forgot", "pos": "verb", "d": ["Past tense of forget."]}
+{"w": "fort", "pos": "noun", "d": ["A building or area strengthened to defend against attack."]}
+{"w": "foster", "pos": "verb", "d": ["To encourage the growth or development of something.", "Relating to the care of a child by adults who are not the child's birth parents."]}
+{"w": "fraction", "pos": "noun", "d": ["A small part or amount of something.", "A number that represents part of a whole, written as one number over another."]}
+{"w": "free", "pos": "adjective", "d": ["Costing nothing; without charge.", "Not controlled by someone else; able to act as one wishes.", "To release someone or something from being held."]}
+{"w": "friday", "pos": "noun", "d": ["The sixth day of the week, coming after Thursday."]}
+{"w": "frozen", "pos": "adjective", "d": ["Turned solid or covered with ice by extreme cold.", "Past participle of freeze."]}
+{"w": "fund", "pos": "noun", "d": ["A supply of money set aside for a particular purpose.", "To provide money for a project or activity."]}
+{"w": "further", "pos": "adverb", "d": ["At a greater distance or to a greater extent.", "Additional or more advanced."]}
+{"w": "galaxy", "pos": "noun", "d": ["A huge system of stars, gas, and dust held together by gravity."]}
+{"w": "garage", "pos": "noun", "d": ["A building or room where cars are kept or repaired."]}
+{"w": "gateway", "pos": "noun", "d": ["An entrance that can be closed with a gate.", "Something that gives access to a new opportunity or place."]}
+{"w": "gem", "pos": "noun", "d": ["A precious or semiprecious stone that has been cut and polished for jewelry."]}
+{"w": "genesis", "pos": "noun", "d": ["The first book of the Bible.", "The origin or beginning of something."]}
+{"w": "geology", "pos": "noun", "d": ["The scientific study of the earth's rocks, structure, and history."]}
+{"w": "gibraltar", "pos": "noun", "d": ["A British territory at the southern tip of Spain."]}
+{"w": "glance", "pos": "verb", "d": ["To take a quick look at something.", "A quick look."]}
+{"w": "gnu", "pos": "noun", "d": ["A large African antelope with curved horns and a humped shoulder."]}
+{"w": "good", "pos": "adjective", "d": ["Of high quality; satisfactory or pleasing.", "Benefit or advantage."]}
+{"w": "governor", "pos": "noun", "d": ["The elected leader of a US state."]}
+{"w": "grand", "pos": "adjective", "d": ["Large and impressive in size or appearance."]}
+{"w": "gray", "pos": "adjective", "d": ["Having the color that is between black and white.", "The color that is between black and white."]}
+{"w": "griffin", "pos": "noun", "d": ["A mythical creature with the head and wings of an eagle and the body of a lion."]}
+{"w": "grove", "pos": "noun", "d": ["A small group of trees growing close together."]}
+{"w": "guest", "pos": "noun", "d": ["A person who is invited to visit or stay at someone's home or event."]}
+{"w": "gun", "pos": "noun", "d": ["A weapon that fires bullets or shells.", "To shoot someone with a gun."]}
+{"w": "hair", "pos": "noun", "d": ["The thin strands that grow on the skin of people and animals, especially on the head."]}
+{"w": "hammer", "pos": "noun", "d": ["A tool with a heavy head used for hitting nails into wood.", "To hit something repeatedly with a hammer."]}
+{"w": "happy", "pos": "adjective", "d": ["Feeling or showing pleasure or joy."]}
+{"w": "has", "pos": "verb", "d": ["Third-person singular present tense of have."]}
+{"w": "hay", "pos": "noun", "d": ["Dried grass or plants used as food for farm animals."]}
+{"w": "healthy", "pos": "adjective", "d": ["Free from illness; in good physical condition.", "Good for a person's health."]}
+{"w": "heating", "pos": "noun", "d": ["The process of making something warm.", "Present participle of heat."]}
+{"w": "helena", "pos": "noun", "d": ["A feminine given name."]}
+{"w": "herald", "pos": "verb", "d": ["To announce or signal the coming of something.", "A person who announces news or events."]}
+{"w": "hey", "pos": "interjection", "d": ["Used to get someone's attention or to greet someone."]}
+{"w": "himself", "pos": "pronoun", "d": ["The form of he used when a male subject does something to himself."]}
+{"w": "historic", "pos": "adjective", "d": ["Famous or important in history."]}
+{"w": "hole", "pos": "noun", "d": ["An empty space or opening in something solid."]}
+{"w": "honey", "pos": "noun", "d": ["A sweet, thick substance made by bees from the nectar of flowers."]}
+{"w": "horizontal", "pos": "adjective", "d": ["Flat and level; parallel to the ground."]}
+{"w": "host", "pos": "noun", "d": ["A person who receives and entertains guests.", "To receive guests or run an event."]}
+{"w": "however", "pos": "adverb", "d": ["Used to introduce a statement that contrasts with what was just said."]}
+{"w": "hung", "pos": "verb", "d": ["Past tense and past participle of hang."]}
+{"w": "hydraulic", "pos": "adjective", "d": ["Operated by the pressure of water or another liquid."]}
+{"w": "idea", "pos": "noun", "d": ["A thought or plan formed in the mind."]}
+{"w": "ignore", "pos": "verb", "d": ["To pay no attention to someone or something on purpose."]}
+{"w": "imagine", "pos": "verb", "d": ["To form a picture or idea of something in the mind."]}
+{"w": "import", "pos": "verb", "d": ["To bring goods into a country from abroad.", "Goods brought into a country from abroad."]}
+{"w": "in", "pos": "preposition", "d": ["Used to show that something is inside a place, period of time, or situation."]}
+{"w": "inclusion", "pos": "noun", "d": ["The act of including someone or something."]}
+{"w": "increasingly", "pos": "adverb", "d": ["More and more as time passes."]}
+{"w": "indication", "pos": "noun", "d": ["A sign that shows something exists or is likely to happen."]}
+{"w": "induction", "pos": "noun", "d": ["The act of formally introducing someone into a new job or organization."]}
+{"w": "influence", "pos": "noun", "d": ["The power to affect how someone thinks or acts.", "To have an effect on someone or something."]}
+{"w": "initiative", "pos": "noun", "d": ["The ability to make decisions and act without being told.", "A new plan or program intended to solve a problem."]}
+{"w": "innovative", "pos": "adjective", "d": ["Introducing new ideas or methods; original and creative."]}
+{"w": "inspector", "pos": "noun", "d": ["A person whose job is to examine things officially to check that they meet standards."]}
+{"w": "institute", "pos": "noun", "d": ["An organization established for education or research.", "To start or establish something."]}
+{"w": "integer", "pos": "noun", "d": ["A whole number, positive, negative, or zero."]}
+{"w": "intend", "pos": "verb", "d": ["To plan or mean to do something."]}
+{"w": "interest", "pos": "noun", "d": ["A feeling of wanting to know or learn about something.", "Money paid for the use of borrowed money.", "To cause someone to feel curious about something."]}
+{"w": "into", "pos": "preposition", "d": ["Used to show movement toward the inside of something."]}
+{"w": "investigation", "pos": "noun", "d": ["A careful examination carried out to discover facts about something."]}
+{"w": "involve", "pos": "verb", "d": ["To include someone or something as a necessary part."]}
+{"w": "islam", "pos": "noun", "d": ["The religion founded on the teachings of Muhammad."]}
+{"w": "item", "pos": "noun", "d": ["A single thing in a list, group, or collection."]}
+{"w": "jade", "pos": "noun", "d": ["A green gemstone used in jewelry and carvings.", "A feminine given name."]}
+{"w": "japan", "pos": "noun", "d": ["An island country in East Asia."]}
+{"w": "jerusalem", "pos": "noun", "d": ["A holy city in the Middle East."]}
+{"w": "jimmy", "pos": "verb", "d": ["To force open with a short crowbar.", "A masculine given name."]}
+{"w": "jordan", "pos": "noun", "d": ["A country in the Middle East.", "A masculine or feminine given name."]}
+{"w": "judicial", "pos": "adjective", "d": ["Relating to courts of law or judges."]}
+{"w": "jungle", "pos": "noun", "d": ["A dense tropical forest with thick vegetation."]}
+{"w": "k", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "keno", "pos": "noun", "d": ["A gambling game similar to bingo in which players match drawn numbers."]}
+{"w": "kid", "pos": "noun", "d": ["A child or young person.", "To tease someone in a playful way."]}
+{"w": "kirk", "pos": "noun", "d": ["A church, especially in Scotland."]}
+{"w": "knight", "pos": "noun", "d": ["A medieval mounted warrior honored by a king or queen.", "A chess piece shaped like a horse's head."]}
+{"w": "ky", "pos": "abbreviation", "d": ["Abbreviation of Kentucky, a US state."]}
+{"w": "lack", "pos": "verb", "d": ["To be without something that is needed or wanted.", "The condition of not having enough of something."]}
+{"w": "lamp", "pos": "noun", "d": ["A device that gives off light, usually from an electric bulb held in a shade or fixture."]}
+{"w": "large", "pos": "adjective", "d": ["Big in size, amount, or extent."]}
+{"w": "latex", "pos": "noun", "d": ["A milky fluid from rubber trees that is processed into rubber.", "A man-made version of this fluid used in gloves, paint, and other products."]}
+{"w": "laura", "pos": "noun", "d": ["A feminine given name."]}
+{"w": "lead", "pos": "verb", "d": ["To guide or direct a person, group, or course of action.", "A soft, heavy gray metal used in batteries, pipes, and weights."]}
+{"w": "leasing", "pos": "noun", "d": ["The act of renting property or equipment under a lease.", "Present participle of lease."]}
+{"w": "leg", "pos": "noun", "d": ["One of the limbs of a person or animal used for standing and walking.", "A support under a table, chair, or other piece of furniture."]}
+{"w": "legitimate", "pos": "adjective", "d": ["Conforming to law or rules; lawful and genuine.", "To make something legitimate."]}
+{"w": "les", "pos": "article", "d": ["The plural definite article in French, meaning 'the'."]}
+{"w": "li", "pos": "abbreviation", "d": ["The chemical symbol for the element lithium."]}
+{"w": "licking", "pos": "verb", "d": ["Present participle of lick."]}
+{"w": "like", "pos": "verb", "d": ["To enjoy something or feel fond of someone.", "Similar to something else; in the manner of.", "Having the same or similar qualities."]}
+{"w": "lion", "pos": "noun", "d": ["A large wild cat with a tawny coat, the males having a thick mane.", "A person admired for great courage or strength."]}
+{"w": "literature", "pos": "noun", "d": ["Written works valued as art, especially novels, poems, and plays.", "The body of published writing on a particular subject."]}
+{"w": "lobby", "pos": "noun", "d": ["The entrance hall of a building such as a hotel or theater.", "To try to influence lawmakers or officials about an issue."]}
+{"w": "log", "pos": "noun", "d": ["A thick piece of a tree trunk or branch cut for firewood or timber.", "To record information in writing or in a file."]}
+{"w": "lone", "pos": "adjective", "d": ["Single and alone; without others nearby."]}
+{"w": "los", "pos": "article", "d": ["The masculine plural definite article in Spanish, meaning 'the'."]}
+{"w": "loud", "pos": "adjective", "d": ["Making or having a strong, easily heard sound.", "In a loud manner."]}
+{"w": "luggage", "pos": "noun", "d": ["Suitcases and bags used to carry belongings while traveling."]}
+{"w": "ma", "pos": "noun", "d": ["An informal word for mother.", "The postal abbreviation for Massachusetts."]}
+{"w": "madonna", "pos": "noun", "d": ["A picture or statue of the Virgin Mary."]}
+{"w": "main", "pos": "adjective", "d": ["Most important; chief.", "A principal pipe or cable carrying water, gas, or electricity."]}
+{"w": "man", "pos": "noun", "d": ["An adult male human being.", "To staff or operate a post or piece of equipment.", "Used to express surprise or emphasis."]}
+{"w": "maple", "pos": "noun", "d": ["A tree with broad lobed leaves, known for its sweet sap and bright autumn color.", "The hard, light-colored wood of this tree, used for furniture and flooring."]}
+{"w": "maritime", "pos": "adjective", "d": ["Relating to the sea, ships, or navigation."]}
+{"w": "mart", "pos": "noun", "d": ["A market or trading center."]}
+{"w": "mat", "pos": "noun", "d": ["A flat piece of material placed on a floor for wiping shoes or covering an area.", "A padded surface used for gymnastics or exercise."]}
+{"w": "mature", "pos": "adjective", "d": ["Fully grown or developed.", "To become fully grown or developed."]}
+{"w": "meaning", "pos": "noun", "d": ["What a word, sign, or action expresses or refers to.", "Present participle of mean."]}
+{"w": "medicine", "pos": "noun", "d": ["A substance taken to treat or prevent illness.", "The science and practice of diagnosing and treating disease."]}
+{"w": "melissa", "pos": "noun", "d": ["A feminine given name."]}
+{"w": "mentor", "pos": "noun", "d": ["An experienced person who guides and advises someone less experienced.", "To act as a mentor to someone."]}
+{"w": "merry", "pos": "adjective", "d": ["Cheerful and lively."]}
+{"w": "metal", "pos": "noun", "d": ["A hard, shiny material that conducts heat and electricity, such as iron or copper."]}
+{"w": "mice", "pos": "noun", "d": ["Plural of mouse."]}
+{"w": "mile", "pos": "noun", "d": ["A unit of distance equal to 5,280 feet."]}
+{"w": "mind", "pos": "noun", "d": ["The part of a person that thinks, feels, and remembers.", "To be bothered by or object to something.", "To watch over or take care of something."]}
+{"w": "minus", "pos": "preposition", "d": ["Reduced by a stated amount; less.", "Below zero in temperature or number.", "A minus sign."]}
+{"w": "mistake", "pos": "noun", "d": ["An error or wrong action.", "To identify something or someone incorrectly."]}
+{"w": "mobility", "pos": "noun", "d": ["The ability to move freely and easily."]}
+{"w": "module", "pos": "noun", "d": ["A separate unit that is part of a larger system.", "A self-contained unit of study in a course."]}
+{"w": "money", "pos": "noun", "d": ["Coins and banknotes used to buy things and pay debts.", "Wealth measured in currency."]}
+{"w": "moon", "pos": "noun", "d": ["The natural satellite that orbits the Earth and shines in the night sky.", "To act in a dreamy or distracted way."]}
+{"w": "moss", "pos": "noun", "d": ["A small, soft green plant that grows in damp, shady places."]}
+{"w": "mouth", "pos": "noun", "d": ["The opening in the face through which food is eaten and sounds are made.", "To form words with the lips without speaking aloud."]}
+{"w": "murder", "pos": "noun", "d": ["The unlawful killing of a person by another person.", "To kill a person unlawfully."]}
+{"w": "must", "pos": "verb", "d": ["To be required or obliged to do something.", "Something that is required or strongly recommended."]}
+{"w": "n", "pos": "noun", "d": ["The fourteenth letter of the English alphabet.", "An abbreviation for north, as in a compass direction."]}
+{"w": "nat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "navigation", "pos": "noun", "d": ["The planning and directing of a route for a ship, aircraft, or vehicle.", "The act of moving through a website or app."]}
+{"w": "neck", "pos": "noun", "d": ["The part of the body connecting the head to the shoulders.", "To kiss and embrace amorously."]}
+{"w": "nervous", "pos": "adjective", "d": ["Easily worried or anxious.", "Relating to the nerves or the nervous system."]}
+{"w": "new", "pos": "adjective", "d": ["Recently made, discovered, or introduced.", "Not seen or known before."]}
+{"w": "night", "pos": "noun", "d": ["The time of darkness between sunset and sunrise."]}
+{"w": "node", "pos": "noun", "d": ["A point where lines or paths meet or branch off.", "A connection point in a computer network."]}
+{"w": "norm", "pos": "noun", "d": ["A standard or pattern of behavior that is considered normal.", "An accepted average or usual value."]}
+{"w": "noted", "pos": "adjective", "d": ["Well known; famous.", "Past tense and past participle of note."]}
+{"w": "novelty", "pos": "noun", "d": ["The quality of being new and unusual.", "A small, unusual object sold as a souvenir or toy."]}
+{"w": "numerous", "pos": "adjective", "d": ["Great in number; many."]}
+{"w": "oak", "pos": "noun", "d": ["A large tree with lobed leaves that produces acorns.", "The hard, strong wood of this tree."]}
+{"w": "obvious", "pos": "adjective", "d": ["Easy to see or understand; clear."]}
+{"w": "odds", "pos": "noun", "d": ["The likelihood that something will happen, often expressed as a ratio.", "The ratio set by a bookmaker for a bet."]}
+{"w": "office", "pos": "noun", "d": ["A room or building where business or clerical work is done.", "A position of authority or duty, such as a public office."]}
+{"w": "olive", "pos": "noun", "d": ["The small oval fruit of the olive tree, eaten as food or pressed for oil.", "A yellowish-green color like that of an unripe olive."]}
+{"w": "ongoing", "pos": "adjective", "d": ["Continuing to happen; still in progress."]}
+{"w": "operate", "pos": "verb", "d": ["To control or run a machine, system, or business.", "To perform surgery."]}
+{"w": "option", "pos": "noun", "d": ["A choice among two or more possibilities.", "The right to buy or sell something at a set price within a set time."]}
+{"w": "ordering", "pos": "noun", "d": ["The act of arranging things in a sequence or placing an order.", "Present participle of order."]}
+{"w": "other", "pos": "adjective", "d": ["Different from the one already mentioned.", "An additional or different person or thing."]}
+{"w": "outer", "pos": "adjective", "d": ["On the outside; farther from the center."]}
+{"w": "oval", "pos": "adjective", "d": ["Shaped like an egg; elliptical.", "An egg-shaped figure or object."]}
+{"w": "oxide", "pos": "noun", "d": ["A chemical compound of oxygen and another element."]}
+{"w": "package", "pos": "noun", "d": ["A wrapped box or parcel sent by mail or carried by hand.", "To wrap or box something for sale or shipping."]}
+{"w": "painted", "pos": "adjective", "d": ["Covered with paint.", "Past tense and past participle of paint."]}
+{"w": "pan", "pos": "noun", "d": ["A shallow metal cooking utensil with a handle.", "To swing a movie or video camera across a scene.", "To wash gravel in a pan in search of gold."]}
+{"w": "paragraph", "pos": "noun", "d": ["A section of writing made up of one or more sentences about a single idea."]}
+{"w": "parliament", "pos": "noun", "d": ["The group of elected representatives that makes laws in some countries."]}
+{"w": "party", "pos": "noun", "d": ["A social gathering for celebration or enjoyment.", "An organized political group.", "A person or side involved in an agreement or a legal case."]}
+{"w": "password", "pos": "noun", "d": ["A secret word or phrase used to gain access to a computer, an account, or a place."]}
+{"w": "patient", "pos": "noun", "d": ["A person receiving medical care.", "Able to wait calmly without anger or complaint."]}
+{"w": "payment", "pos": "noun", "d": ["Money paid for goods, services, or a debt."]}
+{"w": "penalty", "pos": "noun", "d": ["A punishment for breaking a law or rule."]}
+{"w": "pens", "pos": "noun", "d": ["Plural of pen."]}
+{"w": "perform", "pos": "verb", "d": ["To carry out an action or task.", "To act, sing, or play music before an audience."]}
+{"w": "permission", "pos": "noun", "d": ["Approval to do something."]}
+{"w": "pet", "pos": "noun", "d": ["An animal kept for companionship.", "To stroke an animal gently."]}
+{"w": "phase", "pos": "noun", "d": ["A stage in a process of change or development.", "To introduce or carry out something in stages."]}
+{"w": "photography", "pos": "noun", "d": ["The art or practice of taking pictures with a camera."]}
+{"w": "picking", "pos": "verb", "d": ["Present participle of pick."]}
+{"w": "pike", "pos": "noun", "d": ["A long spear with a sharp point, once used by foot soldiers.", "A large freshwater fish with a long body and a pointed snout."]}
+{"w": "pioneer", "pos": "noun", "d": ["A person who is among the first to explore or settle a new area.", "A person who leads the way in developing something new.", "To be the first to develop or try something."]}
+{"w": "plane", "pos": "noun", "d": ["An aircraft with wings that flies through the air.", "A flat surface in geometry.", "A woodworking tool for smoothing wood."]}
+{"w": "play", "pos": "verb", "d": ["To take part in a game or sport for enjoyment.", "A theatrical performance; a drama."]}
+{"w": "plug", "pos": "noun", "d": ["A device with prongs that fits into a socket to connect to electricity.", "To block or fill a hole or gap."]}
+{"w": "pointing", "pos": "verb", "d": ["Present participle of point."]}
+{"w": "pollution", "pos": "noun", "d": ["Harmful substances or waste released into air, water, or soil that damage the environment and living things.", "The act of making something dirty or impure."]}
+{"w": "pope", "pos": "noun", "d": ["The head of the Roman Catholic Church."]}
+{"w": "portuguese", "pos": "adjective", "d": ["Of or relating to Portugal, its people, or its language.", "A native or resident of Portugal."]}
+{"w": "postage", "pos": "noun", "d": ["The fee paid to have mail collected and delivered.", "Stamps or markings showing that the delivery fee has been paid."]}
+{"w": "poverty", "pos": "noun", "d": ["The state of having very little money or few possessions."]}
+{"w": "precious", "pos": "adjective", "d": ["Of great value or worth, especially because rare or deeply loved."]}
+{"w": "pregnancy", "pos": "noun", "d": ["The condition of carrying a developing child in the uterus before birth."]}
+{"w": "prerequisite", "pos": "noun", "d": ["Something that must be done or obtained before something else can happen.", "Required beforehand."]}
+{"w": "pressing", "pos": "adjective", "d": ["Needing immediate attention; urgent.", "Present participle of press."]}
+{"w": "primarily", "pos": "adverb", "d": ["For the most part; mainly."]}
+{"w": "prior", "pos": "adjective", "d": ["Earlier in time or order; previous.", "A deputy head of a monastery."]}
+{"w": "probably", "pos": "adverb", "d": ["Very likely but not certain."]}
+{"w": "product", "pos": "noun", "d": ["Something made or grown to be sold or used.", "The result obtained by multiplying two or more numbers."]}
+{"w": "programme", "pos": "noun", "d": ["A planned series of events, activities, or broadcasts."]}
+{"w": "promotion", "pos": "noun", "d": ["Advancement to a higher rank or position at work.", "Activity intended to make a product or event better known."]}
+{"w": "propose", "pos": "verb", "d": ["To suggest a plan or idea for others to consider.", "To ask someone to marry you."]}
+{"w": "protest", "pos": "noun", "d": ["A public statement or gathering expressing strong objection to something.", "To object publicly or strongly."]}
+{"w": "province", "pos": "noun", "d": ["A large administrative division of a country."]}
+{"w": "pull", "pos": "verb", "d": ["To move something toward you by gripping and drawing it.", "An act of pulling."]}
+{"w": "purple", "pos": "noun", "d": ["A color between red and blue.", "Having that color."]}
+{"w": "put", "pos": "verb", "d": ["To place something in a particular position or location."]}
+{"w": "quality", "pos": "noun", "d": ["The degree to which something is good or bad.", "A distinctive characteristic or feature of a person or thing."]}
+{"w": "questionnaire", "pos": "noun", "d": ["A written set of questions given to people to collect information or opinions."]}
+{"w": "quote", "pos": "verb", "d": ["To repeat or copy words exactly as someone else said or wrote them.", "A passage quoted from a book, speech, or other source.", "A price offered for goods or services."]}
+{"w": "rage", "pos": "noun", "d": ["Violent, uncontrolled anger.", "To feel or express violent anger."]}
+{"w": "rally", "pos": "verb", "d": ["To come together or bring people together for a common cause or effort.", "A large public gathering in support of a cause.", "To recover strength after an illness or setback."]}
+{"w": "rank", "pos": "noun", "d": ["A position in a hierarchy, as in the military or an organization.", "To arrange or be arranged in order by quality or importance.", "Growing thickly and lushly, or offensively strong in smell or taste."]}
+{"w": "ratio", "pos": "noun", "d": ["The relationship between two quantities expressed as the number of times one contains the other."]}
+{"w": "reading", "pos": "noun", "d": ["The act of interpreting written or printed text.", "Present participle of read."]}
+{"w": "reasoning", "pos": "noun", "d": ["The process of thinking through facts and ideas to reach a conclusion."]}
+{"w": "reception", "pos": "noun", "d": ["The act of receiving or welcoming someone.", "The quality of a radio or television signal being received.", "A formal social gathering, often held after a wedding or ceremony."]}
+{"w": "record", "pos": "noun", "d": ["A stored account of facts or events kept for future reference.", "A disc carrying recorded music.", "To capture sound or images for later playback."]}
+{"w": "reduce", "pos": "verb", "d": ["To make something smaller in size, amount, or degree."]}
+{"w": "reflection", "pos": "noun", "d": ["An image seen in a mirror or on a shiny surface.", "Serious thought about something."]}
+{"w": "regime", "pos": "noun", "d": ["A government in power, especially one that rules strictly or by force.", "A system of rules or a way of managing something."]}
+{"w": "regulation", "pos": "noun", "d": ["An official rule made by an authority to control conduct.", "The act of controlling or adjusting something according to rules."]}
+{"w": "relaxation", "pos": "noun", "d": ["The state of being free from tension or worry; rest."]}
+{"w": "relief", "pos": "noun", "d": ["The easing of pain, worry, or difficulty.", "Help given to people in need, as after a disaster."]}
+{"w": "remark", "pos": "noun", "d": ["A brief spoken or written comment.", "To say something briefly; to comment."]}
+{"w": "removal", "pos": "noun", "d": ["The act of taking something away or off."]}
+{"w": "repeat", "pos": "verb", "d": ["To say or do something again.", "Something said or done again, such as a broadcast shown a second time."]}
+{"w": "representation", "pos": "noun", "d": ["The act of speaking or acting on behalf of someone.", "Something that stands for or depicts something else, such as a picture or model."]}
+{"w": "reputation", "pos": "noun", "d": ["The opinion that people generally hold about a person or thing."]}
+{"w": "reset", "pos": "verb", "d": ["To set something back to its original state or starting position.", "An act of resetting."]}
+{"w": "resource", "pos": "noun", "d": ["A supply of money, materials, or assets that can be used when needed.", "A source of information or help."]}
+{"w": "restaurant", "pos": "noun", "d": ["A place where meals are prepared and served to customers."]}
+{"w": "retention", "pos": "noun", "d": ["The act of keeping or holding something in place or in memory."]}
+{"w": "revenge", "pos": "noun", "d": ["Harm done to someone in return for harm they caused.", "To inflict harm in return for a wrong; to avenge."]}
+{"w": "rhythm", "pos": "noun", "d": ["A regular pattern of sounds or movements in time, as in music."]}
+{"w": "ridge", "pos": "noun", "d": ["A long, narrow raised line of land along the top of hills or mountains.", "A narrow raised strip on any surface."]}
+{"w": "rising", "pos": "noun", "d": ["The act of getting up or moving upward.", "Increasing in amount or level.", "Present participle of rise."]}
+{"w": "rocket", "pos": "noun", "d": ["A vehicle propelled by burning fuel, used to carry things into space.", "To move upward very quickly."]}
+{"w": "romance", "pos": "noun", "d": ["A feeling of love or strong attraction between people.", "A story centered on love.", "To court or woo someone in a romantic way."]}
+{"w": "rotary", "pos": "adjective", "d": ["Turning around a central point like a wheel.", "A circular intersection where traffic moves in one direction around a central island."]}
+{"w": "row", "pos": "noun", "d": ["A straight line of people or things arranged side by side.", "To propel a boat using oars."]}
+{"w": "run", "pos": "verb", "d": ["To move fast on foot, faster than walking.", "To manage or operate something, such as a business.", "An act of running; also a point scored in baseball."]}
+{"w": "s", "pos": "noun", "d": ["The nineteenth letter of the English alphabet.", "A letter used to form the plural or possessive of most English nouns."]}
+{"w": "sail", "pos": "noun", "d": ["A sheet of strong fabric that catches the wind to move a boat.", "To travel by boat using sails or an engine."]}
+{"w": "salmon", "pos": "noun", "d": ["A large fish with pink flesh that lives in the sea and swims up rivers to spawn."]}
+{"w": "sandy", "pos": "adjective", "d": ["Covered with or containing sand.", "Light yellowish brown in color, like sand."]}
+{"w": "satisfaction", "pos": "noun", "d": ["The pleasant feeling of having one's needs or desires met."]}
+{"w": "saw", "pos": "noun", "d": ["A tool with a toothed blade for cutting wood or other materials.", "Past tense of see."]}
+{"w": "scenic", "pos": "adjective", "d": ["Having beautiful natural views or scenery."]}
+{"w": "scoop", "pos": "noun", "d": ["A deep spoonlike tool used for lifting and serving food or other material.", "An exclusive news story reported before others get it.", "To lift or gather with a scoop."]}
+{"w": "screw", "pos": "noun", "d": ["A metal fastener with a spiral thread that is turned into place.", "To fasten or attach with a screw."]}
+{"w": "searching", "pos": "adjective", "d": ["Thorough and careful in examining something.", "Present participle of search."]}
+{"w": "sector", "pos": "noun", "d": ["A distinct part or division of an economy, society, or area.", "A wedge-shaped part of a circle."]}
+{"w": "seen", "pos": "verb", "d": ["Past participle of see."]}
+{"w": "sen", "pos": "noun", "d": ["A monetary unit of Japan worth one hundredth of a yen."]}
+{"w": "sensitivity", "pos": "noun", "d": ["The quality of being easily affected by or responsive to things.", "The ability to notice and understand other people's feelings."]}
+{"w": "serious", "pos": "adjective", "d": ["Not joking or playful; sincere and thoughtful.", "Dangerous or important enough to require attention."]}
+{"w": "seven", "pos": "noun", "d": ["The number 7, one more than six.", "A playing card or other item marked with seven spots or symbols."]}
+{"w": "shake", "pos": "verb", "d": ["To move something rapidly back and forth or up and down.", "An act of shaking; also a drink made by shaking or blending ingredients."]}
+{"w": "shaw", "pos": "noun", "d": ["A family name.", "A small wood or thicket of trees."]}
+{"w": "shelter", "pos": "noun", "d": ["A place giving protection from weather or danger.", "To provide or take protection from harm."]}
+{"w": "shock", "pos": "noun", "d": ["A sudden, unpleasant surprise.", "A sudden jolt of electricity.", "To surprise or upset someone greatly."]}
+{"w": "should", "pos": "verb", "d": ["A helping verb used to express obligation, expectation, or advice, as in you should rest."]}
+{"w": "sick", "pos": "adjective", "d": ["Suffering from illness; not well.", "Feeling as if one is about to vomit.", "Tired of or bored with something."]}
+{"w": "significance", "pos": "noun", "d": ["The importance or meaning of something."]}
+{"w": "similar", "pos": "adjective", "d": ["Alike in some ways but not identical."]}
+{"w": "single", "pos": "adjective", "d": ["One only; not more than one.", "An unmarried person.", "To pick out one person or thing from a group."]}
+{"w": "situation", "pos": "noun", "d": ["The set of circumstances in which a person or thing exists at a particular time."]}
+{"w": "skirt", "pos": "noun", "d": ["A garment that hangs from the waist and covers the legs partly or fully.", "To go around the edge of something rather than through it."]}
+{"w": "slip", "pos": "verb", "d": ["To slide accidentally and lose one's footing or grip.", "A small or accidental mistake."]}
+{"w": "smith", "pos": "noun", "d": ["A family name.", "A worker in metal, especially one who shapes it by hammering."]}
+{"w": "soap", "pos": "noun", "d": ["A substance used with water for washing and cleaning.", "To wash or rub with soap."]}
+{"w": "soft", "pos": "adjective", "d": ["Easy to press or bend; not hard or firm.", "Quiet and gentle in sound or manner."]}
+{"w": "solo", "pos": "noun", "d": ["A piece of music or a performance done by one person alone.", "Done alone, without others."]}
+{"w": "son", "pos": "noun", "d": ["A male child in relation to his parents."]}
+{"w": "soup", "pos": "noun", "d": ["A liquid food made by cooking meat, vegetables, or other ingredients in water."]}
+{"w": "speak", "pos": "verb", "d": ["To say words aloud; to talk."]}
+{"w": "speech", "pos": "noun", "d": ["The ability to speak; spoken language.", "A formal talk given to an audience."]}
+{"w": "sphere", "pos": "noun", "d": ["A perfectly round three-dimensional shape like a ball.", "An area of activity or influence."]}
+{"w": "spoke", "pos": "noun", "d": ["One of the thin rods connecting the center of a wheel to its rim.", "Past tense of speak."]}
+{"w": "spray", "pos": "noun", "d": ["A fine mist of liquid droplets sent through the air.", "To scatter liquid in fine droplets."]}
+{"w": "stable", "pos": "adjective", "d": ["Firmly fixed and unlikely to change or fall.", "A building where horses are kept."]}
+{"w": "standard", "pos": "noun", "d": ["A level of quality or achievement used as a measure.", "A flag or banner of an organization.", "Usual or normal; widely accepted."]}
+{"w": "status", "pos": "noun", "d": ["The position or condition of something at a particular time.", "A person's relative social or professional standing."]}
+{"w": "stem", "pos": "noun", "d": ["The main stalk of a plant that supports leaves and flowers.", "The narrow part of something, such as the base of a wine glass."]}
+{"w": "stock", "pos": "noun", "d": ["A supply of goods kept on hand for sale or future use.", "Shares that represent ownership in a company.", "A liquid made by boiling meat or vegetables, used as a base for soups."]}
+{"w": "store", "pos": "noun", "d": ["A building or room where goods are sold.", "A supply of something kept for future use."]}
+{"w": "strategic", "pos": "adjective", "d": ["Relating to a long-term plan for reaching an important goal.", "Important for military, business, or competitive advantage."]}
+{"w": "stretch", "pos": "verb", "d": ["To extend the body or a body part to its full length.", "To pull something so that it becomes longer or wider.", "To cover or continue over an area or a period of time."]}
+{"w": "structure", "pos": "noun", "d": ["Something built, such as a building or a bridge.", "The way the parts of something are arranged or organized."]}
+{"w": "style", "pos": "noun", "d": ["A distinctive manner of doing, making, or expressing something.", "The current fashion in clothing, design, or decoration."]}
+{"w": "submission", "pos": "noun", "d": ["Something given or sent for review or judgment.", "The act of yielding to a stronger power or authority.", "A wrestling hold that forces an opponent to give up."]}
+{"w": "substitute", "pos": "noun", "d": ["A person or thing that takes the place of another."]}
+{"w": "suffer", "pos": "verb", "d": ["To experience pain, hardship, or loss.", "To endure or put up with something unpleasant."]}
+{"w": "suite", "pos": "noun", "d": ["A set of connected rooms used together, as in a hotel.", "A set of related computer programs sold or used together."]}
+{"w": "sunrise", "pos": "noun", "d": ["The time in the morning when the sun first appears above the horizon.", "The colors in the sky at that time."]}
+{"w": "suppose", "pos": "verb", "d": ["To assume something is true in order to think about what follows from it.", "To believe that something is probably true."]}
+{"w": "surgical", "pos": "adjective", "d": ["Relating to medical operations on the body.", "Done with extreme precision."]}
+{"w": "survey", "pos": "noun", "d": ["A set of questions asked to gather opinions or information from people.", "A careful examination or inspection of something."]}
+{"w": "sweet", "pos": "adjective", "d": ["Tasting like sugar or honey.", "Kind and pleasant toward other people.", "Loved or dear to someone."]}
+{"w": "symbol", "pos": "noun", "d": ["Something that stands for or represents an idea, quality, or thing.", "A letter, sign, or character that carries a special meaning."]}
+{"w": "synthesis", "pos": "noun", "d": ["The combining of separate parts or ideas into a new whole.", "A substance made by combining chemical elements or compounds."]}
+{"w": "tablet", "pos": "noun", "d": ["A small, flat portable computer operated by touch.", "A small, flat dose of medicine meant to be swallowed.", "A flat slab of stone or clay once used for writing."]}
+{"w": "talk", "pos": "verb", "d": ["To speak in order to communicate with someone.", "To discuss a topic with another person."]}
+{"w": "tar", "pos": "noun", "d": ["A thick, dark, sticky substance made from coal or wood and used for paving roads.", "To cover something with tar."]}
+{"w": "tax", "pos": "noun", "d": ["Money that a government requires people and businesses to pay in order to fund public services.", "A heavy burden or strain placed on something."]}
+{"w": "technique", "pos": "noun", "d": ["A particular way of doing something that requires skill.", "The level of skill a person shows in an activity."]}
+{"w": "telephony", "pos": "noun", "d": ["The technology of telephones and telephone systems."]}
+{"w": "temporarily", "pos": "adverb", "d": ["For a limited time only; not permanently."]}
+{"w": "term", "pos": "noun", "d": ["A word or phrase used to name something, especially in a particular field.", "A fixed period of time, as for holding an office or repaying a loan.", "One of the conditions of an agreement."]}
+{"w": "terrorism", "pos": "noun", "d": ["The use of violence against civilians to create fear and force political change."]}
+{"w": "texture", "pos": "noun", "d": ["The way a surface feels when touched, such as smooth or rough."]}
+{"w": "thee", "pos": "pronoun", "d": ["An old-fashioned word for you, used when speaking to one person."]}
+{"w": "theory", "pos": "noun", "d": ["An explanation of how or why something happens, based on evidence or reasoning.", "A general idea or belief that has not been proven."]}
+{"w": "these", "pos": "pronoun", "d": ["The plural of this, used to point to people or things that are nearby."]}
+{"w": "third", "pos": "adjective", "d": ["Coming after the second in a series.", "One of three equal parts of something."]}
+{"w": "though", "pos": "conjunction", "d": ["Although; used to show that something is true in spite of another fact.", "However, when placed at the end of a sentence."]}
+{"w": "through", "pos": "preposition", "d": ["Moving from one side or end of something to the other.", "During the whole of a period of time.", "By means of something."]}
+{"w": "thursday", "pos": "noun", "d": ["The fifth day of the week, coming after Wednesday."]}
+{"w": "tiger", "pos": "noun", "d": ["A large wild cat with an orange coat and black stripes.", "A fierce or aggressive person."]}
+{"w": "tin", "pos": "noun", "d": ["A soft silvery metal used for cans and containers.", "A metal container used for food."]}
+{"w": "to", "pos": "preposition", "d": ["Used to show movement toward a person, place, or thing.", "Used to show the receiver of an action.", "Used before a verb to form the infinitive."]}
+{"w": "tom", "pos": "noun", "d": ["A masculine given name."]}
+{"w": "tony", "pos": "noun", "d": ["A masculine given name."]}
+{"w": "total", "pos": "adjective", "d": ["Complete; including everything.", "The combined amount of everything counted together.", "To add up to a particular amount."]}
+{"w": "toxic", "pos": "adjective", "d": ["Poisonous or harmful to living things.", "Very unpleasant or harmful in a relationship or environment."]}
+{"w": "tradition", "pos": "noun", "d": ["A custom or belief passed down from one generation to the next."]}
+{"w": "transcript", "pos": "noun", "d": ["A written record of spoken words, as from a meeting or trial.", "An official record of a student's school grades."]}
+{"w": "translator", "pos": "noun", "d": ["A person or program that changes words from one language into another."]}
+{"w": "travel", "pos": "verb", "d": ["To go from one place to another.", "To move at a particular speed."]}
+{"w": "tremendous", "pos": "adjective", "d": ["Extremely large in size or amount.", "Extremely good or impressive."]}
+{"w": "tribute", "pos": "noun", "d": ["Something done or given to show respect or admiration for someone.", "A payment made to a ruler or authority as a sign of submission."]}
+{"w": "triumph", "pos": "noun", "d": ["A great victory or success.", "To win or succeed in a great way."]}
+{"w": "trust", "pos": "noun", "d": ["Firm belief in the honesty or reliability of someone or something.", "To believe that someone or something is honest and reliable."]}
+{"w": "tuesday", "pos": "noun", "d": ["The third day of the week, coming after Monday."]}
+{"w": "turkey", "pos": "noun", "d": ["A large bird raised for its meat, often eaten at holiday meals.", "The country in southeastern Europe and southwestern Asia."]}
+{"w": "twice", "pos": "adverb", "d": ["Two times; on two occasions."]}
+{"w": "ultimate", "pos": "adjective", "d": ["Being the final or best of its kind.", "The greatest possible; most extreme."]}
+{"w": "unexpected", "pos": "adjective", "d": ["Not expected; happening without warning."]}
+{"w": "university", "pos": "noun", "d": ["A school of higher education that awards degrees."]}
+{"w": "until", "pos": "preposition", "d": ["Up to the time of; continuing to a specified point in time.", "Up to the time when something happens."]}
+{"w": "ur", "pos": "noun", "d": ["An ancient city in Mesopotamia, in what is now Iraq."]}
+{"w": "user", "pos": "noun", "d": ["A person who uses something, especially a computer program or service."]}
+{"w": "vaccine", "pos": "noun", "d": ["A substance given to protect a person against a disease by building up immunity."]}
+{"w": "valve", "pos": "noun", "d": ["A device that controls the flow of liquid or gas through a pipe.", "A flap in the heart or a vein that keeps blood flowing in one direction."]}
+{"w": "vat", "pos": "noun", "d": ["A large container or tank for holding liquids."]}
+{"w": "velocity", "pos": "noun", "d": ["The speed of something in a given direction."]}
+{"w": "version", "pos": "noun", "d": ["A particular form of something that differs from other forms of it.", "A description of an event from one person's point of view."]}
+{"w": "vice", "pos": "noun", "d": ["A bad habit or morally wrong practice.", "A tool with jaws that clamp something firmly in place.", "Used before a title to mean second in rank or acting as deputy."]}
+{"w": "villa", "pos": "noun", "d": ["A large country house, especially in Italy or Spain."]}
+{"w": "virus", "pos": "noun", "d": ["A tiny germ that can only reproduce inside living cells and causes disease.", "Harmful computer code that spreads from one computer to another."]}
+{"w": "vista", "pos": "noun", "d": ["A wide, pleasant view, especially of scenery."]}
+{"w": "voltage", "pos": "noun", "d": ["The force that pushes electric current through a circuit."]}
+{"w": "wage", "pos": "noun", "d": ["Money paid to a worker, usually by the hour or by the week.", "To carry on a war or campaign against something."]}
+{"w": "wall", "pos": "noun", "d": ["A solid upright structure that divides or encloses a space.", "To block off with a wall."]}
+{"w": "ward", "pos": "noun", "d": ["A separate section of a hospital.", "A child placed under the care of a guardian.", "To guard against something."]}
+{"w": "warren", "pos": "noun", "d": ["A network of connected rabbit burrows.", "A crowded, maze-like place.", "A masculine given name."]}
+{"w": "water", "pos": "noun", "d": ["The clear liquid that fills oceans, lakes, and rivers and that all living things need.", "To pour water on plants."]}
+{"w": "weapon", "pos": "noun", "d": ["An object, such as a gun or knife, used to fight or to cause harm."]}
+{"w": "wednesday", "pos": "noun", "d": ["The fourth day of the week, coming after Tuesday."]}
+{"w": "welsh", "pos": "adjective", "d": ["Of or relating to Wales, its people, or its language.", "The Celtic language spoken in Wales."]}
+{"w": "wheat", "pos": "noun", "d": ["A grain crop used to make flour for bread and other foods."]}
+{"w": "whilst", "pos": "conjunction", "d": ["A chiefly British word meaning while."]}
+{"w": "width", "pos": "noun", "d": ["The measurement of something from one side to the other."]}
+{"w": "window", "pos": "noun", "d": ["An opening in a wall fitted with glass, used to let in light and air.", "A period of time during which something can be done.", "An area on a computer screen that shows one program or document."]}
+{"w": "wisdom", "pos": "noun", "d": ["Good judgment gained through knowledge and experience."]}
+{"w": "without", "pos": "preposition", "d": ["Not having or using something.", "Not doing an action."]}
+{"w": "wood", "pos": "noun", "d": ["The hard material that makes up trees, used for building and fuel.", "An area of land covered with trees."]}
+{"w": "worn", "pos": "adjective", "d": ["Damaged or thinned by much use.", "Past participle of wear."]}
+{"w": "wound", "pos": "noun", "d": ["An injury to the body where the skin is cut or broken.", "Past tense and past participle of wind."]}
+{"w": "wrote", "pos": "verb", "d": ["Past tense of write."]}
+{"w": "yard", "pos": "noun", "d": ["A unit of length equal to three feet.", "The ground around a house."]}
+{"w": "yes", "pos": "interjection", "d": ["Used to give a positive answer or to show agreement.", "Used to express excitement or satisfaction."]}
+{"w": "your", "pos": "pronoun", "d": ["The possessive form of you, showing that something belongs to the person being spoken to."]}
+{"w": "zone", "pos": "noun", "d": ["An area set apart for a particular purpose or marked by a particular quality.", "One of the regions into which the earth is divided for measuring time."]}

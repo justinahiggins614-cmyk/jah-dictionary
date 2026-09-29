@@ -1,0 +1,577 @@
+{"w": "ability", "pos": "noun", "d": ["The power or skill to do something."], "src": "iwb"}
+{"w": "absent", "pos": "adjective", "d": ["Not present in a place.", "Showing lack of attention."], "src": "iwb"}
+{"w": "accept", "pos": "verb", "d": ["To take something offered.", "To agree to or approve something."], "src": "iwb"}
+{"w": "account", "pos": "noun", "d": ["A record of money kept with a bank or business.", "A description or report of events."], "src": "iwb"}
+{"w": "acquire", "pos": "verb", "d": ["To gain or get something, especially by effort."], "src": "iwb"}
+{"w": "action", "pos": "noun", "d": ["Something done; a deed.", "A lawsuit or legal proceeding."], "src": "iwb"}
+{"w": "add", "pos": "verb", "d": ["To join one thing to another.", "To find the total of numbers."], "src": "iwb"}
+{"w": "administrative", "pos": "adjective", "d": ["Relating to the management of an organization."], "src": "iwb"}
+{"w": "adoption", "pos": "noun", "d": ["The act of legally taking a child into one's family.", "The act of taking up an idea or practice."], "src": "iwb"}
+{"w": "advice", "pos": "noun", "d": ["An opinion about what should be done."], "src": "iwb"}
+{"w": "affecting", "pos": "verb", "d": ["Present participle of affect."], "src": "iwb"}
+{"w": "against", "pos": "preposition", "d": ["In opposition to.", "In contact with."], "src": "iwb"}
+{"w": "agricultural", "pos": "adjective", "d": ["Relating to farming."], "src": "iwb"}
+{"w": "aircraft", "pos": "noun", "d": ["A machine that flies, such as an airplane."], "src": "iwb"}
+{"w": "algebra", "pos": "noun", "d": ["A branch of mathematics using letters for unknown numbers."], "src": "iwb"}
+{"w": "allah", "pos": "noun", "d": ["The name of God in Islam."], "src": "iwb"}
+{"w": "alpha", "pos": "noun", "d": ["The first letter of the Greek alphabet."], "src": "iwb"}
+{"w": "alto", "pos": "noun", "d": ["The lowest female singing voice."], "src": "iwb"}
+{"w": "ambient", "pos": "adjective", "d": ["Surrounding; relating to the immediate environment."], "src": "iwb"}
+{"w": "ana", "pos": "noun", "d": ["A feminine given name, a variant of Anna."], "src": "iwb"}
+{"w": "angel", "pos": "noun", "d": ["A heavenly messenger in religious belief.", "A very kind person."], "src": "iwb"}
+{"w": "ann", "pos": "noun", "d": ["A feminine given name."], "src": "iwb"}
+{"w": "another", "pos": "pronoun", "d": ["One more person or thing of the same kind."], "src": "iwb"}
+{"w": "any", "pos": "pronoun", "d": ["One or some, no matter which."], "src": "iwb"}
+{"w": "apparatus", "pos": "noun", "d": ["Equipment for a particular purpose."], "src": "iwb"}
+{"w": "applicable", "pos": "adjective", "d": ["Relevant or appropriate to a situation."], "src": "iwb"}
+{"w": "appropriate", "pos": "adjective", "d": ["Suitable or proper."], "src": "iwb"}
+{"w": "aquatic", "pos": "adjective", "d": ["Living or growing in water."], "src": "iwb"}
+{"w": "arch", "pos": "noun", "d": ["A curved structure spanning an opening."], "src": "iwb"}
+{"w": "argue", "pos": "verb", "d": ["To give reasons for or against something.", "To quarrel verbally."], "src": "iwb"}
+{"w": "around", "pos": "preposition", "d": ["On all sides of.", "Approximately."], "src": "iwb"}
+{"w": "arthritis", "pos": "noun", "d": ["Painful inflammation of the joints."], "src": "iwb"}
+{"w": "asian", "pos": "adjective", "d": ["Of or relating to Asia or its peoples."], "src": "iwb"}
+{"w": "assess", "pos": "verb", "d": ["To estimate the value or quality of something."], "src": "iwb"}
+{"w": "assumption", "pos": "noun", "d": ["Something taken for granted without proof."], "src": "iwb"}
+{"w": "ate", "pos": "verb", "d": ["Past tense of eat."], "src": "iwb"}
+{"w": "attempt", "pos": "verb", "d": ["To try to do something."], "src": "iwb"}
+{"w": "auburn", "pos": "adjective", "d": ["Reddish brown in color, especially of hair."], "src": "iwb"}
+{"w": "australian", "pos": "noun", "d": ["A native or citizen of Australia."], "src": "iwb"}
+{"w": "avenue", "pos": "noun", "d": ["A wide street, often lined with trees."], "src": "iwb"}
+{"w": "awful", "pos": "adjective", "d": ["Very bad or unpleasant."], "src": "iwb"}
+{"w": "back", "pos": "noun", "d": ["The rear part of the body.", "The side opposite the front."], "src": "iwb"}
+{"w": "bag", "pos": "noun", "d": ["A container of flexible material for holding things."], "src": "iwb"}
+{"w": "ban", "pos": "verb", "d": ["To forbid officially."], "src": "iwb"}
+{"w": "baptist", "pos": "noun", "d": ["A member of a Protestant church practicing baptism by immersion."], "src": "iwb"}
+{"w": "barry", "pos": "noun", "d": ["A masculine given name."], "src": "iwb"}
+{"w": "batch", "pos": "noun", "d": ["A group of things made or handled together."], "src": "iwb"}
+{"w": "beam", "pos": "noun", "d": ["A long piece of wood or metal used in building.", "A ray of light."], "src": "iwb"}
+{"w": "beaver", "pos": "noun", "d": ["A large rodent that builds dams."], "src": "iwb"}
+{"w": "beef", "pos": "noun", "d": ["Meat from cattle."], "src": "iwb"}
+{"w": "behalf", "pos": "noun", "d": ["Used in 'on behalf of,' meaning in the interest of or as representative of."], "src": "iwb"}
+{"w": "belly", "pos": "noun", "d": ["The stomach area of the body."], "src": "iwb"}
+{"w": "benefit", "pos": "noun", "d": ["An advantage or helpful effect."], "src": "iwb"}
+{"w": "beta", "pos": "noun", "d": ["The second letter of the Greek alphabet.", "A test version of software released before the final version."], "src": "iwb"}
+{"w": "bible", "pos": "noun", "d": ["The sacred writings of Christianity.", "Any book regarded as authoritative."], "src": "iwb"}
+{"w": "biggest", "pos": "adjective", "d": ["Superlative of big."], "src": "iwb"}
+{"w": "bind", "pos": "verb", "d": ["To tie or fasten together."], "src": "iwb"}
+{"w": "bit", "pos": "noun", "d": ["A small piece of something.", "A single binary digit, 0 or 1."], "src": "iwb"}
+{"w": "blast", "pos": "noun", "d": ["A strong gust of wind or explosion."], "src": "iwb"}
+{"w": "blonde", "pos": "adjective", "d": ["Having light-colored hair."], "src": "iwb"}
+{"w": "boating", "pos": "noun", "d": ["The activity of traveling by boat for pleasure."], "src": "iwb"}
+{"w": "bond", "pos": "noun", "d": ["A connection between people.", "A certificate of debt issued by a company or government."], "src": "iwb"}
+{"w": "booty", "pos": "noun", "d": ["Stolen goods; loot.", "Slang for the buttocks."], "src": "iwb"}
+{"w": "bottom", "pos": "noun", "d": ["The lowest part of something."], "src": "iwb"}
+{"w": "bowling", "pos": "noun", "d": ["A game of rolling a ball to knock down pins."], "src": "iwb"}
+{"w": "brake", "pos": "noun", "d": ["A device for slowing or stopping a vehicle."], "src": "iwb"}
+{"w": "break", "pos": "verb", "d": ["To separate into pieces.", "To stop working."], "src": "iwb"}
+{"w": "bridge", "pos": "noun", "d": ["A structure built over a river or road for crossing."], "src": "iwb"}
+{"w": "broke", "pos": "verb", "d": ["Past tense of break."], "src": "iwb"}
+{"w": "brussels", "pos": "noun", "d": ["The capital city of Belgium.", "Short for Brussels sprouts."], "src": "iwb"}
+{"w": "built", "pos": "verb", "d": ["Past tense and past participle of build."], "src": "iwb"}
+{"w": "bunny", "pos": "noun", "d": ["A rabbit, especially a young one."], "src": "iwb"}
+{"w": "burton", "pos": "noun", "d": ["A masculine given name."], "src": "iwb"}
+{"w": "butterfly", "pos": "noun", "d": ["A flying insect with large colorful wings."], "src": "iwb"}
+{"w": "cab", "pos": "noun", "d": ["A taxi.", "The enclosed part of a truck where the driver sits."], "src": "iwb"}
+{"w": "cage", "pos": "noun", "d": ["A structure of bars for confining animals."], "src": "iwb"}
+{"w": "calibration", "pos": "noun", "d": ["The act of adjusting a measuring instrument for accuracy."], "src": "iwb"}
+{"w": "camp", "pos": "noun", "d": ["A place with tents or shelters for temporary living."], "src": "iwb"}
+{"w": "cancel", "pos": "verb", "d": ["To call off or stop something planned."], "src": "iwb"}
+{"w": "canvas", "pos": "noun", "d": ["A strong cloth used for tents, sails, and painting."], "src": "iwb"}
+{"w": "capitol", "pos": "noun", "d": ["The building where a legislature meets."], "src": "iwb"}
+{"w": "cargo", "pos": "noun", "d": ["Goods carried by a ship, plane, or truck."], "src": "iwb"}
+{"w": "cart", "pos": "noun", "d": ["A small vehicle with wheels for carrying loads."], "src": "iwb"}
+{"w": "castle", "pos": "noun", "d": ["A large fortified building of former times."], "src": "iwb"}
+{"w": "cattle", "pos": "noun", "d": ["Cows and bulls raised on a farm or ranch."], "src": "iwb"}
+{"w": "celebrate", "pos": "verb", "d": ["To mark an event with festivities."], "src": "iwb"}
+{"w": "cent", "pos": "noun", "d": ["A coin worth one hundredth of a dollar."], "src": "iwb"}
+{"w": "certification", "pos": "noun", "d": ["Official proof that something meets a standard."], "src": "iwb"}
+{"w": "chance", "pos": "noun", "d": ["A possibility of something happening.", "Luck or fortune."], "src": "iwb"}
+{"w": "characterization", "pos": "noun", "d": ["The act of describing the qualities of something."], "src": "iwb"}
+{"w": "chase", "pos": "verb", "d": ["To run after in order to catch."], "src": "iwb"}
+{"w": "chemistry", "pos": "noun", "d": ["The science of substances and their changes."], "src": "iwb"}
+{"w": "chief", "pos": "noun", "d": ["The leader of a group."], "src": "iwb"}
+{"w": "choir", "pos": "noun", "d": ["A group of singers performing together."], "src": "iwb"}
+{"w": "chrome", "pos": "noun", "d": ["A shiny plating of chromium on metal.", "A popular web browser made by Google."], "src": "iwb"}
+{"w": "circular", "pos": "adjective", "d": ["Round like a circle.", "Sent to many people, as a notice."], "src": "iwb"}
+{"w": "civic", "pos": "adjective", "d": ["Relating to a city or its citizens."], "src": "iwb"}
+{"w": "class", "pos": "noun", "d": ["A group of students taught together.", "A category or rank."], "src": "iwb"}
+{"w": "click", "pos": "verb", "d": ["To press a computer mouse button.", "To make a short sharp sound."], "src": "iwb"}
+{"w": "clock", "pos": "noun", "d": ["A device that shows the time."], "src": "iwb"}
+{"w": "cluster", "pos": "noun", "d": ["A group of things close together."], "src": "iwb"}
+{"w": "coffee", "pos": "noun", "d": ["A hot drink made from roasted beans."], "src": "iwb"}
+{"w": "collapse", "pos": "verb", "d": ["To fall down suddenly."], "src": "iwb"}
+{"w": "colon", "pos": "noun", "d": ["A punctuation mark (:).", "The main part of the large intestine."], "src": "iwb"}
+{"w": "come", "pos": "verb", "d": ["To move toward the speaker."], "src": "iwb"}
+{"w": "commission", "pos": "noun", "d": ["A group given authority to do a task.", "A fee paid for selling something."], "src": "iwb"}
+{"w": "community", "pos": "noun", "d": ["People living in one area.", "A group with shared interests."], "src": "iwb"}
+{"w": "compatibility", "pos": "noun", "d": ["The ability of things to work together."], "src": "iwb"}
+{"w": "compile", "pos": "verb", "d": ["To gather information into a list.", "To turn computer code into a working program."], "src": "iwb"}
+{"w": "comply", "pos": "verb", "d": ["To act according to a rule or request."], "src": "iwb"}
+{"w": "compute", "pos": "verb", "d": ["To calculate."], "src": "iwb"}
+{"w": "conclusion", "pos": "noun", "d": ["An ending or final decision.", "A judgment reached by reasoning."], "src": "iwb"}
+{"w": "configure", "pos": "verb", "d": ["To set up equipment or software for use."], "src": "iwb"}
+{"w": "connection", "pos": "noun", "d": ["A link between things."], "src": "iwb"}
+{"w": "conservative", "pos": "adjective", "d": ["Favoring tradition and cautious change."], "src": "iwb"}
+{"w": "constant", "pos": "adjective", "d": ["Happening all the time; unchanging."], "src": "iwb"}
+{"w": "contact", "pos": "noun", "d": ["Communication or touching."], "src": "iwb"}
+{"w": "continue", "pos": "verb", "d": ["To keep going without stopping."], "src": "iwb"}
+{"w": "contribution", "pos": "noun", "d": ["Something given to help a cause."], "src": "iwb"}
+{"w": "convergence", "pos": "noun", "d": ["The act of coming together at a point."], "src": "iwb"}
+{"w": "cooling", "pos": "verb", "d": ["Present participle of cool."], "src": "iwb"}
+{"w": "copy", "pos": "noun", "d": ["A duplicate of an original."], "src": "iwb"}
+{"w": "corporate", "pos": "adjective", "d": ["Relating to a corporation."], "src": "iwb"}
+{"w": "corresponding", "pos": "verb", "d": ["Present participle of correspond."], "src": "iwb"}
+{"w": "could", "pos": "verb", "d": ["Past tense of can, expressing ability or possibility."], "src": "iwb"}
+{"w": "courage", "pos": "noun", "d": ["Bravery in facing danger."], "src": "iwb"}
+{"w": "cow", "pos": "noun", "d": ["A female bovine animal kept for milk."], "src": "iwb"}
+{"w": "create", "pos": "verb", "d": ["To bring into existence."], "src": "iwb"}
+{"w": "cricket", "pos": "noun", "d": ["A jumping insect that chirps.", "A bat-and-ball game popular in England."], "src": "iwb"}
+{"w": "crossing", "pos": "noun", "d": ["A place where people or vehicles cross."], "src": "iwb"}
+{"w": "cube", "pos": "noun", "d": ["A solid with six square faces."], "src": "iwb"}
+{"w": "curious", "pos": "adjective", "d": ["Eager to learn or know."], "src": "iwb"}
+{"w": "cut", "pos": "verb", "d": ["To divide with a sharp edge."], "src": "iwb"}
+{"w": "dad", "pos": "noun", "d": ["One's father, used as a familiar term."], "src": "iwb"}
+{"w": "dame", "pos": "noun", "d": ["A British title of honor for a woman, equal to Sir."], "src": "iwb"}
+{"w": "data", "pos": "noun", "d": ["Facts and figures collected for analysis."], "src": "iwb"}
+{"w": "dealing", "pos": "verb", "d": ["Present participle of deal."], "src": "iwb"}
+{"w": "december", "pos": "noun", "d": ["The twelfth month of the year."], "src": "iwb"}
+{"w": "decline", "pos": "verb", "d": ["To refuse politely.", "To become less or worse."], "src": "iwb"}
+{"w": "defend", "pos": "verb", "d": ["To protect from attack."], "src": "iwb"}
+{"w": "degree", "pos": "noun", "d": ["A unit for measuring temperature or angles.", "A title given by a college."], "src": "iwb"}
+{"w": "deliver", "pos": "verb", "d": ["To bring and hand over."], "src": "iwb"}
+{"w": "demonstration", "pos": "noun", "d": ["A public show of feeling, often a protest.", "An explanation by showing how something works."], "src": "iwb"}
+{"w": "dependence", "pos": "noun", "d": ["Reliance on someone or something."], "src": "iwb"}
+{"w": "descending", "pos": "verb", "d": ["Present participle of descend."], "src": "iwb"}
+{"w": "designing", "pos": "verb", "d": ["Present participle of design."], "src": "iwb"}
+{"w": "destruction", "pos": "noun", "d": ["The act of destroying."], "src": "iwb"}
+{"w": "developer", "pos": "noun", "d": ["A person who builds software or property."], "src": "iwb"}
+{"w": "diagram", "pos": "noun", "d": ["A drawing that explains something."], "src": "iwb"}
+{"w": "did", "pos": "verb", "d": ["Past tense of do."], "src": "iwb"}
+{"w": "digit", "pos": "noun", "d": ["Any of the numerals 0 through 9."], "src": "iwb"}
+{"w": "direction", "pos": "noun", "d": ["The way toward which something points or moves."], "src": "iwb"}
+{"w": "disaster", "pos": "noun", "d": ["A sudden event causing great damage."], "src": "iwb"}
+{"w": "discount", "pos": "noun", "d": ["A reduction in price."], "src": "iwb"}
+{"w": "disease", "pos": "noun", "d": ["An illness affecting the body."], "src": "iwb"}
+{"w": "dispute", "pos": "noun", "d": ["A disagreement or argument."], "src": "iwb"}
+{"w": "district", "pos": "noun", "d": ["An area of a city or region."], "src": "iwb"}
+{"w": "do", "pos": "verb", "d": ["To perform an action."], "src": "iwb"}
+{"w": "does", "pos": "verb", "d": ["Third-person singular of do."], "src": "iwb"}
+{"w": "domestic", "pos": "adjective", "d": ["Relating to the home or one's own country."], "src": "iwb"}
+{"w": "donor", "pos": "noun", "d": ["One who gives something, such as blood or money."], "src": "iwb"}
+{"w": "dow", "pos": "noun", "d": ["Short for the Dow Jones Industrial Average, a U.S. stock market index."], "src": "iwb"}
+{"w": "drama", "pos": "noun", "d": ["A play for the stage.", "Exciting or emotional events."], "src": "iwb"}
+{"w": "drew", "pos": "verb", "d": ["Past tense of draw."], "src": "iwb"}
+{"w": "drop", "pos": "verb", "d": ["To let fall."], "src": "iwb"}
+{"w": "duck", "pos": "noun", "d": ["A water bird with a broad bill."], "src": "iwb"}
+{"w": "durable", "pos": "adjective", "d": ["Lasting a long time without wearing out."], "src": "iwb"}
+{"w": "e", "pos": "noun", "d": ["The fifth letter of the English alphabet."], "src": "iwb"}
+{"w": "earth", "pos": "noun", "d": ["The planet we live on.", "Soil or ground."], "src": "iwb"}
+{"w": "ebony", "pos": "noun", "d": ["A hard, dark wood from tropical trees."], "src": "iwb"}
+{"w": "edition", "pos": "noun", "d": ["A particular version of a book or newspaper."], "src": "iwb"}
+{"w": "egyptian", "pos": "noun", "d": ["A native of Egypt."], "src": "iwb"}
+{"w": "electro", "pos": "noun", "d": ["A style of electronic dance music."], "src": "iwb"}
+{"w": "eligible", "pos": "adjective", "d": ["Qualified to be chosen or to do something."], "src": "iwb"}
+{"w": "emergency", "pos": "noun", "d": ["A sudden serious situation needing quick action."], "src": "iwb"}
+{"w": "en", "pos": "noun", "d": ["The name of the letter N, used in the term en dash."], "src": "iwb"}
+{"w": "endless", "pos": "adjective", "d": ["Having no end."], "src": "iwb"}
+{"w": "enjoy", "pos": "verb", "d": ["To take pleasure in."], "src": "iwb"}
+{"w": "entire", "pos": "adjective", "d": ["Whole; complete."], "src": "iwb"}
+{"w": "epic", "pos": "adjective", "d": ["Grand in scale; heroic."], "src": "iwb"}
+{"w": "eric", "pos": "noun", "d": ["A masculine given name."], "src": "iwb"}
+{"w": "estate", "pos": "noun", "d": ["A large area of land with a house.", "All of a person's property after death."], "src": "iwb"}
+{"w": "evaluation", "pos": "noun", "d": ["An assessment of value or quality."], "src": "iwb"}
+{"w": "everyday", "pos": "adjective", "d": ["Commonplace; suitable for daily use."], "src": "iwb"}
+{"w": "examine", "pos": "verb", "d": ["To inspect closely."], "src": "iwb"}
+{"w": "excess", "pos": "noun", "d": ["More than is needed."], "src": "iwb"}
+{"w": "executive", "pos": "noun", "d": ["A person with high managerial rank."], "src": "iwb"}
+{"w": "exit", "pos": "noun", "d": ["A way out."], "src": "iwb"}
+{"w": "expensive", "pos": "adjective", "d": ["Costing a lot of money."], "src": "iwb"}
+{"w": "exploration", "pos": "noun", "d": ["The act of traveling to discover new things."], "src": "iwb"}
+{"w": "extension", "pos": "noun", "d": ["An added part; extra time given."], "src": "iwb"}
+{"w": "eye", "pos": "noun", "d": ["The organ of sight."], "src": "iwb"}
+{"w": "facial", "pos": "adjective", "d": ["Of or for the face."], "src": "iwb"}
+{"w": "fail", "pos": "verb", "d": ["To not succeed."], "src": "iwb"}
+{"w": "falling", "pos": "verb", "d": ["Present participle of fall."], "src": "iwb"}
+{"w": "fantasy", "pos": "noun", "d": ["Imagination; a story of magical events."], "src": "iwb"}
+{"w": "fatal", "pos": "adjective", "d": ["Causing death."], "src": "iwb"}
+{"w": "feat", "pos": "noun", "d": ["A remarkable achievement."], "src": "iwb"}
+{"w": "feeding", "pos": "verb", "d": ["Present participle of feed."], "src": "iwb"}
+{"w": "fence", "pos": "noun", "d": ["A barrier enclosing an area."], "src": "iwb"}
+{"w": "fiction", "pos": "noun", "d": ["Stories invented by the imagination."], "src": "iwb"}
+{"w": "figure", "pos": "noun", "d": ["A number or amount.", "The shape of a person."], "src": "iwb"}
+{"w": "final", "pos": "adjective", "d": ["Last; coming at the end."], "src": "iwb"}
+{"w": "finish", "pos": "verb", "d": ["To complete or end."], "src": "iwb"}
+{"w": "fist", "pos": "noun", "d": ["A hand with fingers closed tightly."], "src": "iwb"}
+{"w": "flame", "pos": "noun", "d": ["The glowing part of a fire."], "src": "iwb"}
+{"w": "flex", "pos": "verb", "d": ["To bend."], "src": "iwb"}
+{"w": "flooring", "pos": "noun", "d": ["Material used to make floors."], "src": "iwb"}
+{"w": "flush", "pos": "verb", "d": ["To clean with a rush of water.", "To become red in the face."], "src": "iwb"}
+{"w": "focus", "pos": "noun", "d": ["The center of attention.", "Sharpness of an image."], "src": "iwb"}
+{"w": "food", "pos": "noun", "d": ["What people and animals eat."], "src": "iwb"}
+{"w": "forest", "pos": "noun", "d": ["A large area of trees."], "src": "iwb"}
+{"w": "form", "pos": "noun", "d": ["Shape or structure.", "A printed document with blanks to fill."], "src": "iwb"}
+{"w": "forty", "pos": "noun", "d": ["The number 40."], "src": "iwb"}
+{"w": "found", "pos": "verb", "d": ["Past tense and past participle of find."], "src": "iwb"}
+{"w": "franchise", "pos": "noun", "d": ["The right to vote.", "A licensed branch of a business."], "src": "iwb"}
+{"w": "freight", "pos": "noun", "d": ["Goods transported in bulk."], "src": "iwb"}
+{"w": "frog", "pos": "noun", "d": ["A small jumping amphibian."], "src": "iwb"}
+{"w": "fuel", "pos": "noun", "d": ["Material burned for energy."], "src": "iwb"}
+{"w": "funk", "pos": "noun", "d": ["A style of dance music with a strong bass rhythm.", "A sad or depressed mood."], "src": "iwb"}
+{"w": "fuzzy", "pos": "adjective", "d": ["Covered with soft fine hairs.", "Blurred or unclear."], "src": "iwb"}
+{"w": "game", "pos": "noun", "d": ["An activity with rules played for fun."], "src": "iwb"}
+{"w": "gardening", "pos": "noun", "d": ["The activity of tending a garden."], "src": "iwb"}
+{"w": "gauge", "pos": "noun", "d": ["A measuring instrument.", "The width of a railroad track."], "src": "iwb"}
+{"w": "general", "pos": "adjective", "d": ["Not specific; relating to all."], "src": "iwb"}
+{"w": "genre", "pos": "noun", "d": ["A category of art or literature."], "src": "iwb"}
+{"w": "german", "pos": "noun", "d": ["The language of Germany and Austria.", "A native of Germany."], "src": "iwb"}
+{"w": "gig", "pos": "noun", "d": ["A paid musical performance.", "Short for gigabyte."], "src": "iwb"}
+{"w": "globe", "pos": "noun", "d": ["A sphere showing the earth.", "The earth itself."], "src": "iwb"}
+{"w": "goat", "pos": "noun", "d": ["A horned farm animal related to sheep."], "src": "iwb"}
+{"w": "gossip", "pos": "noun", "d": ["Casual talk about other people."], "src": "iwb"}
+{"w": "grade", "pos": "noun", "d": ["A mark showing quality of schoolwork.", "A year of school."], "src": "iwb"}
+{"w": "graphic", "pos": "adjective", "d": ["Relating to visual images.", "Described in vivid detail."], "src": "iwb"}
+{"w": "greek", "pos": "noun", "d": ["The language of Greece.", "A native of Greece."], "src": "iwb"}
+{"w": "grocery", "pos": "noun", "d": ["A store selling food."], "src": "iwb"}
+{"w": "growth", "pos": "noun", "d": ["The process of growing."], "src": "iwb"}
+{"w": "guild", "pos": "noun", "d": ["An association of craftsmen from former times."], "src": "iwb"}
+{"w": "h", "pos": "noun", "d": ["The eighth letter of the English alphabet."], "src": "iwb"}
+{"w": "hall", "pos": "noun", "d": ["A large room or corridor."], "src": "iwb"}
+{"w": "handy", "pos": "adjective", "d": ["Useful; skilled with the hands."], "src": "iwb"}
+{"w": "harm", "pos": "noun", "d": ["Injury or damage."], "src": "iwb"}
+{"w": "hate", "pos": "verb", "d": ["To dislike intensely."], "src": "iwb"}
+{"w": "head", "pos": "noun", "d": ["The top part of the body.", "The leader of a group."], "src": "iwb"}
+{"w": "hearing", "pos": "noun", "d": ["The sense of perceiving sound.", "A legal proceeding to hear evidence."], "src": "iwb"}
+{"w": "heavy", "pos": "adjective", "d": ["Weighing a lot."], "src": "iwb"}
+{"w": "help", "pos": "verb", "d": ["To assist."], "src": "iwb"}
+{"w": "hereby", "pos": "adverb", "d": ["By this means; as a result of this."], "src": "iwb"}
+{"w": "hierarchy", "pos": "noun", "d": ["A ranking of people or things by importance."], "src": "iwb"}
+{"w": "hip", "pos": "noun", "d": ["The side of the body above the thigh."], "src": "iwb"}
+{"w": "ho", "pos": "interjection", "d": ["An exclamation of laughter or derision, like a jolly laugh."], "src": "iwb"}
+{"w": "hollow", "pos": "adjective", "d": ["Empty inside."], "src": "iwb"}
+{"w": "hood", "pos": "noun", "d": ["A loose covering for the head.", "Slang for neighborhood."], "src": "iwb"}
+{"w": "horrible", "pos": "adjective", "d": ["Causing horror; very bad."], "src": "iwb"}
+{"w": "hot", "pos": "adjective", "d": ["Having high temperature."], "src": "iwb"}
+{"w": "hull", "pos": "noun", "d": ["The main body of a ship."], "src": "iwb"}
+{"w": "hunting", "pos": "noun", "d": ["The activity of chasing game animals."], "src": "iwb"}
+{"w": "i", "pos": "pronoun", "d": ["The word used by a speaker to refer to himself or herself."], "src": "iwb"}
+{"w": "identify", "pos": "verb", "d": ["To recognize as being a certain person or thing."], "src": "iwb"}
+{"w": "illinois", "pos": "noun", "d": ["A state in the Midwestern United States."], "src": "iwb"}
+{"w": "immigration", "pos": "noun", "d": ["Coming into a country to live."], "src": "iwb"}
+{"w": "impossible", "pos": "adjective", "d": ["Not able to happen."], "src": "iwb"}
+{"w": "incentive", "pos": "noun", "d": ["Something that encourages action."], "src": "iwb"}
+{"w": "incoming", "pos": "adjective", "d": ["Arriving; about to come in."], "src": "iwb"}
+{"w": "indeed", "pos": "adverb", "d": ["Truly; certainly."], "src": "iwb"}
+{"w": "indirect", "pos": "adjective", "d": ["Not direct."], "src": "iwb"}
+{"w": "infant", "pos": "noun", "d": ["A very young child; a baby."], "src": "iwb"}
+{"w": "information", "pos": "noun", "d": ["Knowledge or facts about something."], "src": "iwb"}
+{"w": "ink", "pos": "noun", "d": ["Colored liquid used for writing."], "src": "iwb"}
+{"w": "insert", "pos": "verb", "d": ["To put into."], "src": "iwb"}
+{"w": "install", "pos": "verb", "d": ["To set up for use."], "src": "iwb"}
+{"w": "instructor", "pos": "noun", "d": ["A teacher."], "src": "iwb"}
+{"w": "integration", "pos": "noun", "d": ["The act of combining into a whole."], "src": "iwb"}
+{"w": "intensive", "pos": "adjective", "d": ["Concentrated and thorough."], "src": "iwb"}
+{"w": "interim", "pos": "noun", "d": ["An intervening period of time."], "src": "iwb"}
+{"w": "invalid", "pos": "adjective", "d": ["Not valid; without legal force."], "src": "iwb"}
+{"w": "invisible", "pos": "adjective", "d": ["Not able to be seen."], "src": "iwb"}
+{"w": "iran", "pos": "noun", "d": ["A country in southwestern Asia, formerly called Persia."], "src": "iwb"}
+{"w": "isolation", "pos": "noun", "d": ["Separation from others."], "src": "iwb"}
+{"w": "ivory", "pos": "noun", "d": ["The hard white material of elephant tusks.", "A creamy white color."], "src": "iwb"}
+{"w": "jam", "pos": "noun", "d": ["A sweet spread made from fruit.", "A difficult situation."], "src": "iwb"}
+{"w": "java", "pos": "noun", "d": ["A programming language for building applications.", "An island of Indonesia.", "Slang for coffee."], "src": "iwb"}
+{"w": "jewel", "pos": "noun", "d": ["A precious stone."], "src": "iwb"}
+{"w": "john", "pos": "noun", "d": ["A masculine given name."], "src": "iwb"}
+{"w": "journalism", "pos": "noun", "d": ["The work of reporting news."], "src": "iwb"}
+{"w": "july", "pos": "noun", "d": ["The seventh month of the year."], "src": "iwb"}
+{"w": "jurisdiction", "pos": "noun", "d": ["Legal authority over an area."], "src": "iwb"}
+{"w": "kate", "pos": "noun", "d": ["A feminine given name."], "src": "iwb"}
+{"w": "kernel", "pos": "noun", "d": ["The inner seed of grain or a nut.", "The core of a computer operating system."], "src": "iwb"}
+{"w": "killing", "pos": "noun", "d": ["The act of causing death."], "src": "iwb"}
+{"w": "kitchen", "pos": "noun", "d": ["A room for cooking."], "src": "iwb"}
+{"w": "knock", "pos": "verb", "d": ["To strike a surface to get attention."], "src": "iwb"}
+{"w": "lab", "pos": "noun", "d": ["Short for laboratory."], "src": "iwb"}
+{"w": "lafayette", "pos": "noun", "d": ["A French general who fought for American independence.", "The name of several cities in the United States."], "src": "iwb"}
+{"w": "landing", "pos": "noun", "d": ["The act of coming to ground.", "A platform at the top of stairs."], "src": "iwb"}
+{"w": "last", "pos": "adjective", "d": ["Coming after all others."], "src": "iwb"}
+{"w": "latter", "pos": "adjective", "d": ["The second of two things mentioned."], "src": "iwb"}
+{"w": "lawsuit", "pos": "noun", "d": ["A legal case brought to court."], "src": "iwb"}
+{"w": "league", "pos": "noun", "d": ["A group of sports teams that compete."], "src": "iwb"}
+{"w": "leave", "pos": "verb", "d": ["To go away from."], "src": "iwb"}
+{"w": "legally", "pos": "adverb", "d": ["In a way allowed by law."], "src": "iwb"}
+{"w": "lending", "pos": "noun", "d": ["The business of loaning money."], "src": "iwb"}
+{"w": "lesson", "pos": "noun", "d": ["Something taught or learned."], "src": "iwb"}
+{"w": "lib", "pos": "abbreviation", "d": ["Short for library or liberal."], "src": "iwb"}
+{"w": "life", "pos": "noun", "d": ["The state of being alive.", "A person's lifetime."], "src": "iwb"}
+{"w": "limit", "pos": "noun", "d": ["A point beyond which something may not go."], "src": "iwb"}
+{"w": "list", "pos": "noun", "d": ["Items written one after another."], "src": "iwb"}
+{"w": "live", "pos": "verb", "d": ["To be alive.", "To make one's home in a place."], "src": "iwb"}
+{"w": "locate", "pos": "verb", "d": ["To find the position of."], "src": "iwb"}
+{"w": "logging", "pos": "verb", "d": ["Present participle of log."], "src": "iwb"}
+{"w": "look", "pos": "verb", "d": ["To direct the eyes toward something."], "src": "iwb"}
+{"w": "loss", "pos": "noun", "d": ["The act of losing."], "src": "iwb"}
+{"w": "low", "pos": "adjective", "d": ["Not high."], "src": "iwb"}
+{"w": "lung", "pos": "noun", "d": ["An organ used for breathing."], "src": "iwb"}
+{"w": "machinery", "pos": "noun", "d": ["Machines collectively."], "src": "iwb"}
+{"w": "magical", "pos": "adjective", "d": ["Relating to magic."], "src": "iwb"}
+{"w": "major", "pos": "adjective", "d": ["Greater in importance or size."], "src": "iwb"}
+{"w": "mandatory", "pos": "adjective", "d": ["Required by rule."], "src": "iwb"}
+{"w": "marc", "pos": "noun", "d": ["A masculine given name."], "src": "iwb"}
+{"w": "marketing", "pos": "noun", "d": ["The business of promoting and selling products."], "src": "iwb"}
+{"w": "mary", "pos": "noun", "d": ["A feminine given name."], "src": "iwb"}
+{"w": "maternity", "pos": "noun", "d": ["Motherhood; care during pregnancy."], "src": "iwb"}
+{"w": "maybe", "pos": "adverb", "d": ["Possibly."], "src": "iwb"}
+{"w": "meat", "pos": "noun", "d": ["Animal flesh used as food."], "src": "iwb"}
+{"w": "mediterranean", "pos": "adjective", "d": ["Of the sea between southern Europe and North Africa."], "src": "iwb"}
+{"w": "memorabilia", "pos": "noun", "d": ["Objects kept for their historical interest."], "src": "iwb"}
+{"w": "mercury", "pos": "noun", "d": ["A silvery liquid metal.", "The planet nearest the sun."], "src": "iwb"}
+{"w": "mess", "pos": "noun", "d": ["A dirty or untidy state."], "src": "iwb"}
+{"w": "method", "pos": "noun", "d": ["A way of doing something."], "src": "iwb"}
+{"w": "midnight", "pos": "noun", "d": ["Twelve o'clock at night."], "src": "iwb"}
+{"w": "milk", "pos": "noun", "d": ["The white liquid from cows used as a drink."], "src": "iwb"}
+{"w": "minimum", "pos": "noun", "d": ["The smallest possible amount."], "src": "iwb"}
+{"w": "mirror", "pos": "noun", "d": ["A surface that reflects an image."], "src": "iwb"}
+{"w": "mixed", "pos": "adjective", "d": ["Combined together."], "src": "iwb"}
+{"w": "moderator", "pos": "noun", "d": ["One who leads a discussion."], "src": "iwb"}
+{"w": "molecular", "pos": "adjective", "d": ["Relating to molecules."], "src": "iwb"}
+{"w": "mono", "pos": "adjective", "d": ["Using or involving only one; single."], "src": "iwb"}
+{"w": "morgan", "pos": "noun", "d": ["A masculine or feminine given name."], "src": "iwb"}
+{"w": "motion", "pos": "noun", "d": ["Movement."], "src": "iwb"}
+{"w": "much", "pos": "adverb", "d": ["To a great extent."], "src": "iwb"}
+{"w": "museum", "pos": "noun", "d": ["A building displaying historical objects."], "src": "iwb"}
+{"w": "my", "pos": "pronoun", "d": ["Belonging to me."], "src": "iwb"}
+{"w": "nam", "pos": "noun", "d": ["Informal short form of Vietnam."], "src": "iwb"}
+{"w": "natural", "pos": "adjective", "d": ["Existing in nature; not artificial."], "src": "iwb"}
+{"w": "ne", "pos": "abbreviation", "d": ["Short for Nebraska or northeast."], "src": "iwb"}
+{"w": "negative", "pos": "adjective", "d": ["Expressing denial or refusal.", "Less than zero."], "src": "iwb"}
+{"w": "network", "pos": "noun", "d": ["Connected computers or people."], "src": "iwb"}
+{"w": "news", "pos": "noun", "d": ["Reports of recent events."], "src": "iwb"}
+{"w": "nirvana", "pos": "noun", "d": ["In Buddhism, freedom from suffering.", "A state of perfect bliss."], "src": "iwb"}
+{"w": "non", "pos": "adverb", "d": ["The French word meaning no or not."], "src": "iwb"}
+{"w": "northern", "pos": "adjective", "d": ["Of or in the north."], "src": "iwb"}
+{"w": "notification", "pos": "noun", "d": ["The act of informing; a notice."], "src": "iwb"}
+{"w": "nowhere", "pos": "adverb", "d": ["Not anywhere."], "src": "iwb"}
+{"w": "nursing", "pos": "noun", "d": ["The profession of caring for the sick."], "src": "iwb"}
+{"w": "object", "pos": "noun", "d": ["A thing that can be seen or touched.", "A goal or purpose."], "src": "iwb"}
+{"w": "occur", "pos": "verb", "d": ["To happen."], "src": "iwb"}
+{"w": "off", "pos": "adverb", "d": ["Away from a place.", "Not operating."], "src": "iwb"}
+{"w": "offshore", "pos": "adjective", "d": ["Located at sea, away from shore."], "src": "iwb"}
+{"w": "omega", "pos": "noun", "d": ["The last letter of the Greek alphabet."], "src": "iwb"}
+{"w": "onto", "pos": "preposition", "d": ["To a position on."], "src": "iwb"}
+{"w": "opinion", "pos": "noun", "d": ["A personal belief or judgment."], "src": "iwb"}
+{"w": "oral", "pos": "adjective", "d": ["Spoken rather than written.", "Relating to the mouth."], "src": "iwb"}
+{"w": "organ", "pos": "noun", "d": ["A body part with a specific function.", "A large keyboard musical instrument."], "src": "iwb"}
+{"w": "ours", "pos": "pronoun", "d": ["Belonging to us."], "src": "iwb"}
+{"w": "outlook", "pos": "noun", "d": ["Point of view.", "Prospect for the future."], "src": "iwb"}
+{"w": "overall", "pos": "adjective", "d": ["Including everything; general."], "src": "iwb"}
+{"w": "p", "pos": "noun", "d": ["The sixteenth letter of the English alphabet."], "src": "iwb"}
+{"w": "pad", "pos": "noun", "d": ["A soft cushion.", "A block of paper sheets."], "src": "iwb"}
+{"w": "palace", "pos": "noun", "d": ["A grand residence of royalty."], "src": "iwb"}
+{"w": "paper", "pos": "noun", "d": ["Material for writing on."], "src": "iwb"}
+{"w": "parent", "pos": "noun", "d": ["A mother or father."], "src": "iwb"}
+{"w": "participate", "pos": "verb", "d": ["To take part in."], "src": "iwb"}
+{"w": "passage", "pos": "noun", "d": ["A way through.", "A section of a written work."], "src": "iwb"}
+{"w": "pastor", "pos": "noun", "d": ["A minister in charge of a church."], "src": "iwb"}
+{"w": "pattern", "pos": "noun", "d": ["A repeated design."], "src": "iwb"}
+{"w": "pearl", "pos": "noun", "d": ["A shiny gem formed inside an oyster."], "src": "iwb"}
+{"w": "pending", "pos": "adjective", "d": ["Awaiting decision."], "src": "iwb"}
+{"w": "pepper", "pos": "noun", "d": ["A spicy seasoning."], "src": "iwb"}
+{"w": "perhaps", "pos": "adverb", "d": ["Maybe; possibly."], "src": "iwb"}
+{"w": "persian", "pos": "noun", "d": ["The language of Iran, also called Farsi.", "A breed of long-haired cat."], "src": "iwb"}
+{"w": "petition", "pos": "noun", "d": ["A formal written request signed by many."], "src": "iwb"}
+{"w": "philosophy", "pos": "noun", "d": ["The study of fundamental questions about life."], "src": "iwb"}
+{"w": "physiology", "pos": "noun", "d": ["The science of how living bodies work."], "src": "iwb"}
+{"w": "picture", "pos": "noun", "d": ["An image or painting."], "src": "iwb"}
+{"w": "pilot", "pos": "noun", "d": ["One who flies an aircraft."], "src": "iwb"}
+{"w": "pitch", "pos": "noun", "d": ["The highness of a sound.", "A throw of a baseball."], "src": "iwb"}
+{"w": "plant", "pos": "noun", "d": ["A living organism that grows in soil."], "src": "iwb"}
+{"w": "pleasant", "pos": "adjective", "d": ["Agreeable; enjoyable."], "src": "iwb"}
+{"w": "pod", "pos": "noun", "d": ["A seed case of peas or beans."], "src": "iwb"}
+{"w": "pole", "pos": "noun", "d": ["A long slender stick.", "Either end of the earth's axis."], "src": "iwb"}
+{"w": "polymer", "pos": "noun", "d": ["A substance of large molecules, such as plastic."], "src": "iwb"}
+{"w": "porcelain", "pos": "noun", "d": ["A fine white ceramic."], "src": "iwb"}
+{"w": "possess", "pos": "verb", "d": ["To own or have."], "src": "iwb"}
+{"w": "potato", "pos": "noun", "d": ["A starchy vegetable that grows underground."], "src": "iwb"}
+{"w": "practice", "pos": "noun", "d": ["Repeated exercise to gain skill.", "The actual doing of a profession."], "src": "iwb"}
+{"w": "precision", "pos": "noun", "d": ["Exactness."], "src": "iwb"}
+{"w": "premier", "pos": "noun", "d": ["The head of government in some countries."], "src": "iwb"}
+{"w": "present", "pos": "noun", "d": ["The current time.", "Something given as a gift."], "src": "iwb"}
+{"w": "prevent", "pos": "verb", "d": ["To stop from happening."], "src": "iwb"}
+{"w": "princess", "pos": "noun", "d": ["A daughter of royalty."], "src": "iwb"}
+{"w": "private", "pos": "adjective", "d": ["Not public; personal."], "src": "iwb"}
+{"w": "procedure", "pos": "noun", "d": ["A series of steps to do something."], "src": "iwb"}
+{"w": "profession", "pos": "noun", "d": ["An occupation requiring training."], "src": "iwb"}
+{"w": "projection", "pos": "noun", "d": ["An estimate of future amounts.", "An image thrown on a screen."], "src": "iwb"}
+{"w": "proper", "pos": "adjective", "d": ["Correct or suitable."], "src": "iwb"}
+{"w": "prospect", "pos": "noun", "d": ["A likely future event.", "A possible customer."], "src": "iwb"}
+{"w": "proud", "pos": "adjective", "d": ["Feeling deep satisfaction."], "src": "iwb"}
+{"w": "proxy", "pos": "noun", "d": ["A person authorized to act for another."], "src": "iwb"}
+{"w": "punch", "pos": "noun", "d": ["A blow with the fist.", "A sweet mixed drink."], "src": "iwb"}
+{"w": "pursuant", "pos": "adjective", "d": ["In accordance with a law or rule."], "src": "iwb"}
+{"w": "python", "pos": "noun", "d": ["A large nonvenomous snake.", "A popular programming language."], "src": "iwb"}
+{"w": "que", "pos": "pronoun", "d": ["The Spanish word meaning that or what."], "src": "iwb"}
+{"w": "quiet", "pos": "adjective", "d": ["Making little noise."], "src": "iwb"}
+{"w": "race", "pos": "noun", "d": ["A contest of speed.", "A group of people with shared ancestry."], "src": "iwb"}
+{"w": "railway", "pos": "noun", "d": ["A track for trains."], "src": "iwb"}
+{"w": "ran", "pos": "verb", "d": ["Past tense of run."], "src": "iwb"}
+{"w": "rapidly", "pos": "adverb", "d": ["Quickly."], "src": "iwb"}
+{"w": "re", "pos": "preposition", "d": ["Concerning; about, as in legal phrases."], "src": "iwb"}
+{"w": "really", "pos": "adverb", "d": ["Truly; actually."], "src": "iwb"}
+{"w": "rebound", "pos": "verb", "d": ["To bounce back."], "src": "iwb"}
+{"w": "recognition", "pos": "noun", "d": ["Identification; acknowledgment."], "src": "iwb"}
+{"w": "recovery", "pos": "noun", "d": ["Return to health or normal state."], "src": "iwb"}
+{"w": "reef", "pos": "noun", "d": ["A ridge of rock or coral near the surface of water."], "src": "iwb"}
+{"w": "refrigerator", "pos": "noun", "d": ["An appliance for keeping food cold."], "src": "iwb"}
+{"w": "registrar", "pos": "noun", "d": ["An official who keeps records."], "src": "iwb"}
+{"w": "relate", "pos": "verb", "d": ["To tell a story.", "To feel connected to someone."], "src": "iwb"}
+{"w": "relevance", "pos": "noun", "d": ["Closeness to the matter at hand."], "src": "iwb"}
+{"w": "reload", "pos": "verb", "d": ["To load again."], "src": "iwb"}
+{"w": "remind", "pos": "verb", "d": ["To cause to remember."], "src": "iwb"}
+{"w": "rendering", "pos": "verb", "d": ["Present participle of render."], "src": "iwb"}
+{"w": "replication", "pos": "noun", "d": ["The act of copying."], "src": "iwb"}
+{"w": "reproduce", "pos": "verb", "d": ["To make a copy.", "To produce offspring."], "src": "iwb"}
+{"w": "res", "pos": "noun", "d": ["A thing or matter, used in legal phrases."], "src": "iwb"}
+{"w": "resist", "pos": "verb", "d": ["To oppose or fight against."], "src": "iwb"}
+{"w": "respond", "pos": "verb", "d": ["To answer."], "src": "iwb"}
+{"w": "restriction", "pos": "noun", "d": ["A limit or rule."], "src": "iwb"}
+{"w": "retrieval", "pos": "noun", "d": ["The act of getting something back."], "src": "iwb"}
+{"w": "review", "pos": "noun", "d": ["A critical assessment."], "src": "iwb"}
+{"w": "rich", "pos": "adjective", "d": ["Having much money.", "Full of flavor."], "src": "iwb"}
+{"w": "rim", "pos": "noun", "d": ["The edge of a wheel or cup."], "src": "iwb"}
+{"w": "rob", "pos": "verb", "d": ["To steal from."], "src": "iwb"}
+{"w": "roger", "pos": "noun", "d": ["A masculine given name."], "src": "iwb"}
+{"w": "room", "pos": "noun", "d": ["A space enclosed by walls."], "src": "iwb"}
+{"w": "rough", "pos": "adjective", "d": ["Not smooth."], "src": "iwb"}
+{"w": "royalty", "pos": "noun", "d": ["Kings and queens collectively.", "Payment to an author or inventor."], "src": "iwb"}
+{"w": "rural", "pos": "adjective", "d": ["Relating to the countryside."], "src": "iwb"}
+{"w": "sad", "pos": "adjective", "d": ["Unhappy."], "src": "iwb"}
+{"w": "sake", "pos": "noun", "d": ["Benefit or purpose, used in phrases like for the sake of.", "Japanese rice wine."], "src": "iwb"}
+{"w": "salvation", "pos": "noun", "d": ["Deliverance from harm or sin."], "src": "iwb"}
+{"w": "sap", "pos": "noun", "d": ["The fluid circulating in plants."], "src": "iwb"}
+{"w": "saturday", "pos": "noun", "d": ["The seventh day of the week."], "src": "iwb"}
+{"w": "scale", "pos": "noun", "d": ["A device for weighing.", "Relative size or extent."], "src": "iwb"}
+{"w": "scheme", "pos": "noun", "d": ["A plan or system."], "src": "iwb"}
+{"w": "scotia", "pos": "noun", "d": ["Latin for Scotland, used in the name Nova Scotia."], "src": "iwb"}
+{"w": "sculpture", "pos": "noun", "d": ["Art made by carving or shaping."], "src": "iwb"}
+{"w": "seating", "pos": "noun", "d": ["Seats collectively; arrangement of seats."], "src": "iwb"}
+{"w": "see", "pos": "verb", "d": ["To perceive with the eyes."], "src": "iwb"}
+{"w": "selection", "pos": "noun", "d": ["The act of choosing; things chosen."], "src": "iwb"}
+{"w": "send", "pos": "verb", "d": ["To cause to go."], "src": "iwb"}
+{"w": "separate", "pos": "verb", "d": ["To divide into parts."], "src": "iwb"}
+{"w": "service", "pos": "noun", "d": ["Work done for others."], "src": "iwb"}
+{"w": "sewing", "pos": "noun", "d": ["The activity of stitching cloth."], "src": "iwb"}
+{"w": "shanghai", "pos": "noun", "d": ["A major port city in eastern China."], "src": "iwb"}
+{"w": "sheep", "pos": "noun", "d": ["A woolly farm animal."], "src": "iwb"}
+{"w": "shield", "pos": "noun", "d": ["A protective plate or barrier."], "src": "iwb"}
+{"w": "shop", "pos": "noun", "d": ["A store."], "src": "iwb"}
+{"w": "shown", "pos": "verb", "d": ["Past participle of show."], "src": "iwb"}
+{"w": "sig", "pos": "abbreviation", "d": ["Short for signature or signal."], "src": "iwb"}
+{"w": "silent", "pos": "adjective", "d": ["Making no sound."], "src": "iwb"}
+{"w": "simulation", "pos": "noun", "d": ["An imitation of a real process."], "src": "iwb"}
+{"w": "sip", "pos": "verb", "d": ["To drink in small mouthfuls."], "src": "iwb"}
+{"w": "size", "pos": "noun", "d": ["How big something is."], "src": "iwb"}
+{"w": "sleep", "pos": "verb", "d": ["To rest with eyes closed."], "src": "iwb"}
+{"w": "slow", "pos": "adjective", "d": ["Not fast."], "src": "iwb"}
+{"w": "smooth", "pos": "adjective", "d": ["Even and flat to the touch."], "src": "iwb"}
+{"w": "society", "pos": "noun", "d": ["People living together in a community."], "src": "iwb"}
+{"w": "solar", "pos": "adjective", "d": ["Relating to the sun."], "src": "iwb"}
+{"w": "solve", "pos": "verb", "d": ["To find an answer to."], "src": "iwb"}
+{"w": "sorry", "pos": "adjective", "d": ["Feeling regret."], "src": "iwb"}
+{"w": "spa", "pos": "noun", "d": ["A place offering baths and health treatments."], "src": "iwb"}
+{"w": "specialty", "pos": "noun", "d": ["A special skill or product."], "src": "iwb"}
+{"w": "spelling", "pos": "noun", "d": ["The way a word is written with letters."], "src": "iwb"}
+{"w": "spin", "pos": "verb", "d": ["To turn around quickly."], "src": "iwb"}
+{"w": "sponsor", "pos": "noun", "d": ["One who supports an event financially."], "src": "iwb"}
+{"w": "sprint", "pos": "verb", "d": ["To run at full speed for a short distance."], "src": "iwb"}
+{"w": "staff", "pos": "noun", "d": ["Employees of an organization."], "src": "iwb"}
+{"w": "start", "pos": "verb", "d": ["To begin."], "src": "iwb"}
+{"w": "stay", "pos": "verb", "d": ["To remain in a place."], "src": "iwb"}
+{"w": "steve", "pos": "noun", "d": ["A masculine given name."], "src": "iwb"}
+{"w": "stone", "pos": "noun", "d": ["A small rock."], "src": "iwb"}
+{"w": "straight", "pos": "adjective", "d": ["Not curved."], "src": "iwb"}
+{"w": "streaming", "pos": "verb", "d": ["Present participle of stream."], "src": "iwb"}
+{"w": "strip", "pos": "verb", "d": ["To remove a covering."], "src": "iwb"}
+{"w": "stud", "pos": "noun", "d": ["A male animal kept for breeding.", "A small decorative nail."], "src": "iwb"}
+{"w": "sub", "pos": "noun", "d": ["Short for submarine, substitute, or submarine sandwich."], "src": "iwb"}
+{"w": "subscriber", "pos": "noun", "d": ["One who pays for regular issues or service."], "src": "iwb"}
+{"w": "succeed", "pos": "verb", "d": ["To achieve a goal."], "src": "iwb"}
+{"w": "sugar", "pos": "noun", "d": ["A sweet substance used in food."], "src": "iwb"}
+{"w": "summer", "pos": "noun", "d": ["The warmest season of the year."], "src": "iwb"}
+{"w": "super", "pos": "adjective", "d": ["Excellent; very good."], "src": "iwb"}
+{"w": "surf", "pos": "verb", "d": ["To ride waves on a board.", "To browse the internet."], "src": "iwb"}
+{"w": "surprise", "pos": "noun", "d": ["Something unexpected."], "src": "iwb"}
+{"w": "survivor", "pos": "noun", "d": ["One who lives through danger."], "src": "iwb"}
+{"w": "swing", "pos": "verb", "d": ["To move back and forth while hanging."], "src": "iwb"}
+{"w": "symposium", "pos": "noun", "d": ["A meeting for discussion of a topic."], "src": "iwb"}
+{"w": "system", "pos": "noun", "d": ["An organized set of parts working together."], "src": "iwb"}
+{"w": "tail", "pos": "noun", "d": ["The rear appendage of an animal."], "src": "iwb"}
+{"w": "tamil", "pos": "noun", "d": ["A language of southern India and Sri Lanka."], "src": "iwb"}
+{"w": "tariff", "pos": "noun", "d": ["A tax on imported goods."], "src": "iwb"}
+{"w": "teach", "pos": "verb", "d": ["To give knowledge to."], "src": "iwb"}
+{"w": "tee", "pos": "noun", "d": ["A small stand for a golf ball."], "src": "iwb"}
+{"w": "telling", "pos": "verb", "d": ["Present participle of tell."], "src": "iwb"}
+{"w": "tenant", "pos": "noun", "d": ["One who rents property."], "src": "iwb"}
+{"w": "terminology", "pos": "noun", "d": ["The set of terms used in a subject."], "src": "iwb"}
+{"w": "testimony", "pos": "noun", "d": ["A statement made under oath."], "src": "iwb"}
+{"w": "thank", "pos": "verb", "d": ["To express gratitude."], "src": "iwb"}
+{"w": "them", "pos": "pronoun", "d": ["The objective form of they."], "src": "iwb"}
+{"w": "there", "pos": "adverb", "d": ["In that place."], "src": "iwb"}
+{"w": "they", "pos": "pronoun", "d": ["The plural personal pronoun."], "src": "iwb"}
+{"w": "thong", "pos": "noun", "d": ["A narrow strip of leather.", "A skimpy piece of underwear."], "src": "iwb"}
+{"w": "threat", "pos": "noun", "d": ["A warning of harm."], "src": "iwb"}
+{"w": "throwing", "pos": "verb", "d": ["Present participle of throw."], "src": "iwb"}
+{"w": "ticket", "pos": "noun", "d": ["A slip giving admission or a right to travel."], "src": "iwb"}
+{"w": "tile", "pos": "noun", "d": ["A flat piece used for roofs or floors."], "src": "iwb"}
+{"w": "tire", "pos": "noun", "d": ["A rubber covering around a wheel."], "src": "iwb"}
+{"w": "together", "pos": "adverb", "d": ["With each other."], "src": "iwb"}
+{"w": "tomorrow", "pos": "noun", "d": ["The day after today."], "src": "iwb"}
+{"w": "tool", "pos": "noun", "d": ["An instrument used for work."], "src": "iwb"}
+{"w": "tough", "pos": "adjective", "d": ["Strong and durable.", "Difficult."], "src": "iwb"}
+{"w": "track", "pos": "noun", "d": ["A path or course.", "A recorded song."], "src": "iwb"}
+{"w": "trail", "pos": "noun", "d": ["A path through wild land."], "src": "iwb"}
+{"w": "transform", "pos": "verb", "d": ["To change in form."], "src": "iwb"}
+{"w": "transparency", "pos": "noun", "d": ["The quality of being see-through or open."], "src": "iwb"}
+{"w": "treasury", "pos": "noun", "d": ["A place where money is kept.", "A government department of finance."], "src": "iwb"}
+{"w": "triangle", "pos": "noun", "d": ["A shape with three sides."], "src": "iwb"}
+{"w": "trim", "pos": "verb", "d": ["To cut slightly."], "src": "iwb"}
+{"w": "troy", "pos": "noun", "d": ["An ancient city in Asia Minor, site of the Trojan War.", "A system of weights for precious metals."], "src": "iwb"}
+{"w": "try", "pos": "verb", "d": ["To attempt."], "src": "iwb"}
+{"w": "tune", "pos": "noun", "d": ["A melody."], "src": "iwb"}
+{"w": "turner", "pos": "noun", "d": ["A worker who shapes wood or metal on a lathe."], "src": "iwb"}
+{"w": "two", "pos": "noun", "d": ["The number 2."], "src": "iwb"}
+{"w": "uncertainty", "pos": "noun", "d": ["Lack of certainty."], "src": "iwb"}
+{"w": "unique", "pos": "adjective", "d": ["One of a kind."], "src": "iwb"}
+{"w": "unlike", "pos": "preposition", "d": ["Different from."], "src": "iwb"}
+{"w": "unusual", "pos": "adjective", "d": ["Not common."], "src": "iwb"}
+{"w": "urgent", "pos": "adjective", "d": ["Needing quick action."], "src": "iwb"}
+{"w": "utility", "pos": "noun", "d": ["Usefulness.", "A public service such as water or electricity."], "src": "iwb"}
+{"w": "valid", "pos": "adjective", "d": ["Legally or logically sound."], "src": "iwb"}
+{"w": "vanilla", "pos": "noun", "d": ["A flavoring from orchid pods."], "src": "iwb"}
+{"w": "vector", "pos": "noun", "d": ["A quantity with direction.", "An organism carrying disease."], "src": "iwb"}
+{"w": "venture", "pos": "noun", "d": ["A risky business project."], "src": "iwb"}
+{"w": "very", "pos": "adverb", "d": ["To a high degree."], "src": "iwb"}
+{"w": "victoria", "pos": "noun", "d": ["A queen of Britain who reigned from 1837 to 1901."], "src": "iwb"}
+{"w": "vinyl", "pos": "noun", "d": ["A tough plastic used for records and flooring."], "src": "iwb"}
+{"w": "visible", "pos": "adjective", "d": ["Able to be seen."], "src": "iwb"}
+{"w": "vocabulary", "pos": "noun", "d": ["The words known by a person or used in a language."], "src": "iwb"}
+{"w": "volunteer", "pos": "noun", "d": ["One who offers to do something freely."], "src": "iwb"}
+{"w": "wait", "pos": "verb", "d": ["To stay until something happens."], "src": "iwb"}
+{"w": "walter", "pos": "noun", "d": ["A masculine given name."], "src": "iwb"}
+{"w": "warming", "pos": "verb", "d": ["Present participle of warm."], "src": "iwb"}
+{"w": "wash", "pos": "verb", "d": ["To clean with water."], "src": "iwb"}
+{"w": "wax", "pos": "noun", "d": ["A substance used for candles and polish."], "src": "iwb"}
+{"w": "weather", "pos": "noun", "d": ["The state of the atmosphere."], "src": "iwb"}
+{"w": "weight", "pos": "noun", "d": ["How heavy something is."], "src": "iwb"}
+{"w": "west", "pos": "noun", "d": ["The direction of sunset."], "src": "iwb"}
+{"w": "where", "pos": "adverb", "d": ["In what place."], "src": "iwb"}
+{"w": "whole", "pos": "adjective", "d": ["Entire; complete."], "src": "iwb"}
+{"w": "will", "pos": "verb", "d": ["Expressing future action.", "To leave property by a legal document."], "src": "iwb"}
+{"w": "wing", "pos": "noun", "d": ["The limb a bird flies with."], "src": "iwb"}
+{"w": "wishing", "pos": "verb", "d": ["Present participle of wish."], "src": "iwb"}
+{"w": "wolf", "pos": "noun", "d": ["A wild doglike animal."], "src": "iwb"}
+{"w": "word", "pos": "noun", "d": ["A unit of language."], "src": "iwb"}
+{"w": "worship", "pos": "verb", "d": ["To honor as divine."], "src": "iwb"}
+{"w": "wrist", "pos": "noun", "d": ["The joint between hand and arm."], "src": "iwb"}
+{"w": "y", "pos": "noun", "d": ["The twenty-fifth letter of the English alphabet."], "src": "iwb"}
+{"w": "yea", "pos": "adverb", "d": ["Yes, especially in voting."], "src": "iwb"}
+{"w": "yield", "pos": "verb", "d": ["To give way.", "To produce."], "src": "iwb"}
+{"w": "z", "pos": "noun", "d": ["The twenty-sixth and last letter of the English alphabet."], "src": "iwb"}

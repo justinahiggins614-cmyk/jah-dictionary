@@ -1,0 +1,478 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>JAH Dictionary — Webster's Complete with JAH Deterministic Definitions</title>
+<style>
+:root{--ink:#2b2118;--paper:#faf6ec;--accent:#1a4d2e;--gold:#8a6d1c;--line:#ddd2b8;--soft:#f3ecda;--mut:#6e6250}
+*{box-sizing:border-box}
+body{margin:0;font-family:Georgia,'Times New Roman',serif;background:var(--paper);color:var(--ink);line-height:1.65}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.topbar{background:linear-gradient(180deg,#1a4d2e,#0f3520);color:#fff;padding:10px 18px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;position:sticky;top:0;z-index:50}
+.brand{font-size:1.5em;font-weight:bold;letter-spacing:1px;color:#fff}
+.brand small{display:block;font-size:.42em;letter-spacing:3px;color:#e8d98a;font-weight:normal}
+.navlinks{display:flex;gap:14px;flex-wrap:wrap;margin-left:8px}
+.navlinks a{color:#dcebd8;font-family:Arial,sans-serif;font-size:.86em}
+.navlinks a:hover{color:#fff}
+.searchbox{margin-left:auto;display:flex;gap:6px;position:relative}
+.searchbox input{padding:7px 10px;font-size:.95em;border:1px solid #3c6b4e;border-radius:3px;width:min(320px,52vw);font-family:Arial,sans-serif}
+.searchbox button{padding:7px 14px;background:#e8d98a;border:none;border-radius:3px;font-weight:bold;cursor:pointer;font-family:Arial,sans-serif}
+.sugg{position:absolute;top:100%;left:0;right:0;background:#fff;border:1px solid var(--line);border-radius:0 0 6px 6px;box-shadow:0 8px 20px rgba(0,0,0,.15);display:none;max-height:320px;overflow-y:auto;z-index:60;font-family:Arial,sans-serif}
+.sugg a{display:block;padding:8px 12px;font-size:.9em;color:var(--ink)}
+.sugg a:hover{background:var(--soft);text-decoration:none}
+.wrap{max-width:1080px;margin:0 auto;padding:18px 16px 60px}
+.crumb{font-family:Arial,sans-serif;font-size:.8em;color:var(--mut);margin-bottom:8px}
+h1.hw{font-size:2.4em;margin:.1em 0 .05em;line-height:1.2}
+.stamp{display:inline-block;font-family:Arial,sans-serif;font-size:.72em;font-weight:bold;letter-spacing:1px;color:#fff;background:#1a4d2e;border-radius:4px;padding:4px 10px;margin:4px 8px 4px 0;vertical-align:middle}
+.kind{display:inline-block;font-family:Arial,sans-serif;font-size:.72em;font-weight:bold;letter-spacing:1px;color:#1a4d2e;border:1px solid #1a4d2e;border-radius:4px;padding:3px 9px;margin:4px 0;vertical-align:middle}
+.toolbar{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;padding:10px;background:var(--soft);border:1px solid var(--line);border-radius:6px;align-items:center}
+.toolbar button,.toolbar select{font-family:Arial,sans-serif;font-size:.85em;padding:7px 12px;border:1px solid #b3a67e;background:#fff;border-radius:4px;cursor:pointer;color:var(--accent)}
+.toolbar button:hover{background:#eef3e4}
+.defs{font-size:1.05em}
+.defs ol{margin:8px 0;padding-left:26px}.defs li{margin:7px 0}
+h2.sec{font-size:1.4em;border-bottom:2px solid var(--accent);padding-bottom:5px;margin:1.6em 0 .6em;color:var(--accent)}
+.detbox{border:1px solid var(--line);border-left:4px solid var(--gold);background:#fffdf4;padding:12px 16px;margin:10px 0;border-radius:0 6px 6px 0;font-family:Arial,sans-serif;font-size:.92em}
+.detbox table{border-collapse:collapse;margin:8px 0}
+.detbox td{padding:4px 12px 4px 0;vertical-align:top}
+.detbox td.k{font-weight:bold;color:#5b4d1e;white-space:nowrap}
+.stampbox{border:2px solid var(--gold);border-radius:8px;padding:16px;background:#fff;margin:14px 0;text-align:center}
+.stampbox .big{font-family:'Courier New',monospace;font-size:1.5em;font-weight:bold;letter-spacing:3px;color:#1a4d2e}
+.stampbox .sub{font-family:Arial,sans-serif;font-size:.78em;color:var(--mut);letter-spacing:2px}
+.prog{background:#141a12;color:#d7e6c8;border-radius:6px;padding:14px;font-family:Consolas,monospace;font-size:.78em;overflow-x:auto;max-height:420px;overflow-y:auto;white-space:pre}
+.console{background:#0d120b;color:#9fe8a9;border-radius:6px;padding:12px;font-family:Consolas,monospace;font-size:.82em;white-space:pre-wrap;max-height:300px;overflow-y:auto;margin-top:8px}
+.chat{border:1px solid var(--line);border-radius:8px;overflow:hidden;font-family:Arial,sans-serif;margin:10px 0}
+.chatlog{height:280px;overflow-y:auto;padding:12px;background:#fffdf4}
+.msg{margin:8px 0;max-width:90%}.msg.u{margin-left:auto;text-align:right}
+.msg .b{display:inline-block;padding:8px 12px;border-radius:12px;font-size:.9em;line-height:1.5;text-align:left}
+.msg.u .b{background:#1a4d2e;color:#fff}.msg.a .b{background:#efe8d2;color:#2b2118}
+.chatin{display:flex;border-top:1px solid var(--line)}.chatin input{flex:1;padding:10px;border:none;font-size:.92em;font-family:Arial,sans-serif;background:#fff}
+.chatin button{padding:10px 18px;background:#1a4d2e;color:#fff;border:none;cursor:pointer;font-weight:bold}
+.persona{background:linear-gradient(135deg,#1a4d2e,#5b4d1e);color:#fff;padding:12px 16px;font-family:Arial,sans-serif}
+.persona b{color:#e8d98a}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin:16px 0}
+.card{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fff}
+.card h3{margin:.2em 0;font-family:Arial,sans-serif;color:var(--accent)}
+.card p{font-family:Arial,sans-serif;font-size:.88em;color:var(--mut)}
+.stats{display:flex;flex-wrap:wrap;gap:14px;margin:14px 0}
+.stat{flex:1;min-width:140px;background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:14px;text-align:center;font-family:Arial,sans-serif}
+.stat .n{font-size:1.7em;font-weight:bold;color:var(--accent)}.stat .l{font-size:.8em;color:var(--mut)}
+.az{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0;font-family:Arial,sans-serif}
+.az a{padding:5px 10px;border:1px solid var(--line);border-radius:4px;background:#fff;font-size:.85em}
+.pgln{font-family:Arial,sans-serif;font-size:.88em;columns:2}.pgln li{margin:5px 0;break-inside:avoid}
+@media(max-width:700px){.pgln{columns:1}}
+footer.site{background:#0f3520;color:#cdd9c2;padding:22px 18px;font-family:Arial,sans-serif;font-size:.85em;margin-top:30px}
+footer.site a{color:#e8d98a}
+.note{font-size:.8em;color:var(--mut);font-family:Arial,sans-serif;border-top:1px solid var(--line);margin-top:24px;padding-top:10px}
+.wotd{border:2px solid var(--gold);border-radius:8px;padding:16px;background:#fffdf4;margin:14px 0}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a href="?" style="text-decoration:none"><div class="brand">JAH DICTIONARY<small>WEBSTER'S COMPLETE &middot; JAH DETERMINISTIC</small></div></a>
+  <div class="navlinks">
+    <a href="?">Home</a><a href="?az=A">Browse A&ndash;Z</a><a href="#" id="randlink">Random word</a>
+    <a href="https://justinahiggins614-cmyk.github.io/jah-wiki/" target="_blank" rel="noopener">JAH Wiki &#10697;</a>
+    <a href="https://justinahiggins614-cmyk.github.io/jah-n-wiki-leaks/" target="_blank" rel="noopener">Wiki Leaks &#10697;</a>
+  </div>
+  <div class="searchbox"><input id="q" placeholder="Look up a word..." aria-label="Look up a word" autocomplete="off"><button id="qgo">Define</button><div class="sugg" id="sugg"></div></div>
+</div>
+<div class="wrap"><div id="app"><p style="font-family:Arial">Opening the dictionary...</p></div></div>
+<footer class="site"><div class="wrap" style="padding:0">
+<b style="color:#fff">JAH Dictionary</b> — every English word, defined two ways: the normal Webster's definition and the JAH deterministic definition, with an official deterministic stamp, a program of the word, and a personal AI teacher for each entry.<br>
+Word definitions: Webster's Revised Unabridged Dictionary, 1913 (public domain). Deterministic definitions, stamps, programs, and AI teachers are generated by the JAH system. Partner of
+<a href="https://justinahiggins614-cmyk.github.io/jah-wiki/">JAH Wiki</a>.
+</div></footer>
+<script>
+"use strict";
+/* ================= utils ================= */
+function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+function qp(n){var m=new RegExp("[?&]"+n+"=([^&]*)").exec(location.search);return m?decodeURIComponent(m[1].replace(/\+/g," ")):""}
+function setQ(k,v){var u=new URL(location.href);if(v==null)u.searchParams.delete(k);else u.searchParams.set(k,v);location.href=u.toString()}
+function hashStr(s){var h=2166136261;for(var i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}return h>>>0}
+function djb2(s){var h=5381;for(var i=0;i<s.length;i++){h=((h<<5)+h+s.charCodeAt(i))>>>0}return h>>>0}
+function prng(seed){var a=seed>>>0;return function(){a|=0;a=a+0x6D2B79F5|0;var t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+async function fetchGz(url){var r=await fetch(url);if(!r.ok)throw new Error("HTTP "+r.status);var ds=new DecompressionStream("gzip");return await new Response(r.body.pipeThrough(ds)).text()}
+function download(name,content,mime){var b=new Blob([content],{type:mime||"text/plain"});var u=URL.createObjectURL(b);var a=document.createElement("a");a.href=u;a.download=name;document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(u);a.remove()},800)}
+function copyText(t,btn){function done(){if(btn){var o=btn.textContent;btn.textContent="Copied!";setTimeout(function(){btn.textContent=o},1400)}}
+ if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done).catch(function(){fallback()})}else fallback();
+ function fallback(){var ta=document.createElement("textarea");ta.value=t;document.body.appendChild(ta);ta.select();try{document.execCommand("copy");done()}catch(e){}ta.remove()}}
+var WIKI2="https://justinahiggins614-cmyk.github.io/jah-wiki";
+var LEAKS="https://justinahiggins614-cmyk.github.io/jah-n-wiki-leaks";
+var SPECCAT="https://justinahiggins614-cmyk.github.io/signature-one-archive/specs.html";
+var PATCAT="https://justinahiggins614-cmyk.github.io/cyber-patent-catalog";
+</script>
+<script>
+"use strict";
+"use strict";
+/* ================= read aloud: tiered TTS with options ================= */
+var RD={audio:null,queue:[],playing:false,stopped:true,timer:null,speed:1};
+var RD_TIERS=[
+ function(t){return "https://code.responsivevoice.org/getvoice.php?t="+encodeURIComponent(t)+"&tl=en-US&sv=g2&vn=&pitch=0.5&rate=0.95"},
+ function(t){return "https://translate.google.com/translate_tts?ie=UTF-8&q="+encodeURIComponent(t)+"&tl=en&client=tw-ob"},
+ function(t){return "https://translate.googleapis.com/translate_tts?ie=UTF-8&q="+encodeURIComponent(t)+"&tl=en&client=tw-ob"}];
+function rdChunks(t){t=String(t).replace(/\s+/g," ").trim();var out=[],cur="";t.split(/(?<=[.!?])\s+/).forEach(function(s){if((cur+" "+s).length>170){if(cur)out.push(cur);cur=s}else cur=(cur?cur+" ":"")+s});if(cur)out.push(cur);return out.slice(0,80)}
+function rdStop(){RD.stopped=true;RD.playing=false;RD.queue=[];if(RD.timer){clearTimeout(RD.timer);RD.timer=null}if(RD.audio){try{RD.audio.pause()}catch(e){}RD.audio=null}var b=document.getElementById("rdbtn");if(b)b.textContent="🔊 Read aloud"}
+function rdPlayTier(chunk,tier,done){
+ if(tier>=RD_TIERS.length){done(false);return}
+ var url=RD_TIERS[tier](chunk),a=new Audio();RD.audio=a;a.playbackRate=RD.speed;
+ var finished=false;
+ function next(ok){if(finished)return;finished=true;try{a.pause()}catch(e){}done(ok)}
+ a.onended=function(){next(true)};a.onerror=function(){next(false)};
+ RD.timer=setTimeout(function(){rdPlayTier(chunk,tier+1,done)},12000);
+ a.src=url;var p=a.play();if(p&&p.catch)p.catch(function(){next(false)});
+ var iv=setInterval(function(){if(finished){clearInterval(iv);return}if(!RD.timer){clearInterval(iv);return}},500);
+ var oldNext=next;next=function(ok){if(RD.timer){clearTimeout(RD.timer);RD.timer=null}clearInterval(iv);oldNext(ok)};
+}
+function rdNext(){
+ if(RD.stopped||!RD.queue.length){rdStop();return}
+ RD.playing=true;var chunk=RD.queue.shift(),tier=0;
+ (function attempt(){
+  if(RD.stopped)return;
+  rdPlayTier(chunk,tier,function(ok){
+   if(RD.stopped)return;
+   if(ok){setTimeout(rdNext,250)}else{tier++;if(tier<RD_TIERS.length)attempt();else setTimeout(rdNext,250)}
+  });
+ })();
+}
+function rdSpeak(text){rdStop();RD.queue=rdChunks(text);if(!RD.queue.length)return;RD.stopped=false;
+ var b=document.getElementById("rdbtn");if(b)b.textContent="⏹ Stop";
+ rdNext()}
+function rdToolbar(){
+ return '<button id="rdbtn" onclick="rdToggle()">\uD83D\uDD0A Read aloud</button>'+
+ '<button onclick="rdStop()">\u23F9 Stop</button>'+
+ '<select id="rdspeed" onchange="RD.speed=parseFloat(this.value)" title="Reading speed">'+
+ '<option value="0.8">0.8&times;</option><option value="1" selected>1&times;</option><option value="1.25">1.25&times;</option><option value="1.5">1.5&times;</option><option value="2">2&times;</option></select>'+
+ '<button onclick="copyText(document.getElementById(\'entrytext\').textContent,this)">\uD83D\uDCCB Copy entry</button>'+
+ '<button onclick="dlEntryTxt()">\u2B07 Download .txt</button>';
+}
+function rdToggle(){if(!RD.stopped){rdStop()}else{var t=document.getElementById("entrytext");if(t)rdSpeak(t.textContent)}}
+/* ================= data: dictionary index ================= */
+var DB={idx:[],stats:null,ready:false};
+async function loadDB(){
+ if(DB.ready)return DB;
+ var ix=await fetchGz("data/index/dict.idx.json.gz");DB.idx=JSON.parse(ix);
+ try{DB.stats=await (await fetch("data/index/stats.json")).json()}catch(e){DB.stats=null}
+ DB.ready=true;return DB;
+}
+function bsFind(key){var lo=0,hi=DB.idx.length-1;while(lo<=hi){var m=(lo+hi)>>1,c=DB.idx[m][0];if(c===key)return m;if(c<key)lo=m+1;else hi=m-1}return -1}
+function bsLower(key){var lo=0,hi=DB.idx.length;while(lo<hi){var m=(lo+hi)>>1;if(DB.idx[m][0]<key)lo=m+1;else hi=m}return lo}
+function prefixMatches(pref,limit){var out=[],i=bsLower(pref);while(i<DB.idx.length&&out.length<limit){var k=DB.idx[i][0];if(k.indexOf(pref)!==0)break;out.push(DB.idx[i]);i++}return out}
+async function getEntry(key){
+ var pos=bsFind(key);if(pos<0)return null;
+ var row=DB.idx[pos],txt=await fetchGz("data/dict/"+row[1]),lines=txt.split("\n");
+ var e=JSON.parse(lines[row[2]]);return {entry:e,pos:pos};
+}
+/* ================= deterministic word analysis ================= */
+var SCRABBLE={a:1,b:3,c:3,d:2,e:1,f:4,g:2,h:4,i:1,j:8,k:5,l:1,m:3,n:1,o:1,p:3,q:10,r:1,s:1,t:1,u:1,v:4,w:4,x:8,y:4,z:10};
+var RCLASS=["Origin","Signal","Measure","Form","Motion","Memory","Bond","Threshold","Cycle","Harvest","Mirror","Crown"];
+function syllables(w){w=w.toLowerCase().replace(/[^a-z]/g,"");if(!w)return 1;if(w.length<=3)return 1;
+ var m=w.replace(/(?:[^laeiouy]e|ed|es)$/,"").match(/[aeiouy]{1,2}/g);var n=m?m.length:1;return Math.max(1,n)}
+function detWord(w){
+ var low=String(w).toLowerCase(),letters=low.replace(/[^a-z]/g,"");
+ var vals=letters.split("").map(function(c){return c.charCodeAt(0)-96});
+ var sum=vals.reduce(function(a,b){return a+b},0);
+ var dr=sum?((sum-1)%9+1):0;
+ var fnv=hashStr(low),djb=djb2(low);
+ var vowels=(letters.match(/[aeiou]/g)||[]).length;
+ var syl=syllables(low);
+ var scr=vals.reduce(function(a,v){return a+(SCRABBLE[String.fromCharCode(v+96)]||0)},0);
+ var rc=RCLASS[sum%12];
+ var prod=vals.reduce(function(a,v){return (a*v)%1000003},1);
+ return {low:low,letters:letters,vals:vals,sum:sum,dr:dr,fnv:fnv,djb:djb,
+  fnvHex:("00000000"+fnv.toString(16)).slice(-8).toUpperCase(),
+  djbHex:("00000000"+djb.toString(16)).slice(-8).toUpperCase(),
+  len:letters.length,vowels:vowels,cons:letters.length-vowels,syl:syl,scr:scr,rc:rc,prod:prod};
+}
+function detGloss(w,D,ndefs){
+ var R=prng(D.fnv),frames=[
+  "In the JAH deterministic reading, \u201c{w}\u201d resolves as a {syl}-syllable form whose letters sum to {sum} and reduce to root {dr}.",
+  "Every letter of \u201c{w}\u201d carries a fixed value; added together they give {sum}, the word's standing measure, reducing to the single digit {dr}.",
+  "The signature {fnv} is the word's unchanging fingerprint: the same letters in the same order always produce it, on any machine, in any year.",
+  "Resonance class {rc}: of the twelve classes, \u201c{w}\u201d falls in {rc}, determined solely by its alphabetic sum {sum}."
+ ];
+ var f=frames[Math.floor(R()*frames.length)];
+ f=f.replace("{w}",w).replace("{syl}",D.syl).replace("{sum}",D.sum).replace("{dr}",D.dr).replace("{fnv}",D.fnvHex).replace("{rc}",D.rc);
+ var g="Webster's records "+ndefs+" sense"+(ndefs===1?"":"s")+" for this headword; the deterministic reading adds the fixed numeric identity above, so the word can be stamped, filed, and verified without ambiguity.";
+ return f+" "+g;
+}
+/* ================= views: home / search / browse ================= */
+function linkW(key,label){return '<a href="?w='+encodeURIComponent(key)+'">'+esc(label||key)+'</a>'}
+async function vHome(app){
+ var s=DB.stats||{words:0,terms:0,total:DB.idx.length};
+ var h='<div class="crumb">JAH Dictionary &rsaquo; Home</div>';
+ h+='<h1 style="font-size:2em;margin:.2em 0">The JAH Dictionary</h1>';
+ h+='<p style="font-family:Arial">Every English word, defined two ways: the <b>normal Webster&rsquo;s 1913 definition</b> and the <b>JAH deterministic definition</b> &mdash; each with an official deterministic stamp, a program of the word, and a personal AI teacher.</p>';
+ h+='<div class="stats"><div class="stat"><div class="n">'+Number(s.words||0).toLocaleString()+'</div><div class="l">English words</div></div>'+
+ '<div class="stat"><div class="n">'+Number(s.terms||0).toLocaleString()+'</div><div class="l">Catalog terms</div></div>'+
+ '<div class="stat"><div class="n">'+Number(s.total||DB.idx.length).toLocaleString()+'</div><div class="l">Total entries</div></div></div>';
+ h+='<div class="wotd"><h2 class="sec" style="margin-top:0">Word of the day</h2><div id="wotd"><p style="font-family:Arial">Choosing today&rsquo;s word...</p></div></div>';
+ h+='<h2 class="sec">Browse the dictionary</h2><div class="az">';
+ for(var c=65;c<=90;c++){var L=String.fromCharCode(c);h+='<a href="?az='+L+'">'+L+'</a>'}
+ h+='</div><p class="note">Definitions: Webster&rsquo;s Revised Unabridged Dictionary, 1913 (public domain). JAH deterministic definitions, stamps, programs, and AI teachers are generated live by the JAH system and are the same on every machine, every time.</p>';
+ app.innerHTML=h;pickWOTD();
+}
+async function pickWOTD(){
+ var el=document.getElementById("wotd");if(!el)return;
+ var dstr=new Date().toISOString().slice(0,10),seed=hashStr("wotd:"+dstr),R=prng(seed),n=DB.idx.length;
+ for(var t=0;t<30;t++){
+  var cand=[];for(var i=0;i<10;i++)cand.push(DB.idx[Math.floor(R()*n)]);
+  var got=await Promise.all(cand.map(function(r){return getEntry(r[0]).catch(function(){return null})}));
+  for(var j=0;j<got.length;j++){if(got[j]&&got[j].entry&&got[j].entry.k==="w"){
+   var e=got[j].entry,senses=e.d||[];
+   el.innerHTML='<h3 style="margin:.2em 0;font-size:1.6em">'+linkW(e.w)+'</h3><p style="font-family:Arial;font-size:.92em">'+esc(String(senses[0]||"").replace(/^\d+\.\s*/,"").slice(0,220))+'...</p><p style="font-family:Arial">'+linkW(e.w,"Open the full entry &rarr;")+'</p>';return}}
+ }
+ el.innerHTML='<p style="font-family:Arial">Try a <a href="#" onclick="randWord();return false">random word</a> instead.</p>';
+}
+async function randWord(){
+ for(var t=0;t<40;t++){var r=DB.idx[Math.floor(Math.random()*DB.idx.length)];var g=await getEntry(r[0]).catch(function(){return null});
+  if(g&&g.entry&&g.entry.k==="w"){location.href="?w="+encodeURIComponent(g.entry.w);return}}
+ location.href="?w="+encodeURIComponent(DB.idx[Math.floor(Math.random()*DB.idx.length)][0]);
+}
+async function vSearch(app,q){
+ var h='<div class="crumb">JAH Dictionary &rsaquo; Search &rsaquo; '+esc(q)+'</div>';
+ var key=String(q).toLowerCase().trim();
+ var ex=await getEntry(key).catch(function(){return null});
+ if(ex&&ex.entry){location.replace("?w="+encodeURIComponent(ex.entry.w));return}
+ var matches=[],needle=key;
+ for(var i=0;i<DB.idx.length&&matches.length<80;i++){var k=DB.idx[i][0];if(k.indexOf(needle)>=0)matches.push(k)}
+ h+='<h1 class="hw" style="font-size:1.6em">Results for &ldquo;'+esc(q)+'&rdquo;</h1>';
+ if(!matches.length){h+='<p style="font-family:Arial">No headword contains &ldquo;'+esc(q)+'&rdquo;. Try the A&ndash;Z browse or a shorter search.</p>'}
+ else{h+='<p style="font-family:Arial">'+matches.length+(matches.length>=80?"+":"")+' matching headwords:</p><ul class="pgln">';
+  matches.forEach(function(k){h+='<li>'+linkW(k)+'</li>'});h+='</ul>'}
+ app.innerHTML=h;
+}
+async function vBrowse(app,L,pg){
+ pg=Math.max(1,parseInt(pg||"1",10)||1);L=String(L||"A").toUpperCase().slice(0,1);
+ var lo=L,hi=String.fromCharCode(L.charCodeAt(0)+1);
+ var start=bsLower(lo.toLowerCase()),end=bsLower(hi.toLowerCase());
+ var total=end-start,per=200,pages=Math.max(1,Math.ceil(total/per));pg=Math.min(pg,pages);
+ var h='<div class="crumb">JAH Dictionary &rsaquo; Browse &rsaquo; '+esc(L)+'</div>';
+ h+='<h1 class="hw" style="font-size:1.8em">Words beginning with '+esc(L)+'</h1>';
+ h+='<div class="az">';for(var c=65;c<=90;c++){var x=String.fromCharCode(c);h+='<a href="?az='+x+'"'+(x===L?' style="background:#1a4d2e;color:#fff"':"")+'>'+x+'</a>'}h+='</div>';
+ h+='<p style="font-family:Arial">'+total.toLocaleString()+' headwords &middot; page '+pg+' of '+pages+'</p><ul class="pgln">';
+ var s0=start+(pg-1)*per,s1=Math.min(start+pg*per,end);
+ for(var i=s0;i<s1;i++)h+='<li>'+linkW(DB.idx[i][0])+'</li>';
+ h+='</ul><p style="font-family:Arial">';
+ if(pg>1)h+='<a href="?az='+L+'&pg='+(pg-1)+'">&larr; Previous</a> &nbsp; ';
+ if(pg<pages)h+='<a href="?az='+L+'&pg='+(pg+1)+'">Next &rarr;</a>';
+ h+='</p>';app.innerHTML=h;
+}
+function wireSearch(){
+ var q=document.getElementById("q"),sg=document.getElementById("sugg"),t=null;
+ function go(){var v=q.value.trim();if(v)setQ("q",v)}
+ document.getElementById("qgo").onclick=go;
+ q.addEventListener("keydown",function(e){if(e.key==="Enter")go();if(e.key==="Escape"){sg.style.display="none"}});
+ q.addEventListener("input",function(){clearTimeout(t);t=setTimeout(function(){
+  var v=q.value.toLowerCase().trim();if(v.length<2){sg.style.display="none";return}
+  var m=prefixMatches(v,8);
+  if(!m.length){sg.style.display="none";return}
+  sg.innerHTML=m.map(function(r){return '<a href="?w='+encodeURIComponent(r[0])+'">'+esc(r[0])+'</a>'}).join("");
+  sg.style.display="block";
+ },160)});
+ document.addEventListener("click",function(e){if(!e.target.closest(".searchbox"))sg.style.display="none"});
+ var rl=document.getElementById("randlink");if(rl)rl.onclick=function(e){e.preventDefault();randWord()};
+}
+/* ================= entry view ================= */
+function cleanSense(s){return String(s).replace(/^\d+\.\s*/,"").trim()}
+function kindBadge(e){
+ if(e.k==="w")return '<span class="kind">ENGLISH WORD</span>';
+ if(e.rt==="patent")return '<span class="kind">PATENT CATALOG TERM</span>';
+ return '<span class="kind">SPEC CATALOG TERM</span>';
+}
+function entryText(e,D){
+ var L=[];
+ L.push(e.w.toUpperCase());
+ L.push("Official deterministic stamp: "+e.st);
+ L.push("");
+ L.push("WEBSTER'S REVISED UNABRIDGED DICTIONARY, 1913");
+ (Array.isArray(e.d)?e.d:[e.d]).forEach(function(s,i){L.push((i+1)+". "+cleanSense(s))});
+ L.push("");
+ L.push("JAH DETERMINISTIC DEFINITION");
+ L.push(detGloss(e.w,D,(Array.isArray(e.d)?e.d.length:1)));
+ L.push("Letter values (A1Z26): "+D.vals.join(" "));
+ L.push("Alphabetic sum: "+D.sum+"  |  Digital root: "+D.dr+"  |  FNV-1a: "+D.fnvHex+"  |  djb2: "+D.djbHex);
+ L.push("Letters: "+D.len+" ("+D.vowels+" vowels, "+D.cons+" consonants)  |  Syllables (est.): "+D.syl+"  |  Scrabble value: "+D.scr+"  |  Resonance class: "+D.rc);
+ if(e.k==="w"){L.push("");L.push("IN THE JAH CATALOGS: appears in "+e.s+" spec titles and "+e.p+" patent titles.")}
+ if(e.k==="t"){L.push("");L.push("CATALOG RECORD: "+(e.rt==="patent"?"patent ":"spec ")+e.rid+(e.cpc?"  |  CPC: "+e.cpc:""));}
+ L.push("");
+ L.push("Sources: Webster's Revised Unabridged Dictionary 1913 (public domain); JAH deterministic definitions, stamps, programs and AI teachers are generated by the JAH system.");
+ return L.join("\n");
+}
+function wordProgram(e,D){
+ var key=e.w.toLowerCase().replace(/"/g,"");
+ return '#!/usr/bin/env python3\n'+
+'"""JAH Word Program -- '+e.w+'\n'+
+'Official deterministic stamp: '+e.st+'\n'+
+'Generated by the JAH Dictionary. Run it: python3 word_program.py\n'+
+'It computes the deterministic signature of the word from fixed rules.\n'+
+'The same letters always give the same numbers, on any machine.\n'+
+'"""\n'+
+'WORD = "'+key+'"\n'+
+'STAMP = "'+e.st+'"\n'+
+'SCRABBLE = {"a":1,"b":3,"c":3,"d":2,"e":1,"f":4,"g":2,"h":4,"i":1,"j":8,"k":5,\n'+
+'            "l":1,"m":3,"n":1,"o":1,"p":3,"q":10,"r":1,"s":1,"t":1,"u":1,\n'+
+'            "v":4,"w":4,"x":8,"y":4,"z":10}\n'+
+'\n'+
+'def letter_values(word):\n'+
+'    return [ord(c) - 96 for c in word.lower() if "a" <= c <= "z"]\n'+
+'\n'+
+'def fnv1a(text):\n'+
+'    h = 2166136261\n'+
+'    for ch in text.encode("utf-8"):\n'+
+'        h = ((h ^ ch) * 16777619) & 0xFFFFFFFF\n'+
+'    return h\n'+
+'\n'+
+'def digital_root(n):\n'+
+'    return (n - 1) % 9 + 1 if n else 0\n'+
+'\n'+
+'def syllables(word):\n'+
+'    import re\n'+
+'    w = re.sub(r"[^a-z]", "", word.lower())\n'+
+'    if len(w) <= 3:\n'+
+'        return 1\n'+
+'    w = re.sub(r"(?:[^laeiouy]e|ed|es)$", "", w)\n'+
+'    return max(1, len(re.findall(r"[aeiouy]{1,2}", w)))\n'+
+'\n'+
+'def main():\n'+
+'    vals = letter_values(WORD)\n'+
+'    total = sum(vals)\n'+
+'    vowels = sum(1 for c in WORD if c in "aeiou")\n'+
+'    print("JAH Word Program -- " + WORD)\n'+
+'    print("Stamp: " + STAMP)\n'+
+'    print("Letter values (A1Z26): " + " ".join(str(v) for v in vals))\n'+
+'    print("Alphabetic sum: %d" % total)\n'+
+'    print("Digital root: %d" % digital_root(total))\n'+
+'    print("FNV-1a signature: %08X" % fnv1a(WORD))\n'+
+'    print("Letters: %d (%d vowels, %d consonants)" % (len(vals), vowels, len(vals)-vowels))\n'+
+'    print("Syllables (est.): %d" % syllables(WORD))\n'+
+'    print("Scrabble value: %d" % sum(SCRABBLE.get(c, 0) for c in WORD))\n'+
+'\n'+
+'if __name__ == "__main__":\n'+
+'    main()\n';
+}
+function runWordDemo(e,D){
+ var L=[];
+ L.push("JAH Word Program -- "+e.w.toLowerCase());
+ L.push("Stamp: "+e.st);
+ L.push("Letter values (A1Z26): "+D.vals.join(" "));
+ L.push("Alphabetic sum: "+D.sum);
+ L.push("Digital root: "+D.dr);
+ L.push("FNV-1a signature: "+D.fnvHex);
+ L.push("Letters: "+D.len+" ("+D.vowels+" vowels, "+D.cons+" consonants)");
+ L.push("Syllables (est.): "+D.syl);
+ L.push("Scrabble value: "+D.scr);
+ var el=document.getElementById("progout");
+ el.textContent=L.join("\n");el.style.display="block";
+}
+function dlEntryTxt(){if(window._entryText){var k=qp("w")||"entry";download(k.replace(/[^a-z0-9]+/gi,"-").toLowerCase()+".txt",window._entryText)}}
+function neighbors(e,pos,n){
+ var out=[],i=pos-1;while(out.length<n&&i>=0){out.push(DB.idx[i][0]);i--}
+ i=pos+1;while(out.length<n*2&&i<DB.idx.length){out.push(DB.idx[i][0]);i++}
+ return out.filter(function(k){return k!==e.w.toLowerCase()}).slice(0,n);
+}
+/* ---------- AI teacher ---------- */
+var SENT_FRAMES=["They talked about the {w} for hours.","She kept a {w} on the shelf by the window.","The old {w} had seen better days.","He pointed at the {w} and smiled.","A fine {w} is not easy to find.","The {w} caught everyone's eye."];
+function teacherReply(q,e,D,pos){
+ var w=e.w,low=String(q).toLowerCase(),senses=Array.isArray(e.d)?e.d:[e.d];
+ function firstSense(){return cleanSense(senses[0]||"").slice(0,300)}
+ if(/^(hi|hello|hey|yo|good (morning|afternoon|evening))\b/.test(low))
+  return "Hello! I'm your personal AI teacher for the word \u201c"+w+"\u201d. Ask me what it means, how to use it in a sentence, how to spell it, what its stamp is \u2014 anything about this word.";
+ if(/thank/.test(low))return "You're very welcome! Words are wonderful things. Ask me anything else about \u201c"+w+"\u201d.";
+ if(/spell/.test(low))return "\u201c"+w+"\u201d is spelled: "+w.toUpperCase().split("").join(" \u00b7 ")+". That's "+D.len+" letters.";
+ if(/syllable/.test(low))return "\u201c"+w+"\u201d has about "+D.syl+" syllable"+(D.syl===1?"":"s")+" (estimated by counting its vowel groups). Try saying it slowly and clap once per beat \u2014 you'll feel it.";
+ if(/sentence|example|use it|use .* in/.test(low)){var f=SENT_FRAMES[hashStr(w)%SENT_FRAMES.length].replace(/\{w\}/g,w);return "Here's \u201c"+w+"\u201d in a sentence:\n\n"+f+"\n\nNow you try one \u2014 make up your own sentence with \u201c"+w+"\u201d!"}
+ if(/synonym|similar|like|related word/.test(low)){var nb=neighbors(e,pos,6);return "Webster's 1913 doesn't list curated synonyms, but here are the word's nearest neighbors in the dictionary \u2014 tap any to visit: "+nb.map(function(k){return "\u201c"+k+"\u201d"}).join(", ")+"."}
+ if(/stamp|program|python|code/.test(low))return "Every word in the JAH Dictionary carries an official deterministic stamp \u2014 this word's is "+e.st+". It's computed from the word's fixed numeric identity (alphabetic sum "+D.sum+", root "+D.dr+", signature "+D.fnvHex+"). Scroll to \u201cProgram of the word\u201d to copy or download its Python program, or run the demo right in this page.";
+ if(/spec|patent|catalog|used|appear|where/.test(low)){
+  if(e.k==="w")return "\u201c"+w+"\u201d appears in "+e.s+" spec titles and "+e.p+" patent titles across the JAH catalogs. Tap \u201cSearch JAH Wiki\u201d on this page to see them in the encyclopedia.";
+  return "This is a catalog term for "+(e.rt==="patent"?"patent ":"spec ")+e.rid+". Use the record links on this page to open its full file in the wiki, the catalog, and the leaks archive."}
+ if(/pronounce|speak|say it|read/.test(low))return "Tap the \u201cRead aloud\u201d button at the top of this entry and I'll read the whole thing to you \u2014 you can change the speed too.";
+ if(/who|jah|webster|source|where.*from|1913/.test(low))return "The normal definitions on this page come from Webster's Revised Unabridged Dictionary of 1913, which is in the public domain. The deterministic definition, the stamp ("+e.st+"), the word program, and I \u2014 your teacher \u2014 are made by the JAH system.";
+ if(/mean|defin|what is|what does|what are|define/.test(low))return "In plain words: "+firstSense()+"\n\nThat's the 1913 Webster's sense. The deterministic reading adds that \u201c"+w+"\u201d is a "+D.syl+"-syllable form of "+D.len+" letters with alphabetic sum "+D.sum+" (root "+D.dr+").";
+ return "As your teacher for \u201c"+w+"\u201d, here's the heart of it: "+firstSense()+"\n\nYou can also ask me for a sentence using it, how to spell it, its syllables, its stamp, or where it appears in the catalogs.";
+}
+function wireTeacher(e,D,pos){
+ var log=document.getElementById("chatlog"),inp=document.getElementById("chatin"),btn=document.getElementById("chatgo");
+ function add(who,txt){var d=document.createElement("div");d.className="msg "+who;var b=document.createElement("div");b.className="b";b.textContent=txt;d.appendChild(b);log.appendChild(d);log.scrollTop=log.scrollHeight}
+ add("a","Hello! I'm the personal AI teacher for the word \u201c"+e.w+"\u201d. Ask me what it means, how to use it, how to spell it, or anything else about this word.");
+ function send(){var q=inp.value.trim();if(!q)return;inp.value="";add("u",q);
+  var t=document.createElement("div");t.className="msg a";t.innerHTML='<div class="b">...</div>';log.appendChild(t);log.scrollTop=log.scrollHeight;
+  setTimeout(function(){t.querySelector(".b").textContent=teacherReply(q,e,D,pos);log.scrollTop=log.scrollHeight},350)}
+ btn.onclick=send;inp.addEventListener("keydown",function(ev){if(ev.key==="Enter")send()});
+}
+/* ---------- entry render ---------- */
+async function vEntry(app,key){
+ var got=await getEntry(key).catch(function(){return null});
+ if(!got||!got.entry){app.innerHTML='<div class="crumb"><a href="?">JAH Dictionary</a> &rsaquo; not found</div><h1 class="hw">No entry for &ldquo;'+esc(key)+'&rdquo;</h1><p style="font-family:Arial">Try the search box or the A&ndash;Z browse.</p>';return}
+ var e=got.entry,D=detWord(e.w);
+ window._entryText=entryText(e,D);
+ var senses=Array.isArray(e.d)?e.d:[e.d];
+ var h='<div class="crumb"><a href="?">JAH Dictionary</a> &rsaquo; '+esc(e.w)+'</div>';
+ h+='<h1 class="hw">'+esc(e.w)+'</h1>';
+ h+='<div><span class="stamp">'+esc(e.st)+'</span>'+kindBadge(e)+'</div>';
+ h+='<div class="toolbar">'+rdToolbar()+'</div>';
+ h+='<div id="entrytext" style="display:none">'+esc(window._entryText)+'</div>';
+ h+='<h2 class="sec">Webster&rsquo;s 1913 &mdash; normal definition</h2><div class="defs"><ol>';
+ senses.forEach(function(s){h+='<li>'+esc(cleanSense(s))+'</li>'});
+ h+='</ol></div>';
+ h+='<h2 class="sec">JAH deterministic definition</h2><div class="detbox">';
+ h+='<p style="margin-top:0">'+esc(detGloss(e.w,D,senses.length))+'</p>';
+ h+='<table><tr><td class="k">Letter values (A1Z26)</td><td>'+D.vals.join(" ")+'</td></tr>'+
+ '<tr><td class="k">Alphabetic sum</td><td>'+D.sum+'</td></tr>'+
+ '<tr><td class="k">Digital root</td><td>'+D.dr+'</td></tr>'+
+ '<tr><td class="k">FNV-1a signature</td><td style="font-family:monospace">'+D.fnvHex+'</td></tr>'+
+ '<tr><td class="k">djb2 signature</td><td style="font-family:monospace">'+D.djbHex+'</td></tr>'+
+ '<tr><td class="k">Letters</td><td>'+D.len+' ('+D.vowels+' vowels, '+D.cons+' consonants)</td></tr>'+
+ '<tr><td class="k">Syllables (est.)</td><td>'+D.syl+'</td></tr>'+
+ '<tr><td class="k">Scrabble value</td><td>'+D.scr+'</td></tr>'+
+ '<tr><td class="k">Resonance class</td><td>'+D.rc+'</td></tr></table></div>';
+ h+='<h2 class="sec">Official deterministic stamp &amp; program of the word</h2>';
+ h+='<div class="stampbox"><div class="sub">OFFICIAL DETERMINISTIC STAMP &middot; JAH LEXICON</div><div class="big">'+esc(e.st)+'</div><div class="sub">WORD: '+esc(e.w.toUpperCase())+' &middot; SIGNATURE '+D.fnvHex+'</div></div>';
+ var prog=wordProgram(e,D);
+ h+='<div class="toolbar"><button onclick="copyText(window._prog,this)">\uD83D\uDCCB Copy program</button>'+
+ '<button onclick="download(\'word-'+e.w.toLowerCase().replace(/[^a-z0-9]+/g,"-")+'.py\',window._prog,\'text/x-python\')">\u2B07 Download .py</button>'+
+ '<button onclick="runWordDemo(window._e,window._D)">\u25B6 Run demo</button></div>';
+ h+='<div class="prog" id="progview">'+esc(prog)+'</div>';
+ h+='<div class="console" id="progout" style="display:none"></div>';
+ h+='<h2 class="sec">Your AI teacher for &ldquo;'+esc(e.w)+'&rdquo;</h2>';
+ h+='<div class="chat"><div class="persona"><b>\uD83C\uDF93 AI Teacher</b> &mdash; a personal explainer for the word &ldquo;'+esc(e.w)+'&rdquo;. Ask anything about it.</div><div class="chatlog" id="chatlog"></div><div class="chatin"><input id="chatin" placeholder="Ask about this word..." aria-label="Ask about this word"><button id="chatgo">Ask</button></div></div>';
+ if(e.k==="w"){
+  h+='<h2 class="sec">In the JAH catalogs</h2><div class="detbox"><p style="margin:0">\u201c'+esc(e.w)+'\u201d appears in <b>'+Number(e.s).toLocaleString()+'</b> spec titles and <b>'+Number(e.p).toLocaleString()+'</b> patent titles.</p>'+
+  '<p style="margin:8px 0 0"><a href="'+WIKI2+'/?q='+encodeURIComponent(e.w)+'" target="_blank" rel="noopener">Search JAH Wiki for &ldquo;'+esc(e.w)+'&rdquo; \u2B08</a> &nbsp;&middot;&nbsp; <a href="'+WIKI2+'/?dict='+encodeURIComponent(e.w)+'" target="_blank" rel="noopener">Open in JAH Wiki dictionary \u2B08</a></p></div>';
+ }else{
+  h+='<h2 class="sec">Catalog record</h2><div class="detbox">';
+  h+='<p style="margin-top:0"><b>'+esc(e.w)+'</b></p><p>'+esc(cleanSense(senses[0]||""))+'</p>';
+  if(e.cpc)h+='<p>CPC: '+esc(e.cpc)+'</p>';
+  h+='<p style="margin-bottom:0">';
+  if(e.rt==="spec"){h+='<a href="'+WIKI2+'/?page='+encodeURIComponent(e.rid)+'" target="_blank" rel="noopener">JAH Wiki article \u2B08</a> &nbsp;&middot;&nbsp; <a href="'+SPECCAT+'" target="_blank" rel="noopener">Spec Catalog \u2B08</a> &nbsp;&middot;&nbsp; <a href="'+LEAKS+'/?dossier='+encodeURIComponent(e.rid)+'" target="_blank" rel="noopener">Wiki Leaks dossier \u2B08</a>'}
+  else{h+='<a href="'+WIKI2+'/?page=PAT:'+encodeURIComponent(e.rid)+'" target="_blank" rel="noopener">JAH Wiki article \u2B08</a> &nbsp;&middot;&nbsp; <a href="'+PATCAT+'" target="_blank" rel="noopener">Patent Catalog \u2B08</a>'}
+  h+='</p></div>';
+ }
+ var nb=neighbors(e,got.pos,10);
+ h+='<h2 class="sec">Nearby headwords</h2><p style="font-family:Arial">'+nb.map(function(k){return linkW(k)}).join(" &middot; ")+'</p>';
+ h+='<p class="note">Normal definitions: Webster&rsquo;s Revised Unabridged Dictionary, 1913 (public domain). Deterministic definition, stamp '+esc(e.st)+', word program, and AI teacher generated by the JAH system.</p>';
+ app.innerHTML=h;
+ window._prog=prog;window._e=e;window._D=D;
+ document.title=e.w+" — JAH Dictionary";
+ wireTeacher(e,D,got.pos);
+}
+/* ================= router ================= */
+async function route(){
+ var app=document.getElementById("app");
+ try{
+  await loadDB();
+  var w=qp("w"),q=qp("q"),az=qp("az");
+  if(w)await vEntry(app,w.toLowerCase());
+  else if(q)await vSearch(app,q);
+  else if(az)await vBrowse(app,az,qp("pg"));
+  else await vHome(app);
+ }catch(err){
+  app.innerHTML='<p style="font-family:Arial">The dictionary data is still being shelved \u2014 please refresh in a minute.<br><small>'+esc(err&&err.message||err)+'</small></p>';
+ }
+ wireSearch();
+}
+document.addEventListener("DOMContentLoaded",route);
+</script>
+</body>
+</html>

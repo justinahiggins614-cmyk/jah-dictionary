@@ -146,8 +146,10 @@ function rdToolbar(){
  '<select id="rdspeed" onchange="RD.speed=parseFloat(this.value)" title="Reading speed">'+
  '<option value="0.8">0.8&times;</option><option value="1" selected>1&times;</option><option value="1.25">1.25&times;</option><option value="1.5">1.5&times;</option><option value="2">2&times;</option></select>'+
  '<button onclick="copyText(document.getElementById(\'entrytext\').textContent,this)">\uD83D\uDCCB Copy entry</button>'+
- '<button onclick="dlEntryTxt()">\u2B07 Download .txt</button>';
+ '<button onclick="dlEntryTxt()">\u2B07 Download .txt</button>'+
+ '<button onclick="wordPatent()" title="Open this word\u2019s patent draft in the Spec Catalog">\u2699 Word patent \u2192</button>';
 }
+function wordPatent(){var w=window._word||"";if(w)window.open("https://justinahiggins614-cmyk.github.io/signature-one-archive/specs.html?word="+encodeURIComponent(w),"_blank","noopener")}
 function rdToggle(){if(!RD.stopped){rdStop()}else{var t=document.getElementById("entrytext");if(t)rdSpeak(t.textContent)}}
 function sayWord(){var w=window._word||"";if(w)rdSpeak(w)}
 /* ================= data: dictionary index ================= */

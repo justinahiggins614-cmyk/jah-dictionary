@@ -1024,7 +1024,7 @@
 {"w": "sacrifice", "pos": "noun", "d": ["The act of giving up something valued for the sake of something else.", "An offering made to a god."], "src": "iwb"}
 {"w": "saint", "pos": "noun", "d": ["A holy person recognized for exceptional goodness.", "A title used before the name of such a person."], "src": "iwb"}
 {"w": "salt", "pos": "noun", "d": ["A white mineral used to season and preserve food."], "src": "iwb"}
-{"w": "sao", "pos": "noun", "d": ["S\u00e3o, the Portuguese word for Saint, used in place names such as S\u00e3o Paulo."], "src": "iwb"}
+{"w": "sao", "pos": "noun", "d": ["São, the Portuguese word for Saint, used in place names such as São Paulo."], "src": "iwb"}
 {"w": "satisfy", "pos": "verb", "d": ["To meet the needs, wishes, or expectations of someone.", "To convince or reassure someone that something is true."], "src": "iwb"}
 {"w": "saying", "pos": "noun", "d": ["A familiar short phrase that expresses a general truth or piece of advice."], "src": "iwb"}
 {"w": "schema", "pos": "noun", "d": ["An outline or plan showing how something is organized.", "In computing, the structure that defines how data is stored in a database."], "src": "iwb"}
@@ -4323,7 +4323,7 @@
 {"w": "jordan", "pos": "noun", "d": ["A country in the Middle East.", "A masculine or feminine given name."], "src": "iwb"}
 {"w": "judicial", "pos": "adjective", "d": ["Relating to courts of law or judges."], "src": "iwb"}
 {"w": "jungle", "pos": "noun", "d": ["A dense tropical forest with thick vegetation."], "src": "iwb"}
-{"w": "k", "pos": "noun", "d": ["The eleventh letter of the English alphabet.", "Abbreviation for thousand, as in 5k."], "src": "iwb"}
+{"w": "k", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "keno", "pos": "noun", "d": ["A gambling game similar to bingo in which players match drawn numbers."], "src": "iwb"}
 {"w": "kid", "pos": "noun", "d": ["A child or young person.", "To tease someone in a playful way."], "src": "iwb"}
 {"w": "kirk", "pos": "noun", "d": ["A church, especially in Scotland."], "src": "iwb"}

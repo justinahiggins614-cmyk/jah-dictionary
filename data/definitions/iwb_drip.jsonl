@@ -6398,3 +6398,803 @@
 {"w":"blear-eyed","pos":"adjective","d":["Having dim watery eyes."]}
 {"w":"bleareyedness","pos":"noun","d":["The state of having dim watery eyes."]}
 {"w":"bleary","pos":"adjective","d":["Dim or blurred from tiredness or tears."]}
+{"w": "bleat", "pos": "verb", "d": ["To utter the cry of a sheep or goat.", "To whine or complain in a feeble, wavering voice."]}
+{"w": "bleb", "pos": "noun", "d": ["A small blister or bubble on the skin.", "A small bubble trapped in a liquid or in glass."]}
+{"w": "blebby", "pos": "adjective", "d": ["Covered with small blisters or bubbles."]}
+{"w": "bleck", "pos": "verb", "d": ["To blacken or smear with black."]}
+{"w": "bled", "pos": "verb", "d": ["Past tense of bleed."]}
+{"w": "blee", "pos": "noun", "d": ["Color or complexion, especially of the face."]}
+{"w": "blek", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blemish", "pos": "noun", "d": ["A small mark or flaw that mars appearance.", "To mar or spoil the appearance of."]}
+{"w": "blench", "pos": "verb", "d": ["To shrink back or flinch, as in fear.", "To grow pale; to whiten."]}
+{"w": "blench holding", "pos": "noun", "d": ["A Scottish feudal land tenure held by payment of a merely nominal yearly duty."]}
+{"w": "blende", "pos": "noun", "d": ["A mineral of zinc sulfide, the chief ore of zinc; zinc blende."]}
+{"w": "blenheim spaniel", "pos": "noun", "d": ["A small red-and-white spaniel of the King Charles breed."]}
+{"w": "blenk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blenniid", "pos": "noun", "d": ["A fish of the blenny family Blenniidae."]}
+{"w": "blennioid", "pos": "adjective", "d": ["Resembling or related to the blennies."]}
+{"w": "blennogenous", "pos": "adjective", "d": ["Producing mucus."]}
+{"w": "blennorrhea", "pos": "noun", "d": ["An excessive discharge of mucus.", "Gonorrhea."]}
+{"w": "blenny", "pos": "noun", "d": ["A small scaleless marine fish with a blunt head."]}
+{"w": "blent", "pos": "verb", "d": ["Past tense of blend."]}
+{"w": "blepharitis", "pos": "noun", "d": ["Inflammation of the eyelids."]}
+{"w": "blesbok", "pos": "noun", "d": ["A South African antelope with a white blaze on its face."]}
+{"w": "blessed thistle", "pos": "noun", "d": ["A medicinal thistle with spiny leaves, used as a bitter tonic."]}
+{"w": "blest", "pos": "verb", "d": ["Past tense of bless."]}
+{"w": "blet", "pos": "verb", "d": ["To become soft and pulpy by ripening after being gathered, as medlars do."]}
+{"w": "bletonism", "pos": "noun", "d": ["The supposed power of finding underground water or metals, as with a divining rod."]}
+{"w": "blew", "pos": "verb", "d": ["Past tense of blow."]}
+{"w": "bleyme", "pos": "noun", "d": ["An inflammation of the sole of a horse's foot."]}
+{"w": "bleynte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blickey", "pos": "noun", "d": ["A small tin pail or can."]}
+{"w": "blight", "pos": "noun", "d": ["A plant disease that causes withering and decay.", "Anything that withers hopes or ruins prospects."]}
+{"w": "blimbi", "pos": "noun", "d": ["A small tropical tree of southeastern Asia bearing sour, cucumber-shaped fruit."]}
+{"w": "blimbing", "pos": "noun", "d": ["The sour, cucumber-shaped fruit of the blimbi tree."]}
+{"w": "blin", "pos": "noun", "d": ["A thin Russian pancake; the singular of blini."]}
+{"w": "blind reader", "pos": "noun", "d": ["A person who reads aloud for the benefit of blind people."]}
+{"w": "blinde", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blink beer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blink-eyed", "pos": "adjective", "d": ["Having eyes that blink or wink habitually; weak-sighted."]}
+{"w": "blinkard", "pos": "noun", "d": ["A person who blinks constantly; a dim-sighted or dull person."]}
+{"w": "blirt", "pos": "noun", "d": ["A sudden burst of weeping.", "A brief gust of wind with rain."]}
+{"w": "bliss", "pos": "noun", "d": ["Perfect happiness or joy."]}
+{"w": "blissom", "pos": "adjective", "d": ["In heat, as a ewe; lustful."]}
+{"w": "blister", "pos": "noun", "d": ["A small bubble of fluid under the skin caused by a burn or rubbing."]}
+{"w": "blistery", "pos": "adjective", "d": ["Covered with blisters."]}
+{"w": "blite", "pos": "noun", "d": ["A weedy plant of the goosefoot family, some kinds bearing edible berry-like fruit."]}
+{"w": "blithe", "pos": "adjective", "d": ["Carefree and cheerful."]}
+{"w": "blive", "pos": "adverb", "d": ["Quickly; without delay."]}
+{"w": "blizzard", "pos": "noun", "d": ["A severe snowstorm with high winds."]}
+{"w": "bloat", "pos": "verb", "d": ["To swell or puff up, as with gas or fluid."]}
+{"w": "blob", "pos": "noun", "d": ["A small soft roundish mass or drop."]}
+{"w": "blobber-lipped", "pos": "adjective", "d": ["Having thick, protruding lips."]}
+{"w": "blocage", "pos": "noun", "d": ["Rough rubble stonework used as filling in masonry."]}
+{"w": "block book", "pos": "noun", "d": ["An early printed book made from engraved wooden blocks, each page cut on one block."]}
+{"w": "block chain", "pos": "noun", "d": ["A chain formed of solid blocks linked together.", "A shared digital ledger in which records are grouped into linked blocks."]}
+{"w": "block signal", "pos": "noun", "d": ["A railway signal controlling entrance to a section of track."]}
+{"w": "block system", "pos": "noun", "d": ["A railway signaling method that keeps only one train in each section of track at a time."]}
+{"w": "block tin", "pos": "noun", "d": ["Pure tin cast into solid blocks."]}
+{"w": "blockade", "pos": "noun", "d": ["The shutting off of a place by armed force to stop supplies from entering.", "The force or ships carrying out such a shutting-off."]}
+{"w": "blocking course", "pos": "noun", "d": ["A course of masonry blocks laid on top of a wall or cornice."]}
+{"w": "bloedite", "pos": "noun", "d": ["A mineral composed of sodium and magnesium sulfate combined with water."]}
+{"w": "blolly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blomary", "pos": "noun", "d": ["A forge where iron is worked into blooms; a bloomery."]}
+{"w": "bloncket", "pos": "noun", "d": ["A small coarse woolen blanket."]}
+{"w": "blond metal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blonket", "pos": "noun", "d": ["A coarse woolen cloth or blanket."]}
+{"w": "blood money", "pos": "noun", "d": ["Money paid as compensation for a killing.", "Money paid to betray or murder someone."]}
+{"w": "blood vessel", "pos": "noun", "d": ["A tube in the body through which blood flows, as an artery or vein."]}
+{"w": "blood-boltered", "pos": "adjective", "d": ["Matted or clotted with blood, as hair."]}
+{"w": "blood-shotten", "pos": "adjective", "d": ["Bloodshot; red with inflamed blood vessels."]}
+{"w": "bloodily", "pos": "adverb", "d": ["In a bloody manner; with bloodshed."]}
+{"w": "bloodiness", "pos": "noun", "d": ["The state of being bloody; bloodthirstiness."]}
+{"w": "bloodulf", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bloody", "pos": "adjective", "d": ["Stained with blood; involving bloodshed."]}
+{"w": "bloody flux", "pos": "noun", "d": ["Dysentery marked by bloody discharges."]}
+{"w": "bloody hand", "pos": "noun", "d": ["A red hand used in heraldry as the badge of a baronet."]}
+{"w": "bloody sweat", "pos": "noun", "d": ["A sweat mixed with blood."]}
+{"w": "bloody-minded", "pos": "adjective", "d": ["Cruel and bloodthirsty; bent on bloodshed."]}
+{"w": "bloodybones", "pos": "noun", "d": ["A frightening figure in nursery tales used to scare children; a bugbear."]}
+{"w": "bloomery", "pos": "noun", "d": ["A forge where pig iron is worked into blooms of wrought iron."]}
+{"w": "bloomy", "pos": "adjective", "d": ["Covered with bloom; rosy and fresh like a flower in bloom."]}
+{"w": "blooth", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blore", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blosmy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blossom", "pos": "noun", "d": ["The flower of a plant, especially of a fruit tree.", "The state or time of flowering."]}
+{"w": "blossomy", "pos": "adjective", "d": ["Full of blossoms."]}
+{"w": "blot", "pos": "verb", "d": ["To spot or stain, as with ink.", "To dry with blotting paper.", "To soak up liquid with something absorbent."]}
+{"w": "blotch", "pos": "noun", "d": ["An irregular spot or patch of discoloration."]}
+{"w": "blotchy", "pos": "adjective", "d": ["Covered with blotches."]}
+{"w": "blote", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blottesque", "pos": "adjective", "d": ["Resembling or marked by blots; blotchy in style."]}
+{"w": "blotting paper", "pos": "noun", "d": ["Soft absorbent paper used to soak up excess ink."]}
+{"w": "blouse", "pos": "noun", "d": ["A loose garment for the upper body, worn by women and children."]}
+{"w": "blow valve", "pos": "noun", "d": ["A valve for letting steam or water escape from a boiler."]}
+{"w": "blow-off", "pos": "noun", "d": ["A blowing off of steam or gas; a discharge."]}
+{"w": "blow-out", "pos": "noun", "d": ["A sudden bursting, as of a tire.", "A merry feast or celebration."]}
+{"w": "blowess", "pos": "noun", "d": ["A woman."]}
+{"w": "blown", "pos": "verb", "d": ["Past participle of blow."]}
+{"w": "blowse", "pos": "noun", "d": ["A coarse, red-faced woman."]}
+{"w": "blowth", "pos": "noun", "d": ["Bloom; blossom."]}
+{"w": "blowy", "pos": "adjective", "d": ["Windy; exposed to wind."]}
+{"w": "blowze", "pos": "noun", "d": ["A coarse, red-faced woman; a blowse."]}
+{"w": "blowzy", "pos": "adjective", "d": ["Coarse and red-faced; disheveled."]}
+{"w": "blub", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blubbery", "pos": "adjective", "d": ["Like blubber; fat and swollen.", "Tearful; given to blubbering."]}
+{"w": "blucher", "pos": "noun", "d": ["A stout half boot, laced in front."]}
+{"w": "bludgeon", "pos": "noun", "d": ["A short heavy club."]}
+{"w": "blue bonnet", "pos": "noun", "d": ["A Scotsman, from the blue cap worn in Scotland.", "The cornflower."]}
+{"w": "blue book", "pos": "noun", "d": ["An official government report bound in blue.", "A book listing socially prominent persons.", "A booklet for writing examinations."]}
+{"w": "blue grass", "pos": "noun", "d": ["A pasture grass with bluish-green blades."]}
+{"w": "blue hen state", "pos": "noun", "d": ["Delaware, from its Revolutionary War nickname."]}
+{"w": "blue jay", "pos": "noun", "d": ["A noisy crested American bird with blue plumage."]}
+{"w": "blue-bonnet", "pos": "noun", "d": ["A flat blue woolen cap worn in Scotland; a Scotsman."]}
+{"w": "blue-eye", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "blue-eyed grass", "pos": "noun", "d": ["A small plant of the iris family with blue star-shaped flowers."]}
+{"w": "blue-grass state", "pos": "noun", "d": ["Kentucky, noted for its bluegrass pastures."]}
+{"w": "blue-john", "pos": "noun", "d": ["A blue and white variety of fluorite found in Derbyshire, England."]}
+{"w": "blue-skylaw", "pos": "noun", "d": ["A law regulating the sale of stocks to prevent fraud."]}
+{"w": "blue-veined", "pos": "adjective", "d": ["Marked with blue veins, as certain cheeses."]}
+{"w": "bluets", "pos": "noun", "d": ["Small blue spring flowers of the bedstraw family."]}
+{"w": "bluey", "pos": "noun", "d": ["A bushman's blanket roll; a swag, in Australia."]}
+{"w": "bluff", "pos": "noun", "d": ["A high, steep bank or cliff.", "A deceptive show of strength meant to frighten."]}
+{"w": "bluff-bowed", "pos": "adjective", "d": ["Having broad, blunt bows, as a ship."]}
+{"w": "bluff-headed", "pos": "adjective", "d": ["Having a blunt, bluff bow."]}
+{"w": "bluffy", "pos": "adjective", "d": ["Abounding in bluffs.", "Blustering; bluff in manner."]}
+{"w": "bluish", "pos": "adjective", "d": ["Somewhat blue."]}
+{"w": "blunder", "pos": "noun", "d": ["A stupid mistake.", "A clumsy stumble."]}
+{"w": "blunge", "pos": "verb", "d": ["To mix clay with water in pottery making."]}
+{"w": "blunt", "pos": "adjective", "d": ["Having a dull edge or point.", "Outspoken and direct in speech."]}
+{"w": "blunt-witted", "pos": "adjective", "d": ["Dull of mind; stupid."]}
+{"w": "blur", "pos": "noun", "d": ["A smear that obscures; something seen indistinctly."]}
+{"w": "blurry", "pos": "adjective", "d": ["Indistinct; out of focus."]}
+{"w": "blurt", "pos": "verb", "d": ["To utter suddenly and without thought."]}
+{"w": "blush", "pos": "noun", "d": ["A reddening of the face from shame or modesty."]}
+{"w": "blushet", "pos": "noun", "d": ["A young girl given to blushing."]}
+{"w": "blushy", "pos": "adjective", "d": ["Inclined to blush."]}
+{"w": "bluster", "pos": "verb", "d": ["To talk or blow in a noisy, bullying way."]}
+{"w": "blustrous", "pos": "adjective", "d": ["Blustering; boisterous and noisy."]}
+{"w": "bo tree", "pos": "noun", "d": ["The pipal tree of India, sacred to Buddhists."]}
+{"w": "boa", "pos": "noun", "d": ["A large nonvenomous snake that crushes its prey.", "A long fluffy scarf of fur or feathers worn around the neck."]}
+{"w": "boa constrictor", "pos": "noun", "d": ["A large South American snake that kills its prey by constriction."]}
+{"w": "boanerges", "pos": "noun", "d": ["A loud, fiery preacher; literally, a son of thunder."]}
+{"w": "boar", "pos": "noun", "d": ["A male hog; a wild hog."]}
+{"w": "boast", "pos": "verb", "d": ["To brag about oneself.", "To speak with excessive pride of what one owns or has done."]}
+{"w": "boat bug", "pos": "noun", "d": ["A water boatman, an aquatic insect that rows with oar-like legs."]}
+{"w": "boat shell", "pos": "noun", "d": ["A boat-shaped mollusk shell, such as a slipper shell."]}
+{"w": "boat-shaped", "pos": "adjective", "d": ["Shaped like a boat."]}
+{"w": "boat-tail", "pos": "adjective", "d": ["Tapering like the stern of a boat."]}
+{"w": "boatsman", "pos": "noun", "d": ["A man who manages boats; a boatman."]}
+{"w": "bob wig", "pos": "noun", "d": ["A short wig with curls at the bottom."]}
+{"w": "bob-cherry", "pos": "noun", "d": ["A game of catching with the mouth a cherry hung on a string."]}
+{"w": "bobac", "pos": "noun", "d": ["The bobak, a large marmot of the Eurasian steppes."]}
+{"w": "bobbery", "pos": "noun", "d": ["A disturbance; a noisy row."]}
+{"w": "bobbinet", "pos": "noun", "d": ["A machine-made net fabric imitating lace."]}
+{"w": "bobolink", "pos": "noun", "d": ["An American songbird with black, white, and buff plumage."]}
+{"w": "bocal", "pos": "noun", "d": ["A flaring glass vase.", "The mouthpiece tube of a bassoon."]}
+{"w": "bocardo", "pos": "noun", "d": ["A logical mood of the third figure.", "An old prison in Oxford, England."]}
+{"w": "bocasine", "pos": "noun", "d": ["A fine buckram-like fabric."]}
+{"w": "bocca", "pos": "noun", "d": ["The mouth; an opening, as of a furnace."]}
+{"w": "boce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bock beer", "pos": "noun", "d": ["A strong, dark German beer."]}
+{"w": "bockelet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bockey", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bocking", "pos": "noun", "d": ["A coarse woolen cloth used for baize."]}
+{"w": "bockland", "pos": "noun", "d": ["Land held by written charter among the Anglo-Saxons; bookland."]}
+{"w": "bod veal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "boddice", "pos": "noun", "d": ["An old spelling of bodice."]}
+{"w": "bode", "pos": "verb", "d": ["To portend; to foreshow.", "Past tense of bide."]}
+{"w": "bodge", "pos": "verb", "d": ["To botch; to patch up clumsily."]}
+{"w": "bodhisat", "pos": "noun", "d": ["A variant spelling of bodhisattva."]}
+{"w": "bodhisattva", "pos": "noun", "d": ["In Buddhism, one who seeks enlightenment for the sake of all beings."]}
+{"w": "bodhisattwa", "pos": "noun", "d": ["A variant spelling of bodhisattva."]}
+{"w": "bodian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bodice", "pos": "noun", "d": ["The close-fitting upper part of a woman's dress."]}
+{"w": "bodiless", "pos": "adjective", "d": ["Without a body; incorporeal."]}
+{"w": "bodiliness", "pos": "noun", "d": ["The state of having a body; corporeality."]}
+{"w": "bodily", "pos": "adjective", "d": ["Of or belonging to the body.", "Carried out by the body; physical."]}
+{"w": "bodkin", "pos": "noun", "d": ["A small dagger.", "A blunt needle for drawing tape through a hem."]}
+{"w": "bodle", "pos": "noun", "d": ["An old Scottish copper coin of small value."]}
+{"w": "bodleian", "pos": "adjective", "d": ["Relating to the Bodleian Library at Oxford."]}
+{"w": "bodock", "pos": "noun", "d": ["The Osage orange tree of North America."]}
+{"w": "bodrage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "boeotian", "pos": "adjective", "d": ["Of Boeotia in ancient Greece; dull and stupid.", "A native of Boeotia; a dull person."]}
+{"w": "boer", "pos": "noun", "d": ["A Dutch colonist farmer in South Africa; an Afrikaner."]}
+{"w": "bog", "pos": "noun", "d": ["Wet spongy ground; a marsh."]}
+{"w": "bogey", "pos": "noun", "d": ["A goblin or specter used to frighten children.", "In golf, one stroke over par on a hole."]}
+{"w": "boggle", "pos": "verb", "d": ["To start back in fright; to hesitate."]}
+{"w": "bogglish", "pos": "adjective", "d": ["Inclined to boggle or shy."]}
+{"w": "boggy", "pos": "adjective", "d": ["Full of bogs; marshy."]}
+{"w": "bogie", "pos": "noun", "d": ["A low wheeled truck or frame, as under a locomotive.", "A goblin; a bogy."]}
+{"w": "bogie engine", "pos": "noun", "d": ["A locomotive carried on a swiveling bogie truck."]}
+{"w": "bogle", "pos": "noun", "d": ["A goblin; a specter."]}
+{"w": "bogtrotting", "pos": "adjective", "d": ["Wandering over bogs."]}
+{"w": "bogue", "pos": "noun", "d": ["A Mediterranean sea bream.", "A bayou or sluggish channel in the southern United States."]}
+{"w": "bogus", "pos": "adjective", "d": ["Fake; not genuine."]}
+{"w": "bogy", "pos": "noun", "d": ["A goblin or bugbear; a bogey."]}
+{"w": "bohea", "pos": "noun", "d": ["A black tea from China, of common quality."]}
+{"w": "bohemia", "pos": "noun", "d": ["The region of Bohemia in central Europe.", "The community of unconventional artists and writers."]}
+{"w": "bohemian", "pos": "noun", "d": ["One who lives unconventionally, especially an artist.", "A native or inhabitant of Bohemia."]}
+{"w": "bohun upas", "pos": "noun", "d": ["The upas tree of Java, fabled for its poisonous exhalations."]}
+{"w": "boiar", "pos": "noun", "d": ["A Russian noble of old rank; a boyar."]}
+{"w": "boil", "pos": "verb", "d": ["To bubble up from heat; to cook in boiling water."]}
+{"w":"boilery","pos":"noun","d":["A building or works where boiling is done on a large scale, as in making sugar or salt."]}
+{"w":"bois durci","pos":"noun","d":["A molded material made from sawdust and dried blood protein, pressed into decorative objects."]}
+{"w":"boist","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boisterous","pos":"adjective","d":["Loud, rowdy, and full of rough, high-spirited energy."]}
+{"w":"bojanus organ","pos":"noun","d":["The paired excretory organ found in bivalve mollusks such as clams and mussels."]}
+{"w":"bokadam","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boke","pos":"noun","d":["An old Scots spelling of the word book."]}
+{"w":"bolar","pos":"adjective","d":["Of or relating to bole, a soft clay used as a pigment."]}
+{"w":"bolas","pos":"noun","d":["A weapon of two or three heavy balls joined by cords, thrown to tangle the legs of an animal."]}
+{"w":"bold eagle","pos":"noun","d":["A name sometimes used for the bald eagle."]}
+{"w":"bold-faced","pos":"adjective","d":["Shameless and impudent in manner.","Printed in thick, dark type."]}
+{"w":"boldo","pos":"noun","d":["A South American evergreen shrub whose leaves are used as a herbal remedy."]}
+{"w":"boldu","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bole","pos":"noun","d":["The trunk of a tree.","A soft, fine clay, often reddish, used as a pigment."]}
+{"w":"bolection","pos":"noun","d":["A raised molding that projects over the face of a framed panel or door."]}
+{"w":"bolero","pos":"noun","d":["A lively Spanish dance in triple time.","A short jacket that ends above the waist."]}
+{"w":"bolete","pos":"noun","d":["A mushroom with a spongy layer of tubes under the cap instead of gills."]}
+{"w":"boletus","pos":"noun","d":["A genus of bolete mushrooms with thick stems and spongy, pored caps."]}
+{"w":"boley","pos":"noun","d":["A summer pasture or seasonal cattle camp in Ireland."]}
+{"w":"bolide","pos":"noun","d":["A very bright meteor that explodes as it passes through the atmosphere."]}
+{"w":"bolis","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bolivian","pos":"noun","d":["A native or citizen of Bolivia."]}
+{"w":"boll","pos":"noun","d":["The rounded seed pod of the cotton or flax plant."]}
+{"w":"bollandists","pos":"noun","d":["A group of Jesuit scholars who study and publish the lives of saints."]}
+{"w":"bollard","pos":"noun","d":["A short, sturdy post on a dock or quay for tying up a ship's ropes."]}
+{"w":"boln","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bolo","pos":"noun","d":["A long, heavy single-edged knife used in the Philippines for cutting vegetation."]}
+{"w":"bologna","pos":"noun","d":["A large, mild sausage usually sliced thin for sandwiches."]}
+{"w":"bolognese","pos":"adjective","d":["Of or relating to the Italian city of Bologna.","A meat-based sauce for pasta, named after Bologna."]}
+{"w":"bolognian","pos":"adjective","d":["Of or relating to Bologna, Italy."]}
+{"w":"bolsa","pos":"noun","d":["A stock exchange in Spanish- and Portuguese-speaking countries."]}
+{"w":"bolster","pos":"verb","d":["To support or strengthen something.","A long, firm cylindrical pillow laid along a bed."]}
+{"w":"boltel","pos":"noun","d":["A small rounded molding on a column or capital."]}
+{"w":"boltonite","pos":"noun","d":["A pale variety of the mineral olivine."]}
+{"w":"bolty","pos":"adjective","d":["Tending to bolt or run off suddenly."]}
+{"w":"bolus","pos":"noun","d":["A soft, rounded mass of chewed food ready to be swallowed.","A single large dose of medicine given at once."]}
+{"w":"bolye","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bom","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bombardier","pos":"noun","d":["The crew member who aims and releases bombs from an aircraft.","A beetle that shoots out a hot, noxious vapor when attacked."]}
+{"w":"bombardo","pos":"noun","d":["A short, heavy cannon of former times that fired stone balls."]}
+{"w":"bombardon","pos":"noun","d":["A large, low-pitched brass instrument of the tuba family."]}
+{"w":"bombasine","pos":"noun","d":["A smooth twilled dress fabric, originally made of silk and wool."]}
+{"w":"bombastry","pos":"noun","d":["Pompous, inflated speech or writing."]}
+{"w":"bombax","pos":"noun","d":["A genus of tropical trees with large showy flowers, including the silk-cotton tree."]}
+{"w":"bombazet","pos":"noun","d":["A light woolen fabric similar to bombazine."]}
+{"w":"bombazette","pos":"noun","d":["A light twilled woolen fabric."]}
+{"w":"bombazine","pos":"noun","d":["A twilled fabric of silk and wool, usually black, once much used for mourning clothes."]}
+{"w":"bombilate","pos":"verb","d":["To hum or buzz like a bee."]}
+{"w":"bombilation","pos":"noun","d":["A humming or buzzing sound."]}
+{"w":"bombination","pos":"noun","d":["A buzzing or humming noise."]}
+{"w":"bombycid","pos":"noun","d":["A moth of the silkworm family."]}
+{"w":"bombycinous","pos":"adjective","d":["Silky or silklike in texture."]}
+{"w":"bombylious","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bombyx","pos":"noun","d":["A genus of moths that includes the silkworm moth."]}
+{"w":"bon silene","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bon ton","pos":"phrase","d":["Fashionable society; the height of good taste and manners."]}
+{"w":"bon vivant","pos":"phrase","d":["A person who enjoys good food and drink and the pleasures of life."]}
+{"w":"bon-accord","pos":"phrase","d":["Good agreement or harmony between people."]}
+{"w":"bona fide","pos":"phrase","d":["Genuine and done in good faith; sincere."]}
+{"w":"bona peritura","pos":"phrase","d":["Goods likely to perish or spoil before a legal case can be decided."]}
+{"w":"bona roba","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bonaci","pos":"noun","d":["A large edible fish of the grouper family found in tropical Atlantic waters."]}
+{"w":"bonanza","pos":"noun","d":["A rich source of profit or good luck, originally a rich vein of ore."]}
+{"w":"bonapartean","pos":"adjective","d":["Relating to Napoleon Bonaparte or his style of rule."]}
+{"w":"bonapartism","pos":"noun","d":["Support for the political ideas or dynasty of Napoleon Bonaparte."]}
+{"w":"bonapartist","pos":"noun","d":["A supporter of Napoleon Bonaparte or his dynasty."]}
+{"w":"bonassus","pos":"noun","d":["The European bison, also called the wisent."]}
+{"w":"bonasus","pos":"noun","d":["The European bison."]}
+{"w":"bonbonniere","pos":"noun","d":["A small fancy box for holding bonbons or sweets."]}
+{"w":"bonce","pos":"noun","d":["A person's head, in informal British speech."]}
+{"w":"bonchretien","pos":"noun","d":["A large, sweet variety of winter pear."]}
+{"w":"boncilate","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bond servant","pos":"phrase","d":["A person bound to serve another for a set term, especially to work off a debt."]}
+{"w":"bond service","pos":"phrase","d":["The condition of being bound to serve another as a bond servant."]}
+{"w":"bondar","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bondsman","pos":"noun","d":["A person who provides bail money for an accused person.","A man bound in service; a serf or slave."]}
+{"w":"bondswoman","pos":"noun","d":["A woman bound in service; a female serf or slave."]}
+{"w":"bonduc","pos":"noun","d":["A tropical tree whose hard, round seeds are used for beads."]}
+{"w":"bonetta","pos":"noun","d":["A small bonnet or cap."]}
+{"w":"bongo","pos":"noun","d":["A large African forest antelope with white stripes.","One of a pair of small drums played with the hands."]}
+{"w":"bonhomie","pos":"noun","d":["Good-natured friendliness; a warm and cheerful manner."]}
+{"w":"bonhommie","pos":"noun","d":["Good-natured friendliness and cheer."]}
+{"w":"bonibell","pos":"noun","d":["A pretty young woman."]}
+{"w":"boniface","pos":"noun","d":["An innkeeper, especially a jolly one."]}
+{"w":"boniform","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boniness","pos":"noun","d":["The quality of being bony; thinness with prominent bones."]}
+{"w":"bonitary","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bonito","pos":"noun","d":["A medium-sized, tuna-like fish found in warm seas."]}
+{"w":"bonnaz","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bonne","pos":"noun","d":["A French nursemaid or female servant."]}
+{"w":"bonne bouche","pos":"phrase","d":["A tasty morsel; a pleasing little bit of food."]}
+{"w":"bonnet rouge","pos":"phrase","d":["The red cap worn as a symbol of liberty during the French Revolution."]}
+{"w":"bonnibel","pos":"noun","d":["A pretty young woman."]}
+{"w":"bonnie","pos":"adjective","d":["Pretty, healthy, and attractive in appearance."]}
+{"w":"bonnilass","pos":"noun","d":["A pretty young woman."]}
+{"w":"bonnily","pos":"adverb","d":["In a bonnie way; prettily and cheerfully."]}
+{"w":"bonniness","pos":"noun","d":["The quality of being bonnie; prettiness."]}
+{"w":"bonny","pos":"adjective","d":["Pretty, healthy, and pleasing to look at."]}
+{"w":"bonspiel","pos":"noun","d":["A curling tournament or match."]}
+{"w":"bontebok","pos":"noun","d":["A South African antelope with a white blaze on its face."]}
+{"w":"bony","pos":"adjective","d":["Full of bones, or thin with prominent bones."]}
+{"w":"bonze","pos":"noun","d":["A Buddhist monk or priest."]}
+{"w":"booby","pos":"noun","d":["A foolish or stupid person.","A tropical seabird that dives for fish."]}
+{"w":"boodh","pos":"noun","d":["An old spelling of Buddha."]}
+{"w":"boodle","pos":"noun","d":["Money gained dishonestly, especially through bribery.","A crowd or bunch of people, in slang."]}
+{"w":"booetes","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boohoe","pos":"interjection","d":["An imitation of the sound of loud weeping."]}
+{"w":"boohoo","pos":"verb","d":["To weep loudly and noisily."]}
+{"w":"book muslin","pos":"phrase","d":["A fine, sheer cotton fabric used for linings and book covers."]}
+{"w":"book-learned","pos":"adjective","d":["Learned mainly from books rather than from experience."]}
+{"w":"booking clerk","pos":"phrase","d":["A clerk who sells tickets and takes bookings, as at a railway station."]}
+{"w":"booking office","pos":"phrase","d":["An office where tickets are sold and reservations are made."]}
+{"w":"bookselling","pos":"noun","d":["The business of selling books."]}
+{"w":"booky","pos":"adjective","d":["Fond of books; bookish."]}
+{"w":"booly","pos":"noun","d":["A summer pasture for cattle in Ireland."]}
+{"w":"boomdas","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boomerang","pos":"noun","d":["A curved wooden throwing weapon that returns to the thrower.","An act or plan that backfires on its maker."]}
+{"w":"boomorah","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boomslange","pos":"noun","d":["A venomous green tree snake of southern Africa."]}
+{"w":"boon","pos":"noun","d":["A timely blessing or benefit.","A favor asked or granted."]}
+{"w":"boor","pos":"noun","d":["A rude and unmannerly person."]}
+{"w":"boort","pos":"noun","d":["Low-grade diamond fragments used as an abrasive."]}
+{"w":"boose","pos":"noun","d":["Alcoholic drink, in old or slang use."]}
+{"w":"bootee","pos":"noun","d":["A short, soft boot, especially for a baby."]}
+{"w":"boothy","pos":"adjective","d":["Having the character of a booth; full of booths."]}
+{"w":"bootikin","pos":"noun","d":["A little boot."]}
+{"w":"booze","pos":"noun","d":["Alcoholic liquor.","To drink alcohol heavily."]}
+{"w":"boozy","pos":"adjective","d":["Drunk or fond of drinking; smelling of alcohol."]}
+{"w":"bopeep","pos":"noun","d":["The children's game of peekaboo."]}
+{"w":"borachte","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boracic","pos":"adjective","d":["Of or relating to borax or boron."]}
+{"w":"boracite","pos":"noun","d":["A mineral containing magnesium borate, found in salt deposits."]}
+{"w":"boracous","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"borage","pos":"noun","d":["A hairy-leaved herb with blue, star-shaped flowers, used in salads and teas."]}
+{"w":"boraginaceous","pos":"adjective","d":["Belonging to the borage family of plants."]}
+{"w":"boragineous","pos":"adjective","d":["Like or relating to borage."]}
+{"w":"boramez","pos":"noun","d":["A legendary plant of central Asia said to bear lambs as its fruit."]}
+{"w":"borate","pos":"noun","d":["A salt of boric acid."]}
+{"w":"borax","pos":"noun","d":["A white crystalline mineral salt used in cleaning, glassmaking, and soldering."]}
+{"w":"borborygm","pos":"noun","d":["A rumbling sound made by gas moving through the intestines."]}
+{"w":"bord","pos":"noun","d":["An old form of the word board."]}
+{"w":"bord service","pos":"phrase","d":["Service owed by a tenant in the form of food or lodging."]}
+{"w":"bordar","pos":"noun","d":["A smallholder or cottager in medieval England, ranking below a villein."]}
+{"w":"bordeaux","pos":"noun","d":["A red or white wine from the Bordeaux region of France.","A dark purplish-red color."]}
+{"w":"bordeaux mixture","pos":"phrase","d":["A fungicide of copper sulfate and lime, sprayed on plants."]}
+{"w":"bordel","pos":"noun","d":["A brothel."]}
+{"w":"bordelais","pos":"adjective","d":["Of or relating to Bordeaux, France."]}
+{"w":"bordello","pos":"noun","d":["A brothel."]}
+{"w":"bordereau","pos":"noun","d":["A detailed list or memorandum, especially of documents."]}
+{"w":"bore","pos":"verb","d":["To pierce or drill a hole.","A dull, tiresome person or thing."]}
+{"w":"boreas","pos":"noun","d":["The north wind, personified in Greek myth."]}
+{"w":"boree","pos":"noun","d":["A ceremonial dance of Aboriginal Australians."]}
+{"w":"borel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"borele","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boric","pos":"adjective","d":["Of or containing boron, especially boric acid."]}
+{"w":"boride","pos":"noun","d":["A compound of boron with another element."]}
+{"w":"borne","pos":"adjective","d":["Carried or transmitted, as in water-borne."]}
+{"w":"borneol","pos":"noun","d":["A fragrant crystalline alcohol found in some essential oils."]}
+{"w":"bornite","pos":"noun","d":["A copper iron sulfide mineral with iridescent colors, called peacock ore."]}
+{"w":"borofluoride","pos":"noun","d":["A salt containing boron and fluorine."]}
+{"w":"boroglyceride","pos":"noun","d":["A compound of boric acid and glycerin, used as an antiseptic."]}
+{"w":"boron","pos":"noun","d":["A chemical element, a hard metalloid used in glass and detergents."]}
+{"w":"borosilicate","pos":"noun","d":["A heat-resistant glass containing boron."]}
+{"w":"borough-english","pos":"phrase","d":["An old English custom by which the youngest son inherits his father's land."]}
+{"w":"boroughmongery","pos":"noun","d":["The corrupt practice of buying and selling seats in parliamentary boroughs."]}
+{"w":"borracho","pos":"adjective","d":["Intoxicated with drink; drunk."]}
+{"w":"borrage","pos":"noun","d":["Another spelling of borage, the blue-flowered herb."]}
+{"w":"borraginaceous","pos":"adjective","d":["Belonging to the borage family of plants."]}
+{"w":"borrel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"borrow","pos":"verb","d":["To take and use something with the promise to return it.","To adopt a word or idea from another source."]}
+{"w":"borsholder","pos":"noun","d":["A petty parish officer in old England; a headborough."]}
+{"w":"bort","pos":"noun","d":["Imperfect diamond fragments used as an abrasive."]}
+{"w":"boruret","pos":"noun","d":["A compound of boron with a metal; a boride."]}
+{"w":"borwe","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bos","pos":"noun","d":["A genus of cattle that includes domestic cows and oxen."]}
+{"w":"bosa","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bosh","pos":"noun","d":["Nonsense; foolish talk."]}
+{"w":"boshbok","pos":"noun","d":["A small striped African antelope; the bushbuck."]}
+{"w":"bosjesman","pos":"noun","d":["An old name for a member of the San peoples of southern Africa."]}
+{"w":"bosk","pos":"noun","d":["A small grove or thicket of bushes."]}
+{"w":"boskiness","pos":"noun","d":["The quality of being bosky; wooded shagginess."]}
+{"w":"bosky","pos":"adjective","d":["Covered with bushes or trees; wooded."]}
+{"w":"bosom","pos":"noun","d":["The chest of a person, or a woman's breasts.","Close and intimate affection, as in a bosom friend."]}
+{"w":"boson","pos":"noun","d":["A subatomic particle that carries force, such as a photon."]}
+{"w":"bosporian","pos":"adjective","d":["Of or relating to the Bosporus strait."]}
+{"w":"bosporus","pos":"noun","d":["The strait connecting the Black Sea to the Sea of Marmara."]}
+{"w":"bossy","pos":"adjective","d":["Given to ordering people about; domineering.","Having rounded knobs or studs."]}
+{"w":"bostryx","pos":"noun","d":["A coiled cluster of flowers; a one-sided coiled inflorescence."]}
+{"w":"boswellian","pos":"adjective","d":["Relating to James Boswell or his detailed biographical style."]}
+{"w":"boswellism","pos":"noun","d":["Devoted, detailed biographical writing in the manner of James Boswell."]}
+{"w":"bot","pos":"noun","d":["The larva of a botfly that lives in an animal's skin or stomach.","A software program that performs automatic tasks; a robot."]}
+{"w":"botanic","pos":"adjective","d":["Relating to plants or to botany."]}
+{"w":"botanist","pos":"noun","d":["A scientist who studies plants."]}
+{"w":"botanize","pos":"verb","d":["To study plants in the field; to collect plant specimens."]}
+{"w":"botanologer","pos":"noun","d":["One who studies plants; a botanist."]}
+{"w":"botanology","pos":"noun","d":["The study of plants; botany."]}
+{"w":"botanomancy","pos":"noun","d":["Divination by means of plants or leaves."]}
+{"w":"botany bay","pos":"phrase","d":["A bay in Australia, formerly a British penal colony."]}
+{"w":"botch","pos":"verb","d":["To spoil by clumsy work.","A clumsy, spoiled piece of work."]}
+{"w":"botchedly","pos":"adverb","d":["In a botched manner; clumsily."]}
+{"w":"botchery","pos":"noun","d":["Work done so clumsily that it is spoiled or ruined."]}
+{"w":"botchy","pos":"adjective","d":["Done badly or sloppily, full of mistakes."]}
+{"w":"bote","pos":"noun","d":["Under old English law, a tenant's right to take wood or other necessaries from an estate for fuel, repairs, or fencing."]}
+{"w":"both-hands","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bothnian","pos":"adjective","d":["Of or relating to the Gulf of Bothnia, the northern arm of the Baltic Sea between Sweden and Finland."]}
+{"w":"bothnic","pos":"adjective","d":["Of or relating to the Gulf of Bothnia."]}
+{"w":"bothrenchyma","pos":"noun","d":["A plant tissue made up of vessels marked with pits or dots."]}
+{"w":"bothy","pos":"noun","d":["A small, rough shelter or hut, especially one left open for travelers in remote country."]}
+{"w":"botocudos","pos":"noun","d":["Indigenous peoples of eastern Brazil, historically known for wearing large wooden plugs in the lips and ears."]}
+{"w":"botryogen","pos":"noun","d":["A red, glassy mineral composed of hydrous magnesium and iron sulfate."]}
+{"w":"botryoid","pos":"adjective","d":["Shaped like a bunch of grapes; formed of rounded clusters."]}
+{"w":"botryolite","pos":"noun","d":["A variety of the mineral datolite that grows in rounded, grape-like clusters."]}
+{"w":"botryose","pos":"adjective","d":["Having the form of a cluster of grapes."]}
+{"w":"bottle green","pos":"noun","d":["A very dark green color, like that of an ordinary wine bottle."]}
+{"w":"bottle-neck frame","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bottle-nose","pos":"noun","d":["A dolphin with a blunt, bottle-shaped snout."]}
+{"w":"bottom fermentation","pos":"noun","d":["Fermentation in which the yeast sinks to the bottom of the liquid, as in brewing lager."]}
+{"w":"bottomry","pos":"noun","d":["A maritime contract in which money is lent on a ship, to be repaid with interest only if the ship finishes its voyage safely."]}
+{"w":"botts","pos":"noun","d":["The parasitic larvae of the botfly, which live in the stomachs or under the skin of horses and other animals."]}
+{"w":"botuliform","pos":"adjective","d":["Shaped like a sausage."]}
+{"w":"bouch","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bouche","pos":"noun","d":["The mouth; the opening of something, as of a cannon."]}
+{"w":"boucherize","pos":"verb","d":["To preserve timber by forcing a chemical preservative through the wood under pressure."]}
+{"w":"boud","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boudoir","pos":"noun","d":["A woman's private bedroom or sitting room."]}
+{"w":"bouffe","pos":"adjective","d":["Comic or farcical in style, especially of a light opera."]}
+{"w":"bougainvillaea","pos":"noun","d":["A tropical climbing shrub grown for its showy, brightly colored bracts."]}
+{"w":"bouge","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bouget","pos":"noun","d":["A stylized leather water bucket used as a charge in heraldry."]}
+{"w":"bough","pos":"noun","d":["A large branch of a tree."]}
+{"w":"boughty","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bougie","pos":"noun","d":["A slender, flexible surgical rod passed into a body passage to widen it or to guide another instrument."]}
+{"w":"bougie decimale","pos":"noun","d":["A former French unit of light intensity, defined as one-twentieth of the standard platinum light."]}
+{"w":"bouilli","pos":"noun","d":["Boiled or stewed meat, especially beef, in French cooking."]}
+{"w":"bouillon","pos":"noun","d":["A clear, thin soup or broth made by simmering meat or vegetables in water."]}
+{"w":"bouk","pos":"noun","d":["The trunk of the body; the carcass of an animal."]}
+{"w":"boul","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boulangerite","pos":"noun","d":["A gray metallic mineral composed of lead, antimony, and sulfur."]}
+{"w":"boulangism","pos":"noun","d":["The political movement in late nineteenth-century France that supported General Boulanger."]}
+{"w":"bouldery","pos":"adjective","d":["Full of boulders; covered with large rounded stones."]}
+{"w":"boule","pos":"noun","d":["A round loaf of bread.","One of the balls thrown in the game of boules."]}
+{"w":"boulevardier","pos":"noun","d":["A sophisticated man who frequents fashionable city boulevards and cafes."]}
+{"w":"bouleversement","pos":"noun","d":["A violent overturning or complete upheaval of an established order."]}
+{"w":"boult","pos":"verb","d":["To sift flour or meal through a bolter, separating the fine part from the coarse."]}
+{"w":"boultel","pos":"noun","d":["A small rounded molding, convex in section, used in Gothic architecture."]}
+{"w":"boun","pos":"verb","d":["To prepare or make ready, especially for a journey."]}
+{"w":"bounce","pos":"verb","d":["To spring back from a surface after striking it.","To move up and down in a lively, springy way."]}
+{"w":"bounteous","pos":"adjective","d":["Giving freely and generously; abundant."]}
+{"w":"bountiful","pos":"adjective","d":["Generous in giving; existing in large amounts."]}
+{"w":"bountihead","pos":"noun","d":["The quality of being bountiful; generous liberality."]}
+{"w":"bounty","pos":"noun","d":["A sum of money offered as a reward, especially for capturing a criminal.","Generosity in giving; something freely given."]}
+{"w":"bouquetin","pos":"noun","d":["The ibex, a wild mountain goat with large curved horns."]}
+{"w":"bour","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bourbon whisky","pos":"noun","d":["An American whiskey distilled chiefly from corn and aged in charred oak barrels."]}
+{"w":"bourd","pos":"noun","d":["A joke or jest, especially one involving light mockery."]}
+{"w":"bourgeois","pos":"adjective","d":["Relating to the middle class, especially to its conventional and materialistic values."]}
+{"w":"bourgeoisie","pos":"noun","d":["The middle class, especially as a social group with conventional capitalist values."]}
+{"w":"bourgeon","pos":"verb","d":["To put forth buds; to sprout and begin to grow."]}
+{"w":"bouri","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bourn","pos":"noun","d":["A small stream or brook.","A boundary or limit; a destination."]}
+{"w":"bourne","pos":"noun","d":["A small brook or stream."]}
+{"w":"bournonite","pos":"noun","d":["A dark metallic mineral composed of lead, copper, antimony, and sulfur."]}
+{"w":"bourse","pos":"noun","d":["A stock exchange, especially in continental Europe."]}
+{"w":"bouse","pos":"noun","d":["A lump of cow dung."]}
+{"w":"boustrophedon","pos":"noun","d":["An ancient style of writing in which the lines run alternately left to right and right to left, like an ox plowing a field."]}
+{"w":"boustrophic","pos":"adjective","d":["Written in boustrophedon, with lines alternating in direction."]}
+{"w":"bousy","pos":"adjective","d":["Drunk; intoxicated."]}
+{"w":"bout","pos":"noun","d":["A short period of illness or of intense activity.","A boxing or wrestling match."]}
+{"w":"boutade","pos":"noun","d":["A sudden outburst or whim; an unpremeditated literary or musical sketch."]}
+{"w":"boutefeu","pos":"noun","d":["An incendiary; one who stirs up strife."]}
+{"w":"boutonniere","pos":"noun","d":["A flower or small bouquet worn in a buttonhole."]}
+{"w":"bouts-rimes","pos":"noun","d":["Rhyming words or line endings given in advance, to be worked into a poem as a game."]}
+{"w":"bovate","pos":"noun","d":["An old English measure of land, about fifteen acres, the amount one ox could plow in a year."]}
+{"w":"bovey coal","pos":"noun","d":["A brown lignite coal found near Bovey Tracey in Devon, England."]}
+{"w":"bovid","pos":"noun","d":["A member of the cattle family, which includes cattle, antelopes, goats, and sheep."]}
+{"w":"boviform","pos":"adjective","d":["Shaped like an ox; ox-like in form."]}
+{"w":"bovine","pos":"adjective","d":["Of or relating to cattle; ox-like."]}
+{"w":"bow hand","pos":"noun","d":["The hand that holds the bow, as in archery or violin playing."]}
+{"w":"bow net","pos":"noun","d":["A fishing net held open by hoops, used to trap fish."]}
+{"w":"bow oar","pos":"noun","d":["The oar nearest the bow of a boat."]}
+{"w":"bow-bells","pos":"noun","d":["The bells of St. Mary-le-Bow church in London; by tradition, a true Cockney is born within their sound."]}
+{"w":"bow-compass","pos":"noun","d":["A small compass for drawing circles, with legs joined by a bow-shaped spring."]}
+{"w":"bow-legged","pos":"adjective","d":["Having legs that curve outward at the knees."]}
+{"w":"bow-pen","pos":"noun","d":["A small ruling pen with a bow-shaped spring, used for drawing fine lines."]}
+{"w":"bow-pencil","pos":"noun","d":["A compass-like instrument holding a pencil, for drawing circles."]}
+{"w":"bow-saw","pos":"noun","d":["A saw with a narrow blade stretched across a bow-shaped wooden frame."]}
+{"w":"bowdlerize","pos":"verb","d":["To remove passages considered offensive from a book or text, leaving it weaker or duller."]}
+{"w":"bowel","pos":"noun","d":["The part of the digestive tract below the stomach; the intestine.","The innermost or deepest part of something."]}
+{"w":"bowenite","pos":"noun","d":["A hard, compact green variety of serpentine, used for carving."]}
+{"w":"bower bird","pos":"noun","d":["An Australian bird that builds an elaborate decorated bower to attract a mate."]}
+{"w":"bower-barff process","pos":"noun","d":["A nineteenth-century process for coating iron with a protective black oxide finish."]}
+{"w":"bowery","pos":"adjective","d":["Having leafy bowers; shaded by trees."]}
+{"w":"bowess","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bowge","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bowie knife","pos":"noun","d":["A large sheath knife with a clip-point blade, named for Jim Bowie."]}
+{"w":"bowlder","pos":"noun","d":["A large rounded stone; a variant spelling of boulder."]}
+{"w":"bowldery","pos":"adjective","d":["Full of bowlders; covered with large rounded stones."]}
+{"w":"bowne","pos":"verb","d":["To prepare or get ready, especially for a journey."]}
+{"w":"bowse","pos":"verb","d":["To haul or pull hard on a rope, as with tackles on a ship."]}
+{"w":"bowssen","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"bowtel","pos":"noun","d":["A small rounded molding in architecture; a variant of boultel."]}
+{"w":"bowwow","pos":"noun","d":["The barking sound of a dog, especially as imitated in speech to children.","A dog, in children's language."]}
+{"w":"box kite","pos":"noun","d":["A kite built like a box, with open-ended cells that give it lift."]}
+{"w":"box tail","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"box-iron","pos":"noun","d":["An old-fashioned pressing iron heated by a hot slug of metal placed inside its hollow box body."]}
+{"w":"boxing day","pos":"noun","d":["The day after Christmas, December 26, a public holiday in Britain and other countries."]}
+{"w":"boy scout","pos":"noun","d":["A member of the Scout movement, an organization training boys in outdoor skills and citizenship."]}
+{"w":"boyar","pos":"noun","d":["A member of the old Russian aristocracy, ranking just below the ruling princes."]}
+{"w":"boyard","pos":"noun","d":["A Russian noble of the old aristocracy; the French form of boyar."]}
+{"w":"boyau","pos":"noun","d":["A zigzag trench linking lines of military trenches.","Catgut, the material used for strings and sutures."]}
+{"w":"boycott","pos":"verb","d":["To refuse to buy, use, or deal with a person, company, or country as a form of protest.","An organized refusal to have dealings with someone or something as a protest."]}
+{"w":"boydekin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"boza","pos":"noun","d":["A thick, slightly fermented drink made from millet or wheat, popular in the Balkans and the Middle East."]}
+{"w":"brabantine","pos":"adjective","d":["Of or relating to Brabant, a historic region in the Low Countries."]}
+{"w":"brabble","pos":"verb","d":["To quarrel noisily over trifles; to bicker."]}
+{"w":"braccate","pos":"adjective","d":["Having feathered legs, as some birds; wearing breeches."]}
+{"w":"brace","pos":"noun","d":["A device that supports or holds things firmly together.","A pair of something, especially game birds."]}
+{"w":"brach","pos":"noun","d":["A female hound used in hunting."]}
+{"w":"brachelytra","pos":"noun","d":["Beetles with short wing covers, such as rove beetles."]}
+{"w":"brachia","pos":"noun","d":["The plural of brachium; the upper arms."]}
+{"w":"brachiata","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"brachiate","pos":"verb","d":["To swing from branch to branch using the arms, as apes do."]}
+{"w":"brachioganoid","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"brachioganoidei","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"brachiolaria","pos":"noun","d":["The free-swimming larval stage of a starfish, bearing small arm-like processes."]}
+{"w":"brachiopod","pos":"noun","d":["A marine animal with a two-valved shell, attached to the seabed by a stalk; a lampshell."]}
+{"w":"brachiopoda","pos":"noun","d":["The phylum of marine animals commonly called lampshells, with shells of two unequal valves."]}
+{"w":"brachium","pos":"noun","d":["The upper arm, from shoulder to elbow."]}
+{"w":"brachycatalectic","pos":"adjective","d":["In prosody, missing more than the usual number of syllables at the end of a verse line."]}
+{"w":"brachycephalic","pos":"adjective","d":["Having a short, broad skull."]}
+{"w":"brachycephalism","pos":"noun","d":["The condition of having a short, broad head."]}
+{"w":"brachycephalous","pos":"adjective","d":["Short-headed; having a broad skull."]}
+{"w":"brachycephaly","pos":"noun","d":["Shortness and breadth of the skull."]}
+{"w":"brachyceral","pos":"adjective","d":["Short-horned; having short antennae or horns."]}
+{"w":"brachydiagonal","pos":"noun","d":["In crystallography, the shorter of the two lateral axes of an orthorhombic crystal."]}
+{"w":"brachydome","pos":"noun","d":["In crystallography, a dome-shaped crystal form parallel to the shorter lateral axis."]}
+{"w":"brachygrapher","pos":"noun","d":["One who writes in shorthand."]}
+{"w":"brachygraphy","pos":"noun","d":["The art of shorthand writing."]}
+{"w":"brachylogy","pos":"noun","d":["Conciseness of speech; the omission of words that are easily understood."]}
+{"w":"brachypinacoid","pos":"noun","d":["In crystallography, a crystal face parallel to the vertical axis and the shorter lateral axis."]}
+{"w":"brachyptera","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"brachypteres","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"brachypterous","pos":"adjective","d":["Having short or rudimentary wings."]}
+{"w":"brachystochrone","pos":"noun","d":["In physics, the curve of quickest descent between two points under gravity."]}
+{"w":"brachytypous","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"brachyura","pos":"noun","d":["The infraorder of crustaceans comprising the true crabs."]}
+{"w":"brachyural","pos":"adjective","d":["Relating to the true crabs; short-tailed."]}
+{"w":"brachyuran","pos":"noun","d":["A true crab."]}
+{"w":"brachyurous","pos":"adjective","d":["Short-tailed, like a crab."]}
+{"w":"brack","pos":"noun","d":["Slightly salty water, as where the sea meets a river."]}
+{"w":"bracky","pos":"adjective","d":["Brackish; somewhat salty."]}
+{"w":"bract","pos":"noun","d":["A small leaf-like structure at the base of a flower or flower cluster."]}
+{"w":"bractea","pos":"noun","d":["A bract; a small leaf at the base of a flower stalk."]}
+{"w":"bracteal","pos":"adjective","d":["Relating to or resembling bracts."]}
+{"w":"bracteate","pos":"adjective","d":["Furnished with bracts."]}
+{"w":"bracteolate","pos":"adjective","d":["Having small bracts or bracteoles."]}
+{"w":"bracteole","pos":"noun","d":["A small bract, especially one on the stalk of a single flower."]}
+{"w":"brad awl","pos":"noun","d":["A small pointed tool for making holes in wood for brads or nails."]}
+{"w":"brae","pos":"noun","d":["A hillside or slope."]}
+{"w":"brag","pos":"verb","d":["To talk boastfully about what one has done or owns."]}
+{"w":"braggadocio","pos":"noun","d":["Loud, empty boasting.","A person who boasts emptily."]}
+{"w":"braggardism","pos":"noun","d":["The habit or practice of bragging."]}
+{"w":"braggart","pos":"noun","d":["A person who brags a great deal."]}
+{"w":"braggingly","pos":"adverb","d":["In a bragging or boastful manner."]}
+{"w":"brahma","pos":"noun","d":["The creator god in Hinduism.","A large breed of domestic chicken from Asia."]}
+{"w":"brahman","pos":"noun","d":["A member of the highest Hindu caste, traditionally priests and scholars."]}
+{"w":"brahmani","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"brahmin","pos":"noun","d":["A member of the highest Hindu caste.","A member of a social or intellectual elite."]}
+{"w":"brahmin-ical","pos":"adjective","d":["Of or relating to Brahmans; priestly in the Hindu tradition."]}
+{"w":"brahmo-somaj","pos":"noun","d":["A nineteenth-century Indian religious reform society that rejected idol worship and caste."]}
+{"w":"brahmoism","pos":"noun","d":["The doctrines of the Brahmo-Somaj."]}
+{"w":"braid","pos":"verb","d":["To interlace strands of hair, thread, or ribbon into a woven band.","A length of hair or cord woven in this way."]}
+{"w":"brail","pos":"noun","d":["One of the small ropes used to haul a sail up to the mast or yard."]}
+{"w":"braille","pos":"noun","d":["A system of raised dots that blind people read by touch."]}
+{"w":"brainy","pos":"adjective","d":["Intelligent; clever."]}
+{"w":"braise","pos":"verb","d":["To cook meat slowly in a little liquid in a covered pan."]}
+{"w":"brait","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"braize","pos":"noun","d":["A reddish food fish of the Mediterranean, related to the sea bream."]}
+{"w":"braky","pos":"adjective","d":["Full of brambles or thorny bushes; like a thicket."]}
+{"w":"brama","pos":"noun","d":["A genus of deep-bodied ocean fishes including the pomfrets."]}
+{"w":"bramah press","pos":"noun","d":["A powerful hydraulic press invented by Joseph Bramah."]}
+{"w":"bramble","pos":"noun","d":["A prickly shrub of the blackberry or raspberry family."]}
+{"w":"bramble bush","pos":"noun","d":["A bush of brambles; a thorny thicket."]}
+{"w":"bramble net","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"brambly","pos":"adjective","d":["Full of brambles; thorny and tangled."]}
+{"w":"brame","pos":"noun","d":["The loud roaring cry of a hart in the rutting season."]}
+{"w":"bramin","pos":"noun","d":["A member of the Hindu priestly caste; a variant spelling of Brahman."]}
+{"w":"bran","pos":"noun","d":["The outer husk of wheat or other grain, separated in milling."]}
+{"w":"bran-new","pos":"adjective","d":["Completely new; fresh from the maker."]}
+{"w":"branch pilot","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"branchery","pos":"noun","d":["The gills and their supporting structures in fishes."]}
+{"w":"branchia","pos":"noun","d":["A gill of a fish or other water-breathing animal."]}
+{"w":"branchiate","pos":"adjective","d":["Having gills."]}
+{"w":"branchiferous","pos":"adjective","d":["Bearing gills."]}
+{"w":"branchiness","pos":"noun","d":["The quality of having many branches."]}
+{"w":"branchiogastropoda","pos":"noun","d":["A group of gastropod mollusks that breathe with gills."]}
+{"w":"branchiomerism","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"branchiopod","pos":"noun","d":["A small crustacean with flattened, gill-bearing appendages, such as the fairy shrimp."]}
+{"w":"branchiopoda","pos":"noun","d":["An order of small freshwater crustaceans with gill-like feet, including fairy shrimps and water fleas."]}
+{"w":"branchiostegal","pos":"adjective","d":["Relating to the membrane that covers the gills of fishes."]}
+{"w": "branchiostege", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "branchiostegous", "pos": "adjective", "d": ["Having a membrane that covers the gills, as certain fishes do."]}
+{"w": "branchiostoma", "pos": "noun", "d": ["A genus of small burrowing marine animals, the lancelets, that are close relatives of vertebrates."]}
+{"w": "branchiura", "pos": "noun", "d": ["A group of small parasitic crustaceans, the fish lice, that attach to the skin of fishes."]}
+{"w": "branchy", "pos": "adjective", "d": ["Having many branches or branch-like parts."]}
+{"w": "brand goose", "pos": "noun", "d": ["A small dark-colored wild goose of northern coasts, also called the brant."]}
+{"w": "brand iron", "pos": "noun", "d": ["An iron tool heated and pressed against livestock or goods to mark ownership."]}
+{"w": "brand spore", "pos": "noun", "d": ["The dark spore of a smut fungus that blackens and damages grain."]}
+{"w": "brand-new", "pos": "adjective", "d": ["Completely new, as if just made or just bought."]}
+{"w": "brandenburg", "pos": "noun", "d": ["An ornamental braided frog fastening worn on a coat, especially a military uniform."]}
+{"w": "branding iron", "pos": "noun", "d": ["A metal rod with a raised mark at the end, heated and pressed on skin or wood to leave a permanent mark."]}
+{"w": "brandle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brandy", "pos": "noun", "d": ["A strong spirit distilled from wine or fermented fruit juice."]}
+{"w": "brangle", "pos": "verb", "d": ["To quarrel noisily and angrily over a small matter."]}
+{"w": "brank", "pos": "noun", "d": ["An iron frame formerly fastened on the head as a punishment for scolding."]}
+{"w": "branny", "pos": "adjective", "d": ["Like bran; containing or mixed with bran."]}
+{"w": "brant", "pos": "noun", "d": ["A small dark wild goose that breeds in the far north and winters on sea coasts."]}
+{"w": "brant-fox", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "branular", "pos": "adjective", "d": ["Having the grainy texture of bran; made of small bran-like particles."]}
+{"w": "brasen", "pos": "adjective", "d": ["Made of brass or looking like brass."]}
+{"w": "brash", "pos": "adjective", "d": ["Rudely bold and self-assertive, without respect for others.", "Made of broken fragments, as of ice or rock."]}
+{"w": "brashy", "pos": "adjective", "d": ["Full of brash; made up of broken fragments such as ice or stones."]}
+{"w": "brasier", "pos": "noun", "d": ["A metal pan or basket for holding burning coals, used for heat or light.", "A worker in brass."]}
+{"w": "brasilein", "pos": "noun", "d": ["A red coloring matter obtained from brazilwood, used as a dye."]}
+{"w": "brasilin", "pos": "noun", "d": ["The colorless compound in brazilwood that turns red on exposure to air, used in dyeing."]}
+{"w": "brasque", "pos": "noun", "d": ["A paste of clay and charcoal used to line crucibles and furnaces."]}
+{"w": "brass-visaged", "pos": "adjective", "d": ["Shamelessly bold, as if having a face made of brass."]}
+{"w": "brasse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brassets", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brassica", "pos": "noun", "d": ["A genus of plants that includes cabbage, broccoli, turnip, and mustard."]}
+{"w": "brassicaceous", "pos": "adjective", "d": ["Belonging to the mustard family of plants."]}
+{"w": "brassiere", "pos": "noun", "d": ["An undergarment worn to support a woman's breasts."]}
+{"w": "brassiness", "pos": "noun", "d": ["The quality of being brassy; harsh, showy loudness."]}
+{"w": "brassy", "pos": "adjective", "d": ["Like brass in color or sound; loud, harsh, and boldly showy."]}
+{"w": "brast", "pos": "verb", "d": ["To break apart suddenly with force; to burst, in old or dialect use."]}
+{"w": "brat", "pos": "noun", "d": ["A child who behaves badly and is hard to control."]}
+{"w": "bratsche", "pos": "noun", "d": ["The viola, a stringed instrument slightly larger than the violin."]}
+{"w": "brattishing", "pos": "noun", "d": ["An ornamental cresting along the top of a parapet, screen, or shrine."]}
+{"w": "braunite", "pos": "noun", "d": ["A dark brown to black mineral that is an ore of manganese."]}
+{"w": "bravade", "pos": "noun", "d": ["A boastful threat or show of defiance meant to impress or frighten."]}
+{"w": "bravado", "pos": "noun", "d": ["A show of boldness meant to impress others, often covering fear or weakness."]}
+{"w": "bravery", "pos": "noun", "d": ["Courage in facing danger, pain, or difficulty."]}
+{"w": "bravo", "pos": "interjection", "d": ["A shout of approval for a fine performance.", "A hired killer or assassin."]}
+{"w": "bravura", "pos": "noun", "d": ["Brilliant technical skill and spirit in musical performance."]}
+{"w": "braw", "pos": "adjective", "d": ["Fine, handsome, or well-dressed, in Scots use."]}
+{"w": "brawl", "pos": "noun", "d": ["A rough, noisy fight or quarrel."]}
+{"w": "brawn", "pos": "noun", "d": ["Strong muscles; physical strength.", "Meat prepared from a pig's head, served cold in jelly."]}
+{"w": "brawniness", "pos": "noun", "d": ["The state or quality of being brawny."]}
+{"w": "brawny", "pos": "adjective", "d": ["Muscular, strong, and sturdy in build."]}
+{"w": "braxy", "pos": "noun", "d": ["A swift infectious disease of sheep that causes sudden death."]}
+{"w": "bray", "pos": "verb", "d": ["To utter the loud harsh cry of a donkey.", "To crush or grind into small pieces."]}
+{"w": "braze", "pos": "verb", "d": ["To join metals by melting a hard solder between them.", "To make like brass in color or hardness."]}
+{"w": "brazen", "pos": "adjective", "d": ["Shamelessly bold and without embarrassment.", "Made of brass or sounding like brass."]}
+{"w": "brazen-browed", "pos": "adjective", "d": ["Shameless; impudently bold."]}
+{"w": "brazier", "pos": "noun", "d": ["A worker who makes or repairs articles of brass.", "A metal pan for holding burning coals."]}
+{"w": "brazil nut", "pos": "noun", "d": ["A large oily edible seed from a tall tree of South American forests."]}
+{"w": "brazil wood", "pos": "noun", "d": ["A hard tropical wood that yields a red dye."]}
+{"w": "braziletto", "pos": "noun", "d": ["A Central American dyewood related to brazilwood, yielding a red color."]}
+{"w": "brazilin", "pos": "noun", "d": ["The colorless compound in brazilwood that turns red on exposure to air, used in dyeing."]}
+{"w": "breachy", "pos": "adjective", "d": ["Given to breaking through fences, as cattle are."]}
+{"w": "breadth", "pos": "noun", "d": ["The width or extent of something from side to side; broadness."]}
+{"w": "breadthways", "pos": "adverb", "d": ["In the direction of the breadth; across the width."]}
+{"w": "break-circuit", "pos": "noun", "d": ["A device for opening or breaking an electric circuit."]}
+{"w": "break-up", "pos": "noun", "d": ["The act of breaking apart; a coming to an end, as of a partnership or an ice field."]}
+{"w": "breakbone fever", "pos": "noun", "d": ["Dengue, a tropical fever with severe pains in the bones and joints."]}
+{"w": "bream", "pos": "noun", "d": ["A deep-bodied freshwater fish valued as food.", "A sea fish with a similar deep flat body."]}
+{"w": "breast-deep", "pos": "adjective", "d": ["As deep as the breast; reaching up to the chest."]}
+{"w": "breast-high", "pos": "adjective", "d": ["As high as the breast; reaching up to the chest."]}
+{"w": "breathe", "pos": "verb", "d": ["To draw air into the lungs and send it out again."]}
+{"w": "breccia", "pos": "noun", "d": ["A rock made of sharp angular fragments cemented together in a fine matrix."]}
+{"w": "bred", "pos": "verb", "d": ["Past tense and past participle of breed."]}
+{"w": "brede", "pos": "noun", "d": ["Ornamental needlework or braided trimming, in old or poetic use."]}
+{"w": "breech", "pos": "noun", "d": ["The back part of a firearm, where the charge is loaded.", "The buttocks; the rear part of the body."]}
+{"w": "breech action", "pos": "noun", "d": ["The mechanism at the breech of a firearm by which it is loaded and fired."]}
+{"w": "breech pin", "pos": "noun", "d": ["The plug that closes the rear end of a gun barrel."]}
+{"w": "breech screw", "pos": "noun", "d": ["A screw that forms or secures the plug closing the breech of a firearm."]}
+{"w": "breech sight", "pos": "noun", "d": ["A gun sight mounted on or near the breech of a firearm."]}
+{"w": "breech-loading", "pos": "adjective", "d": ["Loaded at the breech instead of the muzzle, as a firearm."]}
+{"w": "breede", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "breeze", "pos": "noun", "d": ["A light gentle wind."]}
+{"w": "breeze fly", "pos": "noun", "d": ["A large biting fly that torments cattle and horses."]}
+{"w": "breeziness", "pos": "noun", "d": ["The quality of being breezy; fresh liveliness."]}
+{"w": "breezy", "pos": "adjective", "d": ["Stirred by a light fresh wind.", "Lively, casual, and easy in manner."]}
+{"w": "bregma", "pos": "noun", "d": ["The point on the top of the skull where the coronal and sagittal sutures meet."]}
+{"w": "brehon", "pos": "noun", "d": ["A judge of the ancient Irish laws."]}
+{"w": "brelan", "pos": "noun", "d": ["A French card game of chance and skill."]}
+{"w": "brelan carre", "pos": "noun", "d": ["In the game of brelan, a hand of four cards of the same rank."]}
+{"w": "brelan favori", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "breloque", "pos": "noun", "d": ["A small charm or trinket hung from a watch chain."]}
+{"w": "breme", "pos": "adjective", "d": ["Fierce, cruel, or stern, in old use."]}
+{"w": "bren", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brennage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brenne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brenningly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brent", "pos": "adjective", "d": ["High, steep, or upright, in Scots use."]}
+{"w": "brequet chain", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brest", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "breste", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bret", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brethren", "pos": "noun", "d": ["Plural of brother, used especially of members of a religious group or society."]}
+{"w": "breton", "pos": "noun", "d": ["A native or inhabitant of Brittany in France."]}
+{"w": "brett", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bretwalda", "pos": "noun", "d": ["The title of an Anglo-Saxon king who held overlordship over other kingdoms."]}
+{"w": "bretzel", "pos": "noun", "d": ["A pretzel; a crisp salted biscuit baked in a twisted knot shape."]}
+{"w": "breve", "pos": "noun", "d": ["A curved mark placed over a vowel to show that it is short.", "In music, a note equal in length to two whole notes."]}
+{"w": "brevet", "pos": "noun", "d": ["A commission promoting an army officer to a higher rank, usually without extra pay.", "A papal letter on a matter of discipline."]}
+{"w": "brevetcy", "pos": "noun", "d": ["The rank or position held by a brevet officer."]}
+{"w": "breviary", "pos": "noun", "d": ["A book of daily prayers and services used by Roman Catholic clergy."]}
+{"w": "breviate", "pos": "noun", "d": ["A short summary or abstract of a longer work."]}
+{"w": "breviature", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brevier", "pos": "noun", "d": ["A small size of printing type, about eight point."]}
+{"w": "breviloquence", "pos": "noun", "d": ["Briefness in speaking; concise expression."]}
+{"w": "breviped", "pos": "adjective", "d": ["Having short feet or legs."]}
+{"w": "brevipen", "pos": "adjective", "d": ["Having short wings, as certain birds do."]}
+{"w": "brevipennate", "pos": "adjective", "d": ["Having short wings or short quills."]}
+{"w": "brevirostral", "pos": "adjective", "d": ["Having a short beak or snout."]}
+{"w": "brevirostrate", "pos": "adjective", "d": ["Short-beaked; having a short bill."]}
+{"w": "brevity", "pos": "noun", "d": ["Shortness of time or of speech; concise expression."]}
+{"w": "brew", "pos": "verb", "d": ["To make beer or ale by steeping and fermenting.", "To be forming or gathering, as trouble is."]}
+{"w": "brewery", "pos": "noun", "d": ["A place where beer or ale is brewed."]}
+{"w": "brewis", "pos": "noun", "d": ["Bread soaked in hot broth or in meat drippings, eaten as a dish."]}
+{"w": "brewsterite", "pos": "noun", "d": ["A grayish or yellowish zeolite mineral found in crystal form."]}
+{"w": "brezilin", "pos": "noun", "d": ["A variant spelling of brasilin, the dye compound obtained from brazilwood."]}
+{"w": "briar", "pos": "noun", "d": ["A thorny shrub or bramble.", "A tobacco pipe made from the root of the white heath."]}
+{"w": "bribe", "pos": "noun", "d": ["Money or a gift offered to make someone act dishonestly."]}
+{"w": "bribery", "pos": "noun", "d": ["The act or practice of giving or taking bribes."]}
+{"w": "bric a brac", "pos": "noun", "d": ["Small decorative objects and curios kept for ornament."]}
+{"w": "bric-a brac", "pos": "noun", "d": ["Small decorative objects and curios kept for ornament."]}
+{"w": "bric-a-brac", "pos": "noun", "d": ["Small decorative objects and curios kept for ornament."]}
+{"w": "brickle", "pos": "adjective", "d": ["Easily broken; brittle, in dialect use."]}
+{"w": "bricky", "pos": "adjective", "d": ["Like brick in color or texture; full of bricks."]}
+{"w": "bricole", "pos": "noun", "d": ["In billiards or tennis, the rebound of a ball from a cushion or wall."]}
+{"w": "brid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bridalty", "pos": "noun", "d": ["A wedding feast or celebration, in old use."]}
+{"w": "bride-ale", "pos": "noun", "d": ["A wedding feast, from which the word bridal comes."]}
+{"w": "bridesmaid", "pos": "noun", "d": ["A young woman who attends a bride at her wedding."]}
+{"w": "bridesman", "pos": "noun", "d": ["A man who serves as attendant to a bride or bridegroom at a wedding."]}
+{"w": "bridgey", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bridle", "pos": "noun", "d": ["The headgear fitted on a horse for guiding and controlling it."]}
+{"w": "bridle iron", "pos": "noun", "d": ["An iron support fixed in a wall to carry the end of a beam."]}
+{"w": "brie cheese", "pos": "noun", "d": ["A soft French cheese with a white edible rind and a creamy center."]}
+{"w": "brier", "pos": "noun", "d": ["A thorny shrub; a briar."]}
+{"w": "briery", "pos": "adjective", "d": ["Full of briers; thorny and tangled."]}
+{"w": "brig", "pos": "noun", "d": ["A two-masted sailing ship with square sails on both masts.", "A jail aboard a ship."]}
+{"w": "brigade", "pos": "noun", "d": ["A large body of troops made up of several regiments.", "An organized group of people working together."]}
+{"w": "brigadier general", "pos": "noun", "d": ["A military officer ranking above a colonel and below a major general."]}
+{"w": "brigantine", "pos": "noun", "d": ["A two-masted sailing vessel, square-rigged on the foremast."]}
+{"w": "brigge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "bright-harnessed", "pos": "adjective", "d": ["Equipped with shining armor or harness."]}
+{"w": "brigose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brigue", "pos": "noun", "d": ["Secret scheming or party strife to gain an advantage; intrigue."]}
+{"w": "brike", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brill", "pos": "noun", "d": ["A flatfish of European waters, related to the turbot and valued as food."]}
+{"w": "brilliance", "pos": "noun", "d": ["Great brightness or shining.", "Outstanding talent or intelligence."]}
+{"w": "brilliancy", "pos": "noun", "d": ["The quality of being brilliant; brilliance."]}
+{"w": "brilliantine", "pos": "noun", "d": ["An oily dressing used to make the hair smooth and glossy."]}
+{"w": "brim", "pos": "noun", "d": ["The upper edge of a cup, glass, or other hollow vessel.", "The projecting edge of a hat."]}
+{"w": "brin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brinded", "pos": "adjective", "d": ["Streaked or spotted with a darker color; brindled, in poetic use."]}
+{"w": "brindle", "pos": "noun", "d": ["A grayish brown color streaked or spotted with darker marks, as in animal coats."]}
+{"w": "brine", "pos": "noun", "d": ["Water strongly flavored with salt, used for pickling and preserving."]}
+{"w": "brininess", "pos": "noun", "d": ["The quality of being briny; saltiness."]}
+{"w": "brinjaree", "pos": "noun", "d": ["In India, a carrier or trader who moves grain from place to place."]}
+{"w": "brink", "pos": "noun", "d": ["The edge of a cliff, bank, or other steep place.", "The point of beginning some dangerous or decisive event."]}
+{"w": "briny", "pos": "adjective", "d": ["Salty like the sea."]}
+{"w": "brioche", "pos": "noun", "d": ["A rich sweet bread made with eggs and butter."]}
+{"w": "briolette", "pos": "noun", "d": ["A pear-shaped gemstone cut with many triangular facets."]}
+{"w": "briony", "pos": "noun", "d": ["A climbing plant with lobed leaves and red berries."]}
+{"w": "briquette", "pos": "noun", "d": ["A small pressed block of coal dust or charcoal used as fuel."]}
+{"w": "brisk", "pos": "adjective", "d": ["Quick, lively, and full of energy."]}
+{"w": "brisket", "pos": "noun", "d": ["The breast meat of an animal, especially the lower chest of beef."]}
+{"w": "bristle", "pos": "noun", "d": ["A short stiff hair, as on a brush or on an animal's back."]}
+{"w": "bristle-pointed", "pos": "adjective", "d": ["Ending in a fine stiff point like a bristle."]}
+{"w": "bristle-shaped", "pos": "adjective", "d": ["Shaped like a bristle; long, stiff, and slender."]}
+{"w": "bristliness", "pos": "noun", "d": ["The state or quality of being bristly."]}
+{"w": "bristly", "pos": "adjective", "d": ["Covered with bristles; rough and prickly."]}
+{"w": "brisure", "pos": "noun", "d": ["In heraldry, a mark added to a coat of arms to distinguish a younger branch of a family."]}
+{"w": "brit", "pos": "noun", "d": ["A young fish, especially a young herring.", "A British person, in informal use."]}
+{"w": "britannia", "pos": "noun", "d": ["The female figure personifying Britain.", "A pewter-like alloy of tin with antimony and copper."]}
+{"w": "britannic", "pos": "adjective", "d": ["Of or relating to Britain or the British."]}
+{"w": "brite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "briticism", "pos": "noun", "d": ["A word, phrase, or custom peculiar to Britain."]}
+{"w": "briton", "pos": "noun", "d": ["A native or citizen of Britain."]}
+{"w": "britt", "pos": "noun", "d": ["A young fish, especially a young herring."]}
+{"w": "brittle", "pos": "adjective", "d": ["Easily broken or snapped; not flexible."]}
+{"w": "brittle star", "pos": "noun", "d": ["A marine animal related to the starfish, with long slender jointed arms."]}
+{"w": "britzska", "pos": "noun", "d": ["An open four-wheeled carriage with a folding top."]}
+{"w": "brize", "pos": "noun", "d": ["A biting fly that torments cattle; the breeze fly."]}
+{"w": "broach", "pos": "verb", "d": ["To pierce a cask in order to draw out liquid.", "To bring up a subject for discussion for the first time."]}
+{"w": "broad church", "pos": "noun", "d": ["The liberal party within the Church of England."]}
+{"w": "broad gauge", "pos": "noun", "d": ["A railway track wider than the standard width."]}
+{"w": "broad seal", "pos": "noun", "d": ["The great seal of a state or nation."]}
+{"w": "broad-brimmed", "pos": "adjective", "d": ["Having a wide brim, as a hat."]}
+{"w": "broad-horned", "pos": "adjective", "d": ["Having wide-spreading horns."]}
+{"w": "broad-leafed", "pos": "adjective", "d": ["Having broad leaves."]}
+{"w": "broad-leaved", "pos": "adjective", "d": ["Having broad leaves."]}
+{"w": "broadax", "pos": "noun", "d": ["A broad-bladed ax used for hewing timber."]}
+{"w": "brob", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "brobdingnagian", "pos": "adjective", "d": ["Enormous; gigantic, like the giants of Brobdingnag in Gulliver's Travels."]}

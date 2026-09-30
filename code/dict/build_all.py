@@ -61,7 +61,8 @@ def load_iwb_defs():
                 d = r.get("d") or []
                 d = [str(s).strip() for s in d if str(s).strip()][:3]
                 defs[w.lower()] = {"d": d, "pos": str(r.get("pos", "") or ""),
-                                   "src": str(r.get("src", "") or "")}
+                                   "src": str(r.get("src", "") or ""),
+                                   "links": r.get("links") or []}
     return defs
 
 def parse_words():
@@ -87,6 +88,7 @@ def parse_words():
         senses = rec.get("d", [])
         words.append({"w": word, "k": "w", "key": key, "d": senses,
                       "pos": rec.get("pos", ""),
+                      "links": rec.get("links", []),
                       "defsrc": rec.get("src", "") or "pending"})
     words.sort(key=lambda e: e["key"])
     for i, e in enumerate(words, 1):
@@ -215,7 +217,8 @@ def write_chunks(entries):
                 if e["k"] == "w":
                     obj = {"w": e["w"], "k": "w", "st": e["st"], "d": e["d"],
                            "s": e.get("s", 0), "p": e.get("p", 0),
-                           "pos": e.get("pos", ""), "defsrc": e.get("defsrc", "pending")}
+                           "pos": e.get("pos", ""), "defsrc": e.get("defsrc", "pending"),
+                           "links": e.get("links", [])}
                 else:
                     obj = {"w": e["w"], "k": "t", "st": e["st"], "rt": e["rt"],
                            "rid": e["rid"], "d": e["d"], "cpc": e.get("cpc", "")}

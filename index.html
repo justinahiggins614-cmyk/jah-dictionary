@@ -236,13 +236,25 @@ async function randWord(){
   if(g&&g.entry&&g.entry.k==="w"){location.href="?w="+encodeURIComponent(g.entry.w);return}}
  location.href="?w="+encodeURIComponent(DB.idx[Math.floor(Math.random()*DB.idx.length)][0]);
 }
+function isPlainWord(k){return /^[a-z][a-z'\-]*$/.test(k)}
+function rankSearch(key){
+ var pw=[],px=[],sw=[],sx=[],seen={};
+ for(var i=0;i<DB.idx.length;i++){
+  var k=DB.idx[i][0],at=k.indexOf(key);
+  if(at<0||seen[k])continue;seen[k]=1;
+  var plain=isPlainWord(k);
+  if(at===0){if(plain){if(pw.length<60)pw.push(k)}else if(px.length<10)px.push(k)}
+  else{if(plain){if(sw.length<5)sw.push(k)}else if(sx.length<5)sx.push(k)}
+  if(pw.length>=60&&px.length>=10&&sw.length>=5&&sx.length>=5)break;
+ }
+ return pw.concat(px,sw,sx);
+}
 async function vSearch(app,q){
  var h='<div class="crumb">JAH Dictionary &rsaquo; Search &rsaquo; '+esc(q)+'</div>';
  var key=String(q).toLowerCase().trim();
  var ex=await getEntry(key).catch(function(){return null});
  if(ex&&ex.entry){location.replace("?w="+encodeURIComponent(ex.entry.w));return}
- var matches=[],needle=key;
- for(var i=0;i<DB.idx.length&&matches.length<80;i++){var k=DB.idx[i][0];if(k.indexOf(needle)>=0)matches.push(k)}
+ var matches=rankSearch(key);
  h+='<h1 class="hw" style="font-size:1.6em">Results for &ldquo;'+esc(q)+'&rdquo;</h1>';
  if(!matches.length){h+='<p style="font-family:Arial">No headword contains &ldquo;'+esc(q)+'&rdquo;. Try the A&ndash;Z browse or a shorter search.</p>'}
  else{h+='<p style="font-family:Arial">'+matches.length+(matches.length>=80?"+":"")+' matching headwords:</p><ul class="pgln">';
@@ -473,7 +485,7 @@ async function route(){
   await loadDB();
   var w=qp("w"),q=qp("q"),az=qp("az");
   if(w)await vEntry(app,w.toLowerCase());
-  else if(q)await vSearch(app,q);
+  else if(q&&q.trim())await vSearch(app,q);
   else if(az)await vBrowse(app,az,qp("pg"));
   else await vHome(app);
  }catch(err){

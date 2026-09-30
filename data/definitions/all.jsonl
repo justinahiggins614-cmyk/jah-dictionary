@@ -14216,6 +14216,806 @@
 {"w": "chondrodite", "pos": "noun", "d": ["A yellow to red mineral containing fluorine, found in metamorphic rocks."], "src": "iwb"}
 {"w": "chondroganoidea", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "chondrogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chondrogenesis", "pos": "noun", "d": ["The formation of cartilage in the body."], "src": "iwb"}
+{"w": "chondroid", "pos": "adjective", "d": ["Resembling cartilage in structure or appearance."], "src": "iwb"}
+{"w": "chondrology", "pos": "noun", "d": ["The scientific study of cartilage."], "src": "iwb"}
+{"w": "chondroma", "pos": "noun", "d": ["A benign tumor made of cartilage tissue."], "src": "iwb"}
+{"w": "chondrometer", "pos": "noun", "d": ["An instrument for finding the weight of a fixed measure of grain."], "src": "iwb"}
+{"w": "chondropterygian", "pos": "noun", "d": ["A fish with a skeleton of cartilage instead of bone, such as a shark or ray."], "src": "iwb"}
+{"w": "chondropterygii", "pos": "noun", "d": ["The group of fishes with cartilaginous skeletons, including the sharks, skates, and rays."], "src": "iwb"}
+{"w": "chondrostei", "pos": "noun", "d": ["An order of fishes with partly cartilaginous skeletons, including the sturgeons."], "src": "iwb"}
+{"w": "chondrotomy", "pos": "noun", "d": ["The surgical cutting or dividing of cartilage."], "src": "iwb"}
+{"w": "chondrule", "pos": "noun", "d": ["A small round grain found embedded in stony meteorites."], "src": "iwb"}
+{"w": "chop", "pos": "verb", "d": ["To cut with quick heavy blows of an ax or knife.", "To cut meat or vegetables into small pieces."], "src": "iwb"}
+{"w": "chop sooy", "pos": "phrase", "d": ["An older spelling of chop suey, a dish of meat and vegetables served over rice."], "src": "iwb"}
+{"w": "chop suey", "pos": "phrase", "d": ["A dish of small pieces of meat and vegetables cooked together and usually served over rice."], "src": "iwb"}
+{"w": "chop-logic", "pos": "phrase", "d": ["Petty, quibbling argument over words instead of real points."], "src": "iwb"}
+{"w": "chopin", "pos": "noun", "d": ["Frédéric Chopin, a nineteenth-century Polish composer famous for his piano music."], "src": "iwb"}
+{"w": "chopine", "pos": "noun", "d": ["A very high platform shoe worn by women in the sixteenth and seventeenth centuries."], "src": "iwb"}
+{"w": "choppy", "pos": "adjective", "d": ["Rough with short broken waves.", "Moving in short jerky motions."], "src": "iwb"}
+{"w": "choragic", "pos": "adjective", "d": ["Relating to a choragus, the sponsor or leader of a chorus in ancient Greece."], "src": "iwb"}
+{"w": "choragus", "pos": "noun", "d": ["In ancient Greece, the citizen who paid for and trained a chorus for public performances."], "src": "iwb"}
+{"w": "choral", "pos": "adjective", "d": ["Relating to a choir, or written for singers to perform together."], "src": "iwb"}
+{"w": "chord", "pos": "noun", "d": ["Two or more musical notes sounded together.", "A straight line joining two points on a curve or circle."], "src": "iwb"}
+{"w": "chorda", "pos": "noun", "d": ["A cordlike structure in the body, such as the notochord of an embryo."], "src": "iwb"}
+{"w": "chordata", "pos": "noun", "d": ["The large phylum of animals that have a notochord at some stage of life, including all vertebrates."], "src": "iwb"}
+{"w": "chordee", "pos": "noun", "d": ["A painful downward curving of the penis, often occurring with certain birth conditions."], "src": "iwb"}
+{"w": "chore", "pos": "noun", "d": ["A small routine job around the house, such as washing the dishes."], "src": "iwb"}
+{"w": "chorea", "pos": "noun", "d": ["A disorder causing sudden involuntary jerky movements of the limbs and face."], "src": "iwb"}
+{"w": "choree", "pos": "noun", "d": ["A metrical foot of two syllables, one long followed by one short.", "An older spelling of chorea, a nervous disorder with jerky movements."], "src": "iwb"}
+{"w": "choregraphy", "pos": "noun", "d": ["An older spelling of choreography, the art of arranging dances."], "src": "iwb"}
+{"w": "chorepiscopal", "pos": "adjective", "d": ["Relating to a chorepiscopus, a bishop over a country district in the early church."], "src": "iwb"}
+{"w": "chorepiscopus", "pos": "noun", "d": ["In the early Christian church, a bishop in charge of a rural district."], "src": "iwb"}
+{"w": "choreus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "choriamb", "pos": "noun", "d": ["A metrical foot of four syllables: long, short, short, long."], "src": "iwb"}
+{"w": "choriambus", "pos": "noun", "d": ["The same as choriamb, a four-syllable metrical foot."], "src": "iwb"}
+{"w": "choric", "pos": "adjective", "d": ["Relating to or sung by a chorus."], "src": "iwb"}
+{"w": "chorion", "pos": "noun", "d": ["The outer membrane enclosing the embryo of mammals, birds, and reptiles."], "src": "iwb"}
+{"w": "chorisis", "pos": "noun", "d": ["In botany, the separation of one organ into two or more parts."], "src": "iwb"}
+{"w": "chorist", "pos": "noun", "d": ["A singer in a choir."], "src": "iwb"}
+{"w": "chorograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chorography", "pos": "noun", "d": ["The art of describing or mapping a particular region or district."], "src": "iwb"}
+{"w": "choroid", "pos": "noun", "d": ["The dark vascular layer of the eye between the retina and the sclera."], "src": "iwb"}
+{"w": "chorology", "pos": "noun", "d": ["The study of the geographic distribution of plants and animals."], "src": "iwb"}
+{"w": "chorometry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chortle", "pos": "verb", "d": ["To laugh in a gleeful, snorting way."], "src": "iwb"}
+{"w": "chou", "pos": "noun", "d": ["A small round cream puff made from choux pastry.", "In French, a cabbage, or a term of affection for a loved one."], "src": "iwb"}
+{"w": "chouan", "pos": "noun", "d": ["A member of the royalist rebels who fought the French revolutionary government in Brittany and the Vendée."], "src": "iwb"}
+{"w": "chough", "pos": "noun", "d": ["A crowlike bird with a curved red bill and red legs, found on sea cliffs."], "src": "iwb"}
+{"w": "chouicha", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chouka", "pos": "noun", "d": ["A period of play in polo, usually lasting seven minutes."], "src": "iwb"}
+{"w": "choule", "pos": "noun", "d": ["An old Norman ball game played with curved sticks, an ancestor of field hockey."], "src": "iwb"}
+{"w": "choultry", "pos": "noun", "d": ["In India, a rest house or shelter for travelers and pilgrims."], "src": "iwb"}
+{"w": "chouse", "pos": "verb", "d": ["To cheat or trick someone out of money or property."], "src": "iwb"}
+{"w": "chout", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chow", "pos": "noun", "d": ["Food, especially in slang use.", "A Chow Chow, a sturdy Chinese breed of dog with a thick coat and blue-black tongue."], "src": "iwb"}
+{"w": "chowder", "pos": "noun", "d": ["A thick soup or stew, usually made with seafood, potatoes, and milk."], "src": "iwb"}
+{"w": "chowry", "pos": "noun", "d": ["In India, a whisk of yak hair or feathers used to fan away flies."], "src": "iwb"}
+{"w": "chowter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "choy root", "pos": "phrase", "d": ["The root of an Indian plant, used to make a red dye."], "src": "iwb"}
+{"w": "chrematistics", "pos": "noun", "d": ["The art or science of acquiring wealth."], "src": "iwb"}
+{"w": "chreotechnics", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chrestomathic", "pos": "adjective", "d": ["Relating to or suitable for a chrestomathy, a collection of literary passages."], "src": "iwb"}
+{"w": "chrestomathy", "pos": "noun", "d": ["A collection of selected literary passages used to study a language."], "src": "iwb"}
+{"w": "chrism", "pos": "noun", "d": ["Consecrated oil used in church ceremonies such as baptism and confirmation."], "src": "iwb"}
+{"w": "chrismatory", "pos": "noun", "d": ["A small vessel for holding chrism, the consecrated oil used in church rites."], "src": "iwb"}
+{"w": "chrisom", "pos": "noun", "d": ["A white cloth or robe put on a child at baptism.", "A child who dies within a month of being baptized."], "src": "iwb"}
+{"w": "christcross-row", "pos": "phrase", "d": ["An old name for the alphabet, from the cross once printed before its first letter."], "src": "iwb"}
+{"w": "christian era", "pos": "phrase", "d": ["The period of history counted from the traditional date of the birth of Christ."], "src": "iwb"}
+{"w": "christian science", "pos": "phrase", "d": ["A religious movement founded by Mary Baker Eddy that teaches healing through spiritual means."], "src": "iwb"}
+{"w": "christian scientist", "pos": "phrase", "d": ["A member of the Christian Science church."], "src": "iwb"}
+{"w": "christian seneca", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "christian socialism", "pos": "phrase", "d": ["A movement that combines Christian moral teaching with socialist economic ideas."], "src": "iwb"}
+{"w": "christianite", "pos": "noun", "d": ["A mineral of the zeolite group, now generally called phillipsite."], "src": "iwb"}
+{"w": "christianization", "pos": "noun", "d": ["The process of making people or places Christian."], "src": "iwb"}
+{"w": "christocentric", "pos": "adjective", "d": ["Centered on Christ as the main subject or standard."], "src": "iwb"}
+{"w": "christom", "pos": "noun", "d": ["A variant spelling of chrisom, the white baptismal cloth."], "src": "iwb"}
+{"w": "christophany", "pos": "noun", "d": ["An appearance of Christ to people after his ascension."], "src": "iwb"}
+{"w": "chromascope", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chromate", "pos": "noun", "d": ["A salt of chromic acid, often bright yellow or orange in color."], "src": "iwb"}
+{"w": "chromatic", "pos": "adjective", "d": ["Relating to color or colors.", "In music, moving by half steps."], "src": "iwb"}
+{"w": "chromatin", "pos": "noun", "d": ["The material inside a cell nucleus that condenses to form chromosomes during cell division."], "src": "iwb"}
+{"w": "chromatism", "pos": "noun", "d": ["Unusual or abnormal coloring in a plant or animal."], "src": "iwb"}
+{"w": "chromatogenous", "pos": "adjective", "d": ["Producing color or coloring matter."], "src": "iwb"}
+{"w": "chromatography", "pos": "noun", "d": ["A method of separating the parts of a mixture by passing it through a material that holds them back unequally."], "src": "iwb"}
+{"w": "chromatology", "pos": "noun", "d": ["The science of colors."], "src": "iwb"}
+{"w": "chromatophore", "pos": "noun", "d": ["A cell containing pigment that lets some animals, such as squids, change color."], "src": "iwb"}
+{"w": "chromatoscope", "pos": "noun", "d": ["An instrument for viewing or studying colors."], "src": "iwb"}
+{"w": "chromatosphere", "pos": "noun", "d": ["The layer of a star's atmosphere just above its visible surface, seen during a solar eclipse as a red ring."], "src": "iwb"}
+{"w": "chromatrope", "pos": "noun", "d": ["An optical toy of revolving painted discs that produces changing patterns of color."], "src": "iwb"}
+{"w": "chromatype", "pos": "noun", "d": ["A photographic picture printed in natural colors."], "src": "iwb"}
+{"w": "chrome steel", "pos": "phrase", "d": ["A hard steel alloyed with chromium."], "src": "iwb"}
+{"w": "chromic", "pos": "adjective", "d": ["Relating to chromium, especially in its compounds with a valence of three."], "src": "iwb"}
+{"w": "chromid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chromidrosis", "pos": "noun", "d": ["The secretion of abnormally colored sweat."], "src": "iwb"}
+{"w": "chromism", "pos": "noun", "d": ["Abnormal or unusual coloration of the body or its parts."], "src": "iwb"}
+{"w": "chromite", "pos": "noun", "d": ["A black mineral that is the main ore of chromium."], "src": "iwb"}
+{"w": "chromium", "pos": "noun", "d": ["A hard gray metallic element used in stainless steel and shiny plating."], "src": "iwb"}
+{"w": "chromo", "pos": "noun", "d": ["A short form of chromolithograph, a color print made from stone or plates."], "src": "iwb"}
+{"w": "chromogen", "pos": "noun", "d": ["A substance that produces color or becomes colored by a chemical change."], "src": "iwb"}
+{"w": "chromograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chromophore", "pos": "noun", "d": ["The part of a molecule that gives it its color."], "src": "iwb"}
+{"w": "chromous", "pos": "adjective", "d": ["Relating to chromium in its compounds with a valence of two."], "src": "iwb"}
+{"w": "chromule", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chronique", "pos": "noun", "d": ["A chronicle or historical account, especially one written in French."], "src": "iwb"}
+{"w": "chronogram", "pos": "noun", "d": ["An inscription in which certain letters, read as Roman numerals, give the date of an event."], "src": "iwb"}
+{"w": "chronogrammatic", "pos": "adjective", "d": ["Relating to or written as a chronogram."], "src": "iwb"}
+{"w": "chronogrammatist", "pos": "noun", "d": ["A person who composes chronograms."], "src": "iwb"}
+{"w": "chronograph", "pos": "noun", "d": ["An instrument that records time with great exactness.", "A watch with a built-in stopwatch function."], "src": "iwb"}
+{"w": "chronography", "pos": "noun", "d": ["A written account of events arranged in the order in which they happened."], "src": "iwb"}
+{"w": "chronologer", "pos": "noun", "d": ["A person who studies or records events in the order of their dates."], "src": "iwb"}
+{"w": "chronologic", "pos": "adjective", "d": ["Arranged in the order of time."], "src": "iwb"}
+{"w": "chronologist", "pos": "noun", "d": ["A person skilled in chronology, the dating and ordering of events."], "src": "iwb"}
+{"w": "chronology", "pos": "noun", "d": ["The arrangement of events in the order of their occurrence.", "The science of finding the correct dates of past events."], "src": "iwb"}
+{"w": "chronometer", "pos": "noun", "d": ["A very accurate timepiece, especially one used at sea to find longitude."], "src": "iwb"}
+{"w": "chronometric", "pos": "adjective", "d": ["Relating to the measurement of time."], "src": "iwb"}
+{"w": "chronometry", "pos": "noun", "d": ["The science of measuring time."], "src": "iwb"}
+{"w": "chronopher", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chronophotograph", "pos": "noun", "d": ["A photograph showing the successive positions of a moving object, used to study motion."], "src": "iwb"}
+{"w": "chronoscope", "pos": "noun", "d": ["An instrument for measuring extremely short intervals of time."], "src": "iwb"}
+{"w": "chrysalid", "pos": "adjective", "d": ["Relating to or resembling a chrysalis."], "src": "iwb"}
+{"w": "chrysalis", "pos": "noun", "d": ["The pupa stage of a butterfly or moth, during which the larva changes into the adult insect."], "src": "iwb"}
+{"w": "chrysaniline", "pos": "noun", "d": ["A yellow dye made from aniline."], "src": "iwb"}
+{"w": "chrysanthemum", "pos": "noun", "d": ["A popular autumn flower of the daisy family, with many rounded petals."], "src": "iwb"}
+{"w": "chrysarobin", "pos": "noun", "d": ["A yellowish substance obtained from a South American tree, once used to treat skin diseases."], "src": "iwb"}
+{"w": "chrysaurin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chryselephantine", "pos": "adjective", "d": ["Made of gold and ivory, like certain statues of ancient Greece."], "src": "iwb"}
+{"w": "chrysene", "pos": "noun", "d": ["A hydrocarbon compound found in coal tar, made of four fused benzene rings."], "src": "iwb"}
+{"w": "chrysoberyl", "pos": "noun", "d": ["A hard yellowish-green mineral prized as a gemstone."], "src": "iwb"}
+{"w": "chrysochlore", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chrysocolla", "pos": "noun", "d": ["A greenish-blue copper mineral, sometimes cut as a gemstone."], "src": "iwb"}
+{"w": "chrysogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chrysography", "pos": "noun", "d": ["The art of writing in letters of gold."], "src": "iwb"}
+{"w": "chrysoidine", "pos": "noun", "d": ["An orange-brown dye used for coloring paper, leather, and textiles."], "src": "iwb"}
+{"w": "chrysolite", "pos": "noun", "d": ["A yellowish-green gemstone, a variety of the mineral olivine."], "src": "iwb"}
+{"w": "chrysology", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chrysopa", "pos": "noun", "d": ["A genus of green lacewing insects whose larvae eat aphids."], "src": "iwb"}
+{"w": "chrysophane", "pos": "noun", "d": ["A yellow coloring matter obtained from rhubarb and related plants."], "src": "iwb"}
+{"w": "chrysophanic", "pos": "adjective", "d": ["Relating to chrysophanic acid, a yellow substance found in rhubarb."], "src": "iwb"}
+{"w": "chrysoprase", "pos": "noun", "d": ["A bright green variety of chalcedony, used as a gemstone."], "src": "iwb"}
+{"w": "chrysoprasus", "pos": "noun", "d": ["A precious stone named in the Bible, identified with the green gem chrysoprase."], "src": "iwb"}
+{"w": "chrysosperm", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chrysotype", "pos": "noun", "d": ["An early photographic process that used salts of gold to form the image."], "src": "iwb"}
+{"w": "chthonian", "pos": "adjective", "d": ["Relating to the underworld of the dead in ancient myth."], "src": "iwb"}
+{"w": "chthonic", "pos": "adjective", "d": ["Belonging to or concerning the underworld."], "src": "iwb"}
+{"w": "chthonophagia", "pos": "noun", "d": ["The practice of eating earth or clay."], "src": "iwb"}
+{"w": "chthonophagy", "pos": "noun", "d": ["The same as chthonophagia, the eating of earth."], "src": "iwb"}
+{"w": "chub", "pos": "noun", "d": ["A thick-bodied freshwater fish of the minnow family."], "src": "iwb"}
+{"w": "chub-faced", "pos": "adjective", "d": ["Having a round, plump face."], "src": "iwb"}
+{"w": "chuckle", "pos": "verb", "d": ["To laugh quietly in a suppressed, amused way."], "src": "iwb"}
+{"w": "chud", "pos": "noun", "d": ["A small silvery whitefish of northern lakes, also called the cisco."], "src": "iwb"}
+{"w": "chuet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chufa", "pos": "noun", "d": ["A sedge plant whose small sweet tubers, called tiger nuts, are eaten as food."], "src": "iwb"}
+{"w": "chuff", "pos": "noun", "d": ["A coarse, surly fellow.", "A short puff of air or steam, or the sound it makes."], "src": "iwb"}
+{"w": "chuffily", "pos": "adverb", "d": ["In a surly or bad-tempered manner."], "src": "iwb"}
+{"w": "chuffiness", "pos": "noun", "d": ["The quality of being surly or ill-tempered."], "src": "iwb"}
+{"w": "chuffy", "pos": "adjective", "d": ["Surly and ill-tempered.", "Plump and red-cheeked."], "src": "iwb"}
+{"w": "chulan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "chum", "pos": "noun", "d": ["A close friend or companion.", "Cut-up fish used as bait to attract larger fish."], "src": "iwb"}
+{"w": "chump", "pos": "noun", "d": ["A foolish or easily tricked person.", "A thick short piece of wood or meat."], "src": "iwb"}
+{"w": "chunam", "pos": "noun", "d": ["A polished lime plaster used in India for walls and floors."], "src": "iwb"}
+{"w": "chunk", "pos": "noun", "d": ["A thick, solid piece of something cut or broken off.", "A fairly large amount of something."], "src": "iwb"}
+{"w": "chunky", "pos": "adjective", "d": ["Short and thick in build.", "Containing solid pieces, as in a sauce with chunks."], "src": "iwb"}
+{"w": "chupatty", "pos": "noun", "d": ["A thin, round, unleavened bread baked on a hot griddle, common in India."], "src": "iwb"}
+{"w": "chuprassie", "pos": "noun", "d": ["In India, a messenger or orderly who wears a badge of office."], "src": "iwb"}
+{"w": "chuprassy", "pos": "noun", "d": ["A variant spelling of chuprassie, an Indian messenger or attendant."], "src": "iwb"}
+{"w": "church modes", "pos": "phrase", "d": ["The eight musical scales used in medieval church music, the basis of Gregorian chant."], "src": "iwb"}
+{"w": "church-ale", "pos": "noun", "d": ["In old England, a festival with drinking and games held to raise money for the church."], "src": "iwb"}
+{"w": "church-bench", "pos": "noun", "d": ["A long bench in a church for the congregation to sit on."], "src": "iwb"}
+{"w": "church-haw", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "churchliness", "pos": "noun", "d": ["Devotion to church services and religious observance."], "src": "iwb"}
+{"w": "churchy", "pos": "adjective", "d": ["Very devoted to churchgoing.", "Suggesting a church in atmosphere or appearance."], "src": "iwb"}
+{"w": "churl", "pos": "noun", "d": ["A rude, ill-mannered person.", "In old use, a peasant or rustic laborer."], "src": "iwb"}
+{"w": "churly", "pos": "adjective", "d": ["Rude and surly in manner."], "src": "iwb"}
+{"w": "churme", "pos": "noun", "d": ["A confused murmur or chattering noise, as of a flock of birds."], "src": "iwb"}
+{"w": "churn", "pos": "noun", "d": ["A vessel in which cream is shaken to make butter.", "To stir or agitate something violently."], "src": "iwb"}
+{"w": "churr", "pos": "verb", "d": ["To make a low trilling or whirring sound, as some birds and insects do."], "src": "iwb"}
+{"w": "churrus", "pos": "noun", "d": ["The sticky resin collected from hemp plants, smoked as a drug in India."], "src": "iwb"}
+{"w": "chuse", "pos": "verb", "d": ["An older spelling of choose."], "src": "iwb"}
+{"w": "chute", "pos": "noun", "d": ["A steep trough or channel for sliding things down.", "A parachute, in slang use."], "src": "iwb"}
+{"w": "chutnee", "pos": "noun", "d": ["A variant spelling of chutney, a spicy relish."], "src": "iwb"}
+{"w": "chutney", "pos": "noun", "d": ["A spicy condiment of chopped fruit or vegetables cooked with vinegar and spices."], "src": "iwb"}
+{"w": "chylaceous", "pos": "adjective", "d": ["Relating to or resembling chyle, the milky fluid of digestion."], "src": "iwb"}
+{"w": "chylaqueous", "pos": "adjective", "d": ["Consisting of chyle mixed with a watery fluid."], "src": "iwb"}
+{"w": "chyle", "pos": "noun", "d": ["A milky fluid of digested fats absorbed from the intestines into the lymph vessels."], "src": "iwb"}
+{"w": "chylifaction", "pos": "noun", "d": ["The formation of chyle during digestion."], "src": "iwb"}
+{"w": "chylifactive", "pos": "adjective", "d": ["Producing or forming chyle."], "src": "iwb"}
+{"w": "chyliferous", "pos": "adjective", "d": ["Carrying or conveying chyle."], "src": "iwb"}
+{"w": "chylific", "pos": "adjective", "d": ["Forming or producing chyle."], "src": "iwb"}
+{"w": "chylificatory", "pos": "adjective", "d": ["Having the power to form chyle."], "src": "iwb"}
+{"w": "chylify", "pos": "verb", "d": ["To change food into chyle during digestion."], "src": "iwb"}
+{"w": "chylopoetic", "pos": "adjective", "d": ["Forming chyle."], "src": "iwb"}
+{"w": "chylous", "pos": "adjective", "d": ["Consisting of or containing chyle."], "src": "iwb"}
+{"w": "chyluria", "pos": "noun", "d": ["The presence of chyle in the urine, making it look milky."], "src": "iwb"}
+{"w": "chyme", "pos": "noun", "d": ["The thick pulpy mass of partly digested food that passes from the stomach into the intestines."], "src": "iwb"}
+{"w": "chymic", "pos": "adjective", "d": ["An older spelling of chemical."], "src": "iwb"}
+{"w": "chymiferous", "pos": "adjective", "d": ["Carrying or conveying chyme."], "src": "iwb"}
+{"w": "chymification", "pos": "noun", "d": ["The changing of food into chyme in the stomach."], "src": "iwb"}
+{"w": "chymify", "pos": "verb", "d": ["To turn food into chyme."], "src": "iwb"}
+{"w": "chymist", "pos": "noun", "d": ["An older spelling of chemist."], "src": "iwb"}
+{"w": "chymistry", "pos": "noun", "d": ["An older spelling of chemistry."], "src": "iwb"}
+{"w": "chymous", "pos": "adjective", "d": ["Like or consisting of chyme."], "src": "iwb"}
+{"w": "chyometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ci-devant", "pos": "adjective", "d": ["Former or previous, especially of an office or title.", "Now out of power or out of use."], "src": "iwb"}
+{"w": "cibarious", "pos": "adjective", "d": ["Relating to food or to eating."], "src": "iwb"}
+{"w": "cibation", "pos": "noun", "d": ["The act of eating or of feeding."], "src": "iwb"}
+{"w": "cibol", "pos": "noun", "d": ["A wild onion growing on the western plains of North America.", "Any of several related wild onions."], "src": "iwb"}
+{"w": "ciborium", "pos": "noun", "d": ["A covered cup that holds consecrated bread in church services.", "A canopy over an altar, held up by pillars."], "src": "iwb"}
+{"w": "cicada", "pos": "noun", "d": ["A large stout-bodied insect whose males sing loudly in the summer trees.", "One of several kinds of cicada, some of which appear only every thirteen or seventeen years."], "src": "iwb"}
+{"w": "cicala", "pos": "noun", "d": ["The cicada, an insect known for its loud summer song."], "src": "iwb"}
+{"w": "cicatrice", "pos": "noun", "d": ["A scar left on the skin after a wound has healed."], "src": "iwb"}
+{"w": "cicatricial", "pos": "adjective", "d": ["Of or like a scar.", "Tending to form scars."], "src": "iwb"}
+{"w": "cicatricle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cicatrisive", "pos": "adjective", "d": ["Tending to form a scar."], "src": "iwb"}
+{"w": "cicatrix", "pos": "noun", "d": ["A scar left where a wound has healed."], "src": "iwb"}
+{"w": "cicatrizant", "pos": "noun", "d": ["A substance that helps wounds heal by forming a scar."], "src": "iwb"}
+{"w": "cicatrization", "pos": "noun", "d": ["Healing by the formation of a scar.", "The process by which a wound heals and leaves a scar."], "src": "iwb"}
+{"w": "cicatrize", "pos": "verb", "d": ["To heal by forming a scar."], "src": "iwb"}
+{"w": "cicatrose", "pos": "adjective", "d": ["Full of scars.", "Marked with scars."], "src": "iwb"}
+{"w": "cicely", "pos": "noun", "d": ["An aromatic herb with sweet-tasting leaves and roots.", "Sweet cicely, a fragrant herb of the carrot family used as a sweet seasoning."], "src": "iwb"}
+{"w": "cicero", "pos": "noun", "d": ["A size of printing type equal to about twelve points."], "src": "iwb"}
+{"w": "cicerone", "pos": "noun", "d": ["A guide who shows sightseers the sights of a place."], "src": "iwb"}
+{"w": "ciceronian", "pos": "adjective", "d": ["Written or spoken in the elegant style of the Roman orator Cicero."], "src": "iwb"}
+{"w": "cich-pea", "pos": "noun", "d": ["The chickpea, a round yellowish seed eaten as food.", "A plant of the pea family bearing round edible seeds."], "src": "iwb"}
+{"w": "cichoraceous", "pos": "adjective", "d": ["Of or like chicory; belonging to the chicory group of the daisy family."], "src": "iwb"}
+{"w": "cicisbeism", "pos": "noun", "d": ["The practice, once common in Italy, of a married woman having a recognized male attendant."], "src": "iwb"}
+{"w": "cicisbeo", "pos": "noun", "d": ["A married woman's recognized male escort or attendant."], "src": "iwb"}
+{"w": "ciclatoun", "pos": "noun", "d": ["A rich medieval cloth woven with gold thread.", "A costly cloth of gold used in medieval times."], "src": "iwb"}
+{"w": "cicurate", "pos": "verb", "d": ["To make tame; to bring under control."], "src": "iwb"}
+{"w": "cicuration", "pos": "noun", "d": ["The act or process of taming."], "src": "iwb"}
+{"w": "cicuta", "pos": "noun", "d": ["A genus of very poisonous plants of wet ground, the water hemlocks."], "src": "iwb"}
+{"w": "cicutoxin", "pos": "noun", "d": ["The poisonous substance contained in the water hemlock."], "src": "iwb"}
+{"w": "cid", "pos": "noun", "d": ["A Spanish title of honor, made famous by Rodrigo Diaz, called the Cid."], "src": "iwb"}
+{"w": "cierge", "pos": "noun", "d": ["A large wax candle, especially one used at a church altar."], "src": "iwb"}
+{"w": "cigar", "pos": "noun", "d": ["A compact roll of tobacco leaves made for smoking, open at both ends."], "src": "iwb"}
+{"w": "cilia", "pos": "noun", "d": ["The plural of cilium.", "Tiny hairlike parts on cells that wave to move fluid or the cell itself."], "src": "iwb"}
+{"w": "ciliary", "pos": "adjective", "d": ["Of or like the fine hairlike structures called cilia."], "src": "iwb"}
+{"w": "ciliata", "pos": "noun", "d": ["A class of single-celled organisms that swim by means of cilia."], "src": "iwb"}
+{"w": "ciliate", "pos": "adjective", "d": ["Furnished with cilia.", "Covered with fine hairs."], "src": "iwb"}
+{"w": "cilice", "pos": "noun", "d": ["A coarse shirt of hair worn next to the skin as an act of penance."], "src": "iwb"}
+{"w": "cilician", "pos": "adjective", "d": ["Of Cilicia, a region of ancient Asia Minor."], "src": "iwb"}
+{"w": "cilicious", "pos": "adjective", "d": ["Consisting of hair; hairy."], "src": "iwb"}
+{"w": "ciliform", "pos": "adjective", "d": ["Hairlike in form."], "src": "iwb"}
+{"w": "ciliiform", "pos": "adjective", "d": ["Having the form of a fine hair."], "src": "iwb"}
+{"w": "ciliograde", "pos": "adjective", "d": ["Moving by means of cilia."], "src": "iwb"}
+{"w": "cilium", "pos": "noun", "d": ["A minute hairlike process on the surface of a cell.", "An eyelash."], "src": "iwb"}
+{"w": "cill", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cillosis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cima", "pos": "noun", "d": ["An architectural molding with an S-shaped curve, convex at the top and concave below."], "src": "iwb"}
+{"w": "cimar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cimbal", "pos": "noun", "d": ["A brass percussion instrument struck together in pairs; a cymbal."], "src": "iwb"}
+{"w": "cimbia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cimbrian", "pos": "adjective", "d": ["Of the Cimbri, an ancient Germanic people."], "src": "iwb"}
+{"w": "cimbric", "pos": "adjective", "d": ["Relating to the ancient Cimbri."], "src": "iwb"}
+{"w": "cimeliarch", "pos": "noun", "d": ["An officer in charge of the precious things kept in a church."], "src": "iwb"}
+{"w": "cimeter", "pos": "noun", "d": ["A short curved sword; a scimitar."], "src": "iwb"}
+{"w": "cimex", "pos": "noun", "d": ["A genus of flat wingless insects that includes the bedbug."], "src": "iwb"}
+{"w": "cimia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cimiss", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cimmerian", "pos": "adjective", "d": ["Extremely dark and gloomy, like the fabled land of the Cimmerians.", "Of or like the ancient Cimmerians."], "src": "iwb"}
+{"w": "cimolite", "pos": "noun", "d": ["A soft grayish claylike mineral once used in fulling cloth."], "src": "iwb"}
+{"w": "cinch", "pos": "noun", "d": ["A sure or easy thing to do.", "A tight girth fastened around a horse's body to hold the saddle."], "src": "iwb"}
+{"w": "cinchona", "pos": "noun", "d": ["A tree of the Andes whose bark yields quinine and other fever remedies."], "src": "iwb"}
+{"w": "cinchonaceous", "pos": "adjective", "d": ["Belonging to the plant family that includes cinchona."], "src": "iwb"}
+{"w": "cinchonic", "pos": "adjective", "d": ["Derived from or relating to cinchona bark."], "src": "iwb"}
+{"w": "cinchonidine", "pos": "noun", "d": ["A bitter alkaloid from cinchona bark, used much like quinine."], "src": "iwb"}
+{"w": "cinchonine", "pos": "noun", "d": ["A bitter alkaloid of cinchona bark used against fever."], "src": "iwb"}
+{"w": "cinchonism", "pos": "noun", "d": ["A disorder caused by an overdose of quinine, with ringing in the ears and dizziness."], "src": "iwb"}
+{"w": "cinchonize", "pos": "verb", "d": ["To dose with quinine or cinchona bark."], "src": "iwb"}
+{"w": "cincinnati epoch", "pos": "phrase", "d": ["A part of the Ordovician period in North American geology, named for rock layers near Cincinnati, Ohio."], "src": "iwb"}
+{"w": "cincinnus", "pos": "noun", "d": ["A flower cluster that uncoils as it blooms, each new flower rising above the last."], "src": "iwb"}
+{"w": "cincture", "pos": "noun", "d": ["A belt worn around the waist.", "Anything that encircles like a belt."], "src": "iwb"}
+{"w": "cinder", "pos": "noun", "d": ["A small burned piece of coal or wood.", "A fragment of slag or lava."], "src": "iwb"}
+{"w": "cindery", "pos": "adjective", "d": ["Full of cinders.", "Resembling cinders; ashy."], "src": "iwb"}
+{"w": "cinefaction", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cinematic", "pos": "adjective", "d": ["Relating to motion pictures or the art of film."], "src": "iwb"}
+{"w": "cinematograph", "pos": "noun", "d": ["A device for projecting moving pictures.", "An early motion-picture camera and projector combined."], "src": "iwb"}
+{"w": "cinemograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cineraceous", "pos": "adjective", "d": ["Ash-colored; consisting of ashes."], "src": "iwb"}
+{"w": "cineraria", "pos": "noun", "d": ["A popular greenhouse plant of the daisy family grown for its bright clusters of flowers."], "src": "iwb"}
+{"w": "cinerary", "pos": "adjective", "d": ["For containing the ashes of the cremated dead, as a cinerary urn."], "src": "iwb"}
+{"w": "cineration", "pos": "noun", "d": ["The act of burning to ashes."], "src": "iwb"}
+{"w": "cinereous", "pos": "adjective", "d": ["Of an ashy gray color."], "src": "iwb"}
+{"w": "cinerescent", "pos": "adjective", "d": ["Turning ashy in color."], "src": "iwb"}
+{"w": "cineritious", "pos": "adjective", "d": ["Ash-gray in color."], "src": "iwb"}
+{"w": "cinerulent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cingalese", "pos": "noun", "d": ["A member of the Sinhalese people of Sri Lanka, formerly Ceylon.", "The language spoken by that people."], "src": "iwb"}
+{"w": "cingle", "pos": "noun", "d": ["A girth or belt, especially one fastened around a horse."], "src": "iwb"}
+{"w": "cingulum", "pos": "noun", "d": ["A beltlike band, as a ridge around an animal's body or a tract of nerve fibers in the brain."], "src": "iwb"}
+{"w": "cinnabar", "pos": "noun", "d": ["Mercury sulfide, a brilliant red mineral and the chief ore of mercury, used as a pigment."], "src": "iwb"}
+{"w": "cinnabarine", "pos": "adjective", "d": ["Like cinnabar in color or composition."], "src": "iwb"}
+{"w": "cinnamene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cinnamic", "pos": "adjective", "d": ["Obtained from cinnamon oil, as cinnamic acid."], "src": "iwb"}
+{"w": "cinnamomic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cinnamon", "pos": "noun", "d": ["The dried inner bark of a tropical tree, used as a sweet spice.", "The tree that yields this bark."], "src": "iwb"}
+{"w": "cinnamone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cinnamyl", "pos": "noun", "d": ["A group of atoms occurring in chemical compounds derived from cinnamon oil."], "src": "iwb"}
+{"w": "cinnoline", "pos": "noun", "d": ["An organic chemical compound with two nitrogen atoms in its ring structure."], "src": "iwb"}
+{"w": "cinque", "pos": "noun", "d": ["Five, especially the five on a die or a playing card."], "src": "iwb"}
+{"w": "cinque ports", "pos": "phrase", "d": ["Hastings, Romney, Hythe, Dover, and Sandwich, five English ports once charged with guarding the Channel."], "src": "iwb"}
+{"w": "cinque-pace", "pos": "noun", "d": ["A lively old dance performed in five steps."], "src": "iwb"}
+{"w": "cinque-spotted", "pos": "adjective", "d": ["Marked with five spots."], "src": "iwb"}
+{"w": "cinquecentist", "pos": "noun", "d": ["A painter, sculptor, or writer of the sixteenth century in Italy."], "src": "iwb"}
+{"w": "cinter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cinura", "pos": "noun", "d": ["A group of small wingless insects, the bristletails, with bristlelike tails."], "src": "iwb"}
+{"w": "cion", "pos": "noun", "d": ["A young shoot or twig used in grafting; a scion."], "src": "iwb"}
+{"w": "cipher", "pos": "noun", "d": ["Zero, written 0.", "A secret system of writing; a code.", "A person of no importance."], "src": "iwb"}
+{"w": "cipolin", "pos": "noun", "d": ["A marble with wavy veins of green or gray."], "src": "iwb"}
+{"w": "cippus", "pos": "noun", "d": ["A low stone pillar set up by the Romans as a tombstone or boundary mark."], "src": "iwb"}
+{"w": "circ", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "circar", "pos": "noun", "d": ["One of the Northern Circars, a coastal district of eastern India.", "A province or district in India."], "src": "iwb"}
+{"w": "circassian", "pos": "adjective", "d": ["Of Circassia, a region in the Caucasus mountains.", "Belonging to or characteristic of its people."], "src": "iwb"}
+{"w": "circensial", "pos": "adjective", "d": ["Relating to the Roman circus and its games."], "src": "iwb"}
+{"w": "circensian", "pos": "adjective", "d": ["Pertaining to the public games of the Roman circus."], "src": "iwb"}
+{"w": "circinal", "pos": "adjective", "d": ["Rolled inward from the tip, as a young fern leaf."], "src": "iwb"}
+{"w": "circinate", "pos": "adjective", "d": ["Rolled up from the tip toward the base, like a fern frond."], "src": "iwb"}
+{"w": "circination", "pos": "noun", "d": ["A rolling or coiling inward, as of a young fern leaf."], "src": "iwb"}
+{"w": "circocele", "pos": "noun", "d": ["An enlargement of the veins of the spermatic cord."], "src": "iwb"}
+{"w": "circuiteer", "pos": "noun", "d": ["A person who goes around a regular circuit, as a traveling preacher or judge."], "src": "iwb"}
+{"w": "circuity", "pos": "noun", "d": ["The quality of being indirect or roundabout."], "src": "iwb"}
+{"w": "circulable", "pos": "adjective", "d": ["Capable of being passed around or spread."], "src": "iwb"}
+{"w": "circulary", "pos": "adjective", "d": ["Relating to the circulation of blood or of money."], "src": "iwb"}
+{"w": "circulate", "pos": "verb", "d": ["To move in a course and return to the starting point, as blood in the body.", "To pass from person to person; to spread widely."], "src": "iwb"}
+{"w": "circulative", "pos": "adjective", "d": ["Causing or promoting circulation."], "src": "iwb"}
+{"w": "circulator", "pos": "noun", "d": ["A person who spreads news or papers.", "A device that keeps air or liquid moving."], "src": "iwb"}
+{"w": "circulatory", "pos": "adjective", "d": ["Relating to the movement of blood through the body."], "src": "iwb"}
+{"w": "circulet", "pos": "noun", "d": ["A little circle or ring, as of metal worn as an ornament."], "src": "iwb"}
+{"w": "circuline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "circum-", "pos": "prefix", "d": ["A prefix meaning around or about, as in circumnavigate."], "src": "iwb"}
+{"w": "circumagitate", "pos": "verb", "d": ["To stir up on every side."], "src": "iwb"}
+{"w": "circumambage", "pos": "noun", "d": ["A roundabout way of speaking; circumlocution."], "src": "iwb"}
+{"w": "circumambiency", "pos": "noun", "d": ["The quality of being all around; surrounding."], "src": "iwb"}
+{"w": "circumambient", "pos": "adjective", "d": ["Lying or floating all around."], "src": "iwb"}
+{"w": "circumambulate", "pos": "verb", "d": ["To walk about in a circle around something."], "src": "iwb"}
+{"w": "circumbendibus", "pos": "noun", "d": ["An indirect or roundabout course."], "src": "iwb"}
+{"w": "circumcenter", "pos": "noun", "d": ["The point equally distant from the three corners of a triangle; the center of the circle passing through them."], "src": "iwb"}
+{"w": "circumcise", "pos": "verb", "d": ["To remove the foreskin of, as a religious rite.", "To cut around; to trim."], "src": "iwb"}
+{"w": "circumcision", "pos": "noun", "d": ["The religious rite of removing the foreskin.", "The act of cutting around."], "src": "iwb"}
+{"w": "circumclusion", "pos": "noun", "d": ["The act of shutting in all around."], "src": "iwb"}
+{"w": "circumcursation", "pos": "noun", "d": ["The act of running around from place to place."], "src": "iwb"}
+{"w": "circumdenudation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "circumduce", "pos": "verb", "d": ["To lead or draw around."], "src": "iwb"}
+{"w": "circumduct", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "circumesophagal", "pos": "adjective", "d": ["Lying around the gullet."], "src": "iwb"}
+{"w": "circumesophageal", "pos": "adjective", "d": ["Encircling the gullet."], "src": "iwb"}
+{"w": "circumfer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "circumferential", "pos": "adjective", "d": ["Relating to or going around the outer edge."], "src": "iwb"}
+{"w": "circumferentor", "pos": "noun", "d": ["An instrument with a compass used by surveyors for measuring angles."], "src": "iwb"}
+{"w": "circumflant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "circumflect", "pos": "verb", "d": ["To bend or turn around.", "To mark with a circumflex accent."], "src": "iwb"}
+{"w": "circumflex", "pos": "noun", "d": ["A diacritical mark shaped like a caret placed over a letter.", "A nerve or muscle that winds around, as the circumflex nerve."], "src": "iwb"}
+{"w": "circumfluence", "pos": "noun", "d": ["The act of flowing around on all sides."], "src": "iwb"}
+{"w": "circumfluent", "pos": "adjective", "d": ["Flowing round about on every side."], "src": "iwb"}
+{"w": "circumfluous", "pos": "adjective", "d": ["Flowing round about; surrounding in its course."], "src": "iwb"}
+{"w": "circumforanean", "pos": "adjective", "d": ["Wandering from place to place, as through markets and towns."], "src": "iwb"}
+{"w": "circumforaneous", "pos": "adjective", "d": ["Roving about from market to market or town to town."], "src": "iwb"}
+{"w": "circumfulgent", "pos": "adjective", "d": ["Shining on all sides."], "src": "iwb"}
+{"w": "circumfuse", "pos": "verb", "d": ["To pour or spread around on every side."], "src": "iwb"}
+{"w": "circumfusile", "pos": "adjective", "d": ["Capable of being poured or spread around."], "src": "iwb"}
+{"w": "circumfusion", "pos": "noun", "d": ["A pouring or spreading around on all sides."], "src": "iwb"}
+{"w": "circumgestation", "pos": "noun", "d": ["The act of carrying around."], "src": "iwb"}
+{"w": "circumgyrate", "pos": "verb", "d": ["To turn or whirl around."], "src": "iwb"}
+{"w": "circumgyration", "pos": "noun", "d": ["The act of turning around; revolution."], "src": "iwb"}
+{"w": "circumgyratory", "pos": "adjective", "d": ["Turning or whirling round."], "src": "iwb"}
+{"w": "circumgyre", "pos": "verb", "d": ["To rotate around a point."], "src": "iwb"}
+{"w": "circumincession", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "circumjacence", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "circumjacent", "pos": "adjective", "d": ["Lying or situated all around."], "src": "iwb"}
+{"w": "circumjovial", "pos": "adjective", "d": ["Surrounding or revolving about the planet Jupiter."], "src": "iwb"}
+{"w": "circumlittoral", "pos": "adjective", "d": ["Of the sea bottom just beyond the shore zone."], "src": "iwb"}
+{"w": "circumlocution", "pos": "noun", "d": ["A roundabout way of saying something; the use of many words where few would do."], "src": "iwb"}
+{"w": "circumlocutory", "pos": "adjective", "d": ["Using indirect or evasive language."], "src": "iwb"}
+{"w": "circummeridian", "pos": "adjective", "d": ["Near the meridian, as a star observed around noon or midnight."], "src": "iwb"}
+{"w": "circummure", "pos": "verb", "d": ["To surround with a wall."], "src": "iwb"}
+{"w": "circumnavigable", "pos": "adjective", "d": ["That can be sailed round about."], "src": "iwb"}
+{"w": "circumnavigate", "pos": "verb", "d": ["To sail completely around, as the earth."], "src": "iwb"}
+{"w": "circumnavigation", "pos": "noun", "d": ["The act of sailing completely around a place or the earth."], "src": "iwb"}
+{"w": "circumnavigator", "pos": "noun", "d": ["A person who has sailed completely around the earth."], "src": "iwb"}
+{"w": "circumnutate", "pos": "verb", "d": ["To move in a circular nodding motion, as the growing tip of a plant."], "src": "iwb"}
+{"w": "circumnutation", "pos": "noun", "d": ["The slow circular swaying of a growing plant tip."], "src": "iwb"}
+{"w": "circumpolar", "pos": "adjective", "d": ["About or near one of the earth's poles.", "Of stars that never set, wheeling around the pole."], "src": "iwb"}
+{"w": "circumposition", "pos": "noun", "d": ["The act of setting things around."], "src": "iwb"}
+{"w": "circumrotary", "pos": "adjective", "d": ["Revolving about a center."], "src": "iwb"}
+{"w": "circumrotate", "pos": "verb", "d": ["To turn round about a center."], "src": "iwb"}
+{"w": "circumrotation", "pos": "noun", "d": ["The act of turning about a center."], "src": "iwb"}
+{"w": "circumrotatory", "pos": "adjective", "d": ["Turning about a center."], "src": "iwb"}
+{"w": "circumscissile", "pos": "adjective", "d": ["Opening by a circular split around the pod, as some seed capsules."], "src": "iwb"}
+{"w": "circumscribe", "pos": "verb", "d": ["To mark off by a boundary; to limit.", "To draw one figure around another so as to touch it at every side."], "src": "iwb"}
+{"w": "circumscriptible", "pos": "adjective", "d": ["Capable of being bounded or limited."], "src": "iwb"}
+{"w": "circumscription", "pos": "noun", "d": ["The act of limiting or enclosing; a boundary.", "An inscription written around something, as on a coin."], "src": "iwb"}
+{"w": "circumscriptive", "pos": "adjective", "d": ["Serving to bound or limit."], "src": "iwb"}
+{"w": "circumscriptly", "pos": "adverb", "d": ["With limits; in a circumscribed manner."], "src": "iwb"}
+{"w": "circumspect", "pos": "adjective", "d": ["Careful to look all around before acting; cautious."], "src": "iwb"}
+{"w": "circumstance", "pos": "noun", "d": ["A condition or fact attending an event.", "The details that make up one's situation in life."], "src": "iwb"}
+{"w": "circumstant", "pos": "adjective", "d": ["Standing or lying around."], "src": "iwb"}
+{"w": "circumstantiable", "pos": "adjective", "d": ["Capable of being set forth with its circumstances."], "src": "iwb"}
+{"w": "circumstantiate", "pos": "verb", "d": ["To set forth with all the attending circumstances."], "src": "iwb"}
+{"w": "circumterraneous", "pos": "adjective", "d": ["Surrounding or encircling the earth."], "src": "iwb"}
+{"w": "circumundulate", "pos": "verb", "d": ["To wave or flow around on all sides."], "src": "iwb"}
+{"w": "circumvallate", "pos": "verb", "d": ["To enclose with a wall or trench, as in a siege."], "src": "iwb"}
+{"w": "circumvallation", "pos": "noun", "d": ["A wall or trench thrown up around a besieged place."], "src": "iwb"}
+{"w": "circumvection", "pos": "noun", "d": ["The act of carrying about."], "src": "iwb"}
+{"w": "circumvent", "pos": "verb", "d": ["To evade by clever means; to outwit."], "src": "iwb"}
+{"w": "circumventor", "pos": "noun", "d": ["A person who finds a way around an obstacle, rule, or restriction.", "A device or method that bypasses a barrier."], "src": "iwb"}
+{"w": "circumvest", "pos": "verb", "d": ["To surround or wrap around something on all sides, as clothing wraps the body."], "src": "iwb"}
+{"w": "circumvolant", "pos": "adjective", "d": ["Flying or moving around something; circling."], "src": "iwb"}
+{"w": "circumvolation", "pos": "noun", "d": ["The act of flying or moving in a circle around something."], "src": "iwb"}
+{"w": "circumvolution", "pos": "noun", "d": ["A winding or coiling around something; the act of encircling."], "src": "iwb"}
+{"w": "circumvolve", "pos": "verb", "d": ["To roll or wind around something; to cause to revolve."], "src": "iwb"}
+{"w": "cirl bunting", "pos": "noun", "d": ["A small songbird of Europe, the male marked with yellow on the face and black on the throat."], "src": "iwb"}
+{"w": "cirque", "pos": "noun", "d": ["A bowl-shaped hollow carved into a mountainside by a glacier.", "A circular arena or ring for performances."], "src": "iwb"}
+{"w": "cirrate", "pos": "adjective", "d": ["Bearing slender curling tendrils or hairlike appendages."], "src": "iwb"}
+{"w": "cirrhiferous", "pos": "adjective", "d": ["Bearing or producing cirri or tendril-like growths."], "src": "iwb"}
+{"w": "cirrhose", "pos": "adjective", "d": ["Having tendril-like appendages.", "Relating to or affected by cirrhosis."], "src": "iwb"}
+{"w": "cirrhosis", "pos": "noun", "d": ["A chronic disease of the liver in which working tissue is replaced by scar tissue."], "src": "iwb"}
+{"w": "cirrhotic", "pos": "adjective", "d": ["Relating to or affected by cirrhosis."], "src": "iwb"}
+{"w": "cirrhous", "pos": "adjective", "d": ["Having slender curling tendrils or tendril-like parts."], "src": "iwb"}
+{"w": "cirrhus", "pos": "noun", "d": ["A curling tendril or hairlike appendage on a plant or animal."], "src": "iwb"}
+{"w": "cirri", "pos": "noun", "d": ["Slender curling appendages; the plural of cirrus."], "src": "iwb"}
+{"w": "cirrigerous", "pos": "adjective", "d": ["Bearing curling tendrils or cirri."], "src": "iwb"}
+{"w": "cirripedia", "pos": "noun", "d": ["An order of crustaceans that includes the barnacles, which fasten themselves to rocks and ships."], "src": "iwb"}
+{"w": "cirro-cumulus", "pos": "noun", "d": ["A high-altitude cloud forming thin white patches or ripples across the sky."], "src": "iwb"}
+{"w": "cirro-stratus", "pos": "noun", "d": ["A high, thin, veil-like cloud that often makes a halo around the sun or moon."], "src": "iwb"}
+{"w": "cirrobranchiata", "pos": "noun", "d": ["An order of deep-sea octopuses that bear small fleshy cirri on their arms."], "src": "iwb"}
+{"w": "cirrose", "pos": "adjective", "d": ["Having cirri or tendril-like appendages.", "Affected by cirrhosis."], "src": "iwb"}
+{"w": "cirrostomi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cirrous", "pos": "adjective", "d": ["Having cirri or tendril-like appendages."], "src": "iwb"}
+{"w": "cirrus", "pos": "noun", "d": ["A high, thin, wispy cloud made of ice crystals.", "A slender curling appendage on a plant or animal."], "src": "iwb"}
+{"w": "cirsocele", "pos": "noun", "d": ["A varicose swelling of a vein, especially of the spermatic cord."], "src": "iwb"}
+{"w": "cirsoid", "pos": "adjective", "d": ["Resembling a varicose vein; twisted and dilated like an unhealthy blood vessel."], "src": "iwb"}
+{"w": "cirsotomy", "pos": "noun", "d": ["Surgical removal of a varicose vein."], "src": "iwb"}
+{"w": "cis-", "pos": "prefix", "d": ["A prefix meaning on the near side of, as in cisalpine."], "src": "iwb"}
+{"w": "cisalpine", "pos": "adjective", "d": ["Lying on the near side of the Alps from Rome, that is, on the Italian side."], "src": "iwb"}
+{"w": "cisatlantic", "pos": "adjective", "d": ["On this side of the Atlantic Ocean."], "src": "iwb"}
+{"w": "ciselure", "pos": "noun", "d": ["The art of decorating metal by cutting and chasing it with a chisel."], "src": "iwb"}
+{"w": "cisleithan", "pos": "adjective", "d": ["Relating to the western, Austrian part of old Austria-Hungary, west of the Leitha River."], "src": "iwb"}
+{"w": "cismontane", "pos": "adjective", "d": ["Lying on the near side of a mountain range."], "src": "iwb"}
+{"w": "cispadane", "pos": "adjective", "d": ["Lying on the near side of the Po River from Rome."], "src": "iwb"}
+{"w": "cissoid", "pos": "noun", "d": ["A plane curve first studied by the Greek geometer Diocles, formed from a circle and its tangent line."], "src": "iwb"}
+{"w": "cist", "pos": "noun", "d": ["A small stone-lined burial chamber or box used in ancient times.", "A box or chest, especially for holding sacred objects."], "src": "iwb"}
+{"w": "cistercian", "pos": "noun", "d": ["A monk or nun of a strict order founded at Citeaux, France, in 1098."], "src": "iwb"}
+{"w": "cit", "pos": "noun", "d": ["An informal or old-fashioned word for a citizen or townsman."], "src": "iwb"}
+{"w": "citadel", "pos": "noun", "d": ["A fortress set above or within a city to command and defend it.", "A place of safety and strength."], "src": "iwb"}
+{"w": "citator", "pos": "noun", "d": ["A book or index listing the legal cases, statutes, or writings cited by an authority.", "A person who cites or formally summons another."], "src": "iwb"}
+{"w": "citatory", "pos": "adjective", "d": ["Having the nature of a citation; summoning or calling to appear."], "src": "iwb"}
+{"w": "citess", "pos": "noun", "d": ["A female citizen."], "src": "iwb"}
+{"w": "cithara", "pos": "noun", "d": ["An ancient stringed instrument much like a lyre."], "src": "iwb"}
+{"w": "citharistic", "pos": "adjective", "d": ["Relating to the cithara or to music played on it."], "src": "iwb"}
+{"w": "citicism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "citified", "pos": "adjective", "d": ["Given the manners or appearance of a city; urbanized."], "src": "iwb"}
+{"w": "citigradae", "pos": "noun", "d": ["A former group of wandering spiders, including the wolf spiders, that hunt their prey instead of spinning webs."], "src": "iwb"}
+{"w": "citigrade", "pos": "adjective", "d": ["Wandering in search of prey rather than spinning a web, as certain spiders do."], "src": "iwb"}
+{"w": "citiner", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "citizeness", "pos": "noun", "d": ["A female citizen."], "src": "iwb"}
+{"w": "citole", "pos": "noun", "d": ["A medieval plucked stringed instrument, an early ancestor of the guitar."], "src": "iwb"}
+{"w": "citraconic", "pos": "adjective", "d": ["Relating to citraconic acid, an organic acid akin to citric acid."], "src": "iwb"}
+{"w": "citric", "pos": "adjective", "d": ["Relating to or obtained from citrus fruits; sharp and sour like a lemon."], "src": "iwb"}
+{"w": "citrination", "pos": "noun", "d": ["The act or process of turning yellow, once a named stage in old alchemy."], "src": "iwb"}
+{"w": "citron", "pos": "noun", "d": ["A large thick-skinned citrus fruit much like a lemon.", "The candied rind of this fruit, used in baking."], "src": "iwb"}
+{"w": "citrus", "pos": "noun", "d": ["Any tree or fruit of the orange family, such as the orange, lemon, lime, and grapefruit."], "src": "iwb"}
+{"w": "cive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "civet", "pos": "noun", "d": ["A small nocturnal mammal of Africa and Asia known for the musky scent it produces.", "The musky substance taken from this animal and used in making perfume."], "src": "iwb"}
+{"w": "civil service commission", "pos": "phrase", "d": ["A government body that oversees the hiring and employment of civil servants."], "src": "iwb"}
+{"w": "civil service reform", "pos": "phrase", "d": ["Changes in how government jobs are filled, especially replacing political favoritism with hiring by merit."], "src": "iwb"}
+{"w": "civily", "pos": "adverb", "d": ["In a civil or polite manner."], "src": "iwb"}
+{"w": "civism", "pos": "noun", "d": ["The spirit of good citizenship; loyal devotion to one's city or country."], "src": "iwb"}
+{"w": "cizar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cize", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clabber", "pos": "noun", "d": ["Milk that has soured and thickened naturally."], "src": "iwb"}
+{"w": "clachan", "pos": "noun", "d": ["A small village or hamlet in Scotland."], "src": "iwb"}
+{"w": "clack", "pos": "verb", "d": ["To make a short, sharp sound as of hard things striking together.", "To talk rapidly and noisily; to chatter."], "src": "iwb"}
+{"w": "clad", "pos": "adjective", "d": ["Clothed or covered, especially with a protective outer layer."], "src": "iwb"}
+{"w": "cladocera", "pos": "noun", "d": ["An order of tiny freshwater crustaceans that includes the water fleas."], "src": "iwb"}
+{"w": "cladophyll", "pos": "noun", "d": ["A flattened stem that looks and works like a leaf."], "src": "iwb"}
+{"w": "claggy", "pos": "adjective", "d": ["Sticky and adhesive; tending to clog or cling."], "src": "iwb"}
+{"w": "claik", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clair-obscur", "pos": "noun", "d": ["The French term for the treatment of light and shade in a painting."], "src": "iwb"}
+{"w": "clairaudience", "pos": "noun", "d": ["The supposed power of hearing sounds beyond the reach of normal hearing."], "src": "iwb"}
+{"w": "clairaudient", "pos": "adjective", "d": ["Having or claiming the power of clairaudience."], "src": "iwb"}
+{"w": "clairvoyance", "pos": "noun", "d": ["The supposed power of seeing things beyond normal sight, such as distant or future events."], "src": "iwb"}
+{"w": "clairvoyant", "pos": "noun", "d": ["A person who claims the power of clairvoyance."], "src": "iwb"}
+{"w": "clake", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clam", "pos": "noun", "d": ["A burrowing shellfish with two hinged shells, many kinds of which are eaten as food."], "src": "iwb"}
+{"w": "clamatores", "pos": "noun", "d": ["An order of perching birds, including the tyrant flycatchers, that lack true song muscles."], "src": "iwb"}
+{"w": "clamatorial", "pos": "adjective", "d": ["Relating to the clamatores order of birds.", "Loud and clamorous."], "src": "iwb"}
+{"w": "clamber", "pos": "verb", "d": ["To climb awkwardly, using both hands and feet."], "src": "iwb"}
+{"w": "clamjamphrie", "pos": "noun", "d": ["Worthless odds and ends; a noisy, disorderly crowd."], "src": "iwb"}
+{"w": "clammily", "pos": "adverb", "d": ["In a clammy manner; with cold dampness."], "src": "iwb"}
+{"w": "clamminess", "pos": "noun", "d": ["The state or quality of being clammy."], "src": "iwb"}
+{"w": "clammy", "pos": "adjective", "d": ["Cold and damp to the touch; unpleasantly moist."], "src": "iwb"}
+{"w": "clamor", "pos": "noun", "d": ["A loud and continued noise.", "A strong public outcry or demand."], "src": "iwb"}
+{"w": "clamp", "pos": "noun", "d": ["A device for holding two things tightly together."], "src": "iwb"}
+{"w": "clan-na-gael", "pos": "noun", "d": ["An Irish-American secret society founded in the 1860s to support Irish independence."], "src": "iwb"}
+{"w": "clancular", "pos": "adjective", "d": ["Secret and hidden; done in a clandestine way."], "src": "iwb"}
+{"w": "clandestinity", "pos": "noun", "d": ["The quality of being secret or concealed; secrecy."], "src": "iwb"}
+{"w": "clang", "pos": "noun", "d": ["A loud ringing sound, as of metal struck hard."], "src": "iwb"}
+{"w": "clangor", "pos": "noun", "d": ["A loud, resonant clanging sound, especially of metal or trumpets."], "src": "iwb"}
+{"w": "clanjamfrie", "pos": "noun", "d": ["A noisy, disorderly crowd; worthless odds and ends."], "src": "iwb"}
+{"w": "clank", "pos": "noun", "d": ["A short, sharp metallic sound."], "src": "iwb"}
+{"w": "clannish", "pos": "adjective", "d": ["Sticking closely together and shutting out outsiders, as a clan does."], "src": "iwb"}
+{"w": "clansman", "pos": "noun", "d": ["A member of a clan."], "src": "iwb"}
+{"w": "clap", "pos": "verb", "d": ["To strike the palms of the hands together sharply, as in applauding.", "To strike or place suddenly and with force."], "src": "iwb"}
+{"w": "clape", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "claque", "pos": "noun", "d": ["A group of people hired to applaud at a play or concert."], "src": "iwb"}
+{"w": "claqueur", "pos": "noun", "d": ["A member of a claque; a hired applauder."], "src": "iwb"}
+{"w": "clare", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clare-obscure", "pos": "noun", "d": ["The distribution of light and shade in a painting; the art of blending brightness and darkness."], "src": "iwb"}
+{"w": "clarence", "pos": "noun", "d": ["A closed four-wheeled carriage with room for four passengers inside."], "src": "iwb"}
+{"w": "clarenceux", "pos": "noun", "d": ["The title of one of the English kings of arms, whose authority covers the south of England."], "src": "iwb"}
+{"w": "clarencieux", "pos": "noun", "d": ["Another spelling of clarenceux, an English king of arms."], "src": "iwb"}
+{"w": "clarendon", "pos": "noun", "d": ["A style of heavy, bold printing type."], "src": "iwb"}
+{"w": "claret", "pos": "noun", "d": ["A dry red wine from the Bordeaux region of France.", "A deep purplish-red color."], "src": "iwb"}
+{"w": "claribella", "pos": "noun", "d": ["An organ stop that gives a soft, flute-like tone."], "src": "iwb"}
+{"w": "clarichord", "pos": "noun", "d": ["An early keyboard instrument with a very soft and delicate tone."], "src": "iwb"}
+{"w": "clarification", "pos": "noun", "d": ["The act of making something clear or easier to understand."], "src": "iwb"}
+{"w": "clarify", "pos": "verb", "d": ["To make clear or easier to understand; to free from confusion."], "src": "iwb"}
+{"w": "clarigate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clarinet", "pos": "noun", "d": ["A woodwind instrument with a single reed and a straight tube."], "src": "iwb"}
+{"w": "clarino", "pos": "noun", "d": ["A high-pitched trumpet; the brilliant high register of trumpet playing."], "src": "iwb"}
+{"w": "clarion", "pos": "noun", "d": ["A high, clear trumpet sound; a rousing call to action."], "src": "iwb"}
+{"w": "clarionet", "pos": "noun", "d": ["An older form of the word clarinet."], "src": "iwb"}
+{"w": "clarisonus", "pos": "adjective", "d": ["Clear-sounding; sounding clear and loud."], "src": "iwb"}
+{"w": "claritude", "pos": "noun", "d": ["Clearness; brightness."], "src": "iwb"}
+{"w": "claro-obscuro", "pos": "noun", "d": ["The treatment of light and shade in a work of art."], "src": "iwb"}
+{"w": "clarre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clart", "pos": "verb", "d": ["To daub or smear with mud or something sticky."], "src": "iwb"}
+{"w": "clarty", "pos": "adjective", "d": ["Muddy and dirty; smeared with dirt."], "src": "iwb"}
+{"w": "clary", "pos": "noun", "d": ["An aromatic herb of the sage family, used in flavoring and in old medicines."], "src": "iwb"}
+{"w": "clash", "pos": "noun", "d": ["A loud harsh noise of things striking together.", "A sharp conflict or disagreement."], "src": "iwb"}
+{"w": "clash gear", "pos": "phrase", "d": ["An early type of automobile transmission in which the gears clash unless their speeds are matched by the driver."], "src": "iwb"}
+{"w": "clashingly", "pos": "adverb", "d": ["In a clashing manner; with harsh, discordant sound."], "src": "iwb"}
+{"w": "clasp", "pos": "noun", "d": ["A fastening device that joins two parts together.", "A tight hold or embrace."], "src": "iwb"}
+{"w": "class day", "pos": "phrase", "d": ["A day of exercises and ceremonies held by a graduating class, especially at a college."], "src": "iwb"}
+{"w": "classifiable", "pos": "adjective", "d": ["Capable of being classified or arranged into classes."], "src": "iwb"}
+{"w": "classific", "pos": "adjective", "d": ["Relating to classification."], "src": "iwb"}
+{"w": "classificatory", "pos": "adjective", "d": ["Relating to or used in classification."], "src": "iwb"}
+{"w": "classis", "pos": "noun", "d": ["A class or division; in ancient Rome, a fleet.", "An assembly or governing body in some churches."], "src": "iwb"}
+{"w": "clastic", "pos": "adjective", "d": ["Made up of broken fragments, as certain rocks and minerals are."], "src": "iwb"}
+{"w": "clatch", "pos": "noun", "d": ["A brood or hatch of chickens."], "src": "iwb"}
+{"w": "clathrate", "pos": "adjective", "d": ["Formed like a lattice; able to trap other molecules within its structure."], "src": "iwb"}
+{"w": "clatter", "pos": "verb", "d": ["To make a loud rattling sound, as of hard objects striking together.", "To talk fast and noisily; to chatter."], "src": "iwb"}
+{"w": "clatteringly", "pos": "adverb", "d": ["With a clattering, rattling noise."], "src": "iwb"}
+{"w": "claude lorraine glass", "pos": "phrase", "d": ["A small dark-tinted convex mirror that artists use to view a scene in softened tones."], "src": "iwb"}
+{"w": "claudent", "pos": "adjective", "d": ["Closing; shutting."], "src": "iwb"}
+{"w": "claudicant", "pos": "adjective", "d": ["Limping; walking with a halting step."], "src": "iwb"}
+{"w": "claudication", "pos": "noun", "d": ["Limping, especially the painful limping caused by poor blood flow to the legs."], "src": "iwb"}
+{"w": "claustral", "pos": "adjective", "d": ["Relating to a cloister; shut away like a monastery."], "src": "iwb"}
+{"w": "claustrum", "pos": "noun", "d": ["A cloister or enclosed place.", "In anatomy, a thin layer of gray matter deep in the brain."], "src": "iwb"}
+{"w": "clausular", "pos": "adjective", "d": ["Relating to a clause or to clauses."], "src": "iwb"}
+{"w": "clausure", "pos": "noun", "d": ["The act of closing; seclusion, especially the seclusion of monastic life."], "src": "iwb"}
+{"w": "clavate", "pos": "adjective", "d": ["Club-shaped; thicker toward one end."], "src": "iwb"}
+{"w": "clave", "pos": "noun", "d": ["The past tense of cleave.", "One of a pair of hardwood sticks struck together as a percussion instrument."], "src": "iwb"}
+{"w": "clavecin", "pos": "noun", "d": ["The French name for the harpsichord."], "src": "iwb"}
+{"w": "clavel", "pos": "noun", "d": ["A carnation, the fragrant garden flower."], "src": "iwb"}
+{"w": "clavichord", "pos": "noun", "d": ["An early keyboard stringed instrument with a soft, delicate tone."], "src": "iwb"}
+{"w": "clavicle", "pos": "noun", "d": ["The collarbone, joining the breastbone to the shoulder blade."], "src": "iwb"}
+{"w": "clavicorn", "pos": "adjective", "d": ["Having club-shaped antennae, as certain beetles do."], "src": "iwb"}
+{"w": "clavicular", "pos": "adjective", "d": ["Relating to the clavicle or collarbone."], "src": "iwb"}
+{"w": "claviform", "pos": "adjective", "d": ["Club-shaped."], "src": "iwb"}
+{"w": "claviger", "pos": "noun", "d": ["One who carries a club; a keeper of keys."], "src": "iwb"}
+{"w": "clavis", "pos": "noun", "d": ["A key, especially a key to understanding something; an explanatory guide."], "src": "iwb"}
+{"w": "clavus", "pos": "noun", "d": ["A hard thickened patch of skin; a corn on the foot."], "src": "iwb"}
+{"w": "clavy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "claw", "pos": "noun", "d": ["A sharp, curved nail on the foot of a bird or animal.", "The pincer-like limb of a crab or lobster."], "src": "iwb"}
+{"w": "clay-brained", "pos": "adjective", "d": ["Dull-witted; stupid."], "src": "iwb"}
+{"w": "clayey", "pos": "adjective", "d": ["Containing clay; sticky and heavy like clay."], "src": "iwb"}
+{"w": "claytonia", "pos": "noun", "d": ["A genus of early spring wildflowers, including the spring beauty."], "src": "iwb"}
+{"w": "cleading", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clean-cut", "pos": "adjective", "d": ["Neat and trim in appearance; sharply and clearly defined."], "src": "iwb"}
+{"w": "clean-limbed", "pos": "adjective", "d": ["Having well-formed, shapely limbs."], "src": "iwb"}
+{"w": "clean-timbered", "pos": "adjective", "d": ["Well and soundly built, as the frame of a ship."], "src": "iwb"}
+{"w": "cleanliness", "pos": "noun", "d": ["The state of being clean; freedom from dirt."], "src": "iwb"}
+{"w": "cleanse", "pos": "verb", "d": ["To make clean; to free from dirt or impurities."], "src": "iwb"}
+{"w": "clear-cut", "pos": "adjective", "d": ["Sharply defined; leaving no room for doubt."], "src": "iwb"}
+{"w": "clear-headed", "pos": "adjective", "d": ["Thinking clearly; able to reason well and calmly."], "src": "iwb"}
+{"w": "clear-seeing", "pos": "adjective", "d": ["Seeing clearly; having clear understanding."], "src": "iwb"}
+{"w": "clear-shining", "pos": "adjective", "d": ["Shining brightly and clearly."], "src": "iwb"}
+{"w": "clear-sighted", "pos": "adjective", "d": ["Having clear vision; quick to see and understand things."], "src": "iwb"}
+{"w": "clearedness", "pos": "noun", "d": ["The state of being cleared or made clear."], "src": "iwb"}
+{"w": "cleat", "pos": "noun", "d": ["A strip or fitting fastened to a surface for support or to keep things from slipping."], "src": "iwb"}
+{"w": "cleavage", "pos": "noun", "d": ["The act or result of splitting apart.", "The natural tendency of a crystal or rock to split along flat planes."], "src": "iwb"}
+{"w": "cleave", "pos": "verb", "d": ["To split or divide by force.", "To cling or hold closely to something."], "src": "iwb"}
+{"w": "cleavelandite", "pos": "noun", "d": ["A white, platy variety of the mineral albite."], "src": "iwb"}
+{"w": "cleche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clechy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cledge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cledgy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cleek", "pos": "noun", "d": ["A hooked iron bar used for lifting or pulling.", "A narrow-bladed golf club with little loft."], "src": "iwb"}
+{"w": "clef", "pos": "noun", "d": ["A musical symbol at the start of a staff that fixes the pitch of the notes."], "src": "iwb"}
+{"w": "cleft", "pos": "noun", "d": ["A crack or split, as in rock or wood."], "src": "iwb"}
+{"w": "cleft-footed", "pos": "adjective", "d": ["Having a cloven or split foot or hoof."], "src": "iwb"}
+{"w": "cleg", "pos": "noun", "d": ["A bloodsucking horsefly."], "src": "iwb"}
+{"w": "cleistogamic", "pos": "adjective", "d": ["Relating to flowers that pollinate without ever opening."], "src": "iwb"}
+{"w": "cleistogamous", "pos": "adjective", "d": ["Bearing small closed flowers that fertilize themselves without opening."], "src": "iwb"}
+{"w": "clem", "pos": "verb", "d": ["To suffer from hunger; to starve."], "src": "iwb"}
+{"w": "clematis", "pos": "noun", "d": ["A climbing plant prized for its showy white, pink, or purple flowers."], "src": "iwb"}
+{"w": "clemency", "pos": "noun", "d": ["Mercy or leniency shown toward an offender."], "src": "iwb"}
+{"w": "clementine", "pos": "noun", "d": ["A small, sweet, easily peeled citrus fruit, a cross between a mandarin and an orange."], "src": "iwb"}
+{"w": "clench", "pos": "verb", "d": ["To close or squeeze tightly, as the fist or the teeth."], "src": "iwb"}
+{"w": "clepe", "pos": "verb", "d": ["To call or name; to give a name to."], "src": "iwb"}
+{"w": "clepsine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clepsydra", "pos": "noun", "d": ["An ancient clock that measured time by the steady flow of water."], "src": "iwb"}
+{"w": "cleptomania", "pos": "noun", "d": ["An uncontrollable urge to steal things that are not needed."], "src": "iwb"}
+{"w": "clerestory", "pos": "noun", "d": ["The upper part of a church wall pierced with windows that admit light to the nave."], "src": "iwb"}
+{"w": "clergeon", "pos": "noun", "d": ["A young scholar or clergyman in training, especially a choirboy."], "src": "iwb"}
+{"w": "clergical", "pos": "adjective", "d": ["Of or belonging to the clergy."], "src": "iwb"}
+{"w": "clergy", "pos": "noun", "d": ["The body of persons ordained for religious service, such as priests and ministers."], "src": "iwb"}
+{"w": "cleric", "pos": "noun", "d": ["A member of the clergy, such as a priest or minister."], "src": "iwb"}
+{"w": "clerisy", "pos": "noun", "d": ["The educated and literary class of a society."], "src": "iwb"}
+{"w": "clerk-ale", "pos": "noun", "d": ["A parish festival once held to raise money for the parish clerk."], "src": "iwb"}
+{"w": "clerkliness", "pos": "noun", "d": ["The neat and orderly manner of a clerk in keeping records."], "src": "iwb"}
+{"w": "cleromancy", "pos": "noun", "d": ["Divination by casting lots, dice, or small bones."], "src": "iwb"}
+{"w": "cleronomy", "pos": "noun", "d": ["The distribution of land or property by lot."], "src": "iwb"}
+{"w": "clerstory", "pos": "noun", "d": ["A variant spelling of clerestory, the windowed upper wall of a church."], "src": "iwb"}
+{"w": "clever", "pos": "adjective", "d": ["Quick to understand and learn.", "Skilled at solving problems in an original way."], "src": "iwb"}
+{"w": "clevis", "pos": "noun", "d": ["A U-shaped metal fastener closed by a pin, used to link parts of machinery."], "src": "iwb"}
+{"w": "clew", "pos": "noun", "d": ["A ball of yarn or thread.", "The lower corner of a sail."], "src": "iwb"}
+{"w": "cliche", "pos": "noun", "d": ["A phrase or idea used so often that it has lost its freshness."], "src": "iwb"}
+{"w": "click beetle", "pos": "phrase", "d": ["A beetle that rights itself with a snapping jump, making a clicking sound."], "src": "iwb"}
+{"w": "clicket", "pos": "noun", "d": ["The small latch or wicket of a gate."], "src": "iwb"}
+{"w": "clicky", "pos": "adjective", "d": ["Making a series of sharp clicking sounds."], "src": "iwb"}
+{"w": "clidastes", "pos": "noun", "d": ["An extinct genus of marine lizards related to the mosasaurs."], "src": "iwb"}
+{"w": "cliency", "pos": "noun", "d": ["The state or relation of being a client."], "src": "iwb"}
+{"w": "clientelage", "pos": "noun", "d": ["A body of clients or customers."], "src": "iwb"}
+{"w": "clientele", "pos": "noun", "d": ["The regular customers of a business or professional person."], "src": "iwb"}
+{"w": "cliff limestone", "pos": "phrase", "d": ["A hard limestone that forms cliffs or steep rock faces."], "src": "iwb"}
+{"w": "cliffy", "pos": "adjective", "d": ["Full of cliffs; steep and rocky."], "src": "iwb"}
+{"w": "clift", "pos": "noun", "d": ["A cleft or crack in rock; a cliff."], "src": "iwb"}
+{"w": "climacter", "pos": "noun", "d": ["A critical turning point in a person's life, especially middle age."], "src": "iwb"}
+{"w": "climactic", "pos": "adjective", "d": ["Forming the most exciting or decisive point of a story or event."], "src": "iwb"}
+{"w": "climatal", "pos": "adjective", "d": ["Of or relating to climate."], "src": "iwb"}
+{"w": "climatarchic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "climatic", "pos": "adjective", "d": ["Relating to climate."], "src": "iwb"}
+{"w": "climatize", "pos": "verb", "d": ["To become accustomed to a new climate; to acclimatize."], "src": "iwb"}
+{"w": "climatography", "pos": "noun", "d": ["The descriptive study and mapping of climates."], "src": "iwb"}
+{"w": "climatological", "pos": "adjective", "d": ["Relating to the scientific study of climate."], "src": "iwb"}
+{"w": "climatologist", "pos": "noun", "d": ["A scientist who studies climates."], "src": "iwb"}
+{"w": "climatology", "pos": "noun", "d": ["The scientific study of climates and their causes."], "src": "iwb"}
+{"w": "climature", "pos": "noun", "d": ["An old word for climate."], "src": "iwb"}
+{"w": "climax", "pos": "noun", "d": ["The point of greatest intensity in a story, play, or event."], "src": "iwb"}
+{"w": "clime", "pos": "noun", "d": ["A region or country, especially with reference to its climate."], "src": "iwb"}
+{"w": "clinanthium", "pos": "noun", "d": ["In botany, the receptacle on which the tiny flowers of a composite flower head are set."], "src": "iwb"}
+{"w": "clinch", "pos": "verb", "d": ["To settle something decisively, as to clinch a deal.", "To fasten a nail by bending its point."], "src": "iwb"}
+{"w": "clincher-built", "pos": "adjective", "d": ["Built with overlapping hull planks; clinker-built."], "src": "iwb"}
+{"w": "cling", "pos": "verb", "d": ["To hold tightly onto something."], "src": "iwb"}
+{"w": "clingy", "pos": "adjective", "d": ["Tending to hold on tightly.", "Overly dependent on another person's attention."], "src": "iwb"}
+{"w": "clinique", "pos": "noun", "d": ["A clinic; a place where medical treatment is given."], "src": "iwb"}
+{"w": "clinium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clink", "pos": "noun", "d": ["A sharp light ringing sound, as of glass or metal striking."], "src": "iwb"}
+{"w": "clinker-built", "pos": "adjective", "d": ["Built with hull planks overlapping one another, as in a traditional wooden boat."], "src": "iwb"}
+{"w": "clinodiagonal", "pos": "noun", "d": ["In crystallography, the inclined lateral axis of a monoclinic crystal."], "src": "iwb"}
+{"w": "clinodome", "pos": "noun", "d": ["In crystallography, a crystal form whose faces are parallel to the inclined lateral axis."], "src": "iwb"}
+{"w": "clinographic", "pos": "adjective", "d": ["Relating to the clinographic method of drawing crystals in perspective."], "src": "iwb"}
+{"w": "clinoid", "pos": "adjective", "d": ["Bed-shaped; applied to small bony projections of the sphenoid bone in the skull."], "src": "iwb"}
+{"w": "clinometer", "pos": "noun", "d": ["An instrument for measuring the angle of a slope."], "src": "iwb"}
+{"w": "clinometric", "pos": "adjective", "d": ["Relating to the measurement of slopes or inclinations."], "src": "iwb"}
+{"w": "clinometry", "pos": "noun", "d": ["The measurement of slopes, inclinations, or angles of tilt."], "src": "iwb"}
+{"w": "clinopinacoid", "pos": "noun", "d": ["In crystallography, a crystal face parallel to the inclined lateral axis."], "src": "iwb"}
+{"w": "clinorhombic", "pos": "adjective", "d": ["Of or relating to the monoclinic crystal system; obliquely rhombic."], "src": "iwb"}
+{"w": "clinostat", "pos": "noun", "d": ["A device that slowly turns a growing plant so that gravity acts equally on all sides."], "src": "iwb"}
+{"w": "clinquant", "pos": "adjective", "d": ["Glittering with tinsel; showily decorated."], "src": "iwb"}
+{"w": "clio", "pos": "noun", "d": ["In Greek mythology, the muse of history."], "src": "iwb"}
+{"w": "clione", "pos": "noun", "d": ["A genus of small shell-less sea snails that swim in cold ocean waters."], "src": "iwb"}
+{"w": "clique", "pos": "noun", "d": ["A small exclusive group of people who keep to themselves."], "src": "iwb"}
+{"w": "cliquish", "pos": "adjective", "d": ["Behaving like a clique; shutting out outsiders."], "src": "iwb"}
+{"w": "cliquism", "pos": "noun", "d": ["The tendency to form exclusive cliques."], "src": "iwb"}
+{"w": "clitellus", "pos": "noun", "d": ["The swollen glandular band on an earthworm that secretes the egg cocoon."], "src": "iwb"}
+{"w": "clitoris", "pos": "noun", "d": ["A small sensitive organ of the female genitals."], "src": "iwb"}
+{"w": "clivers", "pos": "noun", "d": ["A climbing weed with square stems and small hooked bristles; cleavers."], "src": "iwb"}
+{"w": "clivity", "pos": "noun", "d": ["Steepness; the quality of being like a cliff."], "src": "iwb"}
+{"w": "cloaca", "pos": "noun", "d": ["The common chamber in birds, reptiles, and amphibians through which waste and reproductive products pass."], "src": "iwb"}
+{"w": "cloacal", "pos": "adjective", "d": ["Relating to the cloaca."], "src": "iwb"}
+{"w": "cloak", "pos": "noun", "d": ["A loose sleeveless outer garment.", "Anything that covers or conceals."], "src": "iwb"}
+{"w": "cloakedly", "pos": "adverb", "d": ["In a hidden or disguised manner; secretly."], "src": "iwb"}
+{"w": "cloche", "pos": "noun", "d": ["A bell-shaped cover placed over food or young plants."], "src": "iwb"}
+{"w": "clod", "pos": "noun", "d": ["A lump of earth or clay."], "src": "iwb"}
+{"w": "cloddy", "pos": "adjective", "d": ["Full of lumps of earth; lumpy."], "src": "iwb"}
+{"w": "cloff", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clog", "pos": "verb", "d": ["To block or obstruct a passage or opening."], "src": "iwb"}
+{"w": "clogginess", "pos": "noun", "d": ["The state of being clogged or blocked."], "src": "iwb"}
+{"w": "cloggy", "pos": "adjective", "d": ["Tending to clog; easily blocked."], "src": "iwb"}
+{"w": "cloisonne", "pos": "noun", "d": ["Decorative enamel work in which colored glass pastes are separated by thin metal strips."], "src": "iwb"}
+{"w": "cloister", "pos": "noun", "d": ["A covered walkway around an open courtyard in a monastery."], "src": "iwb"}
+{"w": "cloistral", "pos": "adjective", "d": ["Relating to a cloister or monastic life; secluded."], "src": "iwb"}
+{"w": "cloistress", "pos": "noun", "d": ["A nun living in a cloister."], "src": "iwb"}
+{"w": "cloke", "pos": "noun", "d": ["An old spelling of cloak, a loose outer garment."], "src": "iwb"}
+{"w": "clomb", "pos": "verb", "d": ["The past tense of climb."], "src": "iwb"}
+{"w": "clomp", "pos": "verb", "d": ["To walk with heavy noisy steps."], "src": "iwb"}
+{"w": "clong", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clonic", "pos": "adjective", "d": ["Marked by rapid alternating muscle contractions; relating to clonus."], "src": "iwb"}
+{"w": "clonus", "pos": "noun", "d": ["A series of rapid involuntary muscle contractions and relaxations."], "src": "iwb"}
+{"w": "cloom", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cloop", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cloot", "pos": "noun", "d": ["In Scots, a cloth or rag.", "A cloven hoof."], "src": "iwb"}
+{"w": "clootie", "pos": "noun", "d": ["A Scots word for a small cloth or rag.", "A nickname for the devil, as in Auld Clootie."], "src": "iwb"}
+{"w": "close-banded", "pos": "adjective", "d": ["Bound tightly with bands."], "src": "iwb"}
+{"w": "close-barred", "pos": "adjective", "d": ["Shut with closely set bars."], "src": "iwb"}
+{"w": "close-bodied", "pos": "adjective", "d": ["Compactly built; fitting closely to the body."], "src": "iwb"}
+{"w": "close-fights", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "close-stool", "pos": "noun", "d": ["A portable seat enclosing a chamber pot, used as a toilet."], "src": "iwb"}
+{"w": "close-tongued", "pos": "adjective", "d": ["Silent or secretive; unwilling to speak freely."], "src": "iwb"}
+{"w": "closefisted", "pos": "adjective", "d": ["Unwilling to spend money; stingy."], "src": "iwb"}
+{"w": "closehauled", "pos": "adjective", "d": ["Of a sailing ship, headed as nearly into the wind as it can sail."], "src": "iwb"}
+{"w": "closen", "pos": "verb", "d": ["An old form of the verb close; to shut."], "src": "iwb"}
+{"w": "closereefed", "pos": "adjective", "d": ["Of a ship, having its sails reefed down close in heavy weather."], "src": "iwb"}
+{"w": "closet", "pos": "noun", "d": ["A small room or cupboard for storing clothes or supplies."], "src": "iwb"}
+{"w": "closh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clot", "pos": "noun", "d": ["A thickened lump of liquid, especially of blood."], "src": "iwb"}
+{"w": "clote", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clothe", "pos": "verb", "d": ["To put clothes on; to dress."], "src": "iwb"}
+{"w": "clothier", "pos": "noun", "d": ["A person who makes or sells clothes."], "src": "iwb"}
+{"w": "clotty", "pos": "adjective", "d": ["Full of clots; lumpy."], "src": "iwb"}
+{"w": "cloud-built", "pos": "adjective", "d": ["Made of clouds; existing only in the imagination."], "src": "iwb"}
+{"w": "cloud-burst", "pos": "noun", "d": ["A sudden violent rainstorm."], "src": "iwb"}
+{"w": "cloud-capped", "pos": "adjective", "d": ["With the top hidden in clouds."], "src": "iwb"}
+{"w": "cloud-compeller", "pos": "noun", "d": ["An epithet of Zeus as the god who gathers the clouds."], "src": "iwb"}
+{"w": "cloudily", "pos": "adverb", "d": ["In a cloudy manner; dimly."], "src": "iwb"}
+{"w": "cloudiness", "pos": "noun", "d": ["The state of being cloudy; lack of clearness."], "src": "iwb"}
+{"w": "clough", "pos": "noun", "d": ["A steep narrow valley or ravine."], "src": "iwb"}
+{"w": "clout", "pos": "noun", "d": ["A hard blow struck with the hand.", "Informal power or influence over others."], "src": "iwb"}
+{"w": "clouterly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clove", "pos": "noun", "d": ["The dried flower bud of a tropical tree, used as a spice.", "One section of a garlic bulb."], "src": "iwb"}
+{"w": "cloven", "pos": "adjective", "d": ["Split or divided, as a cloven hoof."], "src": "iwb"}
+{"w": "cloven-footed", "pos": "adjective", "d": ["Having a hoof divided into two parts."], "src": "iwb"}
+{"w": "cloven-hoofed", "pos": "adjective", "d": ["Having a hoof split into two toes."], "src": "iwb"}
+{"w": "clowe-gilofre", "pos": "noun", "d": ["An old spelling of the word clove, the spice."], "src": "iwb"}
+{"w": "clown", "pos": "noun", "d": ["A comic performer with a painted face and bright clothes."], "src": "iwb"}
+{"w": "clownery", "pos": "noun", "d": ["The behavior or performance of a clown; buffoonery."], "src": "iwb"}
+{"w": "cloy", "pos": "verb", "d": ["To sicken with too much sweetness or richness."], "src": "iwb"}
+{"w": "club-rush", "pos": "noun", "d": ["A tall marsh plant with round stems; the bulrush."], "src": "iwb"}
+{"w": "club-shaped", "pos": "adjective", "d": ["Shaped like a club; thicker at one end."], "src": "iwb"}
+{"w": "clubbable", "pos": "adjective", "d": ["Pleasant in company; sociable enough to belong to a club."], "src": "iwb"}
+{"w": "clubbist", "pos": "noun", "d": ["A member of a club."], "src": "iwb"}
+{"w": "cluck", "pos": "verb", "d": ["To make the short low sound of a hen."], "src": "iwb"}
+{"w": "clue", "pos": "noun", "d": ["A fact or object that helps solve a mystery."], "src": "iwb"}
+{"w": "clum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "clumber", "pos": "noun", "d": ["A large heavy spaniel dog, the Clumber spaniel."], "src": "iwb"}
+{"w": "clump", "pos": "noun", "d": ["A cluster of things growing or lying close together."], "src": "iwb"}
+{"w": "clumpy", "pos": "adjective", "d": ["Formed in clumps; lumpy."], "src": "iwb"}
+{"w": "clumsily", "pos": "adverb", "d": ["In an awkward uncoordinated way."], "src": "iwb"}
+{"w": "clumsiness", "pos": "noun", "d": ["Lack of coordination; awkwardness."], "src": "iwb"}
+{"w": "clumsy", "pos": "adjective", "d": ["Awkward in movement; likely to drop things or bump into them."], "src": "iwb"}
+{"w": "clunch", "pos": "noun", "d": ["A hard chalky limestone used in building."], "src": "iwb"}
+{"w": "clung", "pos": "verb", "d": ["The past tense of cling."], "src": "iwb"}
+{"w": "cluniac", "pos": "adjective", "d": ["Relating to the reformed Benedictine order centered at Cluny, France."], "src": "iwb"}
+{"w": "cluniacensian", "pos": "noun", "d": ["A monk of the Cluniac order."], "src": "iwb"}
+{"w": "clupeoid", "pos": "adjective", "d": ["Resembling a herring; of the herring family."], "src": "iwb"}
+{"w": "clusteringly", "pos": "adverb", "d": ["In a clustering manner; in clusters."], "src": "iwb"}
+{"w": "clustery", "pos": "adjective", "d": ["Growing or forming in clusters."], "src": "iwb"}
+{"w": "clutch", "pos": "verb", "d": ["To grasp or seize tightly."], "src": "iwb"}
+{"w": "clutter", "pos": "noun", "d": ["A messy collection of things scattered about."], "src": "iwb"}
+{"w": "clydesdale", "pos": "noun", "d": ["A large breed of draft horse originally from Scotland."], "src": "iwb"}
+{"w": "clydesdale terrier", "pos": "phrase", "d": ["A small Scottish terrier with a long silky coat."], "src": "iwb"}
+{"w": "clypeastroid", "pos": "adjective", "d": ["Resembling the sea urchins known as sand dollars."], "src": "iwb"}
+{"w": "clypeate", "pos": "adjective", "d": ["Shaped like a round shield."], "src": "iwb"}
+{"w": "clypeiform", "pos": "adjective", "d": ["Having the form of a shield."], "src": "iwb"}
+{"w": "clypeus", "pos": "noun", "d": ["In insects, the shield-shaped plate on the front of the head."], "src": "iwb"}
+{"w": "clysmian", "pos": "adjective", "d": ["Of or relating to a clyster; purgative."], "src": "iwb"}
+{"w": "clysmic", "pos": "adjective", "d": ["Of or relating to a deluge or flood."], "src": "iwb"}
+{"w": "clyster", "pos": "noun", "d": ["An old term for an enema, a liquid injected into the lower bowel."], "src": "iwb"}
+{"w": "clytie knot", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cnemial", "pos": "adjective", "d": ["Of or relating to the shinbone."], "src": "iwb"}
+{"w": "cnida", "pos": "noun", "d": ["The stinging capsule of a jellyfish or coral polyp."], "src": "iwb"}
+{"w": "cnidaria", "pos": "noun", "d": ["A phylum of simple water animals with stinging cells, including jellyfish and corals."], "src": "iwb"}
+{"w": "cnidoblast", "pos": "noun", "d": ["An immature stinging cell of a jellyfish or similar animal."], "src": "iwb"}
+{"w": "cnidocil", "pos": "noun", "d": ["The tiny trigger hair on a jellyfish's stinging cell."], "src": "iwb"}
+{"w": "co-", "pos": "prefix", "d": ["A prefix meaning together with or jointly, as in cooperate."], "src": "iwb"}
+{"w": "co-une", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "coachee", "pos": "noun", "d": ["A person who is being coached."], "src": "iwb"}
+{"w": "coachwhip snake", "pos": "phrase", "d": ["A long thin fast-moving snake found in the Americas."], "src": "iwb"}
+{"w": "coadapted", "pos": "adjective", "d": ["Fitted or adjusted to one another; mutually adapted."], "src": "iwb"}
+{"w": "coadjuting", "pos": "adjective", "d": ["Acting together to help; assisting."], "src": "iwb"}
+{"w": "coadjutive", "pos": "adjective", "d": ["Helping in cooperation with others."], "src": "iwb"}
+{"w": "coadjutress", "pos": "noun", "d": ["A woman who assists another in an office or duty."], "src": "iwb"}
+{"w": "coadjuvancy", "pos": "noun", "d": ["Joint help or assistance."], "src": "iwb"}
+{"w": "coadunate", "pos": "adjective", "d": ["Joined or grown together into one."], "src": "iwb"}
+{"w": "coadunition", "pos": "noun", "d": ["The act of uniting into one body."], "src": "iwb"}
+{"w": "coag", "pos": "abbreviation", "d": ["Short for coagulation."], "src": "iwb"}
+{"w": "coagulability", "pos": "noun", "d": ["The ability to coagulate or clot."], "src": "iwb"}
+{"w": "coagulable", "pos": "adjective", "d": ["Capable of clotting or curdling."], "src": "iwb"}
+{"w": "coagulant", "pos": "noun", "d": ["A substance that causes a liquid to clot."], "src": "iwb"}
+{"w": "coagulate", "pos": "verb", "d": ["To change from a liquid into a thickened or solid mass; to clot."], "src": "iwb"}
+{"w": "coagulation", "pos": "noun", "d": ["The process by which a liquid thickens or clots."], "src": "iwb"}
+{"w": "coagulative", "pos": "adjective", "d": ["Tending to cause clotting."], "src": "iwb"}
+{"w": "coagulator", "pos": "noun", "d": ["Something that causes coagulation."], "src": "iwb"}
+{"w": "coagulatory", "pos": "adjective", "d": ["Relating to or causing coagulation."], "src": "iwb"}
+{"w": "coagulum", "pos": "noun", "d": ["A clotted mass; a curd."], "src": "iwb"}
+{"w": "coaita", "pos": "noun", "d": ["An old name for the spider monkey of South America."], "src": "iwb"}
+{"w": "coak", "pos": "verb", "d": ["To join timbers together with a wooden pin or dowel."], "src": "iwb"}
+{"w": "coal tar", "pos": "phrase", "d": ["A thick dark liquid distilled from coal, used in dyes and road surfacing."], "src": "iwb"}
+{"w": "coal works", "pos": "phrase", "d": ["A mine or plant where coal is dug or prepared."], "src": "iwb"}
+{"w": "coal-black", "pos": "adjective", "d": ["Black as coal; deep black."], "src": "iwb"}
+{"w": "coal-whipper", "pos": "noun", "d": ["A laborer who loads coal aboard ships."], "src": "iwb"}
+{"w": "coalery", "pos": "noun", "d": ["A yard or store where coal is kept and sold."], "src": "iwb"}
+{"w": "coalesce", "pos": "verb", "d": ["To grow together or merge into one."], "src": "iwb"}
+{"w": "coalescence", "pos": "noun", "d": ["The act of merging into one; union."], "src": "iwb"}
+{"w": "coalescent", "pos": "adjective", "d": ["Growing together; merging."], "src": "iwb"}
+{"w": "coalite", "pos": "noun", "d": ["A smokeless fuel made from processed coal."], "src": "iwb"}
+{"w": "coaly", "pos": "adjective", "d": ["Like coal; blackened with coal."], "src": "iwb"}
+{"w": "coamings", "pos": "noun", "d": ["The raised frames around a ship's hatches that keep water out."], "src": "iwb"}
+{"w": "coaptation", "pos": "noun", "d": ["The fitting together of separated parts, as in setting a broken bone."], "src": "iwb"}
+{"w": "coarct", "pos": "verb", "d": ["To press closely together; to confine within narrow limits."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

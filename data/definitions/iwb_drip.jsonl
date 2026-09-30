@@ -798,3 +798,803 @@
 {"w": "acrostic", "pos": "noun", "d": ["A poem or puzzle in which the first letters of the lines spell a word or message."]}
 {"w": "acrotarsium", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "acroteleutic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acroter", "pos": "noun", "d": ["A small pedestal at the corner or apex of a classical pediment, supporting an ornament."]}
+{"w": "acroterium", "pos": "noun", "d": ["An ornamental pedestal placed at the corners or peak of a pediment in classical architecture."]}
+{"w": "acrotic", "pos": "adjective", "d": ["Having a weak or imperceptible pulse."]}
+{"w": "acrotism", "pos": "noun", "d": ["The absence or near absence of a detectable pulse."]}
+{"w": "acrotomous", "pos": "adjective", "d": ["Cut off squarely at the tip, as a leaf that ends in a straight edge."]}
+{"w": "actinal", "pos": "adjective", "d": ["Relating to the mouth-bearing surface of a radiate animal such as a starfish."]}
+{"w": "actinaria", "pos": "noun", "d": ["The order of sea anemones, soft marine animals with tentacles ringed around the mouth."]}
+{"w": "actinic", "pos": "adjective", "d": ["Of light or rays, able to cause chemical change, as ultraviolet light does."]}
+{"w": "actiniform", "pos": "adjective", "d": ["Shaped like radiating rays; star-shaped."]}
+{"w": "actinism", "pos": "noun", "d": ["The property of radiation, especially light, by which it causes chemical effects."]}
+{"w": "actinium", "pos": "noun", "d": ["A radioactive chemical element, symbol Ac, found in uranium ores."]}
+{"w": "actino-chemistry", "pos": "noun", "d": ["The study of the chemical effects of light and other radiation."]}
+{"w": "actinogram", "pos": "noun", "d": ["A record showing the intensity of radiation, made with an actinograph."]}
+{"w": "actinograph", "pos": "noun", "d": ["An instrument that measures or records the intensity of light or other radiation."]}
+{"w": "actinoid", "pos": "adjective", "d": ["Resembling a radiate animal such as a sea anemone."]}
+{"w": "actinolite", "pos": "noun", "d": ["A greenish or gray mineral of the amphibole group, often in slender crystals."]}
+{"w": "actinolitic", "pos": "adjective", "d": ["Containing actinolite or relating to it."]}
+{"w": "actinology", "pos": "noun", "d": ["The scientific study of light and radiation and their effects."]}
+{"w": "actinomere", "pos": "noun", "d": ["One of the radial segments making up the body of a radiate animal."]}
+{"w": "actinometer", "pos": "noun", "d": ["An instrument for measuring the intensity of radiation, especially sunlight."]}
+{"w": "actinometric", "pos": "adjective", "d": ["Relating to the measurement of radiation intensity."]}
+{"w": "actinometry", "pos": "noun", "d": ["The measurement of the intensity of radiation, especially solar radiation."]}
+{"w": "actinomycosis", "pos": "noun", "d": ["An infectious disease of cattle and humans that forms hard lumps in the jaw and tissues."]}
+{"w": "actinophone", "pos": "noun", "d": ["An instrument that turns the effects of light into sound."]}
+{"w": "actinophonic", "pos": "adjective", "d": ["Relating to the conversion of light effects into sound."]}
+{"w": "actinophorous", "pos": "adjective", "d": ["Bearing rays or raylike structures."]}
+{"w": "actinosome", "pos": "noun", "d": ["A radiating body formed in living tissue under the influence of light."]}
+{"w": "actinost", "pos": "noun", "d": ["One of the small bones that support the fin rays of a fish."]}
+{"w": "actinostome", "pos": "noun", "d": ["The mouth opening of a radiate animal such as a sea anemone."]}
+{"w": "actinotrocha", "pos": "noun", "d": ["The free-swimming larval stage of a phoronid, a small marine worm."]}
+{"w": "actinozoa", "pos": "noun", "d": ["A class of marine animals including corals and sea anemones."]}
+{"w": "actinozoal", "pos": "adjective", "d": ["Relating to the actinozoans."]}
+{"w": "actinozooen", "pos": "noun", "d": ["A single animal belonging to the Actinozoa, such as a sea anemone."]}
+{"w": "actinozoon", "pos": "noun", "d": ["A sea anemone, coral, or similar radiate marine animal."]}
+{"w": "actinula", "pos": "noun", "d": ["The tiny free-swimming larva of certain hydrozoans, bearing tentacles."]}
+{"w": "activate", "pos": "verb", "d": ["To make something start working or become active."]}
+{"w": "acton", "pos": "noun", "d": ["A quilted jacket worn under armor in the Middle Ages."]}
+{"w": "actualization", "pos": "noun", "d": ["The act of making something real or bringing it into effect."]}
+{"w": "actuary", "pos": "noun", "d": ["A professional who calculates insurance risks and rates using mathematics."]}
+{"w": "actuate", "pos": "verb", "d": ["To set in motion; to drive or power a mechanism."]}
+{"w": "actuation", "pos": "noun", "d": ["The act of setting a device or mechanism in motion."]}
+{"w": "actuator", "pos": "noun", "d": ["A device that moves or controls a mechanism by converting energy into motion."]}
+{"w": "actuose", "pos": "adjective", "d": ["Quick and lively in action."]}
+{"w": "actuosity", "pos": "noun", "d": ["The quality of being quick and active."]}
+{"w": "acturience", "pos": "noun", "d": ["A tendency toward action; an eagerness to act."]}
+{"w": "acuate", "pos": "adjective", "d": ["Sharpened to a point; needlelike."]}
+{"w": "acuation", "pos": "noun", "d": ["The act or process of sharpening to a point."]}
+{"w": "acuition", "pos": "noun", "d": ["The act of making sharp or pointed."]}
+{"w": "acuity", "pos": "noun", "d": ["Sharpness of perception, thought, or vision."]}
+{"w": "aculeate", "pos": "adjective", "d": ["Armed with a sting or prickles.", "In zoology, belonging to the stinging insects such as bees, wasps, and ants."]}
+{"w": "aculeiform", "pos": "adjective", "d": ["Shaped like a prickle or sting."]}
+{"w": "aculeolate", "pos": "adjective", "d": ["Covered with small prickles."]}
+{"w": "aculeous", "pos": "adjective", "d": ["Furnished with prickles or stings."]}
+{"w": "aculeus", "pos": "noun", "d": ["The sting of an insect, or a prickle on a plant."]}
+{"w": "acumen", "pos": "noun", "d": ["Quickness and sharpness of judgment or insight."]}
+{"w": "acuminate", "pos": "adjective", "d": ["Tapering to a sharp point, as a leaf tip."]}
+{"w": "acumination", "pos": "noun", "d": ["The act of tapering to a sharp point."]}
+{"w": "acuminose", "pos": "adjective", "d": ["Tapering to a point."]}
+{"w": "acuminous", "pos": "adjective", "d": ["Ending in a sharp point."]}
+{"w": "acupressure", "pos": "noun", "d": ["A therapy in which firm pressure is applied to specific points of the body to relieve pain."]}
+{"w": "acupuncturation", "pos": "noun", "d": ["The practice of acupuncture; the insertion of needles at body points as therapy."]}
+{"w": "acupuncture", "pos": "noun", "d": ["A therapy in which thin needles are inserted into specific points of the body to treat pain or illness."]}
+{"w": "acustumaunce", "pos": "noun", "d": ["An old spelling of accustomance, meaning habitual custom or use."]}
+{"w": "acutangular", "pos": "adjective", "d": ["Having sharp angles."]}
+{"w": "acute-angled", "pos": "adjective", "d": ["Having sharp angles; having angles less than ninety degrees."]}
+{"w": "acutifoliate", "pos": "adjective", "d": ["Having sharply pointed leaves."]}
+{"w": "acutilobate", "pos": "adjective", "d": ["Having lobes that end in sharp points."]}
+{"w": "acutorsion", "pos": "noun", "d": ["A surgical method of stopping bleeding by twisting an artery with forceps."]}
+{"w": "acyclic", "pos": "adjective", "d": ["Not occurring in cycles; in chemistry, not ring-shaped."]}
+{"w": "acyl", "pos": "noun", "d": ["In chemistry, a group formed by removing a hydroxyl group from an acid."]}
+{"w": "ad captandum", "pos": "phrase", "d": ["A Latin phrase meaning intended to attract or please the crowd."]}
+{"w": "ad hominem", "pos": "phrase", "d": ["A Latin phrase for an attack on a person rather than on the argument."]}
+{"w": "ad infinitum", "pos": "phrase", "d": ["A Latin phrase meaning endlessly; without limit."]}
+{"w": "ad interim", "pos": "phrase", "d": ["A Latin phrase meaning for the intervening time; temporarily."]}
+{"w": "ad libitum", "pos": "phrase", "d": ["A Latin phrase meaning at one's pleasure; as freely as one wishes."]}
+{"w": "ad valorem", "pos": "phrase", "d": ["A Latin phrase meaning according to value, as a tax based on the value of goods."]}
+{"w": "ad-", "pos": "prefix", "d": ["A Latin prefix meaning to, toward, or at, as in advance and admire."]}
+{"w": "adact", "pos": "verb", "d": ["To drive or impel by force."]}
+{"w": "adactyl", "pos": "adjective", "d": ["Lacking fingers or toes."]}
+{"w": "adage", "pos": "noun", "d": ["A short traditional saying that expresses a general truth."]}
+{"w": "adagial", "pos": "adjective", "d": ["Relating to an adage; proverbial."]}
+{"w": "adagio", "pos": "adverb", "d": ["In music, at a slow, easy tempo."]}
+{"w": "adamantine", "pos": "adjective", "d": ["Extremely hard, like diamond; unbreakable."]}
+{"w": "adambulacral", "pos": "adjective", "d": ["In echinoderms, lying next to the ambulacral area that bears the tube feet."]}
+{"w": "adamite", "pos": "noun", "d": ["A mineral of zinc arsenate, often greenish in color.", "A member of an early Christian sect that worshiped unclothed, imitating Adam."]}
+{"w": "adance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adangle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adansonia", "pos": "noun", "d": ["The baobab, a large African tree with a massive trunk."]}
+{"w": "adapt", "pos": "verb", "d": ["To adjust or change something so it fits a new use or condition."]}
+{"w": "adaptative", "pos": "adjective", "d": ["Relating to adaptation; tending to adapt."]}
+{"w": "adaptedness", "pos": "noun", "d": ["The quality of being suited to a purpose or condition."]}
+{"w": "adaptorial", "pos": "adjective", "d": ["Relating to adaptation."]}
+{"w": "adar", "pos": "noun", "d": ["The sixth month of the Jewish religious calendar and the twelfth of the civil calendar."]}
+{"w": "adarce", "pos": "noun", "d": ["A saltish deposit that forms on reeds and grasses near marshes."]}
+{"w": "adatis", "pos": "noun", "d": ["A fine white cotton cloth made in India."]}
+{"w": "adaunt", "pos": "verb", "d": ["To subdue or overcome by daunt."]}
+{"w": "adaw", "pos": "verb", "d": ["To subdue or overcome with awe."]}
+{"w": "adays", "pos": "adverb", "d": ["Nowadays; at the present time."]}
+{"w": "addax", "pos": "noun", "d": ["A large pale antelope of the Sahara with long spiraled horns."]}
+{"w": "addeem", "pos": "verb", "d": ["To deem or judge; to consider."]}
+{"w": "addendum", "pos": "noun", "d": ["Something added to a document or book; an appendix."]}
+{"w": "adder fly", "pos": "phrase", "d": ["An old name for the dragonfly."]}
+{"w": "addibility", "pos": "noun", "d": ["The quality of being able to be added."]}
+{"w": "addict", "pos": "verb", "d": ["To cause to become habitually devoted to a substance or activity."]}
+{"w": "addictedness", "pos": "noun", "d": ["The state of being addicted."]}
+{"w": "additament", "pos": "noun", "d": ["Something added; an addition."]}
+{"w": "addititious", "pos": "adjective", "d": ["Added by way of addition; supplementary."]}
+{"w": "additive", "pos": "adjective", "d": ["Added to another thing; supplementary."]}
+{"w": "additory", "pos": "adjective", "d": ["Serving to add; having the power of adding."]}
+{"w": "addle", "pos": "verb", "d": ["To make or become rotten, as an egg.", "To confuse or muddle the mind."]}
+{"w": "addle-brain", "pos": "noun", "d": ["A muddleheaded or stupid person."]}
+{"w": "addle-pate", "pos": "noun", "d": ["A foolish or confused person."]}
+{"w": "addlings", "pos": "noun", "d": ["Wages or earnings; money gained by work."]}
+{"w": "addoom", "pos": "verb", "d": ["To doom or condemn."]}
+{"w": "addorsed", "pos": "adjective", "d": ["In heraldry, placed back to back, as two animals."]}
+{"w": "addressee", "pos": "noun", "d": ["The person to whom a letter or message is addressed."]}
+{"w": "adduce", "pos": "verb", "d": ["To bring forward as evidence or proof."]}
+{"w": "adducent", "pos": "adjective", "d": ["Drawing toward a point, as a muscle that pulls a limb inward."]}
+{"w": "adducible", "pos": "adjective", "d": ["Able to be brought forward as evidence."]}
+{"w": "adduct", "pos": "verb", "d": ["To draw toward a central point, as a muscle does."]}
+{"w": "adductor", "pos": "noun", "d": ["A muscle that draws a part of the body toward its midline."]}
+{"w": "addulce", "pos": "verb", "d": ["To sweeten; to make mild or soothing."]}
+{"w": "adeem", "pos": "verb", "d": ["In law, to revoke or take away a legacy by a later act."]}
+{"w": "adelantadillo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adelantado", "pos": "noun", "d": ["A Spanish colonial governor or military commander in the Americas."]}
+{"w": "adelaster", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adeling", "pos": "noun", "d": ["An old English word for a prince or nobleman."]}
+{"w": "adelocodonic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adelopod", "pos": "adjective", "d": ["In zoology, having indistinct or obscure feet."]}
+{"w": "adelphia", "pos": "noun", "d": ["In botany, a group of stamens united into one bundle.", "Brotherhood or kinship."]}
+{"w": "adelphous", "pos": "adjective", "d": ["In botany, having stamens united into bundles."]}
+{"w": "adempt", "pos": "adjective", "d": ["Taken away; removed."]}
+{"w": "aden ulcer", "pos": "phrase", "d": ["An ulcer of a gland."]}
+{"w": "aden-", "pos": "prefix", "d": ["A prefix meaning gland, as in adenitis."]}
+{"w": "adenalgia", "pos": "noun", "d": ["Pain in a gland."]}
+{"w": "adenalgy", "pos": "noun", "d": ["Pain in a gland."]}
+{"w": "adeniform", "pos": "adjective", "d": ["Shaped like a gland."]}
+{"w": "adenitis", "pos": "noun", "d": ["Inflammation of a gland."]}
+{"w": "adeno-", "pos": "prefix", "d": ["A prefix meaning gland."]}
+{"w": "adenographic", "pos": "adjective", "d": ["Relating to the description of glands."]}
+{"w": "adenography", "pos": "noun", "d": ["The descriptive study of glands."]}
+{"w": "adenoid", "pos": "adjective", "d": ["Resembling a gland."]}
+{"w": "adenological", "pos": "adjective", "d": ["Relating to the study of glands."]}
+{"w": "adenology", "pos": "noun", "d": ["The study of glands."]}
+{"w": "adenoma", "pos": "noun", "d": ["A benign tumor of glandular tissue."]}
+{"w": "adenopathy", "pos": "noun", "d": ["Any disease of a gland, especially swelling of the lymph glands."]}
+{"w": "adenophorous", "pos": "adjective", "d": ["Bearing glands."]}
+{"w": "adenophyllous", "pos": "adjective", "d": ["Having glandular leaves."]}
+{"w": "adenosclerosis", "pos": "noun", "d": ["Hardening of a gland."]}
+{"w": "adenose", "pos": "adjective", "d": ["Full of glands; glandular."]}
+{"w": "adenotomic", "pos": "adjective", "d": ["Relating to the dissection or cutting of glands."]}
+{"w": "adenotomy", "pos": "noun", "d": ["The dissection of glands; the surgical cutting of a gland."]}
+{"w": "adenous", "pos": "adjective", "d": ["Relating to glands; glandular."]}
+{"w": "adeps", "pos": "noun", "d": ["Animal fat; lard, especially as used in pharmacy."]}
+{"w": "adept", "pos": "noun", "d": ["A person highly skilled in something."]}
+{"w": "adequacy", "pos": "noun", "d": ["The state of being enough or sufficient."]}
+{"w": "adequation", "pos": "noun", "d": ["The act of making equal or adequate."]}
+{"w": "adesmy", "pos": "noun", "d": ["The abnormal separation of parts that are normally joined."]}
+{"w": "adessenarian", "pos": "noun", "d": ["One who believes in the bodily presence of Christ in the Eucharist."]}
+{"w": "adfected", "pos": "adjective", "d": ["An archaic spelling of affected."]}
+{"w": "adfiliated", "pos": "adjective", "d": ["Adopted as a son; affiliated."]}
+{"w": "adfiliation", "pos": "noun", "d": ["The act of adopting as a son; affiliation."]}
+{"w": "adfluxion", "pos": "noun", "d": ["A flowing toward; an afflux."]}
+{"w": "adhamant", "pos": "noun", "d": ["An archaic spelling of adamant, a very hard substance."]}
+{"w": "adhere", "pos": "verb", "d": ["To stick fast to something; to hold firmly to a belief or course."]}
+{"w": "adherence", "pos": "noun", "d": ["The act of sticking to something; steady attachment or devotion."]}
+{"w": "adherency", "pos": "noun", "d": ["The state of sticking to or following something."]}
+{"w": "adherent", "pos": "noun", "d": ["A follower or supporter of a person or cause."]}
+{"w": "adhesion", "pos": "noun", "d": ["The act of sticking together; the clinging of surfaces to each other."]}
+{"w": "adhesive", "pos": "adjective", "d": ["Causing things to stick together."]}
+{"w": "adhibit", "pos": "verb", "d": ["To apply or administer, as a remedy."]}
+{"w": "adhort", "pos": "verb", "d": ["To urge or exhort."]}
+{"w": "adhortatory", "pos": "adjective", "d": ["Containing exhortation; urging."]}
+{"w": "adiabatic", "pos": "adjective", "d": ["In physics, occurring without heat entering or leaving a system."]}
+{"w": "adiactinic", "pos": "adjective", "d": ["Not transmitting actinic rays; opaque to chemically active rays."]}
+{"w": "adiantum", "pos": "noun", "d": ["The maidenhair fern."]}
+{"w": "adiaphorism", "pos": "noun", "d": ["The doctrine that certain religious or moral matters are indifferent."]}
+{"w": "adiaphorist", "pos": "noun", "d": ["One who regards certain religious matters as indifferent."]}
+{"w": "adiaphorite", "pos": "noun", "d": ["A follower of adiaphorism."]}
+{"w": "adiaphorous", "pos": "adjective", "d": ["Regarding certain religious or moral matters as indifferent."]}
+{"w": "adiaphory", "pos": "noun", "d": ["Indifference to matters of religion or morals."]}
+{"w": "adiathermic", "pos": "adjective", "d": ["Impervious to heat rays; not transmitting heat."]}
+{"w": "adieu", "pos": "interjection", "d": ["Goodbye; farewell."]}
+{"w": "adight", "pos": "verb", "d": ["To dress or set in order."]}
+{"w": "adios", "pos": "interjection", "d": ["The Spanish word for goodbye."]}
+{"w": "adipescent", "pos": "adjective", "d": ["Becoming fatty."]}
+{"w": "adipic", "pos": "adjective", "d": ["Relating to fat, as adipic acid."]}
+{"w": "adipocerate", "pos": "noun", "d": ["A chemical compound formed from adipoceric acid."]}
+{"w": "adipoceration", "pos": "noun", "d": ["The process of changing into adipocere."]}
+{"w": "adipocere", "pos": "noun", "d": ["A waxy substance formed from decaying animal fat."]}
+{"w": "adipoceriform", "pos": "adjective", "d": ["Resembling adipocere."]}
+{"w": "adipocerous", "pos": "adjective", "d": ["Containing or resembling adipocere."]}
+{"w": "adipogenous", "pos": "adjective", "d": ["Producing fat."]}
+{"w": "adipolysis", "pos": "noun", "d": ["The breaking down of fats in the body."]}
+{"w": "adipolytic", "pos": "adjective", "d": ["Relating to the breakdown of fat."]}
+{"w": "adipoma", "pos": "noun", "d": ["A fatty tumor; a lipoma."]}
+{"w": "adipose", "pos": "adjective", "d": ["Pertaining to fat; fatty."]}
+{"w": "adiposity", "pos": "noun", "d": ["The state of being fat; obesity."]}
+{"w": "adipous", "pos": "adjective", "d": ["Fatty."]}
+{"w": "adipsous", "pos": "adjective", "d": ["Quenching thirst."]}
+{"w": "adipsy", "pos": "noun", "d": ["Absence of thirst."]}
+{"w": "adit", "pos": "noun", "d": ["A horizontal entrance to a mine."]}
+{"w": "adjacence", "pos": "noun", "d": ["The state of being adjacent; nearness."]}
+{"w": "adjacency", "pos": "noun", "d": ["The state of being next to or adjoining."]}
+{"w": "adject", "pos": "verb", "d": ["To add or annex; to join."]}
+{"w": "adjectitious", "pos": "adjective", "d": ["Added as an extra; supplementary."]}
+{"w": "adjectival", "pos": "adjective", "d": ["Relating to or functioning as an adjective."]}
+{"w": "adjoin", "pos": "verb", "d": ["To be next to; to join or border upon."]}
+{"w": "adjoint", "pos": "adjective", "d": ["Joined or united with another."]}
+{"w": "adjourn", "pos": "verb", "d": ["To suspend a meeting to a later time."]}
+{"w": "adjudge", "pos": "verb", "d": ["To decide or decree by law; to declare."]}
+{"w": "adjudgment", "pos": "noun", "d": ["The act of adjudging; a judicial decision."]}
+{"w": "adjudicate", "pos": "verb", "d": ["To hear and settle a dispute as a judge."]}
+{"w": "adjudication", "pos": "noun", "d": ["The act of judging a case; a court decision."]}
+{"w": "adjudicative", "pos": "adjective", "d": ["Relating to the act of judging."]}
+{"w": "adjudicator", "pos": "noun", "d": ["A person appointed to judge or settle a dispute."]}
+{"w": "adjudicature", "pos": "noun", "d": ["The act of adjudicating; the authority to judge."]}
+{"w": "adjugate", "pos": "adjective", "d": ["Joined together; yoked."]}
+{"w": "adjument", "pos": "noun", "d": ["Help or aid."]}
+{"w": "adjunct", "pos": "noun", "d": ["Something added to another thing as a supplement."]}
+{"w": "adjuration", "pos": "noun", "d": ["A solemn appeal or oath; the act of adjuring."]}
+{"w": "adjuratory", "pos": "adjective", "d": ["Containing a solemn appeal or oath."]}
+{"w": "adjure", "pos": "verb", "d": ["To command solemnly under oath."]}
+{"w": "adjusting plane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adjusting surface", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adjutage", "pos": "noun", "d": ["A tube or pipe through which water is discharged."]}
+{"w": "adjutancy", "pos": "noun", "d": ["The office or rank of an adjutant."]}
+{"w": "adjutant", "pos": "noun", "d": ["A military officer who assists a commanding officer."]}
+{"w": "adjutator", "pos": "noun", "d": ["A helper or assistant."]}
+{"w": "adjute", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adjutor", "pos": "noun", "d": ["A helper; an assistant."]}
+{"w": "adjutory", "pos": "adjective", "d": ["Helping; aiding."]}
+{"w": "adjutrix", "pos": "noun", "d": ["A female helper or assistant."]}
+{"w": "adjuvant", "pos": "noun", "d": ["A substance added to a medicine to help it work better."]}
+{"w": "adlegation", "pos": "noun", "d": ["A sending away on a mission; a deputation."]}
+{"w": "adlocution", "pos": "noun", "d": ["A formal address, especially of a general to troops."]}
+{"w": "admarginate", "pos": "adjective", "d": ["Having a distinct border or margin."]}
+{"w": "admaxillary", "pos": "adjective", "d": ["Near or connected with the upper jaw."]}
+{"w": "admeasure", "pos": "verb", "d": ["To measure out or apportion."]}
+{"w": "admensuration", "pos": "noun", "d": ["The act of measuring; measurement."]}
+{"w": "adminicle", "pos": "noun", "d": ["In law, supporting evidence; an aid to proof."]}
+{"w": "adminicular", "pos": "adjective", "d": ["Aiding; helping."]}
+{"w": "adminiculary", "pos": "adjective", "d": ["Supplying aid or support."]}
+{"w": "administer", "pos": "verb", "d": ["To manage or direct affairs; to give out officially."]}
+{"w": "administrable", "pos": "adjective", "d": ["Able to be administered or managed."]}
+{"w": "administrant", "pos": "adjective", "d": ["Acting in an executive or administrative capacity."]}
+{"w": "administrate", "pos": "verb", "d": ["To manage or administer."]}
+{"w": "administratrix", "pos": "noun", "d": ["A woman appointed to administer an estate."]}
+{"w": "admirability", "pos": "noun", "d": ["The quality of being admirable."]}
+{"w": "admirably", "pos": "adverb", "d": ["In an admirable manner; excellently."]}
+{"w": "admiral", "pos": "noun", "d": ["A naval officer of high rank."]}
+{"w": "admiralty", "pos": "noun", "d": ["The department or authority in charge of a nation's navy."]}
+{"w": "admirance", "pos": "noun", "d": ["Admiration."]}
+{"w": "admiration", "pos": "noun", "d": ["A feeling of high regard and respect."]}
+{"w": "admirative", "pos": "adjective", "d": ["Expressing admiration."]}
+{"w": "admire", "pos": "verb", "d": ["To regard with respect and approval."]}
+{"w": "admissibility", "pos": "noun", "d": ["The quality of being admissible; acceptability."]}
+{"w": "admissible", "pos": "adjective", "d": ["Allowed to be admitted; acceptable."]}
+{"w": "admissive", "pos": "adjective", "d": ["Tending to admit; allowing entrance."]}
+{"w": "admissory", "pos": "adjective", "d": ["Admitting; allowing entrance."]}
+{"w": "admittance", "pos": "noun", "d": ["Permission to enter; admission."]}
+{"w": "admittatur", "pos": "noun", "d": ["A document granting admission, as to the bar."]}
+{"w": "admix", "pos": "verb", "d": ["To mix in or with."]}
+{"w": "admixture", "pos": "noun", "d": ["The act of mixing; the substance mixed in."]}
+{"w": "admonish", "pos": "verb", "d": ["To warn or advise gently; to reprove mildly."]}
+{"w": "admonition", "pos": "noun", "d": ["A gentle warning or reproof."]}
+{"w": "admonitive", "pos": "adjective", "d": ["Giving warning or advice."]}
+{"w": "admonitor", "pos": "noun", "d": ["One who admonishes."]}
+{"w": "admonitory", "pos": "adjective", "d": ["Giving admonition; warning."]}
+{"w": "admonitrix", "pos": "noun", "d": ["A female admonisher."]}
+{"w": "admortization", "pos": "noun", "d": ["The act of reducing to a dead or inactive state."]}
+{"w": "admove", "pos": "verb", "d": ["To move toward."]}
+{"w": "adnascent", "pos": "adjective", "d": ["Growing upon something else."]}
+{"w": "adnate", "pos": "adjective", "d": ["Grown fast to another part; attached by growth."]}
+{"w": "adnation", "pos": "noun", "d": ["The state of being adnate; attachment by growth."]}
+{"w": "adnominal", "pos": "adjective", "d": ["In grammar, relating to a noun."]}
+{"w": "adnoun", "pos": "noun", "d": ["In grammar, an adjective used as a noun."]}
+{"w": "adnubilated", "pos": "adjective", "d": ["Clouded over; obscured."]}
+{"w": "ado", "pos": "noun", "d": ["Bustle; fuss; trouble."]}
+{"w": "adolescence", "pos": "noun", "d": ["The period of life between childhood and adulthood."]}
+{"w": "adolescency", "pos": "noun", "d": ["The state of being adolescent."]}
+{"w": "adonai", "pos": "noun", "d": ["A Hebrew name for God, used in Jewish worship."]}
+{"w": "adonean", "pos": "adjective", "d": ["Relating to Adonis."]}
+{"w": "adonic", "pos": "adjective", "d": ["In poetry, relating to a verse of a dactyl followed by a spondee."]}
+{"w": "adonist", "pos": "noun", "d": ["A dandy; a handsome beau."]}
+{"w": "adonize", "pos": "verb", "d": ["To dress up finely; to beautify."]}
+{"w": "adoor", "pos": "adverb", "d": ["At the door; near the door."]}
+{"w": "adoptious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adorability", "pos": "noun", "d": ["The quality of being adorable."]}
+{"w": "adorably", "pos": "adverb", "d": ["In an adorable manner."]}
+{"w": "adore", "pos": "verb", "d": ["To worship with deep love; to love dearly."]}
+{"w": "adoringly", "pos": "adverb", "d": ["In an adoring manner."]}
+{"w": "adorn", "pos": "verb", "d": ["To decorate; to add beauty to."]}
+{"w": "adorningly", "pos": "adverb", "d": ["In an adorning manner."]}
+{"w": "adosculation", "pos": "noun", "d": ["In biology, fertilization by mere contact of surfaces."]}
+{"w": "adown", "pos": "adverb", "d": ["Down; downward."]}
+{"w": "adpress", "pos": "verb", "d": ["To press against or toward."]}
+{"w": "adrad", "pos": "adjective", "d": ["Afraid."]}
+{"w": "adragant", "pos": "noun", "d": ["Gum tragacanth, a gum obtained from certain plants."]}
+{"w": "adread", "pos": "verb", "d": ["To dread."]}
+{"w": "adreamed", "pos": "adjective", "d": ["Appearing in a dream; dreamed."]}
+{"w": "adrenal", "pos": "adjective", "d": ["Near or upon the kidneys; relating to the adrenal glands."]}
+{"w": "adrenalin", "pos": "noun", "d": ["A hormone from the adrenal glands that quickens the heart and raises blood pressure."]}
+{"w": "adrenaline", "pos": "noun", "d": ["A hormone made by the adrenal glands that prepares the body for sudden action."]}
+{"w": "adriatic", "pos": "adjective", "d": ["Relating to the Adriatic Sea."]}
+{"w": "adrift", "pos": "adjective", "d": ["Drifting; not anchored; without fixed direction."]}
+{"w": "adrip", "pos": "adjective", "d": ["Dripping."]}
+{"w": "adrogate", "pos": "verb", "d": ["In Roman law, to adopt a person who is of full age."]}
+{"w": "adrogation", "pos": "noun", "d": ["In Roman law, the adoption of a person of full age."]}
+{"w": "adroit", "pos": "adjective", "d": ["Skillful and clever, especially with the hands."]}
+{"w": "adry", "pos": "adjective", "d": ["Thirsty; dry."]}
+{"w": "adscititious", "pos": "adjective", "d": ["Added from outside; supplemental; not essential."]}
+{"w": "adscript", "pos": "noun", "d": ["A serf bound to the soil in feudal times."]}
+{"w": "adsignification", "pos": "noun", "d": ["An additional meaning; an extra signification."]}
+{"w": "adsignify", "pos": "verb", "d": ["To add a further meaning; to signify additionally."]}
+{"w": "adstrict", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adstringent", "pos": "adjective", "d": ["An archaic spelling of astringent."]}
+{"w": "adsuki bean", "pos": "phrase", "d": ["A small red bean used in East Asian cooking."]}
+{"w": "adularia", "pos": "noun", "d": ["A glassy transparent variety of feldspar, also called moonstone."]}
+{"w": "adulate", "pos": "verb", "d": ["To flatter excessively."]}
+{"w": "adulation", "pos": "noun", "d": ["Excessive flattery."]}
+{"w": "adulator", "pos": "noun", "d": ["One who flatters excessively."]}
+{"w": "adulatory", "pos": "adjective", "d": ["Containing excessive flattery."]}
+{"w": "adulatress", "pos": "noun", "d": ["A female flatterer."]}
+{"w": "adulterator", "pos": "noun", "d": ["One who adulterates or corrupts."]}
+{"w": "adulteress", "pos": "noun", "d": ["A woman guilty of adultery."]}
+{"w": "adulterine", "pos": "adjective", "d": ["Born of adultery; spurious."]}
+{"w": "adultery", "pos": "noun", "d": ["Voluntary sexual relations between a married person and someone other than the spouse."]}
+{"w": "adumbrant", "pos": "adjective", "d": ["Giving a faint sketch or shadow of something to come."]}
+{"w": "adumbrate", "pos": "verb", "d": ["To give a faint outline of; to foreshadow."]}
+{"w": "adumbration", "pos": "noun", "d": ["A faint outline or sketch; a foreshadowing."]}
+{"w": "adumbrative", "pos": "adjective", "d": ["Faintly representing; foreshadowing."]}
+{"w": "adunation", "pos": "noun", "d": ["The act of uniting into one; union."]}
+{"w": "adunc", "pos": "adjective", "d": ["Hooked; bent like a hook."]}
+{"w": "adunque", "pos": "adjective", "d": ["Hooked or bent inward, as a beak."]}
+{"w": "adure", "pos": "verb", "d": ["To burn or scorch."]}
+{"w": "adurol", "pos": "noun", "d": ["A chemical developer used in photography."]}
+{"w": "adust", "pos": "adjective", "d": ["Burned or scorched; parched."]}
+{"w": "advancing edge", "pos": "phrase", "d": ["The leading edge of a moving body or front."]}
+{"w": "advancing surface", "pos": "phrase", "d": ["The forward surface of a moving object."]}
+{"w": "advancive", "pos": "adjective", "d": ["Tending to advance; promoting progress."]}
+{"w": "advene", "pos": "verb", "d": ["To come to; to happen."]}
+{"w": "advenient", "pos": "adjective", "d": ["Coming from outside; not inherent."]}
+{"w": "advent", "pos": "noun", "d": ["A coming or arrival.", "The season before Christmas."]}
+{"w": "adventitious", "pos": "adjective", "d": ["Coming from outside; accidental; not essential."]}
+{"w": "adventual", "pos": "adjective", "d": ["Relating to the Advent season."]}
+{"w": "adventuress", "pos": "noun", "d": ["A woman who seeks adventure, especially by daring or scheming."]}
+{"w": "adventurous", "pos": "adjective", "d": ["Fond of adventure; full of risk."]}
+{"w": "adverb", "pos": "noun", "d": ["A word that modifies a verb, an adjective, or another adverb."]}
+{"w": "adversaria", "pos": "noun", "d": ["A notebook for miscellaneous notes; a commonplace book."]}
+{"w": "adversary", "pos": "noun", "d": ["An opponent or enemy."]}
+{"w": "adversative", "pos": "adjective", "d": ["Expressing opposition or contrast, as the conjunction but."]}
+{"w": "adversifoliate", "pos": "adjective", "d": ["Having leaves set opposite each other on the stem."]}
+{"w": "adversifolious", "pos": "adjective", "d": ["Having leaves opposite each other."]}
+{"w": "adversion", "pos": "noun", "d": ["A turning toward; attention."]}
+{"w": "adversity", "pos": "noun", "d": ["Hardship or misfortune."]}
+{"w": "advertency", "pos": "noun", "d": ["Attention; heedfulness."]}
+{"w": "advisability", "pos": "noun", "d": ["The quality of being advisable."]}
+{"w": "advisably", "pos": "adverb", "d": ["In an advisable manner."]}
+{"w": "advisedly", "pos": "adverb", "d": ["With advice or deliberation; intentionally."]}
+{"w": "advisedness", "pos": "noun", "d": ["Deliberation; careful consideration."]}
+{"w": "adviso", "pos": "noun", "d": ["A dispatch boat carrying messages."]}
+{"w": "advocation", "pos": "noun", "d": ["In Scots law, the transfer of a case to a higher court."]}
+{"w": "advocatory", "pos": "adjective", "d": ["Relating to advocacy."]}
+{"w": "advoke", "pos": "verb", "d": ["To call forth or summon."]}
+{"w": "advolution", "pos": "noun", "d": ["A rolling toward."]}
+{"w": "advoutrer", "pos": "noun", "d": ["An adulterer."]}
+{"w": "advoutress", "pos": "noun", "d": ["An adulteress."]}
+{"w": "advoutry", "pos": "noun", "d": ["Adultery."]}
+{"w": "advowee", "pos": "noun", "d": ["One who holds the right of advowson."]}
+{"w": "advowson", "pos": "noun", "d": ["In English law, the right to appoint a clergyman to a church living."]}
+{"w": "advowtry", "pos": "noun", "d": ["Adultery."]}
+{"w": "advoyer", "pos": "noun", "d": ["A chief magistrate in some Swiss cantons."]}
+{"w": "adward", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "adynamia", "pos": "noun", "d": ["Weakness or loss of vital power; prostration."]}
+{"w": "adynamic", "pos": "adjective", "d": ["Relating to adynamia; lacking strength."]}
+{"w": "adynamy", "pos": "noun", "d": ["Lack of vital power; weakness."]}
+{"w": "adytum", "pos": "noun", "d": ["The innermost shrine of a temple; a sanctum."]}
+{"w": "adz", "pos": "noun", "d": ["A cutting tool with a curved blade set at right angles to the handle."]}
+{"w": "adze", "pos": "noun", "d": ["A variant spelling of adz."]}
+{"w": "aecidium", "pos": "noun", "d": ["A cup-shaped spore structure found on certain rust fungi."]}
+{"w": "aedile", "pos": "noun", "d": ["A Roman magistrate in charge of public buildings and games."]}
+{"w": "aegean", "pos": "adjective", "d": ["Relating to the Aegean Sea."]}
+{"w": "aegicrania", "pos": "noun", "d": ["A disease of goats."]}
+{"w": "aegilops", "pos": "noun", "d": ["A kind of wild grass.", "An ulcer or tumor at the inner corner of the eye."]}
+{"w": "aegis", "pos": "noun", "d": ["A shield or protection; originally the shield of Zeus."]}
+{"w": "aegophony", "pos": "noun", "d": ["In medicine, a bleating sound of the voice heard through the chest in lung disease."]}
+{"w": "aegrotat", "pos": "noun", "d": ["A certificate of illness excusing a student from examinations."]}
+{"w": "aemail ombrant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aeneid", "pos": "noun", "d": ["The epic poem by Virgil telling of the hero Aeneas."]}
+{"w": "aeneous", "pos": "adjective", "d": ["Of a bronze or coppery color."]}
+{"w": "aeolian", "pos": "adjective", "d": ["Relating to the wind; caused by the wind.", "Relating to Aeolus, the Greek ruler of the winds."]}
+{"w": "aeolic", "pos": "adjective", "d": ["Relating to Aeolis or the Aeolian dialect of ancient Greek."]}
+{"w": "aeolipile", "pos": "noun", "d": ["An ancient device in which jets of steam make a sphere spin."]}
+{"w": "aeolipyle", "pos": "noun", "d": ["A variant spelling of aeolipile."]}
+{"w": "aeolotropic", "pos": "adjective", "d": ["Having different physical properties in different directions, as some crystals do."]}
+{"w": "aeolotropy", "pos": "noun", "d": ["The property of having direction-dependent physical properties."]}
+{"w": "aeolus", "pos": "noun", "d": ["In Greek myth, the ruler of the winds."]}
+{"w": "aeon", "pos": "noun", "d": ["An immensely long period of time; an age."]}
+{"w": "aeonian", "pos": "adjective", "d": ["Lasting for an aeon; eternal."]}
+{"w": "aepyornis", "pos": "noun", "d": ["The extinct giant elephant bird of Madagascar."]}
+{"w": "aerate", "pos": "verb", "d": ["To expose to air; to supply with air."]}
+{"w": "aeration", "pos": "noun", "d": ["The act of exposing to air."]}
+{"w": "aerator", "pos": "noun", "d": ["A device that mixes air into water or soil."]}
+{"w": "aerenchym", "pos": "noun", "d": ["Spongy plant tissue containing air spaces."]}
+{"w": "aerenchyma", "pos": "noun", "d": ["Spongy tissue in aquatic plants that holds air."]}
+{"w": "aerial sickness", "pos": "phrase", "d": ["Sickness caused by flying at high altitude; airsickness."]}
+{"w": "aerie", "pos": "noun", "d": ["The nest of an eagle or other bird of prey, built on a high cliff."]}
+{"w": "aeriferous", "pos": "adjective", "d": ["Carrying or conducting air."]}
+{"w": "aerification", "pos": "noun", "d": ["The act of mixing with air."]}
+{"w": "aeriform", "pos": "adjective", "d": ["Having the form of air; gaseous."]}
+{"w": "aerify", "pos": "verb", "d": ["To mix with air; to make gaseous."]}
+{"w": "aero-", "pos": "prefix", "d": ["A prefix meaning air or aircraft, as in aeroplane."]}
+{"w": "aerobic", "pos": "adjective", "d": ["Living or acting only in the presence of oxygen.", "Relating to exercise that uses oxygen."]}
+{"w": "aerobies", "pos": "noun", "d": ["Bacteria that live only in the presence of oxygen."]}
+{"w": "aerobiotic", "pos": "adjective", "d": ["Living in air or requiring oxygen."]}
+{"w": "aeroboat", "pos": "noun", "d": ["A boat driven by an airplane propeller."]}
+{"w": "aerobus", "pos": "noun", "d": ["A large passenger aircraft."]}
+{"w": "aeroclub", "pos": "noun", "d": ["A club for aviation enthusiasts."]}
+{"w": "aerocurve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aerocyst", "pos": "noun", "d": ["An air bladder, as in seaweeds or fishes."]}
+{"w": "aerodonetics", "pos": "noun", "d": ["The science of gliding flight."]}
+{"w": "aerodynamic", "pos": "adjective", "d": ["Relating to the forces of air on moving bodies."]}
+{"w": "aerofoil", "pos": "noun", "d": ["British spelling of airfoil; a winglike surface shaped to give lift."]}
+{"w": "aerognosy", "pos": "noun", "d": ["Knowledge of the air; the science of the atmosphere."]}
+{"w": "aerographer", "pos": "noun", "d": ["One who describes the atmosphere; a meteorologist."]}
+{"w": "aerographic", "pos": "adjective", "d": ["Relating to aerography."]}
+{"w": "aerography", "pos": "noun", "d": ["The description of the atmosphere."]}
+{"w": "aerogun", "pos": "noun", "d": ["A gun operated by compressed air."]}
+{"w": "aerohydrodynamic", "pos": "adjective", "d": ["Relating to the forces of air and water on moving bodies."]}
+{"w": "aerolite", "pos": "noun", "d": ["A stony meteorite."]}
+{"w": "aerolith", "pos": "noun", "d": ["A variant spelling of aerolite."]}
+{"w": "aerolitic", "pos": "adjective", "d": ["Relating to aerolites."]}
+{"w": "aerologic", "pos": "adjective", "d": ["Relating to aerology."]}
+{"w": "aerologist", "pos": "noun", "d": ["A student of the atmosphere; a meteorologist."]}
+{"w": "aerology", "pos": "noun", "d": ["The study of the atmosphere."]}
+{"w": "aeromancy", "pos": "noun", "d": ["Divination by observing the air and winds."]}
+{"w": "aeromechanic", "pos": "noun", "d": ["A mechanic who works on aircraft."]}
+{"w": "aerometer", "pos": "noun", "d": ["An instrument for measuring the density of air."]}
+{"w": "aerometric", "pos": "adjective", "d": ["Relating to the measurement of air."]}
+{"w": "aerometry", "pos": "noun", "d": ["The measurement of air."]}
+{"w": "aeronat", "pos": "noun", "d": ["An aeronaut."]}
+{"w": "aeronaut", "pos": "noun", "d": ["One who navigates the air; a balloonist or aviator."]}
+{"w": "aeronef", "pos": "noun", "d": ["An airship or aircraft."]}
+{"w": "aerophobia", "pos": "noun", "d": ["An abnormal fear of air or drafts; also, fear of flying."]}
+{"w": "aerophoby", "pos": "noun", "d": ["A variant of aerophobia."]}
+{"w": "aerophyte", "pos": "noun", "d": ["A plant that grows in the air without soil, drawing moisture from the atmosphere."]}
+{"w": "aeroplane", "pos": "noun", "d": ["British spelling of airplane."]}
+{"w": "aeroplanist", "pos": "noun", "d": ["An aviator; one who flies aeroplanes."]}
+{"w": "aeroscope", "pos": "noun", "d": ["An instrument for collecting dust or germs from the air."]}
+{"w": "aeroscopy", "pos": "noun", "d": ["Examination of the air with an aeroscope."]}
+{"w": "aerose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aerosiderite", "pos": "noun", "d": ["An iron meteorite."]}
+{"w": "aerosphere", "pos": "noun", "d": ["The atmosphere surrounding the earth."]}
+{"w": "aerostat", "pos": "noun", "d": ["An aircraft lighter than air, such as a balloon."]}
+{"w": "aerotaxis", "pos": "noun", "d": ["Movement of an organism toward or away from air or oxygen."]}
+{"w": "aerotherapentics", "pos": "noun", "d": ["Treatment of disease by air or climate."]}
+{"w": "aeroyacht", "pos": "noun", "d": ["A large luxurious airship."]}
+{"w": "aeruginous", "pos": "adjective", "d": ["Of the bluish-green color of verdigris."]}
+{"w": "aerugo", "pos": "noun", "d": ["Verdigris; the green rust of copper."]}
+{"w": "aery", "pos": "adjective", "d": ["Of the air; airy."]}
+{"w": "aesculapian", "pos": "adjective", "d": ["Relating to Aesculapius; medical."]}
+{"w": "aesculapius", "pos": "noun", "d": ["The Roman god of medicine."]}
+{"w": "aesculin", "pos": "noun", "d": ["A substance from horse-chestnut bark that glows in solution."]}
+{"w": "aesir", "pos": "noun", "d": ["The gods of Norse mythology."]}
+{"w": "aesopian", "pos": "adjective", "d": ["Relating to Aesop; like his fables."]}
+{"w": "aesopic", "pos": "adjective", "d": ["Relating to Aesop or his fables."]}
+{"w": "aesthesia", "pos": "noun", "d": ["The capacity for sensation or feeling."]}
+{"w": "aesthesiometer", "pos": "noun", "d": ["An instrument for measuring sensitivity to touch."]}
+{"w": "aesthesis", "pos": "noun", "d": ["Sensation; feeling."]}
+{"w": "aesthesodic", "pos": "adjective", "d": ["Carrying sensory impulses toward the brain."]}
+{"w": "aesthete", "pos": "noun", "d": ["A person with a refined appreciation of beauty."]}
+{"w": "aesthetic", "pos": "adjective", "d": ["Relating to beauty or art."]}
+{"w": "aesthetican", "pos": "noun", "d": ["One versed in aesthetics."]}
+{"w": "aestho-physiology", "pos": "noun", "d": ["The physiology of sensation."]}
+{"w": "aestival", "pos": "adjective", "d": ["Relating to summer."]}
+{"w": "aestivate", "pos": "verb", "d": ["To spend the summer in a dormant state, as some animals do."]}
+{"w": "aestivation", "pos": "noun", "d": ["The dormant state of animals in summer.", "The arrangement of flower parts in a bud."]}
+{"w": "aestuary", "pos": "noun", "d": ["An old spelling of estuary, the tidal mouth of a river."]}
+{"w": "aestuous", "pos": "adjective", "d": ["Agitated like the sea; billowy."]}
+{"w": "aetheogamous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aether", "pos": "noun", "d": ["An old spelling of ether; the supposed pure upper air."]}
+{"w": "aethiops mineral", "pos": "phrase", "d": ["An old name for a black compound of mercury once used in medicine."]}
+{"w": "aethogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aethrioscope", "pos": "noun", "d": ["An instrument for measuring the coldness of the clear sky."]}
+{"w": "aetiological", "pos": "adjective", "d": ["Relating to the causes of disease."]}
+{"w": "aetiology", "pos": "noun", "d": ["The study of the causes of disease."]}
+{"w": "aetites", "pos": "noun", "d": ["The eaglestone, a hollow stone once thought to aid childbirth."]}
+{"w": "afar", "pos": "adverb", "d": ["At or to a great distance."]}
+{"w": "afeard", "pos": "adjective", "d": ["An old or dialect word for afraid."]}
+{"w": "afer", "pos": "noun", "d": ["An African."]}
+{"w": "affability", "pos": "noun", "d": ["The quality of being affable; pleasant courtesy."]}
+{"w": "affable", "pos": "adjective", "d": ["Pleasant and easy to talk to."]}
+{"w": "affably", "pos": "adverb", "d": ["In an affable manner."]}
+{"w": "affabrous", "pos": "adjective", "d": ["Skillfully made; workmanlike."]}
+{"w": "affamish", "pos": "verb", "d": ["To starve; to famish."]}
+{"w": "affatuate", "pos": "verb", "d": ["To infatuate."]}
+{"w": "affear", "pos": "verb", "d": ["To frighten."]}
+{"w": "affectibility", "pos": "noun", "d": ["The quality of being susceptible to feeling or influence."]}
+{"w": "affectuous", "pos": "adjective", "d": ["Full of affection; affectionate."]}
+{"w": "affeer", "pos": "verb", "d": ["In old law, to assess or settle, as a fine."]}
+{"w": "affeeror", "pos": "noun", "d": ["In old law, one who assesses a fine."]}
+{"w": "afferent", "pos": "adjective", "d": ["Carrying inward, as a nerve carrying impulses to the brain."]}
+{"w": "affettuoso", "pos": "adverb", "d": ["In music, with tender feeling."]}
+{"w": "affiance", "pos": "verb", "d": ["To promise in marriage; to betroth."]}
+{"w": "affiant", "pos": "noun", "d": ["A person who makes an affidavit."]}
+{"w": "affiche", "pos": "noun", "d": ["A posted public notice or placard."]}
+{"w": "affidavit", "pos": "noun", "d": ["A written statement sworn to be true before an official."]}
+{"w": "affile", "pos": "verb", "d": ["To file or polish smooth."]}
+{"w": "affiliable", "pos": "adjective", "d": ["Capable of being affiliated."]}
+{"w": "affinal", "pos": "adjective", "d": ["Related by marriage."]}
+{"w": "affine", "pos": "noun", "d": ["A relative by marriage."]}
+{"w": "affinitative", "pos": "adjective", "d": ["Relating to affinity."]}
+{"w": "affinitive", "pos": "adjective", "d": ["Having affinity."]}
+{"w": "affinity", "pos": "noun", "d": ["A natural liking or attraction.", "Relationship by marriage."]}
+{"w": "affirm", "pos": "verb", "d": ["To declare as true; to confirm."]}
+{"w": "affirmative", "pos": "adjective", "d": ["Saying yes; agreeing."]}
+{"w": "affirmatory", "pos": "adjective", "d": ["Affirming; confirming."]}
+{"w": "affix", "pos": "verb", "d": ["To attach or fasten to something."]}
+{"w": "affixture", "pos": "noun", "d": ["The act of affixing; attachment."]}
+{"w": "afflation", "pos": "noun", "d": ["A breathing upon; inspiration."]}
+{"w": "afflatus", "pos": "noun", "d": ["Divine inspiration; a creative impulse."]}
+{"w": "afflict", "pos": "verb", "d": ["To cause pain or suffering to."]}
+{"w": "afflictedness", "pos": "noun", "d": ["The state of being afflicted."]}
+{"w": "affluence", "pos": "noun", "d": ["Abundant wealth; plenty."]}
+{"w": "affluency", "pos": "noun", "d": ["Affluence; abundance."]}
+{"w": "affluent", "pos": "adjective", "d": ["Wealthy; flowing freely."]}
+{"w": "afflux", "pos": "noun", "d": ["A flowing toward; an influx."]}
+{"w": "affodill", "pos": "noun", "d": ["An old spelling of daffodil; also the asphodel."]}
+{"w": "afforce", "pos": "verb", "d": ["In old law, to reinforce a jury."]}
+{"w": "afforciament", "pos": "noun", "d": ["In old English law, the strengthening of a jury by adding members."]}
+{"w": "afforest", "pos": "verb", "d": ["To plant trees on; to turn into forest."]}
+{"w": "afformative", "pos": "adjective", "d": ["In grammar, added to the end of a word; suffixal."]}
+{"w": "affranchise", "pos": "verb", "d": ["To set free; to enfranchise."]}
+{"w": "affrap", "pos": "verb", "d": ["To strike down."]}
+{"w": "affray", "pos": "noun", "d": ["A noisy public brawl or fight."]}
+{"w": "affreight", "pos": "verb", "d": ["To hire a ship for carrying goods."]}
+{"w": "affret", "pos": "noun", "d": ["A furious attack."]}
+{"w": "affricate", "pos": "noun", "d": ["A speech sound that begins as a stop and releases as a fricative, like ch."]}
+{"w": "affriction", "pos": "noun", "d": ["The act of rubbing against; friction."]}
+{"w": "affriended", "pos": "adjective", "d": ["Befriended; made friends with."]}
+{"w": "affright", "pos": "verb", "d": ["To frighten."]}
+{"w": "affrightedly", "pos": "adverb", "d": ["In a frightened manner."]}
+{"w": "affront", "pos": "verb", "d": ["To insult openly."]}
+{"w": "affronte", "pos": "adjective", "d": ["In heraldry, facing forward."]}
+{"w": "affrontedly", "pos": "adverb", "d": ["In an insulting manner."]}
+{"w": "affrontee", "pos": "noun", "d": ["One who is affronted."]}
+{"w": "affrontingly", "pos": "adverb", "d": ["In an insulting manner."]}
+{"w": "affuse", "pos": "verb", "d": ["To pour upon."]}
+{"w": "affusion", "pos": "noun", "d": ["The act of pouring upon, as water in baptism."]}
+{"w": "affy", "pos": "verb", "d": ["To trust or confide in; to betroth."]}
+{"w": "afghan", "pos": "noun", "d": ["A knitted or crocheted blanket."]}
+{"w": "afield", "pos": "adverb", "d": ["Away from home; in the field."]}
+{"w": "afire", "pos": "adjective", "d": ["On fire; burning."]}
+{"w": "aflame", "pos": "adjective", "d": ["In flames; burning."]}
+{"w": "aflat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aflaunt", "pos": "adjective", "d": ["Displaying oneself showily; flaunting."]}
+{"w": "aflicker", "pos": "adjective", "d": ["Flickering."]}
+{"w": "afloat", "pos": "adjective", "d": ["Floating; at sea."]}
+{"w": "aflow", "pos": "adjective", "d": ["Flowing."]}
+{"w": "aflush", "pos": "adjective", "d": ["Flushed; level with a surface."]}
+{"w": "aflutter", "pos": "adjective", "d": ["Fluttering; in excited motion."]}
+{"w": "afoam", "pos": "adjective", "d": ["Foaming; covered with foam."]}
+{"w": "afoot", "pos": "adverb", "d": ["On foot; in progress."]}
+{"w": "afore", "pos": "preposition", "d": ["Before; in front of."]}
+{"w": "aforecited", "pos": "adjective", "d": ["Cited before; previously mentioned."]}
+{"w": "aforementioned", "pos": "adjective", "d": ["Mentioned before."]}
+{"w": "aforenamed", "pos": "adjective", "d": ["Named before."]}
+{"w": "afoul", "pos": "adjective", "d": ["Fouled; entangled."]}
+{"w": "afreet", "pos": "noun", "d": ["In Arabian myth, a powerful evil demon."]}
+{"w": "afresh", "pos": "adverb", "d": ["Anew; again from the start."]}
+{"w": "afric", "pos": "noun", "d": ["The southwest wind."]}
+{"w": "africander", "pos": "noun", "d": ["A native-born white South African of Dutch descent."]}
+{"w": "afrit", "pos": "noun", "d": ["A variant of afreet; an evil demon of Arabian myth."]}
+{"w": "afrite", "pos": "noun", "d": ["A variant of afreet."]}
+{"w": "afront", "pos": "adverb", "d": ["In front; forward."]}
+{"w": "aft", "pos": "adverb", "d": ["Toward the stern of a ship."]}
+{"w": "after damp", "pos": "phrase", "d": ["Poisonous gas left in a mine after an explosion."]}
+{"w": "after-dinner", "pos": "adjective", "d": ["Occurring after dinner."]}
+{"w": "after-eatage", "pos": "noun", "d": ["The right to graze cattle on land after harvest."]}
+{"w": "after-glow", "pos": "noun", "d": ["The glow in the sky after sunset."]}
+{"w": "after-image", "pos": "noun", "d": ["An image that remains in the eye after the object is gone."]}
+{"w": "after-mentioned", "pos": "adjective", "d": ["Mentioned later."]}
+{"w": "after-note", "pos": "phrase", "d": ["A note added afterward; a postscript."]}
+{"w": "after-sails", "pos": "noun", "d": ["The sails carried on the mizzenmast, behind the mainmast."]}
+{"w": "after-wit", "pos": "noun", "d": ["Wisdom that comes too late."]}
+{"w": "afterings", "pos": "noun", "d": ["The last milk drawn from a cow at a milking."]}
+{"w": "aga", "pos": "noun", "d": ["A Turkish title of rank; a commander."]}
+{"w": "agal-agal", "pos": "noun", "d": ["An edible seaweed of the East Indies."]}
+{"w": "agalactia", "pos": "noun", "d": ["Failure to produce milk after childbirth."]}
+{"w": "agalactous", "pos": "adjective", "d": ["Not producing milk."]}
+{"w": "agalaxy", "pos": "noun", "d": ["Failure of milk secretion."]}
+{"w": "agalloch", "pos": "noun", "d": ["A fragrant wood; aloes wood."]}
+{"w": "agallochum", "pos": "noun", "d": ["A variant of agalloch."]}
+{"w": "agalmatolite", "pos": "noun", "d": ["A soft stone used for carving; figure stone."]}
+{"w": "agama", "pos": "noun", "d": ["A kind of lizard found in Africa and Asia."]}
+{"w": "agami", "pos": "noun", "d": ["A South American bird; the trumpeter."]}
+{"w": "agamic", "pos": "adjective", "d": ["Reproducing without mating; asexual."]}
+{"w": "agamogenesis", "pos": "noun", "d": ["Reproduction without fertilization; asexual reproduction."]}
+{"w": "agamogenetic", "pos": "adjective", "d": ["Relating to asexual reproduction."]}
+{"w": "agamous", "pos": "adjective", "d": ["Having no visible reproductive organs, as some plants."]}
+{"w": "aganglionic", "pos": "adjective", "d": ["Lacking ganglia or nerve knots."]}
+{"w": "agape", "pos": "adjective", "d": ["Wide open in wonder or surprise."]}
+{"w": "agar-agar", "pos": "noun", "d": ["A gelatin from seaweed used in cooking and laboratories."]}
+{"w": "agaric", "pos": "noun", "d": ["A mushroom of the gill-bearing family."]}
+{"w": "agasp", "pos": "adjective", "d": ["Gasping."]}
+{"w": "agast", "pos": "adjective", "d": ["An old spelling of aghast."]}
+{"w": "agastric", "pos": "adjective", "d": ["Lacking a stomach."]}
+{"w": "agate", "pos": "noun", "d": ["A striped semiprecious stone."]}
+{"w": "agatiferous", "pos": "adjective", "d": ["Containing agate."]}
+{"w": "agatize", "pos": "verb", "d": ["To change into agate."]}
+{"w": "agaty", "pos": "adjective", "d": ["Resembling agate."]}
+{"w": "agave", "pos": "noun", "d": ["A desert plant with thick spiky leaves, used for fiber and syrup."]}
+{"w": "agen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "agend", "pos": "noun", "d": ["An agenda; a list of things to be done."]}
+{"w": "agendum", "pos": "noun", "d": ["An item on an agenda; something to be done."]}
+{"w": "agenesic", "pos": "adjective", "d": ["Sterile; unable to reproduce."]}
+{"w": "agenesis", "pos": "noun", "d": ["Failure of an organ to develop."]}
+{"w": "agennesis", "pos": "noun", "d": ["A variant of agenesis."]}
+{"w": "ageratum", "pos": "noun", "d": ["A garden flower with fluffy blue or white flower heads."]}
+{"w": "aggeneration", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "agger", "pos": "noun", "d": ["A mound or rampart."]}
+{"w": "aggerose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aggest", "pos": "verb", "d": ["To heap up."]}
+{"w": "agglomerate", "pos": "verb", "d": ["To gather into a mass or cluster."]}
+{"w": "agglomeration", "pos": "noun", "d": ["The act of gathering into a mass; a heaped cluster."]}
+{"w": "agglomerative", "pos": "adjective", "d": ["Tending to gather into a mass."]}
+{"w": "agglutinant", "pos": "adjective", "d": ["Causing adhesion."]}
+{"w": "agglutinate", "pos": "verb", "d": ["To stick together; to join as with glue."]}
+{"w": "agglutination", "pos": "noun", "d": ["The act of sticking together.", "In language, the joining of word parts into one word."]}
+{"w": "agglutinative", "pos": "adjective", "d": ["Tending to stick together."]}
+{"w": "aggrace", "pos": "verb", "d": ["To favor or grace."]}
+{"w": "aggrade", "pos": "verb", "d": ["To build up a riverbed with deposited sediment."]}
+{"w": "aggrandization", "pos": "noun", "d": ["The act of making greater; enlargement."]}
+{"w": "aggrandize", "pos": "verb", "d": ["To make greater in size, power, or rank."]}
+{"w": "aggrate", "pos": "verb", "d": ["To please."]}
+{"w": "aggravate", "pos": "verb", "d": ["To make worse.", "To annoy or irritate."]}
+{"w": "aggravation", "pos": "noun", "d": ["The act of making worse; annoyance."]}
+{"w": "aggravative", "pos": "adjective", "d": ["Tending to aggravate."]}
+{"w": "aggregation", "pos": "noun", "d": ["A collection of things gathered together."]}
+{"w": "aggregative", "pos": "adjective", "d": ["Tending to aggregate."]}
+{"w": "aggregator", "pos": "noun", "d": ["One that gathers things together."]}
+{"w": "aggrege", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aggress", "pos": "verb", "d": ["To attack; to commit aggression."]}
+{"w": "aggressor", "pos": "noun", "d": ["One who attacks first."]}
+{"w": "aggri", "pos": "noun", "d": ["Variegated glass beads once used as currency in Africa."]}
+{"w": "aggrievance", "pos": "noun", "d": ["The state of being aggrieved; a grievance."]}
+{"w": "aggroup", "pos": "verb", "d": ["To group together."]}
+{"w": "aggry", "pos": "noun", "d": ["A variant of aggri."]}
+{"w": "agha", "pos": "noun", "d": ["A variant of aga; a Turkish title of rank."]}
+{"w": "aghast", "pos": "adjective", "d": ["Struck with horror or amazement."]}
+{"w": "agible", "pos": "adjective", "d": ["That may be done; practicable."]}
+{"w": "agile", "pos": "adjective", "d": ["Quick and nimble in movement."]}
+{"w": "agility", "pos": "noun", "d": ["The quality of being agile."]}
+{"w": "agio", "pos": "noun", "d": ["The fee charged for exchanging one currency for another."]}
+{"w": "agiotage", "pos": "noun", "d": ["Speculation in stocks or currency."]}
+{"w": "agist", "pos": "verb", "d": ["To take in livestock to graze for a fee."]}
+{"w": "agistator", "pos": "noun", "d": ["One who takes in cattle to graze for a fee."]}
+{"w": "agistor", "pos": "noun", "d": ["A variant of agistator."]}
+{"w": "agitable", "pos": "adjective", "d": ["That may be agitated."]}
+{"w": "agitate", "pos": "verb", "d": ["To stir up; to disturb."]}
+{"w": "agitatedly", "pos": "adverb", "d": ["In an agitated manner."]}
+{"w": "agitation", "pos": "noun", "d": ["The act of agitating; violent motion; public excitement."]}
+{"w": "agitative", "pos": "adjective", "d": ["Tending to agitate."]}
+{"w": "agitato", "pos": "adverb", "d": ["In music, in a hurried, agitated style."]}
+{"w": "agitator", "pos": "noun", "d": ["One who stirs up public feeling."]}
+{"w": "agleam", "pos": "adjective", "d": ["Gleaming."]}
+{"w": "aglet", "pos": "noun", "d": ["The metal tip on the end of a shoelace."]}
+{"w": "agley", "pos": "adverb", "d": ["Awry; askew."]}
+{"w": "aglimmer", "pos": "adjective", "d": ["Glimmering."]}
+{"w": "aglitter", "pos": "adjective", "d": ["Glittering."]}
+{"w": "aglossal", "pos": "adjective", "d": ["Lacking a tongue."]}
+{"w": "aglow", "pos": "adjective", "d": ["Glowing."]}
+{"w": "aglutition", "pos": "noun", "d": ["Inability to swallow."]}
+{"w": "agminal", "pos": "adjective", "d": ["Relating to a road or march."]}
+{"w": "agminate", "pos": "adjective", "d": ["Grouped together."]}
+{"w": "agnail", "pos": "noun", "d": ["A hangnail; a sore around the fingernail."]}
+{"w": "agnate", "pos": "noun", "d": ["A relative on the father's side."]}
+{"w": "agnatic", "pos": "adjective", "d": ["Relating to agnates; through the male line."]}
+{"w": "agnation", "pos": "noun", "d": ["Relationship through the male line."]}
+{"w": "agnition", "pos": "noun", "d": ["Recognition; acknowledgment."]}
+{"w": "agnize", "pos": "verb", "d": ["To recognize; to acknowledge."]}
+{"w": "agnoiology", "pos": "noun", "d": ["The study of things unknown or unknowable."]}
+{"w": "agnomen", "pos": "noun", "d": ["An extra name added to a Roman's name; a nickname."]}
+{"w": "agnominate", "pos": "verb", "d": ["To give an additional name to."]}
+{"w": "agnomination", "pos": "noun", "d": ["The act of giving a nickname; a play on similar words."]}
+{"w": "agnostic", "pos": "noun", "d": ["One who believes the existence of God is unknowable."]}
+{"w": "agnus", "pos": "noun", "d": ["Latin for lamb; a figure of Christ as a lamb."]}
+{"w": "agnus castus", "pos": "phrase", "d": ["The chaste tree, a shrub once thought to preserve chastity."]}
+{"w": "agnus dei", "pos": "phrase", "d": ["Latin for Lamb of God; a title of Christ."]}
+{"w": "agnus scythicus", "pos": "phrase", "d": ["The legendary vegetable lamb of Tartary."]}
+{"w": "agog", "pos": "adjective", "d": ["Eager; in excited anticipation."]}
+{"w": "agon", "pos": "noun", "d": ["A contest or struggle; in ancient Greece, a public contest."]}
+{"w": "agone", "pos": "adverb", "d": ["An old form of ago."]}
+{"w": "agonizingly", "pos": "adverb", "d": ["In an agonizing manner."]}
+{"w": "agonothete", "pos": "noun", "d": ["In ancient Greece, the president of the games."]}
+{"w": "agonothetic", "pos": "adjective", "d": ["Relating to an agonothete."]}
+{"w": "agony", "pos": "noun", "d": ["Intense suffering of mind or body."]}
+{"w": "agood", "pos": "adverb", "d": ["In earnest; heartily."]}
+{"w": "agora", "pos": "noun", "d": ["The marketplace in ancient Greece."]}
+{"w": "agouara", "pos": "noun", "d": ["A wild doglike mammal of South America."]}
+{"w": "agouta", "pos": "noun", "d": ["A variant of agouti."]}
+{"w": "agouti", "pos": "noun", "d": ["A small rodent of Central and South America."]}
+{"w": "agouty", "pos": "adjective", "d": ["Relating to the agouti; grizzled in fur color."]}
+{"w": "agrace", "pos": "noun", "d": ["Favor; grace."]}
+{"w": "agraffe", "pos": "noun", "d": ["A hook-and-eye fastener; a clasp."]}
+{"w": "agrammatist", "pos": "noun", "d": ["One who is ignorant of grammar."]}
+{"w": "agraphia", "pos": "noun", "d": ["Loss of the ability to write, caused by brain injury."]}
+{"w": "agraphic", "pos": "adjective", "d": ["Relating to agraphia."]}
+{"w": "agrappes", "pos": "noun", "d": ["Hooks and eyes used as fasteners."]}
+{"w": "agrarian", "pos": "adjective", "d": ["Relating to land or farming."]}
+{"w": "agre", "pos": "verb", "d": ["An old spelling of agree."]}
+{"w": "agreeingly", "pos": "adverb", "d": ["In agreement."]}
+{"w": "agrestic", "pos": "adjective", "d": ["Rural; rustic."]}
+{"w": "agricolation", "pos": "noun", "d": ["Agriculture."]}
+{"w": "agricolist", "pos": "noun", "d": ["A farmer."]}
+{"w": "agricultor", "pos": "noun", "d": ["A farmer; an agriculturist."]}
+{"w": "agriculturism", "pos": "noun", "d": ["The practice of agriculture."]}
+{"w": "agriculturist", "pos": "noun", "d": ["One skilled in farming."]}
+{"w": "agrief", "pos": "adverb", "d": ["In grief."]}
+{"w": "agrimony", "pos": "noun", "d": ["A plant with yellow flowers, used in herbal medicine."]}
+{"w": "agrin", "pos": "adjective", "d": ["Grinning."]}
+{"w": "agriologist", "pos": "noun", "d": ["A student of wild animals and of peoples in a wild state."]}
+{"w": "agriology", "pos": "noun", "d": ["The study of wild animals and of peoples in a wild state."]}
+{"w": "agrise", "pos": "verb", "d": ["To shudder with fear."]}
+{"w": "agrom", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "agronomic", "pos": "adjective", "d": ["Relating to agronomy."]}
+{"w": "agronomist", "pos": "noun", "d": ["An expert in farm management and crop science."]}
+{"w": "agronomy", "pos": "noun", "d": ["The science of soil management and crop production."]}
+{"w": "agrope", "pos": "verb", "d": ["To grope."]}
+{"w": "agrostis", "pos": "noun", "d": ["The bent grass genus, including many lawn grasses."]}
+{"w": "agrostographic", "pos": "adjective", "d": ["Relating to the description of grasses."]}
+{"w": "agrostography", "pos": "noun", "d": ["The descriptive study of grasses."]}
+{"w": "agrostologic", "pos": "adjective", "d": ["Relating to agrostology."]}
+{"w": "agrostologist", "pos": "noun", "d": ["A student of grasses."]}
+{"w": "agrostology", "pos": "noun", "d": ["The scientific study of grasses."]}
+{"w": "agrotechny", "pos": "noun", "d": ["The technical side of agriculture."]}
+{"w": "aground", "pos": "adverb", "d": ["Stranded on the ground or shore."]}
+{"w": "agroupment", "pos": "noun", "d": ["The act of grouping; a group."]}
+{"w": "agrypnotic", "pos": "adjective", "d": ["Causing wakefulness; preventing sleep."]}
+{"w": "aguardiente", "pos": "noun", "d": ["A strong distilled liquor of Spain and Latin America."]}
+{"w": "ague", "pos": "noun", "d": ["A fever with chills, as in malaria."]}
+{"w": "aguilt", "pos": "adjective", "d": ["Guilty."]}
+{"w": "aguise", "pos": "verb", "d": ["To dress; to adorn."]}
+{"w": "aguish", "pos": "adjective", "d": ["Relating to ague; feverish."]}
+{"w": "agush", "pos": "adjective", "d": ["Gushing."]}
+{"w": "agynous", "pos": "adjective", "d": ["In botany, lacking a pistil or female organs."]}
+{"w": "aha", "pos": "interjection", "d": ["An exclamation of surprise or triumph."]}
+{"w": "aheap", "pos": "adverb", "d": ["In a heap."]}
+{"w": "aheight", "pos": "adverb", "d": ["On high; aloft."]}
+{"w": "ahem", "pos": "interjection", "d": ["A throat-clearing sound used to get attention."]}
+{"w": "ahey", "pos": "interjection", "d": ["Hey; an exclamation."]}
+{"w": "ahigh", "pos": "adverb", "d": ["On high."]}
+{"w": "ahold", "pos": "noun", "d": ["A hold or grasp."]}
+{"w": "ahorseback", "pos": "adverb", "d": ["On horseback."]}
+{"w": "ahoy", "pos": "interjection", "d": ["A nautical call used to attract attention."]}
+{"w": "ahriman", "pos": "noun", "d": ["The evil spirit in the Zoroastrian religion."]}
+{"w": "ahu", "pos": "noun", "d": ["A stone platform or altar in Polynesia."]}
+{"w": "ahull", "pos": "adverb", "d": ["With sails furled and helm lashed, drifting at sea."]}
+{"w": "ahungered", "pos": "adjective", "d": ["Hungry."]}
+{"w": "ahura-mazda", "pos": "noun", "d": ["The supreme god in Zoroastrianism."]}
+{"w": "aiblins", "pos": "adverb", "d": ["Perhaps; possibly."]}
+{"w": "aid-de-camp", "pos": "noun", "d": ["A military officer serving as an assistant to a senior officer."]}
+{"w": "aid-major", "pos": "noun", "d": ["An assistant to a major; an adjutant."]}
+{"w": "aiel", "pos": "noun", "d": ["A grandfather."]}
+{"w": "aiglet", "pos": "noun", "d": ["A variant of aglet; a metal tip for a lace."]}
+{"w": "aigre", "pos": "adjective", "d": ["Sour."]}
+{"w": "aigret", "pos": "noun", "d": ["The egret; also an aigrette."]}
+{"w": "aigrette", "pos": "noun", "d": ["A spray of egret feathers worn as an ornament."]}
+{"w": "aiguille", "pos": "noun", "d": ["A sharp mountain peak; a needle."]}
+{"w": "aiguillette", "pos": "noun", "d": ["An ornamental shoulder cord worn by military aides."]}
+{"w": "aigulet", "pos": "noun", "d": ["A variant of aglet."]}
+{"w": "ail", "pos": "verb", "d": ["To be sick; to trouble with illness."]}
+{"w": "ailanthus", "pos": "noun", "d": ["The tree of heaven, a fast-growing Asian tree."]}
+{"w": "ailantus", "pos": "noun", "d": ["A variant spelling of ailanthus."]}
+{"w": "aileron", "pos": "noun", "d": ["A movable flap on an airplane wing that controls rolling."]}
+{"w": "ailuroidea", "pos": "noun", "d": ["The catlike carnivores, a group including cats, hyenas, and civets."]}
+{"w": "aino", "pos": "noun", "d": ["A member of the Ainu people of Japan."]}
+{"w": "air bed", "pos": "phrase", "d": ["A mattress filled with air."]}
+{"w": "air bladder", "pos": "phrase", "d": ["A gas-filled sac in fishes that controls buoyancy."]}
+{"w": "air brake", "pos": "phrase", "d": ["A brake worked by compressed air."]}
+{"w": "air brush", "pos": "phrase", "d": ["A small spray gun that paints with compressed air."]}
+{"w": "air cell", "pos": "phrase", "d": ["A small cavity containing air, as in a plant or an egg."]}
+{"w": "air chamber", "pos": "phrase", "d": ["A chamber containing air, as in a pump."]}
+{"w": "air cock", "pos": "phrase", "d": ["A valve for letting air in or out."]}
+{"w": "air cooling", "pos": "phrase", "d": ["Cooling by means of air circulation."]}
+{"w": "air drill", "pos": "phrase", "d": ["A drill powered by compressed air."]}
+{"w": "air engine", "pos": "phrase", "d": ["An engine driven by heated or compressed air."]}
+{"w": "air gap", "pos": "phrase", "d": ["A space filled with air between two parts."]}
+{"w": "air gas", "pos": "phrase", "d": ["A gas mixture used for lighting, made by enriching air."]}
+{"w": "air gun", "pos": "phrase", "d": ["A gun that shoots pellets with compressed air."]}
+{"w": "air hole", "pos": "phrase", "d": ["An opening through which air can pass."]}
+{"w": "air jacket", "pos": "phrase", "d": ["A layer of air around something, serving as insulation."]}
+{"w": "air level", "pos": "phrase", "d": ["A leveling instrument in which a bubble of air shows when a surface is level."]}
+{"w": "air line", "pos": "phrase", "d": ["A company that operates aircraft.", "A pipe that carries compressed air."]}
+{"w": "air pipe", "pos": "phrase", "d": ["A pipe for carrying air."]}
+{"w": "air plant", "pos": "phrase", "d": ["A plant that grows without soil, drawing moisture from the air."]}
+{"w": "air poise", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "air pump", "pos": "phrase", "d": ["A pump for moving air in or out."]}
+{"w": "air sac", "pos": "phrase", "d": ["An air-filled sac, as in the body of a bird."]}

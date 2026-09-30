@@ -1598,3 +1598,803 @@
 {"w": "air poise", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "air pump", "pos": "phrase", "d": ["A pump for moving air in or out."]}
 {"w": "air sac", "pos": "phrase", "d": ["An air-filled sac, as in the body of a bird."]}
+{"w": "air shaft", "pos": "noun", "d": ["A vertical passage that lets air move through a mine, tunnel, or building."]}
+{"w": "air stove", "pos": "noun", "d": ["A stove that heats a room by circulating warm air."]}
+{"w": "air vessel", "pos": "noun", "d": ["A chamber of compressed air on a pump that keeps the flow steady."]}
+{"w": "air-built", "pos": "adjective", "d": ["Made of nothing but air; having no solid foundation."]}
+{"w": "air-drawn", "pos": "adjective", "d": ["Drawn or shaped in the air; fanciful and unreal."]}
+{"w": "air-slacked", "pos": "adjective", "d": ["Describing lime that has crumbled to powder from exposure to moist air."]}
+{"w": "air-tight", "pos": "adjective", "d": ["Sealed so tightly that air cannot pass in or out."]}
+{"w": "airily", "pos": "adverb", "d": ["In a light, breezy, or carefree manner."]}
+{"w": "airiness", "pos": "noun", "d": ["The quality of being light, open, and full of fresh air."]}
+{"w": "airol", "pos": "noun", "d": ["An antiseptic powder once used as a dressing for wounds."]}
+{"w": "airometer", "pos": "noun", "d": ["An instrument for measuring the density or flow of air."]}
+{"w": "airy", "pos": "adjective", "d": ["Open and full of fresh air.", "Light and delicate, like air."]}
+{"w": "aisle", "pos": "noun", "d": ["A passage between rows of seats in a church, theater, or store."]}
+{"w": "aisless", "pos": "adjective", "d": ["Having no aisles."]}
+{"w": "ait", "pos": "noun", "d": ["A small island in a river."]}
+{"w": "aitch", "pos": "noun", "d": ["The name of the letter H."]}
+{"w": "aitiology", "pos": "noun", "d": ["The study of causes, especially the causes of disease."]}
+{"w": "ajar", "pos": "adjective", "d": ["Slightly open, as of a door left partly unclosed."]}
+{"w": "ajava", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ajog", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ajouan", "pos": "noun", "d": ["A variant spelling of ajowan, the pungent seed used as a spice and medicine."]}
+{"w": "ajowan", "pos": "noun", "d": ["The pungent seed of an Indian plant, used as a spice and in traditional medicine."]}
+{"w": "ajutage", "pos": "noun", "d": ["A tube or nozzle through which water is discharged, as on a fountain."]}
+{"w": "ake", "pos": "verb", "d": ["To feel a dull, steady pain, as in a tired muscle."]}
+{"w": "akene", "pos": "noun", "d": ["A small dry fruit containing a single seed, as of the sunflower."]}
+{"w": "akimbo", "pos": "adverb", "d": ["With the hands on the hips and the elbows bent outward."]}
+{"w": "akin", "pos": "adjective", "d": ["Related by blood.", "Similar in nature or character."]}
+{"w": "akinesia", "pos": "noun", "d": ["Loss or absence of voluntary movement, seen in some nervous disorders."]}
+{"w": "akinesic", "pos": "adjective", "d": ["Relating to or marked by akinesia."]}
+{"w": "aknee", "pos": "adverb", "d": ["In a kneeling position; on the knees."]}
+{"w": "aknow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "al segno", "pos": "phrase", "d": ["A musical direction meaning to repeat from the marked sign."]}
+{"w": "al-", "pos": "prefix", "d": ["The Arabic word for 'the', used at the start of words taken from Arabic."]}
+{"w": "al-phitomancy", "pos": "noun", "d": ["Divination performed by means of barley or bread."]}
+{"w": "alabama period", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alabaster", "pos": "noun", "d": ["A smooth white or translucent stone used for carving and ornaments."]}
+{"w": "alabastrian", "pos": "adjective", "d": ["Made of alabaster or resembling it."]}
+{"w": "alabastrine", "pos": "adjective", "d": ["Of or like alabaster; smooth and pale."]}
+{"w": "alabastrum", "pos": "noun", "d": ["A small ancient vessel for ointment, often carved from alabaster."]}
+{"w": "alack", "pos": "interjection", "d": ["An old exclamation of sorrow or regret."]}
+{"w": "alackaday", "pos": "interjection", "d": ["An old exclamation of dismay or disappointment."]}
+{"w": "alacrify", "pos": "verb", "d": ["To make cheerful and eager."]}
+{"w": "alacrious", "pos": "adjective", "d": ["Cheerful and eager; full of brisk readiness."]}
+{"w": "alacrity", "pos": "noun", "d": ["Cheerful readiness; brisk and eager willingness."]}
+{"w": "aladinist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alalia", "pos": "noun", "d": ["Loss of the power of speech, especially in children with brain injury."]}
+{"w": "alalonga", "pos": "noun", "d": ["The albacore, a large tuna with very long fins."]}
+{"w": "aland", "pos": "adverb", "d": ["On land; ashore."]}
+{"w": "alar", "pos": "adjective", "d": ["Of or like a wing; winged."]}
+{"w": "alary", "pos": "adjective", "d": ["Relating to wings."]}
+{"w": "alate", "pos": "adjective", "d": ["Having wings; winged."]}
+{"w": "alaternus", "pos": "noun", "d": ["An evergreen shrub of southern Europe with small dark berries."]}
+{"w": "alaunt", "pos": "noun", "d": ["A large hunting dog of an old breed."]}
+{"w": "alb", "pos": "noun", "d": ["A white linen vestment worn by Christian clergy."]}
+{"w": "alb sunday", "pos": "phrase", "d": ["The Sunday after Easter, when white baptismal robes were laid aside."]}
+{"w": "albacore", "pos": "noun", "d": ["A large tuna of warm seas, prized as food."]}
+{"w": "alban", "pos": "adjective", "d": ["Of Alba, the old name for Scotland; Scottish."]}
+{"w": "albanian", "pos": "noun", "d": ["A native or inhabitant of Albania.", "Relating to Albania, its people, or its language."]}
+{"w": "albata", "pos": "noun", "d": ["A white alloy of copper, zinc, and nickel, resembling silver."]}
+{"w": "albatross", "pos": "noun", "d": ["A very large ocean bird with long narrow wings.", "A heavy burden or source of guilt."]}
+{"w": "albe", "pos": "conjunction", "d": ["Although; even though."]}
+{"w": "albedo", "pos": "noun", "d": ["The fraction of light reflected by a surface, as of a planet."]}
+{"w": "albee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "albeit", "pos": "conjunction", "d": ["Although; even though."]}
+{"w": "albert ware", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "albertite", "pos": "noun", "d": ["A black, brittle mineral resembling asphalt, found in veins."]}
+{"w": "albertype", "pos": "noun", "d": ["An early photographic printing process using a gelatin-coated plate."]}
+{"w": "albescence", "pos": "noun", "d": ["The process of turning white; whiteness."]}
+{"w": "albicant", "pos": "adjective", "d": ["Turning white; growing pale."]}
+{"w": "albication", "pos": "noun", "d": ["The act of whitening; the state of being white."]}
+{"w": "albicore", "pos": "noun", "d": ["Another spelling of albacore, the long-finned tuna."]}
+{"w": "albification", "pos": "noun", "d": ["The process of making something white."]}
+{"w": "albigenses", "pos": "noun", "d": ["Members of a medieval Christian sect in southern France."]}
+{"w": "albigensian", "pos": "adjective", "d": ["Relating to the Albigenses of medieval France."]}
+{"w": "albigeois", "pos": "adjective", "d": ["Of Albi in southern France, the home region of the Albigenses."]}
+{"w": "albiness", "pos": "noun", "d": ["The state of being albino; unusual paleness."]}
+{"w": "albinism", "pos": "noun", "d": ["The condition of lacking normal pigmentation, leaving skin, hair, and eyes very pale."]}
+{"w": "albinistic", "pos": "adjective", "d": ["Relating to or marked by albinism."]}
+{"w": "albino", "pos": "noun", "d": ["A person or animal born with albinism.", "Unusually pale from lack of pigmentation."]}
+{"w": "albite", "pos": "noun", "d": ["A white or pale mineral of the feldspar group."]}
+{"w": "albolith", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alborak", "pos": "noun", "d": ["The winged steed of Muslim tradition that carried the Prophet on his night journey."]}
+{"w": "albugineous", "pos": "adjective", "d": ["White like egg white; whitish."]}
+{"w": "albugo", "pos": "noun", "d": ["A white spot or film on the eye."]}
+{"w": "album graecum", "pos": "phrase", "d": ["An old name for dried dung formerly used in preparing leather."]}
+{"w": "albumin", "pos": "noun", "d": ["A protein found in egg white, blood, and milk."]}
+{"w": "albuminiferous", "pos": "adjective", "d": ["Producing or containing albumin."]}
+{"w": "albuminimeter", "pos": "noun", "d": ["An instrument for measuring albumin in urine."]}
+{"w": "albuminin", "pos": "noun", "d": ["A protein substance closely related to albumin."]}
+{"w": "albuminiparous", "pos": "adjective", "d": ["Producing albumin."]}
+{"w": "albuminoid", "pos": "adjective", "d": ["Resembling albumin in nature."]}
+{"w": "albuminose", "pos": "noun", "d": ["A soluble protein formed during the early stages of digestion."]}
+{"w": "albuminosis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "albuminuria", "pos": "noun", "d": ["The presence of albumin in the urine, often a sign of kidney trouble."]}
+{"w": "albumose", "pos": "noun", "d": ["A protein compound formed in the early stages of digestion."]}
+{"w": "alburnum", "pos": "noun", "d": ["The sapwood of a tree; the soft outer wood beneath the bark."]}
+{"w": "albyn", "pos": "noun", "d": ["An old poetic name for Scotland."]}
+{"w": "alcade", "pos": "noun", "d": ["A variant spelling of alcalde, a Spanish municipal magistrate."]}
+{"w": "alcahest", "pos": "noun", "d": ["A supposed universal solvent sought by the alchemists."]}
+{"w": "alcaic", "pos": "adjective", "d": ["Relating to a classical Greek verse meter named for the poet Alcaeus."]}
+{"w": "alcaid", "pos": "noun", "d": ["A variant spelling of alcalde, a Spanish municipal magistrate."]}
+{"w": "alcalde", "pos": "noun", "d": ["A magistrate or mayor of a Spanish town."]}
+{"w": "alcaldia", "pos": "noun", "d": ["The office or jurisdiction of an alcalde."]}
+{"w": "alcalimeter", "pos": "noun", "d": ["An instrument for measuring the strength of alkalis."]}
+{"w": "alcanna", "pos": "noun", "d": ["The henna plant, or the reddish dye made from its leaves."]}
+{"w": "alcarraza", "pos": "noun", "d": ["A porous earthenware jar that cools water by evaporation."]}
+{"w": "alcayde", "pos": "noun", "d": ["A variant of alcalde; also an old Spanish term for a jailer."]}
+{"w": "alcazar", "pos": "noun", "d": ["A Spanish fortress or palace."]}
+{"w": "alcedo", "pos": "noun", "d": ["The scientific genus name of the kingfishers."]}
+{"w": "alchemic", "pos": "adjective", "d": ["Relating to or like alchemy."]}
+{"w": "alchemist", "pos": "noun", "d": ["One who practices alchemy."]}
+{"w": "alchemistry", "pos": "noun", "d": ["The practice or body of doctrines of alchemy."]}
+{"w": "alchemize", "pos": "verb", "d": ["To change by or as if by alchemy; to transmute."]}
+{"w": "alchemy", "pos": "noun", "d": ["The medieval forerunner of chemistry, seeking to turn base metals into gold."]}
+{"w": "alchymic", "pos": "adjective", "d": ["An old spelling of alchemic, relating to alchemy."]}
+{"w": "alchymist", "pos": "noun", "d": ["An old spelling of alchemist."]}
+{"w": "alchymy", "pos": "noun", "d": ["An old spelling of alchemy."]}
+{"w": "alco", "pos": "prefix", "d": ["A combining form relating to alcohol, as in alcoholic."]}
+{"w": "alcoholature", "pos": "noun", "d": ["A tincture or extract prepared by steeping a substance in alcohol."]}
+{"w": "alcoholization", "pos": "noun", "d": ["The act of turning into alcohol or saturating with alcohol."]}
+{"w": "alcoholometric", "pos": "adjective", "d": ["Relating to the measuring of alcohol content."]}
+{"w": "alcoholometry", "pos": "noun", "d": ["The measuring of the alcohol content of liquids."]}
+{"w": "alcohometer", "pos": "noun", "d": ["An instrument for measuring the strength of alcohol in a liquid."]}
+{"w": "alcohometric", "pos": "adjective", "d": ["Relating to an alcohometer."]}
+{"w": "alcooemetry", "pos": "noun", "d": ["A variant spelling of alcoholometry, the measuring of alcohol content."]}
+{"w": "alcoometry", "pos": "noun", "d": ["A variant of alcoholometry, the measuring of alcohol content."]}
+{"w": "alcornoque", "pos": "noun", "d": ["The cork oak tree."]}
+{"w": "alcove", "pos": "noun", "d": ["A small recessed area in a room; a cozy nook."]}
+{"w": "alcyon", "pos": "noun", "d": ["A poetic name for the kingfisher.", "An old name for a group of soft corals."]}
+{"w": "alcyonacea", "pos": "noun", "d": ["The order of soft corals."]}
+{"w": "alcyonium", "pos": "noun", "d": ["A genus of soft corals, including dead-man's fingers."]}
+{"w": "alcyonoid", "pos": "adjective", "d": ["Resembling the soft corals of the genus Alcyonium."]}
+{"w": "alday", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aldebaran", "pos": "noun", "d": ["A bright reddish star in the constellation Taurus."]}
+{"w": "aldehyde", "pos": "noun", "d": ["Any of a class of organic compounds with a distinctive chemical structure, including formaldehyde."]}
+{"w": "aldehydic", "pos": "adjective", "d": ["Relating to aldehydes."]}
+{"w": "alder", "pos": "noun", "d": ["A tree of the birch family that grows in wet ground."]}
+{"w": "alder fly", "pos": "phrase", "d": ["A dark insect with net-veined wings whose larva lives in water."]}
+{"w": "alder-liefest", "pos": "adjective", "d": ["Most dear of all; most beloved."]}
+{"w": "aldermancy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aldermanry", "pos": "noun", "d": ["The office or district of an alderman."]}
+{"w": "aldern", "pos": "adjective", "d": ["Made of alder wood."]}
+{"w": "alderney", "pos": "noun", "d": ["A breed of small dairy cattle from the island of Alderney."]}
+{"w": "aldine", "pos": "adjective", "d": ["Relating to the early Venetian printer Aldus Manutius or his fine editions."]}
+{"w": "aldol", "pos": "noun", "d": ["A chemical compound formed from aldehydes, used in making resins."]}
+{"w": "ale", "pos": "noun", "d": ["A fermented malt drink similar to beer."]}
+{"w": "ale silver", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ale-knight", "pos": "noun", "d": ["A jocular term for a habitual heavy drinker."]}
+{"w": "aleak", "pos": "adverb", "d": ["In a leaking state; leaking."]}
+{"w": "aleatory", "pos": "adjective", "d": ["Depending on chance or luck."]}
+{"w": "alecithal", "pos": "adjective", "d": ["Describing an egg that has little or no yolk."]}
+{"w": "alectorides", "pos": "noun", "d": ["A former name for a group of wading birds including cranes and rails."]}
+{"w": "alectoromachy", "pos": "noun", "d": ["Cockfighting."]}
+{"w": "alectoromancy", "pos": "noun", "d": ["Divination by means of a cock or rooster."]}
+{"w": "alectryomachy", "pos": "noun", "d": ["A variant spelling of alectoromachy; cockfighting."]}
+{"w": "alectryomancy", "pos": "noun", "d": ["A variant spelling of alectoromancy; divination by a cock."]}
+{"w": "alee", "pos": "adverb", "d": ["On or toward the sheltered side of a ship, away from the wind."]}
+{"w": "aleger", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alegge", "pos": "verb", "d": ["To assert or declare without full proof; an old form of allege."]}
+{"w": "alem", "pos": "noun", "d": ["The crescent finial crowning a mosque dome or minaret."]}
+{"w": "alemannic", "pos": "adjective", "d": ["Relating to the Alemanni, an ancient Germanic people, or their dialects."]}
+{"w": "alembic", "pos": "noun", "d": ["An old apparatus for distilling liquids."]}
+{"w": "alencon lace", "pos": "phrase", "d": ["A fine needlepoint lace first made in Alencon, France."]}
+{"w": "alength", "pos": "adverb", "d": ["Lengthwise; stretched out to full length."]}
+{"w": "alepidote", "pos": "adjective", "d": ["Without scales; scaleless."]}
+{"w": "aleppo boil", "pos": "phrase", "d": ["A skin sore once common around Aleppo, caused by a parasite."]}
+{"w": "aleppo button", "pos": "phrase", "d": ["Another name for the Aleppo boil."]}
+{"w": "aleppo evil", "pos": "phrase", "d": ["Another old name for the Aleppo boil."]}
+{"w": "aleppo grass", "pos": "phrase", "d": ["Johnson grass, a tall grass used as fodder."]}
+{"w": "alethiology", "pos": "noun", "d": ["The study or doctrine of truth."]}
+{"w": "alethoscope", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aleuromancy", "pos": "noun", "d": ["Divination performed by means of flour."]}
+{"w": "aleurometer", "pos": "noun", "d": ["An instrument for testing the quality of flour."]}
+{"w": "aleuronat", "pos": "noun", "d": ["A protein-rich flour once used as a food for diabetics."]}
+{"w": "aleurone", "pos": "noun", "d": ["Protein granules found in seeds; the outer layer of cereal grains."]}
+{"w": "aleuronic", "pos": "adjective", "d": ["Relating to aleurone."]}
+{"w": "aleutian", "pos": "adjective", "d": ["Relating to the Aleutian Islands or the Aleut people."]}
+{"w": "aleutic", "pos": "adjective", "d": ["Relating to the Aleuts or their language."]}
+{"w": "alevin", "pos": "noun", "d": ["A young fish, especially a newly hatched salmon."]}
+{"w": "alew", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alexanders", "pos": "noun", "d": ["A plant with yellow flowers, once eaten as a vegetable."]}
+{"w": "alexandrian", "pos": "adjective", "d": ["Relating to Alexandria in Egypt."]}
+{"w": "alexandrine", "pos": "noun", "d": ["A line of verse with twelve syllables."]}
+{"w": "alexia", "pos": "noun", "d": ["Loss of the ability to read, caused by brain injury."]}
+{"w": "alexipharmac", "pos": "noun", "d": ["An antidote to poison."]}
+{"w": "alexipharmic", "pos": "adjective", "d": ["Acting as an antidote to poison."]}
+{"w": "alexipyretic", "pos": "adjective", "d": ["Reducing fever."]}
+{"w": "alexiteric", "pos": "adjective", "d": ["Warding off poison or infection."]}
+{"w": "alfa", "pos": "noun", "d": ["Esparto grass, used for making paper and cordage."]}
+{"w": "alfa grass", "pos": "phrase", "d": ["Esparto grass, used for making paper and cordage."]}
+{"w": "alfalfa", "pos": "noun", "d": ["A clover-like plant grown as fodder for livestock."]}
+{"w": "alfenide", "pos": "noun", "d": ["A nickel-silver alloy plated on a base metal, used for cutlery."]}
+{"w": "alferes", "pos": "noun", "d": ["A junior officer or ensign in Spanish and Portuguese armies."]}
+{"w": "alfet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alfilaria", "pos": "noun", "d": ["A plant with feathery leaves, grown as forage for livestock."]}
+{"w": "alfileria", "pos": "noun", "d": ["A variant spelling of alfilaria, a forage plant."]}
+{"w": "alfilerilla", "pos": "noun", "d": ["A variant spelling of alfilaria, a forage plant."]}
+{"w": "alfione", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alforja", "pos": "noun", "d": ["A saddlebag or knapsack used in Spain and Latin America."]}
+{"w": "alfresco", "pos": "adverb", "d": ["In the open air; outdoors."]}
+{"w":"alga","pos":"noun","d":["A simple water-dwelling organism that makes its food by photosynthesis, often seen as green scum on ponds or as seaweed.","The singular form of algae."]}
+{"w":"algal","pos":"adjective","d":["Relating to or produced by algae."]}
+{"w":"algaroba","pos":"noun","d":["A tropical American tree of the bean family that bears long sweet pods.","The sweet pods of this tree, used as feed for livestock."]}
+{"w":"algaroth","pos":"noun","d":["An old medicinal powder made from a compound of antimony, once used as a strong purge."]}
+{"w":"algarovilla","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"algate","pos":"adverb","d":["Always; at all times."]}
+{"w":"algazel","pos":"noun","d":["A slender, swift gazelle of northern Africa."]}
+{"w":"algerian","pos":"adjective","d":["Of or relating to Algeria or its people."]}
+{"w":"algerine","pos":"noun","d":["A native of Algiers or Algeria.","In former times, an Algerian pirate."]}
+{"w":"algid","pos":"adjective","d":["Cold; chilly; marked by coldness."]}
+{"w":"algific","pos":"adjective","d":["Producing cold; chilling."]}
+{"w":"algin","pos":"noun","d":["A jelly-like substance taken from certain seaweeds, used to thicken foods and other products."]}
+{"w":"algoid","pos":"adjective","d":["Resembling algae in form or character."]}
+{"w":"algol","pos":"noun","d":["A star in the constellation Perseus that regularly grows dimmer and brighter, sometimes called the Demon Star.","A family of early programming languages used for scientific computing."]}
+{"w":"algological","pos":"adjective","d":["Relating to algology, the scientific study of algae."]}
+{"w":"algologist","pos":"noun","d":["A scientist who studies algae."]}
+{"w":"algology","pos":"noun","d":["The branch of botany that studies algae."]}
+{"w":"algometer","pos":"noun","d":["An instrument that measures how sharply pressure is felt as pain."]}
+{"w":"algonkian","pos":"adjective","d":["Relating to the Algonkian peoples or languages of North America."]}
+{"w":"algonkin","pos":"noun","d":["A member of a North American Indian people of the Algonquian group.","The language spoken by these people."]}
+{"w":"algonquian","pos":"adjective","d":["Of or belonging to a large family of North American Indian languages."]}
+{"w":"algonquin","pos":"noun","d":["A member of an Algonquian people living near the Ottawa River.","The dialect spoken by these people."]}
+{"w":"algor","pos":"noun","d":["Coldness; a chill."]}
+{"w":"algous","pos":"adjective","d":["Abounding in or producing algae."]}
+{"w":"alguazil","pos":"noun","d":["A minor officer of the law in Spain; a constable."]}
+{"w":"algum","pos":"noun","d":["A tree named in the Bible, valued for its fragrant wood."]}
+{"w":"alhambra","pos":"noun","d":["A famous Moorish palace and fortress in Granada, Spain."]}
+{"w":"alhambresque","pos":"adjective","d":["In the architectural and decorative style of the Alhambra."]}
+{"w":"alhenna","pos":"noun","d":["The henna plant, from whose leaves a reddish dye is made."]}
+{"w":"alibi","pos":"noun","d":["Proof that a person accused of a crime was somewhere else when the crime was committed."]}
+{"w":"alibility","pos":"noun","d":["The quality of being nourishing; power to sustain life as food."]}
+{"w":"alible","pos":"adjective","d":["Nourishing; fit to be eaten as food."]}
+{"w":"alicant","pos":"noun","d":["A dark, full-bodied wine from the Alicante region of Spain."]}
+{"w":"alidade","pos":"noun","d":["A straight ruler with sights at each end, used in surveying to mark lines of sight."]}
+{"w":"alienator","pos":"noun","d":["A person who transfers property or ownership to another.","A person who causes estrangement between others."]}
+{"w":"aliene","pos":"noun","d":["A person to whom property is transferred; the receiver of a grant."]}
+{"w":"alienee","pos":"noun","d":["One to whom property is transferred by another."]}
+{"w":"alienor","pos":"noun","d":["A person who transfers property to another."]}
+{"w":"aliethmoid","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"alife","pos":"adjective","d":["On one's life; dear, as in a phrase of strong feeling."]}
+{"w":"aliferous","pos":"adjective","d":["Bearing wings; winged."]}
+{"w":"aliform","pos":"adjective","d":["Shaped like a wing."]}
+{"w":"aligerous","pos":"adjective","d":["Having wings; wing-bearing."]}
+{"w":"alight","pos":"verb","d":["To get down from a horse, vehicle, or other conveyance.","To land or settle after flying.","To set on fire; to kindle."]}
+{"w":"alike-minded","pos":"adjective","d":["Having the same opinions, tastes, or purposes."]}
+{"w":"alilonghi","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"aliment","pos":"noun","d":["Food; nourishment that supports life and growth."]}
+{"w":"alimentariness","pos":"noun","d":["The quality of serving as food; nourishing power."]}
+{"w":"alimentiveness","pos":"noun","d":["An inclination toward eating and drinking; a strong appetite."]}
+{"w":"alimony","pos":"noun","d":["Money that a court orders one former spouse to pay the other after divorce or separation."]}
+{"w":"alinasal","pos":"adjective","d":["Relating to the wings, or sides, of the nose."]}
+{"w":"aline","pos":"verb","d":["To bring into line; to align."]}
+{"w":"alineeation","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"alioth","pos":"noun","d":["A bright star in the handle of the Big Dipper."]}
+{"w":"aliped","pos":"adjective","d":["Having wings on the feet; wing-footed."]}
+{"w":"aliphatic","pos":"adjective","d":["Relating to organic compounds whose carbon atoms form open chains rather than rings, such as fats and oils."]}
+{"w":"aliquant","pos":"adjective","d":["Forming a part that does not divide a whole number evenly, as 5 is aliquant to 16."]}
+{"w":"aliquot","pos":"adjective","d":["Forming a part that divides a whole number evenly, as 4 is aliquot to 16.","A small portion drawn off a larger sample for testing."]}
+{"w":"alisanders","pos":"noun","d":["A European herb once grown as a vegetable; alexanders."]}
+{"w":"aliseptal","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"alish","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"alisphenoid","pos":"adjective","d":["Relating to a wing-shaped bone at the base of the skull."]}
+{"w":"alitrunk","pos":"noun","d":["The middle section of an insect's body, which bears the wings and legs."]}
+{"w":"aliturgical","pos":"adjective","d":["Not appointed for public worship; applied to days on which no liturgy is celebrated."]}
+{"w":"aliunde","pos":"adverb","d":["From another place or source; from outside."]}
+{"w":"alizari","pos":"noun","d":["The root of the madder plant, formerly used to make a red dye."]}
+{"w":"alizarin","pos":"noun","d":["A red dye first obtained from madder root and now made artificially."]}
+{"w":"alkahest","pos":"noun","d":["The imaginary universal solvent once sought by the alchemists."]}
+{"w":"alkalamide","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"alkalescence","pos":"noun","d":["The quality of tending toward alkalinity."]}
+{"w":"alkalescency","pos":"noun","d":["Tendency to become alkaline."]}
+{"w":"alkalescent","pos":"adjective","d":["Tending to become alkaline."]}
+{"w":"alkali","pos":"noun","d":["Any of a class of substances that neutralize acids and form soap with fats, such as potash and soda."]}
+{"w":"alkali flat","pos":"phrase","d":["A flat, barren stretch of land crusted with alkaline salts."]}
+{"w":"alkali soil","pos":"phrase","d":["Soil containing a harmful amount of alkaline salts."]}
+{"w":"alkali waste","pos":"phrase","d":["The refuse left over after making alkali in chemical works."]}
+{"w":"alkalifiable","pos":"adjective","d":["Capable of being made alkaline."]}
+{"w":"alkalify","pos":"verb","d":["To make alkaline."]}
+{"w":"alkalimetry","pos":"noun","d":["The measurement of the strength of alkaline substances."]}
+{"w":"alkaline","pos":"adjective","d":["Having the properties of an alkali; neutralizing acids.","Basic in chemical character rather than acidic."]}
+{"w":"alkalinity","pos":"noun","d":["The quality or degree of being alkaline."]}
+{"w":"alkalizate","pos":"noun","d":["A substance that has been made alkaline."]}
+{"w":"alkalization","pos":"noun","d":["The act or process of making alkaline."]}
+{"w":"alkalize","pos":"verb","d":["To make alkaline; to mix with an alkali."]}
+{"w":"alkaloid","pos":"noun","d":["Any of a group of bitter, nitrogen-containing compounds found in plants, such as morphine and caffeine."]}
+{"w":"alkanet","pos":"noun","d":["A plant of the borage family whose root yields a red dye; also, the dye itself."]}
+{"w":"alkargen","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"alkarsin","pos":"noun","d":["An old name for cacodyl, a poisonous compound of arsenic and carbon."]}
+{"w":"alkazar","pos":"noun","d":["A fortress or palace in Spain, built in the Moorish style."]}
+{"w":"alkekengi","pos":"noun","d":["A plant bearing orange-red berries enclosed in a papery husk; the winter cherry."]}
+{"w":"alkermes","pos":"noun","d":["A red Italian liqueur flavored with spices.","A red dye made from the bodies of the kermes insect."]}
+{"w":"alkoran","pos":"noun","d":["The sacred book of Islam; the Koran."]}
+{"w":"all fours","pos":"phrase","d":["On hands and knees; on all four limbs.","A card game in which four separate points may be scored."]}
+{"w":"all hail","pos":"phrase","d":["A greeting expressing honor or welcome."]}
+{"w":"all-a-mort","pos":"adjective","d":["Dejected; spiritless; downcast."]}
+{"w":"all-hail","pos":"phrase","d":["A shout of welcome or honor given to someone."]}
+{"w":"all-possessed","pos":"adjective","d":["Completely possessed or controlled."]}
+{"w":"alla breve","pos":"phrase","d":["In music, a time signature of two half notes to the measure, played quickly."]}
+{"w":"allanite","pos":"noun","d":["A black or brown mineral containing cerium and other rare-earth elements."]}
+{"w":"allantoic","pos":"adjective","d":["Relating to the allantois, a membrane of the embryo."]}
+{"w":"allantoid","pos":"adjective","d":["Shaped like a sausage."]}
+{"w":"allantoidea","pos":"noun","d":["The group of vertebrate animals that develop an allantois in the embryo."]}
+{"w":"allantoin","pos":"noun","d":["A crystalline substance formed from uric acid, found in plants and animal tissues."]}
+{"w":"allantois","pos":"noun","d":["A membranous sac in the embryo of birds, reptiles, and mammals, serving in breathing and waste storage."]}
+{"w":"allatrate","pos":"verb","d":["To bark at; to assail with barking."]}
+{"w":"allay","pos":"verb","d":["To calm or quiet; to relieve, as fears or pain."]}
+{"w":"allecret","pos":"noun","d":["A light kind of armor worn in the sixteenth century."]}
+{"w":"allect","pos":"verb","d":["To entice; to attract."]}
+{"w":"allegation","pos":"noun","d":["An assertion made without proof; a claim put forward in a legal case."]}
+{"w":"allege","pos":"verb","d":["To assert as true without proof; to declare in a formal statement."]}
+{"w":"allegge","pos":"verb","d":["To lighten; to alleviate."]}
+{"w":"alleghanian","pos":"adjective","d":["Of or relating to the Alleghany Mountains or region."]}
+{"w":"alleghany","pos":"noun","d":["A variant spelling of Allegheny."]}
+{"w":"alleghenian","pos":"adjective","d":["Of or relating to the Allegheny Mountains."]}
+{"w":"allegheny","pos":"noun","d":["A mountain range and river system in the eastern United States."]}
+{"w":"allegiance","pos":"noun","d":["Loyalty or obedience owed to a sovereign, government, or cause."]}
+{"w":"allegiant","pos":"adjective","d":["Loyal; faithful to a sovereign or cause."]}
+{"w":"allegoric","pos":"adjective","d":["Relating to or containing allegory."]}
+{"w":"allegorist","pos":"noun","d":["A person who writes or speaks in allegories."]}
+{"w":"allegorization","pos":"noun","d":["The act of making allegorical; interpretation as allegory."]}
+{"w":"allegorize","pos":"verb","d":["To make into an allegory; to interpret as allegory."]}
+{"w":"allegory","pos":"noun","d":["A story in which characters and events stand for abstract ideas or moral qualities."]}
+{"w":"allegresse","pos":"noun","d":["Joyfulness; in music, a brisk, lively movement."]}
+{"w":"allegretto","pos":"adjective","d":["In music, moderately fast; slower than allegro.","A passage played at this tempo."]}
+{"w":"allegro","pos":"adjective","d":["In music, fast and lively.","A passage played at this tempo."]}
+{"w":"allelomorph","pos":"noun","d":["One of a pair of alternative forms of a gene; an allele."]}
+{"w":"alleluia","pos":"interjection","d":["Praise to God; hallelujah."]}
+{"w":"alleluiah","pos":"interjection","d":["A variant spelling of alleluia."]}
+{"w":"allemande","pos":"noun","d":["A stately German dance of the baroque era; also, a piece of music written in that style."]}
+{"w":"allemannic","pos":"adjective","d":["Relating to the Alemanni, an ancient Germanic people."]}
+{"w":"allenarly","pos":"adverb","d":["Only; solely; exclusively."]}
+{"w":"alleviate","pos":"verb","d":["To make easier to bear; to relieve, as pain or suffering."]}
+{"w":"alleviation","pos":"noun","d":["The act of alleviating; relief from pain or burden."]}
+{"w":"alleviative","pos":"adjective","d":["Tending to alleviate; relieving."]}
+{"w":"alleviator","pos":"noun","d":["A person or thing that alleviates."]}
+{"w":"alleviatory","pos":"adjective","d":["Tending to relieve; alleviative."]}
+{"w":"alley","pos":"noun","d":["A narrow passageway between or behind buildings.","A long narrow lane for bowling."]}
+{"w":"allfours","pos":"noun","d":["The card game also called all fours."]}
+{"w":"allhallond","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"allhallow eve","pos":"phrase","d":["The evening before All Saints' Day; Halloween."]}
+{"w":"allhallown","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"alliable","pos":"adjective","d":["Capable of being allied or joined."]}
+{"w":"alliaceous","pos":"adjective","d":["Relating to garlic or onions; having their smell or taste."]}
+{"w":"alliant","pos":"noun","d":["An ally; a confederate."]}
+{"w":"alliciency","pos":"noun","d":["The quality of attracting; attractiveness."]}
+{"w":"allicient","pos":"adjective","d":["Attracting; alluring.","That which attracts."]}
+{"w":"alligate","pos":"verb","d":["To tie or bind together."]}
+{"w":"alligation","pos":"noun","d":["A method of calculating the proportions of ingredients in a mixture."]}
+{"w":"alligator","pos":"noun","d":["A large crocodile-like reptile found in the southeastern United States and China."]}
+{"w":"alligator wrench","pos":"phrase","d":["A wrench with serrated jaws shaped like an alligator's mouth."]}
+{"w":"allignment","pos":"noun","d":["A variant spelling of alignment."]}
+{"w":"allineate","pos":"verb","d":["To bring into line; to align."]}
+{"w":"allineation","pos":"noun","d":["The act of bringing into line; alignment."]}
+{"w":"allis","pos":"noun","d":["A European shad, a fish of the herring family."]}
+{"w":"alliteral","pos":"adjective","d":["Using or marked by alliteration."]}
+{"w":"alliterator","pos":"noun","d":["A person who uses alliteration."]}
+{"w":"allium","pos":"noun","d":["A genus of plants including the onion, garlic, leek, and chive."]}
+{"w":"allocate","pos":"verb","d":["To set apart or assign for a particular purpose."]}
+{"w":"allocatur","pos":"noun","d":["In law, an allowance or order allowing costs or fees."]}
+{"w":"allochroic","pos":"adjective","d":["Changing color, as some minerals do."]}
+{"w":"allochroite","pos":"noun","d":["A variety of garnet that changes color."]}
+{"w":"allochroous","pos":"adjective","d":["Changing color; allochroic."]}
+{"w":"allocution","pos":"noun","d":["A formal speech or address, especially one made by a judge or a pope."]}
+{"w":"allod","pos":"noun","d":["Land held in absolute ownership, free of feudal duties."]}
+{"w":"allodiary","pos":"noun","d":["One who holds land in absolute ownership."]}
+{"w":"allogamous","pos":"adjective","d":["Fertilized by pollen from a different flower; cross-pollinated."]}
+{"w":"allogamy","pos":"noun","d":["The fertilization of a flower by pollen from another flower."]}
+{"w":"allogeneous","pos":"adjective","d":["Formed in a different place from where it is found, as minerals in a rock."]}
+{"w":"allograph","pos":"noun","d":["Any of the variant written forms of a single letter or character."]}
+{"w":"allomerism","pos":"noun","d":["Variation in chemical composition without change of crystalline form."]}
+{"w":"allomerous","pos":"adjective","d":["Relating to allomerism."]}
+{"w":"allomorph","pos":"noun","d":["Any of the variant forms of a morpheme, as the different plurals in cats and oxen.","A substance having the same composition as another but a different crystal form."]}
+{"w":"allonge","pos":"noun","d":["A slip of paper attached to a bill of exchange to hold endorsements.","In fencing, a thrust or pass made in advancing."]}
+{"w":"allonym","pos":"noun","d":["A false name used by an author; also, a work published under someone else's name."]}
+{"w":"alloo","pos":"interjection","d":["A shout used to urge hunting dogs forward."]}
+{"w":"allopath","pos":"noun","d":["A practitioner of allopathy, or regular medicine."]}
+{"w":"allopathy","pos":"noun","d":["The system of treating disease with remedies that produce effects unlike the disease itself; conventional medicine."]}
+{"w":"allophylian","pos":"adjective","d":["Belonging to another tribe or race."]}
+{"w":"allophylic","pos":"adjective","d":["Of another tribe or race."]}
+{"w":"alloquy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"allot","pos":"verb","d":["To distribute by lot or in shares; to assign."]}
+{"w":"allotheism","pos":"noun","d":["The worship of gods other than one's own; idolatry."]}
+{"w":"allotriophagy","pos":"noun","d":["A depraved appetite that craves unnatural foods, such as chalk or clay."]}
+{"w":"allotrophic","pos":"adjective","d":["Relating to a change in the mode of nutrition."]}
+{"w":"allotropic","pos":"adjective","d":["Relating to allotropy; existing in different forms, as carbon does in diamond and graphite."]}
+{"w":"allotropism","pos":"noun","d":["The property of an element existing in two or more different forms."]}
+{"w":"allotropize","pos":"verb","d":["To change from one allotropic form to another."]}
+{"w":"allottery","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"allowedly","pos":"adverb","d":["By allowance or permission."]}
+{"w":"alloxan","pos":"noun","d":["A crystalline compound obtained by the oxidation of uric acid."]}
+{"w":"alloy steel","pos":"phrase","d":["Steel mixed with other metals, such as chromium or nickel, to give it special properties."]}
+{"w":"allude","pos":"verb","d":["To refer to something indirectly or in passing."]}
+{"w":"allumette","pos":"noun","d":["A match for lighting a fire."]}
+{"w":"alluminor","pos":"noun","d":["One who decorates manuscripts with colored letters and designs."]}
+{"w":"allurance","pos":"noun","d":["The quality of alluring; attraction."]}
+{"w":"allusion","pos":"noun","d":["An indirect or passing reference to something."]}
+{"w":"allusive","pos":"adjective","d":["Containing or marked by indirect references."]}
+{"w":"allusory","pos":"adjective","d":["Containing allusions; allusive."]}
+{"w":"alluvial","pos":"adjective","d":["Deposited by running water, as soil in river valleys."]}
+{"w":"alluvion","pos":"noun","d":["A deposit of earth or sand left by flowing water.","Land gained from the sea or a river by such deposits."]}
+{"w": "alluvious", "pos": "adjective", "d": ["Relating to the sediment left behind by flowing water."]}
+{"w": "alluvium", "pos": "noun", "d": ["The sand, silt, and gravel deposited by rivers and floods."]}
+{"w": "ally", "pos": "noun", "d": ["A person, group, or nation that joins with another for a shared cause.", "A friend or supporter in a struggle."]}
+{"w": "allyl", "pos": "noun", "d": ["A chemical group of three carbon atoms found in compounds like garlic oil and mustard oil."]}
+{"w": "alma", "pos": "noun", "d": ["A Latin word meaning soul, used in phrases such as alma mater."]}
+{"w": "alma mater", "pos": "phrase", "d": ["The school, college, or university from which a person graduated."]}
+{"w": "almadia", "pos": "noun", "d": ["A large dugout canoe used on African rivers."]}
+{"w": "almagra", "pos": "noun", "d": ["A deep red earthy pigment made from iron-rich clay."]}
+{"w": "almah", "pos": "noun", "d": ["An Egyptian dancing girl who also sings and recites poetry."]}
+{"w": "almain", "pos": "noun", "d": ["A stately old dance of German origin.", "An old name for a German."]}
+{"w": "alman", "pos": "noun", "d": ["An old variant spelling of almain, meaning a German."]}
+{"w": "almanac", "pos": "noun", "d": ["A book published yearly with calendars, weather forecasts, and useful facts."]}
+{"w": "almayne", "pos": "noun", "d": ["An old spelling of almain, either the dance or a German."]}
+{"w": "alme", "pos": "noun", "d": ["A variant spelling of almeh, an Egyptian dancing girl."]}
+{"w": "almeh", "pos": "noun", "d": ["An Egyptian dancing girl who sings and recites poetry at entertainments."]}
+{"w": "almendron", "pos": "noun", "d": ["A tropical tree that bears almond-like nuts."]}
+{"w": "almery", "pos": "noun", "d": ["A cupboard or pantry where food is stored."]}
+{"w": "almesse", "pos": "noun", "d": ["An old spelling of alms, charitable gifts to the poor."]}
+{"w": "almightful", "pos": "adjective", "d": ["Having almighty power; all-powerful."]}
+{"w": "almightiful", "pos": "adjective", "d": ["An old variant of almightful, meaning all-powerful."]}
+{"w": "almightily", "pos": "adverb", "d": ["With almighty or all-surpassing power."]}
+{"w": "almightiness", "pos": "noun", "d": ["The quality of having unlimited power."]}
+{"w": "almighty", "pos": "adjective", "d": ["Having complete and unlimited power.", "Enormous or overwhelming in degree."]}
+{"w": "almner", "pos": "noun", "d": ["An old spelling of almoner, an official who gives out charity."]}
+{"w": "almond", "pos": "noun", "d": ["The edible kernel of the fruit of the almond tree, eaten as a nut.", "The tree that bears almonds."]}
+{"w": "almond furnace", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "almondine", "pos": "noun", "d": ["A deep red variety of garnet used as a gemstone."]}
+{"w": "almoner", "pos": "noun", "d": ["An official in charge of distributing charity or alms."]}
+{"w": "almonry", "pos": "noun", "d": ["The office or room where alms are given out."]}
+{"w": "almose", "pos": "noun", "d": ["An old spelling of alms."]}
+{"w": "almry", "pos": "noun", "d": ["An old variant of almery, a food cupboard."]}
+{"w": "alms", "pos": "noun", "d": ["Money or goods given in charity to the poor."]}
+{"w": "almucantar", "pos": "noun", "d": ["A circle on the celestial sphere parallel to the horizon."]}
+{"w": "almuce", "pos": "noun", "d": ["A furred hood or cape worn by clergy in choir."]}
+{"w": "almude", "pos": "noun", "d": ["A Portuguese measure for liquids."]}
+{"w": "almug", "pos": "noun", "d": ["A fragrant wood mentioned in the Bible, prized for its scent."]}
+{"w": "alnage", "pos": "noun", "d": ["The official measuring and inspection of woolen cloth, once required in England."]}
+{"w": "aloe", "pos": "noun", "d": ["A succulent plant whose thick leaves yield a soothing juice used on skin.", "The bitter drug prepared from aloe juice, once used as a medicine."]}
+{"w": "aloes wood", "pos": "phrase", "d": ["The fragrant resinous wood of a tropical Asian tree, burned as incense."]}
+{"w": "aloft", "pos": "adverb", "d": ["High up in the air.", "On or among the upper masts and rigging of a ship."]}
+{"w": "alogian", "pos": "noun", "d": ["A member of an early Christian group that rejected the Gospel of John."]}
+{"w": "alogy", "pos": "noun", "d": ["A poverty of speech seen in some mental disorders."]}
+{"w": "aloin", "pos": "noun", "d": ["The bitter crystalline substance obtained from aloe."]}
+{"w": "alomancy", "pos": "noun", "d": ["Fortune-telling by means of salt."]}
+{"w": "alongst", "pos": "preposition", "d": ["A Scots and poetic form of along."]}
+{"w": "aloof", "pos": "adjective", "d": ["Distant and reserved, not joining in with others."]}
+{"w": "alopecia", "pos": "noun", "d": ["Loss of hair, especially from the scalp."]}
+{"w": "alopecist", "pos": "noun", "d": ["A person who treats baldness and hair loss."]}
+{"w": "alopecy", "pos": "noun", "d": ["An old word for baldness."]}
+{"w": "alose", "pos": "noun", "d": ["A fish of the herring family, the shad."]}
+{"w": "alouatte", "pos": "noun", "d": ["The skylark, a small bird known for its song in flight."]}
+{"w": "aloud", "pos": "adverb", "d": ["In a voice loud enough to be heard."]}
+{"w": "alow", "pos": "adverb", "d": ["Below; in the lower part of a ship or structure."]}
+{"w": "alp", "pos": "noun", "d": ["A high mountain.", "A high pasture among the Alps."]}
+{"w": "alpaca", "pos": "noun", "d": ["A South American animal related to the llama, valued for its soft wool.", "The soft wool of the alpaca, or cloth made from it."]}
+{"w": "alpestrine", "pos": "adjective", "d": ["Growing on mountains just below the true alpine zone."]}
+{"w": "alpha paper", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alpha rays", "pos": "phrase", "d": ["Streams of alpha particles given off by radioactive substances."]}
+{"w": "alphonsine", "pos": "adjective", "d": ["Relating to King Alphonso the Tenth of Castile, especially his astronomical tables."]}
+{"w": "alpia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alpigene", "pos": "noun", "d": ["A plant native to the Alps."]}
+{"w": "alpinist", "pos": "noun", "d": ["A skilled mountain climber."]}
+{"w": "alquifou", "pos": "noun", "d": ["A lead ore used by potters to make a glaze."]}
+{"w": "als", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "alsatian", "pos": "noun", "d": ["A native or inhabitant of Alsace.", "A German shepherd dog."]}
+{"w": "alsike", "pos": "noun", "d": ["A kind of clover with pinkish flowers, grown for hay."]}
+{"w": "altaian", "pos": "adjective", "d": ["Relating to the Altai Mountains of central Asia."]}
+{"w": "altaic", "pos": "adjective", "d": ["Relating to a proposed family of languages including Turkish, Mongolian, and Manchu."]}
+{"w": "altar", "pos": "noun", "d": ["A table or raised block used in religious worship for offerings or rites."]}
+{"w": "altercative", "pos": "adjective", "d": ["Fond of arguing; quarrelsome."]}
+{"w": "alternacy", "pos": "noun", "d": ["The act of taking turns; alternation."]}
+{"w": "alternating current", "pos": "phrase", "d": ["Electric current that repeatedly reverses its direction of flow."]}
+{"w": "alternator", "pos": "noun", "d": ["A machine that generates alternating electric current."]}
+{"w": "althaea", "pos": "noun", "d": ["A genus of plants including the marshmallow and the hollyhock."]}
+{"w": "althea", "pos": "noun", "d": ["A shrub of the mallow family with showy flowers, the rose of Sharon."]}
+{"w": "altheine", "pos": "noun", "d": ["A crystalline substance obtained from marshmallow root."]}
+{"w": "althing", "pos": "noun", "d": ["The parliament of Iceland."]}
+{"w": "altho", "pos": "conjunction", "d": ["An informal shortened spelling of although."]}
+{"w": "altiloquence", "pos": "noun", "d": ["Lofty or pompous speech."]}
+{"w": "altiloquent", "pos": "adjective", "d": ["Speaking in a lofty or pompous manner."]}
+{"w": "altimeter", "pos": "noun", "d": ["An instrument that measures altitude, especially in an aircraft."]}
+{"w": "altimetry", "pos": "noun", "d": ["The science or practice of measuring altitudes."]}
+{"w": "altincar", "pos": "noun", "d": ["An old name for crude borax."]}
+{"w": "altiscope", "pos": "noun", "d": ["An instrument for seeing over an obstacle, working like a periscope."]}
+{"w": "altisonant", "pos": "adjective", "d": ["High-sounding; pompous in speech or writing."]}
+{"w": "altisonous", "pos": "adjective", "d": ["High-sounding and pompous in language."]}
+{"w": "altissimo", "pos": "adjective", "d": ["In music, played or sung in the very highest register."]}
+{"w": "altitude", "pos": "noun", "d": ["The height of a place or object above a reference level, usually sea level."]}
+{"w": "altitudinal", "pos": "adjective", "d": ["Relating to altitude or differences in altitude."]}
+{"w": "altitudinarian", "pos": "noun", "d": ["A climber of very high mountains."]}
+{"w": "altivolant", "pos": "adjective", "d": ["Flying high."]}
+{"w": "alto-cumulus", "pos": "noun", "d": ["A mid-level cloud forming white or gray patches and rounded masses."]}
+{"w": "alto-relievo", "pos": "noun", "d": ["Sculpture in high relief, with figures projecting strongly from the background."]}
+{"w": "alto-rilievo", "pos": "noun", "d": ["An Italian spelling of alto-relievo, sculpture in high relief."]}
+{"w": "alto-stratus", "pos": "noun", "d": ["A broad gray or bluish sheet of cloud at middle altitude."]}
+{"w": "altogether", "pos": "adverb", "d": ["Completely; entirely.", "On the whole; all things considered."]}
+{"w": "altrical", "pos": "adjective", "d": ["Hatched helpless and needing care from the parents, as songbird chicks."]}
+{"w": "altrices", "pos": "noun", "d": ["Female nourishers or nurses, in old use."]}
+{"w": "altruism", "pos": "noun", "d": ["Selfless concern for the welfare of others."]}
+{"w": "altruist", "pos": "noun", "d": ["A person who acts out of selfless concern for others."]}
+{"w": "aludel", "pos": "noun", "d": ["A pear-shaped vessel once used by alchemists for sublimation."]}
+{"w": "alula", "pos": "noun", "d": ["The small tuft of feathers on the leading edge of a bird's wing."]}
+{"w": "alular", "pos": "adjective", "d": ["Relating to the alula of a bird's wing."]}
+{"w": "alum", "pos": "noun", "d": ["A crystalline salt of aluminum used in dyeing, tanning, and medicine."]}
+{"w": "alum root", "pos": "phrase", "d": ["A North American plant whose astringent root was used in medicine."]}
+{"w": "alum schist", "pos": "phrase", "d": ["A dark slate-like rock from which alum can be made."]}
+{"w": "alum shale", "pos": "phrase", "d": ["A shale rock containing minerals that yield alum."]}
+{"w": "alum stone", "pos": "phrase", "d": ["A mineral, alunite, from which alum is obtained."]}
+{"w": "alumina", "pos": "noun", "d": ["Aluminum oxide, a compound used in ceramics and as an abrasive."]}
+{"w": "aluminate", "pos": "noun", "d": ["A salt formed from aluminum hydroxide and a base."]}
+{"w": "alumine", "pos": "noun", "d": ["An old name for alumina, aluminum oxide."]}
+{"w": "aluminic", "pos": "adjective", "d": ["Relating to alumina or aluminum."]}
+{"w": "aluminiferous", "pos": "adjective", "d": ["Containing alumina or aluminum."]}
+{"w": "aluminiform", "pos": "adjective", "d": ["Having the form or appearance of alum."]}
+{"w": "aluminize", "pos": "verb", "d": ["To coat or treat with aluminum."]}
+{"w": "aluminography", "pos": "noun", "d": ["Lithographic printing from aluminum plates."]}
+{"w": "aluminous", "pos": "adjective", "d": ["Containing alum or alumina."]}
+{"w": "alumna", "pos": "noun", "d": ["A woman who has graduated from a school or college."]}
+{"w": "alumnus", "pos": "noun", "d": ["A graduate of a school or college."]}
+{"w": "alunite", "pos": "noun", "d": ["A mineral from which alum and potash are obtained."]}
+{"w": "alunogen", "pos": "noun", "d": ["A hydrous sulfate of aluminum found as a mineral."]}
+{"w": "alure", "pos": "noun", "d": ["A walkway or passage along the top of a church wall."]}
+{"w": "alutaceous", "pos": "adjective", "d": ["Of a pale brown color like tanned leather."]}
+{"w": "alutation", "pos": "noun", "d": ["Tanning with alum, in old use."]}
+{"w": "alveary", "pos": "noun", "d": ["A beehive."]}
+{"w": "alveated", "pos": "adjective", "d": ["Vaulted or arched like a beehive."]}
+{"w": "alveolar", "pos": "adjective", "d": ["Relating to the sockets of the teeth.", "Pronounced with the tongue against the gum ridge, as t and d."]}
+{"w": "alveolary", "pos": "adjective", "d": ["A variant of alveolar, relating to the tooth sockets."]}
+{"w": "alveolate", "pos": "adjective", "d": ["Pitted like a honeycomb."]}
+{"w": "alveole", "pos": "noun", "d": ["A small cavity, such as a cell of a honeycomb or an air sac of the lung."]}
+{"w": "alveoliform", "pos": "adjective", "d": ["Shaped like a honeycomb cell."]}
+{"w": "alveolus", "pos": "noun", "d": ["A small cavity or socket, as of a tooth.", "A tiny air sac in the lung."]}
+{"w": "alveus", "pos": "noun", "d": ["The channel or bed of a river."]}
+{"w": "alvine", "pos": "adjective", "d": ["Relating to the belly or intestines."]}
+{"w": "alway", "pos": "adverb", "d": ["An archaic and poetic form of always."]}
+{"w": "alyssum", "pos": "noun", "d": ["A low-growing garden plant with clusters of small white or purple flowers."]}
+{"w": "amability", "pos": "noun", "d": ["The quality of being amiable; friendliness."]}
+{"w": "amacratic", "pos": "adjective", "d": ["Ruling jointly with another."]}
+{"w": "amadavat", "pos": "noun", "d": ["A small brightly colored songbird of India, the strawberry finch."]}
+{"w": "amadou", "pos": "noun", "d": ["A spongy substance from tree fungus, used as tinder for lighting fires."]}
+{"w": "amain", "pos": "adverb", "d": ["With full force; at full speed.", "Hastily; at once."]}
+{"w": "amalgam", "pos": "noun", "d": ["A mixture or blend of different things.", "An alloy of mercury with another metal, used in dentistry."]}
+{"w": "amalgama", "pos": "noun", "d": ["An old variant of amalgam."]}
+{"w": "amalgamative", "pos": "adjective", "d": ["Tending to merge or blend things together."]}
+{"w": "amandine", "pos": "noun", "d": ["An almond-flavored cream or paste used in cooking."]}
+{"w": "amanita", "pos": "noun", "d": ["A genus of mushrooms that includes several deadly poisonous species."]}
+{"w": "amanitine", "pos": "noun", "d": ["A poison found in certain amanita mushrooms."]}
+{"w": "amanuensis", "pos": "noun", "d": ["A person who writes down what another dictates; a secretary."]}
+{"w": "amaracus", "pos": "noun", "d": ["An old name for marjoram, a fragrant herb."]}
+{"w": "amarant", "pos": "noun", "d": ["An old spelling of amaranth."]}
+{"w": "amarantaceous", "pos": "adjective", "d": ["Belonging to the amaranth family of plants."]}
+{"w": "amaranth", "pos": "noun", "d": ["A plant with showy colorful foliage or flower heads, some kinds grown for grain.", "A reddish-purple color."]}
+{"w": "amaranthus", "pos": "noun", "d": ["The botanical genus to which amaranths belong."]}
+{"w": "amarantus", "pos": "noun", "d": ["A variant spelling of amaranthus."]}
+{"w": "amarine", "pos": "noun", "d": ["A crystalline substance obtained from oil of bitter almonds."]}
+{"w": "amaritude", "pos": "noun", "d": ["Bitterness, in old use."]}
+{"w": "amaryllidaceous", "pos": "adjective", "d": ["Belonging to the amaryllis family of bulbous plants."]}
+{"w": "amaryllideous", "pos": "adjective", "d": ["A variant of amaryllidaceous, of the amaryllis family."]}
+{"w": "amaryllis", "pos": "noun", "d": ["A bulbous plant with large trumpet-shaped flowers."]}
+{"w": "amass", "pos": "verb", "d": ["To gather or collect into a large quantity."]}
+{"w": "amasthenic", "pos": "adjective", "d": ["Bringing rays of light to a single focus, in old optical use."]}
+{"w": "amate", "pos": "verb", "d": ["To dismay or daunt, in old use."]}
+{"w": "amative", "pos": "adjective", "d": ["Inclined to love; affectionate."]}
+{"w": "amatorian", "pos": "adjective", "d": ["Relating to lovers or to love."]}
+{"w": "amatory", "pos": "adjective", "d": ["Relating to sexual love."]}
+{"w": "amaurosis", "pos": "noun", "d": ["Loss of sight without any visible injury to the eye."]}
+{"w": "amaurotic", "pos": "adjective", "d": ["Relating to or marked by amaurosis."]}
+{"w": "amaze", "pos": "verb", "d": ["To fill with great surprise or wonder."]}
+{"w": "amazedly", "pos": "adverb", "d": ["In an amazed manner."]}
+{"w": "amazedness", "pos": "noun", "d": ["The state of being amazed."]}
+{"w": "amazon stone", "pos": "phrase", "d": ["A green variety of feldspar used as a gemstone."]}
+{"w": "amazonian", "pos": "adjective", "d": ["Relating to the Amazon region or to the legendary Amazons.", "Tall, strong, and warlike, like the legendary Amazons."]}
+{"w": "amazonite", "pos": "noun", "d": ["A bright green feldspar used as a gemstone."]}
+{"w": "amb-", "pos": "prefix", "d": ["A form of ambi-, meaning both or around, used before vowels."]}
+{"w": "ambages", "pos": "noun", "d": ["Roundabout and indirect speech; circumlocution."]}
+{"w": "ambaginous", "pos": "adjective", "d": ["Indirect and roundabout in speech."]}
+{"w": "ambagious", "pos": "adjective", "d": ["Circuitous; not going straight to the point."]}
+{"w": "ambagitory", "pos": "adjective", "d": ["Using roundabout, evasive speech."]}
+{"w": "ambary", "pos": "noun", "d": ["A tropical plant of the hibiscus family grown for its strong fiber."]}
+{"w": "ambary hemp", "pos": "phrase", "d": ["The fiber obtained from the ambary plant, used for cordage."]}
+{"w": "ambassade", "pos": "noun", "d": ["An old spelling of embassy."]}
+{"w": "ambassadress", "pos": "noun", "d": ["A woman ambassador, or the wife of an ambassador."]}
+{"w": "ambassage", "pos": "noun", "d": ["An embassy or diplomatic mission, in old use."]}
+{"w": "ambassy", "pos": "noun", "d": ["An archaic spelling of embassy."]}
+{"w": "amber fish", "pos": "phrase", "d": ["A large sea fish of warm waters, the amberjack."]}
+{"w": "amber room", "pos": "phrase", "d": ["A famous chamber paneled in amber in a Russian palace."]}
+{"w": "amber seed", "pos": "phrase", "d": ["The fragrant seed of the musk mallow, used in perfumery."]}
+{"w": "amber tree", "pos": "phrase", "d": ["The sweet gum tree, which yields a fragrant resin."]}
+{"w": "ambes-as", "pos": "noun", "d": ["Double aces, the lowest throw at dice, in old use."]}
+{"w": "ambi-", "pos": "prefix", "d": ["A prefix meaning both, on both sides, or around."]}
+{"w": "ambidexter", "pos": "noun", "d": ["A person equally skilled with the right and left hands, in old use."]}
+{"w": "ambidextral", "pos": "adjective", "d": ["A variant of ambidextrous."]}
+{"w": "ambidextrous", "pos": "adjective", "d": ["Able to use the right and left hands with equal skill."]}
+{"w": "ambigenous", "pos": "adjective", "d": ["Of two kinds; partaking of two natures."]}
+{"w": "ambigu", "pos": "noun", "d": ["A meal at which many different dishes are served together."]}
+{"w": "ambilevous", "pos": "adjective", "d": ["Clumsy with both hands."]}
+{"w": "ambiloquy", "pos": "noun", "d": ["Speech with a double meaning; ambiguous talk."]}
+{"w": "ambiparous", "pos": "adjective", "d": ["Producing two kinds of buds, in botany."]}
+{"w": "ambit", "pos": "noun", "d": ["The scope, range, or boundary of something."]}
+{"w": "ambitious", "pos": "adjective", "d": ["Having a strong desire for success, power, or achievement."]}
+{"w": "ambitus", "pos": "noun", "d": ["In ancient Rome, the crime of winning votes by bribery or illegal canvassing.", "An open space between buildings."]}
+{"w": "amble", "pos": "verb", "d": ["To walk at a slow and relaxed pace."]}
+{"w": "amblingly", "pos": "adverb", "d": ["In a slow and relaxed walking manner."]}
+{"w": "amblotic", "pos": "adjective", "d": ["Tending to cause abortion."]}
+{"w": "amblygon", "pos": "noun", "d": ["A figure with one or more obtuse angles."]}
+{"w": "amblyopia", "pos": "noun", "d": ["Reduced vision in one eye that cannot be fully corrected with glasses, often called lazy eye."]}
+{"w": "amblyopic", "pos": "adjective", "d": ["Affected with amblyopia."]}
+{"w": "amblyopy", "pos": "noun", "d": ["An older variant of amblyopia."]}
+{"w": "amblypoda", "pos": "noun", "d": ["An extinct order of large hoofed mammals."]}
+{"w": "ambo", "pos": "noun", "d": ["A raised pulpit or reading desk in early Christian churches."]}
+{"w": "ambon", "pos": "noun", "d": ["A variant of ambo."]}
+{"w": "amboyna button", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "amboyna pine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "amboyna wood", "pos": "noun", "d": ["A richly figured decorative hardwood from Southeast Asia, used for fine furniture and inlay."]}
+{"w": "ambreate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ambreic", "pos": "adjective", "d": ["Of or relating to ambergris."]}
+{"w": "ambrein", "pos": "noun", "d": ["The chief waxy principle obtained from ambergris."]}
+{"w": "ambrite", "pos": "noun", "d": ["A fossil resin resembling amber."]}
+{"w": "ambrose", "pos": "noun", "d": ["A form of team golf in which every player plays each shot from the position of the best ball."]}
+{"w": "ambrosia", "pos": "noun", "d": ["In Greek mythology, the food of the gods.", "Anything exceptionally pleasing to taste or smell."]}
+{"w": "ambrosia beetle", "pos": "noun", "d": ["A small wood-boring beetle that grows fungus inside trees for food."]}
+{"w": "ambrosiac", "pos": "adjective", "d": ["Like ambrosia; delicious."]}
+{"w": "ambrosial", "pos": "adjective", "d": ["Delightfully sweet or fragrant, like ambrosia."]}
+{"w": "ambrosian", "pos": "adjective", "d": ["Of or relating to Saint Ambrose, or to Milan."]}
+{"w": "ambrosin", "pos": "noun", "d": ["A bitter crystalline substance obtained from ragweed."]}
+{"w": "ambrotype", "pos": "noun", "d": ["An early photograph made on glass that looks like a positive when backed with dark material."]}
+{"w": "ambry", "pos": "noun", "d": ["A recessed cupboard in a church wall for holding sacred vessels.", "A pantry or cupboard."]}
+{"w": "ambs-ace", "pos": "noun", "d": ["In dice, a throw of two aces, the lowest possible cast.", "Bad luck."]}
+{"w": "ambulacral", "pos": "adjective", "d": ["Relating to the ambulacra, the rows of tube feet in echinoderms."]}
+{"w": "ambulacriform", "pos": "adjective", "d": ["Shaped like an ambulacrum."]}
+{"w": "ambulacrum", "pos": "noun", "d": ["In echinoderms such as starfish, one of the radial bands that bear the tube feet.", "A sheltered walk or avenue."]}
+{"w": "ambulance", "pos": "noun", "d": ["A vehicle fitted to carry sick or injured people to a hospital."]}
+{"w": "ambulant", "pos": "adjective", "d": ["Moving about from place to place; not confined to one spot.", "Able to walk."]}
+{"w": "ambulate", "pos": "verb", "d": ["To walk about from place to place."]}
+{"w": "ambulation", "pos": "noun", "d": ["The act of walking about."]}
+{"w": "ambulative", "pos": "adjective", "d": ["Relating to walking; fitted for walking."]}
+{"w": "ambulator", "pos": "noun", "d": ["One who walks about."]}
+{"w": "ambulatory", "pos": "adjective", "d": ["Able to walk about; not confined to bed.", "Relating to walking."]}
+{"w": "amburry", "pos": "noun", "d": ["A wartlike tumor on horses or cattle.", "A plant disease that causes swollen roots."]}
+{"w": "ambury", "pos": "noun", "d": ["A variant of amburry."]}
+{"w": "ambuscade", "pos": "noun", "d": ["A surprise attack from a hidden position; an ambush."]}
+{"w": "ambuscado", "pos": "noun", "d": ["A variant of ambuscade."]}
+{"w": "ambush", "pos": "noun", "d": ["A surprise attack made from concealment.", "The concealed position from which such an attack is made."]}
+{"w": "ambustion", "pos": "noun", "d": ["A burn or scald."]}
+{"w": "amebean", "pos": "adjective", "d": ["Alternately responsive, as in pastoral dialogue."]}
+{"w": "ameer", "pos": "noun", "d": ["A variant of emir, a Muslim ruler or commander."]}
+{"w": "amel", "pos": "noun", "d": ["In heraldry, enamel."]}
+{"w": "ameliorable", "pos": "adjective", "d": ["Capable of being made better."]}
+{"w": "ameliorate", "pos": "verb", "d": ["To make better; to improve."]}
+{"w": "amelioration", "pos": "noun", "d": ["The act of making better; improvement."]}
+{"w": "ameliorative", "pos": "adjective", "d": ["Tending to make better."]}
+{"w": "ameliorator", "pos": "noun", "d": ["One who makes things better."]}
+{"w": "amen", "pos": "interjection", "d": ["An expression of agreement or affirmation at the end of a prayer.", "So be it."]}
+{"w": "amendatory", "pos": "adjective", "d": ["Tending to amend; corrective."]}
+{"w": "amende", "pos": "noun", "d": ["A fine or payment made as reparation for a wrong."]}
+{"w": "amenorrhoea", "pos": "noun", "d": ["The absence or abnormal stoppage of menstruation."]}
+{"w": "amenorrhoeal", "pos": "adjective", "d": ["Relating to amenorrhoea."]}
+{"w": "ament", "pos": "noun", "d": ["A catkin, the slender drooping flower cluster of trees such as willows and birches."]}
+{"w": "amentaceous", "pos": "adjective", "d": ["Bearing catkins."]}
+{"w": "amentia", "pos": "noun", "d": ["Severe mental deficiency."]}
+{"w": "amentiferous", "pos": "adjective", "d": ["Bearing catkins."]}
+{"w": "amentiform", "pos": "adjective", "d": ["Shaped like a catkin."]}
+{"w": "amentum", "pos": "noun", "d": ["The Latin name for a catkin."]}
+{"w": "amerce", "pos": "verb", "d": ["To punish by imposing a fine."]}
+{"w": "amerciament", "pos": "noun", "d": ["A fine imposed as punishment."]}
+{"w": "american plan", "pos": "noun", "d": ["A hotel rate that includes meals as well as lodging."]}
+{"w": "american protective association", "pos": "noun", "d": ["A nativist secret society in the United States, active in the late nineteenth century and opposed to Catholic immigration."]}
+{"w": "americanization", "pos": "noun", "d": ["The act or process of making American in character or habits."]}
+{"w": "ames-ace", "pos": "noun", "d": ["A variant of ambs-ace."]}
+{"w": "amess", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ametabola", "pos": "noun", "d": ["A group of insects that undergo no metamorphosis, such as silverfish."]}
+{"w": "ametabolian", "pos": "adjective", "d": ["Belonging to the Ametabola."]}
+{"w": "ametabolic", "pos": "adjective", "d": ["Undergoing no metamorphosis."]}
+{"w": "ametabolous", "pos": "adjective", "d": ["Undergoing no metamorphosis."]}
+{"w": "amethodist", "pos": "noun", "d": ["A person who works without method or system."]}
+{"w": "amethyst", "pos": "noun", "d": ["A purple or violet variety of quartz used as a gemstone."]}
+{"w": "amethystine", "pos": "adjective", "d": ["Resembling amethyst in color."]}
+{"w": "ametropia", "pos": "noun", "d": ["A defect of the eye in which images are not focused correctly on the retina."]}
+{"w": "amharic", "pos": "noun", "d": ["The official language of Ethiopia."]}
+{"w": "amia", "pos": "noun", "d": ["A genus of freshwater fishes including the bowfin."]}
+{"w": "amiability", "pos": "noun", "d": ["The quality of being friendly and pleasant."]}
+{"w": "amiable", "pos": "adjective", "d": ["Friendly and pleasant in manner."]}
+{"w": "amiably", "pos": "adverb", "d": ["In a friendly and pleasant manner."]}
+{"w": "amianth", "pos": "noun", "d": ["A fine silky variety of asbestos."]}
+{"w": "amianthiform", "pos": "adjective", "d": ["Resembling amianth in form."]}
+{"w": "amianthoid", "pos": "adjective", "d": ["Resembling amianthus."]}
+{"w": "amianthus", "pos": "noun", "d": ["A fine fibrous variety of asbestos."]}
+{"w": "amic", "pos": "adjective", "d": ["Friendly."]}
+{"w": "amice", "pos": "noun", "d": ["A white linen cloth worn about the neck by a priest celebrating Mass.", "A hood or hooded cape."]}
+{"w": "amid", "pos": "preposition", "d": ["In the middle of; surrounded by."]}
+{"w": "amide", "pos": "noun", "d": ["A chemical compound formed from ammonia or an amine together with an acid."]}
+{"w": "amidin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "amido", "pos": "prefix", "d": ["A prefix denoting the presence of the NH2 group in a chemical compound."]}
+{"w": "amidogen", "pos": "noun", "d": ["The NH2 group, a compound radical of nitrogen and hydrogen."]}
+{"w": "amidol", "pos": "noun", "d": ["A chemical used as a developer in photography."]}
+{"w": "amidships", "pos": "adverb", "d": ["In or toward the middle part of a ship."]}
+{"w": "amidst", "pos": "preposition", "d": ["In the middle of; among."]}
+{"w": "amigo", "pos": "noun", "d": ["A friend; used as a form of address in Spanish-speaking contexts."]}
+{"w": "amine", "pos": "noun", "d": ["An organic compound derived from ammonia by replacing hydrogen atoms with carbon groups."]}
+{"w": "aminol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "amioid", "pos": "adjective", "d": ["Resembling the bowfin of the genus Amia."]}
+{"w": "amioidei", "pos": "noun", "d": ["A suborder of fishes including the bowfin and its fossil relatives."]}
+{"w": "amir", "pos": "noun", "d": ["A variant of emir."]}
+{"w": "amish", "pos": "noun", "d": ["A member of a conservative Christian sect known for plain living and limited use of modern technology."]}
+{"w": "amiss", "pos": "adjective", "d": ["Wrong or faulty; not as it should be."]}
+{"w": "amissibility", "pos": "noun", "d": ["The quality of being liable to be lost."]}
+{"w": "amit", "pos": "verb", "d": ["To lose or let slip."]}
+{"w": "amitosis", "pos": "noun", "d": ["Direct division of a cell without the formation of chromosomes."]}
+{"w": "amity", "pos": "noun", "d": ["Friendly relations between people or nations."]}
+{"w": "amma", "pos": "noun", "d": ["Mother, in several South Asian languages.", "A title of respect for a woman regarded as a spiritual mother."]}
+{"w": "ammeter", "pos": "noun", "d": ["An instrument for measuring electric current."]}
+{"w": "ammiral", "pos": "noun", "d": ["An obsolete variant of admiral."]}
+{"w": "ammite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ammodyte", "pos": "noun", "d": ["A genus of slender fishes, the sand eels."]}
+{"w": "ammonal", "pos": "noun", "d": ["A high explosive made from ammonium nitrate and aluminum powder."]}
+{"w": "ammonia", "pos": "noun", "d": ["A colorless pungent gas of nitrogen and hydrogen, widely used in cleaning products and fertilizers."]}
+{"w": "ammoniac", "pos": "noun", "d": ["A gum resin with a strong smell, obtained from certain plants."]}
+{"w": "ammoniacal fermentation", "pos": "noun", "d": ["The decomposition of urea and similar substances with the production of ammonia."]}
+{"w": "ammonic", "pos": "adjective", "d": ["Of, relating to, or containing ammonia or ammonium."]}
+{"w": "ammonite", "pos": "noun", "d": ["An extinct coiled marine mollusk with a chambered shell, found as a fossil."]}
+{"w": "ammonitiferous", "pos": "adjective", "d": ["Containing or bearing ammonites."]}
+{"w": "ammonitoidea", "pos": "noun", "d": ["A subclass of extinct cephalopods including the ammonites."]}
+{"w": "ammonium", "pos": "noun", "d": ["A compound ion of nitrogen and hydrogen, NH4, found in many salts."]}
+{"w": "ammunition", "pos": "noun", "d": ["Bullets, shells, and other projectiles fired from weapons."]}
+{"w": "amnesia", "pos": "noun", "d": ["Loss of memory."]}
+{"w": "amnesic", "pos": "adjective", "d": ["Affected by amnesia."]}
+{"w": "amnestic", "pos": "adjective", "d": ["Relating to amnesia."]}
+{"w": "amnesty", "pos": "noun", "d": ["A general pardon granted for offenses against a government."]}
+{"w": "amnicolist", "pos": "noun", "d": ["One who dwells near a river."]}
+{"w": "amnigenous", "pos": "adjective", "d": ["Born or produced in a river."]}
+{"w": "amnion", "pos": "noun", "d": ["The innermost membrane enclosing the embryo of reptiles, birds, and mammals."]}
+{"w": "amnios", "pos": "noun", "d": ["The plural of amnion."]}
+{"w": "amniota", "pos": "noun", "d": ["The group of vertebrates whose embryos develop within an amnion, including reptiles, birds, and mammals."]}
+{"w": "amniotic", "pos": "adjective", "d": ["Relating to the amnion."]}
+{"w": "amoeba", "pos": "noun", "d": ["A microscopic one-celled organism that moves and feeds by changing shape."]}
+{"w": "amoebaeum", "pos": "noun", "d": ["A poem in which two speakers answer one another in alternate verses."]}
+{"w": "amoebea", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "amoebean", "pos": "adjective", "d": ["Alternately responsive, as in dialogue."]}
+{"w": "amoebian", "pos": "adjective", "d": ["Resembling or relating to an amoeba."]}
+{"w": "amoebiform", "pos": "adjective", "d": ["Shaped like an amoeba."]}
+{"w": "amoeboid", "pos": "adjective", "d": ["Resembling an amoeba in shape or movement."]}
+{"w": "amoebous", "pos": "adjective", "d": ["Like an amoeba."]}
+{"w": "amole", "pos": "noun", "d": ["The root of certain Mexican plants, used as a substitute for soap."]}
+{"w": "amolition", "pos": "noun", "d": ["The act of removing."]}
+{"w": "amomum", "pos": "noun", "d": ["A genus of aromatic tropical plants related to cardamom."]}
+{"w": "amoneste", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "amontillado", "pos": "noun", "d": ["A pale dry sherry of Spain."]}
+{"w": "amoret", "pos": "noun", "d": ["A short love poem or love song."]}
+{"w": "amorette", "pos": "noun", "d": ["A little love affair.", "A variant of amoret."]}
+{"w": "amorist", "pos": "noun", "d": ["A lover, especially one who writes about love."]}
+{"w": "amorosa", "pos": "noun", "d": ["A female lover."]}
+{"w": "amorosity", "pos": "noun", "d": ["The state of being amorous."]}
+{"w": "amoroso", "pos": "noun", "d": ["A male lover.", "In music, a direction to play tenderly and lovingly."]}
+{"w": "amorous", "pos": "adjective", "d": ["Feeling or showing love, especially romantic love."]}
+{"w": "amorpha", "pos": "noun", "d": ["A genus of North American shrubs with indigo-like flowers, the false indigos."]}
+{"w": "amorphism", "pos": "noun", "d": ["The state of being without definite form."]}
+{"w": "amorphous", "pos": "adjective", "d": ["Without definite shape or form."]}
+{"w": "amorphozoa", "pos": "noun", "d": ["A group of simple animals without definite form, such as sponges."]}
+{"w": "amorphozoic", "pos": "adjective", "d": ["Relating to the Amorphozoa."]}
+{"w": "amorphy", "pos": "noun", "d": ["Lack of definite form; shapelessness."]}
+{"w": "amort", "pos": "adjective", "d": ["Spiritless; dejected."]}
+{"w": "amortisation", "pos": "noun", "d": ["The gradual paying off of a debt in installments."]}
+{"w": "amortization", "pos": "noun", "d": ["The gradual paying off of a debt in installments.", "The spreading of the cost of an asset over its useful life."]}
+{"w": "amorwe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "amotion", "pos": "noun", "d": ["The act of removing, especially from office."]}
+{"w": "amotus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "amour", "pos": "noun", "d": ["A love affair."]}
+{"w": "amour propre", "pos": "noun", "d": ["Self-love; proper pride in oneself."]}
+{"w": "amovability", "pos": "noun", "d": ["The quality of being movable or removable."]}
+{"w": "amove", "pos": "verb", "d": ["To move away; to remove."]}
+{"w": "ampelite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ampelopsis", "pos": "noun", "d": ["A genus of climbing vines including the Virginia creeper."]}
+{"w": "amperage", "pos": "noun", "d": ["The strength of an electric current measured in amperes."]}
+{"w": "ampere", "pos": "noun", "d": ["The unit of electric current."]}
+{"w": "ampere foot", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ampere hour", "pos": "noun", "d": ["A unit of electric charge equal to a current of one ampere flowing for one hour."]}
+{"w": "ampere minute", "pos": "noun", "d": ["A unit of electric charge equal to a current of one ampere flowing for one minute."]}
+{"w": "ampere second", "pos": "noun", "d": ["A unit of electric charge equal to a current of one ampere flowing for one second; the coulomb."]}
+{"w": "ampere turn", "pos": "noun", "d": ["A unit of magnetomotive force equal to a current of one ampere flowing in a single turn of wire."]}
+{"w": "amperometer", "pos": "noun", "d": ["An instrument for measuring electric current; an ammeter."]}
+{"w": "ampersand", "pos": "noun", "d": ["The character &, meaning 'and'."]}
+{"w": "amphi-", "pos": "prefix", "d": ["A prefix meaning 'both' or 'on both sides', as in amphibious."]}
+{"w": "amphiarthrodial", "pos": "adjective", "d": ["Relating to amphiarthrosis."]}
+{"w": "amphiarthrosis", "pos": "noun", "d": ["A joint allowing only slight movement, as between vertebrae."]}
+{"w": "amphiaster", "pos": "noun", "d": ["The double star-shaped figure formed in a cell during division."]}
+{"w": "amphibia", "pos": "noun", "d": ["The class of vertebrates including frogs, toads, and salamanders."]}
+{"w": "amphibial", "pos": "adjective", "d": ["Relating to amphibians."]}
+{"w": "amphibian", "pos": "noun", "d": ["A cold-blooded vertebrate that lives part of its life in water and part on land, such as a frog."]}
+{"w": "amphibiological", "pos": "adjective", "d": ["Relating to amphibiology."]}
+{"w": "amphibiology", "pos": "noun", "d": ["The branch of zoology dealing with amphibians."]}
+{"w": "amphibiotica", "pos": "noun", "d": ["A group of insects that live in water as larvae and in air as adults, such as dragonflies."]}
+{"w": "amphibious", "pos": "adjective", "d": ["Able to live or operate both on land and in water."]}
+{"w": "amphibium", "pos": "noun", "d": ["An amphibian.", "A genus of salamanders."]}
+{"w": "amphiblastic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "amphibole", "pos": "noun", "d": ["A group of dark rock-forming silicate minerals."]}
+{"w": "amphibolic", "pos": "adjective", "d": ["Relating to amphibole.", "Ambiguous in meaning."]}
+{"w": "amphibological", "pos": "adjective", "d": ["Ambiguous; capable of more than one meaning."]}
+{"w": "amphibology", "pos": "noun", "d": ["Ambiguity of language; a phrase capable of more than one meaning."]}
+{"w": "amphibolous", "pos": "adjective", "d": ["Ambiguous; of doubtful meaning."]}
+{"w": "amphiboly", "pos": "noun", "d": ["Ambiguity arising from uncertain grammatical construction."]}

@@ -4615,6 +4615,806 @@
 {"w": "yes", "pos": "interjection", "d": ["Used to give a positive answer or to show agreement.", "Used to express excitement or satisfaction."], "src": "iwb"}
 {"w": "your", "pos": "pronoun", "d": ["The possessive form of you, showing that something belongs to the person being spoken to."], "src": "iwb"}
 {"w": "zone", "pos": "noun", "d": ["An area set apart for a particular purpose or marked by a particular quality.", "One of the regions into which the earth is divided for measuring time."], "src": "iwb"}
+{"w": "-", "pos": "noun", "d": ["A short horizontal mark used to join parts of a word or to divide a word at the end of a line."], "src": "iwb"}
+{"w": "--", "pos": "noun", "d": ["Two hyphens typed together, often used as a stand-in for a dash or for a word left out."], "src": "iwb"}
+{"w": "------", "pos": "noun", "d": ["A row of hyphens used in old books to stand for a word that is omitted."], "src": "iwb"}
+{"w": "-able", "pos": "suffix", "d": ["A suffix meaning able to be, added to verbs to form adjectives such as readable."], "src": "iwb"}
+{"w": "-ably", "pos": "suffix", "d": ["A suffix that turns adjectives ending in -able into adverbs, as in readably."], "src": "iwb"}
+{"w": "-ana", "pos": "suffix", "d": ["A suffix denoting a collection of things connected with a person or subject, as in Americana."], "src": "iwb"}
+{"w": "-ance", "pos": "suffix", "d": ["A suffix that forms nouns naming an action, state, or quality, as in assistance."], "src": "iwb"}
+{"w": "-ancy", "pos": "suffix", "d": ["A suffix that forms nouns naming a state or quality, as in buoyancy."], "src": "iwb"}
+{"w": "-ant", "pos": "suffix", "d": ["A suffix that forms nouns naming a doer, as in assistant, and adjectives such as radiant."], "src": "iwb"}
+{"w": "-arch", "pos": "suffix", "d": ["A suffix meaning a ruler or chief, as in monarch."], "src": "iwb"}
+{"w": "-ard", "pos": "suffix", "d": ["A suffix forming nouns, often naming a person of a certain character, as in drunkard."], "src": "iwb"}
+{"w": "-art", "pos": "suffix", "d": ["A form of -ard, forming nouns naming a person of a given character, as in braggart."], "src": "iwb"}
+{"w": "-ate", "pos": "suffix", "d": ["A suffix forming verbs meaning to make or do, as in activate.", "A suffix forming nouns and adjectives, as in candidate and delicate."], "src": "iwb"}
+{"w": "-ation", "pos": "suffix", "d": ["A suffix that turns verbs into nouns naming the action or its result, as in creation."], "src": "iwb"}
+{"w": "-blast", "pos": "suffix", "d": ["A combining form meaning a young or growing cell, as in osteoblast."], "src": "iwb"}
+{"w": "-derm", "pos": "suffix", "d": ["A combining form meaning skin or a covering, as in epiderm."], "src": "iwb"}
+{"w": "-dom", "pos": "suffix", "d": ["A suffix meaning a domain, office, or condition, as in kingdom and freedom."], "src": "iwb"}
+{"w": "-ed", "pos": "suffix", "d": ["A suffix forming the past tense and past participle of regular verbs, as in walked.", "A suffix forming adjectives from nouns, as in bearded."], "src": "iwb"}
+{"w": "-ee", "pos": "suffix", "d": ["A suffix naming the person who receives or is affected by an action, as in employee."], "src": "iwb"}
+{"w": "-en", "pos": "suffix", "d": ["A suffix forming verbs meaning to make or become, as in soften, and adjectives from nouns, as in golden."], "src": "iwb"}
+{"w": "-ence", "pos": "suffix", "d": ["A suffix forming nouns of action, state, or quality, as in absence."], "src": "iwb"}
+{"w": "-ency", "pos": "suffix", "d": ["A suffix forming nouns naming a state, quality, or office, as in agency."], "src": "iwb"}
+{"w": "-ent", "pos": "suffix", "d": ["A suffix forming adjectives such as different, and nouns naming an agent, as in president."], "src": "iwb"}
+{"w": "-er", "pos": "suffix", "d": ["A suffix naming the doer of an action, as in teacher.", "A suffix forming the comparative of short adjectives, as in taller."], "src": "iwb"}
+{"w": "-escent", "pos": "suffix", "d": ["A suffix meaning becoming or growing, as in convalescent."], "src": "iwb"}
+{"w": "-esque", "pos": "suffix", "d": ["A suffix meaning in the style or manner of, as in picturesque."], "src": "iwb"}
+{"w": "-ess", "pos": "suffix", "d": ["A suffix marking the feminine form of a noun, as in lioness."], "src": "iwb"}
+{"w": "-est", "pos": "suffix", "d": ["A suffix forming the superlative of short adjectives and adverbs, as in tallest."], "src": "iwb"}
+{"w": "-et", "pos": "suffix", "d": ["A suffix forming diminutive nouns, as in islet."], "src": "iwb"}
+{"w": "-ferous", "pos": "suffix", "d": ["A suffix meaning bearing or producing, as in coniferous."], "src": "iwb"}
+{"w": "-ful", "pos": "suffix", "d": ["A suffix meaning full of or marked by, as in joyful.", "A suffix forming nouns of amount or content, as in spoonful."], "src": "iwb"}
+{"w": "-fy", "pos": "suffix", "d": ["A suffix meaning to make or become, as in simplify."], "src": "iwb"}
+{"w": "-gen", "pos": "suffix", "d": ["A combining form meaning producing or produced by, as in hydrogen."], "src": "iwb"}
+{"w": "-gerous", "pos": "suffix", "d": ["A suffix meaning bearing or carrying, as in armigerous."], "src": "iwb"}
+{"w": "-gram", "pos": "suffix", "d": ["A combining form meaning something written or drawn, as in telegram."], "src": "iwb"}
+{"w": "-graph", "pos": "suffix", "d": ["A combining form meaning a writing or recording instrument, as in telegraph."], "src": "iwb"}
+{"w": "-graphy", "pos": "suffix", "d": ["A suffix meaning writing, description, or a field of study, as in biography and geography."], "src": "iwb"}
+{"w": "-grave", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "-head", "pos": "suffix", "d": ["A suffix forming nouns of condition or quality, as in godhead, or naming a person of a sort, as in blockhead."], "src": "iwb"}
+{"w": "-hood", "pos": "suffix", "d": ["A suffix meaning a state, condition, or group, as in childhood and neighborhood."], "src": "iwb"}
+{"w": "-ible", "pos": "suffix", "d": ["A suffix meaning able to be, forming adjectives from verbs, as in visible."], "src": "iwb"}
+{"w": "-ic", "pos": "suffix", "d": ["A suffix meaning of or like, forming adjectives such as electric, and naming an art or person, as in music."], "src": "iwb"}
+{"w": "-ide", "pos": "suffix", "d": ["A suffix used in chemistry to name a compound, as in oxide."], "src": "iwb"}
+{"w": "-in", "pos": "suffix", "d": ["A suffix used in chemistry to form names of substances, especially proteins, as in gelatin."], "src": "iwb"}
+{"w": "-ine", "pos": "suffix", "d": ["A suffix used in chemistry to name substances, as in chlorine, and to form adjectives such as marine."], "src": "iwb"}
+{"w": "-ing", "pos": "suffix", "d": ["A suffix forming present participles and gerunds, as in walking.", "A suffix forming nouns naming an action or its result, as in building."], "src": "iwb"}
+{"w": "-ion", "pos": "suffix", "d": ["A suffix forming nouns naming an action, state, or result, as in action."], "src": "iwb"}
+{"w": "-ise", "pos": "suffix", "d": ["A British spelling of -ize, forming verbs meaning to make or become, as in realise."], "src": "iwb"}
+{"w": "-ish", "pos": "suffix", "d": ["A suffix meaning somewhat or rather, as in reddish, or belonging to, as in childish."], "src": "iwb"}
+{"w": "-ism", "pos": "suffix", "d": ["A suffix naming a doctrine, practice, or condition, as in optimism."], "src": "iwb"}
+{"w": "-ist", "pos": "suffix", "d": ["A suffix naming one who practices or believes in something, as in artist and socialist."], "src": "iwb"}
+{"w": "-ite", "pos": "suffix", "d": ["A suffix naming a native or follower, as in Israelite, and used in mineral and chemical names, as in graphite and nitrite."], "src": "iwb"}
+{"w": "-itis", "pos": "suffix", "d": ["A suffix meaning inflammation of, used in medicine, as in arthritis."], "src": "iwb"}
+{"w": "-ive", "pos": "suffix", "d": ["A suffix forming adjectives meaning tending to or having the nature of, as in active."], "src": "iwb"}
+{"w": "-ize", "pos": "suffix", "d": ["A suffix forming verbs meaning to make, become, or treat with, as in modernize."], "src": "iwb"}
+{"w": "-kin", "pos": "suffix", "d": ["A diminutive suffix meaning little, as in lambkin."], "src": "iwb"}
+{"w": "-less", "pos": "suffix", "d": ["A suffix meaning without or lacking, as in hopeless."], "src": "iwb"}
+{"w": "-let", "pos": "suffix", "d": ["A diminutive suffix forming nouns meaning a small one, as in booklet."], "src": "iwb"}
+{"w": "-ling", "pos": "suffix", "d": ["A diminutive or slighting suffix forming nouns, as in duckling and weakling."], "src": "iwb"}
+{"w": "-lite", "pos": "suffix", "d": ["A form of -lith, meaning stone, used in mineral names such as perlite."], "src": "iwb"}
+{"w": "-lith", "pos": "suffix", "d": ["A combining form meaning stone, used in geology and medicine, as in monolith."], "src": "iwb"}
+{"w": "-logy", "pos": "suffix", "d": ["A suffix meaning a field of study or a body of doctrine, as in biology."], "src": "iwb"}
+{"w": "-ly", "pos": "suffix", "d": ["A suffix forming adverbs from adjectives, as in quickly, and adjectives from nouns, as in friendly."], "src": "iwb"}
+{"w": "-mancy", "pos": "suffix", "d": ["A suffix meaning divination by a specified means, as in necromancy."], "src": "iwb"}
+{"w": "-ment", "pos": "suffix", "d": ["A suffix forming nouns naming an action, its result, or a means, as in movement."], "src": "iwb"}
+{"w": "-mere", "pos": "suffix", "d": ["A combining form meaning a part or segment, as in polymer."], "src": "iwb"}
+{"w": "-meter", "pos": "suffix", "d": ["A suffix naming a measuring instrument, as in thermometer, or a unit of length, as in kilometer."], "src": "iwb"}
+{"w": "-metry", "pos": "suffix", "d": ["A suffix meaning the art or process of measuring, as in geometry."], "src": "iwb"}
+{"w": "-mo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "-morphous", "pos": "suffix", "d": ["A suffix meaning having a specified form or shape, as in amorphous."], "src": "iwb"}
+{"w": "-ness", "pos": "suffix", "d": ["A suffix forming nouns naming a state or quality, as in kindness."], "src": "iwb"}
+{"w": "-ock", "pos": "suffix", "d": ["A diminutive suffix meaning little, as in hillock."], "src": "iwb"}
+{"w": "-oid", "pos": "suffix", "d": ["A suffix meaning like or resembling, as in humanoid."], "src": "iwb"}
+{"w": "-ol", "pos": "suffix", "d": ["A suffix used in chemistry to name an alcohol or similar compound, as in ethanol."], "src": "iwb"}
+{"w": "-oma", "pos": "suffix", "d": ["A suffix used in medicine to name a tumor or swelling, as in carcinoma."], "src": "iwb"}
+{"w": "-one", "pos": "suffix", "d": ["A suffix used in chemistry to name a ketone, as in acetone."], "src": "iwb"}
+{"w": "-or", "pos": "suffix", "d": ["A suffix naming a doer or agent, as in actor, and forming a few comparatives, as in minor."], "src": "iwb"}
+{"w": "-ory", "pos": "suffix", "d": ["A suffix forming adjectives such as sensory, and nouns naming a place, as in factory."], "src": "iwb"}
+{"w": "-ose", "pos": "suffix", "d": ["A suffix used in chemistry to name a sugar, as in glucose, and forming adjectives meaning full of, as in verbose."], "src": "iwb"}
+{"w": "-our", "pos": "suffix", "d": ["A British spelling of -or in nouns such as honour, usually -or in American English."], "src": "iwb"}
+{"w": "-ous", "pos": "suffix", "d": ["A suffix meaning full of, having, or like, forming adjectives such as joyous."], "src": "iwb"}
+{"w": "-plastic", "pos": "suffix", "d": ["A combining form meaning able to be shaped or molded, as in thermoplastic."], "src": "iwb"}
+{"w": "-plasty", "pos": "suffix", "d": ["A suffix used in surgery to mean a reshaping or repair, as in rhinoplasty."], "src": "iwb"}
+{"w": "-pod", "pos": "suffix", "d": ["A combining form meaning a foot or footlike part, as in tripod."], "src": "iwb"}
+{"w": "-poda", "pos": "suffix", "d": ["A suffix used in zoology to name a group of animals with a specified kind of foot."], "src": "iwb"}
+{"w": "-ric", "pos": "suffix", "d": ["A suffix forming adjectives, a variant of -ic, as in theatric."], "src": "iwb"}
+{"w": "-s", "pos": "suffix", "d": ["A suffix marking the plural of most nouns, as in books, and the third-person singular of present-tense verbs, as in runs."], "src": "iwb"}
+{"w": "-scope", "pos": "suffix", "d": ["A suffix naming an instrument for viewing or examining, as in telescope."], "src": "iwb"}
+{"w": "-ship", "pos": "suffix", "d": ["A suffix meaning a state, condition, or office, as in friendship and leadership."], "src": "iwb"}
+{"w": "-some", "pos": "suffix", "d": ["A suffix meaning characterized by or tending to, as in tiresome, or forming nouns of a group, as in foursome."], "src": "iwb"}
+{"w": "-ster", "pos": "suffix", "d": ["A suffix naming a person connected with something, often slightingly, as in youngster and trickster."], "src": "iwb"}
+{"w": "-type", "pos": "suffix", "d": ["A suffix meaning a model or pattern of its kind, as in prototype."], "src": "iwb"}
+{"w": "-uret", "pos": "suffix", "d": ["A suffix used in older chemistry to name a compound of two substances, as in carburet."], "src": "iwb"}
+{"w": "-ward", "pos": "suffix", "d": ["A suffix meaning in the direction of, forming adverbs and adjectives such as homeward."], "src": "iwb"}
+{"w": "-ways", "pos": "suffix", "d": ["A suffix meaning in the direction or manner of, as in sideways."], "src": "iwb"}
+{"w": "-yl", "pos": "suffix", "d": ["A suffix used in chemistry to name a radical, as in ethyl."], "src": "iwb"}
+{"w": "a b c", "pos": "phrase", "d": ["The first three letters of the alphabet, used to mean the very beginning or basics of a subject."], "src": "iwb"}
+{"w": "a cappella", "pos": "phrase", "d": ["Music sung without any instruments, by voices alone."], "src": "iwb"}
+{"w": "a cheval", "pos": "phrase", "d": ["With one leg on each side, as in sitting on a horse; astride."], "src": "iwb"}
+{"w": "a fortiori", "pos": "phrase", "d": ["With even stronger reason, used in an argument to show a conclusion follows still more surely."], "src": "iwb"}
+{"w": "a mensa et thoro", "pos": "phrase", "d": ["From bed and board, a legal separation in which spouses live apart but stay married."], "src": "iwb"}
+{"w": "a posteriori", "pos": "phrase", "d": ["Known from experience or observation rather than from first principles."], "src": "iwb"}
+{"w": "a priori", "pos": "phrase", "d": ["Known from reasoning alone, before or apart from experience."], "src": "iwb"}
+{"w": "a-", "pos": "prefix", "d": ["A prefix meaning not or without, as in atheist, or on or in, as in aboard."], "src": "iwb"}
+{"w": "a-good", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "a-mornings", "pos": "adverb", "d": ["In the morning; every morning."], "src": "iwb"}
+{"w": "a-sea", "pos": "adverb", "d": ["On or out on the sea; away from shore."], "src": "iwb"}
+{"w": "a-tiptoe", "pos": "adverb", "d": ["Standing or walking on the tips of the toes.", "Alert and eager with expectation."], "src": "iwb"}
+{"w": "aam", "pos": "noun", "d": ["An old Dutch measure of liquid capacity."], "src": "iwb"}
+{"w": "aard-vark", "pos": "noun", "d": ["A large burrowing African mammal with a long snout and strong claws, feeding on ants and termites."], "src": "iwb"}
+{"w": "aard-wolf", "pos": "noun", "d": ["A small striped African mammal related to the hyena, feeding chiefly on termites."], "src": "iwb"}
+{"w": "aaronic", "pos": "adjective", "d": ["Relating to Aaron or the Jewish priesthood descended from him."], "src": "iwb"}
+{"w": "ab-", "pos": "prefix", "d": ["A Latin prefix meaning away from or off, as in absent and abdicate."], "src": "iwb"}
+{"w": "abaca", "pos": "noun", "d": ["A Philippine plant of the banana family.", "The strong leaf fiber of this plant, used for rope and cloth."], "src": "iwb"}
+{"w": "abacinate", "pos": "verb", "d": ["To blind by holding a red-hot metal plate before the eyes, an old form of punishment."], "src": "iwb"}
+{"w": "abacination", "pos": "noun", "d": ["The act of blinding with a red-hot metal plate held before the eyes."], "src": "iwb"}
+{"w": "abaciscus", "pos": "noun", "d": ["A small square stone or tile used in mosaic work."], "src": "iwb"}
+{"w": "abacist", "pos": "noun", "d": ["A person skilled in calculating with an abacus."], "src": "iwb"}
+{"w": "aback", "pos": "adverb", "d": ["Backward; behind, used chiefly in the phrase taken aback, meaning startled."], "src": "iwb"}
+{"w": "abactinal", "pos": "adjective", "d": ["Relating to the side of a starfish or similar animal that is opposite the mouth."], "src": "iwb"}
+{"w": "abaction", "pos": "noun", "d": ["The theft of cattle; cattle stealing."], "src": "iwb"}
+{"w": "abactor", "pos": "noun", "d": ["One who steals cattle."], "src": "iwb"}
+{"w": "abaculus", "pos": "noun", "d": ["A tiny cube of stone or glass used in mosaic work."], "src": "iwb"}
+{"w": "abacus", "pos": "noun", "d": ["A frame strung with sliding beads used for counting and arithmetic.", "The flat slab forming the top of a column capital."], "src": "iwb"}
+{"w": "abada", "pos": "noun", "d": ["An old name for the rhinoceros."], "src": "iwb"}
+{"w": "abaddon", "pos": "noun", "d": ["In the Bible, a place of destruction, or the angel of the bottomless pit."], "src": "iwb"}
+{"w": "abaft", "pos": "adverb", "d": ["Toward or at the rear of a ship; behind."], "src": "iwb"}
+{"w": "abaisance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abaiser", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abaist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abalienate", "pos": "verb", "d": ["To transfer the legal title of property to another."], "src": "iwb"}
+{"w": "abalienation", "pos": "noun", "d": ["The legal transfer of title to property."], "src": "iwb"}
+{"w": "abalone", "pos": "noun", "d": ["A large sea snail with a flattened shell, eaten as food and prized for its pearly lining."], "src": "iwb"}
+{"w": "aband", "pos": "verb", "d": ["An old form of abandon, meaning to leave or give up."], "src": "iwb"}
+{"w": "abandon", "pos": "verb", "d": ["To leave or give up completely.", "To yield oneself wholly, as to an impulse."], "src": "iwb"}
+{"w": "abandonee", "pos": "noun", "d": ["A person to whom something is legally surrendered, especially in insurance."], "src": "iwb"}
+{"w": "abandum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abanet", "pos": "noun", "d": ["The sash or girdle worn by a Jewish priest."], "src": "iwb"}
+{"w": "abanga", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abannation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abannition", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abarticulation", "pos": "noun", "d": ["A joint that allows free movement, such as the shoulder."], "src": "iwb"}
+{"w": "abase", "pos": "verb", "d": ["To lower in rank, dignity, or esteem; to humble."], "src": "iwb"}
+{"w": "abash", "pos": "verb", "d": ["To make ashamed or embarrassed; to disconcert."], "src": "iwb"}
+{"w": "abashedly", "pos": "adverb", "d": ["In a shy or embarrassed manner."], "src": "iwb"}
+{"w": "abasia", "pos": "noun", "d": ["Inability to walk because of a failure of muscular coordination."], "src": "iwb"}
+{"w": "abassi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abate", "pos": "verb", "d": ["To become or make less intense.", "In law, to end or nullify a claim."], "src": "iwb"}
+{"w": "abatis", "pos": "noun", "d": ["A defense made of felled trees with sharpened branches facing the enemy."], "src": "iwb"}
+{"w": "abator", "pos": "noun", "d": ["In law, one who ends a nuisance or wrongfully takes land after the owner's death."], "src": "iwb"}
+{"w": "abattis", "pos": "noun", "d": ["Another form of abatis, a barrier of felled trees used as a defense."], "src": "iwb"}
+{"w": "abattoir", "pos": "noun", "d": ["A building where animals are slaughtered for food; a slaughterhouse."], "src": "iwb"}
+{"w": "abature", "pos": "noun", "d": ["Grass or undergrowth bent down by a passing deer."], "src": "iwb"}
+{"w": "abatvoix", "pos": "noun", "d": ["A canopy over a pulpit that throws the speaker's voice outward."], "src": "iwb"}
+{"w": "abawed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abaxial", "pos": "adjective", "d": ["Situated away from the axis; on the side opposite the axis."], "src": "iwb"}
+{"w": "abaxile", "pos": "adjective", "d": ["Away from the axis; not along the central line of a body."], "src": "iwb"}
+{"w": "abay", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abb", "pos": "noun", "d": ["In weaving, yarn used for the warp threads."], "src": "iwb"}
+{"w": "abb wool", "pos": "phrase", "d": ["Coarse wool, such as from a sheep's belly, used in the warp of woven cloth."], "src": "iwb"}
+{"w": "abba", "pos": "noun", "d": ["Father, used as a title of respect in early Christian and Syriac usage."], "src": "iwb"}
+{"w": "abbacy", "pos": "noun", "d": ["The office, dignity, or term of an abbot."], "src": "iwb"}
+{"w": "abbatial", "pos": "adjective", "d": ["Relating to an abbot, abbess, or abbey."], "src": "iwb"}
+{"w": "abbe", "pos": "noun", "d": ["A title for a French clergyman or scholar, especially one without a parish."], "src": "iwb"}
+{"w": "abbess", "pos": "noun", "d": ["The woman who heads a convent or abbey of nuns."], "src": "iwb"}
+{"w": "abbey", "pos": "noun", "d": ["A monastery or convent headed by an abbot or abbess, and the buildings of such a community."], "src": "iwb"}
+{"w": "abbot", "pos": "noun", "d": ["The man who heads a monastery of monks."], "src": "iwb"}
+{"w": "abbreviate", "pos": "verb", "d": ["To shorten a word or text by omitting letters or parts."], "src": "iwb"}
+{"w": "abbreviation", "pos": "noun", "d": ["A shortened form of a word or phrase."], "src": "iwb"}
+{"w": "abbreviator", "pos": "noun", "d": ["A person or thing that shortens or abridges."], "src": "iwb"}
+{"w": "abbreviatory", "pos": "adjective", "d": ["Tending to shorten or abridge."], "src": "iwb"}
+{"w": "abbreviature", "pos": "noun", "d": ["An abbreviation or shortened form."], "src": "iwb"}
+{"w": "abdal", "pos": "noun", "d": ["In Sufi tradition, one of a class of hidden saints believed to sustain the world."], "src": "iwb"}
+{"w": "abderian", "pos": "adjective", "d": ["Relating to Abdera, a town of ancient Thrace; marked by constant laughter."], "src": "iwb"}
+{"w": "abderite", "pos": "noun", "d": ["A native of Abdera; by extension, a person given to incessant laughter."], "src": "iwb"}
+{"w": "abdest", "pos": "noun", "d": ["The ritual washing of the hands and face before prayer among Muslims."], "src": "iwb"}
+{"w": "abdicable", "pos": "adjective", "d": ["Capable of being given up or renounced."], "src": "iwb"}
+{"w": "abdicant", "pos": "noun", "d": ["One who gives up a throne or office."], "src": "iwb"}
+{"w": "abdicate", "pos": "verb", "d": ["To give up a throne, office, or responsibility formally."], "src": "iwb"}
+{"w": "abdication", "pos": "noun", "d": ["The formal act of giving up a throne or office."], "src": "iwb"}
+{"w": "abdicative", "pos": "adjective", "d": ["Relating to or involving abdication."], "src": "iwb"}
+{"w": "abdicator", "pos": "noun", "d": ["One who abdicates a throne or office."], "src": "iwb"}
+{"w": "abditive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abditory", "pos": "noun", "d": ["A place for hiding or storing valuables."], "src": "iwb"}
+{"w": "abdomen", "pos": "noun", "d": ["The part of the body between the chest and the hips, containing the stomach and intestines; the belly."], "src": "iwb"}
+{"w": "abdominal", "pos": "adjective", "d": ["Relating to the abdomen or belly."], "src": "iwb"}
+{"w": "abdominalia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abdominoscopy", "pos": "noun", "d": ["Visual examination of the inside of the abdomen, usually with an endoscope."], "src": "iwb"}
+{"w": "abdominothoracic", "pos": "adjective", "d": ["Relating to both the abdomen and the chest."], "src": "iwb"}
+{"w": "abdominous", "pos": "adjective", "d": ["Having a large belly; potbellied."], "src": "iwb"}
+{"w": "abduce", "pos": "verb", "d": ["To draw or lead away from a central point, as a muscle moves a limb."], "src": "iwb"}
+{"w": "abduct", "pos": "verb", "d": ["To carry off a person by force; to kidnap.", "In anatomy, to draw a limb away from the body."], "src": "iwb"}
+{"w": "abductor", "pos": "noun", "d": ["One who kidnaps; also, a muscle that draws a limb away from the body."], "src": "iwb"}
+{"w": "abeam", "pos": "adverb", "d": ["At right angles to a ship's keel; directly opposite the middle of a ship's side."], "src": "iwb"}
+{"w": "abear", "pos": "verb", "d": ["An old word meaning to bear or endure."], "src": "iwb"}
+{"w": "abecedarian", "pos": "noun", "d": ["A person learning the alphabet; a mere beginner."], "src": "iwb"}
+{"w": "abecedary", "pos": "noun", "d": ["A book or table for teaching the alphabet; a primer."], "src": "iwb"}
+{"w": "abed", "pos": "adverb", "d": ["In bed; on a bed."], "src": "iwb"}
+{"w": "abegge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abele", "pos": "noun", "d": ["The white poplar tree."], "src": "iwb"}
+{"w": "abelian", "pos": "adjective", "d": ["Relating to a mathematical group in which the order of combined elements does not change the result."], "src": "iwb"}
+{"w": "abelite", "pos": "noun", "d": ["A member of an early Christian sect in North Africa that honored Abel and practiced strict celibacy."], "src": "iwb"}
+{"w": "abelmosk", "pos": "noun", "d": ["A tropical plant of the mallow family whose seeds give off a musky scent."], "src": "iwb"}
+{"w": "abelonian", "pos": "adjective", "d": ["Relating to Abel, the son of Adam in the biblical account."], "src": "iwb"}
+{"w": "aber-de-vine", "pos": "noun", "d": ["An old name for the siskin, a small yellow-green songbird."], "src": "iwb"}
+{"w": "aberr", "pos": "verb", "d": ["To wander from the proper course; to err."], "src": "iwb"}
+{"w": "aberrancy", "pos": "noun", "d": ["The state of straying from what is normal, right, or expected."], "src": "iwb"}
+{"w": "aberuncate", "pos": "verb", "d": ["To pull up by the roots; to weed out."], "src": "iwb"}
+{"w": "aberuncator", "pos": "noun", "d": ["One who pulls up weeds by the roots."], "src": "iwb"}
+{"w": "abet", "pos": "verb", "d": ["To encourage, support, or assist, especially in wrongdoing."], "src": "iwb"}
+{"w": "abettal", "pos": "noun", "d": ["The act of abetting; encouragement or aid, especially in wrongdoing."], "src": "iwb"}
+{"w": "abevacuation", "pos": "noun", "d": ["A partial or incomplete emptying of the bowels."], "src": "iwb"}
+{"w": "abeyance", "pos": "noun", "d": ["A state of temporary suspension or inactivity."], "src": "iwb"}
+{"w": "abeyancy", "pos": "noun", "d": ["The state of being in abeyance; temporary suspension."], "src": "iwb"}
+{"w": "abeyant", "pos": "adjective", "d": ["In a state of abeyance; temporarily suspended."], "src": "iwb"}
+{"w": "abgeordnetenhaus", "pos": "noun", "d": ["A German house of representatives; historically the lower house of the Prussian legislature."], "src": "iwb"}
+{"w": "abhal", "pos": "noun", "d": ["An old name for the cypress tree."], "src": "iwb"}
+{"w": "abhominable", "pos": "adjective", "d": ["An archaic spelling of abominable; hateful and detestable."], "src": "iwb"}
+{"w": "abhominal", "pos": "adjective", "d": ["An obsolete variant of abdominal; relating to the abdomen."], "src": "iwb"}
+{"w": "abhor", "pos": "verb", "d": ["To regard with extreme hatred or disgust."], "src": "iwb"}
+{"w": "abhorrence", "pos": "noun", "d": ["Extreme hatred or disgust; loathing."], "src": "iwb"}
+{"w": "abhorrency", "pos": "noun", "d": ["Extreme hatred or loathing; abhorrence."], "src": "iwb"}
+{"w": "abhorrible", "pos": "adjective", "d": ["Worthy of abhorrence; detestable."], "src": "iwb"}
+{"w": "abib", "pos": "noun", "d": ["The first month of the ancient Hebrew sacred calendar, roughly March to April."], "src": "iwb"}
+{"w": "abidance", "pos": "noun", "d": ["The act of abiding; continued stay or patient endurance."], "src": "iwb"}
+{"w": "abide", "pos": "verb", "d": ["To remain or continue in a place.", "To endure or tolerate patiently."], "src": "iwb"}
+{"w": "abietene", "pos": "noun", "d": ["A volatile hydrocarbon oil obtained from the resin of certain pine trees."], "src": "iwb"}
+{"w": "abietic", "pos": "adjective", "d": ["Relating to fir trees of the genus Abies, or to the resin acid found in rosin."], "src": "iwb"}
+{"w": "abietin", "pos": "noun", "d": ["A resinous substance obtained from the turpentine of fir trees."], "src": "iwb"}
+{"w": "abietine", "pos": "adjective", "d": ["Of or pertaining to the fir tree or its products."], "src": "iwb"}
+{"w": "abietite", "pos": "noun", "d": ["A sweet crystalline substance found in the needles of the silver fir."], "src": "iwb"}
+{"w": "abigail", "pos": "noun", "d": ["A lady's maid; a female attendant."], "src": "iwb"}
+{"w": "abiliment", "pos": "noun", "d": ["Clothing; dress; attire."], "src": "iwb"}
+{"w": "abime", "pos": "noun", "d": ["An archaic spelling of abyss; a bottomless depth."], "src": "iwb"}
+{"w": "abiogenesis", "pos": "noun", "d": ["The supposed spontaneous origin of living organisms from nonliving matter."], "src": "iwb"}
+{"w": "abiogenetic", "pos": "adjective", "d": ["Relating to abiogenesis; originating without life."], "src": "iwb"}
+{"w": "abiogenist", "pos": "noun", "d": ["One who believes in the doctrine of abiogenesis."], "src": "iwb"}
+{"w": "abiogenous", "pos": "adjective", "d": ["Produced by abiogenesis; originating without a living parent."], "src": "iwb"}
+{"w": "abiogeny", "pos": "noun", "d": ["Spontaneous generation; abiogenesis."], "src": "iwb"}
+{"w": "abiological", "pos": "adjective", "d": ["Not biological; unrelated to living organisms."], "src": "iwb"}
+{"w": "abirritant", "pos": "noun", "d": ["A soothing remedy that reduces irritation."], "src": "iwb"}
+{"w": "abirritate", "pos": "verb", "d": ["To reduce irritability or sensitivity; to soothe."], "src": "iwb"}
+{"w": "abirritation", "pos": "noun", "d": ["The act of soothing irritation; reduced irritability."], "src": "iwb"}
+{"w": "abirritative", "pos": "adjective", "d": ["Tending to soothe irritation."], "src": "iwb"}
+{"w": "abit", "pos": "verb", "d": ["An archaic third-person singular form of abide."], "src": "iwb"}
+{"w": "abject", "pos": "adjective", "d": ["Utterly miserable or wretched; lacking self-respect."], "src": "iwb"}
+{"w": "abjectedness", "pos": "noun", "d": ["The state of being abject; utter wretchedness."], "src": "iwb"}
+{"w": "abjudge", "pos": "verb", "d": ["To take away by judicial decision."], "src": "iwb"}
+{"w": "abjudicate", "pos": "verb", "d": ["To give judgment against; to deprive by a judicial sentence."], "src": "iwb"}
+{"w": "abjudication", "pos": "noun", "d": ["The act of abjudicating; deprivation by judicial decision."], "src": "iwb"}
+{"w": "abjugate", "pos": "verb", "d": ["To unyoke; to free from a yoke."], "src": "iwb"}
+{"w": "abjunctive", "pos": "adjective", "d": ["Serving to abjure; expressing abjuration."], "src": "iwb"}
+{"w": "abjuration", "pos": "noun", "d": ["A solemn renunciation, as of a belief or allegiance."], "src": "iwb"}
+{"w": "abjuratory", "pos": "adjective", "d": ["Pertaining to abjuration; containing a solemn renunciation."], "src": "iwb"}
+{"w": "abjure", "pos": "verb", "d": ["To renounce solemnly, as a belief, claim, or allegiance."], "src": "iwb"}
+{"w": "ablactate", "pos": "verb", "d": ["To wean a child or young animal from nursing."], "src": "iwb"}
+{"w": "ablactation", "pos": "noun", "d": ["The act of weaning; the weaning period."], "src": "iwb"}
+{"w": "ablaqueate", "pos": "verb", "d": ["To uncover the roots of a tree or vine in order to loosen the soil around them."], "src": "iwb"}
+{"w": "ablaqueation", "pos": "noun", "d": ["The act of uncovering roots, as of trees, to loosen the soil."], "src": "iwb"}
+{"w": "ablastemic", "pos": "adjective", "d": ["Not producing germs; lacking a blastema."], "src": "iwb"}
+{"w": "ablation", "pos": "noun", "d": ["The surgical removal of tissue or a body part.", "The wearing away of rock or ice by erosion or melting."], "src": "iwb"}
+{"w": "ablatitious", "pos": "adjective", "d": ["Diminishing; lessening in force or amount."], "src": "iwb"}
+{"w": "ablative", "pos": "adjective", "d": ["Relating to the grammatical case that expresses separation, source, or means."], "src": "iwb"}
+{"w": "ablaut", "pos": "noun", "d": ["A change of vowel in a word root that marks a grammatical change, as in sing, sang, sung."], "src": "iwb"}
+{"w": "ablaze", "pos": "adjective", "d": ["On fire; burning brightly.", "Glowing with strong feeling, especially excitement."], "src": "iwb"}
+{"w": "able-bodied", "pos": "adjective", "d": ["Having a strong, healthy body; fit for work or service."], "src": "iwb"}
+{"w": "able-minded", "pos": "adjective", "d": ["Having a capable, sound mind; mentally competent."], "src": "iwb"}
+{"w": "ablegation", "pos": "noun", "d": ["The act of sending away, as on an errand or mission."], "src": "iwb"}
+{"w": "ablen", "pos": "noun", "d": ["An old name for the bleak, a small silvery freshwater fish."], "src": "iwb"}
+{"w": "ablepsy", "pos": "noun", "d": ["Blindness; want of sight."], "src": "iwb"}
+{"w": "ablet", "pos": "noun", "d": ["An old variant name for the bleak, a small freshwater fish."], "src": "iwb"}
+{"w": "abligate", "pos": "verb", "d": ["To tie up; to fasten with a band."], "src": "iwb"}
+{"w": "abligurition", "pos": "noun", "d": ["Prodigal spending on food and drink; gluttonous extravagance."], "src": "iwb"}
+{"w": "ablins", "pos": "adverb", "d": ["Perhaps; possibly; a Scots form of maybe."], "src": "iwb"}
+{"w": "abloom", "pos": "adjective", "d": ["In bloom; covered with blossoms."], "src": "iwb"}
+{"w": "ablude", "pos": "verb", "d": ["To be unlike; to differ."], "src": "iwb"}
+{"w": "abluent", "pos": "noun", "d": ["A cleansing agent that washes away impurities."], "src": "iwb"}
+{"w": "ablush", "pos": "adjective", "d": ["Blushing; red with embarrassment."], "src": "iwb"}
+{"w": "ablution", "pos": "noun", "d": ["A ceremonial washing of the body for religious purification.", "The act of washing the body."], "src": "iwb"}
+{"w": "abluvion", "pos": "noun", "d": ["The washing away of earth by water; matter carried off by a flood."], "src": "iwb"}
+{"w": "ably", "pos": "adverb", "d": ["In an able manner; with skill or competence."], "src": "iwb"}
+{"w": "abnegate", "pos": "verb", "d": ["To deny to oneself; to renounce or give up."], "src": "iwb"}
+{"w": "abnegation", "pos": "noun", "d": ["Self-denial; the renunciation of one's own desires."], "src": "iwb"}
+{"w": "abnegative", "pos": "adjective", "d": ["Relating to self-denial; denying."], "src": "iwb"}
+{"w": "abnegator", "pos": "noun", "d": ["One who practices self-denial; one who renounces."], "src": "iwb"}
+{"w": "abnet", "pos": "noun", "d": ["The linen sash or girdle worn by a Jewish priest."], "src": "iwb"}
+{"w": "abnodate", "pos": "verb", "d": ["To prune the knots or roughness from a tree."], "src": "iwb"}
+{"w": "abnodation", "pos": "noun", "d": ["The act of pruning knots from trees."], "src": "iwb"}
+{"w": "abnormal", "pos": "adjective", "d": ["Not normal; deviating from the usual or expected."], "src": "iwb"}
+{"w": "abnormity", "pos": "noun", "d": ["The state of being abnormal; an irregularity."], "src": "iwb"}
+{"w": "abnormous", "pos": "adjective", "d": ["Abnormal; misshapen or irregular."], "src": "iwb"}
+{"w": "aboard", "pos": "adverb", "d": ["On or into a ship, aircraft, train, or other vehicle."], "src": "iwb"}
+{"w": "abodance", "pos": "noun", "d": ["An omen; a foreboding."], "src": "iwb"}
+{"w": "abode", "pos": "noun", "d": ["A place of residence; a home."], "src": "iwb"}
+{"w": "abolish", "pos": "verb", "d": ["To do away with; to annul or put an end to."], "src": "iwb"}
+{"w": "abolition", "pos": "noun", "d": ["The act of abolishing; complete destruction or annulment."], "src": "iwb"}
+{"w": "aboma", "pos": "noun", "d": ["The fourth stomach of a ruminant animal; the abomasum."], "src": "iwb"}
+{"w": "abomasus", "pos": "noun", "d": ["The fourth stomach of a ruminant; the abomasum."], "src": "iwb"}
+{"w": "abominable", "pos": "adjective", "d": ["Worthy of hatred; detestable; very bad."], "src": "iwb"}
+{"w": "abominably", "pos": "adverb", "d": ["In an abominable manner; detestably."], "src": "iwb"}
+{"w": "abominate", "pos": "verb", "d": ["To hate intensely; to loathe."], "src": "iwb"}
+{"w": "abomination", "pos": "noun", "d": ["Something hateful or detestable; intense loathing."], "src": "iwb"}
+{"w": "aboon", "pos": "adverb", "d": ["Above; a Scots variant of above."], "src": "iwb"}
+{"w": "aboral", "pos": "adjective", "d": ["Situated opposite the mouth; away from the mouth."], "src": "iwb"}
+{"w": "abord", "pos": "verb", "d": ["To accost; to approach and address."], "src": "iwb"}
+{"w": "aborigines", "pos": "noun", "d": ["The original inhabitants of a country or region."], "src": "iwb"}
+{"w": "aborsement", "pos": "noun", "d": ["Miscarriage; premature delivery."], "src": "iwb"}
+{"w": "aborsive", "pos": "adjective", "d": ["Tending to cause abortion; abortive."], "src": "iwb"}
+{"w": "abort", "pos": "verb", "d": ["To end prematurely; to terminate a process before completion."], "src": "iwb"}
+{"w": "aborticide", "pos": "noun", "d": ["The act of destroying a fetus in the womb."], "src": "iwb"}
+{"w": "abortifacient", "pos": "noun", "d": ["A drug or agent that causes abortion."], "src": "iwb"}
+{"w": "abought", "pos": "verb", "d": ["An archaic past tense of abye, meaning to pay for or atone for."], "src": "iwb"}
+{"w": "abound", "pos": "verb", "d": ["To be plentiful; to exist in large numbers."], "src": "iwb"}
+{"w": "about-sledge", "pos": "noun", "d": ["A large sledgehammer swung with both hands in a full arc."], "src": "iwb"}
+{"w": "above-cited", "pos": "adjective", "d": ["Cited or quoted earlier in the same text."], "src": "iwb"}
+{"w": "above-mentioned", "pos": "adjective", "d": ["Mentioned earlier in the same document."], "src": "iwb"}
+{"w": "above-named", "pos": "adjective", "d": ["Named earlier in the same document."], "src": "iwb"}
+{"w": "abox", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abra", "pos": "noun", "d": ["A small open boat used as a ferry."], "src": "iwb"}
+{"w": "abracadabra", "pos": "noun", "d": ["A word traditionally spoken as a magic charm; hence, meaningless chatter."], "src": "iwb"}
+{"w": "abradant", "pos": "noun", "d": ["A substance used for abrading; an abrasive."], "src": "iwb"}
+{"w": "abrade", "pos": "verb", "d": ["To wear away by rubbing; to scrape off."], "src": "iwb"}
+{"w": "abraham-man", "pos": "noun", "d": ["A beggar who feigned madness, claiming to have been confined in Bedlam."], "src": "iwb"}
+{"w": "abrahamic", "pos": "adjective", "d": ["Relating to Abraham, or to the religions tracing to him: Judaism, Christianity, and Islam."], "src": "iwb"}
+{"w": "abraid", "pos": "verb", "d": ["To start suddenly; to awake."], "src": "iwb"}
+{"w": "abram-man", "pos": "noun", "d": ["A variant spelling of Abraham-man; a beggar feigning madness."], "src": "iwb"}
+{"w": "abranchial", "pos": "adjective", "d": ["Without gills."], "src": "iwb"}
+{"w": "abranchiata", "pos": "noun", "d": ["A group of invertebrate animals lacking gills."], "src": "iwb"}
+{"w": "abranchiate", "pos": "adjective", "d": ["Lacking gills."], "src": "iwb"}
+{"w": "abrase", "pos": "verb", "d": ["To rub off; to wear away by friction."], "src": "iwb"}
+{"w": "abrasive", "pos": "noun", "d": ["A substance used for grinding, polishing, or wearing away."], "src": "iwb"}
+{"w": "abraum", "pos": "noun", "d": ["A red ocher pigment."], "src": "iwb"}
+{"w": "abraum salts", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abraxas", "pos": "noun", "d": ["A mystic name inscribed on ancient amulets and gems, associated with Gnostic belief."], "src": "iwb"}
+{"w": "abray", "pos": "verb", "d": ["To start suddenly; to awake."], "src": "iwb"}
+{"w": "abreaction", "pos": "noun", "d": ["The release of repressed emotion by reliving a past experience."], "src": "iwb"}
+{"w": "abreast", "pos": "adverb", "d": ["Side by side; keeping up with current developments."], "src": "iwb"}
+{"w": "abregge", "pos": "verb", "d": ["To abridge; to shorten."], "src": "iwb"}
+{"w": "abrenounce", "pos": "verb", "d": ["To renounce completely."], "src": "iwb"}
+{"w": "abrenunciation", "pos": "noun", "d": ["The act of utterly renouncing."], "src": "iwb"}
+{"w": "abreption", "pos": "noun", "d": ["A snatching away; a carrying off."], "src": "iwb"}
+{"w": "abreuvoir", "pos": "noun", "d": ["A place where animals drink; a watering trough."], "src": "iwb"}
+{"w": "abricock", "pos": "noun", "d": ["An old form of the word apricot."], "src": "iwb"}
+{"w": "abridge", "pos": "verb", "d": ["To shorten; to condense."], "src": "iwb"}
+{"w": "abridgment", "pos": "noun", "d": ["A shortened version; a condensation."], "src": "iwb"}
+{"w": "abroach", "pos": "verb", "d": ["To tap, as a cask; to set flowing."], "src": "iwb"}
+{"w": "abrogable", "pos": "adjective", "d": ["Capable of being abrogated; repealable."], "src": "iwb"}
+{"w": "abrogate", "pos": "verb", "d": ["To repeal or annul, as a law."], "src": "iwb"}
+{"w": "abrogation", "pos": "noun", "d": ["The act of repealing; annulment."], "src": "iwb"}
+{"w": "abrogative", "pos": "adjective", "d": ["Tending to abrogate; repealing."], "src": "iwb"}
+{"w": "abrogator", "pos": "noun", "d": ["One who abrogates; one who repeals a law."], "src": "iwb"}
+{"w": "abrood", "pos": "adverb", "d": ["In the act of brooding."], "src": "iwb"}
+{"w": "abrook", "pos": "verb", "d": ["To bear; to endure."], "src": "iwb"}
+{"w": "abrupt", "pos": "adjective", "d": ["Sudden and unexpected; steep."], "src": "iwb"}
+{"w": "abscess", "pos": "noun", "d": ["A localized collection of pus in body tissue."], "src": "iwb"}
+{"w": "abscind", "pos": "verb", "d": ["To cut off; to sever."], "src": "iwb"}
+{"w": "abscision", "pos": "noun", "d": ["The act of cutting off."], "src": "iwb"}
+{"w": "absciss", "pos": "noun", "d": ["A piece cut off; a cutting."], "src": "iwb"}
+{"w": "abscissa", "pos": "noun", "d": ["The horizontal coordinate in a Cartesian system; the x-coordinate."], "src": "iwb"}
+{"w": "abscond", "pos": "verb", "d": ["To leave secretly to escape the law or a debt."], "src": "iwb"}
+{"w": "absent-minded", "pos": "adjective", "d": ["Inattentive to surroundings; preoccupied."], "src": "iwb"}
+{"w": "absentaneous", "pos": "adjective", "d": ["Relating to or characterized by absence."], "src": "iwb"}
+{"w": "absentee", "pos": "noun", "d": ["One who is absent, as from a post or property."], "src": "iwb"}
+{"w": "absey-book", "pos": "noun", "d": ["A primer for teaching the alphabet; an ABC book."], "src": "iwb"}
+{"w": "absinth", "pos": "noun", "d": ["The wormwood plant; the bitter herb used to flavor absinthe."], "src": "iwb"}
+{"w": "absinthe", "pos": "noun", "d": ["A strong green liqueur flavored with wormwood."], "src": "iwb"}
+{"w": "absinthian", "pos": "adjective", "d": ["Relating to absinthe or wormwood."], "src": "iwb"}
+{"w": "absinthiate", "pos": "verb", "d": ["To treat or flavor with wormwood."], "src": "iwb"}
+{"w": "absinthin", "pos": "noun", "d": ["The bitter crystalline principle of wormwood."], "src": "iwb"}
+{"w": "absinthium", "pos": "noun", "d": ["Wormwood; the botanical name for the wormwood plant."], "src": "iwb"}
+{"w": "absis", "pos": "noun", "d": ["An apse; a vaulted semicircular recess in a church."], "src": "iwb"}
+{"w": "absist", "pos": "verb", "d": ["To stand apart; to keep aloof."], "src": "iwb"}
+{"w": "absolution", "pos": "noun", "d": ["Formal release from guilt or sin; forgiveness."], "src": "iwb"}
+{"w": "absolutism", "pos": "noun", "d": ["A political system with unlimited centralized power."], "src": "iwb"}
+{"w": "absolutist", "pos": "noun", "d": ["One who favors absolute power or absolute government."], "src": "iwb"}
+{"w": "absolutory", "pos": "adjective", "d": ["Serving to absolve; acquitting."], "src": "iwb"}
+{"w": "absolvatory", "pos": "adjective", "d": ["Tending to absolve; acquitting."], "src": "iwb"}
+{"w": "absolve", "pos": "verb", "d": ["To free from blame or obligation; to acquit."], "src": "iwb"}
+{"w": "absolvent", "pos": "noun", "d": ["One who absolves."], "src": "iwb"}
+{"w": "absonant", "pos": "adjective", "d": ["Discordant; not in harmony."], "src": "iwb"}
+{"w": "absonous", "pos": "adjective", "d": ["Harsh-sounding; out of harmony."], "src": "iwb"}
+{"w": "absorb", "pos": "verb", "d": ["To soak up; to take in fully."], "src": "iwb"}
+{"w": "absorbedly", "pos": "adverb", "d": ["In an absorbed manner; with full attention."], "src": "iwb"}
+{"w": "absorbency", "pos": "noun", "d": ["The capacity to absorb."], "src": "iwb"}
+{"w": "absorbition", "pos": "noun", "d": ["The act or process of absorbing."], "src": "iwb"}
+{"w": "absorpt", "pos": "adjective", "d": ["Absorbed; taken in."], "src": "iwb"}
+{"w": "absorptivity", "pos": "noun", "d": ["The capacity of a material to absorb radiant energy."], "src": "iwb"}
+{"w": "absquatulate", "pos": "verb", "d": ["To leave abruptly; to decamp."], "src": "iwb"}
+{"w": "absque hoc", "pos": "phrase", "d": ["A Latin phrase meaning without this."], "src": "iwb"}
+{"w": "abstain", "pos": "verb", "d": ["To refrain voluntarily, especially from indulgence."], "src": "iwb"}
+{"w": "abstemious", "pos": "adjective", "d": ["Sparing in eating and drinking; temperate."], "src": "iwb"}
+{"w": "abstention", "pos": "noun", "d": ["The act of abstaining; a deliberate refraining."], "src": "iwb"}
+{"w": "abstentious", "pos": "adjective", "d": ["Practicing abstinence; abstinent."], "src": "iwb"}
+{"w": "absterge", "pos": "verb", "d": ["To wipe clean; to cleanse by wiping."], "src": "iwb"}
+{"w": "abstergent", "pos": "noun", "d": ["A cleansing agent."], "src": "iwb"}
+{"w": "absterse", "pos": "verb", "d": ["To cleanse; to purge."], "src": "iwb"}
+{"w": "abstersion", "pos": "noun", "d": ["The act of cleansing; a purging."], "src": "iwb"}
+{"w": "abstersive", "pos": "adjective", "d": ["Cleansing; having power to cleanse."], "src": "iwb"}
+{"w": "abstinence", "pos": "noun", "d": ["Voluntary refraining, especially from food, drink, or indulgence."], "src": "iwb"}
+{"w": "abstinency", "pos": "noun", "d": ["The practice of abstinence."], "src": "iwb"}
+{"w": "abstinent", "pos": "adjective", "d": ["Refraining from alcohol or from indulging in pleasures, especially by choice."], "src": "iwb"}
+{"w": "abstorted", "pos": "adjective", "d": ["Twisted or wrenched away from its natural shape or course."], "src": "iwb"}
+{"w": "abstractitious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "abstringe", "pos": "verb", "d": ["To unbind, loosen, or release from a tie."], "src": "iwb"}
+{"w": "abstrude", "pos": "verb", "d": ["To thrust or push away."], "src": "iwb"}
+{"w": "abstruse", "pos": "adjective", "d": ["Difficult to understand; hidden in obscurity.", "Requiring deep study to grasp."], "src": "iwb"}
+{"w": "abstrusion", "pos": "noun", "d": ["The act of thrusting or pushing away."], "src": "iwb"}
+{"w": "abstrusity", "pos": "noun", "d": ["The quality of being hard to understand."], "src": "iwb"}
+{"w": "absume", "pos": "verb", "d": ["To consume gradually; to waste away little by little."], "src": "iwb"}
+{"w": "absumption", "pos": "noun", "d": ["The act of consuming away gradually."], "src": "iwb"}
+{"w": "absurd", "pos": "adjective", "d": ["So unreasonable that it invites laughter or disbelief.", "Contrary to reason or common sense."], "src": "iwb"}
+{"w": "abuna", "pos": "noun", "d": ["The title of the head bishop of the Ethiopian Christian church."], "src": "iwb"}
+{"w": "abundance", "pos": "noun", "d": ["A very large quantity; more than enough.", "Fullness to overflowing."], "src": "iwb"}
+{"w": "abundant", "pos": "adjective", "d": ["Existing in large quantities; more than enough."], "src": "iwb"}
+{"w": "aburst", "pos": "adjective", "d": ["Bursting forth; in the act of bursting."], "src": "iwb"}
+{"w": "abusage", "pos": "noun", "d": ["Misuse or abuse of something."], "src": "iwb"}
+{"w": "abusion", "pos": "noun", "d": ["Abuse or misuse of a thing.", "A misleading illusion or deception."], "src": "iwb"}
+{"w": "abusive", "pos": "adjective", "d": ["Using harsh, cruel, or insulting words or treatment.", "Marked by improper or excessive use."], "src": "iwb"}
+{"w": "abut", "pos": "verb", "d": ["To touch or border upon at one end or side.", "To lean or rest against for support."], "src": "iwb"}
+{"w": "abutilon", "pos": "noun", "d": ["A genus of flowering shrubs and herbs with showy bell-shaped blossoms."], "src": "iwb"}
+{"w": "abuttal", "pos": "noun", "d": ["Land or property that borders upon something else.", "The point where two things meet or touch."], "src": "iwb"}
+{"w": "abuzz", "pos": "adjective", "d": ["Humming with activity or excitement."], "src": "iwb"}
+{"w": "aby", "pos": "verb", "d": ["To pay the penalty for something; to suffer for it.", "To endure or undergo."], "src": "iwb"}
+{"w": "abye", "pos": "verb", "d": ["To pay for or suffer the consequences of something."], "src": "iwb"}
+{"w": "abyme", "pos": "noun", "d": ["A deep, bottomless chasm or abyss."], "src": "iwb"}
+{"w": "abysm", "pos": "noun", "d": ["A bottomless pit; a deep and immeasurable gulf."], "src": "iwb"}
+{"w": "abyss", "pos": "noun", "d": ["A very deep pit or chasm.", "The deepest regions of the ocean or of despair."], "src": "iwb"}
+{"w": "abyssinian", "pos": "adjective", "d": ["Of or relating to Abyssinia, the former name of Ethiopia.", "Of a breed of slender short-haired cat originating near Abyssinia."], "src": "iwb"}
+{"w": "acacia", "pos": "noun", "d": ["A tree or shrub with feathery leaves and clusters of small yellow or white flowers."], "src": "iwb"}
+{"w": "acacin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acacine", "pos": "adjective", "d": ["Relating to or resembling the acacia."], "src": "iwb"}
+{"w": "academe", "pos": "noun", "d": ["The world of schools, colleges, and scholarly life."], "src": "iwb"}
+{"w": "academian", "pos": "noun", "d": ["A member of an academy or learned society."], "src": "iwb"}
+{"w": "academician", "pos": "noun", "d": ["An elected member of an academy of arts or sciences."], "src": "iwb"}
+{"w": "academism", "pos": "noun", "d": ["Adherence to the established rules and traditions of academic art."], "src": "iwb"}
+{"w": "academist", "pos": "noun", "d": ["A member of an academy; a scholar devoted to academic study."], "src": "iwb"}
+{"w": "acadian", "pos": "noun", "d": ["A descendant of the French settlers of Acadia, from whom Louisiana Cajuns descend."], "src": "iwb"}
+{"w": "acajou", "pos": "noun", "d": ["The cashew tree or its wood.", "A reddish wood resembling mahogany."], "src": "iwb"}
+{"w": "acaleph", "pos": "noun", "d": ["A jellyfish or similar free-swimming sea creature with stinging tentacles."], "src": "iwb"}
+{"w": "acalephae", "pos": "noun", "d": ["A group of marine animals that includes the jellyfishes."], "src": "iwb"}
+{"w": "acalephan", "pos": "adjective", "d": ["Relating to the jellyfishes."], "src": "iwb"}
+{"w": "acalephoid", "pos": "adjective", "d": ["Resembling a jellyfish."], "src": "iwb"}
+{"w": "acalycine", "pos": "adjective", "d": ["Having no calyx, the outer cup of a flower."], "src": "iwb"}
+{"w": "acalysinous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acanth", "pos": "noun", "d": ["A thorn or prickle.", "A spine of a plant or animal."], "src": "iwb"}
+{"w": "acantha", "pos": "noun", "d": ["A thorn or spine.", "The prickly part of a plant."], "src": "iwb"}
+{"w": "acanthaceous", "pos": "adjective", "d": ["Having prickles or thorns; like the acanthus plant."], "src": "iwb"}
+{"w": "acanthine", "pos": "adjective", "d": ["Like a thorn; of the acanthus."], "src": "iwb"}
+{"w": "acanthocarpous", "pos": "adjective", "d": ["Bearing spiny or prickly fruit."], "src": "iwb"}
+{"w": "acanthocephala", "pos": "noun", "d": ["A class of parasitic worms with spiny heads that attach to intestines."], "src": "iwb"}
+{"w": "acanthocephalous", "pos": "adjective", "d": ["Having a spiny head, as certain parasitic worms."], "src": "iwb"}
+{"w": "acanthophorous", "pos": "adjective", "d": ["Bearing spines or prickles."], "src": "iwb"}
+{"w": "acanthopodious", "pos": "adjective", "d": ["Having spiny feet."], "src": "iwb"}
+{"w": "acanthopteri", "pos": "noun", "d": ["An order of fishes with spiny fins."], "src": "iwb"}
+{"w": "acanthopterous", "pos": "adjective", "d": ["Having fins stiffened with spines."], "src": "iwb"}
+{"w": "acanthopterygian", "pos": "noun", "d": ["A fish with spiny fins."], "src": "iwb"}
+{"w": "acanthopterygii", "pos": "noun", "d": ["The spiny-finned fishes as a group."], "src": "iwb"}
+{"w": "acanthopterygious", "pos": "adjective", "d": ["Having spiny fins."], "src": "iwb"}
+{"w": "acanthus", "pos": "noun", "d": ["A Mediterranean plant with bold spiny leaves.", "A carved leaf ornament used on classical column capitals."], "src": "iwb"}
+{"w": "acapsular", "pos": "adjective", "d": ["Not enclosed in a capsule."], "src": "iwb"}
+{"w": "acardiac", "pos": "adjective", "d": ["Having no heart."], "src": "iwb"}
+{"w": "acaridan", "pos": "adjective", "d": ["Relating to mites and ticks."], "src": "iwb"}
+{"w": "acarina", "pos": "noun", "d": ["The order of arachnids that includes mites and ticks."], "src": "iwb"}
+{"w": "acarine", "pos": "adjective", "d": ["Of or relating to mites."], "src": "iwb"}
+{"w": "acaroid", "pos": "adjective", "d": ["Resembling a mite."], "src": "iwb"}
+{"w": "acarpellous", "pos": "adjective", "d": ["Having no carpels, the seed-bearing parts of a flower."], "src": "iwb"}
+{"w": "acarpous", "pos": "adjective", "d": ["Producing no fruit."], "src": "iwb"}
+{"w": "acarus", "pos": "noun", "d": ["A genus of mites.", "Any very small mite."], "src": "iwb"}
+{"w": "acatalectic", "pos": "adjective", "d": ["Complete in its metrical feet; not shortened at the end."], "src": "iwb"}
+{"w": "acatalepsy", "pos": "noun", "d": ["The philosophical doctrine that certain knowledge is impossible."], "src": "iwb"}
+{"w": "acataleptic", "pos": "adjective", "d": ["Relating to the belief that nothing can be known with certainty."], "src": "iwb"}
+{"w": "acater", "pos": "noun", "d": ["One who provides food; a caterer or purveyor."], "src": "iwb"}
+{"w": "acates", "pos": "noun", "d": ["Provisions or food bought for a household."], "src": "iwb"}
+{"w": "acaudate", "pos": "adjective", "d": ["Having no tail."], "src": "iwb"}
+{"w": "acaulescent", "pos": "adjective", "d": ["Appearing to have no stem, with leaves rising from the ground."], "src": "iwb"}
+{"w": "acauline", "pos": "adjective", "d": ["Having no stem."], "src": "iwb"}
+{"w": "acaulose", "pos": "adjective", "d": ["Stemless; growing close to the ground."], "src": "iwb"}
+{"w": "acaulous", "pos": "adjective", "d": ["Having no stem."], "src": "iwb"}
+{"w": "accadian", "pos": "adjective", "d": ["Relating to ancient Akkad or its people.", "Relating to the Akkadian language."], "src": "iwb"}
+{"w": "accede", "pos": "verb", "d": ["To agree to a request or proposal.", "To take up an office or position."], "src": "iwb"}
+{"w": "accedence", "pos": "noun", "d": ["The act of agreeing to or taking up something."], "src": "iwb"}
+{"w": "accelerando", "pos": "adjective", "d": ["Gradually growing faster, used as a musical direction."], "src": "iwb"}
+{"w": "accelerate", "pos": "verb", "d": ["To gain speed; to move faster.", "To make something happen sooner."], "src": "iwb"}
+{"w": "acceleration", "pos": "noun", "d": ["The rate at which speed increases.", "The act of speeding up."], "src": "iwb"}
+{"w": "accelerative", "pos": "adjective", "d": ["Tending to speed up."], "src": "iwb"}
+{"w": "accelerator", "pos": "noun", "d": ["A device that increases speed, as a car's gas pedal.", "A person or thing that speeds up a process."], "src": "iwb"}
+{"w": "acceleratory", "pos": "adjective", "d": ["Serving to accelerate."], "src": "iwb"}
+{"w": "accelerograph", "pos": "noun", "d": ["An instrument that records changes in speed."], "src": "iwb"}
+{"w": "accelerometer", "pos": "noun", "d": ["An instrument that measures acceleration."], "src": "iwb"}
+{"w": "accend", "pos": "verb", "d": ["To set on fire; to kindle."], "src": "iwb"}
+{"w": "accendibility", "pos": "noun", "d": ["The quality of being able to catch fire."], "src": "iwb"}
+{"w": "accension", "pos": "noun", "d": ["The act of kindling or setting alight."], "src": "iwb"}
+{"w": "accensor", "pos": "noun", "d": ["One who lights or kindles."], "src": "iwb"}
+{"w": "accentor", "pos": "noun", "d": ["A small plain songbird, such as the dunnock."], "src": "iwb"}
+{"w": "accentuable", "pos": "adjective", "d": ["Capable of being accented or stressed."], "src": "iwb"}
+{"w": "accentual", "pos": "adjective", "d": ["Relating to stress or accent in speech.", "Based on stressed syllables rather than their length."], "src": "iwb"}
+{"w": "accentuate", "pos": "verb", "d": ["To emphasize; to make more noticeable."], "src": "iwb"}
+{"w": "accentuation", "pos": "noun", "d": ["The act of emphasizing or stressing."], "src": "iwb"}
+{"w": "acceptancy", "pos": "noun", "d": ["Willingness to accept."], "src": "iwb"}
+{"w": "acceptedly", "pos": "adverb", "d": ["In a way that is generally accepted."], "src": "iwb"}
+{"w": "acceptilation", "pos": "noun", "d": ["A formal verbal release from a debt or obligation."], "src": "iwb"}
+{"w": "acceptor", "pos": "noun", "d": ["One who accepts or receives something."], "src": "iwb"}
+{"w": "accessarily", "pos": "adverb", "d": ["In a secondary or incidental way."], "src": "iwb"}
+{"w": "accessariness", "pos": "noun", "d": ["The state of being secondary or subordinate."], "src": "iwb"}
+{"w": "accessibly", "pos": "adverb", "d": ["In a way that can be reached or understood."], "src": "iwb"}
+{"w": "accessorily", "pos": "adverb", "d": ["As an accessory; in a subordinate role."], "src": "iwb"}
+{"w": "accessoriness", "pos": "noun", "d": ["The quality of being merely an accessory."], "src": "iwb"}
+{"w": "acciaccatura", "pos": "noun", "d": ["A very short grace note played just before the main note."], "src": "iwb"}
+{"w": "accidence", "pos": "noun", "d": ["The part of grammar dealing with the inflection of words."], "src": "iwb"}
+{"w": "accidie", "pos": "noun", "d": ["Spiritual sloth or torpor; a listless indifference to duty."], "src": "iwb"}
+{"w": "accipenser", "pos": "noun", "d": ["The sturgeon, a genus of large food fishes."], "src": "iwb"}
+{"w": "accipient", "pos": "noun", "d": ["One who receives something."], "src": "iwb"}
+{"w": "accipiter", "pos": "noun", "d": ["A genus of hawks with short wings and long tails."], "src": "iwb"}
+{"w": "accipitral", "pos": "adjective", "d": ["Like a hawk."], "src": "iwb"}
+{"w": "accipitres", "pos": "noun", "d": ["The order of birds of prey, including hawks, eagles, and owls."], "src": "iwb"}
+{"w": "accipitrine", "pos": "adjective", "d": ["Resembling a hawk."], "src": "iwb"}
+{"w": "accismus", "pos": "noun", "d": ["A feigned refusal of something one really wants."], "src": "iwb"}
+{"w": "accite", "pos": "verb", "d": ["To summon or call, as before a court."], "src": "iwb"}
+{"w": "acclaim", "pos": "verb", "d": ["To praise or applaud loudly and enthusiastically."], "src": "iwb"}
+{"w": "acclamation", "pos": "noun", "d": ["Loud, enthusiastic approval or praise.", "Election or approval by a unanimous show of voices."], "src": "iwb"}
+{"w": "acclamatory", "pos": "adjective", "d": ["Expressing loud approval."], "src": "iwb"}
+{"w": "acclimatation", "pos": "noun", "d": ["The process of adjusting to a new climate or environment."], "src": "iwb"}
+{"w": "acclimate", "pos": "verb", "d": ["To become accustomed to a new climate or situation."], "src": "iwb"}
+{"w": "acclimation", "pos": "noun", "d": ["The act or process of becoming accustomed to new conditions."], "src": "iwb"}
+{"w": "acclimatization", "pos": "noun", "d": ["Adaptation of an organism to a new climate or environment."], "src": "iwb"}
+{"w": "acclimatize", "pos": "verb", "d": ["To adapt to a new climate, place, or conditions."], "src": "iwb"}
+{"w": "acclimature", "pos": "noun", "d": ["The state of being adapted to a climate."], "src": "iwb"}
+{"w": "acclive", "pos": "adjective", "d": ["Sloping upward."], "src": "iwb"}
+{"w": "acclivitous", "pos": "adjective", "d": ["Sloping upward; rising steeply."], "src": "iwb"}
+{"w": "acclivity", "pos": "noun", "d": ["An upward slope of ground."], "src": "iwb"}
+{"w": "acclivous", "pos": "adjective", "d": ["Sloping upward."], "src": "iwb"}
+{"w": "accloy", "pos": "verb", "d": ["To prick a horse's hoof with a nail in shoeing.", "To clog or encumber."], "src": "iwb"}
+{"w": "accoast", "pos": "verb", "d": ["To sail along the coast toward a place."], "src": "iwb"}
+{"w": "accoil", "pos": "verb", "d": ["To gather or wind around something."], "src": "iwb"}
+{"w": "accolade", "pos": "noun", "d": ["High praise or an award of honor.", "The ceremonial touch of a sword in knighting."], "src": "iwb"}
+{"w": "accombination", "pos": "noun", "d": ["A joining together; a combination."], "src": "iwb"}
+{"w": "accommodable", "pos": "adjective", "d": ["Capable of being accommodated or adjusted."], "src": "iwb"}
+{"w": "accommodator", "pos": "noun", "d": ["One who provides accommodation or adjusts things to suit."], "src": "iwb"}
+{"w": "accompanable", "pos": "adjective", "d": ["Capable of being accompanied."], "src": "iwb"}
+{"w": "accompaniment", "pos": "noun", "d": ["Music that supports the main voice or melody.", "Something that goes along with another thing."], "src": "iwb"}
+{"w": "accompanist", "pos": "noun", "d": ["A musician who plays the supporting part."], "src": "iwb"}
+{"w": "accompany", "pos": "verb", "d": ["To go along with someone.", "To play a supporting musical part."], "src": "iwb"}
+{"w": "accompletive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "accomplice", "pos": "noun", "d": ["A person who helps another commit a crime."], "src": "iwb"}
+{"w": "accomplicity", "pos": "noun", "d": ["Partnership in wrongdoing."], "src": "iwb"}
+{"w": "accompt", "pos": "noun", "d": ["An account or reckoning of money."], "src": "iwb"}
+{"w": "accord", "pos": "noun", "d": ["A formal agreement between parties.", "Mutual consent or harmony."], "src": "iwb"}
+{"w": "accordancy", "pos": "noun", "d": ["Agreement or harmony."], "src": "iwb"}
+{"w": "accorporate", "pos": "verb", "d": ["To unite into one body or corporation."], "src": "iwb"}
+{"w": "accost", "pos": "verb", "d": ["To approach and speak to someone, often boldly or uninvited."], "src": "iwb"}
+{"w": "accouchement", "pos": "noun", "d": ["Childbirth; the act of giving birth."], "src": "iwb"}
+{"w": "accoucheur", "pos": "noun", "d": ["A man who assists at childbirth; a male midwife."], "src": "iwb"}
+{"w": "accoucheuse", "pos": "noun", "d": ["A woman who assists at childbirth; a midwife."], "src": "iwb"}
+{"w": "account book", "pos": "phrase", "d": ["A book in which accounts of money are recorded."], "src": "iwb"}
+{"w": "accountancy", "pos": "noun", "d": ["The profession or practice of accounting."], "src": "iwb"}
+{"w": "accouple", "pos": "verb", "d": ["To join or link together; to couple."], "src": "iwb"}
+{"w": "accourage", "pos": "verb", "d": ["To encourage; to give courage to."], "src": "iwb"}
+{"w": "accourt", "pos": "verb", "d": ["To court or woo."], "src": "iwb"}
+{"w": "accouter", "pos": "verb", "d": ["To equip with clothing, arms, or gear."], "src": "iwb"}
+{"w": "accouterments", "pos": "noun", "d": ["The equipment, trappings, or outfit of a person, especially a soldier."], "src": "iwb"}
+{"w": "accoutre", "pos": "verb", "d": ["To equip or furnish with gear."], "src": "iwb"}
+{"w": "accoutrements", "pos": "noun", "d": ["Equipment or trappings; the outfit worn for a particular role."], "src": "iwb"}
+{"w": "accoy", "pos": "verb", "d": ["To make quiet; to subdue or calm."], "src": "iwb"}
+{"w": "accredit", "pos": "verb", "d": ["To officially recognize or authorize as meeting a standard.", "To attribute to a source."], "src": "iwb"}
+{"w": "accrementitial", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "accrementition", "pos": "noun", "d": ["Growth by the addition of matter from outside."], "src": "iwb"}
+{"w": "accresce", "pos": "verb", "d": ["To grow or increase continuously."], "src": "iwb"}
+{"w": "accrescence", "pos": "noun", "d": ["Gradual growth or increase.", "Enlargement of a plant part after flowering."], "src": "iwb"}
+{"w": "accrescent", "pos": "adjective", "d": ["Increasing in size with age."], "src": "iwb"}
+{"w": "accrete", "pos": "verb", "d": ["To grow by gradual accumulation from outside."], "src": "iwb"}
+{"w": "accretion", "pos": "noun", "d": ["Gradual growth by the accumulation of new matter.", "The thing so added."], "src": "iwb"}
+{"w": "accretive", "pos": "adjective", "d": ["Marked by gradual accumulation or growth."], "src": "iwb"}
+{"w": "accriminate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "accroach", "pos": "verb", "d": ["To hook or fasten onto something.", "To encroach or usurp gradually."], "src": "iwb"}
+{"w": "accrual", "pos": "noun", "d": ["The accumulation of something over time, as interest or benefits."], "src": "iwb"}
+{"w": "accrue", "pos": "verb", "d": ["To accumulate or grow over time."], "src": "iwb"}
+{"w": "accrument", "pos": "noun", "d": ["Increase; that which is added by growth."], "src": "iwb"}
+{"w": "accubation", "pos": "noun", "d": ["The act of reclining, especially at meals as the ancients did."], "src": "iwb"}
+{"w": "accumb", "pos": "verb", "d": ["To recline at table, as the Romans did at meals."], "src": "iwb"}
+{"w": "accumbency", "pos": "noun", "d": ["The state of reclining at meals."], "src": "iwb"}
+{"w": "accumulate", "pos": "verb", "d": ["To gather or pile up gradually."], "src": "iwb"}
+{"w": "accumulation", "pos": "noun", "d": ["The act of gathering into a mass or pile.", "The mass so gathered."], "src": "iwb"}
+{"w": "accumulative", "pos": "adjective", "d": ["Tending to accumulate; growing by additions."], "src": "iwb"}
+{"w": "accumulator", "pos": "noun", "d": ["One who accumulates.", "A device that stores electric charge."], "src": "iwb"}
+{"w": "accurse", "pos": "verb", "d": ["To curse; to call down evil upon."], "src": "iwb"}
+{"w": "accurst", "pos": "adjective", "d": ["Under a curse; doomed."], "src": "iwb"}
+{"w": "accusal", "pos": "noun", "d": ["An accusation; the act of accusing."], "src": "iwb"}
+{"w": "accusant", "pos": "noun", "d": ["One who accuses."], "src": "iwb"}
+{"w": "accusation", "pos": "noun", "d": ["A charge of wrongdoing brought against someone."], "src": "iwb"}
+{"w": "accusatival", "pos": "adjective", "d": ["Relating to the accusative case in grammar."], "src": "iwb"}
+{"w": "accusative", "pos": "adjective", "d": ["Designating the grammatical case of the direct object."], "src": "iwb"}
+{"w": "accusatory", "pos": "adjective", "d": ["Containing or implying an accusation."], "src": "iwb"}
+{"w": "accuse", "pos": "verb", "d": ["To charge someone with a fault or crime."], "src": "iwb"}
+{"w": "accusingly", "pos": "adverb", "d": ["In a manner that implies blame or accusation."], "src": "iwb"}
+{"w": "accustom", "pos": "verb", "d": ["To make familiar by habit or practice."], "src": "iwb"}
+{"w": "accustomarily", "pos": "adverb", "d": ["According to custom; usually."], "src": "iwb"}
+{"w": "aceldama", "pos": "noun", "d": ["A field of blood; a place of slaughter."], "src": "iwb"}
+{"w": "acentric", "pos": "adjective", "d": ["Not centered; having no center."], "src": "iwb"}
+{"w": "acephal", "pos": "adjective", "d": ["Headless; without a head."], "src": "iwb"}
+{"w": "acephala", "pos": "noun", "d": ["Mollusks without a distinct head, such as clams and oysters."], "src": "iwb"}
+{"w": "acephalan", "pos": "noun", "d": ["A person, animal, or fetus born without a head."], "src": "iwb"}
+{"w": "acephali", "pos": "noun", "d": ["Plural of acephalus: fetuses or organisms lacking a head."], "src": "iwb"}
+{"w": "acephalocyst", "pos": "noun", "d": ["A hydatid cyst that contains no tapeworm heads or larvae."], "src": "iwb"}
+{"w": "acequia", "pos": "noun", "d": ["An irrigation ditch or canal used in the Spanish-speaking parts of the Americas."], "src": "iwb"}
+{"w": "acerb", "pos": "adjective", "d": ["Sharp or biting in taste or tone.", "Harshly critical and cutting in manner."], "src": "iwb"}
+{"w": "acerbitude", "pos": "noun", "d": ["Harshness or bitterness of taste, temper, or manner."], "src": "iwb"}
+{"w": "aceric", "pos": "adjective", "d": ["Relating to maple trees or the genus Acer."], "src": "iwb"}
+{"w": "acerous", "pos": "adjective", "d": ["Having slender needle-like leaves or parts, as pines do."], "src": "iwb"}
+{"w": "acerval", "pos": "adjective", "d": ["Pertaining to or consisting of a heap or pile."], "src": "iwb"}
+{"w": "acervate", "pos": "verb", "d": ["To gather or pile things into a heap."], "src": "iwb"}
+{"w": "acervation", "pos": "noun", "d": ["The act or process of heaping things into a pile."], "src": "iwb"}
+{"w": "acervative", "pos": "adjective", "d": ["Tending to heap up; pertaining to heaping."], "src": "iwb"}
+{"w": "acervose", "pos": "adjective", "d": ["Full of or covered with small heaps or mounds."], "src": "iwb"}
+{"w": "acervuline", "pos": "adjective", "d": ["Relating to or resembling small heaps or clusters."], "src": "iwb"}
+{"w": "acescence", "pos": "noun", "d": ["The process of becoming slightly sour or acidic."], "src": "iwb"}
+{"w": "acescency", "pos": "noun", "d": ["The tendency to turn sour; the process of becoming acidic."], "src": "iwb"}
+{"w": "acetabulifera", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acetabuliferous", "pos": "adjective", "d": ["Bearing small cup-shaped suckers or cavities."], "src": "iwb"}
+{"w": "acetabuliform", "pos": "adjective", "d": ["Shaped like a small cup or saucer."], "src": "iwb"}
+{"w": "acetabulum", "pos": "noun", "d": ["The cup-shaped socket of the hip bone that holds the head of the thigh bone.", "A cup-shaped sucker or organ in some animals."], "src": "iwb"}
+{"w": "acetal", "pos": "noun", "d": ["A chemical compound formed when an aldehyde reacts with an alcohol."], "src": "iwb"}
+{"w": "acetaldehyde", "pos": "noun", "d": ["A colorless, flammable liquid formed in the oxidation of alcohol, used in making chemicals."], "src": "iwb"}
+{"w": "acetamide", "pos": "noun", "d": ["A white crystalline compound derived from acetic acid, used in solvents and manufacturing."], "src": "iwb"}
+{"w": "acetanilide", "pos": "noun", "d": ["A white crystalline drug once widely used to reduce fever and pain."], "src": "iwb"}
+{"w": "acetary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acetate", "pos": "noun", "d": ["A salt or ester of acetic acid.", "A fabric or plastic made from cellulose acetate."], "src": "iwb"}
+{"w": "acetification", "pos": "noun", "d": ["The process of turning into vinegar or acetic acid."], "src": "iwb"}
+{"w": "acetify", "pos": "verb", "d": ["To convert into acetic acid or vinegar."], "src": "iwb"}
+{"w": "acetimeter", "pos": "noun", "d": ["An instrument for measuring the strength of vinegar."], "src": "iwb"}
+{"w": "acetimetry", "pos": "noun", "d": ["The measurement of the amount of acetic acid in vinegar."], "src": "iwb"}
+{"w": "acetize", "pos": "verb", "d": ["To turn into vinegar or acetic acid."], "src": "iwb"}
+{"w": "acetometer", "pos": "noun", "d": ["An instrument for testing the acidity of vinegar."], "src": "iwb"}
+{"w": "acetonaemia", "pos": "noun", "d": ["The presence of an excess of acetone in the blood."], "src": "iwb"}
+{"w": "acetonemia", "pos": "noun", "d": ["The presence of acetone bodies in the blood."], "src": "iwb"}
+{"w": "acetonuria", "pos": "noun", "d": ["The presence of acetone or ketone bodies in the urine."], "src": "iwb"}
+{"w": "acetophenone", "pos": "noun", "d": ["A sweet-smelling chemical compound used in perfumes and manufacturing."], "src": "iwb"}
+{"w": "acetosity", "pos": "noun", "d": ["The quality of being sour like vinegar; excessive acidity."], "src": "iwb"}
+{"w": "acetous", "pos": "adjective", "d": ["Tasting or smelling of vinegar; sour and acidic.", "Producing vinegar or acetic acid."], "src": "iwb"}
+{"w": "acetyl", "pos": "noun", "d": ["A chemical group of two carbon atoms, three hydrogen atoms, and one oxygen atom found in many organic compounds."], "src": "iwb"}
+{"w": "acetylene", "pos": "noun", "d": ["A colorless flammable gas that burns with an intense flame, used in welding and cutting metals."], "src": "iwb"}
+{"w": "ach", "pos": "interjection", "d": ["An exclamation of surprise, impatience, or dismissal."], "src": "iwb"}
+{"w": "achaean", "pos": "adjective", "d": ["Of or relating to ancient Achaea or the ancient Greeks."], "src": "iwb"}
+{"w": "achaian", "pos": "adjective", "d": ["Another spelling of Achaean, relating to the ancient Greeks of Achaea."], "src": "iwb"}
+{"w": "acharnement", "pos": "noun", "d": ["Fierce, relentless determination in battle or pursuit."], "src": "iwb"}
+{"w": "achatina", "pos": "noun", "d": ["A genus of very large tropical land snails."], "src": "iwb"}
+{"w": "achatour", "pos": "noun", "d": ["An old word for a buyer or purchaser of goods."], "src": "iwb"}
+{"w": "ache", "pos": "noun", "d": ["A dull, steady, continuous pain."], "src": "iwb"}
+{"w": "achene", "pos": "noun", "d": ["A small, dry, one-seeded fruit that does not split open, as in a sunflower."], "src": "iwb"}
+{"w": "achenial", "pos": "adjective", "d": ["Relating to or consisting of achenes."], "src": "iwb"}
+{"w": "achenium", "pos": "noun", "d": ["An older spelling of achene."], "src": "iwb"}
+{"w": "acheron", "pos": "noun", "d": ["In Greek mythology, a river of the underworld."], "src": "iwb"}
+{"w": "achievance", "pos": "noun", "d": ["A rare word for an achievement; something accomplished."], "src": "iwb"}
+{"w": "achillean", "pos": "adjective", "d": ["Relating to Achilles, the hero of Greek legend."], "src": "iwb"}
+{"w": "achilous", "pos": "adjective", "d": ["Lacking lips."], "src": "iwb"}
+{"w": "achiote", "pos": "noun", "d": ["A red-orange spice made from the seeds of the annatto tree, used in Latin American cooking."], "src": "iwb"}
+{"w": "achlamydate", "pos": "noun", "d": ["A plant whose flowers lack both petals and sepals."], "src": "iwb"}
+{"w": "achlamydeous", "pos": "adjective", "d": ["Lacking petals and sepals, as some flowers."], "src": "iwb"}
+{"w": "acholia", "pos": "noun", "d": ["The absence or failure of bile secretion."], "src": "iwb"}
+{"w": "acholous", "pos": "adjective", "d": ["Lacking or deficient in bile."], "src": "iwb"}
+{"w": "achromatic", "pos": "adjective", "d": ["Without color.", "Describing a lens that corrects for color distortion."], "src": "iwb"}
+{"w": "achromatin", "pos": "noun", "d": ["The portion of a cell nucleus that does not take up color stain."], "src": "iwb"}
+{"w": "achromatism", "pos": "noun", "d": ["Freedom from color or color distortion, as in a lens."], "src": "iwb"}
+{"w": "achromatization", "pos": "noun", "d": ["The process of making something free of color distortion."], "src": "iwb"}
+{"w": "achromatize", "pos": "verb", "d": ["To make free of color or color distortion."], "src": "iwb"}
+{"w": "achromatopsy", "pos": "noun", "d": ["Total color blindness; inability to see any color."], "src": "iwb"}
+{"w": "achromatous", "pos": "adjective", "d": ["Lacking color; achromatic."], "src": "iwb"}
+{"w": "achronic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "achroodextrin", "pos": "noun", "d": ["A form of dextrin that does not turn blue with iodine."], "src": "iwb"}
+{"w": "achrooedextrin", "pos": "noun", "d": ["Another spelling of achroodextrin."], "src": "iwb"}
+{"w": "achroous", "pos": "adjective", "d": ["Pale or lacking color."], "src": "iwb"}
+{"w": "achrophony", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "achylous", "pos": "adjective", "d": ["Lacking chyle, the milky fluid formed during digestion."], "src": "iwb"}
+{"w": "achymous", "pos": "adjective", "d": ["Lacking chyme, the pulpy mass of partly digested food."], "src": "iwb"}
+{"w": "acicula", "pos": "noun", "d": ["A small needle-like part or bristle, as in certain worms and plants."], "src": "iwb"}
+{"w": "acicular", "pos": "adjective", "d": ["Shaped like a needle; slender and pointed."], "src": "iwb"}
+{"w": "aciculate", "pos": "adjective", "d": ["Covered with or bearing small needle-like points."], "src": "iwb"}
+{"w": "aciculiform", "pos": "adjective", "d": ["Shaped like a small needle."], "src": "iwb"}
+{"w": "aciculite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acid process", "pos": "phrase", "d": ["A manufacturing method, as in papermaking or steelmaking, that uses acid to treat the material."], "src": "iwb"}
+{"w": "acidiferous", "pos": "adjective", "d": ["Producing or containing acid."], "src": "iwb"}
+{"w": "acidifiable", "pos": "adjective", "d": ["Capable of being turned into an acid or made acidic."], "src": "iwb"}
+{"w": "acidific", "pos": "adjective", "d": ["Tending to produce acid or acidity."], "src": "iwb"}
+{"w": "acidimeter", "pos": "noun", "d": ["An instrument for measuring the strength of acids."], "src": "iwb"}
+{"w": "acidimetry", "pos": "noun", "d": ["The measurement of the strength or amount of acid in a solution."], "src": "iwb"}
+{"w": "acidulate", "pos": "verb", "d": ["To make slightly acidic or sour."], "src": "iwb"}
+{"w": "acidulent", "pos": "adjective", "d": ["Mildly acidic or sour."], "src": "iwb"}
+{"w": "acidulous", "pos": "adjective", "d": ["Somewhat sour or acidic in taste."], "src": "iwb"}
+{"w": "acierage", "pos": "noun", "d": ["The process of coating an engraved printing plate with steel to harden it."], "src": "iwb"}
+{"w": "aciform", "pos": "adjective", "d": ["Shaped like a needle."], "src": "iwb"}
+{"w": "acinaceous", "pos": "adjective", "d": ["Resembling a cluster of grapes; full of small kernels."], "src": "iwb"}
+{"w": "acinaces", "pos": "noun", "d": ["A short curved sword or scimitar used by the ancient Persians."], "src": "iwb"}
+{"w": "acinaciform", "pos": "adjective", "d": ["Shaped like a short curved sword or scimitar."], "src": "iwb"}
+{"w": "acinesia", "pos": "noun", "d": ["Loss or absence of voluntary movement."], "src": "iwb"}
+{"w": "acinetae", "pos": "noun", "d": ["Plural of acineta: stalked single-celled organisms that feed through tentacles."], "src": "iwb"}
+{"w": "acinetiform", "pos": "adjective", "d": ["Resembling an acineta, a stalked single-celled organism."], "src": "iwb"}
+{"w": "aciniform", "pos": "adjective", "d": ["Shaped like a small berry or grape."], "src": "iwb"}
+{"w": "acinose", "pos": "adjective", "d": ["Made up of small sac-like clusters, as some glands."], "src": "iwb"}
+{"w": "acinous", "pos": "adjective", "d": ["Consisting of small rounded sacs or clusters."], "src": "iwb"}
+{"w": "acinus", "pos": "noun", "d": ["A small sac-like cluster of cells, as in a gland.", "A single grape or berry-like fruit."], "src": "iwb"}
+{"w": "acipenser", "pos": "noun", "d": ["The genus of sturgeons, large primitive fishes."], "src": "iwb"}
+{"w": "aciurgy", "pos": "noun", "d": ["An old term for operative surgery done with instruments."], "src": "iwb"}
+{"w": "acknow", "pos": "verb", "d": ["An obsolete form of the verb meaning to acknowledge or recognize."], "src": "iwb"}
+{"w": "acknowledgedly", "pos": "adverb", "d": ["By general admission; admittedly."], "src": "iwb"}
+{"w": "aclinic", "pos": "adjective", "d": ["Relating to the aclinic line, where a compass needle stays level."], "src": "iwb"}
+{"w": "acme", "pos": "noun", "d": ["The highest point or peak of something; the pinnacle."], "src": "iwb"}
+{"w": "acnodal", "pos": "adjective", "d": ["Relating to an acnode, an isolated point on a curve."], "src": "iwb"}
+{"w": "acnode", "pos": "noun", "d": ["An isolated point on a mathematical curve, not connected to the rest of it."], "src": "iwb"}
+{"w": "acock", "pos": "adverb", "d": ["Turned or tilted upward, as a hat worn at a jaunty angle."], "src": "iwb"}
+{"w": "acold", "pos": "adjective", "d": ["An old word meaning cold or chilly."], "src": "iwb"}
+{"w": "acologic", "pos": "adjective", "d": ["Relating to acology, the study of remedies."], "src": "iwb"}
+{"w": "acology", "pos": "noun", "d": ["The branch of medicine dealing with remedies; the study of drugs and cures."], "src": "iwb"}
+{"w": "acolothist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acolyctine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acolyte", "pos": "noun", "d": ["A person who assists in a religious service.", "A devoted follower or helper of someone."], "src": "iwb"}
+{"w": "acolyth", "pos": "noun", "d": ["An older spelling of acolyte."], "src": "iwb"}
+{"w": "aconddylose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acondylous", "pos": "adjective", "d": ["Lacking condyles, the rounded knobs at the ends of bones."], "src": "iwb"}
+{"w": "aconital", "pos": "adjective", "d": ["Relating to aconite or derived from it."], "src": "iwb"}
+{"w": "aconite", "pos": "noun", "d": ["A poisonous plant with hooded blue or purple flowers, also called monkshood or wolfsbane."], "src": "iwb"}
+{"w": "aconitia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "aconitic", "pos": "adjective", "d": ["Relating to or derived from aconite."], "src": "iwb"}
+{"w": "aconitine", "pos": "noun", "d": ["A highly poisonous alkaloid obtained from aconite plants."], "src": "iwb"}
+{"w": "aconitum", "pos": "noun", "d": ["The genus of poisonous plants including monkshood and wolfsbane."], "src": "iwb"}
+{"w": "acontia", "pos": "noun", "d": ["Thin stinging threads shot out by sea anemones for defense."], "src": "iwb"}
+{"w": "acopic", "pos": "adjective", "d": ["Relieving weariness or fatigue, as a medicine."], "src": "iwb"}
+{"w": "acorn", "pos": "noun", "d": ["The nut of the oak tree, oval in shape with a cap-like cup."], "src": "iwb"}
+{"w": "acorn cup", "pos": "phrase", "d": ["The woody cup that holds the base of an acorn."], "src": "iwb"}
+{"w": "acorn-shell", "pos": "noun", "d": ["A barnacle whose shell resembles an acorn cup, fixed to rocks and ships."], "src": "iwb"}
+{"w": "acosmism", "pos": "noun", "d": ["The philosophical doctrine that the universe has no real or separate existence."], "src": "iwb"}
+{"w": "acosmist", "pos": "noun", "d": ["One who holds the doctrine of acosmism."], "src": "iwb"}
+{"w": "acotyledon", "pos": "noun", "d": ["A plant, such as a fern or moss, whose seeds or spores have no seed leaves."], "src": "iwb"}
+{"w": "acouchy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acoumeter", "pos": "noun", "d": ["An instrument for measuring the sharpness of hearing."], "src": "iwb"}
+{"w": "acoumetry", "pos": "noun", "d": ["The testing or measurement of hearing ability."], "src": "iwb"}
+{"w": "acoustician", "pos": "noun", "d": ["An expert in the science of sound."], "src": "iwb"}
+{"w": "acquaint", "pos": "verb", "d": ["To make someone familiar with something; to inform."], "src": "iwb"}
+{"w": "acquest", "pos": "noun", "d": ["Property or goods acquired; an acquisition."], "src": "iwb"}
+{"w": "acquiesce", "pos": "verb", "d": ["To accept or agree to something quietly without protest."], "src": "iwb"}
+{"w": "acquiescence", "pos": "noun", "d": ["Quiet acceptance of or agreement to something without protest."], "src": "iwb"}
+{"w": "acquiescency", "pos": "noun", "d": ["The state of quietly accepting something; acquiescence."], "src": "iwb"}
+{"w": "acquiescent", "pos": "adjective", "d": ["Willing to accept or agree without protest."], "src": "iwb"}
+{"w": "acquiet", "pos": "verb", "d": ["An old verb meaning to make quiet or calm."], "src": "iwb"}
+{"w": "acquirability", "pos": "noun", "d": ["The quality of being able to be acquired or obtained."], "src": "iwb"}
+{"w": "acquiry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acquisite", "pos": "adjective", "d": ["An old word meaning acquired or gained."], "src": "iwb"}
+{"w": "acquisitive", "pos": "adjective", "d": ["Eager to gain or collect things; greedy for acquisition."], "src": "iwb"}
+{"w": "acquisitor", "pos": "noun", "d": ["A person who acquires or gains something."], "src": "iwb"}
+{"w": "acquist", "pos": "noun", "d": ["An old word for something acquired; an acquisition."], "src": "iwb"}
+{"w": "acquit", "pos": "verb", "d": ["To declare someone not guilty of a charge.", "To conduct or behave oneself in a specified way."], "src": "iwb"}
+{"w": "acquittal", "pos": "noun", "d": ["A formal declaration that someone is not guilty of a crime."], "src": "iwb"}
+{"w": "acquittance", "pos": "noun", "d": ["A written receipt showing that a debt or obligation has been paid or discharged."], "src": "iwb"}
+{"w": "acrania", "pos": "noun", "d": ["A birth defect in which part or all of the skull is missing."], "src": "iwb"}
+{"w": "acranial", "pos": "adjective", "d": ["Lacking a skull or cranium."], "src": "iwb"}
+{"w": "acrase", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acrasia", "pos": "noun", "d": ["Lack of self-control; inability to resist one's appetites."], "src": "iwb"}
+{"w": "acraspeda", "pos": "noun", "d": ["A group of jellyfishes lacking a velum, including the common medusae."], "src": "iwb"}
+{"w": "acrasy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acraze", "pos": "verb", "d": ["To drive mad; to craze."], "src": "iwb"}
+{"w": "acrid", "pos": "adjective", "d": ["Harsh or bitter to the taste or smell.", "Bitingly sharp in manner or tone."], "src": "iwb"}
+{"w": "acrimony", "pos": "noun", "d": ["Bitterness or sharpness of temper, manner, or speech."], "src": "iwb"}
+{"w": "acrisia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acrisy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acrita", "pos": "noun", "d": ["A group name for the simplest animals, lacking distinct organs."], "src": "iwb"}
+{"w": "acritan", "pos": "adjective", "d": ["Relating to the acrita, the simplest animals."], "src": "iwb"}
+{"w": "acrite", "pos": "noun", "d": ["One of the acrita; a simple animal without distinct organs."], "src": "iwb"}
+{"w": "acritical", "pos": "adjective", "d": ["Not marked by a crisis; not critical or decisive."], "src": "iwb"}
+{"w": "acritochromacy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acritude", "pos": "noun", "d": ["The quality of being acrid; sharp bitterness."], "src": "iwb"}
+{"w": "acrity", "pos": "noun", "d": ["Sharpness or bitterness of taste; acridity."], "src": "iwb"}
+{"w": "acroamatic", "pos": "adjective", "d": ["Meant for a select audience of hearers; esoteric or abstruse."], "src": "iwb"}
+{"w": "acroatic", "pos": "adjective", "d": ["Communicated orally to a select audience; esoteric."], "src": "iwb"}
+{"w": "acrocarpous", "pos": "adjective", "d": ["Bearing fruit at the tip of the stem, as certain mosses do."], "src": "iwb"}
+{"w": "acrocephalic", "pos": "adjective", "d": ["Having an abnormally high, pointed skull."], "src": "iwb"}
+{"w": "acrocephaly", "pos": "noun", "d": ["A condition in which the skull is abnormally high and pointed."], "src": "iwb"}
+{"w": "acroceraunian", "pos": "adjective", "d": ["Relating to the Acroceraunian promontory or mountains of ancient Epirus."], "src": "iwb"}
+{"w": "acrodactylum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acrodont", "pos": "adjective", "d": ["Having teeth fused to the top of the jawbone, as some lizards do."], "src": "iwb"}
+{"w": "acrogen", "pos": "noun", "d": ["A plant, such as a fern or moss, that grows upward from the tip of its stem."], "src": "iwb"}
+{"w": "acrolein", "pos": "noun", "d": ["A sharp-smelling, irritating liquid formed when fats and oils are overheated."], "src": "iwb"}
+{"w": "acrolith", "pos": "noun", "d": ["An ancient statue with a wooden body and stone head, hands, and feet."], "src": "iwb"}
+{"w": "acrolithan", "pos": "adjective", "d": ["Relating to or resembling an acrolith."], "src": "iwb"}
+{"w": "acromegaly", "pos": "noun", "d": ["A disorder causing abnormal enlargement of the hands, feet, and face."], "src": "iwb"}
+{"w": "acromial", "pos": "adjective", "d": ["Relating to the acromion, the bony point of the shoulder."], "src": "iwb"}
+{"w": "acromion", "pos": "noun", "d": ["The bony outer tip of the shoulder blade that forms the point of the shoulder."], "src": "iwb"}
+{"w": "acromonogrammatic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acronyc", "pos": "adjective", "d": ["Happening at nightfall, as a star rising at sunset."], "src": "iwb"}
+{"w": "acronychal", "pos": "adjective", "d": ["Occurring at nightfall, as the rising of a star at sunset."], "src": "iwb"}
+{"w": "acronyctous", "pos": "adjective", "d": ["Happening at nightfall."], "src": "iwb"}
+{"w": "acrook", "pos": "adjective", "d": ["An old word meaning crooked or out of line."], "src": "iwb"}
+{"w": "acropetal", "pos": "adjective", "d": ["Developing or maturing from the base toward the tip, as flowers on a stem."], "src": "iwb"}
+{"w": "acrophony", "pos": "noun", "d": ["The use of a picture to stand for the first sound of the word it pictures, as in early writing systems."], "src": "iwb"}
+{"w": "acropodium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acropolis", "pos": "noun", "d": ["The fortified high point of an ancient Greek city, especially that of Athens."], "src": "iwb"}
+{"w": "acropolitan", "pos": "adjective", "d": ["Relating to an acropolis."], "src": "iwb"}
+{"w": "acrospire", "pos": "noun", "d": ["The first sprout or shoot that appears when grain germinates."], "src": "iwb"}
+{"w": "acrospore", "pos": "noun", "d": ["A spore produced at the tip of a fungal thread."], "src": "iwb"}
+{"w": "acrosporous", "pos": "adjective", "d": ["Producing spores at the tip."], "src": "iwb"}
+{"w": "acrostic", "pos": "noun", "d": ["A poem or puzzle in which the first letters of the lines spell a word or message."], "src": "iwb"}
+{"w": "acrotarsium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "acroteleutic", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

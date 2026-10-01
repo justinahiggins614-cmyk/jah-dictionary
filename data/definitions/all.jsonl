@@ -22216,6 +22216,806 @@
 {"w": "eradicable", "pos": "adjective", "d": ["Capable of being eradicated."], "src": "iwb"}
 {"w": "eradicate", "pos": "verb", "d": ["To destroy or remove completely; to root out."], "src": "iwb"}
 {"w": "eradication", "pos": "noun", "d": ["Complete destruction or removal; the act of eradicating."], "src": "iwb"}
+{"w": "eradicative", "pos": "adjective", "d": ["Tending to root out or completely destroy something.", "Serving to eradicate."], "src": "iwb"}
+{"w": "erase", "pos": "verb", "d": ["To rub or wipe out marks, writing, or recorded material.", "To remove every trace of something."], "src": "iwb"}
+{"w": "erative", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erato", "pos": "noun", "d": ["In Greek mythology, the Muse of lyric poetry."], "src": "iwb"}
+{"w": "erbium", "pos": "noun", "d": ["A soft silvery chemical element of the rare-earth group, used in lasers and fiber optics."], "src": "iwb"}
+{"w": "ercedeken", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ere", "pos": "preposition", "d": ["Before in time; an old-fashioned word meaning prior to."], "src": "iwb"}
+{"w": "erect", "pos": "adjective", "d": ["Standing straight upright instead of leaning or lying flat.", "Built or placed firmly upright."], "src": "iwb"}
+{"w": "erectility", "pos": "noun", "d": ["The quality of being able to stand upright or become stiff and rigid."], "src": "iwb"}
+{"w": "erecto-patent", "pos": "adjective", "d": ["In botany, spreading outward and upward at an angle between upright and fully open."], "src": "iwb"}
+{"w": "erector", "pos": "noun", "d": ["A muscle that raises a part of the body or holds it upright.", "A person or device that sets something up."], "src": "iwb"}
+{"w": "eremacausis", "pos": "noun", "d": ["The slow decay of organic matter through gradual oxidation in the air."], "src": "iwb"}
+{"w": "eremitage", "pos": "noun", "d": ["An old spelling of hermitage, the secluded dwelling of a hermit."], "src": "iwb"}
+{"w": "eremitic", "pos": "adjective", "d": ["Living like a hermit; fond of solitude."], "src": "iwb"}
+{"w": "eremitish", "pos": "adjective", "d": ["Somewhat like a hermit; inclined to live alone."], "src": "iwb"}
+{"w": "eremitism", "pos": "noun", "d": ["The practice of living as a hermit; withdrawal from society."], "src": "iwb"}
+{"w": "ereptation", "pos": "noun", "d": ["The act of creeping or crawling like a reptile."], "src": "iwb"}
+{"w": "ereption", "pos": "noun", "d": ["In civil law, the act of snatching something away by force."], "src": "iwb"}
+{"w": "erethism", "pos": "noun", "d": ["An abnormal state of heightened irritability or excitement in the body or mind."], "src": "iwb"}
+{"w": "erethistic", "pos": "adjective", "d": ["Relating to or marked by erethism; excessively irritable."], "src": "iwb"}
+{"w": "erf", "pos": "noun", "d": ["In South Africa, a plot of land, especially one in a town."], "src": "iwb"}
+{"w": "erg", "pos": "noun", "d": ["A very small unit of energy or work in the centimeter-gram-second system."], "src": "iwb"}
+{"w": "ergat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ergo", "pos": "adverb", "d": ["Therefore; for that reason."], "src": "iwb"}
+{"w": "ergograph", "pos": "noun", "d": ["An instrument that records the work done by muscles during repeated contractions."], "src": "iwb"}
+{"w": "ergon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ergot", "pos": "noun", "d": ["A fungus that grows on rye and other grains and can cause poisoning.", "A small horny growth on the leg of a horse or other hoofed animal."], "src": "iwb"}
+{"w": "ergotized", "pos": "adjective", "d": ["Affected by the ergot fungus; poisoned by eating infected grain."], "src": "iwb"}
+{"w": "eriach", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erica", "pos": "noun", "d": ["Any plant of the heath genus Erica, which includes many heathers."], "src": "iwb"}
+{"w": "ericaceous", "pos": "adjective", "d": ["Belonging to the heath family of plants."], "src": "iwb"}
+{"w": "ericinol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ericius", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ericolin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eridanus", "pos": "noun", "d": ["A long winding constellation in the southern sky, named for a mythical river."], "src": "iwb"}
+{"w": "erigible", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erin", "pos": "noun", "d": ["A poetic old name for Ireland."], "src": "iwb"}
+{"w": "erinaceous", "pos": "adjective", "d": ["Resembling a hedgehog; covered with prickles like a hedgehog."], "src": "iwb"}
+{"w": "eringo", "pos": "noun", "d": ["The candied root of sea holly, once eaten as a sweet."], "src": "iwb"}
+{"w": "erinite", "pos": "noun", "d": ["A rare green copper arsenate mineral."], "src": "iwb"}
+{"w": "erinys", "pos": "noun", "d": ["In Greek mythology, one of the Furies who punished wrongdoers."], "src": "iwb"}
+{"w": "eriometer", "pos": "noun", "d": ["An instrument that measures the fineness of wool fibers by how they diffract light."], "src": "iwb"}
+{"w": "eristalis", "pos": "noun", "d": ["A genus of hoverflies whose larvae are known as rat-tailed maggots."], "src": "iwb"}
+{"w": "eristic", "pos": "adjective", "d": ["Given to arguing for the sake of dispute rather than for truth."], "src": "iwb"}
+{"w": "erke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erlking", "pos": "noun", "d": ["In German folklore, a goblin king said to lure children to their death."], "src": "iwb"}
+{"w": "erme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ermilin", "pos": "noun", "d": ["An old form of the word ermine, the white winter fur of the stoat."], "src": "iwb"}
+{"w": "ermin", "pos": "noun", "d": ["An old shortened form of ermine."], "src": "iwb"}
+{"w": "ermine", "pos": "noun", "d": ["The white winter coat of the stoat, used as a costly fur.", "High rank or office symbolized by ermine-trimmed robes, as that of a judge."], "src": "iwb"}
+{"w": "erminois", "pos": "noun", "d": ["In heraldry, a fur pattern that is the reverse of ermine: black with white spots."], "src": "iwb"}
+{"w": "ermit", "pos": "noun", "d": ["An old spelling of hermit."], "src": "iwb"}
+{"w": "ern", "pos": "noun", "d": ["An old variant of erne, a sea eagle."], "src": "iwb"}
+{"w": "erne", "pos": "noun", "d": ["A large sea eagle; an old name for the white-tailed eagle."], "src": "iwb"}
+{"w": "erode", "pos": "verb", "d": ["To wear away gradually by wind, water, or chemical action.", "To destroy slowly over time."], "src": "iwb"}
+{"w": "erodent", "pos": "noun", "d": ["A substance that wears away a surface by erosion, especially tooth enamel.", "That which erodes."], "src": "iwb"}
+{"w": "erogate", "pos": "verb", "d": ["To ask for something earnestly; to entreat.", "In Roman law, to propose a law by putting it to the people's vote."], "src": "iwb"}
+{"w": "erogation", "pos": "noun", "d": ["The act of asking earnestly for something."], "src": "iwb"}
+{"w": "eros", "pos": "noun", "d": ["In Greek mythology, the god of love.", "Passionate romantic love, as distinct from friendship."], "src": "iwb"}
+{"w": "erose", "pos": "adjective", "d": ["Having an irregularly notched edge as if gnawed, as the leaves of some plants."], "src": "iwb"}
+{"w": "erostrate", "pos": "adjective", "d": ["Lacking a beak or beaklike projection."], "src": "iwb"}
+{"w": "eroteme", "pos": "noun", "d": ["A rhetorical question asked for effect, with no answer expected."], "src": "iwb"}
+{"w": "erotesis", "pos": "noun", "d": ["The asking of questions, especially rhetorical ones, as a figure of speech."], "src": "iwb"}
+{"w": "erotic", "pos": "adjective", "d": ["Relating to sexual love or arousing sexual desire."], "src": "iwb"}
+{"w": "erpetologist", "pos": "noun", "d": ["A variant spelling of herpetologist, a scientist who studies reptiles and amphibians."], "src": "iwb"}
+{"w": "erpetology", "pos": "noun", "d": ["A variant spelling of herpetology, the study of reptiles and amphibians."], "src": "iwb"}
+{"w": "err", "pos": "verb", "d": ["To make a mistake; to be wrong.", "To stray from what is right."], "src": "iwb"}
+{"w": "errabund", "pos": "adjective", "d": ["Wandering from place to place; errant."], "src": "iwb"}
+{"w": "errancy", "pos": "noun", "d": ["The condition of being in error; wrongness of opinion or conduct."], "src": "iwb"}
+{"w": "errantia", "pos": "noun", "d": ["A group of free-swimming marine worms that wander instead of living in tubes."], "src": "iwb"}
+{"w": "errantry", "pos": "noun", "d": ["The wandering life of a knight errant; a questing adventure."], "src": "iwb"}
+{"w": "errata", "pos": "noun", "d": ["A list of errors with their corrections, printed in a book."], "src": "iwb"}
+{"w": "erratic", "pos": "adjective", "d": ["Not regular or predictable in movement, behavior, or pattern."], "src": "iwb"}
+{"w": "erratum", "pos": "noun", "d": ["A single error in a printed work, listed for correction."], "src": "iwb"}
+{"w": "erroneous", "pos": "adjective", "d": ["Containing an error; mistaken or incorrect."], "src": "iwb"}
+{"w": "ers", "pos": "noun", "d": ["The plural of er, an interjection expressing hesitation."], "src": "iwb"}
+{"w": "erse", "pos": "noun", "d": ["The Gaelic language of Ireland or Scotland."], "src": "iwb"}
+{"w": "ersh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erst", "pos": "adverb", "d": ["Formerly; at an earlier time."], "src": "iwb"}
+{"w": "erubescence", "pos": "noun", "d": ["A becoming red; a blush."], "src": "iwb"}
+{"w": "erubescency", "pos": "noun", "d": ["The state of blushing or turning red."], "src": "iwb"}
+{"w": "erubescent", "pos": "adjective", "d": ["Turning red; blushing."], "src": "iwb"}
+{"w": "erubescite", "pos": "noun", "d": ["An old name for bornite, a copper-iron sulfide mineral with an iridescent tarnish."], "src": "iwb"}
+{"w": "eruca", "pos": "noun", "d": ["A caterpillar.", "A genus of plants including rocket, the salad herb."], "src": "iwb"}
+{"w": "erucic", "pos": "adjective", "d": ["Relating to erucic acid, a fatty acid found in rapeseed and mustard oils."], "src": "iwb"}
+{"w": "erucifrom", "pos": "adjective", "d": ["Shaped like a caterpillar."], "src": "iwb"}
+{"w": "eruct", "pos": "verb", "d": ["To belch; to force gas up from the stomach through the mouth.", "To eject violently, as a volcano eructs lava."], "src": "iwb"}
+{"w": "erudiate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erudite", "pos": "adjective", "d": ["Having or showing deep learning; scholarly."], "src": "iwb"}
+{"w": "erudition", "pos": "noun", "d": ["Deep and extensive learning gained through study."], "src": "iwb"}
+{"w": "erugate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eruginous", "pos": "adjective", "d": ["Rusty or copper-green in color, like verdigris."], "src": "iwb"}
+{"w": "erumpent", "pos": "adjective", "d": ["Bursting forth through a surface, as a plant structure breaking through bark."], "src": "iwb"}
+{"w": "erupt", "pos": "verb", "d": ["To burst out suddenly and violently, as a volcano or a rash does.", "To break out into sudden activity or emotion."], "src": "iwb"}
+{"w": "eryngium", "pos": "noun", "d": ["A genus of spiny plants including sea holly."], "src": "iwb"}
+{"w": "eryngo", "pos": "noun", "d": ["The sea holly plant or its candied root."], "src": "iwb"}
+{"w": "erysipelas", "pos": "noun", "d": ["A painful bacterial infection of the skin marked by red, spreading inflammation."], "src": "iwb"}
+{"w": "erysipelatoid", "pos": "adjective", "d": ["Resembling erysipelas."], "src": "iwb"}
+{"w": "erysipelatous", "pos": "adjective", "d": ["Relating to or affected with erysipelas."], "src": "iwb"}
+{"w": "erysipelous", "pos": "adjective", "d": ["Relating to or resembling erysipelas, a skin infection that causes red, swollen patches."], "src": "iwb"}
+{"w": "erythema", "pos": "noun", "d": ["Redness of the skin caused by increased blood flow to its surface."], "src": "iwb"}
+{"w": "erythematous", "pos": "adjective", "d": ["Marked by abnormal redness of the skin."], "src": "iwb"}
+{"w": "erythraean", "pos": "adjective", "d": ["Relating to the Erythraean Sea, the ancient name for the Red Sea and its neighboring waters."], "src": "iwb"}
+{"w": "erythrean", "pos": "adjective", "d": ["Relating to the Erythraean Sea, an ancient name for the Red Sea."], "src": "iwb"}
+{"w": "erythric", "pos": "adjective", "d": ["Relating to erythrin or having a red color."], "src": "iwb"}
+{"w": "erythrin", "pos": "noun", "d": ["A red pigment obtained from certain lichens."], "src": "iwb"}
+{"w": "erythrina", "pos": "noun", "d": ["A genus of tropical trees and shrubs known for their bright red flowers."], "src": "iwb"}
+{"w": "erythrine", "pos": "noun", "d": ["A pinkish-red mineral containing cobalt, also called erythrite."], "src": "iwb"}
+{"w": "erythrism", "pos": "noun", "d": ["An unusual reddish coloration of the hair, skin, feathers, or fur of an animal."], "src": "iwb"}
+{"w": "erythrite", "pos": "noun", "d": ["A deep red mineral composed of hydrated cobalt arsenate."], "src": "iwb"}
+{"w": "erythrochroic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erythrochroism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erythrodextrin", "pos": "noun", "d": ["A form of dextrin produced during the breakdown of starch that turns red with iodine."], "src": "iwb"}
+{"w": "erythrogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "erythrogranulose", "pos": "noun", "d": ["A form of starch that stains red with iodine."], "src": "iwb"}
+{"w": "erythroid", "pos": "adjective", "d": ["Reddish in color, or resembling red blood cells."], "src": "iwb"}
+{"w": "erythroleic", "pos": "adjective", "d": ["Relating to erythrolein, a red pigment obtained from lichens."], "src": "iwb"}
+{"w": "erythrolein", "pos": "noun", "d": ["A red coloring substance obtained from certain lichens."], "src": "iwb"}
+{"w": "erythrolitmin", "pos": "noun", "d": ["The red coloring matter found in litmus."], "src": "iwb"}
+{"w": "erythronium", "pos": "noun", "d": ["A genus of spring-flowering lilies that includes the trout lily."], "src": "iwb"}
+{"w": "erythrophleine", "pos": "noun", "d": ["A poisonous alkaloid obtained from the bark of the erythrophleum tree."], "src": "iwb"}
+{"w": "erythrophyll", "pos": "noun", "d": ["The red pigment found in leaves, especially in autumn foliage."], "src": "iwb"}
+{"w": "erythrophyllin", "pos": "noun", "d": ["A red pigment occurring in plant leaves."], "src": "iwb"}
+{"w": "erythrosin", "pos": "noun", "d": ["A red synthetic dye used as a food coloring and biological stain."], "src": "iwb"}
+{"w": "erythroxylon", "pos": "noun", "d": ["A genus of tropical shrubs that includes the coca plant."], "src": "iwb"}
+{"w": "erythrozyme", "pos": "noun", "d": ["A ferment found in madder root that converts rubian into alizarin."], "src": "iwb"}
+{"w": "escalade", "pos": "noun", "d": ["An assault on a fortified wall made by scaling it with ladders."], "src": "iwb"}
+{"w": "escalator", "pos": "noun", "d": ["A moving staircase that carries people between floors of a building."], "src": "iwb"}
+{"w": "escallop", "pos": "noun", "d": ["A scallop or its fan-shaped shell.", "A dish of food baked and served in a scallop shell."], "src": "iwb"}
+{"w": "escalop", "pos": "noun", "d": ["A scallop or its fan-shaped shell, or a dish served in such a shell."], "src": "iwb"}
+{"w": "escambio", "pos": "noun", "d": ["An exchange or barter, especially of money or bills."], "src": "iwb"}
+{"w": "escapade", "pos": "noun", "d": ["A daring or mischievous adventure."], "src": "iwb"}
+{"w": "escarbuncle", "pos": "noun", "d": ["In heraldry, a symbolic jewel-like figure with radiating bars."], "src": "iwb"}
+{"w": "escargatoire", "pos": "noun", "d": ["A place where edible snails are raised."], "src": "iwb"}
+{"w": "escarp", "pos": "noun", "d": ["The steep inner slope of a ditch in a fortification."], "src": "iwb"}
+{"w": "eschalot", "pos": "noun", "d": ["A shallot, a small onion-like plant used in cooking."], "src": "iwb"}
+{"w": "eschar", "pos": "noun", "d": ["A dry scab or crust formed over a burn or wound."], "src": "iwb"}
+{"w": "eschara", "pos": "noun", "d": ["A dry crust formed over a burn or sore.", "A genus of bryozoans, small colonial sea animals."], "src": "iwb"}
+{"w": "escharine", "pos": "adjective", "d": ["Relating to the bryozoan family Escharidae, or resembling an eschar."], "src": "iwb"}
+{"w": "eschatological", "pos": "adjective", "d": ["Relating to the theological study of death, judgment, and the final destiny of humankind."], "src": "iwb"}
+{"w": "eschatology", "pos": "noun", "d": ["The branch of theology concerned with death, judgment, and the ultimate fate of the world."], "src": "iwb"}
+{"w": "eschaunge", "pos": "noun", "d": ["An obsolete form of the word exchange."], "src": "iwb"}
+{"w": "escheat", "pos": "noun", "d": ["The reversion of property to the state when a person dies without heirs."], "src": "iwb"}
+{"w": "escheator", "pos": "noun", "d": ["An officer appointed to manage property that reverts to the state."], "src": "iwb"}
+{"w": "eschevin", "pos": "noun", "d": ["A municipal magistrate or alderman in certain old European towns."], "src": "iwb"}
+{"w": "eschew", "pos": "verb", "d": ["To deliberately avoid or keep away from something."], "src": "iwb"}
+{"w": "eschscholtzia", "pos": "noun", "d": ["A genus of poppies that includes the California poppy."], "src": "iwb"}
+{"w": "eschynite", "pos": "noun", "d": ["A dark mineral containing niobium, titanium, and rare earth elements."], "src": "iwb"}
+{"w": "escocheon", "pos": "noun", "d": ["A shield-shaped emblem, or a protective plate around a keyhole."], "src": "iwb"}
+{"w": "escopet", "pos": "noun", "d": ["A short musket or carbine."], "src": "iwb"}
+{"w": "escopette", "pos": "noun", "d": ["A short-barreled musket or carbine."], "src": "iwb"}
+{"w": "escorial", "pos": "noun", "d": ["The great palace and monastery near Madrid, Spain."], "src": "iwb"}
+{"w": "escort", "pos": "noun", "d": ["A person or group accompanying someone for protection or honor.", "To accompany a person for protection or as a courtesy."], "src": "iwb"}
+{"w": "escot", "pos": "noun", "d": ["One's share of a common payment or expense."], "src": "iwb"}
+{"w": "escouade", "pos": "noun", "d": ["A small squad or party of soldiers."], "src": "iwb"}
+{"w": "escout", "pos": "verb", "d": ["To scout or reconnoiter."], "src": "iwb"}
+{"w": "escribed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "escript", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "escritoire", "pos": "noun", "d": ["A small writing desk with drawers and compartments."], "src": "iwb"}
+{"w": "escritorial", "pos": "adjective", "d": ["Relating to writing or to a writing desk."], "src": "iwb"}
+{"w": "escrod", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "escrol", "pos": "noun", "d": ["A scroll, especially a strip of parchment bearing writing."], "src": "iwb"}
+{"w": "escroll", "pos": "noun", "d": ["A scroll or ribbon bearing an inscription, as in heraldry."], "src": "iwb"}
+{"w": "escrow", "pos": "noun", "d": ["Money or documents held by a third party until the conditions of an agreement are met."], "src": "iwb"}
+{"w": "escuage", "pos": "noun", "d": ["A medieval tax paid in place of military service."], "src": "iwb"}
+{"w": "esculapian", "pos": "adjective", "d": ["Relating to medicine or to Aesculapius, the Roman god of healing."], "src": "iwb"}
+{"w": "esculapius", "pos": "noun", "d": ["The Roman god of medicine and healing."], "src": "iwb"}
+{"w": "esculent", "pos": "adjective", "d": ["Fit to be eaten."], "src": "iwb"}
+{"w": "esculic", "pos": "adjective", "d": ["Relating to or derived from esculin."], "src": "iwb"}
+{"w": "esculin", "pos": "noun", "d": ["A bitter glucoside obtained from the bark of the horse chestnut."], "src": "iwb"}
+{"w": "escurial", "pos": "noun", "d": ["The Escorial, the great palace and monastery near Madrid, Spain."], "src": "iwb"}
+{"w": "escutcheon", "pos": "noun", "d": ["A shield bearing a coat of arms.", "A protective plate around a keyhole."], "src": "iwb"}
+{"w": "ese", "pos": "suffix", "d": ["A suffix denoting a language, people, or style, as in Japanese or journalese."], "src": "iwb"}
+{"w": "esemplastic", "pos": "adjective", "d": ["Shaping diverse elements into a unified whole."], "src": "iwb"}
+{"w": "esexual", "pos": "adjective", "d": ["Lacking sex or sexual characteristics."], "src": "iwb"}
+{"w": "esguard", "pos": "noun", "d": ["An obsolete form of the word guard."], "src": "iwb"}
+{"w": "eskar", "pos": "noun", "d": ["A long narrow ridge of gravel left by a retreating glacier."], "src": "iwb"}
+{"w": "esker", "pos": "noun", "d": ["A long winding ridge of sand and gravel deposited by a melting glacier."], "src": "iwb"}
+{"w": "eskimo", "pos": "noun", "d": ["A member of the Indigenous Arctic peoples of Alaska, northern Canada, and Greenland."], "src": "iwb"}
+{"w": "esloin", "pos": "verb", "d": ["To remove or carry away to a distance."], "src": "iwb"}
+{"w": "esnecy", "pos": "noun", "d": ["The right or privilege of the eldest-born, especially to choose first when dividing an inheritance."], "src": "iwb"}
+{"w": "esodic", "pos": "adjective", "d": ["Carrying impulses inward toward the brain or spinal cord."], "src": "iwb"}
+{"w": "esophagal", "pos": "adjective", "d": ["Relating to the esophagus."], "src": "iwb"}
+{"w": "esophageal", "pos": "adjective", "d": ["Relating to the esophagus, the tube that carries food to the stomach."], "src": "iwb"}
+{"w": "esophagean", "pos": "adjective", "d": ["Relating to the esophagus."], "src": "iwb"}
+{"w": "esophagotomy", "pos": "noun", "d": ["A surgical incision into the esophagus."], "src": "iwb"}
+{"w": "esophagus", "pos": "noun", "d": ["The muscular tube that carries food from the throat to the stomach."], "src": "iwb"}
+{"w": "esopian", "pos": "adjective", "d": ["Relating to Aesop or his fables."], "src": "iwb"}
+{"w": "esopic", "pos": "adjective", "d": ["Relating to Aesop or written in the style of his fables."], "src": "iwb"}
+{"w": "esoteric", "pos": "adjective", "d": ["Understood by only a small group with specialized knowledge."], "src": "iwb"}
+{"w": "esotery", "pos": "noun", "d": ["Esoteric teaching or doctrine."], "src": "iwb"}
+{"w": "esox", "pos": "noun", "d": ["A genus of freshwater fishes that includes the pikes."], "src": "iwb"}
+{"w": "espace", "pos": "noun", "d": ["An obsolete form of the word space."], "src": "iwb"}
+{"w": "espadon", "pos": "noun", "d": ["A large two-handed sword."], "src": "iwb"}
+{"w": "espalier", "pos": "noun", "d": ["A fruit tree trained to grow flat against a wall or trellis."], "src": "iwb"}
+{"w": "esparcet", "pos": "noun", "d": ["Sainfoin, a perennial plant grown as forage for livestock."], "src": "iwb"}
+{"w": "esparto", "pos": "noun", "d": ["A tough Mediterranean grass used for making paper, ropes, and baskets."], "src": "iwb"}
+{"w": "espauliere", "pos": "noun", "d": ["A piece of armor protecting the shoulder."], "src": "iwb"}
+{"w": "especial", "pos": "adjective", "d": ["Of a particular or exceptional kind."], "src": "iwb"}
+{"w": "esperance", "pos": "noun", "d": ["Hope or expectation of good things to come."], "src": "iwb"}
+{"w": "esperanto", "pos": "noun", "d": ["A constructed international language designed to be easy to learn, intended as a neutral second language for speakers of all nations."], "src": "iwb"}
+{"w": "espiaille", "pos": "noun", "d": ["An old word for a spy or secret observer."], "src": "iwb"}
+{"w": "espinel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "espionage", "pos": "noun", "d": ["The practice of spying or secretly gathering information, especially by a government against its enemies."], "src": "iwb"}
+{"w": "esplanade", "pos": "noun", "d": ["A flat open area, often paved, where people can walk and stroll, especially along a waterfront or in front of a building."], "src": "iwb"}
+{"w": "esplees", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "espousage", "pos": "noun", "d": ["The act of marrying or becoming betrothed; marriage."], "src": "iwb"}
+{"w": "espousal", "pos": "noun", "d": ["The act of adopting or supporting a cause, idea, or belief.", "A marriage ceremony or engagement."], "src": "iwb"}
+{"w": "espouse", "pos": "verb", "d": ["To take up and support a cause, idea, or belief as your own.", "To marry someone."], "src": "iwb"}
+{"w": "espressivo", "pos": "adverb", "d": ["A musical direction meaning to play in an expressive manner, with feeling."], "src": "iwb"}
+{"w": "espringal", "pos": "noun", "d": ["A medieval engine of war used to hurl stones or darts at enemies."], "src": "iwb"}
+{"w": "esprit", "pos": "noun", "d": ["Lively cleverness or wit.", "Spirit or enthusiastic feeling, especially the shared loyalty of a group, as in esprit de corps."], "src": "iwb"}
+{"w": "espy", "pos": "verb", "d": ["To catch sight of something, often from a distance or after searching for it."], "src": "iwb"}
+{"w": "esquimau", "pos": "noun", "d": ["A French word for a native person of the Arctic regions of North America."], "src": "iwb"}
+{"w": "esquire", "pos": "noun", "d": ["A title of courtesy placed after a man's name, now most often used for lawyers in the United States."], "src": "iwb"}
+{"w": "esquisse", "pos": "noun", "d": ["A preliminary sketch or outline made by an artist before starting the finished work."], "src": "iwb"}
+{"w": "essene", "pos": "noun", "d": ["A member of an ancient Jewish religious group known for strict rules, shared property, and a simple desert life."], "src": "iwb"}
+{"w": "essenism", "pos": "noun", "d": ["The beliefs and practices of the ancient Jewish sect called the Essenes."], "src": "iwb"}
+{"w": "essentiate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "essoign", "pos": "noun", "d": ["An old legal term for an excuse given for failing to appear in court when summoned."], "src": "iwb"}
+{"w": "essoin", "pos": "noun", "d": ["An old legal term for an excuse given for failing to appear in court when summoned."], "src": "iwb"}
+{"w": "essonite", "pos": "noun", "d": ["A brownish or cinnamon-colored variety of garnet, sometimes used as a gemstone."], "src": "iwb"}
+{"w": "essorant", "pos": "adjective", "d": ["A heraldry term for a bird shown rising, with its wings spread as if about to take flight."], "src": "iwb"}
+{"w": "established suit", "pos": "phrase", "d": ["In card games, a suit in which you are sure to win with your remaining cards because all the opponents' higher cards have been played."], "src": "iwb"}
+{"w": "estacade", "pos": "noun", "d": ["A barrier of wooden piles driven into a river or harbor to block enemy ships or floating ice."], "src": "iwb"}
+{"w": "estafet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "estafette", "pos": "noun", "d": ["A mounted courier or express messenger, especially one carrying military dispatches."], "src": "iwb"}
+{"w": "estaminet", "pos": "noun", "d": ["A small, plain cafe, especially in France or Belgium, where drinks and tobacco are sold."], "src": "iwb"}
+{"w": "estancia", "pos": "noun", "d": ["A large cattle ranch or country estate in South America, especially in Argentina."], "src": "iwb"}
+{"w": "estatlich", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "estatly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "esteem", "pos": "verb", "d": ["To regard with respect and admiration.", "To consider or think of in a particular way."], "src": "iwb"}
+{"w": "esthesiometer", "pos": "noun", "d": ["An instrument used to measure how sensitive the skin is to touch."], "src": "iwb"}
+{"w": "esthetic", "pos": "adjective", "d": ["Relating to beauty or to the appreciation of what is beautiful."], "src": "iwb"}
+{"w": "estiferous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "estimable", "pos": "adjective", "d": ["Worthy of respect and admiration."], "src": "iwb"}
+{"w": "estimably", "pos": "adverb", "d": ["In a way that deserves respect and admiration."], "src": "iwb"}
+{"w": "estimative", "pos": "adjective", "d": ["Relating to the act of estimating or forming an opinion about value."], "src": "iwb"}
+{"w": "estimator", "pos": "noun", "d": ["A person who estimates, especially one who calculates the likely cost of a job or project."], "src": "iwb"}
+{"w": "estival", "pos": "adjective", "d": ["Relating to summer."], "src": "iwb"}
+{"w": "estivate", "pos": "verb", "d": ["To spend the summer in a state of inactivity or torpor, as some animals do to escape heat and dryness."], "src": "iwb"}
+{"w": "estivation", "pos": "noun", "d": ["The state of spending the summer inactive or in torpor, as some animals do to escape heat."], "src": "iwb"}
+{"w": "estoile", "pos": "noun", "d": ["A star with wavy rays, used as a figure in heraldry."], "src": "iwb"}
+{"w": "estop", "pos": "verb", "d": ["In law, to prevent someone from making a claim or statement that contradicts what they said or did before."], "src": "iwb"}
+{"w": "estoppel", "pos": "noun", "d": ["A legal rule that bars a person from going back on a statement or position they previously took when someone else relied on it."], "src": "iwb"}
+{"w": "estovers", "pos": "noun", "d": ["In old English law, necessities allowed to a person from another's land, such as wood for fuel or repairs."], "src": "iwb"}
+{"w": "estramacon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "estrangedness", "pos": "noun", "d": ["The state of being estranged, or separated by a breakdown of affection and trust."], "src": "iwb"}
+{"w": "estrapade", "pos": "noun", "d": ["The violent rearing and plunging of a horse trying to throw its rider."], "src": "iwb"}
+{"w": "estre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "estreat", "pos": "noun", "d": ["A true copy or extract taken from court records, especially of a fine or penalty to be collected."], "src": "iwb"}
+{"w": "estrepe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "estuance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "estuarine", "pos": "adjective", "d": ["Relating to or found in an estuary."], "src": "iwb"}
+{"w": "estuary", "pos": "noun", "d": ["The wide mouth of a river where it meets the sea and the tides mix salt water with fresh."], "src": "iwb"}
+{"w": "estuate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "estuation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "estufa", "pos": "noun", "d": ["A heated room or stove, especially a ceremonial chamber used by Pueblo peoples."], "src": "iwb"}
+{"w": "esurient", "pos": "adjective", "d": ["Hungry, or greedy for something such as food or knowledge."], "src": "iwb"}
+{"w": "esurine", "pos": "adjective", "d": ["Relating to hunger or to a strong appetite."], "src": "iwb"}
+{"w": "et caetera", "pos": "phrase", "d": ["A Latin phrase meaning and the rest, or and other similar things."], "src": "iwb"}
+{"w": "et cetera", "pos": "phrase", "d": ["A Latin phrase meaning and the rest, or and other similar things."], "src": "iwb"}
+{"w": "etaac", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "etacism", "pos": "noun", "d": ["The pronunciation of the Greek letter eta like a long e, a matter of dispute among scholars."], "src": "iwb"}
+{"w": "etacist", "pos": "noun", "d": ["A person who pronounces the Greek letter eta like a long e."], "src": "iwb"}
+{"w": "etagere", "pos": "noun", "d": ["A light stand or piece of furniture with several open shelves for displaying small objects."], "src": "iwb"}
+{"w": "etamine", "pos": "noun", "d": ["A thin, loosely woven fabric, often used for embroidery or for straining liquids."], "src": "iwb"}
+{"w": "etape", "pos": "noun", "d": ["A stopping place on a journey where travelers or soldiers can rest and get supplies."], "src": "iwb"}
+{"w": "etat major", "pos": "phrase", "d": ["The general staff of an army; the group of officers who plan and direct military operations."], "src": "iwb"}
+{"w": "etch", "pos": "verb", "d": ["To cut a design or pattern into a hard surface such as metal or glass, usually with acid."], "src": "iwb"}
+{"w": "eteostic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eterminable", "pos": "adjective", "d": ["Able to be determined or settled; ascertainable."], "src": "iwb"}
+{"w": "etern", "pos": "adjective", "d": ["An old poetic word for eternal; lasting forever."], "src": "iwb"}
+{"w": "eterne", "pos": "adjective", "d": ["An old poetic word for eternal; lasting forever."], "src": "iwb"}
+{"w": "eternization", "pos": "noun", "d": ["The act of making something eternal or giving it everlasting fame."], "src": "iwb"}
+{"w": "etesian", "pos": "adjective", "d": ["Relating to the seasonal northerly winds that blow over the eastern Mediterranean in summer."], "src": "iwb"}
+{"w": "ethal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethane", "pos": "noun", "d": ["A colorless flammable gas made of carbon and hydrogen, found in natural gas."], "src": "iwb"}
+{"w": "ethe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethene", "pos": "noun", "d": ["A colorless flammable gas of carbon and hydrogen, widely used to make plastics; also called ethylene."], "src": "iwb"}
+{"w": "ethenic", "pos": "adjective", "d": ["Relating to or derived from ethene."], "src": "iwb"}
+{"w": "ethenyl", "pos": "noun", "d": ["A chemical group derived from ethene, better known as the vinyl group."], "src": "iwb"}
+{"w": "etheostomoid", "pos": "adjective", "d": ["Resembling the darters, a group of small freshwater fishes of North America."], "src": "iwb"}
+{"w": "ethereous", "pos": "adjective", "d": ["Relating to the upper air or the heavens; light, airy, and heavenly in quality."], "src": "iwb"}
+{"w": "etherification", "pos": "noun", "d": ["The chemical process of converting a substance into an ether."], "src": "iwb"}
+{"w": "etheriform", "pos": "adjective", "d": ["Having the form or nature of ether; like ether."], "src": "iwb"}
+{"w": "etherin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "etherization", "pos": "noun", "d": ["The act of turning a substance into an ether, or of putting a patient to sleep with ether."], "src": "iwb"}
+{"w": "etherol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethic", "pos": "adjective", "d": ["Relating to moral principles of right and wrong conduct."], "src": "iwb"}
+{"w": "ethide", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethidene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethine", "pos": "noun", "d": ["A colorless flammable gas used in welding torches; also called acetylene."], "src": "iwb"}
+{"w": "ethionic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethiop", "pos": "noun", "d": ["An old poetic word for a native of Ethiopia or, by extension, a dark-skinned African person."], "src": "iwb"}
+{"w": "ethiopian", "pos": "adjective", "d": ["Relating to Ethiopia or its people."], "src": "iwb"}
+{"w": "ethmoid", "pos": "noun", "d": ["A light, spongy bone at the front of the skull, forming part of the walls of the eye sockets and the nose."], "src": "iwb"}
+{"w": "ethmotrubinal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethmovomerine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethnarch", "pos": "noun", "d": ["The ruler of an ethnic group or nation."], "src": "iwb"}
+{"w": "ethnarchy", "pos": "noun", "d": ["Rule or government by an ethnarch."], "src": "iwb"}
+{"w": "ethnographer", "pos": "noun", "d": ["A person who studies and describes cultures, especially through direct fieldwork among the people."], "src": "iwb"}
+{"w": "ethnographic", "pos": "adjective", "d": ["Relating to ethnography or the descriptive study of cultures."], "src": "iwb"}
+{"w": "ethnography", "pos": "noun", "d": ["The branch of anthropology that describes and studies the customs and cultures of peoples, often through fieldwork.", "A written account of a particular culture based on such study."], "src": "iwb"}
+{"w": "ethnologic", "pos": "adjective", "d": ["Relating to ethnology, the comparative study of peoples and cultures."], "src": "iwb"}
+{"w": "ethnologist", "pos": "noun", "d": ["A scholar who studies peoples and cultures comparatively."], "src": "iwb"}
+{"w": "ethnology", "pos": "noun", "d": ["The branch of anthropology that compares and analyzes the cultures of different peoples."], "src": "iwb"}
+{"w": "ethologic", "pos": "adjective", "d": ["Relating to ethology, the study of animal behavior."], "src": "iwb"}
+{"w": "ethologist", "pos": "noun", "d": ["A scientist who studies the behavior of animals in their natural surroundings."], "src": "iwb"}
+{"w": "ethology", "pos": "noun", "d": ["The scientific study of animal behavior, especially as it occurs in natural conditions."], "src": "iwb"}
+{"w": "ethopoetic", "pos": "adjective", "d": ["Relating to the portrayal of character or manners in literature."], "src": "iwb"}
+{"w": "ethos", "pos": "noun", "d": ["The characteristic spirit, values, and attitudes of a person, group, or culture."], "src": "iwb"}
+{"w": "ethule", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ethyl", "pos": "noun", "d": ["A chemical radical made of two carbon atoms and five hydrogen atoms, found in alcohol and many organic compounds."], "src": "iwb"}
+{"w": "ethylene", "pos": "noun", "d": ["A colorless flammable gas that acts as a plant hormone and is widely used to make plastics."], "src": "iwb"}
+{"w": "ethylidene", "pos": "noun", "d": ["A chemical radical containing two carbon atoms and four hydrogen atoms, with two bonds free for joining other atoms."], "src": "iwb"}
+{"w": "ethylin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "etiolate", "pos": "verb", "d": ["To make a plant pale and weak by growing it without light.", "To weaken or drain of vigor."], "src": "iwb"}
+{"w": "etiolation", "pos": "noun", "d": ["The process of becoming pale and weak from lack of light, as a plant grown in darkness."], "src": "iwb"}
+{"w": "etiolin", "pos": "noun", "d": ["A yellowish pigment found in plants that have been grown without light."], "src": "iwb"}
+{"w": "etiological", "pos": "adjective", "d": ["Relating to the causes of diseases."], "src": "iwb"}
+{"w": "etiology", "pos": "noun", "d": ["The study of the causes of diseases."], "src": "iwb"}
+{"w": "etiquette", "pos": "noun", "d": ["The accepted rules of polite behavior in a society or a particular situation."], "src": "iwb"}
+{"w": "etna", "pos": "noun", "d": ["A famous active volcano on the island of Sicily in Italy."], "src": "iwb"}
+{"w": "etnean", "pos": "adjective", "d": ["Relating to Mount Etna or resembling its volcanic activity."], "src": "iwb"}
+{"w": "etoile", "pos": "noun", "d": ["A principal dancer of the highest rank in a ballet company."], "src": "iwb"}
+{"w": "etrurian", "pos": "adjective", "d": ["Relating to Etruria, the ancient land of the Etruscans in Italy."], "src": "iwb"}
+{"w": "etruscan", "pos": "noun", "d": ["A member of the ancient civilization that flourished in western Italy before Roman rule.", "The language spoken by that people."], "src": "iwb"}
+{"w": "etter pike", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ettin", "pos": "noun", "d": ["A giant in old English folklore and legend."], "src": "iwb"}
+{"w": "ettle", "pos": "verb", "d": ["To intend, aim at, or try to do something."], "src": "iwb"}
+{"w": "etude", "pos": "noun", "d": ["A short musical composition written to develop a particular skill in playing.", "A detailed study of a subject."], "src": "iwb"}
+{"w": "etui", "pos": "noun", "d": ["A small ornamental case for holding small articles such as needles or tools."], "src": "iwb"}
+{"w": "etwee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "etym", "pos": "noun", "d": ["A short form of etymology, the study of word origins."], "src": "iwb"}
+{"w": "etymologer", "pos": "noun", "d": ["A person who studies the origins and histories of words."], "src": "iwb"}
+{"w": "etymological", "pos": "adjective", "d": ["Relating to the origins and historical development of words."], "src": "iwb"}
+{"w": "etymologicon", "pos": "noun", "d": ["A dictionary or book devoted to the origins of words."], "src": "iwb"}
+{"w": "etymologist", "pos": "noun", "d": ["A scholar who traces the origins and histories of words."], "src": "iwb"}
+{"w": "etymologize", "pos": "verb", "d": ["To trace or explain the origin and history of a word."], "src": "iwb"}
+{"w": "etymon", "pos": "noun", "d": ["The earlier word or form from which a later word is derived."], "src": "iwb"}
+{"w": "etypical", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eucairite", "pos": "noun", "d": ["A mineral composed of copper and silver selenide."], "src": "iwb"}
+{"w": "eucalyn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eucalyptol", "pos": "noun", "d": ["A fragrant oil obtained from eucalyptus leaves, used in medicines and flavorings."], "src": "iwb"}
+{"w": "eucalyptus", "pos": "noun", "d": ["A genus of tall evergreen trees native to Australia, known for their aromatic leaves."], "src": "iwb"}
+{"w": "eucharis", "pos": "noun", "d": ["A genus of bulbous South American plants bearing clusters of white fragrant flowers."], "src": "iwb"}
+{"w": "eucharist", "pos": "noun", "d": ["The Christian sacrament in which bread and wine are consecrated and received in remembrance of Christ.", "The consecrated bread and wine of this sacrament."], "src": "iwb"}
+{"w": "euchite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euchloric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euchlorine", "pos": "noun", "d": ["A yellowish-green explosive gas containing chlorine and chlorine dioxide."], "src": "iwb"}
+{"w": "euchologion", "pos": "noun", "d": ["A book of prayers and liturgical services used in the Eastern Orthodox Church."], "src": "iwb"}
+{"w": "euchologue", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euchology", "pos": "noun", "d": ["The branch of theology concerned with prayer."], "src": "iwb"}
+{"w": "euchre", "pos": "noun", "d": ["A card game played with a reduced deck in which players try to win tricks."], "src": "iwb"}
+{"w": "euchroic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euchroite", "pos": "noun", "d": ["A green mineral composed of copper arsenate."], "src": "iwb"}
+{"w": "euchrone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euchymy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euclase", "pos": "noun", "d": ["A brittle transparent mineral composed of beryllium silicate, sometimes cut as a gem."], "src": "iwb"}
+{"w": "euclid", "pos": "noun", "d": ["A Greek mathematician of Alexandria whose Elements founded the study of geometry."], "src": "iwb"}
+{"w": "euclidian", "pos": "adjective", "d": ["Relating to the geometry developed by Euclid, based on his axioms."], "src": "iwb"}
+{"w": "eucopepoda", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eucrasy", "pos": "noun", "d": ["A healthy balance of the bodily humors, according to ancient medicine."], "src": "iwb"}
+{"w": "euctical", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eudaemon", "pos": "noun", "d": ["A benevolent spirit or guardian angel."], "src": "iwb"}
+{"w": "eudaemonics", "pos": "noun", "d": ["The art or science of attaining happiness."], "src": "iwb"}
+{"w": "eudemon", "pos": "noun", "d": ["A good or benevolent spirit."], "src": "iwb"}
+{"w": "eudemonics", "pos": "noun", "d": ["The study or practice of achieving happiness."], "src": "iwb"}
+{"w": "eudialyte", "pos": "noun", "d": ["A reddish-brown silicate mineral rich in zirconium."], "src": "iwb"}
+{"w": "eudiometer", "pos": "noun", "d": ["An instrument for measuring changes in the volume of gases during chemical reactions."], "src": "iwb"}
+{"w": "eudiometric", "pos": "adjective", "d": ["Relating to the eudiometer or the measurement of gases with it."], "src": "iwb"}
+{"w": "eudiometry", "pos": "noun", "d": ["The measurement of the volumes of gases by means of a eudiometer."], "src": "iwb"}
+{"w": "eudipleura", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eudoxian", "pos": "adjective", "d": ["Relating to Eudoxus, the ancient Greek astronomer and mathematician."], "src": "iwb"}
+{"w": "euganoidei", "pos": "noun", "d": ["A group of primitive fishes with ganoid scales, including the sturgeons."], "src": "iwb"}
+{"w": "euge", "pos": "interjection", "d": ["An exclamation of applause meaning well done, borrowed from ancient Greek."], "src": "iwb"}
+{"w": "eugenesis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eugenia", "pos": "noun", "d": ["A genus of tropical trees and shrubs of the myrtle family."], "src": "iwb"}
+{"w": "eugenic", "pos": "adjective", "d": ["Relating to eugenics, the study of improving human heredity."], "src": "iwb"}
+{"w": "eugenol", "pos": "noun", "d": ["A fragrant compound obtained from clove oil, used in perfumes and dentistry."], "src": "iwb"}
+{"w": "eugeny", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eugetinic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eugh", "pos": "noun", "d": ["An old spelling of yew, the evergreen tree."], "src": "iwb"}
+{"w": "eugubian", "pos": "adjective", "d": ["Relating to Gubbio in Italy or to the ancient bronze tablets found there."], "src": "iwb"}
+{"w": "eugubine", "pos": "adjective", "d": ["Relating to the Eugubine Tables, ancient inscribed bronze tablets found at Gubbio."], "src": "iwb"}
+{"w": "euharmonic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euhemerism", "pos": "noun", "d": ["The theory that the gods of mythology were originally real human beings later worshiped as divine."], "src": "iwb"}
+{"w": "euhemerist", "pos": "noun", "d": ["A person who holds the theory that myths arose from the deification of real people."], "src": "iwb"}
+{"w": "euhemerize", "pos": "verb", "d": ["To interpret myths as stories about real historical persons."], "src": "iwb"}
+{"w": "euisopoda", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eulachon", "pos": "noun", "d": ["A small oily fish of the Pacific coast of North America, also called the candlefish."], "src": "iwb"}
+{"w": "eulerian", "pos": "adjective", "d": ["Relating to the Swiss mathematician Euler or to his methods and theorems."], "src": "iwb"}
+{"w": "eulogic", "pos": "adjective", "d": ["Relating to or expressing a eulogy; full of praise."], "src": "iwb"}
+{"w": "eulogist", "pos": "noun", "d": ["A person who delivers a eulogy or formal speech of praise."], "src": "iwb"}
+{"w": "eulogium", "pos": "noun", "d": ["A formal speech or writing in praise of a person, especially one recently dead."], "src": "iwb"}
+{"w": "eulogize", "pos": "verb", "d": ["To praise highly in speech or writing."], "src": "iwb"}
+{"w": "eulogy", "pos": "noun", "d": ["A speech or piece of writing praising a person, especially one given at a funeral."], "src": "iwb"}
+{"w": "eulytite", "pos": "noun", "d": ["A rare brownish mineral made up mainly of lead silicate, found in small crystal masses."], "src": "iwb"}
+{"w": "eumenides", "pos": "noun", "d": ["A Greek name for the Furies, the goddesses who avenge wrongdoing."], "src": "iwb"}
+{"w": "eumolpus", "pos": "noun", "d": ["A legendary singer of ancient Greece, said to have founded the priesthood of the Eleusinian mysteries."], "src": "iwb"}
+{"w": "eunomian", "pos": "adjective", "d": ["Of or relating to Eunomius, a fourth-century Christian teacher, or to the followers whose doctrines were condemned as heresy."], "src": "iwb"}
+{"w": "eunomy", "pos": "noun", "d": ["Government by just and equal laws; orderly rule."], "src": "iwb"}
+{"w": "eunuch", "pos": "noun", "d": ["A man who has been castrated.", "An attendant or guard of a harem or royal household in certain Eastern courts."], "src": "iwb"}
+{"w": "euonymin", "pos": "noun", "d": ["A bitter resin obtained from the bark of the spindle tree, formerly used as a purgative."], "src": "iwb"}
+{"w": "euonymus", "pos": "noun", "d": ["A genus of shrubs and small trees, including the spindle tree and the burning bush, grown for their showy autumn leaves and berries."], "src": "iwb"}
+{"w": "euornithes", "pos": "noun", "d": ["A group of birds that includes all living birds and their closest extinct relatives."], "src": "iwb"}
+{"w": "euosmitte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eupathy", "pos": "noun", "d": ["In Stoic philosophy, a healthy or rational feeling, such as calm joy, as opposed to a disordered passion."], "src": "iwb"}
+{"w": "eupatorin", "pos": "noun", "d": ["A bitter resinous substance obtained from the plant boneset, formerly used as a medicine."], "src": "iwb"}
+{"w": "eupatorine", "pos": "noun", "d": ["A bitter extract derived from the plant boneset, formerly used as a medicinal tonic."], "src": "iwb"}
+{"w": "eupatorium", "pos": "noun", "d": ["A genus of plants including boneset and thoroughwort, some species once used in folk medicine."], "src": "iwb"}
+{"w": "eupatrid", "pos": "noun", "d": ["A descendant of the ancient Athenian nobility."], "src": "iwb"}
+{"w": "eupepsia", "pos": "noun", "d": ["Good digestion; freedom from indigestion."], "src": "iwb"}
+{"w": "eupepsy", "pos": "noun", "d": ["Good digestion; freedom from indigestion."], "src": "iwb"}
+{"w": "eupeptic", "pos": "adjective", "d": ["Having or relating to good digestion.", "Cheerful and optimistic, as if in good health."], "src": "iwb"}
+{"w": "euphemism", "pos": "noun", "d": ["A mild or pleasant word or phrase used in place of one that might sound harsh, blunt, or offensive."], "src": "iwb"}
+{"w": "euphemistic", "pos": "adjective", "d": ["Using or containing euphemisms; softening harsh truth with gentle wording."], "src": "iwb"}
+{"w": "euphemize", "pos": "verb", "d": ["To express in mild or softened terms; to replace a harsh word with a gentler one."], "src": "iwb"}
+{"w": "euphoniad", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euphonic", "pos": "adjective", "d": ["Pleasant to the ear; agreeable in sound."], "src": "iwb"}
+{"w": "euphonicon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euphonism", "pos": "noun", "d": ["The use of words and sounds that are agreeable to the ear."], "src": "iwb"}
+{"w": "euphonium", "pos": "noun", "d": ["A brass wind instrument with a deep, mellow tone, like a small tuba pitched in the range of the trombone."], "src": "iwb"}
+{"w": "euphonize", "pos": "verb", "d": ["To make euphonious; to render pleasant in sound."], "src": "iwb"}
+{"w": "euphonon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euphonous", "pos": "adjective", "d": ["Pleasing in sound; euphonic."], "src": "iwb"}
+{"w": "euphony", "pos": "noun", "d": ["A pleasing quality of sound; agreeable combination of words and sounds in speech or music."], "src": "iwb"}
+{"w": "euphorbia", "pos": "noun", "d": ["A large genus of plants, the spurges, many with a milky, often irritating juice and small clustered flowers."], "src": "iwb"}
+{"w": "euphorbiaceous", "pos": "adjective", "d": ["Belonging to or relating to the spurge family of plants."], "src": "iwb"}
+{"w": "euphorbial", "pos": "adjective", "d": ["Relating to the genus Euphorbia or the spurge family."], "src": "iwb"}
+{"w": "euphorbin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euphorbine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euphorbium", "pos": "noun", "d": ["A sharp, bitter resin obtained from certain spurge plants, formerly used as a strong purgative."], "src": "iwb"}
+{"w": "euphotide", "pos": "noun", "d": ["An old name for a dark, coarse-grained igneous rock of the gabbro family."], "src": "iwb"}
+{"w": "euphrasy", "pos": "noun", "d": ["The herb eyebright, once believed to cure diseases of the eye.", "Gladness or cheerfulness of mind."], "src": "iwb"}
+{"w": "euphroe", "pos": "noun", "d": ["A wooden block with several holes through which rigging ropes are rove, used aboard sailing ships."], "src": "iwb"}
+{"w": "euphuism", "pos": "noun", "d": ["An affected, highly artificial style of writing marked by elaborate wordplay and long, balanced sentences."], "src": "iwb"}
+{"w": "euphuist", "pos": "noun", "d": ["One who writes or speaks in an affected, euphuistic style."], "src": "iwb"}
+{"w": "euphuize", "pos": "verb", "d": ["To write or speak in the artificial, flowery style of euphuism."], "src": "iwb"}
+{"w": "eupione", "pos": "noun", "d": ["A light, volatile, oily liquid obtained from the destructive distillation of wood or other organic matter."], "src": "iwb"}
+{"w": "eupittone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eupittonic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euplastic", "pos": "adjective", "d": ["Suited to plastic surgery; readily shaped or formed."], "src": "iwb"}
+{"w": "euplectella", "pos": "noun", "d": ["A genus of deep-sea glass sponges with delicate lattice-like skeletons, including the Venus's flower basket."], "src": "iwb"}
+{"w": "euplexoptera", "pos": "noun", "d": ["An order of insects comprising the earwigs, with short wing covers and pincer-like tail appendages."], "src": "iwb"}
+{"w": "eupnaea", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eupryion", "pos": "noun", "d": ["A small case for carrying tinder and flint; a tinderbox."], "src": "iwb"}
+{"w": "eupyrion", "pos": "noun", "d": ["A small case for carrying tinder and flint; a tinderbox."], "src": "iwb"}
+{"w": "eurafric", "pos": "adjective", "d": ["Relating to Europe and Africa together."], "src": "iwb"}
+{"w": "eurafrican", "pos": "adjective", "d": ["Relating to or combining Europe and Africa."], "src": "iwb"}
+{"w": "eurasian", "pos": "noun", "d": ["A person of mixed European and Asian parentage.", "Of or relating to Europe and Asia considered together."], "src": "iwb"}
+{"w": "eurasiatio", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eureka", "pos": "interjection", "d": ["An exclamation cried out upon making a happy discovery."], "src": "iwb"}
+{"w": "eurhipidurous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euripize", "pos": "verb", "d": ["To write or speak in the style of the Greek tragedian Euripides."], "src": "iwb"}
+{"w": "euripus", "pos": "noun", "d": ["A narrow strait or channel of the sea, especially one with a strong current.", "A water channel or conduit in an ancient building."], "src": "iwb"}
+{"w": "eurite", "pos": "noun", "d": ["A fine-grained igneous rock of granitic composition."], "src": "iwb"}
+{"w": "euritic", "pos": "adjective", "d": ["Of or relating to eurite."], "src": "iwb"}
+{"w": "euroclydon", "pos": "noun", "d": ["A violent, stormy wind blowing from the northeast in the Mediterranean region."], "src": "iwb"}
+{"w": "european concert", "pos": "phrase", "d": ["The system by which the great powers of nineteenth-century Europe worked together to preserve the balance of power."], "src": "iwb"}
+{"w": "europium", "pos": "noun", "d": ["A soft, silvery chemical element, a rare-earth metal used in phosphors and color displays."], "src": "iwb"}
+{"w": "eurus", "pos": "noun", "d": ["The east or southeast wind of classical antiquity, personified as a god of the winds."], "src": "iwb"}
+{"w": "euryale", "pos": "noun", "d": ["One of the Gorgons of Greek mythology, an immortal sister of Medusa.", "A genus of brittle stars with long, branching arms."], "src": "iwb"}
+{"w": "euryalida", "pos": "noun", "d": ["An order of echinoderms including the basket stars and snake stars."], "src": "iwb"}
+{"w": "eurycerous", "pos": "adjective", "d": ["Having wide or broad horns or antlers."], "src": "iwb"}
+{"w": "eurypteroid", "pos": "adjective", "d": ["Resembling or related to the eurypterids, the extinct sea scorpions."], "src": "iwb"}
+{"w": "eurypteroidea", "pos": "noun", "d": ["A group of extinct aquatic arthropods related to the sea scorpions."], "src": "iwb"}
+{"w": "eurypterus", "pos": "noun", "d": ["A genus of extinct sea scorpions that lived in Silurian seas."], "src": "iwb"}
+{"w": "eurythmy", "pos": "noun", "d": ["Graceful, harmonious movement or rhythm, especially in dance or speech."], "src": "iwb"}
+{"w": "eusebian", "pos": "adjective", "d": ["Of or relating to Eusebius, the fourth-century church historian, or to his writings."], "src": "iwb"}
+{"w": "eustachian", "pos": "adjective", "d": ["Relating to the Eustachian tube, the canal that connects the middle ear with the throat."], "src": "iwb"}
+{"w": "eustyle", "pos": "noun", "d": ["The spacing of columns in a colonnade at what the ancients held to be the most beautiful interval, two and a quarter diameters.", "A colonnade built with such spacing."], "src": "iwb"}
+{"w": "eutaxy", "pos": "noun", "d": ["Good or orderly arrangement."], "src": "iwb"}
+{"w": "eutectic", "pos": "adjective", "d": ["Relating to a mixture or alloy that melts at the lowest temperature possible for its ingredients."], "src": "iwb"}
+{"w": "euterpe", "pos": "noun", "d": ["One of the nine Muses of Greek mythology, patron of music and lyric poetry."], "src": "iwb"}
+{"w": "euterpean", "pos": "adjective", "d": ["Of or relating to music; inspired by the Muse Euterpe."], "src": "iwb"}
+{"w": "eutexia", "pos": "noun", "d": ["Good physical condition; soundness of body."], "src": "iwb"}
+{"w": "euthanasia", "pos": "noun", "d": ["The practice of painlessly putting to death a person or animal suffering from an incurable and painful condition."], "src": "iwb"}
+{"w": "euthanasy", "pos": "noun", "d": ["An easy, painless death."], "src": "iwb"}
+{"w": "euthiochroic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "euthyneura", "pos": "noun", "d": ["A large group of gastropod mollusks including the sea slugs and land snails."], "src": "iwb"}
+{"w": "eutrophy", "pos": "noun", "d": ["Healthy or adequate nutrition.", "The state of a body of water rich in nutrients."], "src": "iwb"}
+{"w": "eutychian", "pos": "adjective", "d": ["Of or relating to Eutyches, a fifth-century monk condemned for his doctrine about the nature of Christ, or to his followers."], "src": "iwb"}
+{"w": "euxanthic", "pos": "adjective", "d": ["Of or relating to euxanthin, a yellow coloring matter."], "src": "iwb"}
+{"w": "euxanthin", "pos": "noun", "d": ["A yellow coloring matter formerly used to make the pigment known as Indian yellow."], "src": "iwb"}
+{"w": "euxenite", "pos": "noun", "d": ["A rare dark mineral containing oxides of several rare metals."], "src": "iwb"}
+{"w": "evacate", "pos": "verb", "d": ["To make empty; to void or empty out."], "src": "iwb"}
+{"w": "evacuant", "pos": "noun", "d": ["A medicine that empties the bowels; a purgative."], "src": "iwb"}
+{"w": "evacuate", "pos": "verb", "d": ["To remove people from a dangerous place to a place of safety.", "To make empty; to discharge the contents of something."], "src": "iwb"}
+{"w": "evacuation", "pos": "noun", "d": ["The act of removing people from a place of danger to safety.", "The act of emptying or discharging the contents of something."], "src": "iwb"}
+{"w": "evacuative", "pos": "adjective", "d": ["Tending to empty or cause evacuation, as a purgative medicine."], "src": "iwb"}
+{"w": "evacuator", "pos": "noun", "d": ["One who or that which evacuates or empties."], "src": "iwb"}
+{"w": "evacuatory", "pos": "adjective", "d": ["Causing or relating to evacuation."], "src": "iwb"}
+{"w": "evade", "pos": "verb", "d": ["To escape or avoid by cleverness or trickery; to get around or dodge."], "src": "iwb"}
+{"w": "evadible", "pos": "adjective", "d": ["Capable of being evaded or avoided."], "src": "iwb"}
+{"w": "evagation", "pos": "noun", "d": ["A wandering of the mind; a digression from the subject at hand."], "src": "iwb"}
+{"w": "evaginate", "pos": "verb", "d": ["To turn inside out, as a sleeve or an organ; to evert."], "src": "iwb"}
+{"w": "evagination", "pos": "noun", "d": ["The turning outward of a part; a protrusion or outpouching, as of an organ or tissue."], "src": "iwb"}
+{"w": "evanesce", "pos": "verb", "d": ["To fade away gradually; to vanish slowly."], "src": "iwb"}
+{"w": "evanescent", "pos": "adjective", "d": ["Quickly fading or vanishing; lasting only a short time."], "src": "iwb"}
+{"w": "evangel", "pos": "noun", "d": ["The Christian gospel; the good news proclaimed by Christians."], "src": "iwb"}
+{"w": "evangelian", "pos": "adjective", "d": ["Relating to the gospel; evangelical."], "src": "iwb"}
+{"w": "evangelization", "pos": "noun", "d": ["The act of spreading the gospel and winning converts."], "src": "iwb"}
+{"w": "evangely", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "evangile", "pos": "noun", "d": ["The gospel; the French word for the Christian gospel message."], "src": "iwb"}
+{"w": "evanid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "evanish", "pos": "verb", "d": ["To vanish; to disappear."], "src": "iwb"}
+{"w": "evaporable", "pos": "adjective", "d": ["Capable of being evaporated or turned to vapor."], "src": "iwb"}
+{"w": "evaporate", "pos": "verb", "d": ["To change from a liquid into vapor.", "To fade away or disappear gradually."], "src": "iwb"}
+{"w": "evaporation", "pos": "noun", "d": ["The process by which a liquid changes into vapor."], "src": "iwb"}
+{"w": "evaporative", "pos": "adjective", "d": ["Relating to or causing evaporation."], "src": "iwb"}
+{"w": "evaporator", "pos": "noun", "d": ["A device that causes evaporation, used to concentrate a liquid or produce vapor."], "src": "iwb"}
+{"w": "evaporometer", "pos": "noun", "d": ["An instrument that measures the rate of evaporation from a surface."], "src": "iwb"}
+{"w": "evasible", "pos": "adjective", "d": ["Capable of being evaded or avoided."], "src": "iwb"}
+{"w": "evasion", "pos": "noun", "d": ["The act of avoiding or escaping, often by cleverness or trickery."], "src": "iwb"}
+{"w": "evasive", "pos": "adjective", "d": ["Tending to avoid direct answers; not straightforward."], "src": "iwb"}
+{"w": "evectics", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "evection", "pos": "noun", "d": ["A periodic variation in the moon's motion caused by the sun's gravity.", "The act of carrying up or lifting."], "src": "iwb"}
+{"w": "evene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eventerate", "pos": "verb", "d": ["To disembowel; to rip open the abdomen."], "src": "iwb"}
+{"w": "eventilate", "pos": "verb", "d": ["To winnow; to fan grain and expose it to moving air."], "src": "iwb"}
+{"w": "eventilation", "pos": "noun", "d": ["The act of winnowing or fanning; exposure to moving air."], "src": "iwb"}
+{"w": "eventognathi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eventual", "pos": "adjective", "d": ["Happening at last; occurring as the final result."], "src": "iwb"}
+{"w": "eventuate", "pos": "verb", "d": ["To come about as a result; to turn out in the end."], "src": "iwb"}
+{"w": "eventuation", "pos": "noun", "d": ["The act of coming to a result; the outcome."], "src": "iwb"}
+{"w": "evergreen state", "pos": "phrase", "d": ["A nickname for the U.S. state of Washington, known for its evergreen forests."], "src": "iwb"}
+{"w": "everichon", "pos": "pronoun", "d": ["Everyone; every person."], "src": "iwb"}
+{"w": "evernic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "everse", "pos": "verb", "d": ["To overturn or subvert; to turn upside down."], "src": "iwb"}
+{"w": "eversive", "pos": "adjective", "d": ["Tending to overturn or subvert."], "src": "iwb"}
+{"w": "evert", "pos": "verb", "d": ["To turn outward or inside out."], "src": "iwb"}
+{"w": "everych", "pos": "adjective", "d": ["Every; each."], "src": "iwb"}
+{"w": "everychon", "pos": "pronoun", "d": ["Every one; each person or thing."], "src": "iwb"}
+{"w": "evesdrop", "pos": "verb", "d": ["To listen secretly to the private conversation of others."], "src": "iwb"}
+{"w": "evestigate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "evet", "pos": "noun", "d": ["A newt; a small salamander."], "src": "iwb"}
+{"w": "evibrate", "pos": "verb", "d": ["To brandish or shake out; to hurl."], "src": "iwb"}
+{"w": "evict", "pos": "verb", "d": ["To remove a tenant legally from rented property.", "To expel or force out."], "src": "iwb"}
+{"w": "evidentiary", "pos": "adjective", "d": ["Relating to or serving as evidence."], "src": "iwb"}
+{"w": "evigilation", "pos": "noun", "d": ["The act of waking from sleep; watchfulness."], "src": "iwb"}
+{"w": "evil eye", "pos": "phrase", "d": ["A look believed to cause harm or bad luck to the person looked at."], "src": "iwb"}
+{"w": "evil-eyed", "pos": "adjective", "d": ["Having or suggesting the evil eye; looking with malice."], "src": "iwb"}
+{"w": "evil-favored", "pos": "adjective", "d": ["Ill-favored; having an unattractive appearance."], "src": "iwb"}
+{"w": "evil-minded", "pos": "adjective", "d": ["Having wicked or malicious thoughts and intentions."], "src": "iwb"}
+{"w": "evince", "pos": "verb", "d": ["To show clearly; to make evident."], "src": "iwb"}
+{"w": "evincible", "pos": "adjective", "d": ["Capable of being shown or proved."], "src": "iwb"}
+{"w": "evincive", "pos": "adjective", "d": ["Tending to prove or show; convincing."], "src": "iwb"}
+{"w": "evirate", "pos": "verb", "d": ["To castrate; to deprive of virility."], "src": "iwb"}
+{"w": "eviration", "pos": "noun", "d": ["The act of castrating; loss of manhood."], "src": "iwb"}
+{"w": "eviscerate", "pos": "verb", "d": ["To remove the entrails of.", "To strip of essential parts; to gut."], "src": "iwb"}
+{"w": "evisceration", "pos": "noun", "d": ["The removal of the internal organs.", "The stripping away of essential content."], "src": "iwb"}
+{"w": "evitate", "pos": "verb", "d": ["To avoid or shun."], "src": "iwb"}
+{"w": "evitation", "pos": "noun", "d": ["The act of avoiding; avoidance."], "src": "iwb"}
+{"w": "evite", "pos": "verb", "d": ["To avoid; to shun."], "src": "iwb"}
+{"w": "eviternal", "pos": "adjective", "d": ["Lasting forever; eternal."], "src": "iwb"}
+{"w": "eviternity", "pos": "noun", "d": ["Endless duration; eternity."], "src": "iwb"}
+{"w": "evocate", "pos": "verb", "d": ["To call forth; to summon."], "src": "iwb"}
+{"w": "evocation", "pos": "noun", "d": ["The act of calling forth, as a spirit, memory, or feeling."], "src": "iwb"}
+{"w": "evocative", "pos": "adjective", "d": ["Tending to call up memories, feelings, or images."], "src": "iwb"}
+{"w": "evocator", "pos": "noun", "d": ["One who calls forth or summons."], "src": "iwb"}
+{"w": "evoke", "pos": "verb", "d": ["To call up or bring to mind.", "To summon forth."], "src": "iwb"}
+{"w": "evolatic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "evolation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "evolute", "pos": "noun", "d": ["The curve formed by the centers of curvature of another curve."], "src": "iwb"}
+{"w": "evolutility", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "evolve", "pos": "verb", "d": ["To develop gradually from simpler to more complex forms.", "To unfold or work out step by step."], "src": "iwb"}
+{"w": "evolvent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "evomit", "pos": "verb", "d": ["To vomit forth; to eject forcefully."], "src": "iwb"}
+{"w": "evulgate", "pos": "verb", "d": ["To publish or make known publicly."], "src": "iwb"}
+{"w": "evulgation", "pos": "noun", "d": ["The act of publishing or making public."], "src": "iwb"}
+{"w": "evulsion", "pos": "noun", "d": ["The act of pulling or tearing out; forcible extraction."], "src": "iwb"}
+{"w": "ew", "pos": "interjection", "d": ["An exclamation of disgust or distaste."], "src": "iwb"}
+{"w": "ewe", "pos": "noun", "d": ["A female sheep."], "src": "iwb"}
+{"w": "ewe-necked", "pos": "adjective", "d": ["Having a thin, concave neck like a ewe's; said of a horse."], "src": "iwb"}
+{"w": "ewer", "pos": "noun", "d": ["A large pitcher with a wide mouth, used for holding water."], "src": "iwb"}
+{"w": "ewery", "pos": "noun", "d": ["An office where ewers and water vessels are kept."], "src": "iwb"}
+{"w": "ewry", "pos": "noun", "d": ["A pantry or office for keeping table linen and vessels."], "src": "iwb"}
+{"w": "ewt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ex libris", "pos": "phrase", "d": ["From the library of; words on a bookplate showing who owns the book."], "src": "iwb"}
+{"w": "ex officio", "pos": "phrase", "d": ["By virtue of one's office; held automatically because of another position."], "src": "iwb"}
+{"w": "ex parte", "pos": "phrase", "d": ["From one side only; describing a legal hearing with only one party present."], "src": "iwb"}
+{"w": "ex post facto", "pos": "phrase", "d": ["After the fact; retroactive, especially of a law punishing acts done before it existed."], "src": "iwb"}
+{"w": "ex postfacto", "pos": "phrase", "d": ["After the fact; having retroactive effect."], "src": "iwb"}
+{"w": "ex-", "pos": "prefix", "d": ["A prefix meaning 'former', as in ex-president."], "src": "iwb"}
+{"w": "ex-voto", "pos": "noun", "d": ["An offering made in fulfillment of a vow."], "src": "iwb"}
+{"w": "exacerbation", "pos": "noun", "d": ["The act of making worse; aggravation.", "A worsening of a disease or its symptoms."], "src": "iwb"}
+{"w": "exacerbescence", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exacinate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exacination", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exactitude", "pos": "noun", "d": ["The quality of being exact; precision."], "src": "iwb"}
+{"w": "exaeresis", "pos": "noun", "d": ["Surgical removal; the excision of a part."], "src": "iwb"}
+{"w": "exaggerative", "pos": "adjective", "d": ["Tending to exaggerate."], "src": "iwb"}
+{"w": "exaggerator", "pos": "noun", "d": ["One who exaggerates."], "src": "iwb"}
+{"w": "exaggeratory", "pos": "adjective", "d": ["Given to exaggeration."], "src": "iwb"}
+{"w": "exametron", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "examinant", "pos": "noun", "d": ["A person who is being examined."], "src": "iwb"}
+{"w": "examinate", "pos": "verb", "d": ["To examine or inspect something carefully and thoroughly."], "src": "iwb"}
+{"w": "examinator", "pos": "noun", "d": ["A person who examines or inspects something, especially in an official capacity.", "An examiner."], "src": "iwb"}
+{"w": "examinee", "pos": "noun", "d": ["A person who is being examined, as a student taking a test."], "src": "iwb"}
+{"w": "examplary", "pos": "adjective", "d": ["Serving as a model or example worthy of imitation."], "src": "iwb"}
+{"w": "exampless", "pos": "adjective", "d": ["Having no example or precedent; unprecedented."], "src": "iwb"}
+{"w": "exanguious", "pos": "adjective", "d": ["Without blood; pale and lifeless.", "Lacking spirit or vigor."], "src": "iwb"}
+{"w": "exanthema", "pos": "noun", "d": ["A skin eruption or rash occurring in the course of a disease."], "src": "iwb"}
+{"w": "exanthematous", "pos": "adjective", "d": ["Relating to or characterized by a skin eruption or rash."], "src": "iwb"}
+{"w": "exantlate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exantlation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exarate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exaspidean", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exauctorate", "pos": "verb", "d": ["To deprive of office, rank, or authority; to discharge from service."], "src": "iwb"}
+{"w": "exauctoration", "pos": "noun", "d": ["The act of depriving someone of office or authority."], "src": "iwb"}
+{"w": "exauthorate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exauthoration", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "excalceate", "pos": "verb", "d": ["To deprive of shoes; to unshoe."], "src": "iwb"}
+{"w": "excalceation", "pos": "noun", "d": ["The act of depriving of shoes."], "src": "iwb"}
+{"w": "excalfaction", "pos": "noun", "d": ["The act of heating or making warm."], "src": "iwb"}
+{"w": "excalfactive", "pos": "adjective", "d": ["Having the power to heat; warming."], "src": "iwb"}
+{"w": "excalfactory", "pos": "adjective", "d": ["Tending to warm or heat."], "src": "iwb"}
+{"w": "excalibur", "pos": "noun", "d": ["The legendary sword of King Arthur."], "src": "iwb"}
+{"w": "excamb", "pos": "noun", "d": ["An exchange, especially of lands."], "src": "iwb"}
+{"w": "excambie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "excarnificate", "pos": "verb", "d": ["To deprive of flesh; to strip the flesh from."], "src": "iwb"}
+{"w": "excavate", "pos": "verb", "d": ["To dig out and remove earth or material.", "To uncover by digging, as buried ruins."], "src": "iwb"}
+{"w": "excavation", "pos": "noun", "d": ["The act of digging out earth or material.", "A hollow or cavity made by digging."], "src": "iwb"}
+{"w": "excavator", "pos": "noun", "d": ["A person or machine that digs out earth or material.", "A powered machine with a digging bucket used in construction."], "src": "iwb"}
+{"w": "excecate", "pos": "verb", "d": ["To make blind."], "src": "iwb"}
+{"w": "excecation", "pos": "noun", "d": ["The act of making blind.", "Blindness."], "src": "iwb"}
+{"w": "excedent", "pos": "adjective", "d": ["Exceeding the usual or proper limit; surpassing."], "src": "iwb"}
+{"w": "excellency", "pos": "noun", "d": ["A title of honor given to high officials.", "The quality of being excellent; superiority."], "src": "iwb"}
+{"w": "excelsior", "pos": "noun", "d": ["Fine curled wood shavings used as packing material.", "A motto meaning ever upward."], "src": "iwb"}
+{"w": "exceptious", "pos": "adjective", "d": ["Inclined to take exception; captious."], "src": "iwb"}
+{"w": "exceptor", "pos": "noun", "d": ["A person who takes exception; an objector."], "src": "iwb"}
+{"w": "excern", "pos": "verb", "d": ["To sift out; to separate by sifting."], "src": "iwb"}
+{"w": "excerp", "pos": "verb", "d": ["To extract or select, as passages from a work."], "src": "iwb"}
+{"w": "exchange editor", "pos": "phrase", "d": ["A newspaper editor in charge of copies exchanged with other publications."], "src": "iwb"}
+{"w": "excheator", "pos": "noun", "d": ["An officer in charge of escheated property; an escheator."], "src": "iwb"}
+{"w": "excide", "pos": "verb", "d": ["To cut out or cut off."], "src": "iwb"}
+{"w": "excipient", "pos": "noun", "d": ["An inactive substance used as a carrier for the active ingredient in a medicine."], "src": "iwb"}
+{"w": "exciple", "pos": "noun", "d": ["The rim or margin around the spore-bearing disk of a lichen."], "src": "iwb"}
+{"w": "excipulum", "pos": "noun", "d": ["The outer tissue forming the wall of certain fungal fruit bodies."], "src": "iwb"}
+{"w": "excise", "pos": "verb", "d": ["To cut out or remove.", "To impose a tax on goods made or sold within a country."], "src": "iwb"}
+{"w": "excision", "pos": "noun", "d": ["The act of cutting out or removing something."], "src": "iwb"}
+{"w": "excitability", "pos": "noun", "d": ["The quality of being easily excited or roused."], "src": "iwb"}
+{"w": "excitant", "pos": "noun", "d": ["A stimulant; something that rouses to action."], "src": "iwb"}
+{"w": "excitate", "pos": "verb", "d": ["To excite; to rouse to action."], "src": "iwb"}
+{"w": "excitative", "pos": "adjective", "d": ["Tending to excite or rouse."], "src": "iwb"}
+{"w": "excitive", "pos": "adjective", "d": ["Tending to excite; exciting."], "src": "iwb"}
+{"w": "excito-motion", "pos": "noun", "d": ["Movement produced by external stimulation; reflex movement."], "src": "iwb"}
+{"w": "excito-motor", "pos": "adjective", "d": ["Relating to movement excited by a stimulus."], "src": "iwb"}
+{"w": "excito-motory", "pos": "adjective", "d": ["Pertaining to movement excited by a stimulus."], "src": "iwb"}
+{"w": "excito-nutrient", "pos": "adjective", "d": ["Tending to excite or stimulate nutrition."], "src": "iwb"}
+{"w": "excito-secretory", "pos": "adjective", "d": ["Tending to excite or stimulate secretion."], "src": "iwb"}
+{"w": "exclamative", "pos": "adjective", "d": ["Expressing or marked by exclamation."], "src": "iwb"}
+{"w": "exclamatory", "pos": "adjective", "d": ["Containing or using exclamations."], "src": "iwb"}
+{"w": "exclusivism", "pos": "noun", "d": ["The practice of excluding others; exclusiveness."], "src": "iwb"}
+{"w": "exclusivist", "pos": "noun", "d": ["A person who practices exclusion; one who excludes others."], "src": "iwb"}
+{"w": "exclusory", "pos": "adjective", "d": ["Excluding; tending to exclude."], "src": "iwb"}
+{"w": "excoct", "pos": "verb", "d": ["To boil out; to extract by boiling."], "src": "iwb"}
+{"w": "excoriable", "pos": "adjective", "d": ["Liable to be stripped of skin; easily abraded."], "src": "iwb"}
+{"w": "excoriate", "pos": "verb", "d": ["To strip off the skin of.", "To denounce or criticize severely."], "src": "iwb"}
+{"w": "excoriation", "pos": "noun", "d": ["The act of stripping off skin.", "Severe denunciation."], "src": "iwb"}
+{"w": "excortication", "pos": "noun", "d": ["The act of stripping off bark or rind."], "src": "iwb"}
+{"w": "excrement", "pos": "noun", "d": ["Waste matter discharged from the body."], "src": "iwb"}
+{"w": "excrementitial", "pos": "adjective", "d": ["Relating to or consisting of excrement."], "src": "iwb"}
+{"w": "excrementitious", "pos": "adjective", "d": ["Consisting of excrement."], "src": "iwb"}
+{"w": "excrescency", "pos": "noun", "d": ["An abnormal or superfluous outgrowth."], "src": "iwb"}
+{"w": "excreta", "pos": "noun", "d": ["Waste matter excreted from the body."], "src": "iwb"}
+{"w": "excretion", "pos": "noun", "d": ["The act of discharging waste matter from the body.", "Matter discharged as waste."], "src": "iwb"}
+{"w": "excretive", "pos": "adjective", "d": ["Relating to excretion."], "src": "iwb"}
+{"w": "excretory", "pos": "adjective", "d": ["Relating to or used for excretion."], "src": "iwb"}
+{"w": "excruciable", "pos": "adjective", "d": ["Capable of being tormented; liable to torture."], "src": "iwb"}
+{"w": "excubitorium", "pos": "noun", "d": ["A place of watching or keeping guard."], "src": "iwb"}
+{"w": "exculpate", "pos": "verb", "d": ["To clear from blame or fault."], "src": "iwb"}
+{"w": "exculpation", "pos": "noun", "d": ["The act of clearing from blame."], "src": "iwb"}
+{"w": "excursus", "pos": "noun", "d": ["A digression from the main subject.", "A detailed discussion of a topic appended to a written work."], "src": "iwb"}
+{"w": "excusation", "pos": "noun", "d": ["The act of excusing."], "src": "iwb"}
+{"w": "excusator", "pos": "noun", "d": ["A person who excuses or makes excuses."], "src": "iwb"}
+{"w": "excusatory", "pos": "adjective", "d": ["Containing or offering an excuse."], "src": "iwb"}
+{"w": "excuss", "pos": "verb", "d": ["To shake off; to discard."], "src": "iwb"}
+{"w": "execrable", "pos": "adjective", "d": ["Deserving to be cursed; detestable."], "src": "iwb"}
+{"w": "execrate", "pos": "verb", "d": ["To curse; to denounce as evil.", "To detest utterly."], "src": "iwb"}
+{"w": "execration", "pos": "noun", "d": ["The act of cursing.", "A curse."], "src": "iwb"}
+{"w": "execrative", "pos": "adjective", "d": ["Cursing; imprecatory."], "src": "iwb"}
+{"w": "execratory", "pos": "adjective", "d": ["Containing curses; imprecatory."], "src": "iwb"}
+{"w": "exect", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "executant", "pos": "noun", "d": ["A performer, especially of music.", "One who carries out or executes something."], "src": "iwb"}
+{"w": "executor", "pos": "noun", "d": ["A person appointed to carry out the terms of a will."], "src": "iwb"}
+{"w": "executory", "pos": "adjective", "d": ["To be carried out in the future.", "Relating to execution or enforcement."], "src": "iwb"}
+{"w": "executress", "pos": "noun", "d": ["A female executor."], "src": "iwb"}
+{"w": "executrix", "pos": "noun", "d": ["A woman appointed to carry out the terms of a will."], "src": "iwb"}
+{"w": "exedent", "pos": "adjective", "d": ["Eating away; corroding."], "src": "iwb"}
+{"w": "exedra", "pos": "noun", "d": ["A room or recess with seats, especially a semicircular one in ancient buildings."], "src": "iwb"}
+{"w": "exegesis", "pos": "noun", "d": ["Critical interpretation or explanation of a text, especially scripture."], "src": "iwb"}
+{"w": "exegete", "pos": "noun", "d": ["A person skilled in interpreting texts, especially scripture."], "src": "iwb"}
+{"w": "exegetic", "pos": "adjective", "d": ["Relating to exegesis or interpretation."], "src": "iwb"}
+{"w": "exegetist", "pos": "noun", "d": ["One who interprets texts; an exegete."], "src": "iwb"}
+{"w": "exemplar", "pos": "noun", "d": ["A model or pattern to be imitated.", "A typical example."], "src": "iwb"}
+{"w": "exemplarily", "pos": "adverb", "d": ["In a way that serves as a model for others to copy."], "src": "iwb"}
+{"w": "exemplariness", "pos": "noun", "d": ["The quality of being an example worth copying."], "src": "iwb"}
+{"w": "exemplary", "pos": "adjective", "d": ["Worthy of being imitated as a model.", "Serving as a typical example of something."], "src": "iwb"}
+{"w": "exemplifiable", "pos": "adjective", "d": ["Capable of being shown as an example."], "src": "iwb"}
+{"w": "exemplification", "pos": "noun", "d": ["The act of serving or showing something as an example."], "src": "iwb"}
+{"w": "exemplify", "pos": "verb", "d": ["To be a clear example of something.", "To show something by giving an example."], "src": "iwb"}
+{"w": "exemptitious", "pos": "adjective", "d": ["Able to be exempted or freed from something."], "src": "iwb"}
+{"w": "exenterate", "pos": "verb", "d": ["To remove the inner organs of an animal or body."], "src": "iwb"}
+{"w": "exenteration", "pos": "noun", "d": ["The removal of the inner organs of an animal or body."], "src": "iwb"}
+{"w": "exequatur", "pos": "noun", "d": ["An official paper allowing a foreign consul to carry out duties in a country."], "src": "iwb"}
+{"w": "exequy", "pos": "noun", "d": ["A funeral ceremony or the rites for the dead."], "src": "iwb"}
+{"w": "exercent", "pos": "adjective", "d": ["Practicing or actively carrying out a trade or profession."], "src": "iwb"}
+{"w": "exercisible", "pos": "adjective", "d": ["Capable of being exercised or put into practice."], "src": "iwb"}
+{"w": "exercitation", "pos": "noun", "d": ["Physical or mental exercise or training."], "src": "iwb"}
+{"w": "exergue", "pos": "noun", "d": ["The small space below the main picture on a coin or medal, often holding a date or motto."], "src": "iwb"}
+{"w": "exert", "pos": "verb", "d": ["To put forth effort or strength in doing something.", "To bring a force or influence to bear."], "src": "iwb"}
+{"w": "exesion", "pos": "noun", "d": ["The act of eating away or being consumed."], "src": "iwb"}
+{"w": "exeunt", "pos": "verb", "d": ["A stage direction meaning two or more actors leave the stage."], "src": "iwb"}
+{"w": "exfoliative", "pos": "adjective", "d": ["Causing dead skin or surface cells to peel away."], "src": "iwb"}
+{"w": "exhalant", "pos": "adjective", "d": ["Breathing out or giving off vapor."], "src": "iwb"}
+{"w": "exhalence", "pos": "noun", "d": ["The act of breathing out."], "src": "iwb"}
+{"w": "exhaustibility", "pos": "noun", "d": ["The quality of being able to be used up or emptied."], "src": "iwb"}
+{"w": "exhedra", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exheredate", "pos": "verb", "d": ["To disinherit someone, removing their right to an inheritance."], "src": "iwb"}
+{"w": "exheredation", "pos": "noun", "d": ["The act of disinheriting someone."], "src": "iwb"}
+{"w": "exhereditation", "pos": "noun", "d": ["The act of disinheriting someone."], "src": "iwb"}
+{"w": "exhibitor", "pos": "noun", "d": ["A person or company that shows or displays something publicly."], "src": "iwb"}
+{"w": "exhilarant", "pos": "adjective", "d": ["Causing cheerfulness or liveliness."], "src": "iwb"}
+{"w": "exhilarate", "pos": "verb", "d": ["To make someone feel happy, lively, and excited."], "src": "iwb"}
+{"w": "exhilaration", "pos": "noun", "d": ["A feeling of happy excitement and liveliness."], "src": "iwb"}
+{"w": "exhort", "pos": "verb", "d": ["To urge or encourage someone strongly to do something."], "src": "iwb"}
+{"w": "exhumated", "pos": "adjective", "d": ["Dug up out of the ground, as from a grave."], "src": "iwb"}
+{"w": "exhume", "pos": "verb", "d": ["To dig something out of a grave or the ground."], "src": "iwb"}
+{"w": "exiccate", "pos": "verb", "d": ["To dry something out completely."], "src": "iwb"}
+{"w": "exiccation", "pos": "noun", "d": ["The act or process of drying something out completely."], "src": "iwb"}
+{"w": "exigence", "pos": "noun", "d": ["An urgent demand or pressing need."], "src": "iwb"}
+{"w": "exigency", "pos": "noun", "d": ["An urgent or pressing need.", "An emergency situation requiring immediate action."], "src": "iwb"}
+{"w": "exigendary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exigent", "pos": "adjective", "d": ["Requiring immediate action or attention."], "src": "iwb"}
+{"w": "exigible", "pos": "adjective", "d": ["Able to be demanded or required."], "src": "iwb"}
+{"w": "exiguity", "pos": "noun", "d": ["The state of being very small in amount or degree."], "src": "iwb"}
+{"w": "exiguous", "pos": "adjective", "d": ["Very small or meager in amount."], "src": "iwb"}
+{"w": "exilic", "pos": "adjective", "d": ["Relating to exile or to someone living away from their homeland."], "src": "iwb"}
+{"w": "exilition", "pos": "noun", "d": ["The act of leaping or jumping out."], "src": "iwb"}
+{"w": "exility", "pos": "noun", "d": ["The state of being very small or slender."], "src": "iwb"}
+{"w": "eximious", "pos": "adjective", "d": ["Outstanding or distinguished in some way."], "src": "iwb"}
+{"w": "exinanite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "existency", "pos": "noun", "d": ["The state or fact of existing."], "src": "iwb"}
+{"w": "existimation", "pos": "noun", "d": ["The act of judging or forming an opinion about something."], "src": "iwb"}
+{"w": "exitious", "pos": "adjective", "d": ["Causing death or destruction."], "src": "iwb"}
+{"w": "exo", "pos": "prefix", "d": ["A prefix meaning outside or external, as in exoskeleton."], "src": "iwb"}
+{"w": "exo-", "pos": "prefix", "d": ["A prefix meaning outside or external, as in exoskeleton."], "src": "iwb"}
+{"w": "exocardial", "pos": "adjective", "d": ["Located outside the heart."], "src": "iwb"}
+{"w": "exocetus", "pos": "noun", "d": ["A genus of flying fish."], "src": "iwb"}
+{"w": "exocoetus", "pos": "noun", "d": ["A genus of flying fish."], "src": "iwb"}
+{"w": "exodus", "pos": "noun", "d": ["A large departure of people from a place."], "src": "iwb"}
+{"w": "exody", "pos": "noun", "d": ["A short humorous play performed after a tragedy in ancient Greek theater."], "src": "iwb"}
+{"w": "exogamous", "pos": "adjective", "d": ["Marrying outside one's own group or tribe."], "src": "iwb"}
+{"w": "exogen", "pos": "noun", "d": ["A plant that grows outward, adding new tissue to the outside of its stem."], "src": "iwb"}
+{"w": "exogyra", "pos": "noun", "d": ["A genus of extinct oysters found as fossils."], "src": "iwb"}
+{"w": "exolution", "pos": "noun", "d": ["The act of unrolling or unfolding."], "src": "iwb"}
+{"w": "exolve", "pos": "verb", "d": ["To unroll or unfold."], "src": "iwb"}
+{"w": "exon", "pos": "noun", "d": ["A part of a gene that carries coding information passed on to proteins."], "src": "iwb"}
+{"w": "exonerator", "pos": "noun", "d": ["A person or thing that frees someone from blame."], "src": "iwb"}
+{"w": "exophthalmos", "pos": "noun", "d": ["A bulging of the eyeball out of its socket."], "src": "iwb"}
+{"w": "exophthalmus", "pos": "noun", "d": ["A bulging of the eyeball out of its socket."], "src": "iwb"}
+{"w": "exopodite", "pos": "noun", "d": ["The outer branch of a jointed limb in certain crustaceans."], "src": "iwb"}
+{"w": "exoptile", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exorable", "pos": "adjective", "d": ["Able to be moved or persuaded by pleading."], "src": "iwb"}
+{"w": "exorbitance", "pos": "noun", "d": ["The state of going beyond reasonable limits."], "src": "iwb"}
+{"w": "exorbitancy", "pos": "noun", "d": ["The state of going beyond reasonable limits."], "src": "iwb"}
+{"w": "exorbitant", "pos": "adjective", "d": ["Far beyond what is reasonable, especially in price."], "src": "iwb"}
+{"w": "exorbitate", "pos": "verb", "d": ["To go beyond the normal orbit or limits."], "src": "iwb"}
+{"w": "exorcise", "pos": "verb", "d": ["To drive out an evil spirit by prayer or ritual.", "To get rid of something troublesome or frightening."], "src": "iwb"}
+{"w": "exorcism", "pos": "noun", "d": ["The act of driving out an evil spirit by prayer or ritual."], "src": "iwb"}
+{"w": "exorcist", "pos": "noun", "d": ["A person who drives out evil spirits by prayer or ritual."], "src": "iwb"}
+{"w": "exordial", "pos": "adjective", "d": ["Relating to the opening part of a speech or composition."], "src": "iwb"}
+{"w": "exordium", "pos": "noun", "d": ["The opening part of a speech or piece of writing."], "src": "iwb"}
+{"w": "exorhiza", "pos": "noun", "d": ["A plant whose root grows downward from the seed rather than upward first."], "src": "iwb"}
+{"w": "exorhizal", "pos": "adjective", "d": ["Having roots that grow downward from the seed."], "src": "iwb"}
+{"w": "exorhizous", "pos": "adjective", "d": ["Having roots that grow downward from the seed."], "src": "iwb"}
+{"w": "exornation", "pos": "noun", "d": ["Decoration or ornament added to something."], "src": "iwb"}
+{"w": "exossate", "pos": "adjective", "d": ["Lacking bones."], "src": "iwb"}
+{"w": "exossation", "pos": "noun", "d": ["The removal of bones from something."], "src": "iwb"}
+{"w": "exostome", "pos": "noun", "d": ["The outer opening of the seed coat through which the pollen tube passes."], "src": "iwb"}
+{"w": "exoteric", "pos": "adjective", "d": ["Intended for ordinary people rather than a select inner group."], "src": "iwb"}
+{"w": "exotery", "pos": "noun", "d": ["Doctrines or teachings meant for the general public."], "src": "iwb"}
+{"w": "exothecium", "pos": "noun", "d": ["The outer layer of the wall of an anther in a plant."], "src": "iwb"}
+{"w": "expanse", "pos": "noun", "d": ["A wide open area or stretch of space."], "src": "iwb"}
+{"w": "expansibility", "pos": "noun", "d": ["The quality of being able to be spread out or enlarged."], "src": "iwb"}
+{"w": "expansible", "pos": "adjective", "d": ["Capable of being spread out or enlarged."], "src": "iwb"}
+{"w": "expansile", "pos": "adjective", "d": ["Capable of expanding or stretching out."], "src": "iwb"}
+{"w": "expansive", "pos": "adjective", "d": ["Covering a wide area or range.", "Friendly and open in talking about oneself."], "src": "iwb"}
+{"w": "expansure", "pos": "noun", "d": ["Expansion or the act of spreading out."], "src": "iwb"}
+{"w": "expatiate", "pos": "verb", "d": ["To speak or write at length about something."], "src": "iwb"}
+{"w": "expatiation", "pos": "noun", "d": ["The act of speaking or writing at length about something."], "src": "iwb"}
+{"w": "expatiatory", "pos": "adjective", "d": ["Relating to speaking or writing at length about something."], "src": "iwb"}
+{"d": ["To leave one's native country to live elsewhere.", "To force someone to leave their native country."], "pos": "verb", "w": "expatriate", "src": "iwb"}
+{"w": "expatriation", "pos": "noun", "d": ["The act of leaving one's native country to live elsewhere."], "src": "iwb"}
+{"w": "expectancy", "pos": "noun", "d": ["The state of expecting something to happen.", "Something that is expected to come in the future."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

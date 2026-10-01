@@ -4,8 +4,8 @@
   "creator": "Justin Addam Higgins (JAH)",
   "description": "Manon's own IWB Dictionary: every English word with original definitions, read-aloud, word programs, and a personal AI teacher.",
   "for_bots": "Machine-readable manifest. Humans use the site above; bots, scrapers, and AI assistants should use the endpoints below \u2014 plain JSON/JSONL over HTTPS, no JavaScript needed.",
-  "records_approx": 255611,
-  "records_as_of": "2026-09-29",
+  "records_approx": 553152,
+  "records_as_of": "2026-10-01",
   "note": "Counts grow on automated schedules; re-read this file for the latest shape of the data.",
   "endpoints": [
     {
@@ -16,7 +16,7 @@
     {
       "path": "data/dict/<chunk>.jsonl.gz",
       "format": "gzipped jsonl",
-      "desc": "Dictionary entries, one JSON object per line (256 chunks)."
+      "desc": "Dictionary entries, one JSON object per line (554 chunks, 1000 entries each)."
     }
   ],
   "deep_links": [

@@ -225,12 +225,14 @@ async function main() {
   /* T13 metadata */
   const st = DB.stats;
   ok("T13 metadata fields", !!(st.dictionary_version && st.schema_version && st.last_updated && st.data_hash));
-  ok("T13 entry_count=269840", st.entry_count === 269840, String(st.entry_count));
+  ok("T13 entry_count matches index rows", st.entry_count === DB.idx.length, String(st.entry_count));
+  ok("T13 words+terms=total", st.words + st.terms === st.entry_count && st.total === st.entry_count,
+     st.words + "+" + st.terms + "=" + st.entry_count);
   ok("T13 data_hash format", /^sha256:[0-9a-f]{64}$/.test(st.data_hash));
   resetStubs(); location.search = "";
   const appH = appEl();
   await vHome(appH);
-  ok("T13 ready state", appH.innerHTML.includes("Dictionary ready &mdash; 269,840 entries"));
+  ok("T13 ready state", appH.innerHTML.includes("Dictionary ready &mdash; " + st.entry_count.toLocaleString() + " entries"));
   ok("T13 inclusion rules", appH.innerHTML.includes("What counts as an entry?"));
 
   /* T14 index */

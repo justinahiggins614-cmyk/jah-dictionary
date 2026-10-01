@@ -3,20 +3,24 @@
 
 Words: headword list with original IWB Dictionary definitions (data/definitions/all.jsonl);
   code/dict/build/dictionary.json  ->  build cache code/dict/build/words.jsonl
-Terms: one dictionary entry per spec (signature-one-archive + shard-2 indexes)
-  and per public patent (cyber-patent-catalog index).
+Terms: one dictionary entry per spec (signature-one-archive + ALL its shard clones,
+  enumerated dynamically so new shards are picked up automatically) and per public
+  patent (cyber-patent-catalog index).
 
 Outputs:
   data/dict/dict-cNNNNN.jsonl.gz   (1000 entries per chunk, sorted by key)
   data/index/dict.idx.json.gz      ([[key, chunkFile, lineNo], ...] sorted)
   data/index/stats.json
 
-Idempotent: re-runnable; the daily cron re-runs it. Stamp numbers are stable
-because words are stamped alphabetically (static set) and terms are stamped
-by (spec numeric id, then patent rid) order.
+Idempotent: re-runnable; the daily cron re-runs it. Stamp numbers are stable:
+words are stamped alphabetically (static set); term stamps (JAH-DICT-T-######)
+are preserved by (record-type, record-id) across rebuilds — previously shipped
+stamps are re-read from the existing chunks and reused, new terms continue from
+the highest shipped number. Stamps are never renumbered.
 """
 import bisect
 import datetime
+import glob
 import gzip
 import json
 import os
@@ -28,10 +32,20 @@ DICT_JSON = os.path.join(BUILD, "dictionary.json")
 WORDS_CACHE = os.path.join(BUILD, "words.jsonl")
 DATADIR = os.path.join(ROOT, "data", "dict")
 IDXDIR = os.path.join(ROOT, "data", "index")
-SPEC_IDXS = [
-    os.path.expanduser("~/workspace/signature-one-archive/data/index/specs.idx.json.gz"),
-    os.path.expanduser("~/workspace/signature-one-archive-shard-2/data/index/specs.idx.json.gz"),
-]
+def spec_index_paths():
+    """All spec catalog index files: main repo + every shard clone, enumerated
+    dynamically (new shards are picked up automatically)."""
+    paths = []
+    for clone in sorted(glob.glob(os.path.expanduser("~/workspace/signature-one-archive*"))):
+        p = os.path.join(clone, "data", "index", "specs.idx.json.gz")
+        if os.path.isdir(clone) and os.path.exists(p):
+            paths.append(p)
+        else:
+            log("WARN: no spec index at %s" % p)
+    return paths
+
+
+SPEC_IDXS = None  # resolved per-run via spec_index_paths()
 PAT_IDX = os.path.expanduser("~/workspace/cyber-patent-catalog/data/patents.idx.json.gz")
 CHUNK_SIZE = 1000
 
@@ -108,12 +122,9 @@ def write_words_cache(words):
     log("words cache: %s (%d entries)" % (WORDS_CACHE, len(words)))
 
 
-def spec_rows():
-    """Stream (spec_id, title, abstract, cpc) from both spec indexes."""
-    for path in SPEC_IDXS:
-        if not os.path.exists(path):
-            log("WARN: missing spec index %s" % path)
-            continue
+def spec_rows(spec_idx_paths):
+    """Stream (spec_id, title, abstract, cpc) from all spec indexes."""
+    for path in spec_idx_paths:
         with gzip.open(path, "rt", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
@@ -141,6 +152,34 @@ def patent_rows():
     return out
 
 
+def load_old_term_stamps():
+    """Re-read term stamps from the currently shipped chunks: {(rt, rid): stamp}
+    plus the highest shipped T-number. Stamps are permanent entry IDs and are
+    never renumbered across rebuilds."""
+    stamps = {}
+    maxn = 0
+    if not os.path.isdir(DATADIR):
+        return stamps, maxn
+    for n in sorted(os.listdir(DATADIR)):
+        if not (n.startswith("dict-c") and n.endswith(".jsonl.gz")):
+            continue
+        with gzip.open(os.path.join(DATADIR, n), "rt", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    e = json.loads(line)
+                except Exception:
+                    continue
+                if e.get("k") == "t" and e.get("st") and e.get("rid"):
+                    stamps[(str(e.get("rt", "")), str(e["rid"]))] = e["st"]
+                    m = re.search(r"(\d+)$", str(e["st"]))
+                    if m:
+                        maxn = max(maxn, int(m.group(1)))
+    return stamps, maxn
+
+
 def build_counts(wordset, spec_titles, pat_titles):
     spec_counts = {}
     for t in spec_titles:
@@ -160,8 +199,13 @@ def spec_num(rid):
     return int(m.group(1)) if m else 0
 
 
-def build_terms():
-    specs = list(spec_rows())
+def build_terms(old_stamps, next_t):
+    """Build term entries. Stamps are permanent: records shipped before keep
+    their stamps (looked up by (rt, rid)); brand-new terms continue numbering
+    from next_t."""
+    paths = spec_index_paths()
+    log("spec indexes: %d" % len(paths))
+    specs = list(spec_rows(paths))
     log("spec rows read: %d" % len(specs))
     pats = patent_rows()
     log("patent rows read: %d" % len(pats))
@@ -195,8 +239,16 @@ def build_terms():
         })
     pat_terms.sort(key=lambda e: str(e["rid"]))
     terms = spec_terms + pat_terms
-    for i, e in enumerate(terms, 1):
-        e["st"] = "JAH-DICT-T-%06d" % i
+    for e in terms:
+        key = (e["rt"], e["rid"])
+        if key in old_stamps:
+            e["st"] = old_stamps[key]
+        else:
+            e["st"] = "JAH-DICT-T-%06d" % next_t
+            next_t += 1
+    log("term stamps reused: %d, newly assigned: %d" %
+        (sum(1 for e in terms if (e["rt"], e["rid"]) in old_stamps),
+         sum(1 for e in terms if (e["rt"], e["rid"]) not in old_stamps)))
     return terms, spec_titles, pat_titles, len(spec_terms), len(pat_terms)
 
 
@@ -345,7 +397,9 @@ def main():
     assert os.path.exists(DICT_JSON), "missing input: %s" % DICT_JSON
     words = parse_words()
     write_words_cache(words)
-    terms, spec_titles, pat_titles, n_spec_terms, n_pat_terms = build_terms()
+    old_stamps, max_t = load_old_term_stamps()
+    log("old term stamps loaded: %d (max T-number %d)" % (len(old_stamps), max_t))
+    terms, spec_titles, pat_titles, n_spec_terms, n_pat_terms = build_terms(old_stamps, max_t + 1)
     wordset = set(e["key"] for e in words)
     spec_counts, pat_counts = build_counts(wordset, spec_titles, pat_titles)
     for e in words:

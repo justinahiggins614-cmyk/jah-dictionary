@@ -119,6 +119,7 @@ function normChanged(raw,key){var r=String(raw);return r!==key&&r.replace(/^[\s\
 function normNote(raw,key){if(!normChanged(raw,key))return "";
  return '<p class="normnote">Showing the entry for &ldquo;'+esc(key)+'&rdquo; (you typed &ldquo;'+esc(String(raw).trim())+'&rdquo;).</p>'}
 function defVersion(e){return e.defsrc==="iwb"?"v1-authored":e.defsrc==="template"?"v1-template":"v0-pending"}
+function provLabel(e){return e.defsrc==="iwb"?"authored by IWB editors":e.defsrc==="template"?"template-derived":"editors are still writing"}
 function entryHash(e,D){var s=[e.st||"",e.w||"",e.pos||"",
   (Array.isArray(e.d)?e.d:[e.d]).map(cleanSense).join("|"),D?D.fnvHex:""].join("|");
  var h=hashStr(s);return ("00000000"+h.toString(16)).slice(-8).toUpperCase()}
@@ -231,10 +232,10 @@ function rdToolbar(){
  '<button onclick="rdStop()">\u23F9 Stop</button>'+
  '<select id="rdspeed" onchange="RD.speed=parseFloat(this.value)" title="Reading speed">'+
  '<option value="0.8">0.8&times;</option><option value="1" selected>1&times;</option><option value="1.25">1.25&times;</option><option value="1.5">1.5&times;</option><option value="2">2&times;</option></select>'+
- '<button onclick="copyText(document.getElementById(\'entrytext\').textContent,this)">\uD83D\uDCCB Copy entry</button>'+
- '<button onclick="dlEntryTxt()">\u2B07 Download .txt</button>'+
- '<button onclick="dlEntryJson()">\u2B07 Download JSON</button>'+
- '<button onclick="dlEntryCsv()">\u2B07 Download CSV</button>'+
+ '<button onclick="copyText(document.getElementById(\'entrytext\').textContent,this)" title="Copy the full entry text (headword, entry ID, definitions, stamp, hash) to the clipboard">\uD83D\uDCCB Copy entry</button>'+
+ '<button onclick="dlEntryTxt()" title="Download this entry as plain text (.txt): headword, entry ID, both definitions, stamp, entry hash">\u2B07 Download .txt</button>'+
+ '<button onclick="dlEntryJson()" title="Download this entry as machine-readable JSON (schema 1.0): entry_id, word, definitions, definition_version, stamp, entry_hash, word program, teacher contract">\u2B07 Download JSON</button>'+
+ '<button onclick="dlEntryCsv()" title="Download this entry as one CSV row: entry_id,word,kind,part_of_speech,definition_version,definitions,deterministic_definition,stamp,entry_hash,schema_version">\u2B07 Download CSV</button>'+
 
  '<button onclick="wordPatent()" title="Open this word\u2019s patent draft in the Spec Catalog">\u2699 Word patent \u2192</button>';
 }
@@ -550,6 +551,7 @@ async function vEntry(app,key,raw){
  h+='<div id="entrytext" style="display:none">'+esc(window._entryText)+'</div>';
  h+='<h2 class="sec">IWB Dictionary &mdash; normal definition</h2><div class="defs">';
  h+='<p style="font-family:Arial;color:#6b5f3e">Part of speech: <i>'+esc(e.pos||"not yet assigned")+'</i></p>';
+ h+='<p class="jahstatus">Definition provenance: <b>'+esc(provLabel(e))+'</b> &middot; definition version '+esc(defVersion(e))+'</p>';
  var totalSenseLen=senses.reduce(function(a,s){return a+String(s).length},0);
  if(senses.length){var _ol='<ol>';senses.forEach(function(s){_ol+='<li>'+esc(cleanSense(s))+'</li>'});_ol+='</ol>';
   h+=totalSenseLen>20000?'<div class="longentry"><p class="jahstatus">Very long entry &mdash; shown in a scrollable panel so the page stays fast.</p>'+_ol+'</div>':_ol;}
@@ -577,13 +579,13 @@ async function vEntry(app,key,raw){
  h+='<details class="jahd"><summary>Download schema (JSON / CSV)</summary><p>Stable fields: entry_id, word, surface, kind, part_of_speech, definition_version, definitions[], deterministic_definition, deterministic_stamp, entry_hash, word_program{language, executable, contract, demo}, teacher{mode, reads, mutates_entry}, schema_version, dictionary_version, generated. CSV columns: entry_id,word,kind,part_of_speech,definition_version,definitions,deterministic_definition,stamp,entry_hash,schema_version.</p></details>';
  h+='<div class="stampbox"><div class="sub">OFFICIAL DETERMINISTIC STAMP &middot; JAH LEXICON</div><div class="big">'+esc(e.st)+'</div><div class="sub">WORD: '+esc(e.w.toUpperCase())+' &middot; SIGNATURE '+D.fnvHex+'</div></div>';
  var prog=wordProgram(e,D);
- h+='<div class="toolbar"><button onclick="copyText(window._prog,this)">\uD83D\uDCCB Copy program</button>'+
- '<button onclick="download(\'word-'+e.w.toLowerCase().replace(/[^a-z0-9]+/g,"-")+'.py\',window._prog,\'text/x-python\')">\u2B07 Download .py</button>'+
+ h+='<div class="toolbar"><button onclick="copyText(window._prog,this)" title="Copy the word program (Python 3, stdlib only) to the clipboard">\uD83D\uDCCB Copy program</button>'+
+ '<button onclick="download(\'word-'+e.w.toLowerCase().replace(/[^a-z0-9]+/g,"-")+'.py\',window._prog,\'text/x-python\')" title="Download the word program as a .py file: pure Python 3, stdlib only, no network, identical output on any machine">\u2B07 Download .py</button>'+
  '<button onclick="runWordDemo(window._e,window._D)">\u25B6 Run demo</button></div>';
  h+='<div class="prog" id="progview">'+esc(prog)+'</div>';
  h+='<div class="console" id="progout" style="display:none"></div>';
  h+='<h2 class="sec">Your AI teacher for &ldquo;'+esc(e.w)+'&rdquo;</h2>';
- h+='<div class="chat"><div class="persona"><b>\uD83C\uDF93 AI Teacher</b> &mdash; a personal explainer for the word &ldquo;'+esc(e.w)+'&rdquo;. Ask anything about it.<br><span style="font-size:.82em">The teacher reads the canonical entry above. It cannot change, overwrite, or revise it.</span></div><div class="chatlog" id="chatlog"></div><div class="chatin"><input id="chatin" placeholder="Ask about this word..." aria-label="Ask about this word"><button id="chatgo">Ask</button></div></div>';
+ h+='<div class="chat"><div class="persona"><b>\uD83C\uDF93 AI Teacher</b> &mdash; a personal explainer for the word &ldquo;'+esc(e.w)+'&rdquo;. Ask anything about it.<br><span style="font-size:.82em">The teacher reads the canonical entry above. It cannot change, overwrite, or revise it. Role: teaching assistant (guide) &mdash; it answers questions and explains; it never edits the entry.</span></div><div class="chatlog" id="chatlog"></div><div class="chatin"><input id="chatin" placeholder="Ask about this word..." aria-label="Ask about this word"><button id="chatgo">Ask</button></div></div>';
  if(e.k==="w"){
   h+='<h2 class="sec">In the JAH catalogs</h2><div class="detbox"><p style="margin:0">\u201c'+esc(e.w)+'\u201d appears in <b>'+Number(e.s).toLocaleString()+'</b> spec titles and <b>'+Number(e.p).toLocaleString()+'</b> patent titles.</p>'+
   '<p style="margin:8px 0 0"><a href="'+WIKI2+'/?q='+encodeURIComponent(e.w)+'" target="_blank" rel="noopener">Search JAH Wiki for &ldquo;'+esc(e.w)+'&rdquo; \u2B08</a> &nbsp;&middot;&nbsp; <a href="'+WIKI2+'/?dict='+encodeURIComponent(e.w)+'" target="_blank" rel="noopener">Open in JAH Wiki dictionary \u2B08</a></p></div>';
@@ -610,7 +612,7 @@ async function route(){
  try{
   if(typeof navigator!=="undefined"&&"onLine" in navigator&&!navigator.onLine)throw new Error("OFFLINE");
   await loadDB();
-  var w=qp("w"),q=qp("q"),az=qp("az");
+  var w=qp("w")||qp("dict"),q=qp("q"),az=qp("az");
   if(w)await vEntry(app,normKey(w),w);
   else if(q&&q.trim())await vSearch(app,q);
   else if(az)await vBrowse(app,az,qp("pg"));

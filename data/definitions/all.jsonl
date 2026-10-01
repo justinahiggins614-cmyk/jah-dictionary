@@ -19016,6 +19016,806 @@
 {"w": "diminutal", "pos": "adjective", "d": ["Pertaining to diminution.", "Tending to diminish."], "src": "iwb"}
 {"w": "diminute", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "diminution", "pos": "noun", "d": ["The act of diminishing.", "The state of being diminished; decrease."], "src": "iwb"}
+{"w": "diminutival", "pos": "adjective", "d": ["Of or resembling a diminutive, especially in expressing smallness or affection."], "src": "iwb"}
+{"w": "diminutive", "pos": "adjective", "d": ["Very small in size, especially charmingly so.", "Formed with a suffix that expresses smallness or endearment, as kitten from kit."], "src": "iwb"}
+{"w": "dimission", "pos": "noun", "d": ["The formal act of leaving or being removed from an office or position.", "A formal resignation from a post."], "src": "iwb"}
+{"w": "dimissory", "pos": "adjective", "d": ["Granting permission to leave a diocese or office, especially for ordination elsewhere."], "src": "iwb"}
+{"w": "dimit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dimmish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dimmy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dimorph", "pos": "noun", "d": ["A substance that can crystallize in two distinct forms.", "An organism existing in two distinct forms."], "src": "iwb"}
+{"w": "dimple", "pos": "noun", "d": ["A small natural hollow in the flesh, especially one that appears on the cheek when smiling.", "A slight dent or depression on a surface."], "src": "iwb"}
+{"w": "dimya", "pos": "noun", "d": ["A genus of very small oysters and related bivalve mollusks."], "src": "iwb"}
+{"w": "dimyaria", "pos": "noun", "d": ["A group of bivalve mollusks having two adductor muscles for closing the shell."], "src": "iwb"}
+{"w": "dimyarian", "pos": "adjective", "d": ["Belonging to or characteristic of the dimyaria."], "src": "iwb"}
+{"w": "dimyary", "pos": "adjective", "d": ["Having two adductor muscles, as certain bivalve mollusks."], "src": "iwb"}
+{"w": "din", "pos": "noun", "d": ["A loud, continuous, unpleasant noise.", "A loud ringing or clamor."], "src": "iwb"}
+{"w": "dinaphthyl", "pos": "noun", "d": ["A chemical compound formed by joining two naphthyl groups."], "src": "iwb"}
+{"w": "dinar", "pos": "noun", "d": ["The basic unit of money in several countries, including Iraq, Serbia, and Algeria."], "src": "iwb"}
+{"w": "dine", "pos": "verb", "d": ["To eat dinner, especially as a formal or social meal."], "src": "iwb"}
+{"w": "diner-out", "pos": "noun", "d": ["A person who regularly eats meals at restaurants rather than at home."], "src": "iwb"}
+{"w": "ding", "pos": "verb", "d": ["To make a clear metallic ringing sound, as a bell does."], "src": "iwb"}
+{"w": "dingdong", "pos": "noun", "d": ["The ringing sound made by a bell.", "A noisy quarrel or fight."], "src": "iwb"}
+{"w": "dingdong theory", "pos": "phrase", "d": ["A theory of the origin of language holding that words arose from a natural link between sounds and the things they name."], "src": "iwb"}
+{"w": "dingey", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dinghy", "pos": "noun", "d": ["A small open boat, often carried on a larger vessel and used as a tender or lifeboat."], "src": "iwb"}
+{"w": "dingily", "pos": "adverb", "d": ["In a dingy or shabby manner."], "src": "iwb"}
+{"w": "dinginess", "pos": "noun", "d": ["The quality or condition of being dingy, dull, or shabby."], "src": "iwb"}
+{"w": "dingle", "pos": "noun", "d": ["A deep, narrow, wooded valley or dell."], "src": "iwb"}
+{"w": "dingle-dangle", "pos": "adjective", "d": ["Hanging loosely and swinging back and forth."], "src": "iwb"}
+{"w": "dingo", "pos": "noun", "d": ["A wild dog of Australia, usually sandy-colored, that hunts in packs."], "src": "iwb"}
+{"w": "dingy", "pos": "adjective", "d": ["Dull, drab, or dirty in appearance, as from age or neglect."], "src": "iwb"}
+{"w": "dink", "pos": "verb", "d": ["To hit a ball softly and carefully, especially in tennis, pickleball, or golf.", "To make a light tapping sound."], "src": "iwb"}
+{"w": "dinoceras", "pos": "noun", "d": ["An extinct Eocene mammal of North America with bony knobs on its skull, an early uintathere."], "src": "iwb"}
+{"w": "dinornis", "pos": "noun", "d": ["The moa, a genus of huge extinct flightless birds of New Zealand."], "src": "iwb"}
+{"w": "dinosaur", "pos": "noun", "d": ["Any of a group of extinct land reptiles of the Mesozoic era, many of great size."], "src": "iwb"}
+{"w": "dinosauria", "pos": "noun", "d": ["The scientific group containing all dinosaurs."], "src": "iwb"}
+{"w": "dinosaurian", "pos": "adjective", "d": ["Of, relating to, or resembling dinosaurs."], "src": "iwb"}
+{"w": "dinothere", "pos": "noun", "d": ["An extinct elephant-like mammal of the Miocene and Pliocene with tusks curving downward from the lower jaw."], "src": "iwb"}
+{"w": "dinotherium", "pos": "noun", "d": ["A genus of large extinct proboscideans with downward-curving tusks on the lower jaw."], "src": "iwb"}
+{"w": "dint", "pos": "noun", "d": ["Force or power, as in the phrase by dint of, meaning through the force of.", "A dent or hollow made by a blow."], "src": "iwb"}
+{"w": "dinumeration", "pos": "noun", "d": ["The act of counting or numbering things one by one."], "src": "iwb"}
+{"w": "diocesan", "pos": "adjective", "d": ["Of or relating to a diocese."], "src": "iwb"}
+{"w": "diocese", "pos": "noun", "d": ["The district or territory under the jurisdiction of a bishop."], "src": "iwb"}
+{"w": "diodon", "pos": "noun", "d": ["A genus of porcupinefishes with stout spines and powerful beaklike jaws."], "src": "iwb"}
+{"w": "diodont", "pos": "adjective", "d": ["Having double or paired teeth."], "src": "iwb"}
+{"w": "dioecia", "pos": "noun", "d": ["A class of plants in which male and female flowers grow on separate individual plants."], "src": "iwb"}
+{"w": "dioecian", "pos": "adjective", "d": ["Belonging to the dioecia; having male and female flowers on separate plants."], "src": "iwb"}
+{"w": "dioecious", "pos": "adjective", "d": ["Having male and female reproductive organs on separate individual plants."], "src": "iwb"}
+{"w": "dioecism", "pos": "noun", "d": ["The condition of being dioecious."], "src": "iwb"}
+{"w": "diogenes", "pos": "noun", "d": ["An ancient Greek philosopher of the Cynic school, famed for living simply and scorning convention."], "src": "iwb"}
+{"w": "dioicous", "pos": "adjective", "d": ["Having male and female reproductive organs on separate individuals, especially in mosses and liverworts."], "src": "iwb"}
+{"w": "diomedea", "pos": "noun", "d": ["A genus of large seabirds, the albatrosses."], "src": "iwb"}
+{"w": "dionaea", "pos": "noun", "d": ["A genus of insect-eating plants, including the Venus flytrap."], "src": "iwb"}
+{"w": "dionysia", "pos": "noun", "d": ["Ancient Greek festivals held in honor of Dionysus, featuring drama and revelry."], "src": "iwb"}
+{"w": "dionysiac", "pos": "adjective", "d": ["Of or relating to Dionysus or to wild, ecstatic celebration."], "src": "iwb"}
+{"w": "dionysian", "pos": "adjective", "d": ["Relating to Dionysus; marked by unrestrained, ecstatic emotion."], "src": "iwb"}
+{"w": "diophantine", "pos": "adjective", "d": ["Relating to Diophantus of Alexandria or to equations whose solutions must be whole numbers."], "src": "iwb"}
+{"w": "diopside", "pos": "noun", "d": ["A common mineral of the pyroxene group, a calcium magnesium silicate, sometimes used as a gemstone."], "src": "iwb"}
+{"w": "dioptase", "pos": "noun", "d": ["A vivid green mineral, a copper silicate, valued as a gemstone and by collectors."], "src": "iwb"}
+{"w": "diopter", "pos": "noun", "d": ["A unit measuring the refractive power of a lens, equal to the reciprocal of its focal length in meters.", "A sighting device on a surveying instrument."], "src": "iwb"}
+{"w": "dioptra", "pos": "noun", "d": ["An ancient surveying instrument for measuring angles and laying out lines."], "src": "iwb"}
+{"w": "dioptre", "pos": "noun", "d": ["The British spelling of diopter, the unit of lens refractive power."], "src": "iwb"}
+{"w": "dioptric", "pos": "adjective", "d": ["Relating to the refraction of light through lenses.", "Aiding vision by refracting light."], "src": "iwb"}
+{"w": "dioptry", "pos": "noun", "d": ["An old unit of lens refractive power, the same as the diopter."], "src": "iwb"}
+{"w": "diorama", "pos": "noun", "d": ["A three-dimensional miniature scene, often enclosed in a case and displayed in museums."], "src": "iwb"}
+{"w": "dioramic", "pos": "adjective", "d": ["Relating to or resembling a diorama."], "src": "iwb"}
+{"w": "diorism", "pos": "noun", "d": ["In rhetoric, a definition made by distinguishing a thing from what it is not."], "src": "iwb"}
+{"w": "dioristic", "pos": "adjective", "d": ["Serving to distinguish or define by distinguishing."], "src": "iwb"}
+{"w": "diorite", "pos": "noun", "d": ["A dark, coarse-grained igneous rock, intermediate in composition between granite and gabbro."], "src": "iwb"}
+{"w": "dioritic", "pos": "adjective", "d": ["Of or relating to diorite."], "src": "iwb"}
+{"w": "diorthotic", "pos": "adjective", "d": ["Tending to correct or set right, especially errors in a text."], "src": "iwb"}
+{"w": "dioscorea", "pos": "noun", "d": ["A large genus of climbing plants, the yams, grown for their starchy tubers."], "src": "iwb"}
+{"w": "diota", "pos": "noun", "d": ["An ancient Greek wine jar with two handles, smaller than an amphora."], "src": "iwb"}
+{"w": "dioxide", "pos": "noun", "d": ["A compound containing two atoms of oxygen combined with another element."], "src": "iwb"}
+{"w": "dioxindol", "pos": "noun", "d": ["A crystalline organic compound related to indole, obtained by reducing isatin."], "src": "iwb"}
+{"w": "dipaschal", "pos": "adjective", "d": ["Spanning or including two Easters or Passovers."], "src": "iwb"}
+{"w": "dipetalous", "pos": "adjective", "d": ["Having only two petals."], "src": "iwb"}
+{"w": "diphenyl", "pos": "noun", "d": ["A chemical compound formed by joining two phenyl groups; biphenyl."], "src": "iwb"}
+{"w": "diphtheria", "pos": "noun", "d": ["A serious contagious bacterial disease that forms a membrane in the throat and can obstruct breathing."], "src": "iwb"}
+{"w": "diphtherial", "pos": "adjective", "d": ["Of or relating to diphtheria."], "src": "iwb"}
+{"w": "diphtheric", "pos": "adjective", "d": ["Relating to or resembling diphtheria."], "src": "iwb"}
+{"w": "diphtheritic", "pos": "adjective", "d": ["Relating to diphtheria, or producing a false membrane like that of diphtheria."], "src": "iwb"}
+{"w": "diphthong", "pos": "noun", "d": ["A vowel sound that glides from one vowel quality to another within a single syllable, as in coin or loud."], "src": "iwb"}
+{"w": "diphthongization", "pos": "noun", "d": ["The process by which a simple vowel becomes a diphthong."], "src": "iwb"}
+{"w": "diphycercal", "pos": "adjective", "d": ["Describing a fish tail that is symmetrical above and below, with the backbone extending to its tip."], "src": "iwb"}
+{"w": "diphygenic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diphyllous", "pos": "adjective", "d": ["Having only two leaves."], "src": "iwb"}
+{"w": "diphyodont", "pos": "adjective", "d": ["Having two successive sets of teeth, as most mammals with milk teeth followed by permanent teeth."], "src": "iwb"}
+{"w": "diphyozooid", "pos": "noun", "d": ["One of the paired swimming zooids in the colony of a diphyid siphonophore."], "src": "iwb"}
+{"w": "diplanar", "pos": "adjective", "d": ["Lying in two planes."], "src": "iwb"}
+{"w": "dipleidoscope", "pos": "noun", "d": ["An instrument that determines local noon from the double reflection of the sun."], "src": "iwb"}
+{"w": "diploblastic", "pos": "adjective", "d": ["Having only two embryonic germ layers, the ectoderm and the endoderm, as jellyfishes do."], "src": "iwb"}
+{"w": "diplocardiac", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diplococcus", "pos": "noun", "d": ["A bacterium that occurs in pairs, such as the pneumococcus that causes pneumonia."], "src": "iwb"}
+{"w": "diploe", "pos": "noun", "d": ["The spongy bone tissue between the inner and outer hard layers of the skull."], "src": "iwb"}
+{"w": "diplogenic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diplograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diploic", "pos": "adjective", "d": ["Of or relating to the diploe of the skull."], "src": "iwb"}
+{"w": "diploid", "pos": "adjective", "d": ["Having two complete sets of chromosomes in each cell, one from each parent."], "src": "iwb"}
+{"w": "diplomacy", "pos": "noun", "d": ["The art and practice of conducting relations between nations.", "Skill in handling people tactfully."], "src": "iwb"}
+{"w": "diplomat", "pos": "noun", "d": ["An official who represents a country in its relations with other countries."], "src": "iwb"}
+{"w": "diplomate", "pos": "noun", "d": ["A person who has earned a diploma, especially a physician certified by a medical specialty board."], "src": "iwb"}
+{"w": "diplopia", "pos": "noun", "d": ["A visual condition in which one object is seen as two overlapping images."], "src": "iwb"}
+{"w": "diplopod", "pos": "noun", "d": ["A millipede, one of the many-legged arthropods of the class Diplopoda."], "src": "iwb"}
+{"w": "diplopoda", "pos": "noun", "d": ["The class of many-legged arthropods comprising the millipedes."], "src": "iwb"}
+{"w": "diplopy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diplostemonous", "pos": "adjective", "d": ["Having stamens arranged in two whorls, the outer opposite the sepals and the inner opposite the petals."], "src": "iwb"}
+{"w": "diplostemony", "pos": "noun", "d": ["The condition of having stamens arranged in two whorls."], "src": "iwb"}
+{"w": "dipneumona", "pos": "noun", "d": ["A group of spiders having two book lungs rather than four."], "src": "iwb"}
+{"w": "dipnoi", "pos": "noun", "d": ["The subclass of fishes comprising the lungfishes, which breathe with lungs as well as gills."], "src": "iwb"}
+{"w": "dipody", "pos": "noun", "d": ["A metrical unit of two feet taken together as one measure."], "src": "iwb"}
+{"w": "dipolar", "pos": "adjective", "d": ["Having two opposite poles, as a magnet with a north and a south end."], "src": "iwb"}
+{"w": "diprismatic", "pos": "adjective", "d": ["Doubly prismatic; having the form of a double prism."], "src": "iwb"}
+{"w": "dipropargyl", "pos": "adjective", "d": ["Containing two propargyl groups in a molecule."], "src": "iwb"}
+{"w": "dipropyl", "pos": "adjective", "d": ["Containing or denoting two propyl groups in a chemical compound."], "src": "iwb"}
+{"w": "diprotodon", "pos": "noun", "d": ["An extinct giant wombat-like marsupial of Australia, the largest marsupial known to have lived."], "src": "iwb"}
+{"w": "dipsas", "pos": "noun", "d": ["A genus of slender tree snakes of tropical America that feed chiefly on snails and slugs.", "A legendary serpent whose bite was said to cause unquenchable thirst."], "src": "iwb"}
+{"w": "dipsetic", "pos": "adjective", "d": ["Relating to thirst; tending to excite thirst."], "src": "iwb"}
+{"w": "dipsie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dipsomania", "pos": "noun", "d": ["An uncontrollable craving for alcoholic drink."], "src": "iwb"}
+{"w": "dipsomaniac", "pos": "noun", "d": ["A person afflicted with dipsomania."], "src": "iwb"}
+{"w": "dipsosis", "pos": "noun", "d": ["Excessive or morbid thirst."], "src": "iwb"}
+{"w": "dipsy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diptera", "pos": "noun", "d": ["The order of insects comprising the true flies, which have only one pair of functional wings."], "src": "iwb"}
+{"w": "dipteral", "pos": "adjective", "d": ["Surrounded by a double row of columns, as a dipteral temple."], "src": "iwb"}
+{"w": "dipteran", "pos": "noun", "d": ["A member of the order Diptera; a true fly."], "src": "iwb"}
+{"w": "dipterocarpus", "pos": "noun", "d": ["A genus of large tropical Asian trees valued for their timber and resin."], "src": "iwb"}
+{"w": "dipterous", "pos": "adjective", "d": ["Having two wings; belonging to the order Diptera."], "src": "iwb"}
+{"w": "dipterygian", "pos": "adjective", "d": ["Having two dorsal fins."], "src": "iwb"}
+{"w": "diptych", "pos": "noun", "d": ["A pair of painted or carved panels hinged together like the covers of a book."], "src": "iwb"}
+{"w": "dipyre", "pos": "noun", "d": ["A glassy prismatic variety of the mineral scapolite."], "src": "iwb"}
+{"w": "dipyridine", "pos": "noun", "d": ["A chemical compound containing two pyridine rings in its molecule."], "src": "iwb"}
+{"w": "dipyridyl", "pos": "noun", "d": ["An organic compound of two linked pyridine rings, used as a reagent in chemistry."], "src": "iwb"}
+{"w": "diradiation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dire", "pos": "adjective", "d": ["Extremely serious or dreadful; warning of disaster.", "Urgent and desperate, as in dire need."], "src": "iwb"}
+{"w": "direct action", "pos": "phrase", "d": ["Action aimed at an end by the most immediate means, especially strikes, sit-ins, or other forceful political or labor tactics."], "src": "iwb"}
+{"w": "direct current", "pos": "phrase", "d": ["Electric current that flows in one direction only."], "src": "iwb"}
+{"w": "direct nomination", "pos": "phrase", "d": ["Nomination of a candidate by the direct vote of party members rather than by delegates or a convention."], "src": "iwb"}
+{"w": "direct primary", "pos": "phrase", "d": ["A primary election in which the voters of a party choose its nominees directly."], "src": "iwb"}
+{"w": "direct-acting", "pos": "adjective", "d": ["Acting directly, without an intermediary."], "src": "iwb"}
+{"w": "direct-coupled", "pos": "adjective", "d": ["Joined without a capacitor or transformer between stages, as a direct-coupled amplifier."], "src": "iwb"}
+{"w": "directoire style", "pos": "phrase", "d": ["A style of dress and furniture of the French Directory period, marked by classical simplicity."], "src": "iwb"}
+{"w": "directress", "pos": "noun", "d": ["A woman who directs; a female director."], "src": "iwb"}
+{"w": "directrix", "pos": "noun", "d": ["In geometry, a fixed line used with a focus to define a conic section.", "A woman who directs."], "src": "iwb"}
+{"w": "dirempt", "pos": "adjective", "d": ["Torn asunder; separated."], "src": "iwb"}
+{"w": "direption", "pos": "noun", "d": ["The act of plundering or despoiling; a tearing asunder."], "src": "iwb"}
+{"w": "direptitious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dirge", "pos": "noun", "d": ["A song or piece of music performed at a funeral; a mournful lament."], "src": "iwb"}
+{"w": "dirige", "pos": "noun", "d": ["The opening antiphon of the matins for the dead in Roman Catholic liturgy."], "src": "iwb"}
+{"w": "dirigent", "pos": "noun", "d": ["One who directs; a conductor or manager."], "src": "iwb"}
+{"w": "dirigible", "pos": "noun", "d": ["A steerable balloon or airship."], "src": "iwb"}
+{"w": "diriment", "pos": "adjective", "d": ["Tending to nullify; in canon law, rendering a marriage invalid."], "src": "iwb"}
+{"w": "dirk", "pos": "noun", "d": ["A short straight dagger, especially the Highland dagger of Scotland."], "src": "iwb"}
+{"w": "dirl", "pos": "verb", "d": ["To quiver or vibrate; to tingle with a sharp ringing sound."], "src": "iwb"}
+{"w": "dirtily", "pos": "adverb", "d": ["In a dirty manner."], "src": "iwb"}
+{"w": "dirtiness", "pos": "noun", "d": ["The state or quality of being dirty."], "src": "iwb"}
+{"w": "diruption", "pos": "noun", "d": ["A bursting apart; violent disruption."], "src": "iwb"}
+{"w": "dis-", "pos": "prefix", "d": ["A prefix meaning not or the opposite of, as in disagree, or apart and away, as in disperse."], "src": "iwb"}
+{"w": "disacryl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disalliege", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disappendent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disapprovingly", "pos": "adverb", "d": ["In a disapproving manner; with disapproval."], "src": "iwb"}
+{"w": "disard", "pos": "noun", "d": ["A foolish prater; a jester (archaic)."], "src": "iwb"}
+{"w": "disastrous", "pos": "adjective", "d": ["Causing great damage, ruin, or suffering."], "src": "iwb"}
+{"w": "disaventurous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disboscation", "pos": "noun", "d": ["The act of clearing land of trees; deforestation."], "src": "iwb"}
+{"w": "discalceate", "pos": "adjective", "d": ["Barefoot or shod with sandals only, as certain orders of friars."], "src": "iwb"}
+{"w": "discalceation", "pos": "noun", "d": ["The practice of going barefoot, especially as a religious observance."], "src": "iwb"}
+{"w": "discept", "pos": "verb", "d": ["To debate or dispute (archaic)."], "src": "iwb"}
+{"w": "disceptator", "pos": "noun", "d": ["One who debates or disputes; an arbiter in a dispute."], "src": "iwb"}
+{"w": "discernibly", "pos": "adverb", "d": ["In a manner that can be discerned; perceptibly."], "src": "iwb"}
+{"w": "discerp", "pos": "verb", "d": ["To tear to pieces; to rend asunder (archaic)."], "src": "iwb"}
+{"w": "discerpibility", "pos": "noun", "d": ["The quality of being able to be torn to pieces."], "src": "iwb"}
+{"w": "discerptibility", "pos": "noun", "d": ["Capability of being torn apart or divided."], "src": "iwb"}
+{"w": "discerptible", "pos": "adjective", "d": ["Capable of being torn to pieces or divided."], "src": "iwb"}
+{"w": "discerptive", "pos": "adjective", "d": ["Tending to tear apart; divisive."], "src": "iwb"}
+{"w": "dischevele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disciferous", "pos": "adjective", "d": ["Bearing a disk or disks."], "src": "iwb"}
+{"w": "discifloral", "pos": "adjective", "d": ["Bearing disk flowers, as a composite plant."], "src": "iwb"}
+{"w": "disciflorous", "pos": "adjective", "d": ["Producing disk-shaped flowers."], "src": "iwb"}
+{"w": "disciform", "pos": "adjective", "d": ["Having the form of a disk; disk-shaped."], "src": "iwb"}
+{"w": "discina", "pos": "noun", "d": ["A genus of cup fungi related to the morels."], "src": "iwb"}
+{"w": "discinct", "pos": "adjective", "d": ["Ungirded; loosely dressed (archaic)."], "src": "iwb"}
+{"w": "disciple", "pos": "noun", "d": ["A follower or student of a teacher or leader, especially one of Christ's twelve apostles."], "src": "iwb"}
+{"w": "discipless", "pos": "noun", "d": ["A female disciple."], "src": "iwb"}
+{"w": "disciplinal", "pos": "adjective", "d": ["Pertaining to discipline."], "src": "iwb"}
+{"w": "disciplinant", "pos": "noun", "d": ["One who practices severe self-discipline, especially a penitent who scourges himself."], "src": "iwb"}
+{"w": "disciplinarian", "pos": "noun", "d": ["One who enforces strict discipline."], "src": "iwb"}
+{"w": "disclusion", "pos": "noun", "d": ["The act of excluding or shutting out; separation."], "src": "iwb"}
+{"w": "discoblastic", "pos": "adjective", "d": ["Undergoing discoidal segmentation, as the eggs of birds and reptiles."], "src": "iwb"}
+{"w": "discodactyl", "pos": "adjective", "d": ["Having the toes tipped with adhesive sucking disks, as tree frogs."], "src": "iwb"}
+{"w": "discodactylia", "pos": "noun", "d": ["A group of amphibians having adhesive disks on their toes, such as tree frogs."], "src": "iwb"}
+{"w": "discoid", "pos": "adjective", "d": ["Disk-shaped; resembling a disk."], "src": "iwb"}
+{"w": "discolith", "pos": "noun", "d": ["A disk-shaped calcareous plate found in certain marine algae."], "src": "iwb"}
+{"w": "disconsolacy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "discontinuee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "discontinuor", "pos": "noun", "d": ["One who discontinues or breaks off a practice or course."], "src": "iwb"}
+{"w": "discophora", "pos": "noun", "d": ["A group of jellyfishes having a disk-shaped bell."], "src": "iwb"}
+{"w": "discordancy", "pos": "noun", "d": ["The state of being discordant; disagreement or disharmony."], "src": "iwb"}
+{"w": "discoure", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "discoursive", "pos": "adjective", "d": ["Pertaining to discourse; fond of discussion."], "src": "iwb"}
+{"w": "discovery day", "pos": "phrase", "d": ["A holiday commemorating an important discovery, such as the discovery of gold in the Yukon."], "src": "iwb"}
+{"w": "discreet", "pos": "adjective", "d": ["Careful to keep secrets and avoid drawing unwanted attention."], "src": "iwb"}
+{"w": "discrepancy", "pos": "noun", "d": ["A difference between things that should agree with each other."], "src": "iwb"}
+{"w": "discrepant", "pos": "adjective", "d": ["Showing a difference or disagreement between things that should match."], "src": "iwb"}
+{"w": "discretionarily", "pos": "adverb", "d": ["In a way that depends on the free judgment of the person deciding."], "src": "iwb"}
+{"w": "discretive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "discriminable", "pos": "adjective", "d": ["Able to be told apart or distinguished from something else."], "src": "iwb"}
+{"w": "discriminant", "pos": "noun", "d": ["In mathematics, a value computed from a quadratic equation that shows how many solutions it has."], "src": "iwb"}
+{"w": "discriminator", "pos": "noun", "d": ["A person or device that distinguishes one thing from another."], "src": "iwb"}
+{"w": "discubitory", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disculpate", "pos": "verb", "d": ["To free a person from blame or accusation."], "src": "iwb"}
+{"w": "disculpation", "pos": "noun", "d": ["The act of freeing a person from blame or accusation."], "src": "iwb"}
+{"w": "discumbency", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "discursion", "pos": "noun", "d": ["A wandering from the main subject in speech or writing."], "src": "iwb"}
+{"w": "discursist", "pos": "noun", "d": ["A person who wanders from the main subject in speech or writing."], "src": "iwb"}
+{"w": "discus", "pos": "noun", "d": ["A heavy flat disk thrown for distance in athletic contests."], "src": "iwb"}
+{"w": "discutient", "pos": "noun", "d": ["A medicine or treatment that disperses a swelling in the body."], "src": "iwb"}
+{"w": "disdain", "pos": "noun", "d": ["The feeling that something is unworthy of respect or attention."], "src": "iwb"}
+{"w": "disdainishly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disdiaclast", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diselenide", "pos": "noun", "d": ["A chemical compound containing two atoms of selenium in each molecule."], "src": "iwb"}
+{"w": "disembossom", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disembowered", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disenchained", "pos": "adjective", "d": ["Set free from chains or bondage."], "src": "iwb"}
+{"w": "disencharm", "pos": "verb", "d": ["To free from the power of a charm or enchantment."], "src": "iwb"}
+{"w": "disencrese", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disensanity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disenshrouded", "pos": "adjective", "d": ["Freed from a shroud or covering; unveiled."], "src": "iwb"}
+{"w": "disepalous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disert", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disertitude", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diserty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disformity", "pos": "noun", "d": ["The state of lacking proper form or shape; deformity."], "src": "iwb"}
+{"w": "disgracive", "pos": "adjective", "d": ["Tending to bring disgrace or shame."], "src": "iwb"}
+{"w": "disgregate", "pos": "verb", "d": ["To scatter or separate into parts."], "src": "iwb"}
+{"w": "disgregation", "pos": "noun", "d": ["The act of scattering or separating into parts."], "src": "iwb"}
+{"w": "disguisedly", "pos": "adverb", "d": ["In a disguised manner; while concealing one's true appearance."], "src": "iwb"}
+{"w": "disguisedness", "pos": "noun", "d": ["The state or quality of being disguised."], "src": "iwb"}
+{"w": "dishabille", "pos": "noun", "d": ["The state of being dressed casually or only partly dressed."], "src": "iwb"}
+{"w": "disherison", "pos": "noun", "d": ["The act of depriving an heir of an inheritance."], "src": "iwb"}
+{"w": "disherit", "pos": "verb", "d": ["To deprive an heir of an inheritance."], "src": "iwb"}
+{"w": "dishevel", "pos": "verb", "d": ["To make hair or clothing untidy and disordered."], "src": "iwb"}
+{"w": "dishevele", "pos": "verb", "d": ["To make untidy or disordered in appearance."], "src": "iwb"}
+{"w": "disinfector", "pos": "noun", "d": ["A person or device that destroys germs and disinfects."], "src": "iwb"}
+{"w": "disinherison", "pos": "noun", "d": ["The act of depriving an heir of an inheritance."], "src": "iwb"}
+{"w": "disjection", "pos": "noun", "d": ["The act of throwing or pulling apart."], "src": "iwb"}
+{"w": "disjudication", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disjunct", "pos": "adjective", "d": ["Separated or disconnected from something else."], "src": "iwb"}
+{"w": "disk clutch", "pos": "phrase", "d": ["A clutch in which power is transmitted by friction between flat disks."], "src": "iwb"}
+{"w": "disloign", "pos": "verb", "d": ["To put at a distance; to remove or send away."], "src": "iwb"}
+{"w": "dismal", "pos": "adjective", "d": ["Causing gloom or depression; dreary."], "src": "iwb"}
+{"w": "dismayedness", "pos": "noun", "d": ["The state of being filled with dismay or consternation."], "src": "iwb"}
+{"w": "disme", "pos": "noun", "d": ["A tenth part of something; a tithe."], "src": "iwb"}
+{"w": "disobediency", "pos": "noun", "d": ["Failure or refusal to obey; disobedience."], "src": "iwb"}
+{"w": "disordeined", "pos": "adjective", "d": ["Deprived of the standing or rank of holy orders."], "src": "iwb"}
+{"w": "dispace", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dispand", "pos": "verb", "d": ["To spread out or extend in all directions."], "src": "iwb"}
+{"w": "dispansion", "pos": "noun", "d": ["The act of spreading out or extending."], "src": "iwb"}
+{"w": "disparagingly", "pos": "adverb", "d": ["In a way that shows a low opinion of someone or something."], "src": "iwb"}
+{"w": "disparate", "pos": "adjective", "d": ["Fundamentally different; not alike in kind."], "src": "iwb"}
+{"w": "disparition", "pos": "noun", "d": ["The act or process of disappearing."], "src": "iwb"}
+{"w": "disparkle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dispathy", "pos": "noun", "d": ["Lack of sympathy; dislike or aversion."], "src": "iwb"}
+{"w": "dispeed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dispel", "pos": "verb", "d": ["To drive away or scatter, as doubts or fears."], "src": "iwb"}
+{"w": "dispensary", "pos": "noun", "d": ["A place where medicines or supplies are given out."], "src": "iwb"}
+{"w": "dispensation", "pos": "noun", "d": ["The act of distributing or giving out something."], "src": "iwb"}
+{"w": "dispensator", "pos": "noun", "d": ["A person who distributes or gives out something; a dispenser."], "src": "iwb"}
+{"w": "dispensatorily", "pos": "adverb", "d": ["In the manner of one who dispenses or distributes."], "src": "iwb"}
+{"w": "dispensatory", "pos": "noun", "d": ["A book giving directions for preparing medicines."], "src": "iwb"}
+{"w": "dispense", "pos": "verb", "d": ["To distribute or give out in portions."], "src": "iwb"}
+{"w": "disperge", "pos": "verb", "d": ["To scatter or disperse in different directions."], "src": "iwb"}
+{"w": "dispermous", "pos": "adjective", "d": ["Having or producing two seeds."], "src": "iwb"}
+{"w": "disperple", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dispersal", "pos": "noun", "d": ["The act of scattering or spreading widely."], "src": "iwb"}
+{"w": "disperse", "pos": "verb", "d": ["To scatter in different directions."], "src": "iwb"}
+{"w": "dispersion", "pos": "noun", "d": ["The act or process of scattering or spreading widely."], "src": "iwb"}
+{"w": "dispersive", "pos": "adjective", "d": ["Tending to scatter or spread apart."], "src": "iwb"}
+{"w": "dispirit", "pos": "verb", "d": ["To take away the hope or enthusiasm of; discourage."], "src": "iwb"}
+{"w": "displacency", "pos": "noun", "d": ["The state of being displeased; dissatisfaction."], "src": "iwb"}
+{"w": "disple", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "displeasedly", "pos": "adverb", "d": ["In a manner showing displeasure or annoyance."], "src": "iwb"}
+{"w": "displeasedness", "pos": "noun", "d": ["The state or quality of being displeased."], "src": "iwb"}
+{"w": "displicence", "pos": "noun", "d": ["Dislike or aversion toward something."], "src": "iwb"}
+{"w": "displicency", "pos": "noun", "d": ["Dislike or displeasure."], "src": "iwb"}
+{"w": "displode", "pos": "verb", "d": ["To burst with a sudden loud noise; to explode."], "src": "iwb"}
+{"w": "displosion", "pos": "noun", "d": ["A sudden bursting with a loud noise; an explosion."], "src": "iwb"}
+{"w": "displosive", "pos": "adjective", "d": ["Tending to burst with a sudden loud noise."], "src": "iwb"}
+{"w": "dispoline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dispondee", "pos": "noun", "d": ["A person to whom property is conveyed by a legal disposition."], "src": "iwb"}
+{"w": "disponee", "pos": "noun", "d": ["A person to whom property is conveyed by a legal disposition."], "src": "iwb"}
+{"w": "disponge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disposited", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dispositor", "pos": "noun", "d": ["A person who arranges or disposes things in order."], "src": "iwb"}
+{"w": "disposure", "pos": "noun", "d": ["The act of disposing or arranging; disposal."], "src": "iwb"}
+{"w": "dispraisingly", "pos": "adverb", "d": ["In a manner that expresses disapproval or blame."], "src": "iwb"}
+{"w": "dispread", "pos": "verb", "d": ["To spread abroad in all directions."], "src": "iwb"}
+{"w": "dispropriate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disproval", "pos": "noun", "d": ["The act of expressing disapproval."], "src": "iwb"}
+{"w": "dispunct", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dispunge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disputacity", "pos": "noun", "d": ["A tendency to argue or debate, especially over trifles."], "src": "iwb"}
+{"w": "disputant", "pos": "noun", "d": ["A person who takes part in an argument or formal debate."], "src": "iwb"}
+{"w": "disputation", "pos": "noun", "d": ["The act of arguing a point in formal discussion.", "A formal debate or discussion of a disputed question."], "src": "iwb"}
+{"w": "disputatious", "pos": "adjective", "d": ["Inclined to argue; fond of controversy."], "src": "iwb"}
+{"w": "disputison", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disquiettude", "pos": "noun", "d": ["A state of restlessness or unease; lack of quiet."], "src": "iwb"}
+{"w": "disquisition", "pos": "noun", "d": ["A long, formal written or spoken treatment of a subject."], "src": "iwb"}
+{"w": "disquisitive", "pos": "adjective", "d": ["Given to thorough inquiry or investigation."], "src": "iwb"}
+{"w": "disquisitory", "pos": "adjective", "d": ["Relating to a formal discourse or systematic inquiry."], "src": "iwb"}
+{"w": "disreputability", "pos": "noun", "d": ["The state of being disreputable; bad reputation."], "src": "iwb"}
+{"w": "disreputably", "pos": "adverb", "d": ["In a disreputable manner; in a way that brings shame."], "src": "iwb"}
+{"w": "disrulily", "pos": "adverb", "d": ["In an unruly or disorderly manner."], "src": "iwb"}
+{"w": "disrupt", "pos": "verb", "d": ["To interrupt the normal course or order of something.", "To break apart or tear asunder."], "src": "iwb"}
+{"w": "disseizee", "pos": "noun", "d": ["A person wrongfully deprived of land or property."], "src": "iwb"}
+{"w": "disseizoress", "pos": "noun", "d": ["A woman who wrongfully dispossesses another of land or property."], "src": "iwb"}
+{"w": "disseminative", "pos": "adjective", "d": ["Tending to spread or scatter widely."], "src": "iwb"}
+{"w": "disseminator", "pos": "noun", "d": ["A person or thing that spreads news, ideas, or seeds widely."], "src": "iwb"}
+{"w": "dissension", "pos": "noun", "d": ["Disagreement that leads to discord or conflict."], "src": "iwb"}
+{"w": "dissensious", "pos": "adjective", "d": ["Marked by or causing disagreement; contentious."], "src": "iwb"}
+{"w": "dissentaneous", "pos": "adjective", "d": ["Showing or characterized by disagreement."], "src": "iwb"}
+{"w": "dissentiate", "pos": "verb", "d": ["To express disagreement; to dissent."], "src": "iwb"}
+{"w": "dissentious", "pos": "adjective", "d": ["Given to disagreement or dissent."], "src": "iwb"}
+{"w": "dissert", "pos": "verb", "d": ["To discourse at length upon a subject."], "src": "iwb"}
+{"w": "dissertator", "pos": "noun", "d": ["One who delivers a formal discourse on a subject."], "src": "iwb"}
+{"w": "dissidence", "pos": "noun", "d": ["Difference of opinion, especially with authority; dissent."], "src": "iwb"}
+{"w": "dissident", "pos": "noun", "d": ["A person who openly disagrees with an official policy or established authority."], "src": "iwb"}
+{"w": "dissilience", "pos": "noun", "d": ["The sudden bursting open of a seed vessel to release its seeds."], "src": "iwb"}
+{"w": "dissiliency", "pos": "noun", "d": ["The act or property of bursting open suddenly."], "src": "iwb"}
+{"w": "dissilient", "pos": "adjective", "d": ["Bursting open suddenly, as a seed pod; springing apart."], "src": "iwb"}
+{"w": "dissilition", "pos": "noun", "d": ["A sudden bursting or leaping apart."], "src": "iwb"}
+{"w": "dissimilate", "pos": "verb", "d": ["To make unlike or dissimilar.", "In physiology, to break down into simpler substances, as in waste or decay."], "src": "iwb"}
+{"w": "dissimilation", "pos": "noun", "d": ["The act of making unlike or dissimilar.", "In linguistics, a sound change by which one of two similar sounds becomes less like the other."], "src": "iwb"}
+{"w": "dissimule", "pos": "verb", "d": ["To hide one's true feelings or intentions; to dissemble."], "src": "iwb"}
+{"w": "dissimulour", "pos": "noun", "d": ["An old spelling of dissimulator; one who feigns or dissembles."], "src": "iwb"}
+{"w": "dissipable", "pos": "adjective", "d": ["Capable of being scattered or dispersed."], "src": "iwb"}
+{"w": "dissipate", "pos": "verb", "d": ["To cause to scatter and disappear, as fog or heat.", "To spend or waste foolishly, as money or energy."], "src": "iwb"}
+{"w": "dissipation", "pos": "noun", "d": ["The act of scattering or dispersing.", "Wasteful or dissolute living."], "src": "iwb"}
+{"w": "dissipative", "pos": "adjective", "d": ["Tending to scatter, disperse, or waste."], "src": "iwb"}
+{"w": "dissipativity", "pos": "noun", "d": ["The quality or property of dissipating, especially of energy."], "src": "iwb"}
+{"w": "dissociation", "pos": "noun", "d": ["The act of separating or disuniting; separation."], "src": "iwb"}
+{"w": "dissociative", "pos": "adjective", "d": ["Tending to cause separation; relating to dissociation."], "src": "iwb"}
+{"w": "dissolvative", "pos": "adjective", "d": ["Having the power to dissolve."], "src": "iwb"}
+{"w": "dissonancy", "pos": "noun", "d": ["Lack of harmony in sound; discord."], "src": "iwb"}
+{"w": "distad", "pos": "adverb", "d": ["Toward the far or outer end of a part or organ."], "src": "iwb"}
+{"w": "distaff", "pos": "noun", "d": ["A staff that holds flax or wool in spinning.", "The female side of a family; women as a group."], "src": "iwb"}
+{"w": "distal", "pos": "adjective", "d": ["Situated away from the point of attachment or from the center of the body."], "src": "iwb"}
+{"w": "distancy", "pos": "noun", "d": ["The state or quality of being distant or remote."], "src": "iwb"}
+{"w": "distasture", "pos": "noun", "d": ["An obsolete form of distaste; strong dislike or aversion."], "src": "iwb"}
+{"w": "dister", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "disthene", "pos": "noun", "d": ["A bluish aluminum silicate mineral, also called kyanite."], "src": "iwb"}
+{"w": "disthronize", "pos": "verb", "d": ["To remove from a throne; to dethrone."], "src": "iwb"}
+{"w": "distich", "pos": "noun", "d": ["A pair of verse lines; a couplet."], "src": "iwb"}
+{"w": "distillatory", "pos": "adjective", "d": ["Relating to or used in distillation."], "src": "iwb"}
+{"w": "distillery", "pos": "noun", "d": ["A place where alcoholic liquors are distilled."], "src": "iwb"}
+{"w": "distinguish", "pos": "verb", "d": ["To perceive or mark as different; to discern.", "To make eminent or famous by excellence."], "src": "iwb"}
+{"w": "distoma", "pos": "noun", "d": ["A genus of parasitic flatworms with two suckers; the flukes."], "src": "iwb"}
+{"w": "distractious", "pos": "adjective", "d": ["Causing distraction; distracting."], "src": "iwb"}
+{"w": "distrainor", "pos": "noun", "d": ["One who seizes goods by legal process to enforce payment."], "src": "iwb"}
+{"w": "distraint", "pos": "noun", "d": ["The legal seizure of personal property to satisfy a debt or demand."], "src": "iwb"}
+{"w": "distraught", "pos": "adjective", "d": ["Deeply agitated in mind; distracted with grief, worry, or fear."], "src": "iwb"}
+{"w": "distream", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "distressedness", "pos": "noun", "d": ["The state of being distressed; suffering or misery."], "src": "iwb"}
+{"w": "distributive", "pos": "adjective", "d": ["Relating to distribution; dealing out to each in turn."], "src": "iwb"}
+{"w": "distringas", "pos": "noun", "d": ["A writ commanding a sheriff to seize and hold goods to compel appearance or payment."], "src": "iwb"}
+{"w": "disturb", "pos": "verb", "d": ["To interrupt the quiet or rest of.", "To agitate or trouble the mind of."], "src": "iwb"}
+{"w": "distyle", "pos": "adjective", "d": ["Having two columns in front, as a temple."], "src": "iwb"}
+{"w": "disulphate", "pos": "noun", "d": ["A salt of disulfuric acid; a compound containing two sulfate groups."], "src": "iwb"}
+{"w": "disulphide", "pos": "noun", "d": ["A chemical compound containing two sulfur atoms joined together."], "src": "iwb"}
+{"w": "disulphuret", "pos": "noun", "d": ["An older chemical term for a disulfide."], "src": "iwb"}
+{"w": "disulphuric", "pos": "adjective", "d": ["Pertaining to or derived from disulfuric acid."], "src": "iwb"}
+{"w": "disvantageous", "pos": "adjective", "d": ["An obsolete form of disadvantageous; unfavorable."], "src": "iwb"}
+{"w": "disvelop", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dit", "pos": "noun", "d": ["The dot signal in Morse code, as opposed to the longer dah."], "src": "iwb"}
+{"w": "ditch", "pos": "noun", "d": ["A long narrow trench dug in the ground, as for drainage.", "An act of getting rid of something unwanted."], "src": "iwb"}
+{"w": "dite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diterebene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dithecal", "pos": "adjective", "d": ["Having two cells or compartments, as certain anthers."], "src": "iwb"}
+{"w": "dithecous", "pos": "adjective", "d": ["Having two thecae or compartments; dithecal."], "src": "iwb"}
+{"w": "ditheism", "pos": "noun", "d": ["Belief in two supreme gods, one good and one evil."], "src": "iwb"}
+{"w": "ditheist", "pos": "noun", "d": ["One who believes in two supreme gods."], "src": "iwb"}
+{"w": "dithionic", "pos": "adjective", "d": ["Pertaining to dithionic acid or its salts."], "src": "iwb"}
+{"w": "dithyramb", "pos": "noun", "d": ["A wild, impassioned hymn, originally in honor of Dionysus."], "src": "iwb"}
+{"w": "dithyrambus", "pos": "noun", "d": ["A dithyramb; a wild, lofty hymn."], "src": "iwb"}
+{"w": "ditokous", "pos": "adjective", "d": ["Bringing forth two young at one birth."], "src": "iwb"}
+{"w": "ditolyl", "pos": "noun", "d": ["A hydrocarbon formed of two tolyl groups joined together."], "src": "iwb"}
+{"w": "ditrichotomous", "pos": "adjective", "d": ["Dividing into three parts, each of which divides again into three."], "src": "iwb"}
+{"w": "ditrochean", "pos": "adjective", "d": ["Pertaining to a ditrochee."], "src": "iwb"}
+{"w": "ditrochee", "pos": "noun", "d": ["A metrical foot consisting of two trochees."], "src": "iwb"}
+{"w": "ditroite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ditt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dittander", "pos": "noun", "d": ["A pungent plant of the mustard family; pepperwort."], "src": "iwb"}
+{"w": "ditto", "pos": "noun", "d": ["The same thing stated before; a duplicate.", "A mark placed below an item to show that it is repeated."], "src": "iwb"}
+{"w": "ditty", "pos": "noun", "d": ["A short, simple song or poem."], "src": "iwb"}
+{"w": "ditty-bag", "pos": "noun", "d": ["A small bag used by sailors for sewing gear and other small articles."], "src": "iwb"}
+{"w": "ditty-box", "pos": "noun", "d": ["A small box in which a sailor keeps valuables and personal articles."], "src": "iwb"}
+{"w": "diureide", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diuresis", "pos": "noun", "d": ["Increased or excessive secretion of urine."], "src": "iwb"}
+{"w": "diuretic", "pos": "noun", "d": ["A substance that increases the flow of urine."], "src": "iwb"}
+{"w": "diurna", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diurnal", "pos": "adjective", "d": ["Belonging to or active during the daytime.", "Happening or returning every day; daily."], "src": "iwb"}
+{"w": "diuturnal", "pos": "adjective", "d": ["Lasting for a very long time."], "src": "iwb"}
+{"w": "diuturnity", "pos": "noun", "d": ["The quality of lasting a long time; long duration."], "src": "iwb"}
+{"w": "diva", "pos": "noun", "d": ["A leading female singer, especially in opera.", "A celebrated and often demanding woman performer."], "src": "iwb"}
+{"w": "divagation", "pos": "noun", "d": ["A wandering away from the main subject or point."], "src": "iwb"}
+{"w": "divan", "pos": "noun", "d": ["A low couch without a back or arms, often placed against a wall."], "src": "iwb"}
+{"w": "divaricate", "pos": "verb", "d": ["To spread apart or branch out at a wide angle."], "src": "iwb"}
+{"w": "divarication", "pos": "noun", "d": ["The act of spreading apart; a wide divergence."], "src": "iwb"}
+{"w": "divaricator", "pos": "noun", "d": ["One that spreads or stretches apart."], "src": "iwb"}
+{"w": "divast", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "divel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "divellicate", "pos": "verb", "d": ["To tear or pluck apart into pieces."], "src": "iwb"}
+{"w": "diverb", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "diverberation", "pos": "noun", "d": ["A beating or striking off; a reverberation."], "src": "iwb"}
+{"w": "diverge", "pos": "verb", "d": ["To move or extend in different directions from a common point.", "To differ in opinion or character."], "src": "iwb"}
+{"w": "divergence", "pos": "noun", "d": ["The act of diverging; difference or separation."], "src": "iwb"}
+{"w": "divergency", "pos": "noun", "d": ["A state of divergence; a difference or deviation."], "src": "iwb"}
+{"w": "diversifiability", "pos": "noun", "d": ["The quality of being able to be made more varied."], "src": "iwb"}
+{"w": "diversifiable", "pos": "adjective", "d": ["Capable of being diversified or made more varied."], "src": "iwb"}
+{"w": "diversification", "pos": "noun", "d": ["The act of making something more varied."], "src": "iwb"}
+{"w": "diversiform", "pos": "adjective", "d": ["Varied or diverse in form."], "src": "iwb"}
+{"w": "diversiloquent", "pos": "adjective", "d": ["Speaking in different or ambiguous ways."], "src": "iwb"}
+{"w": "diversivolent", "pos": "adjective", "d": ["Having different or conflicting wishes."], "src": "iwb"}
+{"w": "divert", "pos": "verb", "d": ["To turn aside from a course or direction.", "To amuse or entertain."], "src": "iwb"}
+{"w": "diverticle", "pos": "noun", "d": ["A small pouch or pocket opening off a larger cavity."], "src": "iwb"}
+{"w": "diverticular", "pos": "adjective", "d": ["Relating to small pouches in a body cavity, especially the intestines."], "src": "iwb"}
+{"w": "diverticulum", "pos": "noun", "d": ["A pouch or sac branching off from a hollow organ, especially the intestine."], "src": "iwb"}
+{"w": "divertimento", "pos": "noun", "d": ["A light and entertaining musical composition, usually in several movements."], "src": "iwb"}
+{"w": "divertissement", "pos": "noun", "d": ["An entertainment or diversion, especially a short ballet interlude in an opera."], "src": "iwb"}
+{"w": "divest", "pos": "verb", "d": ["To strip of authority, property, or rights."], "src": "iwb"}
+{"w": "divestiture", "pos": "noun", "d": ["The act of divesting; the surrender of property or authority."], "src": "iwb"}
+{"w": "divet", "pos": "noun", "d": ["A sod or turf cut for fuel or roofing."], "src": "iwb"}
+{"w": "divi-divi", "pos": "noun", "d": ["A tropical tree whose pods yield a tannin used in tanning leather."], "src": "iwb"}
+{"w": "dividant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "divident", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dividual", "pos": "adjective", "d": ["Capable of being divided; shared rather than whole."], "src": "iwb"}
+{"w": "dividuous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "divination", "pos": "noun", "d": ["The practice of foretelling the future or uncovering hidden knowledge by supernatural means."], "src": "iwb"}
+{"w": "divinator", "pos": "noun", "d": ["One who practices divination; a foreteller."], "src": "iwb"}
+{"w": "divinatory", "pos": "adjective", "d": ["Relating to or used in divination."], "src": "iwb"}
+{"w": "divineress", "pos": "noun", "d": ["A woman who practices divination."], "src": "iwb"}
+{"w": "divinify", "pos": "verb", "d": ["To make divine; to deify."], "src": "iwb"}
+{"w": "divinistre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "divinity", "pos": "noun", "d": ["The quality of being divine; godhood.", "The study of God and religious matters; theology.", "A god or goddess."], "src": "iwb"}
+{"w": "divinity calf", "pos": "phrase", "d": ["A dark brown calf leather used for binding theological books."], "src": "iwb"}
+{"w": "divinization", "pos": "noun", "d": ["The act of making divine; deification."], "src": "iwb"}
+{"w": "divinize", "pos": "verb", "d": ["To make divine; to treat as a god."], "src": "iwb"}
+{"w": "divisibility", "pos": "noun", "d": ["The quality of being able to be divided."], "src": "iwb"}
+{"w": "divisible", "pos": "adjective", "d": ["Capable of being divided, especially without a remainder in arithmetic."], "src": "iwb"}
+{"w": "divisionor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "divisive", "pos": "adjective", "d": ["Tending to cause disagreement or division."], "src": "iwb"}
+{"w": "divisor", "pos": "noun", "d": ["A number by which another number is divided."], "src": "iwb"}
+{"w": "divorcee", "pos": "noun", "d": ["A divorced woman."], "src": "iwb"}
+{"w": "divorcible", "pos": "adjective", "d": ["Capable of being divorced or separated."], "src": "iwb"}
+{"w": "divorcive", "pos": "adjective", "d": ["Tending to cause or bring about divorce."], "src": "iwb"}
+{"w": "divot", "pos": "noun", "d": ["A piece of turf cut out of the ground, as by a golf club."], "src": "iwb"}
+{"w": "divulgate", "pos": "verb", "d": ["To make known to the public; to publish."], "src": "iwb"}
+{"w": "divulgation", "pos": "noun", "d": ["The act of making something publicly known."], "src": "iwb"}
+{"w": "divulge", "pos": "verb", "d": ["To reveal a secret; to make known."], "src": "iwb"}
+{"w": "divulsive", "pos": "adjective", "d": ["Tending to tear apart or separate."], "src": "iwb"}
+{"w": "dixie", "pos": "noun", "d": ["A large pot or kettle used for cooking, especially in camp.", "The southern United States."], "src": "iwb"}
+{"w": "dizen", "pos": "verb", "d": ["To dress up in showy or gaudy clothes."], "src": "iwb"}
+{"w": "dizz", "pos": "verb", "d": ["To make dizzy."], "src": "iwb"}
+{"w": "dizzard", "pos": "noun", "d": ["A dull, foolish person."], "src": "iwb"}
+{"w": "dizzily", "pos": "adverb", "d": ["In a dizzy manner; unsteadily."], "src": "iwb"}
+{"w": "dizziness", "pos": "noun", "d": ["A feeling of lightheadedness or unsteadiness."], "src": "iwb"}
+{"w": "dizzy", "pos": "adjective", "d": ["Having a feeling of lightheadedness or unsteadiness.", "Causing dizziness."], "src": "iwb"}
+{"w": "djereed", "pos": "noun", "d": ["A light javelin thrown from horseback in the Middle East and North Africa."], "src": "iwb"}
+{"w": "djerrid", "pos": "noun", "d": ["A light javelin used in a traditional mounted game."], "src": "iwb"}
+{"w": "djinnee", "pos": "noun", "d": ["A spirit in Arabian folklore, able to take human or animal form."], "src": "iwb"}
+{"w": "do-all", "pos": "noun", "d": ["A person or thing that does many kinds of work."], "src": "iwb"}
+{"w": "do-little", "pos": "noun", "d": ["An idle person; one who does very little."], "src": "iwb"}
+{"w": "do-naught", "pos": "noun", "d": ["A lazy, idle person."], "src": "iwb"}
+{"w": "do-nothing", "pos": "noun", "d": ["A person who does nothing; an idler."], "src": "iwb"}
+{"w": "doab", "pos": "noun", "d": ["A tract of land between two converging rivers."], "src": "iwb"}
+{"w": "doable", "pos": "adjective", "d": ["Capable of being done; feasible."], "src": "iwb"}
+{"w": "doand", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "doat", "pos": "verb", "d": ["To dote; to show excessive fondness."], "src": "iwb"}
+{"w": "dobber", "pos": "noun", "d": ["One who informs on others; a telltale."], "src": "iwb"}
+{"w": "dobbin", "pos": "noun", "d": ["A horse, especially a steady farm horse."], "src": "iwb"}
+{"w": "dobby", "pos": "noun", "d": ["A mechanism on a loom that controls the pattern of the weave."], "src": "iwb"}
+{"w": "dobchick", "pos": "noun", "d": ["A small diving waterbird; a dabchick."], "src": "iwb"}
+{"w": "dobson", "pos": "noun", "d": ["The large aquatic larva of the dobsonfly, used as fishing bait."], "src": "iwb"}
+{"w": "dobule", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "docent", "pos": "noun", "d": ["A guide or lecturer at a museum or college."], "src": "iwb"}
+{"w": "docetae", "pos": "noun", "d": ["Members of an early Christian sect holding that Christ's body was only apparent."], "src": "iwb"}
+{"w": "docetic", "pos": "adjective", "d": ["Relating to Docetism, the doctrine that Christ's body was only apparent."], "src": "iwb"}
+{"w": "docetism", "pos": "noun", "d": ["The doctrine that Christ's human body was not real but only apparent."], "src": "iwb"}
+{"w": "dochmiac", "pos": "adjective", "d": ["Relating to the dochmius, a meter of Greek verse."], "src": "iwb"}
+{"w": "dochmius", "pos": "noun", "d": ["A metrical foot of Greek verse, five syllables long."], "src": "iwb"}
+{"w": "docibility", "pos": "noun", "d": ["The quality of being easily taught; teachableness."], "src": "iwb"}
+{"w": "docible", "pos": "adjective", "d": ["Easily taught; teachable."], "src": "iwb"}
+{"w": "docile", "pos": "adjective", "d": ["Easily managed or taught; obedient."], "src": "iwb"}
+{"w": "docility", "pos": "noun", "d": ["The quality of being docile; readiness to be taught or managed."], "src": "iwb"}
+{"w": "docimacy", "pos": "noun", "d": ["The art of testing metals by assay."], "src": "iwb"}
+{"w": "docimastic", "pos": "adjective", "d": ["Relating to the assaying of metals."], "src": "iwb"}
+{"w": "docimology", "pos": "noun", "d": ["The science of assaying; the study of testing metals."], "src": "iwb"}
+{"w": "docity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dock-cress", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "docket", "pos": "noun", "d": ["A court's calendar of cases to be heard.", "A label or ticket attached to a parcel or document."], "src": "iwb"}
+{"w": "docoglossa", "pos": "noun", "d": ["A group of marine gastropods including the true limpets."], "src": "iwb"}
+{"w": "docquet", "pos": "noun", "d": ["A brief written summary of the contents of a document.", "A list of cases awaiting trial in a court of law."], "src": "iwb"}
+{"w": "doctoress", "pos": "noun", "d": ["A female doctor."], "src": "iwb"}
+{"w": "doctress", "pos": "noun", "d": ["A female doctor."], "src": "iwb"}
+{"w": "doctrinaire", "pos": "noun", "d": ["A person who clings to a theory and applies it without regard for practical considerations.", "One who insists on rigid, unyielding principles."], "src": "iwb"}
+{"w": "doctrinal", "pos": "adjective", "d": ["Relating to a doctrine or doctrines; concerned with points of belief."], "src": "iwb"}
+{"w": "doctrinarian", "pos": "noun", "d": ["One who zealously teaches or upholds a doctrine or set of doctrines."], "src": "iwb"}
+{"w": "dodd", "pos": "verb", "d": ["To cut off or clip, as wool from a sheep's tail.", "To lop or poll, as the top of a tree."], "src": "iwb"}
+{"w": "dodecagon", "pos": "noun", "d": ["A plane figure having twelve sides and twelve angles."], "src": "iwb"}
+{"w": "dodecagynia", "pos": "noun", "d": ["In the Linnaean system, an order of plants having twelve styles."], "src": "iwb"}
+{"w": "dodecagynian", "pos": "adjective", "d": ["Belonging to or relating to the order Dodecagynia."], "src": "iwb"}
+{"w": "dodecagynous", "pos": "adjective", "d": ["Having twelve styles."], "src": "iwb"}
+{"w": "dodecahedral", "pos": "adjective", "d": ["Having twelve plane faces or surfaces."], "src": "iwb"}
+{"w": "dodecahedron", "pos": "noun", "d": ["A solid figure having twelve plane faces."], "src": "iwb"}
+{"w": "dodecandria", "pos": "noun", "d": ["In the Linnaean system, a class of plants having twelve stamens."], "src": "iwb"}
+{"w": "dodecandrian", "pos": "adjective", "d": ["Belonging to or relating to the class Dodecandria."], "src": "iwb"}
+{"w": "dodecandrous", "pos": "adjective", "d": ["Having twelve stamens."], "src": "iwb"}
+{"w": "dodecane", "pos": "noun", "d": ["A hydrocarbon of the paraffin series containing twelve carbon atoms in each molecule."], "src": "iwb"}
+{"w": "dodecastyle", "pos": "noun", "d": ["A portico having twelve columns in front."], "src": "iwb"}
+{"w": "dodecasyllabic", "pos": "adjective", "d": ["Having or consisting of twelve syllables."], "src": "iwb"}
+{"w": "dodecasyllable", "pos": "noun", "d": ["A word or verse consisting of twelve syllables."], "src": "iwb"}
+{"w": "dodecatemory", "pos": "noun", "d": ["The twelve signs of the zodiac."], "src": "iwb"}
+{"w": "dodipate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dodipoll", "pos": "noun", "d": ["A stupid or silly person; a dolt."], "src": "iwb"}
+{"w": "dodo", "pos": "noun", "d": ["A large, flightless bird of Mauritius, now extinct.", "A dull or old-fashioned person."], "src": "iwb"}
+{"w": "doeglic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "doegling", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "doer", "pos": "noun", "d": ["One who does something; a person who acts."], "src": "iwb"}
+{"w": "doff", "pos": "verb", "d": ["To take off, as a hat or an article of clothing.", "To lay aside; to discard."], "src": "iwb"}
+{"w": "dog bee", "pos": "phrase", "d": ["A male bee; a drone."], "src": "iwb"}
+{"w": "dog day", "pos": "phrase", "d": ["One of the hot, sultry days of summer."], "src": "iwb"}
+{"w": "dog fancier", "pos": "phrase", "d": ["A person who keeps or breeds dogs, especially purebred dogs."], "src": "iwb"}
+{"w": "dog star", "pos": "phrase", "d": ["The star Sirius, in the constellation Canis Major."], "src": "iwb"}
+{"w": "dog-brier", "pos": "noun", "d": ["The dog rose; a common wild brier rose."], "src": "iwb"}
+{"w": "dog-eared", "pos": "adjective", "d": ["Having the corners of the pages folded down from use, as a book."], "src": "iwb"}
+{"w": "dog-faced", "pos": "adjective", "d": ["Having a face resembling that of a dog."], "src": "iwb"}
+{"w": "dog-fox", "pos": "noun", "d": ["A male fox."], "src": "iwb"}
+{"w": "dog-headed", "pos": "adjective", "d": ["Having a head like that of a dog."], "src": "iwb"}
+{"w": "dog-hearted", "pos": "adjective", "d": ["Cruel; pitiless; unfeeling."], "src": "iwb"}
+{"w": "dog-legged", "pos": "adjective", "d": ["Bent like a dog's hind leg; having a sharp angular bend."], "src": "iwb"}
+{"w": "dog-rose", "pos": "noun", "d": ["A common European wild rose bearing pink flowers and hooked prickles."], "src": "iwb"}
+{"w": "dog-weary", "pos": "adjective", "d": ["Very tired; thoroughly exhausted."], "src": "iwb"}
+{"w": "doge", "pos": "noun", "d": ["The chief magistrate of the former republics of Venice and Genoa."], "src": "iwb"}
+{"w": "doggerel", "pos": "noun", "d": ["Crude, irregular, or trivial verse.", "Poor or mean-spirited poetry."], "src": "iwb"}
+{"w": "doggish", "pos": "adjective", "d": ["Resembling or characteristic of a dog.", "Surly; snarling; ill-tempered."], "src": "iwb"}
+{"w": "doggrel", "pos": "noun", "d": ["Crude, irregular, or trivial verse."], "src": "iwb"}
+{"w": "dogma", "pos": "noun", "d": ["A doctrine or body of doctrines formally stated and proclaimed by an authority, especially by a church.", "An established opinion held as if it were beyond dispute."], "src": "iwb"}
+{"w": "dogmatician", "pos": "noun", "d": ["One who dogmatizes; a bold asserter of opinions or doctrines."], "src": "iwb"}
+{"w": "dogmatism", "pos": "noun", "d": ["Positive assertion of opinion without offering proof; arrogant positiveness."], "src": "iwb"}
+{"w": "dogmatist", "pos": "noun", "d": ["One who dogmatizes; a confident and unyielding asserter of doctrines."], "src": "iwb"}
+{"w": "dogmatize", "pos": "verb", "d": ["To assert opinions or doctrines positively without offering proof.", "To teach in a dogmatic manner."], "src": "iwb"}
+{"w": "dohtren", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "doily", "pos": "noun", "d": ["A small ornamental mat, usually of lace or paper, placed under dishes or decorations."], "src": "iwb"}
+{"w": "doit", "pos": "noun", "d": ["A small coin of little value.", "Anything very small or trifling."], "src": "iwb"}
+{"w": "dokimastic", "pos": "adjective", "d": ["Relating to the assaying of minerals; testing by experiment."], "src": "iwb"}
+{"w": "doko", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dolabra", "pos": "noun", "d": ["A pickax or mattock used in the Roman army, especially for entrenching."], "src": "iwb"}
+{"w": "dolabriform", "pos": "adjective", "d": ["Shaped like a hatchet or ax head."], "src": "iwb"}
+{"w": "dolce", "pos": "adverb", "d": ["In music, sweetly; with softness and tenderness."], "src": "iwb"}
+{"w": "dolcemente", "pos": "adverb", "d": ["In music, sweetly; softly and tenderly."], "src": "iwb"}
+{"w": "dolcino", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "doldrums", "pos": "noun", "d": ["A part of the ocean near the equator where calms and light, baffling winds prevail.", "A state of inactivity, listlessness, or low spirits."], "src": "iwb"}
+{"w": "dole", "pos": "noun", "d": ["A share or portion, especially of food or money distributed to those in need.", "A charitable distribution to the poor."], "src": "iwb"}
+{"w": "dolent", "pos": "adjective", "d": ["Sorrowful; mourning; showing pain or grief."], "src": "iwb"}
+{"w": "dolente", "pos": "adverb", "d": ["In music, sorrowfully or mournfully."], "src": "iwb"}
+{"w": "doleritic", "pos": "adjective", "d": ["Relating to dolerite, a dark, fine-grained igneous rock."], "src": "iwb"}
+{"w": "dolf", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dolichocephalic", "pos": "adjective", "d": ["Having a long, narrow skull or head."], "src": "iwb"}
+{"w": "dolichocephalism", "pos": "noun", "d": ["The condition or quality of being dolichocephalic; long-headedness."], "src": "iwb"}
+{"w": "dolichocephalous", "pos": "adjective", "d": ["Having a long and narrow skull."], "src": "iwb"}
+{"w": "dolichocephaly", "pos": "noun", "d": ["The condition of having a long, narrow skull."], "src": "iwb"}
+{"w": "dolioform", "pos": "adjective", "d": ["Barrel-shaped."], "src": "iwb"}
+{"w": "doliolum", "pos": "noun", "d": ["A genus of small, barrel-shaped, free-swimming marine animals related to the salps."], "src": "iwb"}
+{"w": "dolium", "pos": "noun", "d": ["A large earthen jar used by the ancient Romans for storing wine or grain."], "src": "iwb"}
+{"w": "dollardee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dolly", "pos": "noun", "d": ["A child's doll or toy baby.", "A low platform on wheels for moving heavy loads."], "src": "iwb"}
+{"w": "dolly varden", "pos": "phrase", "d": ["A trout of the Pacific coast of North America, marked with red spots."], "src": "iwb"}
+{"w": "dolman", "pos": "noun", "d": ["A long outer robe worn in Turkey and other Eastern countries.", "A hussar's jacket worn over one shoulder and decorated with braided loops."], "src": "iwb"}
+{"w": "dolmen", "pos": "noun", "d": ["A prehistoric monument consisting of two or more upright stones supporting a large flat stone."], "src": "iwb"}
+{"w": "dolomite", "pos": "noun", "d": ["A mineral consisting of calcium magnesium carbonate.", "A rock composed largely of dolomite."], "src": "iwb"}
+{"w": "dolomitic", "pos": "adjective", "d": ["Relating to or containing dolomite."], "src": "iwb"}
+{"w": "dolomize", "pos": "verb", "d": ["To convert into dolomite."], "src": "iwb"}
+{"w": "dolor", "pos": "noun", "d": ["Pain, grief, or sorrow."], "src": "iwb"}
+{"w": "doloriferous", "pos": "adjective", "d": ["Producing pain or sorrow."], "src": "iwb"}
+{"w": "dolorific", "pos": "adjective", "d": ["Causing pain or grief; dolorous."], "src": "iwb"}
+{"w": "doloroso", "pos": "adverb", "d": ["In music, sorrowfully; in a mournful manner."], "src": "iwb"}
+{"w": "dolphin", "pos": "noun", "d": ["A marine mammal related to the porpoises, noted for its intelligence and playfulness."], "src": "iwb"}
+{"w": "dolphinet", "pos": "noun", "d": ["A young or small dolphin."], "src": "iwb"}
+{"w": "dolt", "pos": "noun", "d": ["A stupid person; a dull, blockish fellow."], "src": "iwb"}
+{"w": "dolus", "pos": "noun", "d": ["In Roman and civil law, fraud or deceit; evil intent."], "src": "iwb"}
+{"w": "dolven", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "domanial", "pos": "adjective", "d": ["Belonging to or relating to a domain or demesne."], "src": "iwb"}
+{"w": "domesday", "pos": "noun", "d": ["The record of a survey of England made by order of William the Conqueror in 1086; the Domesday Book."], "src": "iwb"}
+{"w": "domesman", "pos": "noun", "d": ["A judge or umpire."], "src": "iwb"}
+{"w": "domesticator", "pos": "noun", "d": ["One who domesticates animals or plants."], "src": "iwb"}
+{"w": "domett", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "domeykite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "domicile", "pos": "noun", "d": ["A dwelling place; a residence; one's home.", "In law, the place one considers one's permanent home."], "src": "iwb"}
+{"w": "domiciliar", "pos": "adjective", "d": ["Relating to a domicile or place of residence."], "src": "iwb"}
+{"w": "domiciliary", "pos": "adjective", "d": ["Pertaining to a domicile or dwelling place."], "src": "iwb"}
+{"w": "domiciliate", "pos": "verb", "d": ["To establish a domicile; to settle in a place of residence."], "src": "iwb"}
+{"w": "domiciliation", "pos": "noun", "d": ["The act of settling down and making a home in a particular place."], "src": "iwb"}
+{"w": "domiculture", "pos": "noun", "d": ["The art of running a household, including cooking and housekeeping."], "src": "iwb"}
+{"w": "domina", "pos": "noun", "d": ["A woman who rules over a household or holds the place of a master."], "src": "iwb"}
+{"w": "dominance", "pos": "noun", "d": ["Control or power held over others."], "src": "iwb"}
+{"w": "dominancy", "pos": "noun", "d": ["The state of having power or control over others."], "src": "iwb"}
+{"w": "dominate", "pos": "verb", "d": ["To have power or control over someone or something."], "src": "iwb"}
+{"w": "dominative", "pos": "adjective", "d": ["Tending to rule or control others."], "src": "iwb"}
+{"w": "domine", "pos": "noun", "d": ["A Latin form of address meaning master, used as a title for clergymen and teachers."], "src": "iwb"}
+{"w": "dominical", "pos": "adjective", "d": ["Relating to the Lord, especially to Sunday."], "src": "iwb"}
+{"w": "dominicide", "pos": "noun", "d": ["The killing of one's master."], "src": "iwb"}
+{"w": "dominie", "pos": "noun", "d": ["A schoolteacher, especially in Scotland.", "A clergyman."], "src": "iwb"}
+{"w": "dominion day", "pos": "phrase", "d": ["A former Canadian national holiday on July 1, now called Canada Day."], "src": "iwb"}
+{"w": "domino", "pos": "noun", "d": ["A small flat tile marked with dots, used in a matching game.", "The game played with such dotted tiles."], "src": "iwb"}
+{"w": "domino whist", "pos": "phrase", "d": ["A card game in which dominoes take the place of playing cards."], "src": "iwb"}
+{"w": "dominus", "pos": "noun", "d": ["A Latin word meaning lord or master."], "src": "iwb"}
+{"w": "domite", "pos": "noun", "d": ["A grayish kind of volcanic rock."], "src": "iwb"}
+{"w": "dona", "pos": "noun", "d": ["Presents or gifts."], "src": "iwb"}
+{"w": "donat", "pos": "noun", "d": ["An elementary grammar book."], "src": "iwb"}
+{"w": "donax", "pos": "noun", "d": ["A genus of small wedge-shaped sea clams.", "A genus of tall reeds."], "src": "iwb"}
+{"w": "donee", "pos": "noun", "d": ["A person to whom a gift is made."], "src": "iwb"}
+{"w": "donet", "pos": "noun", "d": ["A beginner's grammar book; a primer."], "src": "iwb"}
+{"w": "dongola", "pos": "noun", "d": ["A soft leather made from goatskin tanned by the Dongola process.", "A horse of a sturdy breed from the Dongola region of Sudan."], "src": "iwb"}
+{"w": "doni", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "donjon", "pos": "noun", "d": ["The strong inner tower or keep of a castle."], "src": "iwb"}
+{"w": "donnism", "pos": "noun", "d": ["Self-importance or a lofty, superior manner."], "src": "iwb"}
+{"w": "donya", "pos": "noun", "d": ["A respectful title for a woman, used in the Philippines like madam."], "src": "iwb"}
+{"w": "donzel", "pos": "noun", "d": ["A young gentleman training to become a knight; a page or squire."], "src": "iwb"}
+{"w": "doo", "pos": "noun", "d": ["The Scottish word for a dove."], "src": "iwb"}
+{"w": "doob grass", "pos": "phrase", "d": ["A creeping grass of India, also called Bermuda grass, used for lawns and pastures."], "src": "iwb"}
+{"w": "doodle", "pos": "verb", "d": ["To draw or scribble idly without thinking about it."], "src": "iwb"}
+{"w": "doole", "pos": "noun", "d": ["Sorrow or grief."], "src": "iwb"}
+{"w": "doom palm", "pos": "phrase", "d": ["An African palm tree whose trunk forks into two branches."], "src": "iwb"}
+{"w": "doomsday", "pos": "noun", "d": ["The day of final judgment at the end of the world.", "Any day of dreaded reckoning."], "src": "iwb"}
+{"w": "doomsman", "pos": "noun", "d": ["A judge; one who pronounces a sentence."], "src": "iwb"}
+{"w": "doomster", "pos": "noun", "d": ["A judge, especially in old Scotland."], "src": "iwb"}
+{"w": "doop", "pos": "noun", "d": ["A small copper cup that holds a diamond while it is being cut."], "src": "iwb"}
+{"w": "doorga", "pos": "noun", "d": ["A Hindu goddess, the wife of Siva, often shown with ten arms."], "src": "iwb"}
+{"w": "dop", "pos": "verb", "d": ["To dip or duck down quickly."], "src": "iwb"}
+{"w": "dope", "pos": "noun", "d": ["A thick liquid used to coat or stiffen a surface.", "A drug that dulls the senses, especially marijuana.", "Inside information about something."], "src": "iwb"}
+{"w": "dope-book", "pos": "phrase", "d": ["A book of facts and tips about racehorses."], "src": "iwb"}
+{"w": "dopey", "pos": "adjective", "d": ["Dulled or confused, as if from drugs.", "Silly or slow to understand."], "src": "iwb"}
+{"w": "doppelganger", "pos": "noun", "d": ["A person who looks exactly like someone else."], "src": "iwb"}
+{"w": "dopplerite", "pos": "noun", "d": ["A dark, jellylike mineral found with brown coal."], "src": "iwb"}
+{"w": "doquet", "pos": "noun", "d": ["A written warrant or certificate proving something is genuine."], "src": "iwb"}
+{"w": "dor", "pos": "noun", "d": ["A large buzzing beetle, such as a cockchafer."], "src": "iwb"}
+{"w": "doree", "pos": "noun", "d": ["A European sea fish with a dark spot on each side, the John Dory."], "src": "iwb"}
+{"w": "doretree", "pos": "noun", "d": ["A post forming the side of a doorway."], "src": "iwb"}
+{"w": "dorian", "pos": "adjective", "d": ["Relating to Doris, a region of ancient Greece, or its people.", "Describing a kind of musical scale or mode."], "src": "iwb"}
+{"w": "doris", "pos": "noun", "d": ["A genus of brightly colored sea slugs."], "src": "iwb"}
+{"w": "dorking fowl", "pos": "phrase", "d": ["A large breed of chicken from Dorking, England."], "src": "iwb"}
+{"w": "dormancy", "pos": "noun", "d": ["The state of being asleep or inactive."], "src": "iwb"}
+{"w": "dormant", "pos": "adjective", "d": ["Asleep or inactive for a time."], "src": "iwb"}
+{"w": "dormer", "pos": "noun", "d": ["A window that juts out from a sloping roof."], "src": "iwb"}
+{"w": "dormer window", "pos": "phrase", "d": ["A window set in a dormer on a sloping roof."], "src": "iwb"}
+{"w": "dormitive", "pos": "adjective", "d": ["Causing sleep."], "src": "iwb"}
+{"w": "dormitory", "pos": "noun", "d": ["A large room where many people sleep.", "A building with sleeping rooms, as at a college."], "src": "iwb"}
+{"w": "dormy", "pos": "adjective", "d": ["In golf, ahead by as many holes as are left to play."], "src": "iwb"}
+{"w": "dorn", "pos": "noun", "d": ["A stone, especially one about the size of a fist."], "src": "iwb"}
+{"w": "dorp", "pos": "noun", "d": ["A small village."], "src": "iwb"}
+{"w": "dorr", "pos": "noun", "d": ["A buzzing beetle; another spelling of dor."], "src": "iwb"}
+{"w": "dorse", "pos": "noun", "d": ["A young codfish, once thought to be a separate species.", "The back of a book or folded paper."], "src": "iwb"}
+{"w": "dorsel", "pos": "noun", "d": ["A large basket or pack carried on the back."], "src": "iwb"}
+{"w": "dorsibranchiata", "pos": "noun", "d": ["An order of sea slugs whose gills are on the back."], "src": "iwb"}
+{"w": "dorsibranchiate", "pos": "adjective", "d": ["Having gills on the back."], "src": "iwb"}
+{"w": "dorsiferous", "pos": "adjective", "d": ["Bearing seeds or fruit on the back, as ferns do."], "src": "iwb"}
+{"w": "dorsimeson", "pos": "noun", "d": ["The middle line of the back."], "src": "iwb"}
+{"w": "dorsiparous", "pos": "adjective", "d": ["Producing young from the back, as some toads do."], "src": "iwb"}
+{"w": "dorsiventral", "pos": "adjective", "d": ["Having clearly different upper and lower sides, as most leaves do."], "src": "iwb"}
+{"w": "dorsoventral", "pos": "adjective", "d": ["Running from the back to the belly.", "Having different back and belly sides."], "src": "iwb"}
+{"w": "dorture", "pos": "noun", "d": ["A dormitory, especially in a monastery."], "src": "iwb"}
+{"w": "dory", "pos": "noun", "d": ["A small flat-bottomed boat with high sides."], "src": "iwb"}
+{"w": "doryphora", "pos": "noun", "d": ["A genus of leaf beetles that includes the Colorado potato beetle."], "src": "iwb"}
+{"w": "doryphoros", "pos": "noun", "d": ["A famous ancient Greek statue of a spear-carrying youth."], "src": "iwb"}
+{"w": "dos--dos", "pos": "phrase", "d": ["Placed or sitting back to back."], "src": "iwb"}
+{"w": "dosel", "pos": "noun", "d": ["A rich canopy hung over an altar or throne."], "src": "iwb"}
+{"w": "dosimetry", "pos": "noun", "d": ["The measurement of doses of radiation."], "src": "iwb"}
+{"w": "dosology", "pos": "noun", "d": ["The branch of medicine dealing with doses of drugs."], "src": "iwb"}
+{"w": "doss", "pos": "verb", "d": ["To sleep in a rough or makeshift bed."], "src": "iwb"}
+{"w": "doss house", "pos": "phrase", "d": ["A cheap lodging house for the night."], "src": "iwb"}
+{"w": "dossel", "pos": "noun", "d": ["A canopy over an altar; another spelling of dosel."], "src": "iwb"}
+{"w": "dossier", "pos": "noun", "d": ["A set of papers containing detailed information about a person or matter."], "src": "iwb"}
+{"w": "dossil", "pos": "noun", "d": ["A small plug of cloth or lint used to stop bleeding from a wound."], "src": "iwb"}
+{"w": "dost", "pos": "verb", "d": ["An old form of do, used with thou."], "src": "iwb"}
+{"w": "dotard", "pos": "noun", "d": ["An old person whose mind is failing."], "src": "iwb"}
+{"w": "dote", "pos": "verb", "d": ["To love someone to an excessive, foolish degree.", "To show the weakness of old age."], "src": "iwb"}
+{"w": "dotery", "pos": "noun", "d": ["The state of doting; senile weakness of mind."], "src": "iwb"}
+{"w": "doth", "pos": "verb", "d": ["An old form of does."], "src": "iwb"}
+{"w": "dottard", "pos": "noun", "d": ["A tree whose top has decayed."], "src": "iwb"}
+{"w": "dotterel", "pos": "noun", "d": ["A small plover, a shorebird of Europe.", "A silly or easily fooled person."], "src": "iwb"}
+{"w": "dotting pen", "pos": "phrase", "d": ["A pen made for drawing dots."], "src": "iwb"}
+{"w": "dottrel", "pos": "noun", "d": ["Another spelling of dotterel, a small plover."], "src": "iwb"}
+{"w": "dotty", "pos": "adjective", "d": ["Slightly crazy or eccentric.", "Covered with dots."], "src": "iwb"}
+{"w": "doty", "pos": "adjective", "d": ["Said of timber that is starting to decay."], "src": "iwb"}
+{"w": "douane", "pos": "noun", "d": ["A customhouse where duties are collected."], "src": "iwb"}
+{"w": "douanier", "pos": "noun", "d": ["An officer of the customs."], "src": "iwb"}
+{"w": "douar", "pos": "noun", "d": ["A village or encampment of tents in Arab lands."], "src": "iwb"}
+{"w": "douay bible", "pos": "phrase", "d": ["An English translation of the Bible made for Catholics at Douay."], "src": "iwb"}
+{"w": "doub grass", "pos": "phrase", "d": ["Another spelling of doob grass, an Indian lawn grass."], "src": "iwb"}
+{"w": "double dealer", "pos": "phrase", "d": ["A person who says one thing and does another; a deceiver."], "src": "iwb"}
+{"w": "double dealing", "pos": "noun", "d": ["Deceitful behavior; saying one thing while doing another."], "src": "iwb"}
+{"w": "double first", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "double pedro", "pos": "noun", "d": ["A trick-taking card game that is a two-player form of pedro."], "src": "iwb"}
+{"w": "double-acting", "pos": "adjective", "d": ["Acting or powered in two directions, as an engine cylinder driven on both the forward and return strokes."], "src": "iwb"}
+{"w": "double-bank", "pos": "verb", "d": ["To man an oar or a boat with twice the usual number of rowers."], "src": "iwb"}
+{"w": "double-barreled", "pos": "adjective", "d": ["Having two barrels, as a shotgun.", "Having two purposes or effects at once."], "src": "iwb"}
+{"w": "double-barrelled", "pos": "adjective", "d": ["Having two barrels, as a shotgun.", "Having two purposes or effects at once."], "src": "iwb"}
+{"w": "double-beat valve", "pos": "noun", "d": ["A steam-engine valve with two seats so that pressure acts nearly equally on both sides."], "src": "iwb"}
+{"w": "double-breasted", "pos": "adjective", "d": ["Of a coat or jacket, having two rows of buttons with the fronts overlapping."], "src": "iwb"}
+{"w": "double-charge", "pos": "noun", "d": ["Twice the usual charge, as of powder loaded in a firearm."], "src": "iwb"}
+{"w": "double-decker", "pos": "noun", "d": ["A vehicle or structure with two decks or levels, as a bus."], "src": "iwb"}
+{"w": "double-dye", "pos": "verb", "d": ["To dye twice, or in two colors."], "src": "iwb"}
+{"w": "double-ender", "pos": "noun", "d": ["A boat pointed at both bow and stern."], "src": "iwb"}
+{"w": "double-entendre", "pos": "noun", "d": ["A word or phrase with two meanings, one of them often improper or amusing."], "src": "iwb"}
+{"w": "double-eyed", "pos": "adjective", "d": ["Having two eyes."], "src": "iwb"}
+{"w": "double-faced", "pos": "adjective", "d": ["Having two faces.", "Deceitful; saying one thing and meaning another."], "src": "iwb"}
+{"w": "double-handed", "pos": "adjective", "d": ["Using or requiring both hands.", "Made for two people to use or operate."], "src": "iwb"}
+{"w": "double-headed", "pos": "adjective", "d": ["Having two heads."], "src": "iwb"}
+{"w": "double-hung", "pos": "adjective", "d": ["Of a window, having two sashes that both slide up and down."], "src": "iwb"}
+{"w": "double-lock", "pos": "verb", "d": ["To lock with a double bolt or with two turns of the key."], "src": "iwb"}
+{"w": "double-milled", "pos": "adjective", "d": ["Milled or ground twice, as soap made smooth and firm by regrinding."], "src": "iwb"}
+{"w": "double-quick", "pos": "noun", "d": ["A marching step faster than quick time."], "src": "iwb"}
+{"w": "double-ripper", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "double-shade", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "double-surfaced", "pos": "adjective", "d": ["Finished or usable on both sides."], "src": "iwb"}
+{"w": "double-tongue", "pos": "noun", "d": ["Rapid articulation on a wind instrument by alternating strokes of the tongue."], "src": "iwb"}
+{"w": "doublet", "pos": "noun", "d": ["A close-fitting jacket worn by men from the 1300s to the 1600s.", "One of two words springing from the same root, as fashion and faction."], "src": "iwb"}
+{"w": "doublethreaded", "pos": "adjective", "d": ["Cut with two threads, as a screw that advances twice as far with each turn."], "src": "iwb"}
+{"w": "doubloon", "pos": "noun", "d": ["An old Spanish gold coin."], "src": "iwb"}
+{"w": "doublure", "pos": "noun", "d": ["The ornamental lining on the inside of a book cover."], "src": "iwb"}
+{"w": "doubly", "pos": "adverb", "d": ["In double measure; twice over."], "src": "iwb"}
+{"w": "douc", "pos": "noun", "d": ["A brightly colored leaf-eating monkey of Southeast Asia."], "src": "iwb"}
+{"w": "douce", "pos": "adjective", "d": ["Sober, gentle, and respectable in manner."], "src": "iwb"}
+{"w": "doucet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "douceur", "pos": "noun", "d": ["A conciliatory gift or gratuity; a sweetener or bribe.", "Sweetness or gentleness of manner."], "src": "iwb"}
+{"w": "douche", "pos": "noun", "d": ["A jet of water directed against or into the body for cleansing or treatment."], "src": "iwb"}
+{"w": "doucine", "pos": "noun", "d": ["A molding with a double curve, concave above and convex below."], "src": "iwb"}
+{"w": "doucker", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dough", "pos": "noun", "d": ["A soft mixture of flour and liquid worked for baking into bread or pastry.", "Slang for money."], "src": "iwb"}
+{"w": "dough-baked", "pos": "adjective", "d": ["Imperfectly baked; not done through."], "src": "iwb"}
+{"w": "dough-faced", "pos": "adjective", "d": ["Having a pale, soft face.", "Easily shaped in opinion; lacking firmness."], "src": "iwb"}
+{"w": "dough-kneaded", "pos": "adjective", "d": ["Worked and pressed like dough."], "src": "iwb"}
+{"w": "doughiness", "pos": "noun", "d": ["The quality of being soft and pale like unbaked dough."], "src": "iwb"}
+{"w": "doughtily", "pos": "adverb", "d": ["In a brave and sturdy manner."], "src": "iwb"}
+{"w": "doughtiness", "pos": "noun", "d": ["Brave sturdiness; valiant firmness."], "src": "iwb"}
+{"w": "doughty", "pos": "adjective", "d": ["Brave and strong; stouthearted."], "src": "iwb"}
+{"w": "doughy", "pos": "adjective", "d": ["Like dough in softness; pale and flabby."], "src": "iwb"}
+{"w": "doulocracy", "pos": "noun", "d": ["Government or rule by slaves."], "src": "iwb"}
+{"w": "doum palm", "pos": "noun", "d": ["An African palm with a forked trunk and edible fruit."], "src": "iwb"}
+{"w": "doupe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dour", "pos": "adjective", "d": ["Stern and gloomy in manner or appearance."], "src": "iwb"}
+{"w": "doura", "pos": "noun", "d": ["A tall cereal grass of Africa and Asia; sorghum."], "src": "iwb"}
+{"w": "douroucouli", "pos": "noun", "d": ["A small nocturnal monkey of South America, also called the night monkey."], "src": "iwb"}
+{"w": "douse", "pos": "verb", "d": ["To plunge into water.", "To put out, as a light or fire."], "src": "iwb"}
+{"w": "dousing-chock", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dout", "pos": "verb", "d": ["To put out, as a candle or light."], "src": "iwb"}
+{"w": "dove", "pos": "noun", "d": ["A pigeon-like bird, often white, taken as a symbol of peace."], "src": "iwb"}
+{"w": "dove plant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dove-eyed", "pos": "adjective", "d": ["Having soft, gentle eyes like a dove."], "src": "iwb"}
+{"w": "dovish", "pos": "adjective", "d": ["Favoring peace and negotiation over war, as opposed to hawkish."], "src": "iwb"}
+{"w": "dowager", "pos": "noun", "d": ["A widow holding a title or property derived from her late husband.", "A dignified elderly woman."], "src": "iwb"}
+{"w": "dowcet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dowdy", "pos": "adjective", "d": ["Shabby and lacking style in dress."], "src": "iwb"}
+{"w": "dowel", "pos": "noun", "d": ["A short wooden pin used to join two pieces of wood."], "src": "iwb"}
+{"w": "dowery", "pos": "noun", "d": ["A dowry; property a bride brings to her marriage."], "src": "iwb"}
+{"w": "dowitcher", "pos": "noun", "d": ["A long-billed shorebird of the sandpiper family."], "src": "iwb"}
+{"w": "dowl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dowle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "down-share", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "down-wind", "pos": "adverb", "d": ["In the direction in which the wind is blowing."], "src": "iwb"}
+{"w": "downgyved", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "downiness", "pos": "noun", "d": ["The quality of being soft and feathery like down."], "src": "iwb"}
+{"w": "downlooked", "pos": "adjective", "d": ["Having a downcast or sullen look."], "src": "iwb"}
+{"w": "downstairs", "pos": "adverb", "d": ["Down the stairs; on or to a lower floor."], "src": "iwb"}
+{"w": "downy", "pos": "adjective", "d": ["Covered with soft fine feathers or hair.", "Soft and fluffy like down."], "src": "iwb"}
+{"w": "dowral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dowress", "pos": "noun", "d": ["A widow entitled to dower from her husband's estate."], "src": "iwb"}
+{"w": "dowry", "pos": "noun", "d": ["Property or money a bride brings to her husband at marriage."], "src": "iwb"}
+{"w": "dowse", "pos": "verb", "d": ["To search for underground water or minerals with a divining rod."], "src": "iwb"}
+{"w": "dowst", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dowve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "doxological", "pos": "adjective", "d": ["Of or relating to a doxology."], "src": "iwb"}
+{"w": "doxologize", "pos": "verb", "d": ["To utter a doxology; to praise God in song."], "src": "iwb"}
+{"w": "doxology", "pos": "noun", "d": ["A short hymn or form of words praising God."], "src": "iwb"}
+{"w": "doxy", "pos": "noun", "d": ["A woman of loose morals; a mistress."], "src": "iwb"}
+{"w": "doyen", "pos": "noun", "d": ["The senior or most respected member of a group; a dean."], "src": "iwb"}
+{"w": "doyly", "pos": "noun", "d": ["A small ornamental mat placed under a dish or vase; a doily."], "src": "iwb"}
+{"w": "doze", "pos": "verb", "d": ["To sleep lightly and briefly; to nap."], "src": "iwb"}
+{"w": "dozenth", "pos": "adjective", "d": ["Twelfth in order; coming after the eleventh."], "src": "iwb"}
+{"w": "doziness", "pos": "noun", "d": ["A drowsy, half-asleep state."], "src": "iwb"}
+{"w": "dozy", "pos": "adjective", "d": ["Drowsy; half asleep."], "src": "iwb"}
+{"w": "dozzled", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drab", "pos": "adjective", "d": ["Of a dull brownish-gray color.", "Dull and cheerless; lacking interest."], "src": "iwb"}
+{"w": "drabble", "pos": "noun", "d": ["A story exactly one hundred words long."], "src": "iwb"}
+{"w": "drabble-tail", "pos": "noun", "d": ["A slovenly woman whose skirts trail in the dirt."], "src": "iwb"}
+{"w": "dracaena", "pos": "noun", "d": ["A genus of tropical plants with stiff sword-shaped leaves, often grown indoors."], "src": "iwb"}
+{"w": "dracanth", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drachm", "pos": "noun", "d": ["A small unit of weight; a dram."], "src": "iwb"}
+{"w": "drachma", "pos": "noun", "d": ["The former basic monetary unit of Greece."], "src": "iwb"}
+{"w": "drachme", "pos": "noun", "d": ["A dram in weight; also a form of the Greek drachma."], "src": "iwb"}
+{"w": "dracin", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

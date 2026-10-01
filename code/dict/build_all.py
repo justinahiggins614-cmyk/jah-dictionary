@@ -239,11 +239,28 @@ def write_index(index):
 
 def write_stats(n_words, n_terms):
     spath = os.path.join(IDXDIR, "stats.json")
+    # Authoritative dictionary metadata: every visible count on the page
+    # reads from this single object (audit 2026-09-30). data_hash is the
+    # sha256 of the shipped index file, so any consumer can verify the
+    # exact dataset the counts describe.
+    ipath = os.path.join(IDXDIR, "dict.idx.json.gz")
+    data_hash = ""
+    if os.path.exists(ipath):
+        import hashlib
+        h = hashlib.sha256()
+        with open(ipath, "rb") as f:
+            for blk in iter(lambda: f.read(1 << 20), b""):
+                h.update(blk)
+        data_hash = "sha256:" + h.hexdigest()
     stats = {
+        "dictionary_version": "1.0",
+        "schema_version": "1.0",
+        "entry_count": n_words + n_terms,
         "words": n_words,
         "terms": n_terms,
         "total": n_words + n_terms,
-        "updated": datetime.date.today().isoformat(),
+        "last_updated": datetime.date.today().isoformat(),
+        "data_hash": data_hash,
         "source": "IWB Dictionary (original definitions)",
     }
     with open(spath, "w", encoding="utf-8") as f:

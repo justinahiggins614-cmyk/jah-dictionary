@@ -19816,6 +19816,806 @@
 {"w": "drachma", "pos": "noun", "d": ["The former basic monetary unit of Greece."], "src": "iwb"}
 {"w": "drachme", "pos": "noun", "d": ["A dram in weight; also a form of the Greek drachma."], "src": "iwb"}
 {"w": "dracin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "draco", "pos": "noun", "d": ["A genus of small lizards in Southeast Asia that glide from tree to tree on winglike flaps of skin.", "A winding northern constellation named for the Latin word for dragon."], "src": "iwb"}
+{"w": "draconian", "pos": "adjective", "d": ["Extremely harsh or severe, especially of laws, rules, or punishments."], "src": "iwb"}
+{"w": "draconic", "pos": "adjective", "d": ["Relating to or resembling a dragon.", "In astronomy, relating to the moon's nodes, as in the draconic month."], "src": "iwb"}
+{"w": "dracontic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dracontine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dracunculus", "pos": "noun", "d": ["A genus of parasitic roundworms, including the Guinea worm that infects humans.", "A genus of foul-smelling plants in the arum family, the dragon arums."], "src": "iwb"}
+{"w": "drad", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dradde", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dradge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "draff", "pos": "noun", "d": ["The damp grain refuse left after brewing or distilling.", "Worthless or refuse matter in general."], "src": "iwb"}
+{"w": "draffy", "pos": "adjective", "d": ["Full of draff; worthless, like dregs."], "src": "iwb"}
+{"w": "draftsman", "pos": "noun", "d": ["A person who draws plans or designs, especially for buildings or machines.", "A person who writes legal documents or other formal drafts."], "src": "iwb"}
+{"w": "drag line", "pos": "phrase", "d": ["A heavy cable or rope used for dragging logs, nets, or machinery."], "src": "iwb"}
+{"w": "drag rope", "pos": "phrase", "d": ["A rope used for dragging or hauling something heavy, such as a gun or a log."], "src": "iwb"}
+{"w": "dragantine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dragees", "pos": "noun", "d": ["Small candies or pills coated with a hard layer of sugar."], "src": "iwb"}
+{"w": "draggle", "pos": "verb", "d": ["To make wet or dirty by trailing along the ground.", "To trail or lag behind; to straggle."], "src": "iwb"}
+{"w": "draggle-tail", "pos": "noun", "d": ["A slovenly person, especially a woman, whose clothing trails untidily."], "src": "iwb"}
+{"w": "dragoman", "pos": "noun", "d": ["An interpreter or guide for travelers in the Middle East."], "src": "iwb"}
+{"w": "dragonet", "pos": "noun", "d": ["A small dragon, as in stories.", "A small marine fish of the family Callionymidae."], "src": "iwb"}
+{"w": "dragonnade", "pos": "noun", "d": ["The persecution of French Protestants under Louis XIV by lodging dragoons in their homes."], "src": "iwb"}
+{"w": "dragoonade", "pos": "noun", "d": ["A variant of dragonnade; persecution carried out by quartering soldiers on the victims."], "src": "iwb"}
+{"w": "drail", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "draine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drake", "pos": "noun", "d": ["A male duck."], "src": "iwb"}
+{"w": "dram", "pos": "noun", "d": ["A small unit of weight equal to one sixteenth of an ounce avoirdupois.", "A small drink of whiskey or other spirits."], "src": "iwb"}
+{"w": "dramatis personae", "pos": "phrase", "d": ["The list of characters in a play, printed at its beginning."], "src": "iwb"}
+{"w": "dramatist", "pos": "noun", "d": ["A writer of plays; a playwright."], "src": "iwb"}
+{"w": "dramatization", "pos": "noun", "d": ["The act of adapting a story or event into the form of a play."], "src": "iwb"}
+{"w": "dramatize", "pos": "verb", "d": ["To adapt a story for performance as a play.", "To present something in an exaggeratedly dramatic way."], "src": "iwb"}
+{"w": "dramaturgic", "pos": "adjective", "d": ["Relating to dramaturgy or the writing of plays."], "src": "iwb"}
+{"w": "dramaturgist", "pos": "noun", "d": ["A specialist in the art of writing and staging plays.", "A literary adviser attached to a theater company."], "src": "iwb"}
+{"w": "dramaturgy", "pos": "noun", "d": ["The art or theory of writing and producing plays."], "src": "iwb"}
+{"w": "drank", "pos": "verb", "d": ["Past tense of drink."], "src": "iwb"}
+{"w": "drape", "pos": "verb", "d": ["To cover or hang with cloth arranged in loose folds.", "To hang or fall in graceful folds."], "src": "iwb"}
+{"w": "drapery", "pos": "noun", "d": ["Cloth hangings, such as curtains, arranged in folds.", "The business of a draper; cloth sold by a draper."], "src": "iwb"}
+{"w": "drapet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drastic", "pos": "adjective", "d": ["Extreme and far-reaching in effect; severe."], "src": "iwb"}
+{"w": "drasty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "draugh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "draught", "pos": "noun", "d": ["A drink or dose swallowed at once.", "A current of air moving through a room.", "The depth of water a ship needs in order to float."], "src": "iwb"}
+{"w": "draughty", "pos": "adjective", "d": ["Exposed to currents of air; full of draughts."], "src": "iwb"}
+{"w": "drave", "pos": "verb", "d": ["An archaic past tense of drive."], "src": "iwb"}
+{"w": "dravida", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dravidian", "pos": "adjective", "d": ["Relating to the Dravidian peoples of southern India or to their family of languages."], "src": "iwb"}
+{"w": "draw-cut", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drawcansir", "pos": "noun", "d": ["A blustering braggart; a bullying boaster."], "src": "iwb"}
+{"w": "drawee", "pos": "noun", "d": ["The person or bank on whom a bill of exchange or check is drawn and who is expected to pay it."], "src": "iwb"}
+{"w": "drawgloves", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drawing knife", "pos": "phrase", "d": ["A woodworking tool with a blade and a handle at each end, drawn toward the worker to shave wood."], "src": "iwb"}
+{"w": "drawing-room", "pos": "phrase", "d": ["A formal sitting room in a house, used for receiving guests."], "src": "iwb"}
+{"w": "drawl", "pos": "verb", "d": ["To speak slowly, stretching out the vowel sounds."], "src": "iwb"}
+{"w": "dray", "pos": "noun", "d": ["A low, strong cart without sides, used for hauling heavy loads."], "src": "iwb"}
+{"w": "drazel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dread", "pos": "verb", "d": ["To fear greatly; to look forward to with terror.", "To regard with deep awe or reverence."], "src": "iwb"}
+{"w": "dread-bolted", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dreadingly", "pos": "adverb", "d": ["In a fearful manner; with dread."], "src": "iwb"}
+{"w": "dreamily", "pos": "adverb", "d": ["In a dreamy or absent-minded manner."], "src": "iwb"}
+{"w": "dreaminess", "pos": "noun", "d": ["The quality of being dreamy; a vague, fanciful state of mind."], "src": "iwb"}
+{"w": "dreamingly", "pos": "adverb", "d": ["As if in a dream; while daydreaming."], "src": "iwb"}
+{"w": "dreamy", "pos": "adjective", "d": ["Like a dream; vague and pleasantly unreal.", "Given to daydreaming; absent-minded."], "src": "iwb"}
+{"w": "drear", "pos": "adjective", "d": ["Dreary; gloomy and cheerless."], "src": "iwb"}
+{"w": "drearihead", "pos": "noun", "d": ["Archaic: dreariness; a state of gloom."], "src": "iwb"}
+{"w": "drearihood", "pos": "noun", "d": ["Archaic: the state of being dreary; gloominess."], "src": "iwb"}
+{"w": "drearily", "pos": "adverb", "d": ["In a dreary manner; gloomily."], "src": "iwb"}
+{"w": "dreariment", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dreariness", "pos": "noun", "d": ["The quality of being dreary; gloom."], "src": "iwb"}
+{"w": "drearisome", "pos": "adjective", "d": ["Causing dreariness; dismal."], "src": "iwb"}
+{"w": "dreary", "pos": "adjective", "d": ["Dull, bleak, and depressing.", "Causing a feeling of gloom."], "src": "iwb"}
+{"w": "drecche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dredge", "pos": "verb", "d": ["To clear or deepen a channel with a dredge.", "To gather or bring up with a dredge, as oysters.", "To sprinkle with flour or sugar before cooking."], "src": "iwb"}
+{"w": "dree", "pos": "verb", "d": ["To endure or suffer, especially one's fate."], "src": "iwb"}
+{"w": "dreg", "pos": "noun", "d": ["A single particle of sediment; one dreg."], "src": "iwb"}
+{"w": "dregginess", "pos": "noun", "d": ["The state of being full of dregs; muddiness."], "src": "iwb"}
+{"w": "dreggish", "pos": "adjective", "d": ["Full of dregs; muddy."], "src": "iwb"}
+{"w": "dreggy", "pos": "adjective", "d": ["Containing dregs; turbid."], "src": "iwb"}
+{"w": "dreibund", "pos": "noun", "d": ["The Triple Alliance of 1882 between Germany, Austria-Hungary, and Italy; literally, a league of three."], "src": "iwb"}
+{"w": "drein", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dreint", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dreinte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dreissena", "pos": "noun", "d": ["A genus of small freshwater mussels, including the zebra mussel."], "src": "iwb"}
+{"w": "drench", "pos": "verb", "d": ["To soak thoroughly with liquid.", "To give a large dose of medicine to an animal."], "src": "iwb"}
+{"w": "drenche", "pos": "verb", "d": ["An old spelling of drench."], "src": "iwb"}
+{"w": "drengage", "pos": "noun", "d": ["A medieval land tenure in northern England by which a dreng held land in return for service."], "src": "iwb"}
+{"w": "drent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dresden ware", "pos": "phrase", "d": ["Fine porcelain made at Dresden or Meissen in Germany."], "src": "iwb"}
+{"w": "dress circle", "pos": "phrase", "d": ["The first tier of seats above the orchestra in a theater."], "src": "iwb"}
+{"w": "dress coat", "pos": "phrase", "d": ["A formal man's coat with tails, worn with evening dress."], "src": "iwb"}
+{"w": "dress goods", "pos": "phrase", "d": ["Fabrics intended for making clothing."], "src": "iwb"}
+{"w": "dressiness", "pos": "noun", "d": ["The quality of being dressy; smartness of dress."], "src": "iwb"}
+{"w": "dressy", "pos": "adjective", "d": ["Fond of fine or showy clothes.", "Requiring or suited to formal dress."], "src": "iwb"}
+{"w": "drest", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dretch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dreul", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drevil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drey", "pos": "noun", "d": ["The nest of a squirrel, built of twigs and leaves."], "src": "iwb"}
+{"w": "dreye", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dreynt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dreynte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drib", "pos": "noun", "d": ["A very small amount or portion."], "src": "iwb"}
+{"w": "dribble", "pos": "verb", "d": ["To fall or flow in small drops.", "To let saliva trickle from the mouth.", "In sports, to move a ball along by repeated light kicks or bounces."], "src": "iwb"}
+{"w": "drie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "driest", "pos": "adjective", "d": ["Superlative of dry; most dry."], "src": "iwb"}
+{"w": "drift", "pos": "noun", "d": ["A heap of snow, sand, or the like piled up by wind.", "A slow movement or current, as of water or air.", "The general meaning or direction of what is said."], "src": "iwb"}
+{"w": "drifty", "pos": "adjective", "d": ["Full of drifts, as of snow.", "Tending to drift; aimless."], "src": "iwb"}
+{"w": "drill press", "pos": "phrase", "d": ["A machine tool for drilling holes, with the drill mounted on an upright frame."], "src": "iwb"}
+{"w": "drily", "pos": "adverb", "d": ["In a dry manner; without moisture.", "In a matter-of-fact or ironically humorous way."], "src": "iwb"}
+{"w": "drimys", "pos": "noun", "d": ["A genus of evergreen trees and shrubs of the Southern Hemisphere, including winter's bark."], "src": "iwb"}
+{"w": "drip", "pos": "verb", "d": ["To fall or let fall in drops.", "To be so full that liquid overflows in drops."], "src": "iwb"}
+{"w": "dripple", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drith", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drivel", "pos": "verb", "d": ["To let saliva flow from the mouth; to drool.", "To talk foolishly; to babble."], "src": "iwb"}
+{"w": "drizzle", "pos": "verb", "d": ["To rain in very fine drops.", "To sprinkle lightly with liquid."], "src": "iwb"}
+{"w": "drizzly", "pos": "adjective", "d": ["Characterized by light, fine rain."], "src": "iwb"}
+{"w": "drock", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drofland", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drogher", "pos": "noun", "d": ["A small, slow coasting vessel formerly used in the West Indies."], "src": "iwb"}
+{"w": "drogman", "pos": "noun", "d": ["A variant spelling of dragoman."], "src": "iwb"}
+{"w": "drogoman", "pos": "noun", "d": ["A variant spelling of dragoman."], "src": "iwb"}
+{"w": "drogue", "pos": "noun", "d": ["A device towed behind a boat or aircraft to slow it or steady its course, such as a sea anchor."], "src": "iwb"}
+{"w": "droh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "droil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "droit", "pos": "noun", "d": ["A legal right or claim.", "In French, right or law."], "src": "iwb"}
+{"w": "droitzschka", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "droll", "pos": "adjective", "d": ["Amusingly odd or whimsical."], "src": "iwb"}
+{"w": "drollery", "pos": "noun", "d": ["Quaint or whimsical humor.", "A droll act or remark."], "src": "iwb"}
+{"w": "drollingly", "pos": "adverb", "d": ["In a droll manner; whimsically."], "src": "iwb"}
+{"w": "dromaeognathous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dromatherium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drome", "pos": "noun", "d": ["A course or track for racing, chiefly in compounds such as aerodrome."], "src": "iwb"}
+{"w": "dromedary", "pos": "noun", "d": ["The one-humped camel of northern Africa and western Asia, used as a beast of burden."], "src": "iwb"}
+{"w": "dromon", "pos": "noun", "d": ["A swift war galley of the Byzantine navy."], "src": "iwb"}
+{"w": "dromond", "pos": "noun", "d": ["A large medieval sailing ship.", "A variant form of dromon."], "src": "iwb"}
+{"w": "drone", "pos": "noun", "d": ["A male honeybee, which does no work.", "A monotonous humming sound.", "An unmanned aircraft guided by remote control."], "src": "iwb"}
+{"w": "drone bee", "pos": "phrase", "d": ["The male of the honeybee, which gathers no honey."], "src": "iwb"}
+{"w": "drone fly", "pos": "phrase", "d": ["A hoverfly that resembles a drone bee in appearance."], "src": "iwb"}
+{"w": "drongo", "pos": "noun", "d": ["A glossy black songbird of Asia, Africa, and Australia, with a deeply forked tail."], "src": "iwb"}
+{"w": "dronish", "pos": "adjective", "d": ["Like a drone; lazy and fond of idly humming."], "src": "iwb"}
+{"w": "dronkelewe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dronte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drony", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drool", "pos": "verb", "d": ["To let saliva flow from the mouth.", "To talk foolishly in an admiring way."], "src": "iwb"}
+{"w": "droop", "pos": "verb", "d": ["To hang or bend downward from weakness or lack of support.", "To lose spirit or energy; to languish."], "src": "iwb"}
+{"w": "droopingly", "pos": "adverb", "d": ["In a drooping manner."], "src": "iwb"}
+{"w": "dropmele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dropsical", "pos": "adjective", "d": ["Relating to or affected with dropsy."], "src": "iwb"}
+{"w": "dropsy", "pos": "noun", "d": ["An old term for edema, the abnormal accumulation of fluid in the body."], "src": "iwb"}
+{"w": "dropt", "pos": "verb", "d": ["An archaic or poetic past tense and past participle of drop."], "src": "iwb"}
+{"w": "drosera", "pos": "noun", "d": ["A genus of carnivorous plants, the sundews, that catch insects with sticky hairs on their leaves."], "src": "iwb"}
+{"w": "drosky", "pos": "noun", "d": ["A light, open, four-wheeled carriage, originally Russian."], "src": "iwb"}
+{"w": "drosometer", "pos": "noun", "d": ["An instrument for measuring the quantity of dew deposited."], "src": "iwb"}
+{"w": "dross", "pos": "noun", "d": ["The scum or waste that rises on molten metal; slag.", "Worthless matter; refuse."], "src": "iwb"}
+{"w": "drossel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drossy", "pos": "adjective", "d": ["Full of dross; worthless."], "src": "iwb"}
+{"w": "drotchel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drough", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drought", "pos": "noun", "d": ["A long period with little or no rain.", "A prolonged shortage of something needed."], "src": "iwb"}
+{"w": "droughtiness", "pos": "noun", "d": ["The state of being droughty."], "src": "iwb"}
+{"w": "droughty", "pos": "adjective", "d": ["Characterized by drought; very dry."], "src": "iwb"}
+{"w": "droumy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drouth", "pos": "noun", "d": ["A Scots and northern English word for drought.", "Thirst."], "src": "iwb"}
+{"w": "drouthy", "pos": "adjective", "d": ["Thirsty; dry."], "src": "iwb"}
+{"w": "droven", "pos": "verb", "d": ["An archaic past participle of drive."], "src": "iwb"}
+{"w": "drovy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drown", "pos": "verb", "d": ["To die or kill by suffocation under water or another liquid.", "To flood or submerge.", "To overwhelm, as noise drowns speech."], "src": "iwb"}
+{"w": "drowse", "pos": "verb", "d": ["To be half asleep; to doze."], "src": "iwb"}
+{"w": "drowsihead", "pos": "noun", "d": ["Archaic: drowsiness."], "src": "iwb"}
+{"w": "drowsihed", "pos": "noun", "d": ["Archaic: drowsiness; a variant of drowsihead."], "src": "iwb"}
+{"w": "drowsily", "pos": "adverb", "d": ["In a drowsy manner; sleepily."], "src": "iwb"}
+{"w": "drowsiness", "pos": "noun", "d": ["The state of being drowsy; sleepiness."], "src": "iwb"}
+{"w": "drowsy", "pos": "adjective", "d": ["Half asleep; sleepy.", "Inducing sleep; soporific."], "src": "iwb"}
+{"w": "drowth", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "droyle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drub", "pos": "verb", "d": ["To beat or thrash soundly.", "To defeat decisively."], "src": "iwb"}
+{"w": "drudge", "pos": "noun", "d": ["A person who does hard, menial, or tedious work."], "src": "iwb"}
+{"w": "drudgery", "pos": "noun", "d": ["Hard, menial, or tedious work."], "src": "iwb"}
+{"w": "drudging box", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drudgingly", "pos": "adverb", "d": ["In the manner of a drudge; with hard, tedious labor."], "src": "iwb"}
+{"w": "druery", "pos": "noun", "d": ["Archaic: love or courtship; gallantry."], "src": "iwb"}
+{"w": "drugster", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "druid", "pos": "noun", "d": ["A priest of the ancient Celtic religion in Britain, Ireland, and Gaul."], "src": "iwb"}
+{"w": "druidess", "pos": "noun", "d": ["A female druid."], "src": "iwb"}
+{"w": "drum major", "pos": "phrase", "d": ["The leader of a marching band, who marches at its head."], "src": "iwb"}
+{"w": "drum winding", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drumble", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drummond light", "pos": "phrase", "d": ["A brilliant white light made by heating a ball of lime, once used in theaters and lighthouses; limelight."], "src": "iwb"}
+{"w": "drunkard", "pos": "noun", "d": ["A person who is habitually drunk."], "src": "iwb"}
+{"w": "drupaceous", "pos": "adjective", "d": ["Bearing drupes; like a stone fruit in structure."], "src": "iwb"}
+{"w": "drupal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "drupe", "pos": "noun", "d": ["A fleshy fruit with a single hard stone containing the seed, such as a peach or cherry."], "src": "iwb"}
+{"w": "drupel", "pos": "noun", "d": ["A small drupe; one of the juicy fruitlets of an aggregate fruit such as a blackberry."], "src": "iwb"}
+{"w": "druse", "pos": "noun", "d": ["A rock cavity lined with small crystals."], "src": "iwb"}
+{"w": "drusy", "pos": "adjective", "d": ["Covered with minute crystals."], "src": "iwb"}
+{"w": "druxey", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "druxy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dry dock", "pos": "phrase", "d": ["A basin that can be emptied of water so that a ship's hull can be repaired."], "src": "iwb"}
+{"w": "dry goods", "pos": "phrase", "d": ["Textiles, clothing, and related merchandise sold by a retailer."], "src": "iwb"}
+{"w": "dry nurse", "pos": "phrase", "d": ["A nurse who cares for a child but does not breastfeed it."], "src": "iwb"}
+{"w": "dry-beat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dry-boned", "pos": "adjective", "d": ["Lean and gaunt, with little flesh on the bones."], "src": "iwb"}
+{"w": "dry-eyed", "pos": "adjective", "d": ["Without tears; not weeping."], "src": "iwb"}
+{"w": "dry-fisted", "pos": "adjective", "d": ["Stingy or tight-fisted; unwilling to spend money."], "src": "iwb"}
+{"w": "dry-rub", "pos": "noun", "d": ["A blend of dry spices and seasonings rubbed onto meat before cooking."], "src": "iwb"}
+{"w": "dry-shod", "pos": "adjective", "d": ["With dry feet; crossing water without wetting one's shoes."], "src": "iwb"}
+{"w": "dry-stone", "pos": "adjective", "d": ["Built of stones fitted together without mortar, as in a dry-stone wall."], "src": "iwb"}
+{"w": "dryad", "pos": "noun", "d": ["In Greek mythology, a nymph who lives in trees or forests."], "src": "iwb"}
+{"w": "dryandra", "pos": "noun", "d": ["A group of flowering shrubs and trees native to Australia, now generally counted as part of the banksia genus."], "src": "iwb"}
+{"w": "dryas", "pos": "noun", "d": ["A genus of small flowering plants that grow in cold arctic and mountain regions, such as mountain avens."], "src": "iwb"}
+{"w": "dryfland", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dryobalanops", "pos": "noun", "d": ["A genus of tall tropical trees in Southeast Asia, including the Borneo camphor tree."], "src": "iwb"}
+{"w": "drysaltery", "pos": "noun", "d": ["The trade or goods of a drysalter, a dealer in dried foods, dyes, and gums."], "src": "iwb"}
+{"w": "dryth", "pos": "noun", "d": ["Drought; a period without rain, in Scots dialect."], "src": "iwb"}
+{"w": "duad", "pos": "noun", "d": ["A pair of two things joined or considered together."], "src": "iwb"}
+{"w": "dualin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "duan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "duarchy", "pos": "noun", "d": ["Government by two rulers acting together."], "src": "iwb"}
+{"w": "dub", "pos": "verb", "d": ["To give a title or nickname to someone, as in dubbing a knight.", "To add a new sound track to a film or recording."], "src": "iwb"}
+{"w": "dubb", "pos": "verb", "d": ["An alternate spelling of dub, meaning to name or confer a title upon."], "src": "iwb"}
+{"w": "dubiety", "pos": "noun", "d": ["Doubt or uncertainty about something."], "src": "iwb"}
+{"w": "dubiosity", "pos": "noun", "d": ["The state of being doubtful; uncertainty."], "src": "iwb"}
+{"w": "dubious", "pos": "adjective", "d": ["Full of doubt; uncertain about something.", "Open to question; of doubtful value."], "src": "iwb"}
+{"w": "dubitable", "pos": "adjective", "d": ["Able to be doubted; open to question."], "src": "iwb"}
+{"w": "dubitancy", "pos": "noun", "d": ["The state of doubting; hesitation in belief."], "src": "iwb"}
+{"w": "dubitate", "pos": "verb", "d": ["To doubt; to hesitate in forming a belief."], "src": "iwb"}
+{"w": "dubitation", "pos": "noun", "d": ["The act of doubting; wavering in judgment."], "src": "iwb"}
+{"w": "dubitative", "pos": "adjective", "d": ["Expressing doubt or uncertainty."], "src": "iwb"}
+{"w": "duboisia", "pos": "noun", "d": ["A genus of Australian shrubs and small trees whose leaves yield alkaloids used in medicine."], "src": "iwb"}
+{"w": "duboisine", "pos": "noun", "d": ["An alkaloid obtained from the duboisia plant, used in medicine."], "src": "iwb"}
+{"w": "ducal", "pos": "adjective", "d": ["Of or relating to a duke or dukedom."], "src": "iwb"}
+{"w": "ducat", "pos": "noun", "d": ["A gold or silver coin once widely used in Europe."], "src": "iwb"}
+{"w": "duces tecum", "pos": "phrase", "d": ["A legal order requiring a person to bring documents or evidence to court."], "src": "iwb"}
+{"w": "duchess", "pos": "noun", "d": ["The wife or widow of a duke, or a woman holding a duke's rank in her own right."], "src": "iwb"}
+{"w": "duchesse lace", "pos": "phrase", "d": ["A fine Belgian bobbin lace with raised floral patterns."], "src": "iwb"}
+{"w": "duchy", "pos": "noun", "d": ["The land or territory ruled by a duke or duchess."], "src": "iwb"}
+{"w": "duck-billed", "pos": "adjective", "d": ["Having a flat, broad bill like that of a duck."], "src": "iwb"}
+{"w": "duck-legged", "pos": "adjective", "d": ["Having short legs that make one waddle like a duck."], "src": "iwb"}
+{"w": "duct", "pos": "noun", "d": ["A tube or channel that carries air, liquid, or another substance."], "src": "iwb"}
+{"w": "ductilimeter", "pos": "noun", "d": ["An instrument for measuring how far a material can be stretched without breaking."], "src": "iwb"}
+{"w": "ductility", "pos": "noun", "d": ["The ability of a metal to be drawn into wire or bent without breaking."], "src": "iwb"}
+{"w": "ductor", "pos": "noun", "d": ["A leader or guide."], "src": "iwb"}
+{"w": "dudder", "pos": "verb", "d": ["To tremble or shake, especially with cold or fear."], "src": "iwb"}
+{"w": "duddery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dudgeon", "pos": "noun", "d": ["A feeling of anger or resentment at being offended, as in the phrase in high dudgeon."], "src": "iwb"}
+{"w": "dudish", "pos": "adjective", "d": ["Dressed or behaving like a dandy; fussily fashionable."], "src": "iwb"}
+{"w": "duds", "pos": "noun", "d": ["Clothes or personal belongings, especially worn ones."], "src": "iwb"}
+{"w": "duel", "pos": "noun", "d": ["A formal fight between two people, fought to settle a dispute."], "src": "iwb"}
+{"w": "duelo", "pos": "noun", "d": ["The Spanish word for a duel."], "src": "iwb"}
+{"w": "duena", "pos": "noun", "d": ["An alternate spelling of duenna."], "src": "iwb"}
+{"w": "duenna", "pos": "noun", "d": ["An older woman who chaperones a young lady, especially in Spanish households."], "src": "iwb"}
+{"w": "duenya", "pos": "noun", "d": ["An alternate spelling of duenna."], "src": "iwb"}
+{"w": "duet", "pos": "noun", "d": ["A piece of music performed by two singers or players."], "src": "iwb"}
+{"w": "duettino", "pos": "noun", "d": ["A short, simple duet."], "src": "iwb"}
+{"w": "duetto", "pos": "noun", "d": ["The Italian word for a duet."], "src": "iwb"}
+{"w": "duff", "pos": "noun", "d": ["The layer of decaying leaves and matter covering forest ground.", "A steamed or boiled pudding, in Scots cooking."], "src": "iwb"}
+{"w": "duffel", "pos": "noun", "d": ["A coarse, heavy woolen cloth."], "src": "iwb"}
+{"w": "duffel bag", "pos": "phrase", "d": ["A large cylindrical cloth bag for carrying gear, closed with a drawstring at the top."], "src": "iwb"}
+{"w": "duffle", "pos": "noun", "d": ["A sturdy fabric bag for carrying belongings; also a spelling of duffel."], "src": "iwb"}
+{"w": "dufrenite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dug", "pos": "verb", "d": ["Past tense of dig."], "src": "iwb"}
+{"w": "dugong", "pos": "noun", "d": ["A large marine mammal related to the manatee, living in warm coastal waters and feeding on sea grass."], "src": "iwb"}
+{"w": "dukhobors", "pos": "noun", "d": ["A Russian Christian sect whose members reject church ritual and military service."], "src": "iwb"}
+{"w": "dukhobortsy", "pos": "noun", "d": ["An alternate spelling of Dukhobors."], "src": "iwb"}
+{"w": "dulcamara", "pos": "noun", "d": ["A climbing plant with purple flowers and red berries, also called bittersweet nightshade."], "src": "iwb"}
+{"w": "dulcamarin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dulce", "pos": "adjective", "d": ["Sweet or gentle, from the Latin word meaning sweet."], "src": "iwb"}
+{"w": "dulcet", "pos": "adjective", "d": ["Sweet and soothing to the ear."], "src": "iwb"}
+{"w": "dulciana", "pos": "noun", "d": ["A soft organ stop that produces a sweet, gentle tone."], "src": "iwb"}
+{"w": "dulcification", "pos": "noun", "d": ["The act of making something sweeter or milder."], "src": "iwb"}
+{"w": "dulcifluous", "pos": "adjective", "d": ["Flowing sweetly, as with honeyed words."], "src": "iwb"}
+{"w": "dulcify", "pos": "verb", "d": ["To make sweet or pleasant; to soften."], "src": "iwb"}
+{"w": "dulciloquy", "pos": "noun", "d": ["Sweet or gentle speech."], "src": "iwb"}
+{"w": "dulcimer", "pos": "noun", "d": ["A musical instrument with strings stretched over a flat box, played by striking them with small hammers."], "src": "iwb"}
+{"w": "dulcinea", "pos": "noun", "d": ["A woman loved and idealized from afar; a sweetheart."], "src": "iwb"}
+{"w": "dulciness", "pos": "noun", "d": ["The quality of being sweet in taste or manner."], "src": "iwb"}
+{"w": "dulcino", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dulcite", "pos": "noun", "d": ["A sweet, crystalline sugar alcohol found in certain plants."], "src": "iwb"}
+{"w": "dulcitude", "pos": "noun", "d": ["Sweetness of taste, sound, or temper."], "src": "iwb"}
+{"w": "dulcorate", "pos": "verb", "d": ["To sweeten."], "src": "iwb"}
+{"w": "dulcoration", "pos": "noun", "d": ["The act of sweetening."], "src": "iwb"}
+{"w": "duledge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dulia", "pos": "noun", "d": ["In theology, the reverence given to saints and angels."], "src": "iwb"}
+{"w": "dull", "pos": "adjective", "d": ["Not sharp; lacking an edge.", "Boring or uninteresting.", "Not bright; dim."], "src": "iwb"}
+{"w": "dull-brained", "pos": "adjective", "d": ["Slow to understand; stupid."], "src": "iwb"}
+{"w": "dull-browed", "pos": "adjective", "d": ["Having a heavy, frowning brow; gloomy or sullen in appearance."], "src": "iwb"}
+{"w": "dull-eyed", "pos": "adjective", "d": ["Having dull or lifeless eyes."], "src": "iwb"}
+{"w": "dull-sighted", "pos": "adjective", "d": ["Having weak or dim eyesight."], "src": "iwb"}
+{"w": "dull-witted", "pos": "adjective", "d": ["Slow in thinking; not sharp-minded."], "src": "iwb"}
+{"w": "dullard", "pos": "noun", "d": ["A stupid or slow-witted person."], "src": "iwb"}
+{"w": "dully", "pos": "adverb", "d": ["In a dull manner; without brightness or interest."], "src": "iwb"}
+{"w": "dulocracy", "pos": "noun", "d": ["Rule by slaves; a government controlled by the servile class."], "src": "iwb"}
+{"w": "dulse", "pos": "noun", "d": ["A dark red seaweed that is dried and eaten as food in coastal regions."], "src": "iwb"}
+{"w": "dulwilly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "duly", "pos": "adverb", "d": ["In the proper way and at the right time."], "src": "iwb"}
+{"w": "dumal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dumb-bell", "pos": "noun", "d": ["A short bar with a weight at each end, lifted for exercise."], "src": "iwb"}
+{"w": "dumb-waiter", "pos": "noun", "d": ["A small lift for carrying food or dishes between floors.", "A stand with shelves for serving food at a table."], "src": "iwb"}
+{"w": "dumbledor", "pos": "noun", "d": ["A bumblebee, in old dialect."], "src": "iwb"}
+{"w": "dumdum bullet", "pos": "phrase", "d": ["A soft-nosed bullet that expands on impact and causes severe wounds."], "src": "iwb"}
+{"w": "dumetose", "pos": "adjective", "d": ["Covered with bushes or thickets."], "src": "iwb"}
+{"w": "dumfound", "pos": "verb", "d": ["To strike with amazement; to leave speechless."], "src": "iwb"}
+{"w": "dummador", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dummerer", "pos": "noun", "d": ["A beggar who pretends to be mute to gain sympathy."], "src": "iwb"}
+{"w": "dummy", "pos": "noun", "d": ["A lifelike model of a person used for display, practice, or testing.", "A person who says nothing, or a silent partner in a card game."], "src": "iwb"}
+{"w": "dumose", "pos": "adjective", "d": ["Bushy; full of shrubs."], "src": "iwb"}
+{"w": "dumous", "pos": "adjective", "d": ["Overgrown with bushes; full of thickets."], "src": "iwb"}
+{"w": "dumpiness", "pos": "noun", "d": ["The quality of being short and thick."], "src": "iwb"}
+{"w": "dumple", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dumpy", "pos": "adjective", "d": ["Short and thick in build; squat."], "src": "iwb"}
+{"w": "dun", "pos": "adjective", "d": ["Of a dull grayish brown color.", "A horse of a dull grayish brown color.", "A creditor who urgently demands payment."], "src": "iwb"}
+{"w": "dunce", "pos": "noun", "d": ["A person who is slow to learn; a blockhead."], "src": "iwb"}
+{"w": "duncery", "pos": "noun", "d": ["Stupidity; dull or foolish behavior."], "src": "iwb"}
+{"w": "duncical", "pos": "adjective", "d": ["Like a dunce; dull-witted."], "src": "iwb"}
+{"w": "duncify", "pos": "verb", "d": ["To make into a dunce; to make dull or stupid."], "src": "iwb"}
+{"w": "duncish", "pos": "adjective", "d": ["Somewhat dull or stupid; like a dunce."], "src": "iwb"}
+{"w": "dunder", "pos": "noun", "d": ["The fermented residue left in a still after rum is distilled, often reused in making more rum."], "src": "iwb"}
+{"w": "dunder-headed", "pos": "adjective", "d": ["Stupid; dull-witted."], "src": "iwb"}
+{"w": "dune", "pos": "noun", "d": ["A mound or ridge of sand heaped up by the wind."], "src": "iwb"}
+{"w": "dung", "pos": "noun", "d": ["The solid waste of animals; manure."], "src": "iwb"}
+{"w": "dungaree", "pos": "noun", "d": ["A coarse cotton cloth, often blue, used for work clothes.", "Work trousers made of denim."], "src": "iwb"}
+{"w": "dungy", "pos": "adjective", "d": ["Smeared with or full of dung; filthy."], "src": "iwb"}
+{"w": "dunker", "pos": "noun", "d": ["A member of a religious group that baptizes by full immersion."], "src": "iwb"}
+{"w": "dunnage", "pos": "noun", "d": ["Loose material packed around cargo to keep it from shifting."], "src": "iwb"}
+{"w": "dunnish", "pos": "adjective", "d": ["Somewhat dun-colored; dull grayish brown."], "src": "iwb"}
+{"w": "dunny", "pos": "noun", "d": ["An outdoor toilet, in Australian slang."], "src": "iwb"}
+{"w": "dunt", "pos": "noun", "d": ["A hard blow or thump, in Scots dialect."], "src": "iwb"}
+{"w": "duodecimfid", "pos": "adjective", "d": ["Divided into twelve parts or lobes."], "src": "iwb"}
+{"w": "duodecimo", "pos": "noun", "d": ["A book size formed by folding a printed sheet into twelve leaves."], "src": "iwb"}
+{"w": "duodenal", "pos": "adjective", "d": ["Of or relating to the duodenum."], "src": "iwb"}
+{"w": "duodenum", "pos": "noun", "d": ["The first part of the small intestine, just below the stomach."], "src": "iwb"}
+{"w": "duograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "duomo", "pos": "noun", "d": ["A cathedral, especially one in Italy."], "src": "iwb"}
+{"w": "dup", "pos": "verb", "d": ["To open, as in opening a door."], "src": "iwb"}
+{"w": "dupe", "pos": "noun", "d": ["A person who is easily tricked or cheated.", "To cheat or deceive someone."], "src": "iwb"}
+{"w": "dupery", "pos": "noun", "d": ["The act of cheating or fooling someone; deception."], "src": "iwb"}
+{"w": "duple", "pos": "adjective", "d": ["Having two parts; double."], "src": "iwb"}
+{"w": "duplication", "pos": "noun", "d": ["The act of copying or making double."], "src": "iwb"}
+{"w": "duplicative", "pos": "adjective", "d": ["Tending to copy or repeat what already exists."], "src": "iwb"}
+{"w": "duplicature", "pos": "noun", "d": ["A doubling or fold, as of a membrane."], "src": "iwb"}
+{"w": "duplicity", "pos": "noun", "d": ["Deceitfulness; saying one thing while intending another."], "src": "iwb"}
+{"w": "dur", "pos": "adjective", "d": ["In music, the German word for major, as in a major key."], "src": "iwb"}
+{"w": "dura", "pos": "noun", "d": ["The tough outer membrane covering the brain and spinal cord, short for dura mater."], "src": "iwb"}
+{"w": "dura mater", "pos": "phrase", "d": ["The tough outermost membrane surrounding the brain and spinal cord."], "src": "iwb"}
+{"w": "durancy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "durative", "pos": "adjective", "d": ["Lasting over time; describing an action that continues."], "src": "iwb"}
+{"w": "dure", "pos": "verb", "d": ["To last or endure."], "src": "iwb"}
+{"w": "durene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "duress", "pos": "noun", "d": ["Force or threats that compel a person to act against their will."], "src": "iwb"}
+{"w": "duressor", "pos": "noun", "d": ["A person who forces another to act by threats or violence."], "src": "iwb"}
+{"w": "durga", "pos": "noun", "d": ["A powerful Hindu goddess worshipped as a warrior who fights evil."], "src": "iwb"}
+{"w": "durian", "pos": "noun", "d": ["A large tropical fruit with a spiky shell and strong smell, prized in Southeast Asia."], "src": "iwb"}
+{"w": "durio", "pos": "noun", "d": ["The genus of tropical trees that bear the durian fruit."], "src": "iwb"}
+{"w": "durometer", "pos": "noun", "d": ["An instrument for measuring the hardness of rubber and similar materials."], "src": "iwb"}
+{"w": "durra", "pos": "noun", "d": ["A variety of grain sorghum grown in hot, dry parts of Africa and Asia."], "src": "iwb"}
+{"w": "durst", "pos": "verb", "d": ["Past tense of dare."], "src": "iwb"}
+{"w": "durukuli", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "durylic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "duse", "pos": "noun", "d": ["A great or leading actress, named after the famous Italian actress Eleonora Duse."], "src": "iwb"}
+{"w": "dusk", "pos": "noun", "d": ["The dim light just after sunset, before night falls."], "src": "iwb"}
+{"w": "duskily", "pos": "adverb", "d": ["In a dim or shadowy manner."], "src": "iwb"}
+{"w": "duskiness", "pos": "noun", "d": ["The quality of being dim or shadowy like dusk."], "src": "iwb"}
+{"w": "dusky", "pos": "adjective", "d": ["Somewhat dark; dim as the light at dusk."], "src": "iwb"}
+{"w": "dust-point", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dustiness", "pos": "noun", "d": ["The state of being covered with or full of dust."], "src": "iwb"}
+{"w": "dusty", "pos": "adjective", "d": ["Covered with dust.", "Resembling dust in color or texture."], "src": "iwb"}
+{"w": "duteous", "pos": "adjective", "d": ["Dutiful; obedient and respectful."], "src": "iwb"}
+{"w": "dutiable", "pos": "adjective", "d": ["Subject to a customs duty on imported goods."], "src": "iwb"}
+{"w": "dutiful", "pos": "adjective", "d": ["Careful to do one's duty; obedient and respectful."], "src": "iwb"}
+{"w": "duumvir", "pos": "noun", "d": ["One of two joint magistrates who shared power in ancient Rome."], "src": "iwb"}
+{"w": "dux", "pos": "noun", "d": ["A leader or chief.", "In Scottish schools, the pupil who ranks first in a class."], "src": "iwb"}
+{"w": "duykerbok", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "duyoung", "pos": "noun", "d": ["An alternate spelling of dugong."], "src": "iwb"}
+{"w": "dvergr", "pos": "noun", "d": ["A dwarf of Norse myth, from the Old Norse word for dwarf."], "src": "iwb"}
+{"w": "dwale", "pos": "noun", "d": ["Deadly nightshade, a poisonous plant with dark berries."], "src": "iwb"}
+{"w": "dwang", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dwarf", "pos": "noun", "d": ["A person or creature of unusually small size."], "src": "iwb"}
+{"w": "dwarfy", "pos": "adjective", "d": ["Like a dwarf; very small."], "src": "iwb"}
+{"w": "dwaul", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dwaule", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dwell", "pos": "verb", "d": ["To live in a place; to reside.", "To think or speak at length about something."], "src": "iwb"}
+{"w": "dwelt", "pos": "verb", "d": ["Past tense of dwell."], "src": "iwb"}
+{"w": "dwindle", "pos": "verb", "d": ["To grow gradually smaller or weaker."], "src": "iwb"}
+{"w": "dwine", "pos": "verb", "d": ["To waste away slowly; to pine or languish."], "src": "iwb"}
+{"w": "dyad", "pos": "noun", "d": ["A pair; two things taken together."], "src": "iwb"}
+{"w": "dyaks", "pos": "noun", "d": ["The native peoples of Borneo."], "src": "iwb"}
+{"w": "dyas", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dye", "pos": "noun", "d": ["A substance used to give color to cloth or other materials.", "To color something with dye."], "src": "iwb"}
+{"w": "dyer", "pos": "noun", "d": ["A person whose trade is dyeing cloth or other materials."], "src": "iwb"}
+{"w": "dyke", "pos": "noun", "d": ["A wall or bank built to keep water out.", "A ditch or water channel."], "src": "iwb"}
+{"w": "dynactinometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dynam", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dynameter", "pos": "noun", "d": ["An instrument for measuring the magnifying power of a telescope."], "src": "iwb"}
+{"w": "dynametrical", "pos": "adjective", "d": ["Relating to the measurement of magnifying power."], "src": "iwb"}
+{"w": "dynamitard", "pos": "noun", "d": ["A person who uses dynamite for violent political acts."], "src": "iwb"}
+{"w": "dynamite", "pos": "noun", "d": ["A powerful explosive made with nitroglycerin."], "src": "iwb"}
+{"w": "dynamitism", "pos": "noun", "d": ["The use of dynamite for violent political ends."], "src": "iwb"}
+{"w": "dynamization", "pos": "noun", "d": ["The act of making something active or forceful."], "src": "iwb"}
+{"w": "dynamo", "pos": "noun", "d": ["A machine that turns motion into electric power.", "A very energetic person."], "src": "iwb"}
+{"w": "dynamo-electric", "pos": "adjective", "d": ["Relating to the production of electricity by motion."], "src": "iwb"}
+{"w": "dynamograph", "pos": "noun", "d": ["An instrument that records force or power."], "src": "iwb"}
+{"w": "dynamometry", "pos": "noun", "d": ["The measurement of force or power, especially muscular strength."], "src": "iwb"}
+{"w": "dynast", "pos": "noun", "d": ["A ruler, especially one who holds power as part of a hereditary dynasty."], "src": "iwb"}
+{"w": "dynasta", "pos": "noun", "d": ["A ruler or sovereign, used as an alternate form of dynast."], "src": "iwb"}
+{"w": "dynastidan", "pos": "noun", "d": ["A member of the Dynastidae, the family of rhinoceros beetles."], "src": "iwb"}
+{"w": "dynasty", "pos": "noun", "d": ["A line of rulers from one family who hold power in succession."], "src": "iwb"}
+{"w": "dyne", "pos": "noun", "d": ["A unit of force in the centimeter-gram-second system, equal to the force that accelerates one gram by one centimeter per second squared."], "src": "iwb"}
+{"w": "dys-", "pos": "prefix", "d": ["A prefix meaning bad, difficult, or abnormal, as in dysfunction."], "src": "iwb"}
+{"w": "dysaesthesia", "pos": "noun", "d": ["An abnormal or impaired sense of touch."], "src": "iwb"}
+{"w": "dyscrasia", "pos": "noun", "d": ["An abnormal or diseased condition of the body, especially an imbalance of the bodily fluids."], "src": "iwb"}
+{"w": "dyscrasite", "pos": "noun", "d": ["A mineral composed of silver and antimony."], "src": "iwb"}
+{"w": "dyscrasy", "pos": "noun", "d": ["An unhealthy or abnormal condition of the body."], "src": "iwb"}
+{"w": "dysenteric", "pos": "adjective", "d": ["Relating to or affected by dysentery."], "src": "iwb"}
+{"w": "dysentery", "pos": "noun", "d": ["A severe intestinal infection marked by bloody diarrhea and abdominal pain."], "src": "iwb"}
+{"w": "dysgenesic", "pos": "adjective", "d": ["Relating to impaired or abnormal development."], "src": "iwb"}
+{"w": "dysgenesis", "pos": "noun", "d": ["Defective or abnormal development of an organ or tissue."], "src": "iwb"}
+{"w": "dyslogistic", "pos": "adjective", "d": ["Expressing disapproval or blame."], "src": "iwb"}
+{"w": "dysluite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dyslysin", "pos": "noun", "d": ["A resinous substance formed from bile acids during digestion."], "src": "iwb"}
+{"w": "dysmenorrhea", "pos": "noun", "d": ["Painful or difficult menstruation."], "src": "iwb"}
+{"w": "dysnomy", "pos": "noun", "d": ["Bad or unjust lawmaking."], "src": "iwb"}
+{"w": "dysodile", "pos": "noun", "d": ["A brownish lignite that burns with a strong odor."], "src": "iwb"}
+{"w": "dyspepsia", "pos": "noun", "d": ["Indigestion marked by discomfort or pain in the upper abdomen."], "src": "iwb"}
+{"w": "dyspepsy", "pos": "noun", "d": ["Indigestion or difficult digestion."], "src": "iwb"}
+{"w": "dyspeptic", "pos": "adjective", "d": ["Relating to or suffering from indigestion."], "src": "iwb"}
+{"w": "dyspeptone", "pos": "noun", "d": ["A substance formed during the peptic digestion of protein."], "src": "iwb"}
+{"w": "dysphagia", "pos": "noun", "d": ["Difficulty or discomfort in swallowing."], "src": "iwb"}
+{"w": "dysphagy", "pos": "noun", "d": ["Difficulty in swallowing or eating."], "src": "iwb"}
+{"w": "dysphonia", "pos": "noun", "d": ["A disorder of the voice that makes speaking difficult."], "src": "iwb"}
+{"w": "dysphony", "pos": "noun", "d": ["A harsh or discordant sound."], "src": "iwb"}
+{"w": "dysphoria", "pos": "noun", "d": ["A state of unease or general dissatisfaction."], "src": "iwb"}
+{"w": "dyspnea", "pos": "noun", "d": ["Difficult or labored breathing."], "src": "iwb"}
+{"w": "dyspnoea", "pos": "noun", "d": ["The British spelling of dyspnea, meaning difficult or labored breathing."], "src": "iwb"}
+{"w": "dyspnoic", "pos": "adjective", "d": ["Relating to or marked by difficult breathing."], "src": "iwb"}
+{"w": "dysprosium", "pos": "noun", "d": ["A soft silvery metallic element with the symbol Dy, used in magnets and lasers."], "src": "iwb"}
+{"w": "dysteleology", "pos": "noun", "d": ["The doctrine that nature shows evidence of purposelessness rather than design."], "src": "iwb"}
+{"w": "dystocia", "pos": "noun", "d": ["Difficult or abnormal labor in childbirth."], "src": "iwb"}
+{"w": "dystome", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "dysuria", "pos": "noun", "d": ["Painful or difficult urination."], "src": "iwb"}
+{"w": "dysuric", "pos": "adjective", "d": ["Relating to or marked by painful urination."], "src": "iwb"}
+{"w": "dysury", "pos": "noun", "d": ["Difficulty or pain in passing urine."], "src": "iwb"}
+{"w": "dzeren", "pos": "noun", "d": ["A small Asian antelope, the Mongolian gazelle."], "src": "iwb"}
+{"w": "dzeron", "pos": "noun", "d": ["A variant form of dzeren, the Mongolian gazelle."], "src": "iwb"}
+{"w": "dziggetai", "pos": "noun", "d": ["A wild ass of Central Asia."], "src": "iwb"}
+{"w": "e-", "pos": "prefix", "d": ["A prefix meaning out of or from, as in eject."], "src": "iwb"}
+{"w": "e-la", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eadish", "pos": "noun", "d": ["A second crop of grass or hay grown after the first cutting."], "src": "iwb"}
+{"w": "eager", "pos": "adjective", "d": ["Feeling or showing keen interest or strong desire."], "src": "iwb"}
+{"w": "eagle-eyed", "pos": "adjective", "d": ["Having exceptionally keen or sharp vision."], "src": "iwb"}
+{"w": "eagle-sighted", "pos": "adjective", "d": ["Having sight as keen as an eagle's."], "src": "iwb"}
+{"w": "eagle-winged", "pos": "adjective", "d": ["Having wings like an eagle."], "src": "iwb"}
+{"w": "eagless", "pos": "noun", "d": ["A female eagle."], "src": "iwb"}
+{"w": "eaglet", "pos": "noun", "d": ["A young eagle."], "src": "iwb"}
+{"w": "eagrass", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eagre", "pos": "noun", "d": ["A tidal wave or bore rushing up a narrow river."], "src": "iwb"}
+{"w": "ealderman", "pos": "noun", "d": ["An Old English nobleman or chief magistrate, an early form of alderman."], "src": "iwb"}
+{"w": "ealdorman", "pos": "noun", "d": ["A high-ranking nobleman in Anglo-Saxon England."], "src": "iwb"}
+{"w": "eale", "pos": "noun", "d": ["An old spelling of ale."], "src": "iwb"}
+{"w": "eame", "pos": "noun", "d": ["A Scottish and northern English word for an uncle."], "src": "iwb"}
+{"w": "ean", "pos": "verb", "d": ["To give birth to lambs, an old form of yean."], "src": "iwb"}
+{"w": "ear-bored", "pos": "adjective", "d": ["Having the ear pierced, especially for wearing earrings."], "src": "iwb"}
+{"w": "ear-minded", "pos": "adjective", "d": ["Disposed to learn or pay attention through hearing."], "src": "iwb"}
+{"w": "ear-piercer", "pos": "noun", "d": ["One who or that which pierces ears."], "src": "iwb"}
+{"w": "ear-shell", "pos": "noun", "d": ["A sea snail of the genus Haliotis, with an ear-shaped shell; an abalone."], "src": "iwb"}
+{"w": "ear-splitting", "pos": "adjective", "d": ["Extremely loud, as if it could split the ears."], "src": "iwb"}
+{"w": "eariness", "pos": "noun", "d": ["The state of being timid or fearful."], "src": "iwb"}
+{"w": "earl marshal", "pos": "phrase", "d": ["A high officer of the English royal household who oversees state ceremonies."], "src": "iwb"}
+{"w": "earldorman", "pos": "noun", "d": ["A variant of ealdorman, an Anglo-Saxon nobleman."], "src": "iwb"}
+{"w": "earles penny", "pos": "phrase", "d": ["Money given as a pledge when sealing a bargain or hiring a servant."], "src": "iwb"}
+{"w": "earliness", "pos": "noun", "d": ["The quality or state of being early."], "src": "iwb"}
+{"w": "earsh", "pos": "noun", "d": ["A field of stubble left after harvest."], "src": "iwb"}
+{"w": "earst", "pos": "adverb", "d": ["An old form of erst, meaning formerly or at first."], "src": "iwb"}
+{"w": "earth flax", "pos": "phrase", "d": ["A fibrous mineral resembling flax, such as asbestos."], "src": "iwb"}
+{"w": "earth shine", "pos": "phrase", "d": ["The faint glow of sunlight reflected from Earth, seen on the dark part of the Moon."], "src": "iwb"}
+{"w": "earth-tongue", "pos": "noun", "d": ["A club-shaped fungus with a tongue-like fruiting body."], "src": "iwb"}
+{"w": "earthen-hearted", "pos": "adjective", "d": ["Hard-hearted or unfeeling, as if made of earth."], "src": "iwb"}
+{"w": "earthiness", "pos": "noun", "d": ["The quality of being natural, coarse, or unrefined."], "src": "iwb"}
+{"w": "earthliness", "pos": "noun", "d": ["The state of being earthly or worldly rather than heavenly."], "src": "iwb"}
+{"w": "earthly-minded", "pos": "adjective", "d": ["Concerned with worldly matters rather than spiritual ones."], "src": "iwb"}
+{"w": "easel", "pos": "noun", "d": ["A frame or stand for holding a canvas while an artist paints."], "src": "iwb"}
+{"w": "easiness", "pos": "noun", "d": ["The quality of being easy; freedom from difficulty or effort."], "src": "iwb"}
+{"w": "east indian", "pos": "phrase", "d": ["A person from the East Indies.", "A ship used in the East India trade."], "src": "iwb"}
+{"w": "east-insular", "pos": "adjective", "d": ["Relating to the eastern islands or the eastern part of an island."], "src": "iwb"}
+{"w": "easter lily", "pos": "phrase", "d": ["A tall white lily that blooms around Easter."], "src": "iwb"}
+{"w": "eastern church", "pos": "phrase", "d": ["The Christian churches of the East, especially the Eastern Orthodox Church."], "src": "iwb"}
+{"w": "easy-chair", "pos": "noun", "d": ["A large comfortable chair with arms."], "src": "iwb"}
+{"w": "easy-going", "pos": "adjective", "d": ["Relaxed and tolerant in manner; not easily upset."], "src": "iwb"}
+{"w": "eath", "pos": "adjective", "d": ["Easy, in Scottish and northern English use."], "src": "iwb"}
+{"w": "eau de cologne", "pos": "phrase", "d": ["A lightly scented perfume originally made in Cologne, Germany."], "src": "iwb"}
+{"w": "eau de vie", "pos": "phrase", "d": ["A clear brandy distilled from fruit."], "src": "iwb"}
+{"w": "eau forte", "pos": "phrase", "d": ["An etching made with nitric acid.", "Nitric acid itself."], "src": "iwb"}
+{"w": "eavedrop", "pos": "verb", "d": ["To listen secretly to others; to eavesdrop."], "src": "iwb"}
+{"w": "eaves", "pos": "noun", "d": ["The overhanging lower edge of a roof."], "src": "iwb"}
+{"w": "ebb", "pos": "verb", "d": ["To flow back or recede, as the tide."], "src": "iwb"}
+{"w": "ebb tide", "pos": "phrase", "d": ["The outgoing tide as it flows back to the sea."], "src": "iwb"}
+{"w": "ebionite", "pos": "noun", "d": ["A member of an early Christian sect that kept Jewish law."], "src": "iwb"}
+{"w": "ebionitism", "pos": "noun", "d": ["The beliefs and practices of the Ebionites."], "src": "iwb"}
+{"w": "eblanin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eblis", "pos": "noun", "d": ["The Islamic name for the devil or Satan."], "src": "iwb"}
+{"w": "ebon", "pos": "adjective", "d": ["Made of or resembling ebony; black."], "src": "iwb"}
+{"w": "ebonite", "pos": "noun", "d": ["A hard black rubber made by vulcanizing rubber with sulfur."], "src": "iwb"}
+{"w": "ebracteate", "pos": "adjective", "d": ["Lacking bracts."], "src": "iwb"}
+{"w": "ebracteolate", "pos": "adjective", "d": ["Lacking bracteoles."], "src": "iwb"}
+{"w": "ebrauke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ebriety", "pos": "noun", "d": ["Drunkenness or intoxication."], "src": "iwb"}
+{"w": "ebrillade", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ebriosity", "pos": "noun", "d": ["The habit of drinking too much; drunkenness."], "src": "iwb"}
+{"w": "ebrious", "pos": "adjective", "d": ["Drunken or intoxicated; given to drink."], "src": "iwb"}
+{"w": "ebulliate", "pos": "verb", "d": ["To boil up or bubble forth."], "src": "iwb"}
+{"w": "ebullience", "pos": "noun", "d": ["Cheerful enthusiasm; high spirits."], "src": "iwb"}
+{"w": "ebulliency", "pos": "noun", "d": ["The state of being ebullient."], "src": "iwb"}
+{"w": "ebullient", "pos": "adjective", "d": ["Overflowing with enthusiasm and excitement."], "src": "iwb"}
+{"w": "ebullioscope", "pos": "noun", "d": ["An instrument for measuring the boiling point of liquids."], "src": "iwb"}
+{"w": "ebullition", "pos": "noun", "d": ["The act of boiling.", "A sudden outburst of feeling."], "src": "iwb"}
+{"w": "eburin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eburnation", "pos": "noun", "d": ["A change of bone into an ivory-like hardness, as in arthritis."], "src": "iwb"}
+{"w": "eburnean", "pos": "adjective", "d": ["Ivory-like; made of or resembling ivory."], "src": "iwb"}
+{"w": "eburnification", "pos": "noun", "d": ["The process of becoming ivory-like in hardness."], "src": "iwb"}
+{"w": "eburnine", "pos": "adjective", "d": ["Of or like ivory."], "src": "iwb"}
+{"w": "ecardines", "pos": "noun", "d": ["A group of brachiopods lacking hinge teeth."], "src": "iwb"}
+{"w": "ecarte", "pos": "noun", "d": ["A two-player card game popular in the nineteenth century."], "src": "iwb"}
+{"w": "ecaudate", "pos": "adjective", "d": ["Lacking a tail."], "src": "iwb"}
+{"w": "ecballium", "pos": "noun", "d": ["A genus of plants including the squirting cucumber."], "src": "iwb"}
+{"w": "ecbasis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ecbatic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ecbole", "pos": "noun", "d": ["A digression in speech.", "A drug that causes abortion."], "src": "iwb"}
+{"w": "ecbolic", "pos": "adjective", "d": ["Tending to cause abortion or to hasten labor."], "src": "iwb"}
+{"w": "ecboline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eccaleobion", "pos": "noun", "d": ["A device for hatching eggs by artificial heat; an incubator."], "src": "iwb"}
+{"w": "ecce homo", "pos": "phrase", "d": ["A representation of Christ wearing the crown of thorns."], "src": "iwb"}
+{"w": "eccentric", "pos": "adjective", "d": ["Deviating from the usual; odd or unconventional."], "src": "iwb"}
+{"w": "ecchymose", "pos": "noun", "d": ["A small bruise or discolored spot under the skin."], "src": "iwb"}
+{"w": "ecchymosis", "pos": "noun", "d": ["The escape of blood into tissue that causes a bruise."], "src": "iwb"}
+{"w": "ecchymotic", "pos": "adjective", "d": ["Relating to or marked by ecchymosis."], "src": "iwb"}
+{"w": "eccle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ecclesia", "pos": "noun", "d": ["An assembly of citizens in ancient Greece.", "The Christian church."], "src": "iwb"}
+{"w": "ecclesial", "pos": "adjective", "d": ["Relating to the church."], "src": "iwb"}
+{"w": "ecclesiarch", "pos": "noun", "d": ["A ruler or high official of a church."], "src": "iwb"}
+{"w": "ecclesiast", "pos": "noun", "d": ["A clergyman or churchman."], "src": "iwb"}
+{"w": "ecclesiasticus", "pos": "noun", "d": ["A book of the Apocrypha containing moral teachings."], "src": "iwb"}
+{"w": "ecclesiological", "pos": "adjective", "d": ["Relating to ecclesiology."], "src": "iwb"}
+{"w": "ecclesiologist", "pos": "noun", "d": ["One who studies church architecture or church organization."], "src": "iwb"}
+{"w": "ecclesiology", "pos": "noun", "d": ["The study of churches, especially their architecture and organization."], "src": "iwb"}
+{"w": "eccritic", "pos": "adjective", "d": ["Promoting excretion."], "src": "iwb"}
+{"w": "ecderon", "pos": "noun", "d": ["The outer skin or cuticle of an animal."], "src": "iwb"}
+{"w": "ecdysis", "pos": "noun", "d": ["The shedding of an outer skin or shell, as by snakes or insects."], "src": "iwb"}
+{"w": "ecgonine", "pos": "noun", "d": ["An alkaloid obtained from cocaine."], "src": "iwb"}
+{"w": "echauguette", "pos": "noun", "d": ["A small turret or watchtower projecting from a fortification."], "src": "iwb"}
+{"w": "eche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "echelon", "pos": "noun", "d": ["A level or rank in an organization.", "A staggered formation of troops or ships."], "src": "iwb"}
+{"w": "echidna", "pos": "noun", "d": ["A spiny egg-laying mammal of Australia.", "A venomous sea snake."], "src": "iwb"}
+{"w": "echidnine", "pos": "noun", "d": ["The venom of certain sea snakes."], "src": "iwb"}
+{"w": "echinate", "pos": "adjective", "d": ["Covered with prickles or spines, like a hedgehog."], "src": "iwb"}
+{"w": "echinid", "pos": "noun", "d": ["A sea urchin."], "src": "iwb"}
+{"w": "echinidan", "pos": "noun", "d": ["A sea urchin."], "src": "iwb"}
+{"w": "echinital", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "echinite", "pos": "noun", "d": ["A fossil sea urchin."], "src": "iwb"}
+{"w": "echinococcus", "pos": "noun", "d": ["A genus of tiny tapeworms that cause hydatid disease."], "src": "iwb"}
+{"w": "echinoderm", "pos": "noun", "d": ["A marine animal with spiny skin, such as a starfish or sea urchin."], "src": "iwb"}
+{"w": "echinodermata", "pos": "noun", "d": ["The phylum of spiny-skinned marine animals."], "src": "iwb"}
+{"w": "echinodermatous", "pos": "adjective", "d": ["Relating to or resembling echinoderms."], "src": "iwb"}
+{"w": "echinoid", "pos": "noun", "d": ["A sea urchin."], "src": "iwb"}
+{"w": "echinoidea", "pos": "noun", "d": ["The class of echinoderms containing the sea urchins."], "src": "iwb"}
+{"w": "echinozoa", "pos": "noun", "d": ["A subphylum of echinoderms including sea urchins and sea cucumbers."], "src": "iwb"}
+{"w": "echinulate", "pos": "adjective", "d": ["Covered with small spines or prickles."], "src": "iwb"}
+{"w": "echinus", "pos": "noun", "d": ["A sea urchin.", "A rounded molding in classical architecture."], "src": "iwb"}
+{"w": "echiuroidea", "pos": "noun", "d": ["An order of spoon worms, marine burrowing worms."], "src": "iwb"}
+{"w": "echometry", "pos": "noun", "d": ["The measurement of distance or depth by means of echoes."], "src": "iwb"}
+{"w": "echon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "echoon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "echopathy", "pos": "noun", "d": ["A disorder marked by the involuntary repetition of the words or actions of others."], "src": "iwb"}
+{"w": "eclair", "pos": "noun", "d": ["An oblong pastry filled with cream and topped with icing."], "src": "iwb"}
+{"w": "eclaircise", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eclaircissement", "pos": "noun", "d": ["An explanation that clears up a difficulty."], "src": "iwb"}
+{"w": "eclampsia", "pos": "noun", "d": ["Convulsions occurring during pregnancy or childbirth."], "src": "iwb"}
+{"w": "eclampsy", "pos": "noun", "d": ["The same as eclampsia."], "src": "iwb"}
+{"w": "eclat", "pos": "noun", "d": ["Brilliant success or striking effect.", "Applause or acclaim."], "src": "iwb"}
+{"w": "eclectic", "pos": "adjective", "d": ["Selecting from various sources; broad and varied in taste."], "src": "iwb"}
+{"w": "eclegm", "pos": "noun", "d": ["A thick medicinal syrup meant to be licked off a spoon."], "src": "iwb"}
+{"w": "ecliptic", "pos": "noun", "d": ["The apparent path of the sun through the sky over the course of a year."], "src": "iwb"}
+{"w": "eclogite", "pos": "noun", "d": ["A dense metamorphic rock rich in garnet and pyroxene."], "src": "iwb"}
+{"w": "eclogue", "pos": "noun", "d": ["A short pastoral poem, usually a dialogue between shepherds."], "src": "iwb"}
+{"w": "economist", "pos": "noun", "d": ["One who studies or writes about economics."], "src": "iwb"}
+{"w": "economization", "pos": "noun", "d": ["The act of economizing or saving resources."], "src": "iwb"}
+{"w": "economize", "pos": "verb", "d": ["To spend or use resources carefully and avoid waste."], "src": "iwb"}
+{"w": "ecorche", "pos": "noun", "d": ["An anatomical figure showing the muscles without the skin."], "src": "iwb"}
+{"w": "ecossaise", "pos": "noun", "d": ["A lively Scottish dance in two-four time."], "src": "iwb"}
+{"w": "ecostate", "pos": "adjective", "d": ["Lacking ribs or veins."], "src": "iwb"}
+{"w": "ecoute", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ecphasis", "pos": "noun", "d": ["A rhetorical figure that expresses strong feeling through exclamation."], "src": "iwb"}
+{"w": "ecphonema", "pos": "noun", "d": ["An exclamatory phrase or utterance."], "src": "iwb"}
+{"w": "ecphoneme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ecphonesis", "pos": "noun", "d": ["An exclamatory sentence expressing strong emotion."], "src": "iwb"}
+{"w": "ecphractic", "pos": "adjective", "d": ["Promoting excretion; opening obstructions."], "src": "iwb"}
+{"w": "ecrasement", "pos": "noun", "d": ["The surgical crushing of tissue, as with an ecraseur."], "src": "iwb"}
+{"w": "ecraseur", "pos": "noun", "d": ["A surgical instrument for crushing and removing tissue."], "src": "iwb"}
+{"w": "ecru", "pos": "adjective", "d": ["Of a light beige or grayish-yellow color."], "src": "iwb"}
+{"w": "ecstasy", "pos": "noun", "d": ["Intense joy or delight.", "A state of trance or rapture."], "src": "iwb"}
+{"w": "ecstatic", "pos": "adjective", "d": ["Feeling or expressing overwhelming joy."], "src": "iwb"}
+{"w": "ect-", "pos": "prefix", "d": ["A prefix meaning outside or external, as in ectoderm."], "src": "iwb"}
+{"w": "ectad", "pos": "adverb", "d": ["Toward the outside or surface of the body."], "src": "iwb"}
+{"w": "ectal", "pos": "adjective", "d": ["Situated on or near the outer surface of a body or organ."], "src": "iwb"}
+{"w": "ectasia", "pos": "noun", "d": ["An abnormal stretching or widening of a hollow organ or blood vessel."], "src": "iwb"}
+{"w": "ectasis", "pos": "noun", "d": ["The abnormal dilation of a hollow organ or vessel.", "In rhetoric, the lengthening of a short syllable."], "src": "iwb"}
+{"w": "ectental", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ecteron", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ectethmoid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ecthlipsis", "pos": "noun", "d": ["The omission or elision of a letter or syllable at the end of a word before a following vowel, as in Latin verse."], "src": "iwb"}
+{"w": "ecthoreum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ecthyma", "pos": "noun", "d": ["A deep skin infection causing painful ulcers covered with thick crusts, resembling severe impetigo."], "src": "iwb"}
+{"w": "ecto-", "pos": "prefix", "d": ["A prefix meaning outside or external, as in ectoderm."], "src": "iwb"}
+{"w": "ectoblast", "pos": "noun", "d": ["The outer layer of cells of an early embryo, which becomes the skin and nervous system."], "src": "iwb"}
+{"w": "ectobronchium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ectocuneriform", "pos": "noun", "d": ["The outermost of the three small wedge-shaped bones of the midfoot; the lateral cuneiform bone."], "src": "iwb"}
+{"w": "ectocuniform", "pos": "noun", "d": ["The outermost of the three small wedge-shaped bones of the midfoot; the lateral cuneiform bone."], "src": "iwb"}
+{"w": "ectocyst", "pos": "noun", "d": ["The tough outer wall or sac enclosing a cyst, as in certain parasites."], "src": "iwb"}
+{"w": "ectoderm", "pos": "noun", "d": ["The outermost layer of cells of an early embryo, which develops into the skin and nervous system."], "src": "iwb"}
+{"w": "ectolecithal", "pos": "adjective", "d": ["Having the yolk located outside or around the egg cell rather than inside it."], "src": "iwb"}
+{"w": "ectomere", "pos": "noun", "d": ["One of the smaller cells formed at the upper pole of a dividing egg."], "src": "iwb"}
+{"w": "ectoparasite", "pos": "noun", "d": ["A parasite that lives on the outer surface of its host, such as a flea or tick."], "src": "iwb"}
+{"w": "ectopia", "pos": "noun", "d": ["The abnormal displacement of an organ or body part from its usual position."], "src": "iwb"}
+{"w": "ectopic", "pos": "adjective", "d": ["Occurring in an abnormal place or position, as of an organ or a pregnancy."], "src": "iwb"}
+{"w": "ectoplasm", "pos": "noun", "d": ["The dense outer layer of the cytoplasm of a cell.", "A supposed ghostly substance said to ooze from a medium during a seance."], "src": "iwb"}
+{"w": "ectoplastic", "pos": "adjective", "d": ["Relating to or resembling the outer layer of a cell's cytoplasm."], "src": "iwb"}
+{"w": "ectoprocta", "pos": "noun", "d": ["A large group of tiny aquatic invertebrates that live in colonies, such as moss animals."], "src": "iwb"}
+{"w": "ectopy", "pos": "noun", "d": ["Displacement of an organ or tissue from its normal position."], "src": "iwb"}
+{"w": "ectorganism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ectosarc", "pos": "noun", "d": ["The dense outer layer of the body of a one-celled animal, just beneath its surface membrane."], "src": "iwb"}
+{"w": "ectosteal", "pos": "adjective", "d": ["Pertaining to the outer surface of a bone."], "src": "iwb"}
+{"w": "ectostosis", "pos": "noun", "d": ["The formation of bony tissue on the outer surface of cartilage."], "src": "iwb"}
+{"w": "ectozoic", "pos": "adjective", "d": ["Living on the outer surface of an animal host; of or relating to ectoparasites."], "src": "iwb"}
+{"w": "ectozooen", "pos": "noun", "d": ["An animal parasite that lives on the outside of its host."], "src": "iwb"}
+{"w": "ectozoon", "pos": "noun", "d": ["An animal parasite that lives on the outside of its host."], "src": "iwb"}
+{"w": "ectropion", "pos": "noun", "d": ["A condition in which the lower eyelid turns outward, exposing the inner surface."], "src": "iwb"}
+{"w": "ectropium", "pos": "noun", "d": ["A condition in which the eyelid turns outward, exposing its inner surface."], "src": "iwb"}
+{"w": "ectrotic", "pos": "adjective", "d": ["Tending to check or abort the development of a disease."], "src": "iwb"}
+{"w": "ectypal", "pos": "adjective", "d": ["Copied from an original; having the character of a reproduction rather than an original."], "src": "iwb"}
+{"w": "ectype", "pos": "noun", "d": ["A copy or reproduction made from an original."], "src": "iwb"}
+{"w": "ectypography", "pos": "noun", "d": ["A method of printing that produces raised letters or figures on the page."], "src": "iwb"}
+{"w": "ecumenic", "pos": "adjective", "d": ["Relating to the whole Christian church or to the movement for unity among churches."], "src": "iwb"}
+{"w": "ecurie", "pos": "noun", "d": ["A stable of racehorses, or a racing team competing under one name."], "src": "iwb"}
+{"w": "eczema", "pos": "noun", "d": ["A skin condition marked by itching, redness, and dry or scaly patches."], "src": "iwb"}
+{"w": "eczematous", "pos": "adjective", "d": ["Relating to or resembling eczema."], "src": "iwb"}
+{"w": "edacious", "pos": "adjective", "d": ["Having a large appetite; given to devouring food."], "src": "iwb"}
+{"w": "edacity", "pos": "noun", "d": ["Greediness in eating; voracity."], "src": "iwb"}
+{"w": "edam", "pos": "noun", "d": ["A mild, round Dutch cheese commonly sold coated in red or yellow wax."], "src": "iwb"}
+{"w": "edam cheese", "pos": "phrase", "d": ["A mild firm cheese from the Netherlands, sold in balls coated with red or yellow wax."], "src": "iwb"}
+{"w": "edda", "pos": "noun", "d": ["One of two ancient Icelandic collections of Norse myths and heroic poetry."], "src": "iwb"}
+{"w": "edder", "pos": "noun", "d": ["A venomous snake; an archaic or dialect form of adder."], "src": "iwb"}
+{"w": "eddic", "pos": "adjective", "d": ["Relating to the Eddas or the ancient poetry of Iceland."], "src": "iwb"}
+{"w": "eddish", "pos": "noun", "d": ["The second growth of grass after mowing; aftermath (dialect)."], "src": "iwb"}
+{"w": "eddoes", "pos": "noun", "d": ["The edible starchy roots of a tropical plant related to taro."], "src": "iwb"}
+{"w": "eddy", "pos": "noun", "d": ["A circular current of water or air moving against the main flow."], "src": "iwb"}
+{"w": "eddy current", "pos": "phrase", "d": ["A loop of electric current induced in a conductor by a changing magnetic field."], "src": "iwb"}
+{"w": "eddy kite", "pos": "phrase", "d": ["A diamond-shaped kite built on a simple cross frame."], "src": "iwb"}
+{"w": "edelweiss", "pos": "noun", "d": ["A small white woolly flower that grows high in the mountains of Europe."], "src": "iwb"}
+{"w": "edema", "pos": "noun", "d": ["Swelling of body tissue caused by fluid collecting beneath the skin."], "src": "iwb"}
+{"w": "edematous", "pos": "adjective", "d": ["Swollen from fluid collecting in the tissues."], "src": "iwb"}
+{"w": "edenite", "pos": "noun", "d": ["A dark mineral of the amphibole group found in volcanic rocks."], "src": "iwb"}
+{"w": "edenized", "pos": "adjective", "d": ["Made like Eden; made delightful or paradisiacal."], "src": "iwb"}
+{"w": "edental", "pos": "adjective", "d": ["Toothless; without teeth."], "src": "iwb"}
+{"w": "edentata", "pos": "noun", "d": ["An order of mammals lacking front teeth, including anteaters, sloths, and armadillos."], "src": "iwb"}
+{"w": "edentate", "pos": "adjective", "d": ["Toothless; belonging to the order Edentata."], "src": "iwb"}
+{"w": "edentation", "pos": "noun", "d": ["The loss or absence of teeth."], "src": "iwb"}
+{"w": "edentulous", "pos": "adjective", "d": ["Having no teeth."], "src": "iwb"}
+{"w": "edgeways", "pos": "adverb", "d": ["With the edge forward; sideways."], "src": "iwb"}
+{"w": "edgy", "pos": "adjective", "d": ["Tense and nervous; on edge.", "At the forefront of a trend; daringly unconventional."], "src": "iwb"}
+{"w": "edh", "pos": "noun", "d": ["A letter of the Old English and Icelandic alphabets representing the th sound, written like a crossed d."], "src": "iwb"}
+{"w": "edibility", "pos": "noun", "d": ["The quality of being fit to eat."], "src": "iwb"}
+{"w": "edible", "pos": "adjective", "d": ["Fit to be eaten; safe for food."], "src": "iwb"}
+{"w": "edict", "pos": "noun", "d": ["An official order or proclamation issued by a person in authority."], "src": "iwb"}
+{"w": "edificant", "pos": "adjective", "d": ["Building up morally or spiritually; edifying."], "src": "iwb"}
+{"w": "edification", "pos": "noun", "d": ["The act of improving someone morally or intellectually through instruction."], "src": "iwb"}
+{"w": "edificatory", "pos": "adjective", "d": ["Tending to build up or instruct morally."], "src": "iwb"}
+{"w": "edifice", "pos": "noun", "d": ["A large, impressive building."], "src": "iwb"}
+{"w": "edificial", "pos": "adjective", "d": ["Relating to buildings or to the act of building."], "src": "iwb"}
+{"w": "edify", "pos": "verb", "d": ["To instruct or improve someone morally or intellectually."], "src": "iwb"}
+{"w": "edile", "pos": "noun", "d": ["A Roman magistrate in charge of public buildings, markets, and games."], "src": "iwb"}
+{"w": "edingtonite", "pos": "noun", "d": ["A rare mineral of the zeolite group found in cavities of igneous rock."], "src": "iwb"}
+{"w": "edition de luxe", "pos": "phrase", "d": ["A deluxe edition; a specially fine or luxurious printing of a book."], "src": "iwb"}
+{"w": "editress", "pos": "noun", "d": ["A woman who edits; a female editor."], "src": "iwb"}
+{"w": "edituate", "pos": "verb", "d": ["To give out or put forth; to publish (obsolete)."], "src": "iwb"}
+{"w": "edomite", "pos": "noun", "d": ["A descendant of Esau; an inhabitant of the ancient kingdom of Edom."], "src": "iwb"}
+{"w": "edriophthalma", "pos": "noun", "d": ["A former group of crustaceans having eyes fixed to the head rather than on stalks."], "src": "iwb"}
+{"w": "edriophthalmous", "pos": "adjective", "d": ["Having eyes that are fixed rather than set on stalks."], "src": "iwb"}
+{"w": "educability", "pos": "noun", "d": ["The capacity to be educated."], "src": "iwb"}
+{"w": "educate", "pos": "verb", "d": ["To teach or train in knowledge and skills; to provide with schooling."], "src": "iwb"}
+{"w": "educative", "pos": "adjective", "d": ["Serving to educate; instructive."], "src": "iwb"}
+{"w": "educator", "pos": "noun", "d": ["A person who teaches; a teacher or instructor."], "src": "iwb"}
+{"w": "educe", "pos": "verb", "d": ["To draw out or bring forth; to elicit."], "src": "iwb"}
+{"w": "educible", "pos": "adjective", "d": ["Capable of being drawn out or deduced."], "src": "iwb"}
+{"w": "educt", "pos": "noun", "d": ["Something drawn out or educed; a substance obtained by extraction."], "src": "iwb"}
+{"w": "eductor", "pos": "noun", "d": ["One that educes; a device that draws fluid along by suction, such as a jet pump."], "src": "iwb"}
+{"w": "edulcorant", "pos": "noun", "d": ["A substance that sweetens; a sweetening agent."], "src": "iwb"}
+{"w": "edulcorate", "pos": "verb", "d": ["To sweeten; to free from bitter or harsh qualities."], "src": "iwb"}
+{"w": "edulcoration", "pos": "noun", "d": ["The act of sweetening or purifying."], "src": "iwb"}
+{"w": "edulcorative", "pos": "adjective", "d": ["Tending to sweeten or purify."], "src": "iwb"}
+{"w": "edulcorator", "pos": "noun", "d": ["One who or that which sweetens."], "src": "iwb"}
+{"w": "edulious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eek", "pos": "interjection", "d": ["An exclamation of surprise or fright."], "src": "iwb"}
+{"w": "eeke", "pos": "adverb", "d": ["Also; in addition (an obsolete or dialect form of eke)."], "src": "iwb"}
+{"w": "eel", "pos": "noun", "d": ["A long, slender fish with a snakelike body and smooth, scaleless skin."], "src": "iwb"}
+{"w": "eel-mother", "pos": "phrase", "d": ["A live-bearing fish of northern seas, also called the viviparous blenny."], "src": "iwb"}
+{"w": "een", "pos": "noun", "d": ["The eyes (Scots plural of ee)."], "src": "iwb"}
+{"w": "eerie", "pos": "adjective", "d": ["Strange and frightening in a way that causes uneasiness."], "src": "iwb"}
+{"w": "eerily", "pos": "adverb", "d": ["In a strange, unsettling way."], "src": "iwb"}
+{"w": "eerisome", "pos": "adjective", "d": ["Causing dread or uneasiness; eerie (Scots)."], "src": "iwb"}
+{"w": "eery", "pos": "adjective", "d": ["Strange and frightening; causing uneasiness."], "src": "iwb"}
+{"w": "eet", "pos": "verb", "d": ["To eat (a dialect or archaic form)."], "src": "iwb"}
+{"w": "effable", "pos": "adjective", "d": ["Capable of being expressed in words."], "src": "iwb"}
+{"w": "efface", "pos": "verb", "d": ["To erase or wipe out; to make indistinct."], "src": "iwb"}
+{"w": "effascinate", "pos": "verb", "d": ["To bewitch or enchant, as by a spell."], "src": "iwb"}
+{"w": "effascination", "pos": "noun", "d": ["The act of bewitching; enchantment."], "src": "iwb"}
+{"w": "effector", "pos": "noun", "d": ["A muscle, gland, or other organ that carries out a response to a nerve signal."], "src": "iwb"}
+{"w": "effectual", "pos": "adjective", "d": ["Producing the desired effect; effective."], "src": "iwb"}
+{"w": "effectuate", "pos": "verb", "d": ["To bring about; to put into effect."], "src": "iwb"}
+{"w": "effectuation", "pos": "noun", "d": ["The act of bringing about or putting into effect."], "src": "iwb"}
+{"w": "effectuose", "pos": "adjective", "d": ["Producing effects; efficacious."], "src": "iwb"}
+{"w": "effectuous", "pos": "adjective", "d": ["Producing effects; efficacious."], "src": "iwb"}
+{"w": "effeminacy", "pos": "noun", "d": ["The quality of being effeminate; unmanly softness or delicacy."], "src": "iwb"}
+{"w": "effeminate", "pos": "adjective", "d": ["Having traits considered typical of women rather than men; unmanly."], "src": "iwb"}
+{"w": "effemination", "pos": "noun", "d": ["The process of becoming effeminate."], "src": "iwb"}
+{"w": "effeminize", "pos": "verb", "d": ["To make effeminate."], "src": "iwb"}
+{"w": "effendi", "pos": "noun", "d": ["A title of respect for an educated man or official in the Ottoman Empire."], "src": "iwb"}
+{"w": "efferent", "pos": "adjective", "d": ["Carrying outward from a central point, as nerves carrying signals from the brain."], "src": "iwb"}
+{"w": "efferous", "pos": "adjective", "d": ["Wild; savage; fierce."], "src": "iwb"}
+{"w": "effervesce", "pos": "verb", "d": ["To bubble and fizz; to give off gas in tiny bubbles."], "src": "iwb"}
+{"w": "effervescence", "pos": "noun", "d": ["The bubbling and fizzing of a liquid giving off gas.", "Lively high spirits; vivacity."], "src": "iwb"}
+{"w": "effervescency", "pos": "noun", "d": ["The quality of bubbling and fizzing; lively high spirits."], "src": "iwb"}
+{"w": "effervescent", "pos": "adjective", "d": ["Bubbling and fizzing; lively and high-spirited."], "src": "iwb"}
+{"w": "effervescible", "pos": "adjective", "d": ["Capable of effervescing; able to bubble and fizz."], "src": "iwb"}
+{"w": "effervescive", "pos": "adjective", "d": ["Tending to bubble and fizz; effervescent."], "src": "iwb"}
+{"w": "effet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "effete", "pos": "adjective", "d": ["Worn out and no longer capable of effective action; overrefined and weak."], "src": "iwb"}
+{"w": "efficacity", "pos": "noun", "d": ["The power to produce an effect; efficacy."], "src": "iwb"}
+{"w": "efficacy", "pos": "noun", "d": ["The ability to produce a desired result; effectiveness."], "src": "iwb"}
+{"w": "efficience", "pos": "noun", "d": ["The quality of being efficient."], "src": "iwb"}
+{"w": "effierce", "pos": "verb", "d": ["To make fierce."], "src": "iwb"}
+{"w": "effigiate", "pos": "verb", "d": ["To form into an image or likeness; to portray."], "src": "iwb"}
+{"w": "effigy", "pos": "noun", "d": ["A likeness or image of a person, especially one made to be burned or hanged in protest."], "src": "iwb"}
+{"w": "efflagitate", "pos": "verb", "d": ["To demand urgently and clamorously."], "src": "iwb"}
+{"w": "efflate", "pos": "verb", "d": ["To blow out; to breathe out."], "src": "iwb"}
+{"w": "efflation", "pos": "noun", "d": ["The act of blowing out or breathing forth."], "src": "iwb"}
+{"w": "effloresce", "pos": "verb", "d": ["To burst into flower; to bloom.", "In chemistry, to lose moisture and turn into a powdery crust."], "src": "iwb"}
+{"w": "efflorescence", "pos": "noun", "d": ["The process of flowering; full bloom.", "A powdery crust that forms on a surface as salts or moisture come out of it."], "src": "iwb"}
+{"w": "efflorescency", "pos": "noun", "d": ["The process of flowering; a powdery crust forming on a surface."], "src": "iwb"}
+{"w": "efflorescent", "pos": "adjective", "d": ["Flowering; blooming.", "Forming a powdery crust through the loss of moisture."], "src": "iwb"}
+{"w": "efflower", "pos": "verb", "d": ["To deprive of flowers.", "To blossom or burst into flower."], "src": "iwb"}
+{"w": "effluence", "pos": "noun", "d": ["The act of flowing out; that which flows out."], "src": "iwb"}
+{"w": "effluency", "pos": "noun", "d": ["The quality of flowing out."], "src": "iwb"}
+{"w": "effluent", "pos": "noun", "d": ["Waste liquid or sewage discharged from a factory, plant, or other source."], "src": "iwb"}
+{"w": "effluviable", "pos": "adjective", "d": ["Capable of giving off effluvia or noxious exhalations."], "src": "iwb"}
+{"w": "effluvial", "pos": "adjective", "d": ["Relating to effluvia; of or like noxious exhalations."], "src": "iwb"}
+{"w": "effluviate", "pos": "verb", "d": ["To give off effluvia; to exhale vapors."], "src": "iwb"}
+{"w": "effluvium", "pos": "noun", "d": ["A noxious smell or vapor, especially from decaying matter."], "src": "iwb"}
+{"w": "efflux", "pos": "noun", "d": ["The flowing out of something; a stream flowing outward."], "src": "iwb"}
+{"w": "effodient", "pos": "adjective", "d": ["Digging out; burrowing."], "src": "iwb"}
+{"w": "efforce", "pos": "verb", "d": ["To force out; to compel."], "src": "iwb"}
+{"w": "efform", "pos": "verb", "d": ["To form or shape; to fashion."], "src": "iwb"}
+{"w": "effossion", "pos": "noun", "d": ["The act of digging out."], "src": "iwb"}
+{"w": "effranchise", "pos": "verb", "d": ["To set free; to enfranchise (an obsolete spelling)."], "src": "iwb"}
+{"w": "effray", "pos": "verb", "d": ["To frighten; to scare."], "src": "iwb"}
+{"w": "effrenation", "pos": "noun", "d": ["Unrestrained license; wild lawlessness."], "src": "iwb"}
+{"w": "effront", "pos": "verb", "d": ["To make shameless or bold."], "src": "iwb"}
+{"w": "effrontery", "pos": "noun", "d": ["Shameless boldness; impudence."], "src": "iwb"}
+{"w": "effrontit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "effrontuously", "pos": "adverb", "d": ["In a shamelessly bold manner."], "src": "iwb"}
+{"w": "effulge", "pos": "verb", "d": ["To shine forth; to radiate light."], "src": "iwb"}
+{"w": "effulgence", "pos": "noun", "d": ["Brilliant shining; radiance."], "src": "iwb"}
+{"w": "effulgent", "pos": "adjective", "d": ["Shining brightly; radiant."], "src": "iwb"}
+{"w": "effumability", "pos": "noun", "d": ["The quality of being able to be exhaled or breathed out."], "src": "iwb"}
+{"w": "effume", "pos": "verb", "d": ["To breathe out; to exhale in vapor."], "src": "iwb"}
+{"w": "effund", "pos": "verb", "d": ["To pour out; to shed."], "src": "iwb"}
+{"w": "effuse", "pos": "verb", "d": ["To pour out freely; to spread out."], "src": "iwb"}
+{"w": "effusion", "pos": "noun", "d": ["A pouring out; an unrestrained expression of feeling.", "In medicine, the escape of fluid into a body cavity."], "src": "iwb"}
+{"w": "effusive", "pos": "adjective", "d": ["Expressing feelings freely and warmly; overflowing with enthusiasm."], "src": "iwb"}
+{"w": "efreet", "pos": "noun", "d": ["A powerful evil spirit or demon in Arabian mythology."], "src": "iwb"}
+{"w": "eft", "pos": "noun", "d": ["A newt, especially a young newt in its land-dwelling stage."], "src": "iwb"}
+{"w": "egad", "pos": "interjection", "d": ["A mild exclamation of surprise."], "src": "iwb"}
+{"w": "egal", "pos": "adjective", "d": ["Equal; having the same rights or standing as another."], "src": "iwb"}
+{"w": "egean", "pos": "adjective", "d": ["Of or relating to the Aegean Sea."], "src": "iwb"}
+{"w": "egence", "pos": "noun", "d": ["Need; want; poverty."], "src": "iwb"}
+{"w": "eger", "pos": "noun", "d": ["A tidal bore; a high wave rushing up an estuary against the current."], "src": "iwb"}
+{"w": "egerminate", "pos": "verb", "d": ["To sprout forth; to germinate."], "src": "iwb"}
+{"w": "egest", "pos": "verb", "d": ["To discharge from the body; to excrete."], "src": "iwb"}
+{"w": "egesta", "pos": "noun", "d": ["Excrement; matter discharged from the body."], "src": "iwb"}
+{"w": "egg squash", "pos": "phrase", "d": ["A small round summer squash, shaped like an egg."], "src": "iwb"}
+{"w": "egg-bird", "pos": "phrase", "d": ["A seabird whose eggs are gathered for food, such as a tern or gull."], "src": "iwb"}
+{"w": "egg-cup", "pos": "phrase", "d": ["A small cup used for holding a boiled egg."], "src": "iwb"}
+{"w": "egg-glass", "pos": "phrase", "d": ["A small hourglass used to time the boiling of an egg."], "src": "iwb"}
+{"w": "egg-shaped", "pos": "phrase", "d": ["Having the shape of an egg; oval with one end larger than the other."], "src": "iwb"}
+{"w": "eggar", "pos": "noun", "d": ["A person who gathers eggs; a dealer in eggs."], "src": "iwb"}
+{"w": "eggement", "pos": "noun", "d": ["Incitement; the act of urging someone on."], "src": "iwb"}
+{"w": "eggery", "pos": "noun", "d": ["A place where eggs are kept or sold; an egg farm."], "src": "iwb"}
+{"w": "eggler", "pos": "noun", "d": ["A peddler of eggs."], "src": "iwb"}
+{"w": "eghen", "pos": "noun", "d": ["The eyes (a Scots plural form)."], "src": "iwb"}
+{"w": "egilopical", "pos": "adjective", "d": ["Relating to egilops, an ulcer at the inner corner of the eye."], "src": "iwb"}
+{"w": "egilops", "pos": "noun", "d": ["An ulcer or tumor at the inner corner of the eye.", "A genus of wild grasses related to wheat, including wild oats."], "src": "iwb"}
+{"w": "eglandulose", "pos": "adjective", "d": ["Without glands; lacking glands."], "src": "iwb"}
+{"w": "eglandulous", "pos": "adjective", "d": ["Without glands; lacking glands."], "src": "iwb"}
+{"w": "eglantine", "pos": "noun", "d": ["The sweetbrier rose, a fragrant wild rose of Europe."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

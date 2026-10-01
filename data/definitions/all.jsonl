@@ -21416,6 +21416,806 @@
 {"w": "endothelial", "pos": "adjective", "d": ["Relating to the endothelium."], "src": "iwb"}
 {"w": "endothelium", "pos": "noun", "d": ["The thin layer of cells lining blood vessels."], "src": "iwb"}
 {"w": "endotheloid", "pos": "adjective", "d": ["Resembling the endothelium."], "src": "iwb"}
+{"w": "endothermic", "pos": "adjective", "d": ["Absorbing heat from the surroundings.", "In chemistry, describing a reaction that takes in heat energy."], "src": "iwb"}
+{"w": "endothorax", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "endow", "pos": "verb", "d": ["To give money or property to a school or charity as a permanent source of income.", "To provide someone with a quality or ability."], "src": "iwb"}
+{"w": "endozoa", "pos": "noun", "d": ["Organisms that live inside the body of a host, especially internal parasites."], "src": "iwb"}
+{"w": "endrudge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "endue", "pos": "verb", "d": ["To provide with a quality, power, or ability."], "src": "iwb"}
+{"w": "endurably", "pos": "adverb", "d": ["In a way that can be endured or tolerated."], "src": "iwb"}
+{"w": "endurance", "pos": "noun", "d": ["The ability to keep going through hardship, pain, or fatigue over time.", "The fact of lasting or continuing to exist."], "src": "iwb"}
+{"w": "endurant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "endways", "pos": "adverb", "d": ["With the end pointing forward.", "Standing upright on end."], "src": "iwb"}
+{"w": "endyma", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "endysis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enecate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eneid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enema", "pos": "noun", "d": ["Liquid injected into the rectum to clear out the bowels."], "src": "iwb"}
+{"w": "enepidermic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "energetic", "pos": "adjective", "d": ["Full of energy; active and lively."], "src": "iwb"}
+{"w": "energic", "pos": "adjective", "d": ["Relating to energy; showing or producing energy."], "src": "iwb"}
+{"w": "energize", "pos": "verb", "d": ["To give energy or liveliness to.", "To supply with electric power."], "src": "iwb"}
+{"w": "energumen", "pos": "noun", "d": ["A person believed to be possessed by an evil spirit.", "A fanatic or zealot."], "src": "iwb"}
+{"w": "enervate", "pos": "verb", "d": ["To drain of energy or strength; to weaken."], "src": "iwb"}
+{"w": "enervation", "pos": "noun", "d": ["The state of being drained of energy or weakened."], "src": "iwb"}
+{"w": "enervative", "pos": "adjective", "d": ["Tending to weaken or drain of energy."], "src": "iwb"}
+{"w": "enerve", "pos": "verb", "d": ["To weaken or drain of strength or energy."], "src": "iwb"}
+{"w": "enervous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enface", "pos": "verb", "d": ["To write or print across the face of a document or envelope."], "src": "iwb"}
+{"w": "enfamish", "pos": "verb", "d": ["To deprive of food; to starve."], "src": "iwb"}
+{"w": "enfect", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enfeeble", "pos": "verb", "d": ["To make weak or feeble."], "src": "iwb"}
+{"w": "enfeeblish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enfeloned", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enfeoff", "pos": "verb", "d": ["To grant land to someone as a feudal fief."], "src": "iwb"}
+{"w": "enfester", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enfetter", "pos": "verb", "d": ["To put in fetters; to bind or restrain."], "src": "iwb"}
+{"w": "enfever", "pos": "verb", "d": ["To throw into a fever; to excite or inflame."], "src": "iwb"}
+{"w": "enfierce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enfilade", "pos": "noun", "d": ["Gunfire directed along the length of a line of troops.", "In architecture, a series of rooms with doors aligned to form a long vista."], "src": "iwb"}
+{"w": "enfiled", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enfire", "pos": "verb", "d": ["To set on fire; to inflame with passion."], "src": "iwb"}
+{"w": "enflesh", "pos": "verb", "d": ["To clothe with flesh; to give bodily form to."], "src": "iwb"}
+{"w": "enfleurage", "pos": "noun", "d": ["A method of extracting perfume from flowers by pressing them into purified fat."], "src": "iwb"}
+{"w": "enflower", "pos": "verb", "d": ["To cover or decorate with flowers."], "src": "iwb"}
+{"w": "enfold", "pos": "verb", "d": ["To wrap up or enclose in folds.", "To embrace or clasp."], "src": "iwb"}
+{"w": "enforce", "pos": "verb", "d": ["To compel people to obey a law or rule."], "src": "iwb"}
+{"w": "enforcible", "pos": "adjective", "d": ["Capable of being enforced."], "src": "iwb"}
+{"w": "enforcive", "pos": "adjective", "d": ["Serving to enforce; having enforcing power."], "src": "iwb"}
+{"w": "enforest", "pos": "verb", "d": ["To plant with trees; to turn into forest."], "src": "iwb"}
+{"w": "enform", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enfouldred", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enframe", "pos": "verb", "d": ["To put in a frame; to surround or enclose."], "src": "iwb"}
+{"w": "enfranchise", "pos": "verb", "d": ["To give someone the right to vote.", "To set free from bondage or servitude."], "src": "iwb"}
+{"w": "enfree", "pos": "verb", "d": ["To make free; to liberate."], "src": "iwb"}
+{"w": "enfreeze", "pos": "verb", "d": ["To freeze; to congeal with cold."], "src": "iwb"}
+{"w": "enfroward", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "engallant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "engaol", "pos": "verb", "d": ["To put in jail; to imprison."], "src": "iwb"}
+{"w": "engarboil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "engarland", "pos": "verb", "d": ["To deck with a garland; to crown with flowers."], "src": "iwb"}
+{"w": "engarrison", "pos": "verb", "d": ["To supply with a garrison; to station soldiers in for defense."], "src": "iwb"}
+{"w": "engastrimuth", "pos": "noun", "d": ["A ventriloquist; one who speaks as if from the belly."], "src": "iwb"}
+{"w": "engender", "pos": "verb", "d": ["To cause or give rise to.", "To beget or produce offspring."], "src": "iwb"}
+{"w": "engendrure", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "engild", "pos": "verb", "d": ["To cover with a thin layer of gold; to gild."], "src": "iwb"}
+{"w": "engine-sized", "pos": "adjective", "d": ["As large as an engine; big and heavy."], "src": "iwb"}
+{"w": "engine-type generator", "pos": "phrase", "d": ["An electric generator powered by an internal-combustion engine."], "src": "iwb"}
+{"w": "engineer corps", "pos": "phrase", "d": ["A military branch of engineers who build bridges, roads, and fortifications."], "src": "iwb"}
+{"w": "enginery", "pos": "noun", "d": ["Engines and machinery taken together."], "src": "iwb"}
+{"w": "enginous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "engird", "pos": "verb", "d": ["To encircle; to surround as with a girdle."], "src": "iwb"}
+{"w": "engirdle", "pos": "verb", "d": ["To surround with a girdle; to encircle."], "src": "iwb"}
+{"w": "engirt", "pos": "adjective", "d": ["Girt about; encircled; surrounded."], "src": "iwb"}
+{"w": "engiscope", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "englaimed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "engle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "englishry", "pos": "noun", "d": ["The English people as a body.", "English character or quality."], "src": "iwb"}
+{"w": "engloom", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "englue", "pos": "verb", "d": ["To join with glue; to stick fast."], "src": "iwb"}
+{"w": "englut", "pos": "verb", "d": ["To swallow greedily; to gorge."], "src": "iwb"}
+{"w": "engore", "pos": "verb", "d": ["To pierce; to stain with blood."], "src": "iwb"}
+{"w": "engorge", "pos": "verb", "d": ["To swallow greedily or in large amounts.", "To congest with blood or fluid."], "src": "iwb"}
+{"w": "engouled", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "engoulee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "engraff", "pos": "verb", "d": ["To graft; to insert or implant."], "src": "iwb"}
+{"w": "engraft", "pos": "verb", "d": ["To graft a shoot or bud onto another plant.", "To fix firmly, as an idea in the mind."], "src": "iwb"}
+{"w": "engrail", "pos": "verb", "d": ["To border with a wavy or indented edge, as in heraldry."], "src": "iwb"}
+{"w": "engrain", "pos": "verb", "d": ["To dye deeply so the color holds fast.", "To fix firmly in the mind or character."], "src": "iwb"}
+{"w": "engrapple", "pos": "verb", "d": ["To grapple with; to seize and hold fast."], "src": "iwb"}
+{"w": "engrasp", "pos": "verb", "d": ["To take hold of; to grasp."], "src": "iwb"}
+{"w": "engrave", "pos": "verb", "d": ["To carve a design or lettering into a hard surface.", "To fix deeply in the memory."], "src": "iwb"}
+{"w": "engravery", "pos": "noun", "d": ["The art or practice of engraving."], "src": "iwb"}
+{"w": "engregge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "engrieve", "pos": "verb", "d": ["To cause grief to; to afflict with sorrow."], "src": "iwb"}
+{"w": "engross", "pos": "verb", "d": ["To occupy the full attention of; to absorb.", "To monopolize or take up entirely.", "To write out in large, clear letters."], "src": "iwb"}
+{"w": "enguard", "pos": "verb", "d": ["To guard; to keep in a state of defense."], "src": "iwb"}
+{"w": "engulf", "pos": "verb", "d": ["To swallow up completely; to overwhelm."], "src": "iwb"}
+{"w": "engyn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enhalo", "pos": "verb", "d": ["To surround with a halo; to glorify."], "src": "iwb"}
+{"w": "enharbor", "pos": "verb", "d": ["To receive into a harbor; to give shelter to."], "src": "iwb"}
+{"w": "enharden", "pos": "verb", "d": ["To make hard; to harden."], "src": "iwb"}
+{"w": "enharmonic", "pos": "adjective", "d": ["In music, describing two notes that sound the same pitch but are written differently, as F sharp and G flat."], "src": "iwb"}
+{"w": "enhearten", "pos": "verb", "d": ["To give courage to; to encourage."], "src": "iwb"}
+{"w": "enhedge", "pos": "verb", "d": ["To enclose with a hedge; to shut in."], "src": "iwb"}
+{"w": "enhort", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enhunger", "pos": "verb", "d": ["To make hungry; to deprive of food."], "src": "iwb"}
+{"w": "enhydros", "pos": "noun", "d": ["A hollow stone, such as an agate, containing water within its cavity."], "src": "iwb"}
+{"w": "enhydrous", "pos": "adjective", "d": ["Containing water, especially water enclosed within a mineral."], "src": "iwb"}
+{"w": "enigma", "pos": "noun", "d": ["Something puzzling, mysterious, or hard to understand."], "src": "iwb"}
+{"w": "enigmatist", "pos": "noun", "d": ["A maker or solver of enigmas; a puzzler."], "src": "iwb"}
+{"w": "enigmatize", "pos": "verb", "d": ["To make enigmatic; to speak or write in riddles."], "src": "iwb"}
+{"w": "enigmatography", "pos": "noun", "d": ["The art or practice of composing enigmas, riddles, and puzzles."], "src": "iwb"}
+{"w": "enigmatology", "pos": "noun", "d": ["The study of enigmas, riddles, and puzzling statements."], "src": "iwb"}
+{"w": "enisled", "pos": "adjective", "d": ["Made into or situated as an island; isolated like an island."], "src": "iwb"}
+{"w": "enjail", "pos": "verb", "d": ["To put into jail; to imprison."], "src": "iwb"}
+{"w": "enjoin", "pos": "verb", "d": ["To order or command with authority.", "To forbid by a court injunction."], "src": "iwb"}
+{"w": "enkennel", "pos": "verb", "d": ["To shut up or confine in a kennel."], "src": "iwb"}
+{"w": "enkerchiefed", "pos": "adjective", "d": ["Covered or adorned with a kerchief."], "src": "iwb"}
+{"w": "enkindle", "pos": "verb", "d": ["To set on fire; to ignite.", "To stir up or excite, as an emotion."], "src": "iwb"}
+{"w": "enlace", "pos": "verb", "d": ["To bind or fasten with a lace.", "To encircle or entwine."], "src": "iwb"}
+{"w": "enlard", "pos": "verb", "d": ["To baste, grease, or cover with lard."], "src": "iwb"}
+{"w": "enlay", "pos": "verb", "d": ["To lay or set material into a surface as inlay."], "src": "iwb"}
+{"w": "enlengthen", "pos": "verb", "d": ["To make longer; to extend in length."], "src": "iwb"}
+{"w": "enleven", "pos": "verb", "d": ["To make eleven; to raise to the number eleven."], "src": "iwb"}
+{"w": "enlight", "pos": "verb", "d": ["To give light to; to illuminate."], "src": "iwb"}
+{"w": "enlimn", "pos": "verb", "d": ["To portray or decorate, as in limning; to illuminate."], "src": "iwb"}
+{"w": "enlink", "pos": "verb", "d": ["To join or connect by links; to link together."], "src": "iwb"}
+{"w": "enlist", "pos": "verb", "d": ["To join the armed forces voluntarily.", "To secure the support or aid of."], "src": "iwb"}
+{"w": "enlive", "pos": "verb", "d": ["To give life to; to animate."], "src": "iwb"}
+{"w": "enliven", "pos": "verb", "d": ["To make lively, cheerful, or animated."], "src": "iwb"}
+{"w": "enlock", "pos": "verb", "d": ["To lock up; to confine with a lock."], "src": "iwb"}
+{"w": "enlumine", "pos": "verb", "d": ["To decorate or illuminate, especially a manuscript with colored designs."], "src": "iwb"}
+{"w": "enlute", "pos": "verb", "d": ["To seal with lute, a clay-like cement."], "src": "iwb"}
+{"w": "enmanche", "pos": "verb", "d": ["To fit or furnish with a handle."], "src": "iwb"}
+{"w": "enmarble", "pos": "verb", "d": ["To make like marble in hardness or appearance."], "src": "iwb"}
+{"w": "enmesh", "pos": "verb", "d": ["To catch or entangle as in a mesh or net."], "src": "iwb"}
+{"w": "enmew", "pos": "verb", "d": ["To shut up or confine, as a hawk in a mew."], "src": "iwb"}
+{"w": "enmist", "pos": "verb", "d": ["To cover or veil with mist."], "src": "iwb"}
+{"w": "enmity", "pos": "noun", "d": ["Deep-seated hatred or hostility; ill will."], "src": "iwb"}
+{"w": "enmossed", "pos": "adjective", "d": ["Covered or overgrown with moss."], "src": "iwb"}
+{"w": "enmove", "pos": "verb", "d": ["To move; to set in motion.", "To stir up; to excite."], "src": "iwb"}
+{"w": "enmuffle", "pos": "verb", "d": ["To wrap up or muffle closely."], "src": "iwb"}
+{"w": "enmure", "pos": "verb", "d": ["To wall up or enclose within walls; to immure."], "src": "iwb"}
+{"w": "ennation", "pos": "noun", "d": ["A small outgrowth on a leaf or other plant part."], "src": "iwb"}
+{"w": "ennead", "pos": "noun", "d": ["A group or set of nine."], "src": "iwb"}
+{"w": "enneagon", "pos": "noun", "d": ["A polygon having nine sides and nine angles."], "src": "iwb"}
+{"w": "enneagynous", "pos": "adjective", "d": ["Having nine pistils or styles, as a flower."], "src": "iwb"}
+{"w": "enneahedral", "pos": "adjective", "d": ["Having nine faces."], "src": "iwb"}
+{"w": "enneahedria", "pos": "noun", "d": ["The class of solid figures having nine faces."], "src": "iwb"}
+{"w": "enneahedron", "pos": "noun", "d": ["A solid figure having nine faces."], "src": "iwb"}
+{"w": "enneandria", "pos": "noun", "d": ["A botanical class of plants having nine stamens."], "src": "iwb"}
+{"w": "enneandrian", "pos": "adjective", "d": ["Belonging to the class Enneandria."], "src": "iwb"}
+{"w": "enneandrous", "pos": "adjective", "d": ["Having nine stamens."], "src": "iwb"}
+{"w": "enneapetalous", "pos": "adjective", "d": ["Having nine petals."], "src": "iwb"}
+{"w": "enneaspermous", "pos": "adjective", "d": ["Having or producing nine seeds."], "src": "iwb"}
+{"w": "enneatic", "pos": "adjective", "d": ["Relating to an ennead; recurring every nine years."], "src": "iwb"}
+{"w": "ennew", "pos": "verb", "d": ["To make new; to renew."], "src": "iwb"}
+{"w": "enniche", "pos": "verb", "d": ["To place or set in a niche."], "src": "iwb"}
+{"w": "ennoble", "pos": "verb", "d": ["To raise to noble rank or dignity.", "To lend dignity or nobility to."], "src": "iwb"}
+{"w": "ennui", "pos": "noun", "d": ["A feeling of weariness and discontent from lack of interest; boredom."], "src": "iwb"}
+{"w": "ennuye", "pos": "noun", "d": ["A person, especially a woman, affected by boredom or ennui."], "src": "iwb"}
+{"w": "ennuyee", "pos": "noun", "d": ["One who suffers from boredom or ennui."], "src": "iwb"}
+{"w": "enodal", "pos": "adjective", "d": ["Without nodes or joints."], "src": "iwb"}
+{"w": "enodation", "pos": "noun", "d": ["The act of freeing from knots or difficulties."], "src": "iwb"}
+{"w": "enode", "pos": "verb", "d": ["To free from knots or difficulties; to untie."], "src": "iwb"}
+{"w": "enoint", "pos": "verb", "d": ["To anoint; to smear with ointment."], "src": "iwb"}
+{"w": "enomotarch", "pos": "noun", "d": ["The commander of an enomoty in the ancient Spartan army."], "src": "iwb"}
+{"w": "enomoty", "pos": "noun", "d": ["A division of the ancient Spartan army."], "src": "iwb"}
+{"w": "enopla", "pos": "noun", "d": ["A class of nemertean worms having an armed proboscis."], "src": "iwb"}
+{"w": "enoptomancy", "pos": "noun", "d": ["Divination by means of mirrors."], "src": "iwb"}
+{"w": "enorm", "pos": "adjective", "d": ["Enormous; of very great size."], "src": "iwb"}
+{"w": "enorthotrope", "pos": "noun", "d": ["A plant that grows in a vertical direction."], "src": "iwb"}
+{"w": "enounce", "pos": "verb", "d": ["To utter or pronounce; to state formally."], "src": "iwb"}
+{"w": "enow", "pos": "adjective", "d": ["Enough in number or quantity."], "src": "iwb"}
+{"w": "enpatron", "pos": "verb", "d": ["To act as a patron toward; to support or protect."], "src": "iwb"}
+{"w": "enpierce", "pos": "verb", "d": ["To pierce through; to penetrate."], "src": "iwb"}
+{"w": "enquere", "pos": "verb", "d": ["To ask about; to inquire."], "src": "iwb"}
+{"w": "enquicken", "pos": "verb", "d": ["To make alive; to animate or invigorate."], "src": "iwb"}
+{"w": "enquire", "pos": "verb", "d": ["To ask for information about; to inquire."], "src": "iwb"}
+{"w": "enrace", "pos": "verb", "d": ["To implant or establish firmly, as if by roots."], "src": "iwb"}
+{"w": "enrage", "pos": "verb", "d": ["To make furiously angry."], "src": "iwb"}
+{"w": "enrange", "pos": "verb", "d": ["To arrange in ranks or in order."], "src": "iwb"}
+{"w": "enrank", "pos": "verb", "d": ["To place or arrange in a rank or ranks."], "src": "iwb"}
+{"w": "enrapt", "pos": "adjective", "d": ["Enraptured; carried away with delight."], "src": "iwb"}
+{"w": "enravish", "pos": "verb", "d": ["To fill with rapture; to delight intensely."], "src": "iwb"}
+{"w": "enravishingly", "pos": "adverb", "d": ["In an enravishing manner; with entrancing delight."], "src": "iwb"}
+{"w": "enregister", "pos": "verb", "d": ["To enter in a register; to record officially."], "src": "iwb"}
+{"w": "enrheum", "pos": "verb", "d": ["To affect with rheum; to give a cold to."], "src": "iwb"}
+{"w": "enrich", "pos": "verb", "d": ["To make rich or richer.", "To add value, flavor, or quality to."], "src": "iwb"}
+{"w": "enridge", "pos": "verb", "d": ["To form or throw into ridges."], "src": "iwb"}
+{"w": "enring", "pos": "verb", "d": ["To surround with or as with a ring; to encircle."], "src": "iwb"}
+{"w": "enripen", "pos": "verb", "d": ["To make ripe; to bring to maturity."], "src": "iwb"}
+{"w": "enrive", "pos": "verb", "d": ["To split or cleave asunder."], "src": "iwb"}
+{"w": "enrobe", "pos": "verb", "d": ["To dress or clothe in a robe."], "src": "iwb"}
+{"w": "enrockment", "pos": "noun", "d": ["A mass or mound of rocks, as for a breakwater; riprap."], "src": "iwb"}
+{"w": "enroll", "pos": "verb", "d": ["To enter in a roll or register.", "To become a member of a group or institution."], "src": "iwb"}
+{"w": "enroot", "pos": "verb", "d": ["To fix or implant firmly, as by roots."], "src": "iwb"}
+{"w": "enround", "pos": "verb", "d": ["To surround; to encircle."], "src": "iwb"}
+{"w": "ens", "pos": "noun", "d": ["A being; an existing thing; an entity."], "src": "iwb"}
+{"w": "ensafe", "pos": "verb", "d": ["To make safe; to protect from harm."], "src": "iwb"}
+{"w": "enscale", "pos": "verb", "d": ["To climb by scaling; to ascend."], "src": "iwb"}
+{"w": "enschedule", "pos": "verb", "d": ["To place on a schedule; to plan for a set time."], "src": "iwb"}
+{"w": "ensconce", "pos": "verb", "d": ["To settle oneself securely or snugly.", "To hide or conceal."], "src": "iwb"}
+{"w": "enseal", "pos": "verb", "d": ["To seal up; to impress with a seal."], "src": "iwb"}
+{"w": "enseam", "pos": "verb", "d": ["To sew or enclose with a seam.", "To purge a hawk of superfluous fat."], "src": "iwb"}
+{"w": "ensearch", "pos": "verb", "d": ["To search thoroughly; to investigate."], "src": "iwb"}
+{"w": "enseint", "pos": "adjective", "d": ["Pregnant; with child."], "src": "iwb"}
+{"w": "enshelter", "pos": "verb", "d": ["To give shelter to; to protect."], "src": "iwb"}
+{"w": "enshield", "pos": "verb", "d": ["To cover with or as with a shield; to protect."], "src": "iwb"}
+{"w": "enshrine", "pos": "verb", "d": ["To place in a shrine.", "To hold as sacred; to cherish."], "src": "iwb"}
+{"w": "enshroud", "pos": "verb", "d": ["To cover or wrap with a shroud."], "src": "iwb"}
+{"w": "ensiferous", "pos": "adjective", "d": ["Bearing or carrying a sword."], "src": "iwb"}
+{"w": "ensiform", "pos": "adjective", "d": ["Shaped like a sword; long, flat, and tapering."], "src": "iwb"}
+{"w": "ensign", "pos": "noun", "d": ["A flag or banner, especially a national or naval flag.", "A commissioned officer of the lowest rank in a navy."], "src": "iwb"}
+{"w": "ensigncy", "pos": "noun", "d": ["The rank or office of an ensign."], "src": "iwb"}
+{"w": "ensilage", "pos": "noun", "d": ["The process of preserving green fodder in a silo.", "Fodder so preserved; silage."], "src": "iwb"}
+{"w": "ensky", "pos": "verb", "d": ["To place in the sky; to exalt to the heavens."], "src": "iwb"}
+{"w": "enslavedness", "pos": "noun", "d": ["The state or condition of being enslaved."], "src": "iwb"}
+{"w": "ensnarl", "pos": "verb", "d": ["To entangle; to catch in a snare."], "src": "iwb"}
+{"w": "ensober", "pos": "verb", "d": ["To make sober; to free from intoxication or frivolity."], "src": "iwb"}
+{"w": "ensphere", "pos": "verb", "d": ["To enclose in or as in a sphere."], "src": "iwb"}
+{"w": "enstate", "pos": "verb", "d": ["To endow with an estate; to settle in a position."], "src": "iwb"}
+{"w": "enstatite", "pos": "noun", "d": ["A grayish or greenish mineral, a silicate of magnesium."], "src": "iwb"}
+{"w": "enstatitic", "pos": "adjective", "d": ["Relating to or containing enstatite."], "src": "iwb"}
+{"w": "enstyle", "pos": "verb", "d": ["To give style or distinctive expression to something."], "src": "iwb"}
+{"w": "ensue", "pos": "verb", "d": ["To happen afterward, especially as a result of something."], "src": "iwb"}
+{"w": "enswathe", "pos": "verb", "d": ["To wrap or envelop as if in a swathe or band."], "src": "iwb"}
+{"w": "ent-", "pos": "prefix", "d": ["A prefix meaning 'within' or 'inner', used in scientific terms."], "src": "iwb"}
+{"w": "entablature", "pos": "noun", "d": ["The horizontal structure above columns in classical architecture, comprising the architrave, frieze, and cornice."], "src": "iwb"}
+{"w": "entablement", "pos": "noun", "d": ["Another term for entablature."], "src": "iwb"}
+{"w": "entackle", "pos": "verb", "d": ["To furnish or provide with tackle or gear."], "src": "iwb"}
+{"w": "entad", "pos": "adverb", "d": ["Toward the interior; inwardly."], "src": "iwb"}
+{"w": "entail", "pos": "verb", "d": ["To bring about as a necessary consequence; to involve unavoidably.", "A limited inheritance of property, restricted to certain heirs."], "src": "iwb"}
+{"w": "ental", "pos": "adjective", "d": ["Inner or interior."], "src": "iwb"}
+{"w": "entame", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entangle", "pos": "verb", "d": ["To twist or catch in a confused mass; to involve in difficulty."], "src": "iwb"}
+{"w": "entasia", "pos": "noun", "d": ["A spasmodic or sustained contraction of muscle."], "src": "iwb"}
+{"w": "entasis", "pos": "noun", "d": ["The slight outward curve given to a classical column shaft to correct an optical illusion of concavity."], "src": "iwb"}
+{"w": "entassment", "pos": "noun", "d": ["The act of heaping or piling things up."], "src": "iwb"}
+{"w": "entastic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entelechy", "pos": "noun", "d": ["The realization of potential; in philosophy, the state in which a thing has achieved its complete form or purpose."], "src": "iwb"}
+{"w": "entellus", "pos": "noun", "d": ["A large long-tailed monkey of India, the hanuman langur."], "src": "iwb"}
+{"w": "entend", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ententive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enter-", "pos": "prefix", "d": ["A prefix meaning 'intestine', used in medical terms."], "src": "iwb"}
+{"w": "enteralgia", "pos": "noun", "d": ["Pain in the intestines."], "src": "iwb"}
+{"w": "entering edge", "pos": "phrase", "d": ["The forward edge of a moving wing, blade, or tool, which meets the air, water, or material first."], "src": "iwb"}
+{"w": "enteritis", "pos": "noun", "d": ["Inflammation of the intestines."], "src": "iwb"}
+{"w": "entermewer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enterocele", "pos": "noun", "d": ["A hernia containing part of the intestine."], "src": "iwb"}
+{"w": "enterocoele", "pos": "noun", "d": ["A body cavity formed in the embryo by an outpouching of the primitive gut."], "src": "iwb"}
+{"w": "enterography", "pos": "noun", "d": ["A written description of the intestines; also, imaging of the small intestine."], "src": "iwb"}
+{"w": "enterolith", "pos": "noun", "d": ["A hardened mass or stone formed in the intestine."], "src": "iwb"}
+{"w": "enteron", "pos": "noun", "d": ["The digestive tract; the intestinal canal."], "src": "iwb"}
+{"w": "enteropathy", "pos": "noun", "d": ["Any disease of the intestine."], "src": "iwb"}
+{"w": "enteropneusta", "pos": "noun", "d": ["A class of marine wormlike animals, the acorn worms."], "src": "iwb"}
+{"w": "enterorrhaphy", "pos": "noun", "d": ["Surgical suturing of the intestine."], "src": "iwb"}
+{"w": "enterotome", "pos": "noun", "d": ["A surgical knife used for opening the intestines."], "src": "iwb"}
+{"w": "enterotomy", "pos": "noun", "d": ["Surgical incision into the intestine."], "src": "iwb"}
+{"w": "entheal", "pos": "adjective", "d": ["Divinely inspired; relating to inspiration by a god."], "src": "iwb"}
+{"w": "enthean", "pos": "adjective", "d": ["Inspired by a divine being."], "src": "iwb"}
+{"w": "entheasm", "pos": "noun", "d": ["Divine inspiration or ecstasy."], "src": "iwb"}
+{"w": "entheastic", "pos": "adjective", "d": ["Relating to or marked by divine inspiration."], "src": "iwb"}
+{"w": "entheat", "pos": "verb", "d": ["To fill with enthusiasm or divine inspiration."], "src": "iwb"}
+{"w": "enthelmintha", "pos": "noun", "d": ["Parasitic worms inhabiting the intestines."], "src": "iwb"}
+{"w": "enthelminthes", "pos": "noun", "d": ["The plural of enthelmintha; intestinal parasitic worms."], "src": "iwb"}
+{"w": "enthetic", "pos": "adjective", "d": ["Communicated by contact or inoculation, as certain diseases."], "src": "iwb"}
+{"w": "enthrall", "pos": "verb", "d": ["To captivate and hold spellbound.", "To make a slave of; to enslave."], "src": "iwb"}
+{"w": "enthrill", "pos": "verb", "d": ["To pierce; to fill with thrilling excitement."], "src": "iwb"}
+{"w": "enthrone", "pos": "verb", "d": ["To place on a throne; to install in royal power."], "src": "iwb"}
+{"w": "enthronization", "pos": "noun", "d": ["The act or ceremony of placing a monarch on a throne."], "src": "iwb"}
+{"w": "enthronize", "pos": "verb", "d": ["To enthrone."], "src": "iwb"}
+{"w": "enthuse", "pos": "verb", "d": ["To become enthusiastic; to make someone enthusiastic."], "src": "iwb"}
+{"w": "enthusiasm", "pos": "noun", "d": ["Intense and eager interest or excitement about something."], "src": "iwb"}
+{"w": "enthusiast", "pos": "noun", "d": ["A person filled with enthusiasm for a subject or activity."], "src": "iwb"}
+{"w": "enthymematic", "pos": "adjective", "d": ["Having the form of an enthymeme; stated as a compressed syllogism."], "src": "iwb"}
+{"w": "enthymeme", "pos": "noun", "d": ["A syllogism in which one premise or the conclusion is left unstated."], "src": "iwb"}
+{"w": "entice", "pos": "verb", "d": ["To attract or persuade by offering something tempting."], "src": "iwb"}
+{"w": "entierty", "pos": "noun", "d": ["The state of being whole or complete."], "src": "iwb"}
+{"w": "entire-wheat", "pos": "adjective", "d": ["Made from flour ground from the whole wheat grain."], "src": "iwb"}
+{"w": "entirety", "pos": "noun", "d": ["The whole of something; completeness."], "src": "iwb"}
+{"w": "entitative", "pos": "adjective", "d": ["Relating to an entity; having real existence."], "src": "iwb"}
+{"w": "entitle", "pos": "verb", "d": ["To give a right or just claim to something.", "To give a title to a book or other work."], "src": "iwb"}
+{"w": "entitule", "pos": "verb", "d": ["To give a title or name to, especially a legal document."], "src": "iwb"}
+{"w": "ento-", "pos": "prefix", "d": ["A prefix meaning 'within' or 'inner', used in scientific terms."], "src": "iwb"}
+{"w": "entoblast", "pos": "noun", "d": ["The inner layer of cells of the early embryo; the endoderm."], "src": "iwb"}
+{"w": "entobronchium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entocuneiform", "pos": "noun", "d": ["The innermost of the cuneiform bones of the foot."], "src": "iwb"}
+{"w": "entocuniform", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entoderm", "pos": "noun", "d": ["The innermost germ layer of the embryo; the endoderm."], "src": "iwb"}
+{"w": "entogastric", "pos": "adjective", "d": ["Situated within or relating to the interior of the stomach."], "src": "iwb"}
+{"w": "entogenous", "pos": "adjective", "d": ["Arising from within; produced internally."], "src": "iwb"}
+{"w": "entoglossal", "pos": "adjective", "d": ["Situated within the tongue."], "src": "iwb"}
+{"w": "entoil", "pos": "verb", "d": ["To catch in a toil or net; to ensnare."], "src": "iwb"}
+{"w": "entomb", "pos": "verb", "d": ["To place in a tomb; to bury."], "src": "iwb"}
+{"w": "entomere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entomic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entomoid", "pos": "adjective", "d": ["Resembling an insect; insectlike."], "src": "iwb"}
+{"w": "entomolin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entomolite", "pos": "noun", "d": ["A fossil insect."], "src": "iwb"}
+{"w": "entomologic", "pos": "adjective", "d": ["Relating to entomology; entomological."], "src": "iwb"}
+{"w": "entomologist", "pos": "noun", "d": ["A scientist who studies insects."], "src": "iwb"}
+{"w": "entomologize", "pos": "verb", "d": ["To study or collect insects for scientific purposes."], "src": "iwb"}
+{"w": "entomology", "pos": "noun", "d": ["The branch of zoology that studies insects."], "src": "iwb"}
+{"w": "entomophaga", "pos": "noun", "d": ["Insects that feed on other insects."], "src": "iwb"}
+{"w": "entomophagan", "pos": "noun", "d": ["An insect that feeds on other insects."], "src": "iwb"}
+{"w": "entomophagous", "pos": "adjective", "d": ["Feeding on insects."], "src": "iwb"}
+{"w": "entomophilous", "pos": "adjective", "d": ["Pollinated by insects, as certain flowers."], "src": "iwb"}
+{"w": "entomostraca", "pos": "noun", "d": ["A group of small crustaceans, including forms such as water fleas."], "src": "iwb"}
+{"w": "entomostracan", "pos": "adjective", "d": ["Relating to or being one of the entomostraca."], "src": "iwb"}
+{"w": "entomostracous", "pos": "adjective", "d": ["Relating to the entomostraca."], "src": "iwb"}
+{"w": "entomotomist", "pos": "noun", "d": ["One who dissects insects."], "src": "iwb"}
+{"w": "entomotomy", "pos": "noun", "d": ["The dissection of insects."], "src": "iwb"}
+{"w": "entonic", "pos": "adjective", "d": ["Characterized by tension or heightened muscular tone."], "src": "iwb"}
+{"w": "entoperipheral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entophyte", "pos": "noun", "d": ["A plant that grows within another organism."], "src": "iwb"}
+{"w": "entophytic", "pos": "adjective", "d": ["Growing within a host organism."], "src": "iwb"}
+{"w": "entoplasm", "pos": "noun", "d": ["The inner portion of the cytoplasm of a cell."], "src": "iwb"}
+{"w": "entoplastic", "pos": "adjective", "d": ["Relating to the entoblast, the innermost cell layer of an embryo."], "src": "iwb"}
+{"w": "entoplastron", "pos": "noun", "d": ["The unpaired median bone at the front of a turtle's plastron, the undershell."], "src": "iwb"}
+{"w": "entoprocta", "pos": "noun", "d": ["A phylum of tiny aquatic invertebrates that live attached to surfaces and feed with a ring of tentacles."], "src": "iwb"}
+{"w": "entoptic", "pos": "adjective", "d": ["Relating to visual effects that originate inside the eye itself, such as floaters."], "src": "iwb"}
+{"w": "entorganism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entortilation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entosternum", "pos": "noun", "d": ["An internal plate of cartilage in spiders and similar arthropods that anchors the leg muscles."], "src": "iwb"}
+{"w": "entosthoblast", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entothorax", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entotic", "pos": "adjective", "d": ["Relating to the interior of the ear."], "src": "iwb"}
+{"w": "entourage", "pos": "noun", "d": ["A group of attendants and followers who accompany an important person."], "src": "iwb"}
+{"w": "entozoa", "pos": "noun", "d": ["The plural of entozoon, animals that live as internal parasites."], "src": "iwb"}
+{"w": "entozoal", "pos": "adjective", "d": ["Relating to entozoa, animals that live as parasites inside a host."], "src": "iwb"}
+{"w": "entozoic", "pos": "adjective", "d": ["Living inside an animal as a parasite."], "src": "iwb"}
+{"w": "entozooelogist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entozooen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entozoologist", "pos": "noun", "d": ["A scientist who studies entozoa, animals that live as internal parasites."], "src": "iwb"}
+{"w": "entozoon", "pos": "noun", "d": ["An animal that lives as a parasite inside the body of another animal."], "src": "iwb"}
+{"w": "entrail", "pos": "noun", "d": ["The internal organs of the body, especially the intestines."], "src": "iwb"}
+{"w": "entrain", "pos": "verb", "d": ["To board a train for travel.", "To draw a fluid or gas into a flowing stream."], "src": "iwb"}
+{"w": "entrammel", "pos": "verb", "d": ["To entangle or trap in a net of difficulties."], "src": "iwb"}
+{"w": "entrant", "pos": "noun", "d": ["A person who enters a competition, race, or examination."], "src": "iwb"}
+{"w": "entrant edge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entrap", "pos": "verb", "d": ["To catch or trap in a snare.", "To lure into a compromising situation."], "src": "iwb"}
+{"w": "entreat", "pos": "verb", "d": ["To ask earnestly or beg for something."], "src": "iwb"}
+{"w": "entreatingly", "pos": "adverb", "d": ["In a pleading, begging manner."], "src": "iwb"}
+{"w": "entreaty", "pos": "noun", "d": ["An earnest request or plea."], "src": "iwb"}
+{"w": "entree", "pos": "noun", "d": ["The main course of a meal.", "The right or privilege of entering somewhere."], "src": "iwb"}
+{"w": "entremets", "pos": "noun", "d": ["A small dish served between the main courses of a formal meal."], "src": "iwb"}
+{"w": "entrench", "pos": "verb", "d": ["To dig trenches for defense.", "To establish something firmly so it is hard to change."], "src": "iwb"}
+{"w": "entrepot", "pos": "noun", "d": ["A port or warehouse where goods are stored or transferred before shipment onward."], "src": "iwb"}
+{"w": "entresol", "pos": "noun", "d": ["A low mezzanine floor between two main floors of a building."], "src": "iwb"}
+{"w": "entrick", "pos": "verb", "d": ["To trick or ensnare."], "src": "iwb"}
+{"w": "entrochal", "pos": "adjective", "d": ["Relating to entrochites, the wheel-like fossil stem segments of ancient sea lilies."], "src": "iwb"}
+{"w": "entrochite", "pos": "noun", "d": ["A fossilized disk-shaped segment of a crinoid stem, resembling a small wheel."], "src": "iwb"}
+{"w": "entropion", "pos": "noun", "d": ["A condition in which the eyelid turns inward against the eyeball."], "src": "iwb"}
+{"w": "entropium", "pos": "noun", "d": ["Another spelling of entropion, the inward turning of an eyelid."], "src": "iwb"}
+{"w": "entropy", "pos": "noun", "d": ["A measure of disorder or randomness in a system, which tends to increase over time."], "src": "iwb"}
+{"w": "entrust", "pos": "verb", "d": ["To give someone responsibility for something, trusting them to handle it."], "src": "iwb"}
+{"w": "entryng", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "entune", "pos": "verb", "d": ["To bring into tune."], "src": "iwb"}
+{"w": "entwine", "pos": "verb", "d": ["To twist or wind things together, like vines."], "src": "iwb"}
+{"w": "entwist", "pos": "verb", "d": ["To twist together or around something."], "src": "iwb"}
+{"w": "enubilate", "pos": "verb", "d": ["To clear of clouds or mist."], "src": "iwb"}
+{"w": "enubilous", "pos": "adjective", "d": ["Free from clouds; clear and unclouded."], "src": "iwb"}
+{"w": "enucleate", "pos": "verb", "d": ["To remove the nucleus or core from something, especially to remove an eyeball surgically."], "src": "iwb"}
+{"w": "enucleation", "pos": "noun", "d": ["The surgical removal of an eyeball from its socket."], "src": "iwb"}
+{"w": "enumerate", "pos": "verb", "d": ["To list items one by one or count them off."], "src": "iwb"}
+{"w": "enumeration", "pos": "noun", "d": ["The act of listing or counting items one by one."], "src": "iwb"}
+{"w": "enumerative", "pos": "adjective", "d": ["Relating to or involving enumeration."], "src": "iwb"}
+{"w": "enumerator", "pos": "noun", "d": ["A person who collects census data by counting or listing people."], "src": "iwb"}
+{"w": "enunciable", "pos": "adjective", "d": ["Able to be clearly pronounced or plainly stated."], "src": "iwb"}
+{"w": "enunciate", "pos": "verb", "d": ["To pronounce words clearly and distinctly.", "To state a fact or principle plainly."], "src": "iwb"}
+{"w": "enunciation", "pos": "noun", "d": ["Clear and distinct pronunciation of words."], "src": "iwb"}
+{"w": "enunciative", "pos": "adjective", "d": ["Serving to enunciate or clearly express something."], "src": "iwb"}
+{"w": "enunciator", "pos": "noun", "d": ["A person who announces or proclaims something."], "src": "iwb"}
+{"w": "enunciatory", "pos": "adjective", "d": ["Relating to clear pronunciation or public announcement."], "src": "iwb"}
+{"w": "enure", "pos": "verb", "d": ["To take effect or become legally operative."], "src": "iwb"}
+{"w": "envassal", "pos": "verb", "d": ["To make someone a vassal; to place under another's control."], "src": "iwb"}
+{"w": "envault", "pos": "verb", "d": ["To enclose in a vault."], "src": "iwb"}
+{"w": "enveigle", "pos": "verb", "d": ["To entice or lure by clever persuasion."], "src": "iwb"}
+{"w": "envelop", "pos": "verb", "d": ["To wrap up or surround completely."], "src": "iwb"}
+{"w": "envenime", "pos": "verb", "d": ["To poison or taint with venom."], "src": "iwb"}
+{"w": "envenom", "pos": "verb", "d": ["To poison, literally or with bitterness."], "src": "iwb"}
+{"w": "envermeil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "envie", "pos": "noun", "d": ["An archaic spelling of envy."], "src": "iwb"}
+{"w": "envigor", "pos": "verb", "d": ["To give vigor to; to invigorate."], "src": "iwb"}
+{"w": "environ", "pos": "verb", "d": ["To surround or encircle."], "src": "iwb"}
+{"w": "envisage", "pos": "verb", "d": ["To picture or contemplate something in the mind."], "src": "iwb"}
+{"w": "envolume", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "envolup", "pos": "noun", "d": ["An obsolete spelling of envelope."], "src": "iwb"}
+{"w": "envoy", "pos": "noun", "d": ["A messenger or representative sent on a special mission."], "src": "iwb"}
+{"w": "envy", "pos": "noun", "d": ["A feeling of discontent aroused by another person's good fortune."], "src": "iwb"}
+{"w": "envyned", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enwall", "pos": "verb", "d": ["To enclose with a wall."], "src": "iwb"}
+{"w": "enwallow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enwheel", "pos": "verb", "d": ["To encircle or surround."], "src": "iwb"}
+{"w": "enwiden", "pos": "verb", "d": ["To make wider."], "src": "iwb"}
+{"w": "enwind", "pos": "verb", "d": ["To wind about; to encircle."], "src": "iwb"}
+{"w": "enwoman", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enwomb", "pos": "verb", "d": ["To enclose as in a womb."], "src": "iwb"}
+{"w": "enwrap", "pos": "verb", "d": ["To wrap or envelop."], "src": "iwb"}
+{"w": "enwreathe", "pos": "verb", "d": ["To surround with a wreath or garland."], "src": "iwb"}
+{"w": "enzooetic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "enzootic", "pos": "adjective", "d": ["Relating to a disease that is constantly present in a particular animal population or region."], "src": "iwb"}
+{"w": "eocene", "pos": "noun", "d": ["The geological epoch between about 56 and 34 million years ago, known for early mammals."], "src": "iwb"}
+{"w": "eolian", "pos": "adjective", "d": ["Formed or carried by the wind, such as desert sand deposits."], "src": "iwb"}
+{"w": "eolic", "pos": "adjective", "d": ["Relating to the ancient Greek Aeolic dialect or the Aeolian people."], "src": "iwb"}
+{"w": "eolipile", "pos": "noun", "d": ["An ancient toy device in which steam spins a ball or wheel."], "src": "iwb"}
+{"w": "eolis", "pos": "noun", "d": ["A former genus name for certain sea slugs, now placed in other genera."], "src": "iwb"}
+{"w": "eon", "pos": "noun", "d": ["An extremely long period of time, especially a major division of geological time."], "src": "iwb"}
+{"w": "eophyte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eophytic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eosaurus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eosin", "pos": "noun", "d": ["A red fluorescent dye used to stain biological tissue samples."], "src": "iwb"}
+{"w": "eosphorite", "pos": "noun", "d": ["A hydrated phosphate mineral of manganese and aluminum."], "src": "iwb"}
+{"w": "eozoic", "pos": "adjective", "d": ["Relating to the earliest geological era in which traces of life appear."], "src": "iwb"}
+{"w": "eozooen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eozoon", "pos": "noun", "d": ["A supposed early fossil, later shown to be a mineral formation rather than an organism."], "src": "iwb"}
+{"w": "ep-", "pos": "prefix", "d": ["A prefix meaning 'upon' or 'over', as in epidermis."], "src": "iwb"}
+{"w": "epacris", "pos": "noun", "d": ["A genus of flowering shrubs native to Australia and New Zealand."], "src": "iwb"}
+{"w": "epact", "pos": "noun", "d": ["The age of the moon in days at the start of a calendar year, used in fixing the date of Easter."], "src": "iwb"}
+{"w": "epagoge", "pos": "noun", "d": ["Inductive reasoning; the process of inferring a general principle from particular cases."], "src": "iwb"}
+{"w": "epagogic", "pos": "adjective", "d": ["Relating to or using inductive reasoning."], "src": "iwb"}
+{"w": "epalate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epanadiplosis", "pos": "noun", "d": ["A rhetorical device in which a sentence or clause begins and ends with the same word."], "src": "iwb"}
+{"w": "epanalepsis", "pos": "noun", "d": ["A rhetorical device in which a word is repeated after intervening words for emphasis."], "src": "iwb"}
+{"w": "epanaphora", "pos": "noun", "d": ["A rhetorical device in which the same word or phrase is repeated at the beginning of successive clauses or sentences."], "src": "iwb"}
+{"w": "epanastrophe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epanodos", "pos": "noun", "d": ["A rhetorical figure in which the same word or phrase is repeated in reverse order within a sentence or passage."], "src": "iwb"}
+{"w": "epanody", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epanorthosis", "pos": "noun", "d": ["A rhetorical device in which the speaker immediately corrects or amends a word or phrase just spoken, often with 'or rather.'."], "src": "iwb"}
+{"w": "epanthous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eparch", "pos": "noun", "d": ["The governor of an eparchy, a province or district in the ancient Roman or Byzantine empires."], "src": "iwb"}
+{"w": "eparchy", "pos": "noun", "d": ["A province or district of the ancient Roman or Byzantine Empire, or a diocese in certain Eastern churches."], "src": "iwb"}
+{"w": "eparterial", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epaule", "pos": "noun", "d": ["A shoulder-like projection of earth or masonry built to protect the flank of a fortification."], "src": "iwb"}
+{"w": "epaulet", "pos": "noun", "d": ["An ornamental strap or fringed badge worn on the shoulder of a military uniform to mark rank."], "src": "iwb"}
+{"w": "epaulette", "pos": "noun", "d": ["A variant spelling of epaulet, the ornamental shoulder badge of a uniform."], "src": "iwb"}
+{"w": "epaxial", "pos": "adjective", "d": ["Situated above or toward the upper side of an axis, especially of the spinal column."], "src": "iwb"}
+{"w": "epeira", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ependyma", "pos": "noun", "d": ["The thin membrane lining the fluid-filled cavities of the brain and spinal cord."], "src": "iwb"}
+{"w": "ependymis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epenetic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epenthetic", "pos": "adjective", "d": ["Relating to epenthesis, the insertion of an extra sound or letter into the middle of a word."], "src": "iwb"}
+{"w": "epergne", "pos": "noun", "d": ["An ornamental table centerpiece with branches or dishes for holding fruit, flowers, or sweetmeats."], "src": "iwb"}
+{"w": "eperlan", "pos": "noun", "d": ["The European smelt, a small silvery fish of northern coastal waters."], "src": "iwb"}
+{"w": "epexegesis", "pos": "noun", "d": ["The explanation of a word or phrase by adding further words that make its meaning clearer."], "src": "iwb"}
+{"w": "epexegetical", "pos": "adjective", "d": ["Serving to explain or clarify by added words, as epexegetical phrases do."], "src": "iwb"}
+{"w": "epha", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ephah", "pos": "noun", "d": ["An ancient Hebrew measure of dry capacity, roughly equal to a bushel."], "src": "iwb"}
+{"w": "ephemera", "pos": "noun", "d": ["Things that exist or are useful for only a short time, such as tickets, pamphlets, and posters."], "src": "iwb"}
+{"w": "ephemeral", "pos": "adjective", "d": ["Lasting for a very short time."], "src": "iwb"}
+{"w": "ephemeran", "pos": "noun", "d": ["An insect of the order Ephemeroptera, the mayflies."], "src": "iwb"}
+{"w": "ephemeric", "pos": "adjective", "d": ["Lasting only a day; ephemeral."], "src": "iwb"}
+{"w": "ephemeris", "pos": "noun", "d": ["A table or book listing the calculated positions of the sun, moon, planets, and stars at regular intervals."], "src": "iwb"}
+{"w": "ephemerist", "pos": "noun", "d": ["One who compiles ephemerides or studies the predicted positions of heavenly bodies."], "src": "iwb"}
+{"w": "ephemeron", "pos": "noun", "d": ["A single one of the short-lived things collectively called ephemera."], "src": "iwb"}
+{"w": "ephemerous", "pos": "adjective", "d": ["Short-lived; existing for a day or a very brief time."], "src": "iwb"}
+{"w": "ephesian", "pos": "adjective", "d": ["Of or relating to Ephesus, the ancient city of Asia Minor."], "src": "iwb"}
+{"w": "ephialtes", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ephippial", "pos": "adjective", "d": ["Relating to or shaped like an ephippium."], "src": "iwb"}
+{"w": "ephippium", "pos": "noun", "d": ["A saddle-shaped structure in certain small crustaceans that protects the winter eggs."], "src": "iwb"}
+{"w": "ephod", "pos": "noun", "d": ["A sleeveless linen vestment worn by the ancient Hebrew high priest."], "src": "iwb"}
+{"w": "ephor", "pos": "noun", "d": ["One of the five annually elected magistrates who shared power with the kings of ancient Sparta."], "src": "iwb"}
+{"w": "ephoralty", "pos": "noun", "d": ["The office or term of an ephor in ancient Sparta."], "src": "iwb"}
+{"w": "ephraim", "pos": "noun", "d": ["A masculine personal name of Hebrew origin, borne by the younger son of Joseph in the Bible."], "src": "iwb"}
+{"w": "ephyra", "pos": "noun", "d": ["The free-swimming larval stage of certain jellyfish, between the polyp and the adult medusa."], "src": "iwb"}
+{"w": "epi-", "pos": "prefix", "d": ["A prefix meaning 'upon,' 'over,' or 'above,' as in epidermis."], "src": "iwb"}
+{"w": "epiblast", "pos": "noun", "d": ["The outer layer of cells in an early embryo that gives rise to the ectoderm."], "src": "iwb"}
+{"w": "epiblema", "pos": "noun", "d": ["The outer layer of cells covering the young root of a plant."], "src": "iwb"}
+{"w": "epibolic", "pos": "adjective", "d": ["Relating to or brought about by epiboly."], "src": "iwb"}
+{"w": "epiboly", "pos": "noun", "d": ["The movement of embryonic cells that spreads one layer of cells over another during development."], "src": "iwb"}
+{"w": "epibranchial", "pos": "adjective", "d": ["Situated above or on the upper side of the gills."], "src": "iwb"}
+{"w": "epicardiac", "pos": "adjective", "d": ["Relating to or situated upon the epicardium."], "src": "iwb"}
+{"w": "epicardium", "pos": "noun", "d": ["The thin outer membrane that covers the heart muscle."], "src": "iwb"}
+{"w": "epicarican", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epicarp", "pos": "noun", "d": ["The outermost layer of the wall of a fruit; the exocarp."], "src": "iwb"}
+{"w": "epicede", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epicedial", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epicedian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epicedium", "pos": "noun", "d": ["A poem or song of lamentation sung at a funeral."], "src": "iwb"}
+{"w": "epicele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epicene", "pos": "adjective", "d": ["Having characteristics of both sexes, or lacking clearly male or female traits."], "src": "iwb"}
+{"w": "epicentral", "pos": "adjective", "d": ["Relating to the epicenter, the point on the earth's surface above the focus of an earthquake."], "src": "iwb"}
+{"w": "epicerastic", "pos": "adjective", "d": ["Soothing or assuaging, especially of a medicine that eases pain or irritation."], "src": "iwb"}
+{"w": "epichirema", "pos": "noun", "d": ["A syllogism in which each premise is accompanied by a supporting reason."], "src": "iwb"}
+{"w": "epichordal", "pos": "adjective", "d": ["Situated above or upon the notochord."], "src": "iwb"}
+{"w": "epichorial", "pos": "adjective", "d": ["Belonging to or characteristic of a particular district or region."], "src": "iwb"}
+{"w": "epicleidium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epiclinal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epicoele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epicoene", "pos": "adjective", "d": ["In grammar, common to both masculine and feminine gender, as some nouns are."], "src": "iwb"}
+{"w": "epicolic", "pos": "adjective", "d": ["Situated upon or relating to the colon."], "src": "iwb"}
+{"w": "epicondylar", "pos": "adjective", "d": ["Relating to or situated upon an epicondyle."], "src": "iwb"}
+{"w": "epicondyle", "pos": "noun", "d": ["A rounded bony prominence above a condyle, giving attachment to muscles and ligaments."], "src": "iwb"}
+{"w": "epicoracoid", "pos": "noun", "d": ["A bone of the shoulder girdle in birds and some reptiles, lying above the coracoid."], "src": "iwb"}
+{"w": "epicranial", "pos": "adjective", "d": ["Relating to or situated upon the epicranium."], "src": "iwb"}
+{"w": "epicranium", "pos": "noun", "d": ["The structures covering the cranium, chiefly the scalp and its muscles."], "src": "iwb"}
+{"w": "epictetain", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epictetian", "pos": "adjective", "d": ["Relating to or characteristic of Epictetus, the Stoic philosopher, or his teachings."], "src": "iwb"}
+{"w": "epicurean", "pos": "adjective", "d": ["Devoted to refined sensual pleasure, especially of food and drink; also, of the philosophy of Epicurus."], "src": "iwb"}
+{"w": "epicurism", "pos": "noun", "d": ["The philosophy of Epicurus, which holds that pleasure is the chief good; also, devotion to luxurious living."], "src": "iwb"}
+{"w": "epicurize", "pos": "verb", "d": ["To live or behave like an epicure; to indulge in luxurious pleasures."], "src": "iwb"}
+{"w": "epicycle", "pos": "noun", "d": ["In the ancient Ptolemaic astronomy, a small circle whose center moves around the circumference of a larger circle."], "src": "iwb"}
+{"w": "epicyclic", "pos": "adjective", "d": ["Relating to or moving in an epicycle."], "src": "iwb"}
+{"w": "epicycloid", "pos": "noun", "d": ["A curve traced by a point on a circle that rolls around the outside of another circle."], "src": "iwb"}
+{"w": "epideictic", "pos": "adjective", "d": ["Relating to rhetoric of display, praise, or blame, as in ceremonial oratory."], "src": "iwb"}
+{"w": "epidemic", "pos": "noun", "d": ["A disease that spreads rapidly and affects many people in a region at the same time."], "src": "iwb"}
+{"w": "epidemiography", "pos": "noun", "d": ["The descriptive study and historical record of epidemics and their causes."], "src": "iwb"}
+{"w": "epidemiological", "pos": "adjective", "d": ["Relating to epidemiology, the study of how diseases spread and are distributed."], "src": "iwb"}
+{"w": "epidemiologist", "pos": "noun", "d": ["A scientist who studies the causes, distribution, and control of diseases in populations."], "src": "iwb"}
+{"w": "epidemiology", "pos": "noun", "d": ["The branch of medicine that studies how diseases spread, occur, and can be controlled in populations."], "src": "iwb"}
+{"w": "epidemy", "pos": "noun", "d": ["An epidemic disease; a disease that attacks many people at once."], "src": "iwb"}
+{"w": "epiderm", "pos": "noun", "d": ["The outer skin; the epidermis."], "src": "iwb"}
+{"w": "epidermatic", "pos": "adjective", "d": ["Relating to the epidermis or the outer skin."], "src": "iwb"}
+{"w": "epidermatoid", "pos": "adjective", "d": ["Resembling the epidermis in structure or appearance."], "src": "iwb"}
+{"w": "epidermeous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epidermidal", "pos": "adjective", "d": ["Relating to or consisting of the epidermis."], "src": "iwb"}
+{"w": "epidermis", "pos": "noun", "d": ["The thin outer layer of the skin that covers the body."], "src": "iwb"}
+{"w": "epidermoid", "pos": "adjective", "d": ["Like the epidermis; composed of or resembling epidermal tissue."], "src": "iwb"}
+{"w": "epidermose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epidictic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epididymis", "pos": "noun", "d": ["A coiled tube behind the testis in which sperm are stored and matured."], "src": "iwb"}
+{"w": "epididymitis", "pos": "noun", "d": ["Inflammation of the epididymis, often causing pain and swelling."], "src": "iwb"}
+{"w": "epidote", "pos": "noun", "d": ["A greenish silicate mineral, usually olive to pistachio green, found in metamorphic rocks."], "src": "iwb"}
+{"w": "epidotic", "pos": "adjective", "d": ["Relating to or resembling the mineral epidote."], "src": "iwb"}
+{"w": "epigaea", "pos": "noun", "d": ["A genus of low, creeping evergreen shrubs that includes trailing arbutus."], "src": "iwb"}
+{"w": "epigaeous", "pos": "adjective", "d": ["Growing or living on or close to the ground."], "src": "iwb"}
+{"w": "epigastrial", "pos": "adjective", "d": ["Relating to the epigastrium, the upper central region of the abdomen."], "src": "iwb"}
+{"w": "epigastric", "pos": "adjective", "d": ["Relating to the epigastrium, the upper middle part of the abdomen."], "src": "iwb"}
+{"w": "epigastrium", "pos": "noun", "d": ["The upper central region of the abdomen, lying over the stomach."], "src": "iwb"}
+{"w": "epigeal", "pos": "adjective", "d": ["Living or growing on or above the surface of the ground, especially of seedlings whose seed leaves rise above the soil."], "src": "iwb"}
+{"w": "epigee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epigene", "pos": "adjective", "d": ["Formed or originating at or near the surface of the earth."], "src": "iwb"}
+{"w": "epigeous", "pos": "adjective", "d": ["Living or growing on or above the surface of the ground."], "src": "iwb"}
+{"w": "epigeum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epiglottic", "pos": "adjective", "d": ["Relating to the epiglottis."], "src": "iwb"}
+{"w": "epiglottidean", "pos": "adjective", "d": ["Relating to or resembling the epiglottis."], "src": "iwb"}
+{"w": "epiglottis", "pos": "noun", "d": ["A thin flap of cartilage at the root of the tongue that covers the windpipe during swallowing."], "src": "iwb"}
+{"w": "epignathous", "pos": "adjective", "d": ["Having the upper jaw or upper beak projecting beyond the lower."], "src": "iwb"}
+{"w": "epigram", "pos": "noun", "d": ["A short, witty poem or saying with a clever or pointed ending."], "src": "iwb"}
+{"w": "epigrammatic", "pos": "adjective", "d": ["Concise, clever, and pointed like an epigram."], "src": "iwb"}
+{"w": "epigrammatist", "pos": "noun", "d": ["A writer of epigrams."], "src": "iwb"}
+{"w": "epigrammatize", "pos": "verb", "d": ["To write epigrams.", "To express something in a concise, witty, epigram-like form."], "src": "iwb"}
+{"w": "epigraph", "pos": "noun", "d": ["An inscription on a building, statue, or monument.", "A short quotation placed at the beginning of a book or chapter."], "src": "iwb"}
+{"w": "epigraphy", "pos": "noun", "d": ["The study and interpretation of ancient inscriptions."], "src": "iwb"}
+{"w": "epigynous", "pos": "adjective", "d": ["Having the petals, sepals, and stamens attached above the ovary, as in an apple blossom."], "src": "iwb"}
+{"w": "epihyal", "pos": "noun", "d": ["One of the upper segments of the hyoid arch in vertebrates."], "src": "iwb"}
+{"w": "epilepsy", "pos": "noun", "d": ["A neurological disorder marked by recurrent seizures."], "src": "iwb"}
+{"w": "epileptic", "pos": "adjective", "d": ["Relating to or characteristic of epilepsy.", "Affected with epilepsy."], "src": "iwb"}
+{"w": "epileptiform", "pos": "adjective", "d": ["Resembling epilepsy or an epileptic seizure."], "src": "iwb"}
+{"w": "epileptogenous", "pos": "adjective", "d": ["Tending to cause epilepsy."], "src": "iwb"}
+{"w": "epileptoid", "pos": "adjective", "d": ["Resembling epilepsy; epileptiform."], "src": "iwb"}
+{"w": "epilogation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epilogic", "pos": "adjective", "d": ["Relating to or resembling an epilogue."], "src": "iwb"}
+{"w": "epilogism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epilogistic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epilogize", "pos": "verb", "d": ["To write or speak an epilogue."], "src": "iwb"}
+{"w": "epilogue", "pos": "noun", "d": ["A short concluding section at the end of a book, play, or speech."], "src": "iwb"}
+{"w": "epiloguize", "pos": "verb", "d": ["To write or utter an epilogue."], "src": "iwb"}
+{"w": "epimachus", "pos": "noun", "d": ["A genus of sicklebill birds of paradise native to New Guinea."], "src": "iwb"}
+{"w": "epimera", "pos": "noun", "d": ["The plural of epimeron: the lateral plates of an insect's thoracic segments."], "src": "iwb"}
+{"w": "epimeral", "pos": "adjective", "d": ["Relating to the epimeron of an insect."], "src": "iwb"}
+{"w": "epimere", "pos": "noun", "d": ["The dorsal portion of a segmented block of embryonic mesoderm."], "src": "iwb"}
+{"w": "epimeron", "pos": "noun", "d": ["A lateral plate on a segment of an insect's thorax."], "src": "iwb"}
+{"w": "epinastic", "pos": "adjective", "d": ["Relating to epinasty, the downward curving of a plant organ caused by faster growth on its upper side."], "src": "iwb"}
+{"w": "epineural", "pos": "adjective", "d": ["Situated on or over a nerve."], "src": "iwb"}
+{"w": "epineurium", "pos": "noun", "d": ["The outer sheath of connective tissue enclosing a nerve."], "src": "iwb"}
+{"w": "epinglette", "pos": "noun", "d": ["A small ornamental pin or badge worn on the lapel."], "src": "iwb"}
+{"w": "epinicial", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epinicion", "pos": "noun", "d": ["A victory ode in ancient Greek poetry."], "src": "iwb"}
+{"w": "epinikian", "pos": "adjective", "d": ["Relating to ancient Greek victory odes."], "src": "iwb"}
+{"w": "epiornis", "pos": "noun", "d": ["An extinct genus of giant flightless birds, the elephant birds of Madagascar."], "src": "iwb"}
+{"w": "epiotic", "pos": "adjective", "d": ["Relating to a bone of the auditory region in the skull of fishes."], "src": "iwb"}
+{"w": "epipedometry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epiperipheral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epipetalous", "pos": "adjective", "d": ["Borne upon or attached to the petals, as epipetalous stamens."], "src": "iwb"}
+{"w": "epiphany", "pos": "noun", "d": ["A sudden, striking realization or moment of insight.", "The Christian feast celebrating the manifestation of Christ to the Magi, observed on January 6."], "src": "iwb"}
+{"w": "epipharyngeal", "pos": "adjective", "d": ["Situated above or relating to the pharynx."], "src": "iwb"}
+{"w": "epipharynx", "pos": "noun", "d": ["The upper part of the pharynx behind the nasal cavity; the nasopharynx."], "src": "iwb"}
+{"w": "epiphonema", "pos": "noun", "d": ["A pithy, striking sentence or moral placed at the end of a speech or narrative."], "src": "iwb"}
+{"w": "epiphoneme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epiphora", "pos": "noun", "d": ["The repetition of a word or phrase at the end of successive clauses for emphasis.", "Abnormal watering of the eyes caused by blocked tear drainage."], "src": "iwb"}
+{"w": "epiphragm", "pos": "noun", "d": ["A membrane of dried mucus with which a snail seals the opening of its shell during dormancy."], "src": "iwb"}
+{"w": "epiphyllospermous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epiphyllous", "pos": "adjective", "d": ["Growing upon leaves."], "src": "iwb"}
+{"w": "epiphyllum", "pos": "noun", "d": ["A genus of tropical American cacti with broad, flat stems and large showy flowers, often growing as epiphytes."], "src": "iwb"}
+{"w": "epiphyseal", "pos": "adjective", "d": ["Relating to the epiphysis of a bone."], "src": "iwb"}
+{"w": "epiphysial", "pos": "adjective", "d": ["Relating to the epiphysis of a bone."], "src": "iwb"}
+{"w": "epiphysis", "pos": "noun", "d": ["The rounded end of a long bone, separated from the shaft by cartilage in the growing skeleton.", "The pineal gland."], "src": "iwb"}
+{"w": "epiphytal", "pos": "adjective", "d": ["Relating to or characteristic of epiphytes."], "src": "iwb"}
+{"w": "epiphyte", "pos": "noun", "d": ["A plant that grows on another plant for support without taking nourishment from it."], "src": "iwb"}
+{"w": "epiphytic", "pos": "adjective", "d": ["Relating to or living as an epiphyte."], "src": "iwb"}
+{"w": "epiplastron", "pos": "noun", "d": ["One of the paired front plates of a turtle's plastron, the flat under-shell."], "src": "iwb"}
+{"w": "epipleural", "pos": "adjective", "d": ["Situated above or upon the side or pleura."], "src": "iwb"}
+{"w": "epiplexis", "pos": "noun", "d": ["A rhetorical figure that reproaches or upbraids, often through pointed questions."], "src": "iwb"}
+{"w": "epiploce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epiploic", "pos": "adjective", "d": ["Relating to the epiploon or omentum."], "src": "iwb"}
+{"w": "epiplooen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epiploon", "pos": "noun", "d": ["A fold of the peritoneum connecting the stomach to other abdominal organs; the omentum."], "src": "iwb"}
+{"w": "epipodial", "pos": "adjective", "d": ["Relating to the epipodium."], "src": "iwb"}
+{"w": "epipodiale", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epipodite", "pos": "noun", "d": ["The outer branch of a limb in crustaceans and some other arthropods."], "src": "iwb"}
+{"w": "epipodium", "pos": "noun", "d": ["A lateral fold or expansion of the foot in certain mollusks."], "src": "iwb"}
+{"w": "epipolic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epipolism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epipolized", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epipteric", "pos": "adjective", "d": ["Relating to a small bone sometimes found at the pterion, the junction of skull bones behind the eye."], "src": "iwb"}
+{"w": "epipterygoid", "pos": "noun", "d": ["A slender bone in the skull of reptiles that braces the palate against the braincase."], "src": "iwb"}
+{"w": "epipubic", "pos": "adjective", "d": ["Situated above the pubis."], "src": "iwb"}
+{"w": "epipubis", "pos": "noun", "d": ["A bone projecting forward from the pelvis in marsupials and monotremes."], "src": "iwb"}
+{"w": "episcopacy", "pos": "noun", "d": ["Church government by bishops."], "src": "iwb"}
+{"w": "episcopal", "pos": "adjective", "d": ["Relating to or governed by bishops."], "src": "iwb"}
+{"w": "episcopalian", "pos": "noun", "d": ["A member of a church governed by bishops, especially the Episcopal Church.", "Relating to episcopacy or bishops."], "src": "iwb"}
+{"w": "episcopant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "episcoparian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "episcopate", "pos": "noun", "d": ["The office, rank, or term of a bishop.", "The body of bishops collectively."], "src": "iwb"}
+{"w": "episcopicide", "pos": "noun", "d": ["The act of killing a bishop."], "src": "iwb"}
+{"w": "episcopize", "pos": "verb", "d": ["To bring under episcopal government or make episcopal in form."], "src": "iwb"}
+{"w": "episcopy", "pos": "noun", "d": ["The office, dignity, or jurisdiction of a bishop."], "src": "iwb"}
+{"w": "episepalous", "pos": "adjective", "d": ["Borne upon or attached to the sepals, as stamens growing from the sepals of a flower."], "src": "iwb"}
+{"w": "episkeletal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "episodal", "pos": "adjective", "d": ["Relating to or having the character of an episode."], "src": "iwb"}
+{"w": "episodial", "pos": "adjective", "d": ["Of or pertaining to an episode."], "src": "iwb"}
+{"w": "episodic", "pos": "adjective", "d": ["Happening in separate episodes rather than continuously.", "Relating to a single episode of a continuing series."], "src": "iwb"}
+{"w": "epispadias", "pos": "noun", "d": ["A birth condition in which the opening of the urethra is on the upper side of the penis."], "src": "iwb"}
+{"w": "epispastic", "pos": "adjective", "d": ["Causing blisters when applied to the skin."], "src": "iwb"}
+{"w": "episperm", "pos": "noun", "d": ["The outer coat or covering of a seed."], "src": "iwb"}
+{"w": "epispore", "pos": "noun", "d": ["The outer wall or coat of a spore."], "src": "iwb"}
+{"w": "epistaxis", "pos": "noun", "d": ["Bleeding from the nose."], "src": "iwb"}
+{"w": "epistemology", "pos": "noun", "d": ["The branch of philosophy that studies the nature, sources, and limits of knowledge."], "src": "iwb"}
+{"w": "episternal", "pos": "adjective", "d": ["Situated above or upon the sternum."], "src": "iwb"}
+{"w": "episternum", "pos": "noun", "d": ["A plate on the side of an insect's thorax.", "The upper part of the breastbone in vertebrates."], "src": "iwb"}
+{"w": "epistilbite", "pos": "noun", "d": ["A whitish zeolite mineral composed of hydrated calcium aluminum silicate."], "src": "iwb"}
+{"w": "epistle", "pos": "noun", "d": ["A letter, especially a formal or literary one.", "Any of the apostolic letters in the New Testament."], "src": "iwb"}
+{"w": "epistolar", "pos": "adjective", "d": ["Relating to letters or letter writing."], "src": "iwb"}
+{"w": "epistolary", "pos": "adjective", "d": ["Written in the form of a series of letters.", "Relating to the writing of letters."], "src": "iwb"}
+{"w": "epistolean", "pos": "adjective", "d": ["Relating to the epistles, especially those of the New Testament."], "src": "iwb"}
+{"w": "epistoler", "pos": "noun", "d": ["A writer of epistles or letters."], "src": "iwb"}
+{"w": "epistolet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epistolic", "pos": "adjective", "d": ["Relating to or written in the form of epistles."], "src": "iwb"}
+{"w": "epistolize", "pos": "verb", "d": ["To write epistles or carry on correspondence by letter."], "src": "iwb"}
+{"w": "epistolographic", "pos": "adjective", "d": ["Relating to the writing of letters."], "src": "iwb"}
+{"w": "epistolography", "pos": "noun", "d": ["The art or practice of writing letters."], "src": "iwb"}
+{"w": "epistoma", "pos": "noun", "d": ["A plate above the mouth in certain crustaceans and other invertebrates."], "src": "iwb"}
+{"w": "epistome", "pos": "noun", "d": ["A plate or region above the mouth in certain invertebrates."], "src": "iwb"}
+{"w": "epistrophe", "pos": "noun", "d": ["The repetition of the same word or phrase at the end of successive clauses for emphasis."], "src": "iwb"}
+{"w": "epistyle", "pos": "noun", "d": ["A beam resting directly on the tops of columns; an architrave."], "src": "iwb"}
+{"w": "episyllogism", "pos": "noun", "d": ["A syllogism joined to or following upon another syllogism."], "src": "iwb"}
+{"w": "epitaph", "pos": "noun", "d": ["An inscription on a tomb or gravestone in memory of the person buried there."], "src": "iwb"}
+{"w": "epitaphian", "pos": "adjective", "d": ["Relating to epitaphs."], "src": "iwb"}
+{"w": "epitasis", "pos": "noun", "d": ["The part of a play in which the complications of the plot develop and thicken."], "src": "iwb"}
+{"w": "epithalamic", "pos": "adjective", "d": ["Relating to an epithalamium, a song or poem for a wedding."], "src": "iwb"}
+{"w": "epithalamium", "pos": "noun", "d": ["A song or poem written to celebrate a marriage."], "src": "iwb"}
+{"w": "epithalamy", "pos": "noun", "d": ["A wedding song or poem; an epithalamium."], "src": "iwb"}
+{"w": "epitheca", "pos": "noun", "d": ["The outer wall of the cup of a coral polyp.", "The larger of the two valves forming the shell of a diatom."], "src": "iwb"}
+{"w": "epithelial", "pos": "adjective", "d": ["Relating to or composed of epithelium, the tissue that covers body surfaces."], "src": "iwb"}
+{"w": "epithelioid", "pos": "adjective", "d": ["Resembling epithelial tissue."], "src": "iwb"}
+{"w": "epithelioma", "pos": "noun", "d": ["A tumor that grows from epithelial tissue, including some forms of skin cancer."], "src": "iwb"}
+{"w": "epithelium", "pos": "noun", "d": ["The layer of cells that covers the outer surface of the body and lines its internal cavities."], "src": "iwb"}
+{"w": "epitheloid", "pos": "adjective", "d": ["Resembling epithelial tissue."], "src": "iwb"}
+{"w": "epithem", "pos": "noun", "d": ["A medicinal substance applied to the outside of the body, such as a poultice."], "src": "iwb"}
+{"w": "epithema", "pos": "noun", "d": ["A medicinal application placed on the outside of the body rather than taken internally."], "src": "iwb"}
+{"w": "epithesis", "pos": "noun", "d": ["The addition of a sound or letter at the end of a word, as in saying amongst for among."], "src": "iwb"}
+{"w": "epithet", "pos": "noun", "d": ["A descriptive word or phrase that characterizes a person or thing."], "src": "iwb"}
+{"w": "epithite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epithumetic", "pos": "adjective", "d": ["Relating to appetite or desire, especially the appetitive part of the soul in ancient philosophy."], "src": "iwb"}
+{"w": "epitithides", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epitomator", "pos": "noun", "d": ["A person who makes an epitome; one who abridges a longer work."], "src": "iwb"}
+{"w": "epitome", "pos": "noun", "d": ["A condensed summary of a longer written work.", "A person or thing that perfectly represents a type or quality."], "src": "iwb"}
+{"w": "epitomist", "pos": "noun", "d": ["One who writes epitomes or abridges longer works."], "src": "iwb"}
+{"w": "epitomize", "pos": "verb", "d": ["To make a condensed summary of a longer work.", "To be a perfect example of a type or quality."], "src": "iwb"}
+{"w": "epitrite", "pos": "noun", "d": ["A metrical foot consisting of one short syllable and three long syllables."], "src": "iwb"}
+{"w": "epitrochlea", "pos": "noun", "d": ["The inner knob at the lower end of the upper arm bone, above the elbow."], "src": "iwb"}
+{"w": "epitrochlear", "pos": "adjective", "d": ["Relating to the epitrochlea, the inner condyle of the humerus."], "src": "iwb"}
+{"w": "epitrochoid", "pos": "noun", "d": ["A curve traced by a point on a circle rolling around the outside of another circle."], "src": "iwb"}
+{"w": "epitrope", "pos": "noun", "d": ["A guardian, trustee, or overseer, especially in Greek or Byzantine usage."], "src": "iwb"}
+{"w": "epizeuxis", "pos": "noun", "d": ["The immediate repetition of a word for emphasis, as in never, never."], "src": "iwb"}
+{"w": "epizoan", "pos": "noun", "d": ["An animal that lives on the outside of another animal, such as an external parasite."], "src": "iwb"}
+{"w": "epizoic", "pos": "adjective", "d": ["Living on the outer surface of an animal."], "src": "iwb"}
+{"w": "epizooen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epizooetic", "pos": "adjective", "d": ["Relating to animals that live on the outside of other animals."], "src": "iwb"}
+{"w": "epizooety", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epizoon", "pos": "noun", "d": ["An animal parasite that lives on the outside of its host."], "src": "iwb"}
+{"w": "epizootic", "pos": "adjective", "d": ["Affecting many animals at the same time, like an epidemic among animals."], "src": "iwb"}
+{"w": "epizooty", "pos": "noun", "d": ["An epidemic disease that spreads among animals."], "src": "iwb"}
+{"w": "epoch", "pos": "noun", "d": ["A long period of time marked by notable events or characteristics.", "A particular point in time from which dates are reckoned."], "src": "iwb"}
+{"w": "epocha", "pos": "noun", "d": ["A fixed point in time used as a reference in astronomy."], "src": "iwb"}
+{"w": "epode", "pos": "noun", "d": ["The closing part of a Greek lyric ode, following the strophe and antistrophe."], "src": "iwb"}
+{"w": "epodic", "pos": "adjective", "d": ["Relating to an epode."], "src": "iwb"}
+{"w": "eponym", "pos": "noun", "d": ["A person after whom something is named."], "src": "iwb"}
+{"w": "eponyme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "eponymy", "pos": "noun", "d": ["The practice of naming something after a person, or the state of being so named."], "src": "iwb"}
+{"w": "epooephoron", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epoophoron", "pos": "noun", "d": ["A small vestigial structure near the ovary, a remnant of embryonic development."], "src": "iwb"}
+{"w": "epopee", "pos": "noun", "d": ["An epic poem."], "src": "iwb"}
+{"w": "epopoeia", "pos": "noun", "d": ["The making of an epic poem; epic poetry itself."], "src": "iwb"}
+{"w": "epopt", "pos": "noun", "d": ["One initiated into the secret rites of the Eleusinian mysteries; an initiated beholder."], "src": "iwb"}
+{"w": "epos", "pos": "noun", "d": ["An epic poem; the body of epic poetry."], "src": "iwb"}
+{"w": "epotation", "pos": "noun", "d": ["The act of drinking; a bout of drinking."], "src": "iwb"}
+{"w": "eprouvette", "pos": "noun", "d": ["A small mortar or device once used for testing the strength of gunpowder."], "src": "iwb"}
+{"w": "epsom salt", "pos": "phrase", "d": ["A bitter crystalline salt of magnesium, used as a laxative and in soothing baths."], "src": "iwb"}
+{"w": "epsomite", "pos": "noun", "d": ["A soft white mineral composed of hydrated magnesium sulfate, the natural form of Epsom salt."], "src": "iwb"}
+{"w": "epulary", "pos": "adjective", "d": ["Relating to feasts or banquets."], "src": "iwb"}
+{"w": "epulation", "pos": "noun", "d": ["The act of feasting; a banquet."], "src": "iwb"}
+{"w": "epulis", "pos": "noun", "d": ["A tumor or growth on the gum."], "src": "iwb"}
+{"w": "epulose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epulosity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "epulotic", "pos": "adjective", "d": ["Promoting the healing of wounds and the forming of scar tissue."], "src": "iwb"}
+{"w": "epuration", "pos": "noun", "d": ["The act of purifying; purification."], "src": "iwb"}
+{"w": "epure", "pos": "noun", "d": ["A precise geometrical drawing showing the projections of a solid figure."], "src": "iwb"}
+{"w": "epworth league", "pos": "phrase", "d": ["A Methodist organization for young people, founded in the late nineteenth century."], "src": "iwb"}
+{"w": "equability", "pos": "noun", "d": ["The quality of being even and steady, especially of temper."], "src": "iwb"}
+{"w": "equable", "pos": "adjective", "d": ["Even-tempered and not easily disturbed.", "Steady and uniform, as a climate without extremes."], "src": "iwb"}
+{"w": "equably", "pos": "adverb", "d": ["In an even, steady, and undisturbed manner."], "src": "iwb"}
+{"w": "equalitarian", "pos": "adjective", "d": ["Favoring or promoting equal rights and opportunities for all people."], "src": "iwb"}
+{"w": "equalization", "pos": "noun", "d": ["The act of making things equal or uniform in amount, rate, or value.", "In audio, the adjustment of signal strength across different frequencies."], "src": "iwb"}
+{"w": "equangular", "pos": "adjective", "d": ["Having all angles equal."], "src": "iwb"}
+{"w": "equanimity", "pos": "noun", "d": ["Calm and steady composure, especially in difficult or stressful situations."], "src": "iwb"}
+{"w": "equanimous", "pos": "adjective", "d": ["Calm and composed; showing equanimity."], "src": "iwb"}
+{"w": "equant", "pos": "noun", "d": ["A point used in ancient Ptolemaic astronomy from which a planet's motion was assumed to appear uniform."], "src": "iwb"}
+{"w": "equate", "pos": "verb", "d": ["To consider or treat as equal or equivalent.", "To make equal in amount or value."], "src": "iwb"}
+{"w": "equator", "pos": "noun", "d": ["The imaginary line around the middle of the Earth, equally distant from the North and South Poles."], "src": "iwb"}
+{"w": "equerry", "pos": "noun", "d": ["An officer or attendant in a royal household who serves a member of the royal family."], "src": "iwb"}
+{"w": "equery", "pos": "noun", "d": ["An obsolete form of equerry, a royal household attendant."], "src": "iwb"}
+{"w": "equestrian", "pos": "adjective", "d": ["Relating to horseback riding or riders."], "src": "iwb"}
+{"w": "equestrienne", "pos": "noun", "d": ["A woman skilled in horseback riding."], "src": "iwb"}
+{"w": "equi-", "pos": "prefix", "d": ["A prefix meaning equal, as in equidistant."], "src": "iwb"}
+{"w": "equiangled", "pos": "adjective", "d": ["Having equal angles."], "src": "iwb"}
+{"w": "equiangular", "pos": "adjective", "d": ["Having all angles equal."], "src": "iwb"}
+{"w": "equibalance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equicrescent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equicrural", "pos": "adjective", "d": ["Having equal legs, as an isosceles triangle."], "src": "iwb"}
+{"w": "equicrure", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equidifferent", "pos": "adjective", "d": ["Having equal differences, as successive terms of an arithmetic progression."], "src": "iwb"}
+{"w": "equidistance", "pos": "noun", "d": ["Equal distance from two or more points."], "src": "iwb"}
+{"w": "equidistant", "pos": "adjective", "d": ["Equally distant from two or more points or objects."], "src": "iwb"}
+{"w": "equidiurnal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equiform", "pos": "adjective", "d": ["Having the same form or shape."], "src": "iwb"}
+{"w": "equilateral", "pos": "adjective", "d": ["Having all sides equal in length."], "src": "iwb"}
+{"w": "equilibrate", "pos": "verb", "d": ["To bring into equilibrium; to balance evenly."], "src": "iwb"}
+{"w": "equilibration", "pos": "noun", "d": ["The act of balancing, or the state of being in balance."], "src": "iwb"}
+{"w": "equilibrious", "pos": "adjective", "d": ["In a state of equilibrium; evenly balanced."], "src": "iwb"}
+{"w": "equilibrist", "pos": "noun", "d": ["A performer skilled at feats of balance, such as a tightrope walker."], "src": "iwb"}
+{"w": "equilibrity", "pos": "noun", "d": ["The state of being balanced; equilibrium."], "src": "iwb"}
+{"w": "equimomental", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equimultiple", "pos": "noun", "d": ["A quantity that is the same multiple of one magnitude as another quantity is of another."], "src": "iwb"}
+{"w": "equinal", "pos": "adjective", "d": ["Relating to horses."], "src": "iwb"}
+{"w": "equine", "pos": "adjective", "d": ["Relating to horses or horse-like animals."], "src": "iwb"}
+{"w": "equinia", "pos": "noun", "d": ["An infectious disease of horses, also called glanders."], "src": "iwb"}
+{"w": "equinoctial", "pos": "adjective", "d": ["Relating to an equinox, when day and night are equal."], "src": "iwb"}
+{"w": "equinox", "pos": "noun", "d": ["One of the two times each year when day and night are of nearly equal length."], "src": "iwb"}
+{"w": "equinumerant", "pos": "adjective", "d": ["Having the same number of elements or members."], "src": "iwb"}
+{"w": "equip", "pos": "verb", "d": ["To supply with the tools, gear, or resources needed for a task."], "src": "iwb"}
+{"w": "equiparate", "pos": "verb", "d": ["To make equal or equivalent."], "src": "iwb"}
+{"w": "equipedal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equipendency", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equipoise", "pos": "noun", "d": ["A state of balance between opposing forces or weights."], "src": "iwb"}
+{"w": "equipollence", "pos": "noun", "d": ["Equal power, force, or effect; equivalence."], "src": "iwb"}
+{"w": "equipollency", "pos": "noun", "d": ["The state of being equipollent; equal power or force."], "src": "iwb"}
+{"w": "equipollent", "pos": "adjective", "d": ["Equal in power, force, or effect."], "src": "iwb"}
+{"w": "equiponderance", "pos": "noun", "d": ["Equality of weight."], "src": "iwb"}
+{"w": "equiponderancy", "pos": "noun", "d": ["The state of being equiponderant; equality of weight."], "src": "iwb"}
+{"w": "equiponderant", "pos": "adjective", "d": ["Of equal weight."], "src": "iwb"}
+{"w": "equiponderate", "pos": "verb", "d": ["To make equal in weight; to balance."], "src": "iwb"}
+{"w": "equiponderous", "pos": "adjective", "d": ["Of equal weight; equiponderant."], "src": "iwb"}
+{"w": "equipondious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equipotential", "pos": "adjective", "d": ["Having the same potential, as points of equal electric potential."], "src": "iwb"}
+{"w": "equiradical", "pos": "adjective", "d": ["Having equal roots, as algebraic equations."], "src": "iwb"}
+{"w": "equirotal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equisetaceous", "pos": "adjective", "d": ["Belonging to or resembling the horsetail plant family."], "src": "iwb"}
+{"w": "equisetiform", "pos": "adjective", "d": ["Shaped like a horsetail plant."], "src": "iwb"}
+{"w": "equisetum", "pos": "noun", "d": ["The genus of horsetail plants."], "src": "iwb"}
+{"w": "equisonance", "pos": "noun", "d": ["Identity of pitch between sounds; unison."], "src": "iwb"}
+{"w": "equisonant", "pos": "adjective", "d": ["Sounding at the same pitch; in unison."], "src": "iwb"}
+{"w": "equitable", "pos": "adjective", "d": ["Fair and impartial; just."], "src": "iwb"}
+{"w": "equitably", "pos": "adverb", "d": ["In a fair and just manner."], "src": "iwb"}
+{"w": "equitancy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "equitant", "pos": "adjective", "d": ["Having leaves that overlap at the base in two opposite rows, as in the iris."], "src": "iwb"}
+{"w": "equitation", "pos": "noun", "d": ["The art and practice of horseback riding."], "src": "iwb"}
+{"w": "equitemporaneous", "pos": "adjective", "d": ["Happening or existing at the same time as something else."], "src": "iwb"}
+{"w": "equites", "pos": "noun", "d": ["The knightly or equestrian class of ancient Rome."], "src": "iwb"}
+{"w": "equivalence", "pos": "noun", "d": ["The state of being equal in value, meaning, or effect."], "src": "iwb"}
+{"w": "equivalency", "pos": "noun", "d": ["The condition of being equivalent; equivalence."], "src": "iwb"}
+{"w": "equivalue", "pos": "noun", "d": ["A thing of equal value."], "src": "iwb"}
+{"w": "equivalve", "pos": "adjective", "d": ["Having valves of equal size and shape, as some bivalve shells."], "src": "iwb"}
+{"w": "equivalvular", "pos": "adjective", "d": ["Having equal valves; equivalve."], "src": "iwb"}
+{"w": "equivocacy", "pos": "noun", "d": ["The practice of using ambiguous language to mislead."], "src": "iwb"}
+{"w": "equivocal", "pos": "adjective", "d": ["Open to more than one interpretation; deliberately vague."], "src": "iwb"}
+{"w": "equivocate", "pos": "verb", "d": ["To use vague or ambiguous language in order to avoid giving a direct answer."], "src": "iwb"}
+{"w": "equivocation", "pos": "noun", "d": ["The use of ambiguous language to conceal the truth or avoid commitment."], "src": "iwb"}
+{"w": "equivocator", "pos": "noun", "d": ["A person who equivocates."], "src": "iwb"}
+{"w": "equivocatory", "pos": "adjective", "d": ["Characterized by equivocation; evasive."], "src": "iwb"}
+{"w": "equivoke", "pos": "noun", "d": ["An ambiguous expression; an equivocation."], "src": "iwb"}
+{"w": "equivoque", "pos": "noun", "d": ["An ambiguous expression or pun; a play on words."], "src": "iwb"}
+{"w": "equivorous", "pos": "adjective", "d": ["Feeding on horse meat."], "src": "iwb"}
+{"w": "equus", "pos": "noun", "d": ["The genus comprising horses, donkeys, and zebras."], "src": "iwb"}
+{"w": "eradiate", "pos": "verb", "d": ["To shoot out or radiate outward like rays."], "src": "iwb"}
+{"w": "eradiation", "pos": "noun", "d": ["The act of radiating outward; emission of rays."], "src": "iwb"}
+{"w": "eradicable", "pos": "adjective", "d": ["Capable of being eradicated."], "src": "iwb"}
+{"w": "eradicate", "pos": "verb", "d": ["To destroy or remove completely; to root out."], "src": "iwb"}
+{"w": "eradication", "pos": "noun", "d": ["Complete destruction or removal; the act of eradicating."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

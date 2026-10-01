@@ -15816,6 +15816,806 @@
 {"w": "conirostres", "pos": "noun", "d": ["A group of birds having cone-shaped bills."], "src": "iwb"}
 {"w": "conisor", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "conistra", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "conite", "pos": "noun", "d": ["A poisonous plant of the hemlock family."], "src": "iwb"}
+{"w": "conium", "pos": "noun", "d": ["A genus of poisonous plants that includes hemlock."], "src": "iwb"}
+{"w": "conject", "pos": "verb", "d": ["To suppose or guess at something without complete evidence."], "src": "iwb"}
+{"w": "conjector", "pos": "noun", "d": ["One who forms guesses or opinions without full evidence."], "src": "iwb"}
+{"w": "conjugate", "pos": "verb", "d": ["To change the form of a verb to show tense, person, and number."], "src": "iwb"}
+{"w": "conjugation", "pos": "noun", "d": ["The way a verb changes form to show tense, person, and number.", "A group of verbs that follow the same pattern of changes."], "src": "iwb"}
+{"w": "conjugial", "pos": "adjective", "d": ["Relating to marriage or the love between married partners."], "src": "iwb"}
+{"w": "conjugium", "pos": "noun", "d": ["The bond or union of marriage."], "src": "iwb"}
+{"w": "conjunct", "pos": "adjective", "d": ["Joined together with something else."], "src": "iwb"}
+{"w": "conjunctiva", "pos": "noun", "d": ["The thin clear membrane that covers the white of the eye and the inner eyelids."], "src": "iwb"}
+{"w": "conjunctival", "pos": "adjective", "d": ["Relating to the conjunctiva."], "src": "iwb"}
+{"w": "conjunctivitis", "pos": "noun", "d": ["Inflammation of the conjunctiva, making the eyes red and irritated."], "src": "iwb"}
+{"w": "conjuration", "pos": "noun", "d": ["The act of summoning a spirit or working magic by spoken words."], "src": "iwb"}
+{"w": "conjurator", "pos": "noun", "d": ["One who summons spirits or practices magic."], "src": "iwb"}
+{"w": "conjure", "pos": "verb", "d": ["To summon a spirit by a spoken charm.", "To bring something to mind as if by magic."], "src": "iwb"}
+{"w": "conn", "pos": "verb", "d": ["To direct the steering of a ship."], "src": "iwb"}
+{"w": "connascence", "pos": "noun", "d": ["The state of being born or growing together with something else."], "src": "iwb"}
+{"w": "connate-perfoliate", "pos": "adjective", "d": ["Describing a leaf whose base wraps around the stem and whose opposite leaves are joined together."], "src": "iwb"}
+{"w": "connectedly", "pos": "adverb", "d": ["In a connected manner."], "src": "iwb"}
+{"w": "connex", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "conning tower", "pos": "phrase", "d": ["The raised structure on a submarine or warship from which the vessel is directed."], "src": "iwb"}
+{"w": "connivance", "pos": "noun", "d": ["Secret or quiet permission for something wrong to happen.", "The act of winking at wrongdoing."], "src": "iwb"}
+{"w": "connivency", "pos": "noun", "d": ["Secret approval or tolerance of wrongdoing."], "src": "iwb"}
+{"w": "connivent", "pos": "adjective", "d": ["Winking at or secretly allowing wrongdoing.", "Converging toward a common point, as petals."], "src": "iwb"}
+{"w": "connoisseur", "pos": "noun", "d": ["A person with expert taste and knowledge in a particular field."], "src": "iwb"}
+{"w": "connotative", "pos": "adjective", "d": ["Relating to the implied or associated meaning of a word beyond its literal sense."], "src": "iwb"}
+{"w": "connubial", "pos": "adjective", "d": ["Relating to marriage or married couples."], "src": "iwb"}
+{"w": "connusor", "pos": "noun", "d": ["In law, a person who acknowledges a fine levied on land."], "src": "iwb"}
+{"w": "conny", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "conodont", "pos": "noun", "d": ["A tiny extinct marine fossil, shaped like a tooth, from an early eel-like animal."], "src": "iwb"}
+{"w": "conoid", "pos": "adjective", "d": ["Having the shape of a cone."], "src": "iwb"}
+{"w": "conquassate", "pos": "verb", "d": ["To shake or dash violently."], "src": "iwb"}
+{"w": "conquer", "pos": "verb", "d": ["To defeat and take control of by force."], "src": "iwb"}
+{"w": "conqueress", "pos": "noun", "d": ["A woman who conquers."], "src": "iwb"}
+{"w": "conqueror", "pos": "noun", "d": ["One who conquers or overcomes by force."], "src": "iwb"}
+{"w": "conquian", "pos": "noun", "d": ["A two-player card game, an early form of rummy."], "src": "iwb"}
+{"w": "consanguineal", "pos": "adjective", "d": ["Relating to blood relationship."], "src": "iwb"}
+{"w": "consanguined", "pos": "adjective", "d": ["Related by blood."], "src": "iwb"}
+{"w": "consarcination", "pos": "noun", "d": ["The act of patching or joining pieces together."], "src": "iwb"}
+{"w": "conscientious", "pos": "adjective", "d": ["Careful and honest in doing one's work and duties."], "src": "iwb"}
+{"w": "conscionable", "pos": "adjective", "d": ["In agreement with one's conscience; fair and right."], "src": "iwb"}
+{"w": "conscionably", "pos": "adverb", "d": ["In a fair or just manner, according to conscience."], "src": "iwb"}
+{"w": "consecrate", "pos": "verb", "d": ["To make holy or set apart for a sacred purpose."], "src": "iwb"}
+{"w": "consecration", "pos": "noun", "d": ["The act of making something holy or setting it apart for a sacred use."], "src": "iwb"}
+{"w": "consecrator", "pos": "noun", "d": ["One who consecrates."], "src": "iwb"}
+{"w": "consecratory", "pos": "adjective", "d": ["Relating to consecration."], "src": "iwb"}
+{"w": "consectaneous", "pos": "adjective", "d": ["Following as a natural consequence."], "src": "iwb"}
+{"w": "consecute", "pos": "verb", "d": ["To follow in regular order or sequence."], "src": "iwb"}
+{"w": "consecution", "pos": "noun", "d": ["The act of following in regular order; a succession."], "src": "iwb"}
+{"w": "consension", "pos": "noun", "d": ["Agreement of opinion or sentiment."], "src": "iwb"}
+{"w": "consentaneity", "pos": "noun", "d": ["The state of agreeing or being consistent."], "src": "iwb"}
+{"w": "consentaneous", "pos": "adjective", "d": ["In agreement; consistent with something else."], "src": "iwb"}
+{"w": "consentingly", "pos": "adverb", "d": ["In a willing or agreeing manner."], "src": "iwb"}
+{"w": "consertion", "pos": "noun", "d": ["The act of joining or fitting parts together."], "src": "iwb"}
+{"w": "conservancy", "pos": "noun", "d": ["An organization that protects natural resources.", "The act of preserving something."], "src": "iwb"}
+{"w": "conservatism", "pos": "noun", "d": ["Preference for keeping things as they are rather than making changes."], "src": "iwb"}
+{"w": "conservatoire", "pos": "noun", "d": ["A school of music or art, especially in Europe."], "src": "iwb"}
+{"w": "conservator", "pos": "noun", "d": ["A person who protects or manages something, such as art or an estate."], "src": "iwb"}
+{"w": "conservatory", "pos": "noun", "d": ["A school of music or art.", "A glass-walled room for growing plants."], "src": "iwb"}
+{"w": "conservatrix", "pos": "noun", "d": ["A woman who preserves or takes care of something."], "src": "iwb"}
+{"w": "considerative", "pos": "adjective", "d": ["Careful in thought; reflective."], "src": "iwb"}
+{"w": "considerator", "pos": "noun", "d": ["One who thinks about or weighs matters carefully."], "src": "iwb"}
+{"w": "consideringly", "pos": "adverb", "d": ["In a thoughtful or careful manner."], "src": "iwb"}
+{"w": "consignatary", "pos": "noun", "d": ["A person to whom goods or property are entrusted."], "src": "iwb"}
+{"w": "consigne", "pos": "noun", "d": ["A countersign or secret password."], "src": "iwb"}
+{"w": "consignee", "pos": "noun", "d": ["The person to whom goods are shipped."], "src": "iwb"}
+{"w": "consilience", "pos": "noun", "d": ["Agreement of separate facts or evidence in support of one conclusion."], "src": "iwb"}
+{"w": "consimility", "pos": "noun", "d": ["The state of being similar."], "src": "iwb"}
+{"w": "consistorian", "pos": "adjective", "d": ["Relating to an ecclesiastical council or court."], "src": "iwb"}
+{"w": "consociation", "pos": "noun", "d": ["A union or association of churches for mutual support."], "src": "iwb"}
+{"w": "consolato del mare", "pos": "phrase", "d": ["A medieval compilation of maritime law."], "src": "iwb"}
+{"w": "consolator", "pos": "noun", "d": ["One who comforts another in sorrow."], "src": "iwb"}
+{"w": "consolatory", "pos": "adjective", "d": ["Intended to comfort someone in sorrow."], "src": "iwb"}
+{"w": "consolidant", "pos": "noun", "d": ["A substance used to strengthen or solidify something."], "src": "iwb"}
+{"w": "consolidative", "pos": "adjective", "d": ["Tending to make firm or unite."], "src": "iwb"}
+{"w": "consomme", "pos": "noun", "d": ["A clear rich soup made from meat stock."], "src": "iwb"}
+{"w": "consonancy", "pos": "noun", "d": ["Agreement or harmony of sounds or opinions."], "src": "iwb"}
+{"w": "consonous", "pos": "adjective", "d": ["Agreeing in sound; harmonious."], "src": "iwb"}
+{"w": "consopiation", "pos": "noun", "d": ["The act of lulling someone to sleep."], "src": "iwb"}
+{"w": "conspectuity", "pos": "noun", "d": ["The quality of being clearly visible."], "src": "iwb"}
+{"w": "conspectus", "pos": "noun", "d": ["A general survey or summary of a subject."], "src": "iwb"}
+{"w": "conspersion", "pos": "noun", "d": ["The act of sprinkling something over a surface."], "src": "iwb"}
+{"w": "conspicuity", "pos": "noun", "d": ["The quality of standing out clearly."], "src": "iwb"}
+{"w": "conspicuous", "pos": "adjective", "d": ["Easy to see or notice."], "src": "iwb"}
+{"w": "conspirator", "pos": "noun", "d": ["One who takes part in a conspiracy."], "src": "iwb"}
+{"w": "conspiringly", "pos": "adverb", "d": ["In a manner suggesting a secret plot."], "src": "iwb"}
+{"w": "conspissation", "pos": "noun", "d": ["The act of making thick or dense."], "src": "iwb"}
+{"w": "conspurcate", "pos": "verb", "d": ["To make foul or impure."], "src": "iwb"}
+{"w": "conspurcation", "pos": "noun", "d": ["The act of polluting or making impure."], "src": "iwb"}
+{"w": "constablery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "constabless", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "constabulary", "pos": "noun", "d": ["The organized body of police officers in a district."], "src": "iwb"}
+{"w": "constabulatory", "pos": "adjective", "d": ["Relating to a constable or constabulary."], "src": "iwb"}
+{"w": "constancy", "pos": "noun", "d": ["Faithfulness and steadfastness."], "src": "iwb"}
+{"w": "constantia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "constat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "consternation", "pos": "noun", "d": ["Sudden shock and dismay."], "src": "iwb"}
+{"w": "constipate", "pos": "verb", "d": ["To block the bowels; to make costive."], "src": "iwb"}
+{"w": "constipation", "pos": "noun", "d": ["Difficulty in passing stools; blocked bowels."], "src": "iwb"}
+{"w": "constituency", "pos": "noun", "d": ["The voters of an electoral district.", "A group of supporters or patrons."], "src": "iwb"}
+{"w": "constituent", "pos": "noun", "d": ["A voter in an electoral district.", "A part that makes up a whole."], "src": "iwb"}
+{"w": "constitutive", "pos": "adjective", "d": ["Forming an essential part of something; having the power to establish."], "src": "iwb"}
+{"w": "constrictor", "pos": "noun", "d": ["A muscle that tightens or closes a part.", "A snake that crushes its prey in its coils."], "src": "iwb"}
+{"w": "constringe", "pos": "verb", "d": ["To draw together or tighten."], "src": "iwb"}
+{"w": "constructor", "pos": "noun", "d": ["One who builds or constructs."], "src": "iwb"}
+{"w": "construe", "pos": "verb", "d": ["To interpret or explain the meaning of words or actions."], "src": "iwb"}
+{"w": "consuetude", "pos": "noun", "d": ["An established custom or habit."], "src": "iwb"}
+{"w": "consuetudinal", "pos": "adjective", "d": ["According to established custom."], "src": "iwb"}
+{"w": "consuetudinary", "pos": "noun", "d": ["A written collection of the customs of a church or monastery."], "src": "iwb"}
+{"w": "consul", "pos": "noun", "d": ["A government official who protects citizens and trade in a foreign city."], "src": "iwb"}
+{"w": "consular", "pos": "adjective", "d": ["Relating to a consul."], "src": "iwb"}
+{"w": "consultative", "pos": "adjective", "d": ["Relating to consultation; giving advice."], "src": "iwb"}
+{"w": "consultatory", "pos": "adjective", "d": ["Relating to the act of consulting."], "src": "iwb"}
+{"w": "consume", "pos": "verb", "d": ["To use up completely.", "To eat or drink."], "src": "iwb"}
+{"w": "consumedly", "pos": "adverb", "d": ["To an extreme degree; excessively."], "src": "iwb"}
+{"w": "consumingly", "pos": "adverb", "d": ["In a way that uses up or overwhelms."], "src": "iwb"}
+{"w": "consummate", "pos": "verb", "d": ["To bring to completion."], "src": "iwb"}
+{"w": "consummative", "pos": "adjective", "d": ["Tending to bring to completion."], "src": "iwb"}
+{"w": "consumptive", "pos": "adjective", "d": ["Relating to tuberculosis.", "Tending to use up or waste."], "src": "iwb"}
+{"w": "contagion", "pos": "noun", "d": ["The spread of disease by contact.", "A contagious disease."], "src": "iwb"}
+{"w": "contagious", "pos": "adjective", "d": ["Spreadable by contact.", "Easily spreading from one person to another, as laughter."], "src": "iwb"}
+{"w": "contagious disease", "pos": "phrase", "d": ["A disease that spreads from person to person by contact."], "src": "iwb"}
+{"w": "contagium", "pos": "noun", "d": ["The infectious agent that spreads a contagious disease."], "src": "iwb"}
+{"w": "contaminable", "pos": "adjective", "d": ["Capable of being contaminated."], "src": "iwb"}
+{"w": "contaminate", "pos": "verb", "d": ["To make impure by contact."], "src": "iwb"}
+{"w": "contamitive", "pos": "adjective", "d": ["Tending to pollute or contaminate."], "src": "iwb"}
+{"w": "conte", "pos": "noun", "d": ["A short story or tale, especially a fanciful one."], "src": "iwb"}
+{"w": "contection", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "contemn", "pos": "verb", "d": ["To treat with contempt; to despise."], "src": "iwb"}
+{"w": "contemningly", "pos": "adverb", "d": ["In a contemptuous manner."], "src": "iwb"}
+{"w": "contemplance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "contemplant", "pos": "noun", "d": ["One who engages in deep contemplation."], "src": "iwb"}
+{"w": "contemplation", "pos": "noun", "d": ["Deep thoughtful reflection."], "src": "iwb"}
+{"w": "contemplatist", "pos": "noun", "d": ["One devoted to contemplation."], "src": "iwb"}
+{"w": "contemplative", "pos": "adjective", "d": ["Given to deep thought."], "src": "iwb"}
+{"w": "contemplator", "pos": "noun", "d": ["One who contemplates."], "src": "iwb"}
+{"w": "contemporaneity", "pos": "noun", "d": ["The state of existing at the same time."], "src": "iwb"}
+{"w": "contemptibility", "pos": "noun", "d": ["The quality of being contemptible."], "src": "iwb"}
+{"w": "contemptibly", "pos": "adverb", "d": ["In a contemptible manner."], "src": "iwb"}
+{"w": "contemptuous", "pos": "adjective", "d": ["Showing contempt."], "src": "iwb"}
+{"w": "contendress", "pos": "noun", "d": ["A woman who struggles or competes."], "src": "iwb"}
+{"w": "contentious", "pos": "adjective", "d": ["Likely to cause argument.", "Fond of quarreling."], "src": "iwb"}
+{"w": "conterminous", "pos": "adjective", "d": ["Having a boundary in common; touching."], "src": "iwb"}
+{"w": "conterranean", "pos": "adjective", "d": ["Living or existing in the same land or region."], "src": "iwb"}
+{"w": "conterraneous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "contesseration", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "contestingly", "pos": "adverb", "d": ["In a manner of struggle or competition."], "src": "iwb"}
+{"w": "contex", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "conticent", "pos": "adjective", "d": ["Keeping silence."], "src": "iwb"}
+{"w": "contignation", "pos": "noun", "d": ["A framework of joined beams, as in a floor."], "src": "iwb"}
+{"w": "contiguate", "pos": "verb", "d": ["To bring into contact with something."], "src": "iwb"}
+{"w": "contiguity", "pos": "noun", "d": ["The state of touching."], "src": "iwb"}
+{"w": "contiguous", "pos": "adjective", "d": ["Touching; sharing a boundary."], "src": "iwb"}
+{"w": "continence", "pos": "noun", "d": ["Self-restraint, especially sexual restraint."], "src": "iwb"}
+{"w": "continency", "pos": "noun", "d": ["Self-restraint, especially in sexual matters."], "src": "iwb"}
+{"w": "continental drive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "continental glacier", "pos": "phrase", "d": ["A vast sheet of ice covering a continent-sized area."], "src": "iwb"}
+{"w": "continental pronunciation", "pos": "phrase", "d": ["The system of pronouncing Latin vowels as in the languages of continental Europe."], "src": "iwb"}
+{"w": "continental system", "pos": "phrase", "d": ["The policy by which Napoleon sought to block British trade with Europe."], "src": "iwb"}
+{"w": "contingence", "pos": "noun", "d": ["The quality of depending on something else; an accidental event."], "src": "iwb"}
+{"w": "contingency", "pos": "noun", "d": ["A possible future event.", "Something done in preparation for such an event."], "src": "iwb"}
+{"w": "continual", "pos": "adjective", "d": ["Going on without stopping."], "src": "iwb"}
+{"w": "continuance", "pos": "noun", "d": ["The act of continuing.", "Postponement of a legal proceeding."], "src": "iwb"}
+{"w": "continuant", "pos": "adjective", "d": ["Describing a speech sound that can be drawn out, like s or m."], "src": "iwb"}
+{"w": "continuate", "pos": "verb", "d": ["To keep on; to continue."], "src": "iwb"}
+{"w": "continuation", "pos": "noun", "d": ["The act of continuing.", "Something added to continue a work."], "src": "iwb"}
+{"w": "continuative", "pos": "adjective", "d": ["Tending to continue something."], "src": "iwb"}
+{"w": "continuator", "pos": "noun", "d": ["A person who carries on or continues a work."], "src": "iwb"}
+{"w": "continuo", "pos": "noun", "d": ["In baroque music, a continuous bass accompaniment."], "src": "iwb"}
+{"w": "contline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "contorniate", "pos": "noun", "d": ["An ancient Roman medal or coin with a grooved edge."], "src": "iwb"}
+{"w": "contortuplicate", "pos": "adjective", "d": ["Twisted and folded back on itself, as a petal."], "src": "iwb"}
+{"w": "contourne", "pos": "adjective", "d": ["In heraldry, turned toward the left side of the shield."], "src": "iwb"}
+{"w": "contourniated", "pos": "adjective", "d": ["Turned to the left, as a heraldic figure."], "src": "iwb"}
+{"w": "contra", "pos": "preposition", "d": ["Against or in opposition to."], "src": "iwb"}
+{"w": "contract system", "pos": "phrase", "d": ["The practice of hiring out the labor of prisoners to private employers."], "src": "iwb"}
+{"w": "contract tablet", "pos": "phrase", "d": ["A clay tablet of ancient times bearing the record of a contract."], "src": "iwb"}
+{"w": "contractibility", "pos": "noun", "d": ["The ability to be drawn together or shortened."], "src": "iwb"}
+{"w": "contradict", "pos": "verb", "d": ["To say the opposite of."], "src": "iwb"}
+{"w": "contradictious", "pos": "adjective", "d": ["Fond of contradicting others."], "src": "iwb"}
+{"w": "contradictor", "pos": "noun", "d": ["One who contradicts."], "src": "iwb"}
+{"w": "contradictorily", "pos": "adverb", "d": ["In a contradictory manner."], "src": "iwb"}
+{"w": "contradictoriness", "pos": "noun", "d": ["The quality of being contradictory."], "src": "iwb"}
+{"w": "contrafagetto", "pos": "noun", "d": ["A large, deep-toned bassoon; the contrabassoon."], "src": "iwb"}
+{"w": "contralto", "pos": "noun", "d": ["The lowest female singing voice."], "src": "iwb"}
+{"w": "contraplex", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "contraption", "pos": "noun", "d": ["A strange or clumsy device."], "src": "iwb"}
+{"w": "contrapuntal", "pos": "adjective", "d": ["Relating to the musical technique of combining independent melodies."], "src": "iwb"}
+{"w": "contrapuntist", "pos": "noun", "d": ["A composer skilled in counterpoint."], "src": "iwb"}
+{"w": "contrariety", "pos": "noun", "d": ["Opposition or inconsistency between things."], "src": "iwb"}
+{"w": "contrariness", "pos": "noun", "d": ["The quality of being contrary."], "src": "iwb"}
+{"w": "contrariwise", "pos": "adverb", "d": ["On the contrary; in the opposite direction."], "src": "iwb"}
+{"w": "contrate", "pos": "adjective", "d": ["Having teeth set at right angles to the wheel, as a contrate gear."], "src": "iwb"}
+{"w": "contravene", "pos": "verb", "d": ["To go against; to violate."], "src": "iwb"}
+{"w": "contravention", "pos": "noun", "d": ["A violation of a law or rule."], "src": "iwb"}
+{"w": "contrayerva", "pos": "noun", "d": ["A medicinal root from South America, once used against fevers."], "src": "iwb"}
+{"w": "contrecoup", "pos": "noun", "d": ["An injury to the brain on the side opposite the point of impact."], "src": "iwb"}
+{"w": "contredanse", "pos": "noun", "d": ["A lively country dance in which the partners face each other."], "src": "iwb"}
+{"w": "contretemps", "pos": "noun", "d": ["An awkward or embarrassing mishap."], "src": "iwb"}
+{"w": "contribution plan", "pos": "phrase", "d": ["A retirement or benefit plan funded by regular contributions."], "src": "iwb"}
+{"w": "contributive", "pos": "adjective", "d": ["Tending to contribute or help bring about a result.", "Serving to add to a common fund or supply."], "src": "iwb"}
+{"w": "contributory", "pos": "adjective", "d": ["Helping to cause or bring about something.", "Requiring each member to contribute a share, as in a contributory pension plan."], "src": "iwb"}
+{"w": "contrition", "pos": "noun", "d": ["Sincere sorrow and remorse for one's sins or faults."], "src": "iwb"}
+{"w": "contrivance", "pos": "noun", "d": ["A device or machine cleverly made for a purpose.", "A clever plan or scheme, often with an air of trickery."], "src": "iwb"}
+{"w": "contrive", "pos": "verb", "d": ["To plan or devise cleverly.", "To manage to do something by skill or scheming."], "src": "iwb"}
+{"w": "controllable", "pos": "adjective", "d": ["Capable of being controlled, guided, or restrained."], "src": "iwb"}
+{"w": "controversal", "pos": "adjective", "d": ["An obsolete form of controversial."], "src": "iwb"}
+{"w": "controversary", "pos": "noun", "d": ["An obsolete form of the noun controversy."], "src": "iwb"}
+{"w": "controverse", "pos": "verb", "d": ["To engage in controversy about; to dispute in argument."], "src": "iwb"}
+{"w": "controversion", "pos": "noun", "d": ["The act of controverting; refutation or opposition in argument."], "src": "iwb"}
+{"w": "controversor", "pos": "noun", "d": ["One who engages in controversy; a person who disputes or refutes."], "src": "iwb"}
+{"w": "controvert", "pos": "verb", "d": ["To argue against; to deny or refute by reasoning."], "src": "iwb"}
+{"w": "contubernal", "pos": "adjective", "d": ["Sharing the same tent or quarters, especially in military camp life."], "src": "iwb"}
+{"w": "contubernial", "pos": "adjective", "d": ["Of or relating to comrades who share a tent or quarters."], "src": "iwb"}
+{"w": "contumacy", "pos": "noun", "d": ["Stubborn refusal to obey authority or a lawful command."], "src": "iwb"}
+{"w": "contumely", "pos": "noun", "d": ["Rude, insulting, or contemptuous language or treatment."], "src": "iwb"}
+{"w": "contuse", "pos": "verb", "d": ["To bruise by a blow without breaking the skin."], "src": "iwb"}
+{"w": "contusion", "pos": "noun", "d": ["A bruise; an injury to flesh without breaking the skin."], "src": "iwb"}
+{"w": "conundrum", "pos": "noun", "d": ["A riddle or question that puzzles the mind.", "Any puzzling problem with no easy answer."], "src": "iwb"}
+{"w": "conus", "pos": "noun", "d": ["A genus of predatory sea snails with cone-shaped shells."], "src": "iwb"}
+{"w": "conusor", "pos": "noun", "d": ["In old law, a person called upon to vouch for another's title to land."], "src": "iwb"}
+{"w": "convalesce", "pos": "verb", "d": ["To recover health and strength gradually after illness."], "src": "iwb"}
+{"w": "convalescence", "pos": "noun", "d": ["The gradual recovery of health after sickness."], "src": "iwb"}
+{"w": "convalescency", "pos": "noun", "d": ["The state or period of recovering health after illness."], "src": "iwb"}
+{"w": "convalescent", "pos": "adjective", "d": ["Recovering from sickness or weakness."], "src": "iwb"}
+{"w": "convallamarin", "pos": "noun", "d": ["A poisonous crystalline substance obtained from lily of the valley."], "src": "iwb"}
+{"w": "convallaria", "pos": "noun", "d": ["The plant genus that includes lily of the valley."], "src": "iwb"}
+{"w": "convallarin", "pos": "noun", "d": ["A purgative and poisonous substance obtained from the roots of lily of the valley."], "src": "iwb"}
+{"w": "convective", "pos": "adjective", "d": ["Of or relating to convection, the transfer of heat by moving fluid."], "src": "iwb"}
+{"w": "convellent", "pos": "adjective", "d": ["Tending to convulse; causing violent spasms or pullings."], "src": "iwb"}
+{"w": "convenance", "pos": "noun", "d": ["Fitness or suitableness to custom and propriety."], "src": "iwb"}
+{"w": "convene", "pos": "verb", "d": ["To come together for a meeting.", "To summon or call together for a formal purpose."], "src": "iwb"}
+{"w": "conveniency", "pos": "noun", "d": ["The quality of being convenient; an obsolete form of convenience."], "src": "iwb"}
+{"w": "conventicle", "pos": "noun", "d": ["A secret or unauthorized religious meeting, especially of dissenters."], "src": "iwb"}
+{"w": "conventionalization", "pos": "noun", "d": ["The process of making something conventional or customary."], "src": "iwb"}
+{"w": "conventual", "pos": "adjective", "d": ["Of or belonging to a convent or its life."], "src": "iwb"}
+{"w": "convergent", "pos": "adjective", "d": ["Tending to come together toward one point or goal."], "src": "iwb"}
+{"w": "conversably", "pos": "adverb", "d": ["In a conversable manner; with ease in conversation."], "src": "iwb"}
+{"w": "conversance", "pos": "noun", "d": ["Familiar acquaintance gained through conversation or experience."], "src": "iwb"}
+{"w": "conversancy", "pos": "noun", "d": ["Familiarity with a subject gained by conversation or study."], "src": "iwb"}
+{"w": "conversative", "pos": "adjective", "d": ["Given to conversation; sociable in talk."], "src": "iwb"}
+{"w": "conversazione", "pos": "noun", "d": ["An evening social meeting for conversation about literature, art, or science."], "src": "iwb"}
+{"w": "conversible", "pos": "adjective", "d": ["Capable of being converted or changed."], "src": "iwb"}
+{"w": "conversive", "pos": "adjective", "d": ["Tending to convert or bring about change."], "src": "iwb"}
+{"w": "convertibility", "pos": "noun", "d": ["The quality of being convertible or changeable."], "src": "iwb"}
+{"w": "convertibly", "pos": "adverb", "d": ["In a convertible manner; so as to be changeable."], "src": "iwb"}
+{"w": "convertite", "pos": "noun", "d": ["One who has been converted, especially to a religious faith."], "src": "iwb"}
+{"w": "convexo-concave", "pos": "adjective", "d": ["Convex on one side and concave on the other, as certain lenses."], "src": "iwb"}
+{"w": "convexo-convex", "pos": "adjective", "d": ["Convex on both sides, as a double-convex lens."], "src": "iwb"}
+{"w": "convexo-plane", "pos": "adjective", "d": ["Convex on one side and flat on the other."], "src": "iwb"}
+{"w": "convey", "pos": "verb", "d": ["To carry or transport from one place to another.", "To communicate or make known, as an idea or feeling."], "src": "iwb"}
+{"w": "conveyor", "pos": "noun", "d": ["A person who conveys or carries things.", "A mechanical device, such as a belt, for moving materials along."], "src": "iwb"}
+{"w": "convict", "pos": "verb", "d": ["To prove guilty of a crime by legal process.", "To convince of error or sin in one's conscience."], "src": "iwb"}
+{"w": "convince", "pos": "verb", "d": ["To persuade by argument or evidence so as to believe."], "src": "iwb"}
+{"w": "convincingly", "pos": "adverb", "d": ["In a manner that convinces or persuades."], "src": "iwb"}
+{"w": "convincingness", "pos": "noun", "d": ["The quality of being convincing."], "src": "iwb"}
+{"w": "convival", "pos": "adjective", "d": ["Relating to a feast or banquet; festive."], "src": "iwb"}
+{"w": "convivial", "pos": "adjective", "d": ["Fond of feasting and good company; jolly and sociable."], "src": "iwb"}
+{"w": "convocate", "pos": "verb", "d": ["To call together into an assembly."], "src": "iwb"}
+{"w": "convoke", "pos": "verb", "d": ["To call together for a meeting, as by authority."], "src": "iwb"}
+{"w": "convolve", "pos": "verb", "d": ["To roll together; to twist or coil into a spiral form."], "src": "iwb"}
+{"w": "convolvulaceous", "pos": "adjective", "d": ["Belonging to the bindweed family of plants, the Convolvulaceae."], "src": "iwb"}
+{"w": "convolvulin", "pos": "noun", "d": ["A purgative resin obtained from the root of scammony."], "src": "iwb"}
+{"w": "convoy", "pos": "noun", "d": ["A group of ships or vehicles traveling together under armed protection."], "src": "iwb"}
+{"w": "convoy pennant", "pos": "phrase", "d": ["A long narrow pennant flown by the commanding officer of a naval convoy."], "src": "iwb"}
+{"w": "convulse", "pos": "verb", "d": ["To shake violently with spasms or agitation.", "To throw into violent disturbance or laughter."], "src": "iwb"}
+{"w": "convulsion", "pos": "noun", "d": ["A violent involuntary contraction of the muscles.", "A sudden violent social or political disturbance."], "src": "iwb"}
+{"w": "convulsive", "pos": "adjective", "d": ["Of or producing convulsions; marked by violent spasms."], "src": "iwb"}
+{"w": "cony", "pos": "noun", "d": ["A rabbit, especially the common wild rabbit.", "A small plant-eating mammal of Africa and Asia, the hyrax."], "src": "iwb"}
+{"w": "cony-catch", "pos": "verb", "d": ["To cheat or swindle by artful trickery."], "src": "iwb"}
+{"w": "coo", "pos": "verb", "d": ["To utter the soft murmuring sound of a dove or pigeon."], "src": "iwb"}
+{"w": "cooee", "pos": "interjection", "d": ["A shrill call used to attract attention, especially in the Australian bush."], "src": "iwb"}
+{"w": "cooey", "pos": "interjection", "d": ["A variant of cooee, a shrill calling cry used in the bush."], "src": "iwb"}
+{"w": "cookery", "pos": "noun", "d": ["The art or practice of preparing food by cooking."], "src": "iwb"}
+{"w": "cooky", "pos": "noun", "d": ["A small flat sweet cake; a cookie."], "src": "iwb"}
+{"w": "cool-headed", "pos": "adjective", "d": ["Calm and self-controlled in difficult or exciting situations."], "src": "iwb"}
+{"w": "coom", "pos": "noun", "d": ["Fine soot or coal dust that gathers in chimneys and on coal."], "src": "iwb"}
+{"w": "coomb", "pos": "noun", "d": ["A narrow valley or hollow between hills."], "src": "iwb"}
+{"w": "coombe", "pos": "noun", "d": ["A spelling of coomb; a narrow valley or hollow."], "src": "iwb"}
+{"w": "coon", "pos": "noun", "d": ["A raccoon, the nocturnal North American mammal."], "src": "iwb"}
+{"w": "coop", "pos": "noun", "d": ["A small enclosure or cage for keeping poultry or small animals."], "src": "iwb"}
+{"w": "coopt", "pos": "verb", "d": ["To choose or elect as a fellow member by the votes of those already belonging to a body."], "src": "iwb"}
+{"w": "coot", "pos": "noun", "d": ["A dark-colored waterbird with a white bill and forehead."], "src": "iwb"}
+{"w": "cop-rose", "pos": "noun", "d": ["The common red corn poppy of grain fields."], "src": "iwb"}
+{"w": "copaiba", "pos": "noun", "d": ["A medicinal resinous oil obtained from tropical South American trees."], "src": "iwb"}
+{"w": "copaiva", "pos": "noun", "d": ["A balsam or resinous oil from South American trees of the copaiba kind, used in medicine."], "src": "iwb"}
+{"w": "coparceny", "pos": "noun", "d": ["Joint inheritance by two or more persons; shared heirship of an estate."], "src": "iwb"}
+{"w": "copartnery", "pos": "noun", "d": ["A partnership; joint participation in a business."], "src": "iwb"}
+{"w": "copatain", "pos": "adjective", "d": ["Peaked or pointed at the top, said of hats."], "src": "iwb"}
+{"w": "cope-chisel", "pos": "noun", "d": ["A narrow chisel used by machinists for cutting grooves."], "src": "iwb"}
+{"w": "copenhagen", "pos": "noun", "d": ["A kind of strong dark snuff."], "src": "iwb"}
+{"w": "copepoda", "pos": "noun", "d": ["An order of minute freshwater and marine crustaceans, many serving as fish food."], "src": "iwb"}
+{"w": "copernican", "pos": "adjective", "d": ["Relating to Copernicus or his theory that the earth revolves around the sun."], "src": "iwb"}
+{"w": "copesmate", "pos": "noun", "d": ["A companion or close friend."], "src": "iwb"}
+{"w": "coplanar", "pos": "adjective", "d": ["Lying or acting in the same plane."], "src": "iwb"}
+{"w": "coppel", "pos": "noun", "d": ["A cupel, the small porous cup used in assaying precious metals."], "src": "iwb"}
+{"w": "copper works", "pos": "phrase", "d": ["A factory or establishment where copper is smelted or refined."], "src": "iwb"}
+{"w": "copper-bottomed", "pos": "adjective", "d": ["Having the bottom sheathed with copper, as a ship."], "src": "iwb"}
+{"w": "copper-faced", "pos": "adjective", "d": ["Faced or covered with copper."], "src": "iwb"}
+{"w": "copper-fastened", "pos": "adjective", "d": ["Fastened with copper bolts or nails, as a ship's timbers."], "src": "iwb"}
+{"w": "copper-nickel", "pos": "noun", "d": ["An alloy of copper and nickel, used for coins and fittings."], "src": "iwb"}
+{"w": "copper-nose", "pos": "noun", "d": ["A red swollen nose such as heavy drinking produces."], "src": "iwb"}
+{"w": "copperas", "pos": "noun", "d": ["Green vitriol; ferrous sulfate, used in dyeing and ink-making."], "src": "iwb"}
+{"w": "copple", "pos": "noun", "d": ["The crest or tuft of feathers on a bird's head."], "src": "iwb"}
+{"w": "copple dust", "pos": "phrase", "d": ["Powdered bone ash used in making cupels for assaying metals."], "src": "iwb"}
+{"w": "copple-crown", "pos": "noun", "d": ["A bird's crest or tuft; a high-crowned head."], "src": "iwb"}
+{"w": "copps", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "copra", "pos": "noun", "d": ["The dried meat of the coconut, from which coconut oil is pressed."], "src": "iwb"}
+{"w": "coprolite", "pos": "noun", "d": ["Fossilized dung of ancient animals, sometimes used as fertilizer."], "src": "iwb"}
+{"w": "coprolitic", "pos": "adjective", "d": ["Of or relating to coprolites; resembling fossil dung."], "src": "iwb"}
+{"w": "coprophagan", "pos": "noun", "d": ["An insect that feeds on dung."], "src": "iwb"}
+{"w": "coprophagous", "pos": "adjective", "d": ["Feeding on dung or excrement."], "src": "iwb"}
+{"w": "copse", "pos": "noun", "d": ["A thicket or grove of small trees grown for cutting."], "src": "iwb"}
+{"w": "copsy", "pos": "adjective", "d": ["Abounding in copses; woody."], "src": "iwb"}
+{"w": "coptic church", "pos": "phrase", "d": ["The ancient Christian church of Egypt, headed by the patriarch of Alexandria."], "src": "iwb"}
+{"w": "copts", "pos": "noun", "d": ["The native Christian people of Egypt, members of the Coptic church."], "src": "iwb"}
+{"w": "copula", "pos": "noun", "d": ["A word, such as is or are, that joins a subject to its predicate."], "src": "iwb"}
+{"w": "copulate", "pos": "verb", "d": ["To unite in sexual intercourse."], "src": "iwb"}
+{"w": "copulative", "pos": "adjective", "d": ["Serving to join or connect, as a copulative conjunction."], "src": "iwb"}
+{"w": "copygraph", "pos": "noun", "d": ["An apparatus for making copies of writing or drawings."], "src": "iwb"}
+{"w": "coquelicot", "pos": "noun", "d": ["The red corn poppy of European fields."], "src": "iwb"}
+{"w": "coquette", "pos": "noun", "d": ["A woman who trifles with men's affections to attract admiration."], "src": "iwb"}
+{"w": "coquettish", "pos": "adjective", "d": ["Like a coquette; flirtatiously inviting admiration."], "src": "iwb"}
+{"w": "coquilla nut", "pos": "phrase", "d": ["The very hard nut of a Brazilian palm, used for carving ornaments."], "src": "iwb"}
+{"w": "coquille", "pos": "noun", "d": ["A scallop shell, or a dish served in one."], "src": "iwb"}
+{"w": "coquimbite", "pos": "noun", "d": ["A white crystalline mineral consisting of hydrous iron sulfate."], "src": "iwb"}
+{"w": "coquina", "pos": "noun", "d": ["A soft limestone formed of broken shells cemented together."], "src": "iwb"}
+{"w": "cor", "pos": "interjection", "d": ["An exclamation expressing surprise or emphasis."], "src": "iwb"}
+{"w": "cor-", "pos": "prefix", "d": ["A form of the prefix com-, meaning together or with, used before r, as in correct."], "src": "iwb"}
+{"w": "cora", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "coracoid", "pos": "noun", "d": ["A bony process of the shoulder blade, prominent in humans and birds."], "src": "iwb"}
+{"w": "corah", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "coral fish", "pos": "phrase", "d": ["A fish that lives among coral reefs."], "src": "iwb"}
+{"w": "coral-rag", "pos": "noun", "d": ["A ragged limestone composed largely of coral fragments."], "src": "iwb"}
+{"w": "corallaceous", "pos": "adjective", "d": ["Of or resembling coral."], "src": "iwb"}
+{"w": "corallian", "pos": "adjective", "d": ["Relating to coral formations, especially fossil coral beds."], "src": "iwb"}
+{"w": "coralliferous", "pos": "adjective", "d": ["Producing or containing coral."], "src": "iwb"}
+{"w": "coralliform", "pos": "adjective", "d": ["Shaped like coral; branching like coral."], "src": "iwb"}
+{"w": "coralligena", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "coralligenous", "pos": "adjective", "d": ["Tending to form coral-like masses, said of certain seaweeds and sponges."], "src": "iwb"}
+{"w": "coralligerous", "pos": "adjective", "d": ["Bearing or producing coral."], "src": "iwb"}
+{"w": "corallinite", "pos": "noun", "d": ["A fossil coral."], "src": "iwb"}
+{"w": "coralloid", "pos": "adjective", "d": ["Resembling coral in form or texture."], "src": "iwb"}
+{"w": "coranach", "pos": "noun", "d": ["A lament or dirge sung for the dead in the Scottish Highlands."], "src": "iwb"}
+{"w": "coranto", "pos": "noun", "d": ["A lively old dance with gliding steps, also called the courante."], "src": "iwb"}
+{"w": "corb", "pos": "noun", "d": ["A basket, especially one used for hoisting coal in mines.", "A shortened form of corbel."], "src": "iwb"}
+{"w": "corbe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "corbeil", "pos": "noun", "d": ["A carved basket of fruit or flowers used as an architectural ornament."], "src": "iwb"}
+{"w": "corbel-table", "pos": "noun", "d": ["A projecting course of masonry supported by a row of corbels."], "src": "iwb"}
+{"w": "corbie", "pos": "noun", "d": ["A crow or raven, especially in Scottish usage."], "src": "iwb"}
+{"w": "corby", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "corcle", "pos": "noun", "d": ["The germ or embryo of a seed."], "src": "iwb"}
+{"w": "corcule", "pos": "noun", "d": ["A small germ or embryo of a seed."], "src": "iwb"}
+{"w": "cordelier", "pos": "noun", "d": ["A Franciscan friar, so called from the knotted cord worn as a girdle."], "src": "iwb"}
+{"w": "cordeling", "pos": "noun", "d": ["A small cord, especially the knotted cord worn by Franciscan friars."], "src": "iwb"}
+{"w": "cordelle", "pos": "noun", "d": ["A towline or rope used for dragging boats upstream."], "src": "iwb"}
+{"w": "cordierite", "pos": "noun", "d": ["A blue or violet mineral, a silicate of magnesium, iron, and aluminum."], "src": "iwb"}
+{"w": "cordiform", "pos": "adjective", "d": ["Heart-shaped, as certain leaves."], "src": "iwb"}
+{"w": "cordillera", "pos": "noun", "d": ["A system or chain of parallel mountain ranges."], "src": "iwb"}
+{"w": "cordovan", "pos": "noun", "d": ["A soft fine leather, originally made in Cordova, Spain, from goatskin."], "src": "iwb"}
+{"w": "corduroy", "pos": "noun", "d": ["A thick cotton fabric with a ribbed or corded surface.", "A road made of logs laid side by side across a swampy place."], "src": "iwb"}
+{"w": "cordy", "pos": "adjective", "d": ["Resembling a cord; tough and fibrous."], "src": "iwb"}
+{"w": "core loss", "pos": "phrase", "d": ["Energy wasted as heat in the iron core of an electrical transformer or motor."], "src": "iwb"}
+{"w": "coreopsis", "pos": "noun", "d": ["A genus of American plants bearing showy yellow or red daisy-like flowers."], "src": "iwb"}
+{"w": "coreplasty", "pos": "noun", "d": ["A surgical operation for forming an artificial pupil of the eye."], "src": "iwb"}
+{"w": "corf", "pos": "noun", "d": ["A basket or small wagon used for raising coal and ore in mines."], "src": "iwb"}
+{"w": "corfiote", "pos": "noun", "d": ["A native or inhabitant of Corfu, an island of Greece."], "src": "iwb"}
+{"w": "corfute", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "coriaceous", "pos": "adjective", "d": ["Leathery in texture, as certain leaves."], "src": "iwb"}
+{"w": "coriander", "pos": "noun", "d": ["An herb whose aromatic seeds are used as a spice and whose leaves are eaten as cilantro."], "src": "iwb"}
+{"w": "coridine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "corindon", "pos": "noun", "d": ["A granular variety of the mineral corundum."], "src": "iwb"}
+{"w": "corinth", "pos": "noun", "d": ["A small dried grape; a currant, once largely shipped from Corinth, Greece."], "src": "iwb"}
+{"w": "corinthiac", "pos": "adjective", "d": ["Relating to the city of Corinth."], "src": "iwb"}
+{"w": "corinthian", "pos": "adjective", "d": ["Relating to ancient Corinth or to the slender ornate order of architecture named for it.", "Luxurious and dissolute, like the Corinthians of old."], "src": "iwb"}
+{"w": "corium", "pos": "noun", "d": ["The deep layer of the skin beneath the outer skin; the dermis."], "src": "iwb"}
+{"w": "cork fossil", "pos": "phrase", "d": ["A light porous variety of fossil wood resembling cork."], "src": "iwb"}
+{"w": "corkiness", "pos": "noun", "d": ["The quality or state of being corky."], "src": "iwb"}
+{"w": "corking pin", "pos": "phrase", "d": ["A large pin used for fastening garments."], "src": "iwb"}
+{"w": "corky", "pos": "adjective", "d": ["Resembling cork; light and porous."], "src": "iwb"}
+{"w": "corm", "pos": "noun", "d": ["A short thick solid underground stem, as of the crocus."], "src": "iwb"}
+{"w": "cormogeny", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cormophylogeny", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cormophyta", "pos": "noun", "d": ["The group of plants possessing true stems and roots."], "src": "iwb"}
+{"w": "cormophytes", "pos": "noun", "d": ["Plants having a stem and root system, as distinguished from thallophytes."], "src": "iwb"}
+{"w": "cormorant", "pos": "noun", "d": ["A large black diving seabird that feeds on fish."], "src": "iwb"}
+{"w": "cormoraut", "pos": "noun", "d": ["An obsolete spelling of cormorant."], "src": "iwb"}
+{"w": "cornamute", "pos": "noun", "d": ["An old wind instrument with a curved tube; the krummhorn."], "src": "iwb"}
+{"w": "cornea", "pos": "noun", "d": ["The transparent front covering of the eye, through which light enters."], "src": "iwb"}
+{"w": "cornel", "pos": "noun", "d": ["The cornelian cherry, a shrub of the dogwood family bearing red fruit."], "src": "iwb"}
+{"w": "cornelian", "pos": "noun", "d": ["A translucent reddish variety of quartz, used as a gemstone."], "src": "iwb"}
+{"w": "cornemuse", "pos": "noun", "d": ["A bagpipe formerly used in France."], "src": "iwb"}
+{"w": "corneocalcareous", "pos": "adjective", "d": ["Partly horny and partly composed of lime or chalk."], "src": "iwb"}
+{"w": "corneous", "pos": "adjective", "d": ["Horny in substance or texture."], "src": "iwb"}
+{"w": "cornet-a-piston", "pos": "noun", "d": ["A brass wind instrument with piston valves, like the modern cornet."], "src": "iwb"}
+{"w": "cornetcy", "pos": "noun", "d": ["The rank or commission of a cornet, a junior cavalry officer."], "src": "iwb"}
+{"w": "corneule", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cornicle", "pos": "noun", "d": ["One of the paired small tubes on the abdomen of aphids."], "src": "iwb"}
+{"w": "cornicular", "pos": "adjective", "d": ["Of or like a small horn."], "src": "iwb"}
+{"w": "corniculate", "pos": "adjective", "d": ["Bearing or ending in small horns."], "src": "iwb"}
+{"w": "corniculum", "pos": "noun", "d": ["A small horn-shaped projection on a cartilage of the larynx."], "src": "iwb"}
+{"w": "corniferous", "pos": "adjective", "d": ["Bearing or producing horns or hornlike growths."], "src": "iwb"}
+{"w": "cornific", "pos": "adjective", "d": ["Producing horns; causing the growth of horny tissue."], "src": "iwb"}
+{"w": "cornified", "pos": "adjective", "d": ["Changed into hard hornlike tissue, as the outer cells of the skin."], "src": "iwb"}
+{"w": "corniform", "pos": "adjective", "d": ["Shaped like a horn."], "src": "iwb"}
+{"w": "cornigerous", "pos": "adjective", "d": ["Bearing horns; horned."], "src": "iwb"}
+{"w": "corniplume", "pos": "noun", "d": ["A horn-shaped plume or feather."], "src": "iwb"}
+{"w": "corno di bassetto", "pos": "phrase", "d": ["The bassethorn, a curved alto instrument of the clarinet family."], "src": "iwb"}
+{"w": "corno inglese", "pos": "phrase", "d": ["The English horn, a double-reed woodwind instrument with a deep, mellow tone."], "src": "iwb"}
+{"w": "cornopean", "pos": "noun", "d": ["A 19th-century brass wind instrument resembling a trumpet."], "src": "iwb"}
+{"w": "cornu", "pos": "noun", "d": ["A horn-shaped part or projection of an organ of the body."], "src": "iwb"}
+{"w": "cornu ammonis", "pos": "phrase", "d": ["The curved hippocampal structure of the brain, also called Ammon's horn."], "src": "iwb"}
+{"w": "cornucopia", "pos": "noun", "d": ["A horn-shaped basket overflowing with fruits and flowers, symbolizing abundance.", "An overflowing supply of good things."], "src": "iwb"}
+{"w": "cornute", "pos": "adjective", "d": ["Horned; having hornlike projections."], "src": "iwb"}
+{"w": "cornuto", "pos": "noun", "d": ["An Italian word for a husband whose wife is unfaithful."], "src": "iwb"}
+{"w": "corny", "pos": "adjective", "d": ["Overly sentimental or old-fashioned in a way that feels dull.", "Having hard calluses or corns."], "src": "iwb"}
+{"w": "corocore", "pos": "noun", "d": ["A narrow swift boat of the Molucca Islands, often fitted with outriggers."], "src": "iwb"}
+{"w": "corol", "pos": "noun", "d": ["The ring of petals forming the inner floral envelope of a flower."], "src": "iwb"}
+{"w": "corollaceous", "pos": "adjective", "d": ["Relating to the corolla; resembling the petals of a flower."], "src": "iwb"}
+{"w": "corollifloral", "pos": "adjective", "d": ["In botany, having the stamens attached to the corolla."], "src": "iwb"}
+{"w": "corolliflorous", "pos": "adjective", "d": ["Bearing flowers furnished with a distinct corolla."], "src": "iwb"}
+{"w": "coromandel", "pos": "noun", "d": ["A dark striped ebony wood from the Coromandel coast of India, used for fine furniture.", "A large Chinese lacquered folding screen."], "src": "iwb"}
+{"w": "corona", "pos": "noun", "d": ["The glowing outer atmosphere of the sun, visible during a total eclipse.", "A crownlike ring of appendages between the petals and stamens of certain flowers."], "src": "iwb"}
+{"w": "coronach", "pos": "noun", "d": ["A Gaelic funeral lament sung over the dead."], "src": "iwb"}
+{"w": "coronal", "pos": "adjective", "d": ["Relating to a crown.", "Running in the vertical plane that divides the front of the body from the back."], "src": "iwb"}
+{"w": "coronary", "pos": "adjective", "d": ["Relating to the arteries that supply blood to the heart muscle."], "src": "iwb"}
+{"w": "coronary bone", "pos": "phrase", "d": ["The second phalanx bone of a horse's foot, lying above the coffin bone."], "src": "iwb"}
+{"w": "coronary cushion", "pos": "phrase", "d": ["The thick band of skin above a horse's hoof from which the hoof wall grows."], "src": "iwb"}
+{"w": "coronate", "pos": "adjective", "d": ["Crowned; furnished with a crownlike structure."], "src": "iwb"}
+{"w": "coronel", "pos": "noun", "d": ["An obsolete spelling of colonel, a military officer's rank."], "src": "iwb"}
+{"w": "coroner", "pos": "noun", "d": ["A public officer who investigates deaths that are sudden, violent, or unexplained."], "src": "iwb"}
+{"w": "coronet", "pos": "noun", "d": ["A small crown worn by nobles below the rank of king or queen."], "src": "iwb"}
+{"w": "coroniform", "pos": "adjective", "d": ["Shaped like a crown."], "src": "iwb"}
+{"w": "coronilla", "pos": "noun", "d": ["A genus of flowering shrubs and herbs of the pea family, bearing clusters of small crownlike blossoms."], "src": "iwb"}
+{"w": "coronis", "pos": "noun", "d": ["In ancient Greek manuscripts, a curved ornamental mark placed at the end of a work."], "src": "iwb"}
+{"w": "coronium", "pos": "noun", "d": ["A hypothetical element once proposed to explain unexplained spectral lines of the sun's corona."], "src": "iwb"}
+{"w": "coronoid", "pos": "adjective", "d": ["Shaped like a crown, as the coronoid process of the lower jaw."], "src": "iwb"}
+{"w": "coronule", "pos": "noun", "d": ["A small crownlike appendage, as on the seed of certain plants."], "src": "iwb"}
+{"w": "corosso", "pos": "noun", "d": ["The hard white seed of the corozo palm, used as vegetable ivory."], "src": "iwb"}
+{"w": "corozo", "pos": "noun", "d": ["A tropical American palm whose hard white nuts are carved like ivory.", "The vegetable-ivory nut of this palm."], "src": "iwb"}
+{"w": "corporace", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "corporal", "pos": "adjective", "d": ["Relating to the physical body.", "A noncommissioned military rank just below sergeant."], "src": "iwb"}
+{"w": "corporale", "pos": "noun", "d": ["The white linen cloth spread on the altar on which the sacred vessels are placed."], "src": "iwb"}
+{"w": "corporas", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "corporator", "pos": "noun", "d": ["A member of an incorporated body or company."], "src": "iwb"}
+{"w": "corporature", "pos": "noun", "d": ["The structure or bulk of the body; bodily constitution."], "src": "iwb"}
+{"w": "corporeal", "pos": "adjective", "d": ["Having a physical body; material rather than spiritual."], "src": "iwb"}
+{"w": "corporeity", "pos": "noun", "d": ["The state or quality of having a physical body."], "src": "iwb"}
+{"w": "corporify", "pos": "verb", "d": ["To give a bodily or material form to."], "src": "iwb"}
+{"w": "corposant", "pos": "noun", "d": ["A luminous electrical discharge sometimes seen on ships' masts during storms."], "src": "iwb"}
+{"w": "corps of engineers", "pos": "phrase", "d": ["The branch of the United States Army responsible for construction and engineering work."], "src": "iwb"}
+{"w": "corpse", "pos": "noun", "d": ["The dead body of a human being."], "src": "iwb"}
+{"w": "corpulence", "pos": "noun", "d": ["Excessive fatness of the body."], "src": "iwb"}
+{"w": "corpulency", "pos": "noun", "d": ["The state of being very fat."], "src": "iwb"}
+{"w": "corpulent", "pos": "adjective", "d": ["Very fat or bulky in body."], "src": "iwb"}
+{"w": "corpuscle", "pos": "noun", "d": ["A minute body or cell, especially a blood cell.", "In older science, a minute particle of matter."], "src": "iwb"}
+{"w": "corpuscular", "pos": "adjective", "d": ["Composed of or relating to minute particles or corpuscles."], "src": "iwb"}
+{"w": "corpuscularian", "pos": "noun", "d": ["A supporter of the theory that matter consists of minute particles."], "src": "iwb"}
+{"w": "corpuscule", "pos": "noun", "d": ["A small corpuscle; a minute particle."], "src": "iwb"}
+{"w": "corpusculous", "pos": "adjective", "d": ["Composed of tiny particles; corpuscular."], "src": "iwb"}
+{"w": "corral", "pos": "noun", "d": ["A fenced pen or enclosure for cattle or horses."], "src": "iwb"}
+{"w": "corrasion", "pos": "noun", "d": ["The wearing away of rock by abrasive particles carried by wind or water."], "src": "iwb"}
+{"w": "corrasive", "pos": "adjective", "d": ["Causing erosion by abrasive action."], "src": "iwb"}
+{"w": "correption", "pos": "noun", "d": ["The correction or amendment of a passage in a text.", "In Latin prosody, the shortening of a long vowel before a following vowel."], "src": "iwb"}
+{"w": "correspondence school", "pos": "phrase", "d": ["A school that teaches students by mail or other distance methods."], "src": "iwb"}
+{"w": "corridor", "pos": "noun", "d": ["A long passageway connecting rooms in a building.", "A strip of land joining two places through foreign territory."], "src": "iwb"}
+{"w": "corridor train", "pos": "phrase", "d": ["A passenger train whose cars have a side corridor connecting the compartments."], "src": "iwb"}
+{"w": "corrigendum", "pos": "noun", "d": ["An error in a printed work to be corrected, together with its correction."], "src": "iwb"}
+{"w": "corrigent", "pos": "noun", "d": ["Something that corrects or modifies, especially a substance that softens the action of a medicine."], "src": "iwb"}
+{"w": "corrigibility", "pos": "noun", "d": ["The quality of being able to be corrected or reformed."], "src": "iwb"}
+{"w": "corrigible", "pos": "adjective", "d": ["Capable of being corrected or reformed."], "src": "iwb"}
+{"w": "corrivate", "pos": "verb", "d": ["To gather flowing water from different sources into one channel."], "src": "iwb"}
+{"w": "corrivation", "pos": "noun", "d": ["The act of gathering streams or rivulets into one body of water."], "src": "iwb"}
+{"w": "corroborative", "pos": "adjective", "d": ["Serving to strengthen or confirm a statement or claim."], "src": "iwb"}
+{"w": "corroboratory", "pos": "adjective", "d": ["Tending to confirm or give strength to."], "src": "iwb"}
+{"w": "corroboree", "pos": "noun", "d": ["A ceremonial dance and song gathering of Australian Aboriginal people.", "The chant or music performed at such a gathering."], "src": "iwb"}
+{"w": "corrobory", "pos": "noun", "d": ["Another spelling of corroboree, an Aboriginal ceremonial dance."], "src": "iwb"}
+{"w": "corrodiate", "pos": "verb", "d": ["To eat away or wear down gradually, as by chemical action."], "src": "iwb"}
+{"w": "corrodibility", "pos": "noun", "d": ["The capacity of being corroded."], "src": "iwb"}
+{"w": "corrodible", "pos": "adjective", "d": ["Capable of being corroded."], "src": "iwb"}
+{"w": "corrosibility", "pos": "noun", "d": ["Susceptibility to corrosion."], "src": "iwb"}
+{"w": "corrosible", "pos": "adjective", "d": ["Capable of being eaten away by chemical action."], "src": "iwb"}
+{"w": "corrosion", "pos": "noun", "d": ["The gradual wearing away of a substance by chemical action, as rust on iron.", "The product of such wearing away."], "src": "iwb"}
+{"w": "corrosive", "pos": "adjective", "d": ["Capable of eating away material by chemical action.", "Harsh and cutting in speech or manner."], "src": "iwb"}
+{"w": "corroval", "pos": "noun", "d": ["A poisonous substance from Guianese plants, used to tip arrows."], "src": "iwb"}
+{"w": "corrovaline", "pos": "noun", "d": ["A poisonous alkaloid obtained from corroval."], "src": "iwb"}
+{"w": "corrugant", "pos": "adjective", "d": ["Causing wrinkling or contraction."], "src": "iwb"}
+{"w": "corrugation", "pos": "noun", "d": ["The act of wrinkling or the state of being wrinkled.", "A series of parallel ridges and grooves, as in corrugated iron."], "src": "iwb"}
+{"w": "corrugator", "pos": "noun", "d": ["A muscle that draws the skin into wrinkles, especially of the forehead."], "src": "iwb"}
+{"w": "corrugent", "pos": "adjective", "d": ["Causing wrinkling."], "src": "iwb"}
+{"w": "corrupt", "pos": "adjective", "d": ["Morally depraved or dishonest, especially through bribery.", "Containing errors or alterations from the original."], "src": "iwb"}
+{"w": "corruptibility", "pos": "noun", "d": ["The state or quality of being corruptible, physically or morally."], "src": "iwb"}
+{"w": "corruptingly", "pos": "adverb", "d": ["In a manner that corrupts or degrades."], "src": "iwb"}
+{"w": "corruptress", "pos": "noun", "d": ["A woman who corrupts or leads others into wrongdoing."], "src": "iwb"}
+{"w": "corsair", "pos": "noun", "d": ["A privateer or pirate, especially of the Barbary coast.", "A swift pirate vessel."], "src": "iwb"}
+{"w": "corsak", "pos": "noun", "d": ["The corsac fox, a small fox of central Asia."], "src": "iwb"}
+{"w": "corse", "pos": "noun", "d": ["An archaic or poetic form of corpse."], "src": "iwb"}
+{"w": "corslet", "pos": "noun", "d": ["A light piece of body armor protecting the trunk.", "A close-fitting bodice worn by women."], "src": "iwb"}
+{"w": "cortege", "pos": "noun", "d": ["A ceremonial procession, especially of mourners at a funeral."], "src": "iwb"}
+{"w": "cortes", "pos": "noun", "d": ["The legislative assembly of Spain or Portugal."], "src": "iwb"}
+{"w": "cortes geraes", "pos": "phrase", "d": ["The former general legislative assembly of Portugal."], "src": "iwb"}
+{"w": "cortex", "pos": "noun", "d": ["The outer layer of an organ or structure, especially of the brain or kidney.", "The outer barklike layer of a plant stem."], "src": "iwb"}
+{"w": "corticate", "pos": "adjective", "d": ["Covered with bark; having a cortex."], "src": "iwb"}
+{"w": "corticifer", "pos": "adjective", "d": ["Producing or bearing a cortex or bark."], "src": "iwb"}
+{"w": "corticiform", "pos": "adjective", "d": ["Resembling bark in appearance."], "src": "iwb"}
+{"w": "corticine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "corticose", "pos": "adjective", "d": ["Having bark; barklike."], "src": "iwb"}
+{"w": "corticous", "pos": "adjective", "d": ["Furnished with bark."], "src": "iwb"}
+{"w": "corundum", "pos": "noun", "d": ["A very hard mineral of aluminum oxide, of which ruby and sapphire are varieties."], "src": "iwb"}
+{"w": "coruscant", "pos": "adjective", "d": ["Sparkling or flashing with light."], "src": "iwb"}
+{"w": "coruscate", "pos": "verb", "d": ["To give off bright flashes of light; to sparkle."], "src": "iwb"}
+{"w": "coruscation", "pos": "noun", "d": ["A sudden bright flash of light.", "A brilliant display of wit or thought."], "src": "iwb"}
+{"w": "corve", "pos": "noun", "d": ["A large basket, especially for carrying coal in mines.", "A small wagon or tub used in coal mines."], "src": "iwb"}
+{"w": "corvee", "pos": "noun", "d": ["Unpaid labor exacted by a government or feudal lord, especially for public works."], "src": "iwb"}
+{"w": "corven", "pos": "adjective", "d": ["Carved or cut; an archaic past participle of carve."], "src": "iwb"}
+{"w": "corvet", "pos": "noun", "d": ["A curved graving tool used in wood and metal engraving."], "src": "iwb"}
+{"w": "corvette", "pos": "noun", "d": ["A small fast naval escort vessel.", "A sports car model made by Chevrolet."], "src": "iwb"}
+{"w": "corvetto", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "corvorant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "corybant", "pos": "noun", "d": ["A priest of the Phrygian goddess Cybele, known for wild ecstatic dancing."], "src": "iwb"}
+{"w": "corybantiasm", "pos": "noun", "d": ["A frenzied ecstatic state resembling the dances of the Corybantes."], "src": "iwb"}
+{"w": "corymb", "pos": "noun", "d": ["A flat-topped cluster of flowers in which the outer stalks are longer than the inner ones."], "src": "iwb"}
+{"w": "corymbiferous", "pos": "adjective", "d": ["Bearing flowers in corymbs."], "src": "iwb"}
+{"w": "corymbose", "pos": "adjective", "d": ["Arranged like a corymb; forming a flat-topped flower cluster."], "src": "iwb"}
+{"w": "coryphaenoid", "pos": "adjective", "d": ["Resembling the dolphinfish of the genus Coryphaena."], "src": "iwb"}
+{"w": "coryphee", "pos": "noun", "d": ["A ballet dancer of a rank above the corps de ballet."], "src": "iwb"}
+{"w": "coryphene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "corypheus", "pos": "noun", "d": ["The leader of the chorus in ancient Greek drama.", "The acknowledged leader of a party or school of thought."], "src": "iwb"}
+{"w": "coryphodon", "pos": "noun", "d": ["A genus of large extinct hoofed mammals of the Eocene epoch."], "src": "iwb"}
+{"w": "coryphodont", "pos": "adjective", "d": ["Relating to the extinct mammal genus Coryphodon."], "src": "iwb"}
+{"w": "coryza", "pos": "noun", "d": ["Inflammation of the nasal membranes; a head cold."], "src": "iwb"}
+{"w": "coscinomancy", "pos": "noun", "d": ["Divination by means of a suspended sieve."], "src": "iwb"}
+{"w": "coscoroba", "pos": "noun", "d": ["A large South American waterfowl resembling a swan."], "src": "iwb"}
+{"w": "cosher", "pos": "verb", "d": ["To pamper, fondle, or treat with indulgence."], "src": "iwb"}
+{"w": "cosignitary", "pos": "noun", "d": ["A person who signs a document jointly with others."], "src": "iwb"}
+{"w": "cosily", "pos": "adverb", "d": ["In a comfortable, warm, and snug manner."], "src": "iwb"}
+{"w": "cosinage", "pos": "noun", "d": ["The relationship or kinship between cousins."], "src": "iwb"}
+{"w": "cosmic", "pos": "adjective", "d": ["Relating to the universe as a whole.", "Vast and grand in scale."], "src": "iwb"}
+{"w": "cosmogonal", "pos": "adjective", "d": ["Relating to the origin of the universe."], "src": "iwb"}
+{"w": "cosmogonic", "pos": "adjective", "d": ["Pertaining to the origin or creation of the universe."], "src": "iwb"}
+{"w": "cosmogonist", "pos": "noun", "d": ["One who studies or theorizes about the origin of the universe."], "src": "iwb"}
+{"w": "cosmogony", "pos": "noun", "d": ["A theory or account of the origin and development of the universe."], "src": "iwb"}
+{"w": "cosmographer", "pos": "noun", "d": ["One who describes the general structure and parts of the universe or world."], "src": "iwb"}
+{"w": "cosmographic", "pos": "adjective", "d": ["Pertaining to a general description of the world or universe."], "src": "iwb"}
+{"w": "cosmography", "pos": "noun", "d": ["The science that describes the general features of the universe, including astronomy, geography, and geology."], "src": "iwb"}
+{"w": "cosmolabe", "pos": "noun", "d": ["An old astronomical instrument for measuring angles and distances in the heavens."], "src": "iwb"}
+{"w": "cosmolatry", "pos": "noun", "d": ["The worship of the world or the universe as divine."], "src": "iwb"}
+{"w": "cosmoline", "pos": "noun", "d": ["A thick petroleum grease used to coat and preserve metal from rust."], "src": "iwb"}
+{"w": "cosmological", "pos": "adjective", "d": ["Pertaining to the study of the origin and nature of the universe."], "src": "iwb"}
+{"w": "cosmologist", "pos": "noun", "d": ["One who studies the origin, structure, and nature of the universe."], "src": "iwb"}
+{"w": "cosmology", "pos": "noun", "d": ["The scientific study of the origin, structure, and evolution of the universe.", "A particular theory or system describing the universe."], "src": "iwb"}
+{"w": "cosmometry", "pos": "noun", "d": ["The science of measuring the dimensions of the universe."], "src": "iwb"}
+{"w": "cosmoplastic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cosmopolitan", "pos": "adjective", "d": ["At home in all parts of the world; free from local prejudice.", "Composed of people or elements from many countries."], "src": "iwb"}
+{"w": "cosmopolite", "pos": "noun", "d": ["A person who is at home anywhere in the world; a citizen of the world."], "src": "iwb"}
+{"w": "cosmopolitical", "pos": "adjective", "d": ["Pertaining to the character of being a citizen of the world."], "src": "iwb"}
+{"w": "cosmopolitism", "pos": "noun", "d": ["The state or quality of being a citizen of the world."], "src": "iwb"}
+{"w": "cosmorama", "pos": "noun", "d": ["An exhibition of panoramic views of various places in the world."], "src": "iwb"}
+{"w": "cosmoramic", "pos": "adjective", "d": ["Pertaining to a cosmorama or its panoramic views."], "src": "iwb"}
+{"w": "cosmos", "pos": "noun", "d": ["The universe considered as an orderly system.", "Any orderly and harmonious system."], "src": "iwb"}
+{"w": "cosmosphere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cosmotheism", "pos": "noun", "d": ["The doctrine that identifies God with the universe."], "src": "iwb"}
+{"w": "cosmothetic", "pos": "adjective", "d": ["Pertaining to the doctrine that God and the universe are one."], "src": "iwb"}
+{"w": "coss", "pos": "noun", "d": ["An East Indian measure of distance, about two miles."], "src": "iwb"}
+{"w": "cossack", "pos": "noun", "d": ["A member of the warlike peoples of southern Russia and Ukraine, famed as horsemen and soldiers."], "src": "iwb"}
+{"w": "cossack post", "pos": "phrase", "d": ["A military station or outpost manned by Cossacks."], "src": "iwb"}
+{"w": "cossas", "pos": "noun", "d": ["A fine muslin cloth made in the East Indies."], "src": "iwb"}
+{"w": "cosset", "pos": "verb", "d": ["To treat with great tenderness and indulgence."], "src": "iwb"}
+{"w": "costal-nerved", "pos": "adjective", "d": ["Having the leaf veins arranged like ribs from the midrib."], "src": "iwb"}
+{"w": "costard", "pos": "noun", "d": ["A large round English variety of apple.", "In old slang, the head."], "src": "iwb"}
+{"w": "costiferous", "pos": "adjective", "d": ["Bearing ribs or riblike ridges."], "src": "iwb"}
+{"w": "costlewe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "costliness", "pos": "noun", "d": ["The quality of being expensive; high price."], "src": "iwb"}
+{"w": "coston lights", "pos": "phrase", "d": ["Colored signal lights used at sea, especially for distress signals."], "src": "iwb"}
+{"w": "costotome", "pos": "noun", "d": ["A surgical instrument for cutting through ribs."], "src": "iwb"}
+{"w": "costrel", "pos": "noun", "d": ["A small flat-sided flask or bottle, especially for carrying drink."], "src": "iwb"}
+{"w": "cosy", "pos": "adjective", "d": ["Comfortably warm and snug.", "Intimate and informal in a pleasant way."], "src": "iwb"}
+{"w": "cot", "pos": "noun", "d": ["A narrow light bed, as used in camps or barracks.", "A small cottage or hut."], "src": "iwb"}
+{"w": "cotarnine", "pos": "noun", "d": ["An alkaloid obtained from narcotine, used in medicine to check bleeding."], "src": "iwb"}
+{"w": "cote", "pos": "noun", "d": ["A small shelter for domestic animals, especially sheep or pigeons."], "src": "iwb"}
+{"w": "coteau", "pos": "noun", "d": ["A hilly upland or slope, especially in the upper Mississippi valley."], "src": "iwb"}
+{"w": "coterminous", "pos": "adjective", "d": ["Having the same or coincident limits or boundaries."], "src": "iwb"}
+{"w": "cothurn", "pos": "noun", "d": ["A high thick-soled boot worn by actors in ancient Greek tragedy."], "src": "iwb"}
+{"w": "cothurnus", "pos": "noun", "d": ["The high boot of ancient tragic actors.", "The elevated, stately style of tragedy."], "src": "iwb"}
+{"w": "coticular", "pos": "adjective", "d": ["Pertaining to whetstones or to the art of sharpening."], "src": "iwb"}
+{"w": "cotillion", "pos": "noun", "d": ["A formal ball with elaborate figures and changing partners.", "A lively French dance for couples."], "src": "iwb"}
+{"w": "cotillon", "pos": "noun", "d": ["Another spelling of cotillion, a formal social dance."], "src": "iwb"}
+{"w": "cotinga", "pos": "noun", "d": ["A brightly colored tropical American bird of the chatterer family."], "src": "iwb"}
+{"w": "cotswold", "pos": "noun", "d": ["A breed of long-wooled English sheep.", "A range of limestone hills in western England."], "src": "iwb"}
+{"w": "cotta", "pos": "noun", "d": ["A short white surplice worn by clergy and choristers."], "src": "iwb"}
+{"w": "cottise", "pos": "noun", "d": ["In heraldry, a narrow diagonal band flanking a bend."], "src": "iwb"}
+{"w": "cottoid", "pos": "adjective", "d": ["Resembling the sculpins, fishes of the family Cottidae."], "src": "iwb"}
+{"w": "cottolene", "pos": "noun", "d": ["A commercial shortening made from cottonseed oil and beef fat."], "src": "iwb"}
+{"w": "cotton batting", "pos": "phrase", "d": ["Sheets of carded cotton fiber used for padding quilts and garments."], "src": "iwb"}
+{"w": "cotton seed", "pos": "phrase", "d": ["The seed of the cotton plant, yielding oil and meal."], "src": "iwb"}
+{"w": "cotton state", "pos": "phrase", "d": ["A nickname for Alabama, historically a leading cotton producer."], "src": "iwb"}
+{"w": "cottonade", "pos": "noun", "d": ["A coarse cotton cloth, often striped, used for work clothes."], "src": "iwb"}
+{"w": "cottonseed meal", "pos": "phrase", "d": ["The ground residue of cottonseed after the oil is pressed out, used as feed and fertilizer."], "src": "iwb"}
+{"w": "cottonseed oil", "pos": "phrase", "d": ["A pale oil pressed from cottonseed, used in cooking and industry."], "src": "iwb"}
+{"w": "cottrel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cotyla", "pos": "noun", "d": ["A cup-shaped hollow in a bone that receives the rounded head of another bone.", "Especially, the socket of the hip bone."], "src": "iwb"}
+{"w": "cotyliform", "pos": "adjective", "d": ["Shaped like a cup."], "src": "iwb"}
+{"w": "cotyligerous", "pos": "adjective", "d": ["Bearing cup-shaped hollows or suckers."], "src": "iwb"}
+{"w": "cotyloid", "pos": "adjective", "d": ["Resembling a cup in shape."], "src": "iwb"}
+{"w": "coucal", "pos": "noun", "d": ["A large ground-dwelling bird of the cuckoo family found in Africa, Asia, and Australia."], "src": "iwb"}
+{"w": "couch", "pos": "noun", "d": ["A long upholstered seat for reclining or lying down.", "To lie down for rest."], "src": "iwb"}
+{"w": "couch grass", "pos": "phrase", "d": ["A tough perennial grass with creeping underground stems, common as a garden weed."], "src": "iwb"}
+{"w": "couchancy", "pos": "noun", "d": ["The posture of lying down; in heraldry, the position of an animal resting with its head raised."], "src": "iwb"}
+{"w": "couche", "pos": "noun", "d": ["An old word for a bed or a couch."], "src": "iwb"}
+{"w": "couchee", "pos": "noun", "d": ["A formal evening reception once held in the bedchamber of a French king or queen."], "src": "iwb"}
+{"w": "coudee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cougar", "pos": "noun", "d": ["A large tawny wild cat of the Americas, also called a mountain lion or puma."], "src": "iwb"}
+{"w": "couhage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "coulee", "pos": "noun", "d": ["A deep, narrow ravine, often dry, common in the western United States.", "A hardened tongue-shaped flow of lava."], "src": "iwb"}
+{"w": "couleur", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "coulisse", "pos": "noun", "d": ["The backstage area at the sides of a theater stage; the wings.", "A groove in which a sliding part moves."], "src": "iwb"}
+{"w": "couloir", "pos": "noun", "d": ["A steep, narrow gully on a mountainside."], "src": "iwb"}
+{"w": "coulomb", "pos": "noun", "d": ["The standard unit of electric charge."], "src": "iwb"}
+{"w": "coulomb meter", "pos": "phrase", "d": ["An instrument that measures the amount of electric charge."], "src": "iwb"}
+{"w": "coulter", "pos": "noun", "d": ["The sharp blade on a plow that cuts the soil in front of the plowshare."], "src": "iwb"}
+{"w": "coulure", "pos": "noun", "d": ["A condition in which grapevine blossoms fail to set fruit."], "src": "iwb"}
+{"w": "coumaric", "pos": "adjective", "d": ["Relating to or derived from coumarin."], "src": "iwb"}
+{"w": "coumarin", "pos": "noun", "d": ["A sweet-smelling crystalline substance found in certain plants, used in perfumes and flavorings."], "src": "iwb"}
+{"w": "coumarou", "pos": "noun", "d": ["A tall South American tree that produces the fragrant tonka bean."], "src": "iwb"}
+{"w": "councilor", "pos": "noun", "d": ["A member of a council, such as a city or town council."], "src": "iwb"}
+{"w": "counselor", "pos": "noun", "d": ["A person trained to give advice and help with personal problems.", "A lawyer who argues cases in court."], "src": "iwb"}
+{"w": "count-wheel", "pos": "noun", "d": ["A wheel in a striking clock that controls the number of strokes the bell makes."], "src": "iwb"}
+{"w": "countenance", "pos": "noun", "d": ["The face, or the expression upon it.", "Calm composure; also, approval or support."], "src": "iwb"}
+{"w": "counter brace", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "counter tenor", "pos": "phrase", "d": ["The highest singing voice of an adult male, above the tenor range."], "src": "iwb"}
+{"w": "counter weight", "pos": "phrase", "d": ["A weight used to balance another weight."], "src": "iwb"}
+{"w": "counter-compony", "pos": "adjective", "d": ["In heraldry, divided into two rows of small squares of alternating colors."], "src": "iwb"}
+{"w": "counter-couchant", "pos": "adjective", "d": ["In heraldry, describing two animals lying down in opposite directions."], "src": "iwb"}
+{"w": "counter-courant", "pos": "adjective", "d": ["In heraldry, describing two animals running in opposite directions."], "src": "iwb"}
+{"w": "counter-paly", "pos": "adjective", "d": ["In heraldry, divided into vertical stripes whose colors are reversed above and below the middle."], "src": "iwb"}
+{"w": "counter-revolutionary", "pos": "adjective", "d": ["Opposed to a revolution or seeking to undo its changes.", "A person who opposes a revolution."], "src": "iwb"}
+{"w": "counter-roll", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "counter-salient", "pos": "adjective", "d": ["In heraldry, describing two animals leaping in opposite directions."], "src": "iwb"}
+{"w": "counterfaisance", "pos": "noun", "d": ["An old legal term for the crime of counterfeiting."], "src": "iwb"}
+{"w": "counterfeit", "pos": "adjective", "d": ["Made to look like the genuine thing in order to deceive.", "To make a false copy of something."], "src": "iwb"}
+{"w": "counterfesance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "counterflory", "pos": "adjective", "d": ["In heraldry, decorated with fleurs-de-lis placed alternately on opposite sides, as on a border."], "src": "iwb"}
+{"w": "counterrolment", "pos": "noun", "d": ["A duplicate of an official roll or record, kept to check the original."], "src": "iwb"}
+{"w": "countess", "pos": "noun", "d": ["The wife or widow of an earl or count.", "A woman who holds the rank of count in her own right."], "src": "iwb"}
+{"w": "countinghouse", "pos": "noun", "d": ["An office where a business keeps its accounts and records."], "src": "iwb"}
+{"w": "countingroom", "pos": "noun", "d": ["A room where accounts are kept; a countinghouse."], "src": "iwb"}
+{"w": "countor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "countretaille", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "countrify", "pos": "verb", "d": ["To give a rural or rustic character to.", "To make rustic in manners or appearance."], "src": "iwb"}
+{"w": "country bank", "pos": "phrase", "d": ["A bank located in a small town or rural district."], "src": "iwb"}
+{"w": "country club", "pos": "phrase", "d": ["A private suburban club offering sports such as golf and tennis along with dining and social events."], "src": "iwb"}
+{"w": "country cousin", "pos": "phrase", "d": ["A relative from a rural area, often thought of as unsophisticated."], "src": "iwb"}
+{"w": "country seat", "pos": "phrase", "d": ["A large house with grounds in the countryside, especially one belonging to a wealthy family."], "src": "iwb"}
+{"w": "country-base", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "country-dance", "pos": "noun", "d": ["A traditional lively dance in which couples form lines or circles."], "src": "iwb"}
+{"w": "coup", "pos": "noun", "d": ["A sudden and decisive stroke, especially the violent overthrow of a government.", "A brilliant and successful move."], "src": "iwb"}
+{"w": "coupe", "pos": "noun", "d": ["A shallow stemmed glass or dish for serving iced desserts.", "A closed two-door automobile."], "src": "iwb"}
+{"w": "coupe-gorge", "pos": "noun", "d": ["A dangerous place or situation; literally, a cutthroat spot."], "src": "iwb"}
+{"w": "coupee", "pos": "noun", "d": ["A quick ballet step in which one foot displaces the other."], "src": "iwb"}
+{"w": "couple-beggar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "couple-close", "pos": "noun", "d": ["In heraldry, one of a pair of narrow bands flanking a chevron."], "src": "iwb"}
+{"w": "courant", "pos": "adjective", "d": ["In heraldry, shown running at full speed."], "src": "iwb"}
+{"w": "couranto", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "courap", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "courb", "pos": "adjective", "d": ["In heraldry, bent or curved."], "src": "iwb"}
+{"w": "courche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "courlan", "pos": "noun", "d": ["A large wading bird of the Americas with a long curved bill, also called the limpkin."], "src": "iwb"}
+{"w": "coursey", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "court tennis", "pos": "phrase", "d": ["An old indoor racket game played in a walled court, the ancestor of modern tennis."], "src": "iwb"}
+{"w": "court-baron", "pos": "noun", "d": ["A court held by the lord of a manor for his tenants in medieval England."], "src": "iwb"}
+{"w": "court-craft", "pos": "noun", "d": ["The art of winning favor at court; skillful flattery and intrigue."], "src": "iwb"}
+{"w": "court-cupboard", "pos": "noun", "d": ["An open wooden sideboard of the 1500s and 1600s used for displaying dishes."], "src": "iwb"}
+{"w": "court-leet", "pos": "noun", "d": ["A medieval English local court that dealt with minor offenses."], "src": "iwb"}
+{"w": "court-martial", "pos": "noun", "d": ["A military court that tries members of the armed forces for offenses against military law."], "src": "iwb"}
+{"w": "court-plaster", "pos": "noun", "d": ["A fine silk plaster once used to cover small cuts on the face."], "src": "iwb"}
+{"w": "courtelle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "courteous", "pos": "adjective", "d": ["Polite, respectful, and considerate in behavior."], "src": "iwb"}
+{"w": "courtepy", "pos": "noun", "d": ["A short cloak or cape worn in medieval times."], "src": "iwb"}
+{"w": "courtesan", "pos": "noun", "d": ["A woman supported by wealthy lovers, often moving in high society."], "src": "iwb"}
+{"w": "courtier", "pos": "noun", "d": ["A person who attends a royal court.", "One who seeks favor through flattery."], "src": "iwb"}
+{"w": "courtiery", "pos": "noun", "d": ["The manners and practices of courtiers; artful flattery."], "src": "iwb"}
+{"w": "courtliness", "pos": "noun", "d": ["Dignified politeness of manner."], "src": "iwb"}
+{"w": "couscous", "pos": "noun", "d": ["A North African dish of tiny steamed granules of wheat, usually served with meat or vegetables."], "src": "iwb"}
+{"w": "couscousou", "pos": "noun", "d": ["Another name for couscous."], "src": "iwb"}
+{"w": "cousin", "pos": "noun", "d": ["The son or daughter of one's aunt or uncle.", "A relative in general."], "src": "iwb"}
+{"w": "cousin-german", "pos": "noun", "d": ["A first cousin; the child of one's parent's brother or sister."], "src": "iwb"}
+{"w": "cousinry", "pos": "noun", "d": ["The relationship of cousins; cousins as a group."], "src": "iwb"}
+{"w": "coussinet", "pos": "noun", "d": ["In classical architecture, the cushion-shaped part of an Ionic capital."], "src": "iwb"}
+{"w": "couteau", "pos": "noun", "d": ["A knife; the French word for knife."], "src": "iwb"}
+{"w": "couth", "pos": "adjective", "d": ["Refined and polished in manners; the opposite of uncouth."], "src": "iwb"}
+{"w": "couvade", "pos": "noun", "d": ["A custom in some societies in which the father of a newborn goes to bed and is treated as an invalid."], "src": "iwb"}
+{"w": "couveuse", "pos": "noun", "d": ["An incubator for keeping premature babies warm."], "src": "iwb"}
+{"w": "covelline", "pos": "noun", "d": ["A copper sulfide mineral, also called covellite."], "src": "iwb"}
+{"w": "covellite", "pos": "noun", "d": ["A dark blue mineral consisting of copper sulfide."], "src": "iwb"}
+{"w": "covenable", "pos": "adjective", "d": ["Suitable or agreeable; an old word."], "src": "iwb"}
+{"w": "covenably", "pos": "adverb", "d": ["In a suitable or fitting manner; an old word."], "src": "iwb"}
+{"w": "covenant", "pos": "noun", "d": ["A solemn, binding agreement or promise."], "src": "iwb"}
+{"w": "covenantee", "pos": "noun", "d": ["A person to whom a promise or covenant is made."], "src": "iwb"}
+{"w": "covenantor", "pos": "noun", "d": ["A person who makes a promise or covenant."], "src": "iwb"}
+{"w": "coventry", "pos": "noun", "d": ["Exclusion from company; the state of being deliberately ignored."], "src": "iwb"}
+{"w": "cover crop", "pos": "phrase", "d": ["A crop grown to protect the soil from erosion and enrich it, rather than for harvest."], "src": "iwb"}
+{"w": "cover-point", "pos": "noun", "d": ["In cricket, a fielding position on the off side between point and mid-off."], "src": "iwb"}
+{"w": "cover-shame", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "covercle", "pos": "noun", "d": ["A lid or cover for a vessel; an old word."], "src": "iwb"}
+{"w": "coversed sine", "pos": "phrase", "d": ["In trigonometry, one minus the sine of an angle; the coversine."], "src": "iwb"}
+{"w": "covert baron", "pos": "phrase", "d": ["In old law, a married woman, under the legal protection of her husband."], "src": "iwb"}
+{"w": "covet", "pos": "verb", "d": ["To desire eagerly something that belongs to another person."], "src": "iwb"}
+{"w": "covetiveness", "pos": "noun", "d": ["The state of desiring what belongs to others; greed."], "src": "iwb"}
+{"w": "covey", "pos": "noun", "d": ["A small flock of birds, especially partridges or quail."], "src": "iwb"}
+{"w": "covin", "pos": "noun", "d": ["An old legal term for a secret agreement to defraud someone."], "src": "iwb"}
+{"w": "cow parsley", "pos": "phrase", "d": ["A common wild plant with lacy clusters of small white flowers."], "src": "iwb"}
+{"w": "cow parsnip", "pos": "phrase", "d": ["A tall coarse plant with broad leaves and flat clusters of white flowers."], "src": "iwb"}
+{"w": "cow tree", "pos": "phrase", "d": ["A South American tree whose milky sap is drunk like milk."], "src": "iwb"}
+{"w": "cow-pilot", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cowardie", "pos": "noun", "d": ["Cowardice; an old form of the word."], "src": "iwb"}
+{"w": "cowardliness", "pos": "noun", "d": ["Lack of courage; the quality of being cowardly."], "src": "iwb"}
+{"w": "cowblakes", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cowhage", "pos": "noun", "d": ["A tropical climbing plant whose pods bear stinging hairs; used in medicine."], "src": "iwb"}
+{"w": "cowl", "pos": "noun", "d": ["A loose hood or hooded robe worn by monks.", "A hood-shaped cover, as for a chimney."], "src": "iwb"}
+{"w": "cox", "pos": "verb", "d": ["To act as coxswain; to steer a racing boat."], "src": "iwb"}
+{"w": "coxa", "pos": "noun", "d": ["In anatomy, the hip bone.", "In insects, the first segment of the leg."], "src": "iwb"}
+{"w": "coxalgia", "pos": "noun", "d": ["Pain in the hip joint."], "src": "iwb"}
+{"w": "coxalgy", "pos": "noun", "d": ["Pain in the hip; coxalgia."], "src": "iwb"}
+{"w": "coxcombry", "pos": "noun", "d": ["The behavior of a coxcomb; vain and foppish conceit."], "src": "iwb"}
+{"w": "coy", "pos": "adjective", "d": ["Shy or modest, especially in a playful or pretending way."], "src": "iwb"}
+{"w": "coyote state", "pos": "phrase", "d": ["A nickname for the state of South Dakota."], "src": "iwb"}
+{"w": "coyotillo", "pos": "noun", "d": ["A thorny shrub of the southwestern United States and Mexico with poisonous berries."], "src": "iwb"}
+{"w": "coypu", "pos": "noun", "d": ["A large web-footed South American rodent, also called the nutria."], "src": "iwb"}
+{"w": "coystrel", "pos": "noun", "d": ["An old word for a mean, low fellow; a knave."], "src": "iwb"}
+{"w": "coz", "pos": "noun", "d": ["A familiar short form of the word cousin."], "src": "iwb"}
+{"w": "cozily", "pos": "adverb", "d": ["In a warm and comfortable way."], "src": "iwb"}
+{"w": "coziness", "pos": "noun", "d": ["The quality of being warm, comfortable, and snug."], "src": "iwb"}
+{"w": "cozy", "pos": "adjective", "d": ["Warm, comfortable, and snug."], "src": "iwb"}
+{"w": "crab", "pos": "noun", "d": ["A broad-shelled crustacean with ten legs, the front pair ending in claws.", "To complain or grumble."], "src": "iwb"}
+{"w": "crab tree", "pos": "phrase", "d": ["A wild apple tree bearing small sour fruit."], "src": "iwb"}
+{"w": "crab-yaws", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "crabby", "pos": "adjective", "d": ["Cross and irritable in temper."], "src": "iwb"}
+{"w": "crache", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "crack-brained", "pos": "adjective", "d": ["Having unsound judgment; crazy."], "src": "iwb"}
+{"w": "crack-loo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "crackajack", "pos": "adjective", "d": ["First-rate; excellent in quality.", "A person or thing of exceptional quality."], "src": "iwb"}
+{"w": "crackaloo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "cracker state", "pos": "phrase", "d": ["A nickname for the state of Georgia."], "src": "iwb"}
+{"w": "crackle", "pos": "verb", "d": ["To make a rapid series of small sharp sounds, as burning twigs do."], "src": "iwb"}
+{"w": "cracknel", "pos": "noun", "d": ["A hard, crisp, light biscuit."], "src": "iwb"}
+{"w": "cracksman", "pos": "noun", "d": ["A burglar, especially one who breaks open safes."], "src": "iwb"}
+{"w": "cracovian", "pos": "adjective", "d": ["Of or relating to Cracow (Krakow) in Poland.", "A native or resident of Cracow."], "src": "iwb"}
+{"w": "cracovienne", "pos": "noun", "d": ["A lively Polish dance in quick time."], "src": "iwb"}
+{"w": "cracowes", "pos": "noun", "d": ["Long, pointed shoes fashionable in the 1300s and 1400s."], "src": "iwb"}
+{"w": "craftily", "pos": "adverb", "d": ["In a sly or cunning manner."], "src": "iwb"}
+{"w": "craftiness", "pos": "noun", "d": ["Sly cunning; skill in deceiving."], "src": "iwb"}
+{"w": "craftsman", "pos": "noun", "d": ["A worker skilled in a trade or handicraft."], "src": "iwb"}
+{"w": "craftsmaster", "pos": "noun", "d": ["A master of a craft; one of the highest skill in a trade."], "src": "iwb"}
+{"w": "crafty", "pos": "adjective", "d": ["Cunning and deceitful; sly."], "src": "iwb"}
+{"w": "crag", "pos": "noun", "d": ["A steep, rugged rock or cliff."], "src": "iwb"}
+{"w": "cragginess", "pos": "noun", "d": ["The state of being full of crags; ruggedness."], "src": "iwb"}
+{"w": "craggy", "pos": "adjective", "d": ["Full of steep, rugged rocks."], "src": "iwb"}
+{"w": "cragsman", "pos": "noun", "d": ["A person skilled in climbing among crags; a mountaineer."], "src": "iwb"}
+{"w": "craie", "pos": "noun", "d": ["Chalk; the French word for chalk, used in English for artists' drawing chalk."], "src": "iwb"}
+{"w": "craig flounder", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "crail", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "crake", "pos": "noun", "d": ["A bird of the rail family, such as the corncrake."], "src": "iwb"}
+{"w": "cram", "pos": "verb", "d": ["To pack tightly into a small space.", "To study hard at the last minute for an examination."], "src": "iwb"}
+{"w": "crambo", "pos": "noun", "d": ["A game in which players must find rhymes for a given word."], "src": "iwb"}
+{"w": "cramoisie", "pos": "adjective", "d": ["Crimson; deep red in color."], "src": "iwb"}
+{"w": "cramoisy", "pos": "adjective", "d": ["Crimson in color."], "src": "iwb"}
+{"w": "cramp", "pos": "noun", "d": ["A painful, involuntary tightening of a muscle.", "A metal clamp for holding things together."], "src": "iwb"}
+{"w": "cramp iron", "pos": "phrase", "d": ["An iron bar bent at both ends, used to fasten stones or timbers together."], "src": "iwb"}
+{"w": "crampon", "pos": "noun", "d": ["A spiked plate strapped to a boot for walking on ice.", "A grappling iron for seizing objects."], "src": "iwb"}
+{"w": "cramponee", "pos": "adjective", "d": ["In heraldry, having ends bent at right angles like a cramp."], "src": "iwb"}
+{"w": "crampoons", "pos": "noun", "d": ["Spiked plates worn on boots for climbing on ice."], "src": "iwb"}
+{"w": "crampy", "pos": "adjective", "d": ["Affected with cramp.", "Cramped; confined."], "src": "iwb"}
+{"w": "cran", "pos": "noun", "d": ["A measure of fresh herrings, roughly a barrelful."], "src": "iwb"}
+{"w": "cranch", "pos": "verb", "d": ["To crush with the teeth; to crunch."], "src": "iwb"}
+{"w": "crandall", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "crane", "pos": "noun", "d": ["A tall wading bird with a long neck and long legs.", "A machine with a swinging arm for lifting heavy weights."], "src": "iwb"}
+{"w": "crang", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "crania", "pos": "noun", "d": ["Plural of cranium; skulls."], "src": "iwb"}
+{"w": "cranioclasm", "pos": "noun", "d": ["The surgical crushing of the skull, especially of a fetus in difficult childbirth."], "src": "iwb"}
+{"w": "cranioclast", "pos": "noun", "d": ["An instrument for crushing the skull in difficult childbirth."], "src": "iwb"}
+{"w": "craniofacial", "pos": "adjective", "d": ["Relating to the skull and the face."], "src": "iwb"}
+{"w": "craniognomy", "pos": "noun", "d": ["The study of the shape of the skull as an indicator of mental traits."], "src": "iwb"}
+{"w": "craniological", "pos": "adjective", "d": ["Relating to craniology."], "src": "iwb"}
+{"w": "craniologist", "pos": "noun", "d": ["One who studies skulls."], "src": "iwb"}
+{"w": "craniology", "pos": "noun", "d": ["The scientific study of skulls."], "src": "iwb"}
+{"w": "craniometer", "pos": "noun", "d": ["An instrument for measuring skulls."], "src": "iwb"}
+{"w": "craniometric", "pos": "adjective", "d": ["Relating to the measurement of skulls."], "src": "iwb"}
+{"w": "craniometry", "pos": "noun", "d": ["The measurement of skulls and their proportions."], "src": "iwb"}
+{"w": "cranioscopist", "pos": "noun", "d": ["One who examines skulls to judge mental faculties."], "src": "iwb"}
+{"w": "cranioscopy", "pos": "noun", "d": ["The examination of skulls to determine mental characteristics."], "src": "iwb"}
+{"w": "craniotomy", "pos": "noun", "d": ["The surgical opening of the skull.", "The cutting of the fetal skull to ease childbirth."], "src": "iwb"}
+{"w": "cranium", "pos": "noun", "d": ["The skull, especially the part that encloses the brain."], "src": "iwb"}
+{"w": "crank", "pos": "noun", "d": ["A bent handle or arm for turning a shaft.", "An eccentric or odd person."], "src": "iwb"}
+{"w": "crankiness", "pos": "noun", "d": ["The quality of being irritable or grumpy."], "src": "iwb"}
+{"w": "crankle", "pos": "verb", "d": ["To bend or twist out of a straight line; to wind."], "src": "iwb"}
+{"w": "cranky", "pos": "adjective", "d": ["Irritable and ill-tempered.", "Odd or eccentric."], "src": "iwb"}
+{"w": "crannoge", "pos": "noun", "d": ["An ancient artificial island built in a lake in Scotland or Ireland, used as a dwelling."], "src": "iwb"}
+{"w": "cranny", "pos": "noun", "d": ["A small narrow opening; a crevice."], "src": "iwb"}
+{"w": "crantara", "pos": "noun", "d": ["The fiery cross, a signal once used in the Scottish Highlands to summon clansmen to arms."], "src": "iwb"}
+{"w": "crants", "pos": "noun", "d": ["Garlands or wreaths, especially those carried at a maiden's funeral."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

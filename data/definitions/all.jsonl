@@ -27016,6 +27016,806 @@
 {"w": "gyb", "pos": "noun", "d": ["Another form of gybe, the swinging of a sail from one side of a boat to the other.", "A mocking remark; a taunt."], "src": "iwb"}
 {"w": "gybe", "pos": "verb", "d": ["To swing a fore-and-aft sail from one side of a boat to the other.", "A mocking remark; a taunt."], "src": "iwb"}
 {"w": "gye", "pos": "verb", "d": ["To guide or govern."], "src": "iwb"}
+{"w": "gyle", "pos": "noun", "d": ["The sweet liquid drawn from malted grain during brewing, before it is fermented."], "src": "iwb"}
+{"w": "gymnal", "pos": "adjective", "d": ["Relating to athletic exercise or gymnastics."], "src": "iwb"}
+{"w": "gymnasiarch", "pos": "noun", "d": ["An official who supervised a gymnasium in ancient Greece."], "src": "iwb"}
+{"w": "gymnasium", "pos": "noun", "d": ["A building or room fitted for athletic exercise.", "A secondary school in Germany and some other countries that prepares students for the university."], "src": "iwb"}
+{"w": "gymnast", "pos": "noun", "d": ["A person trained in gymnastic exercises."], "src": "iwb"}
+{"w": "gymnic", "pos": "adjective", "d": ["Of or relating to athletic exercise."], "src": "iwb"}
+{"w": "gymnite", "pos": "noun", "d": ["A pale greenish mineral made of hydrated magnesium silicate."], "src": "iwb"}
+{"w": "gymnoblastea", "pos": "noun", "d": ["A group of hydroid polyps whose feeding heads are not enclosed in a horny cup."], "src": "iwb"}
+{"w": "gymnoblastic", "pos": "adjective", "d": ["Having buds or polyps not enclosed in a protective case."], "src": "iwb"}
+{"w": "gymnocarpous", "pos": "adjective", "d": ["Bearing fruit that is not enclosed in any covering."], "src": "iwb"}
+{"w": "gymnochroa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gymnocladus", "pos": "noun", "d": ["A genus of trees of the bean family, including the Kentucky coffee tree."], "src": "iwb"}
+{"w": "gymnocopa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gymnocyte", "pos": "noun", "d": ["A cell that lacks a distinct enclosing wall or membrane."], "src": "iwb"}
+{"w": "gymnocytode", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gymnodont", "pos": "noun", "d": ["Any fish of the group that includes puffers and porcupinefishes."], "src": "iwb"}
+{"w": "gymnogen", "pos": "noun", "d": ["A plant that bears its seeds exposed rather than shut up in a fruit."], "src": "iwb"}
+{"w": "gymnoglossa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gymnolaema", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gymnolaemata", "pos": "noun", "d": ["A large class of marine moss animals."], "src": "iwb"}
+{"w": "gymnonoti", "pos": "noun", "d": ["A group of South American fishes that give off weak electric discharges, the knifefishes."], "src": "iwb"}
+{"w": "gymnopaedic", "pos": "adjective", "d": ["Relating to the Gymnopaedia, a Spartan festival of choral dancing."], "src": "iwb"}
+{"w": "gymnophiona", "pos": "noun", "d": ["An order of legless, burrowing amphibians, the caecilians."], "src": "iwb"}
+{"w": "gymnophthalmata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gymnoplast", "pos": "noun", "d": ["A plant cell with its wall removed, leaving the living protoplasm bare."], "src": "iwb"}
+{"w": "gymnorhinal", "pos": "adjective", "d": ["Having the nostrils bare of feathers."], "src": "iwb"}
+{"w": "gymnosomata", "pos": "noun", "d": ["An order of swimming sea slugs that have no shell when adult."], "src": "iwb"}
+{"w": "gymnosophist", "pos": "noun", "d": ["One of a sect of naked ascetic philosophers of ancient India."], "src": "iwb"}
+{"w": "gymnosophy", "pos": "noun", "d": ["The philosophy or way of life of the gymnosophists."], "src": "iwb"}
+{"w": "gymnosperm", "pos": "noun", "d": ["A plant whose seeds are borne exposed on scales or leaves rather than enclosed in an ovary, as pines and firs."], "src": "iwb"}
+{"w": "gymnotoka", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gymnotus", "pos": "noun", "d": ["A genus of South American fishes that give off weak electric shocks, the banded knifefishes."], "src": "iwb"}
+{"w": "gyn", "pos": "abbreviation", "d": ["An abbreviation of gynecology, the branch of medicine concerned with the health of women."], "src": "iwb"}
+{"w": "gynaeceum", "pos": "noun", "d": ["The women's apartments in an ancient Greek house."], "src": "iwb"}
+{"w": "gynaecian", "pos": "adjective", "d": ["Relating to the female organs of a flower."], "src": "iwb"}
+{"w": "gynaecium", "pos": "noun", "d": ["The seed-bearing part of a flower, the pistil."], "src": "iwb"}
+{"w": "gynaecophore", "pos": "noun", "d": ["A stalk that lifts the pistil above the other parts of the flower."], "src": "iwb"}
+{"w": "gynander", "pos": "noun", "d": ["An individual animal or plant combining male and female sexual characters."], "src": "iwb"}
+{"w": "gynandria", "pos": "noun", "d": ["The condition in a flower in which the stamens are united with the pistil."], "src": "iwb"}
+{"w": "gynandrian", "pos": "adjective", "d": ["Having the stamens united with the pistil."], "src": "iwb"}
+{"w": "gynandromorph", "pos": "noun", "d": ["An organism whose body contains both male and female tissues."], "src": "iwb"}
+{"w": "gynantherous", "pos": "adjective", "d": ["Having stamens changed into pistils."], "src": "iwb"}
+{"w": "gyneceum", "pos": "noun", "d": ["Another spelling of gynaecium, the pistil of a flower."], "src": "iwb"}
+{"w": "gynecian", "pos": "adjective", "d": ["Relating to the pistil of a flower."], "src": "iwb"}
+{"w": "gynecocracy", "pos": "noun", "d": ["Government or rule by women."], "src": "iwb"}
+{"w": "gynecological", "pos": "adjective", "d": ["Relating to gynecology."], "src": "iwb"}
+{"w": "gynecology", "pos": "noun", "d": ["The branch of medicine dealing with the health of women, especially the reproductive system."], "src": "iwb"}
+{"w": "gyneocracy", "pos": "noun", "d": ["Rule by women."], "src": "iwb"}
+{"w": "gyneolatry", "pos": "noun", "d": ["Excessive adoration or worship of women."], "src": "iwb"}
+{"w": "gynephobia", "pos": "noun", "d": ["An abnormal fear of women."], "src": "iwb"}
+{"w": "gynno", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gynobase", "pos": "noun", "d": ["A cushion-like swelling of the flower receptacle on which the ovary sits."], "src": "iwb"}
+{"w": "gynobasic", "pos": "adjective", "d": ["Borne on or relating to a gynobase."], "src": "iwb"}
+{"w": "gynocracy", "pos": "noun", "d": ["Rule by women."], "src": "iwb"}
+{"w": "gynodioecious", "pos": "adjective", "d": ["Having female flowers on some plants and bisexual flowers on others of the same species."], "src": "iwb"}
+{"w": "gynoecium", "pos": "noun", "d": ["The pistil of a flower, made up of one or more carpels."], "src": "iwb"}
+{"w": "gynophore", "pos": "noun", "d": ["A stalk that raises the pistil above the other flower parts."], "src": "iwb"}
+{"w": "gyp", "pos": "verb", "d": ["To cheat or swindle a person, as by overcharging.", "To obtain money dishonestly."], "src": "iwb"}
+{"w": "gypse", "pos": "noun", "d": ["Gypsum plaster, such as plaster of Paris."], "src": "iwb"}
+{"w": "gypsiferous", "pos": "adjective", "d": ["Containing or yielding gypsum."], "src": "iwb"}
+{"w": "gypsography", "pos": "noun", "d": ["The art of engraving on gypsum for making prints."], "src": "iwb"}
+{"w": "gypsoplast", "pos": "noun", "d": ["A cast made in gypsum plaster."], "src": "iwb"}
+{"w": "gypsy", "pos": "noun", "d": ["A member of the Roma people, traditionally traveling from place to place.", "A person who wanders or lives an unsettled life."], "src": "iwb"}
+{"w": "gypsy moth", "pos": "noun", "d": ["A moth whose hairy caterpillars strip leaves from forest trees, a serious pest in North America."], "src": "iwb"}
+{"w": "gyracanthus", "pos": "noun", "d": ["An extinct genus of spiny fishes known from Paleozoic fossils."], "src": "iwb"}
+{"w": "gyral", "pos": "adjective", "d": ["Relating to a gyre or spiral; whirling."], "src": "iwb"}
+{"w": "gyrant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gyrate", "pos": "verb", "d": ["To move in a circle or spiral; to whirl."], "src": "iwb"}
+{"w": "gyration", "pos": "noun", "d": ["The act of whirling or spiraling; circular motion."], "src": "iwb"}
+{"w": "gyratory", "pos": "adjective", "d": ["Turning or moving in a circle."], "src": "iwb"}
+{"w": "gyre", "pos": "noun", "d": ["A circular or spiral motion.", "A large system of slowly rotating ocean currents."], "src": "iwb"}
+{"w": "gyrencephala", "pos": "noun", "d": ["Mammals whose brains have folded, convoluted surfaces."], "src": "iwb"}
+{"w": "gyrfalcon", "pos": "noun", "d": ["A large falcon of arctic regions, prized in falconry."], "src": "iwb"}
+{"w": "gyri", "pos": "noun", "d": ["The rounded ridges on the surface of the brain; plural of gyrus."], "src": "iwb"}
+{"w": "gyrland", "pos": "noun", "d": ["An older spelling of garland, a wreath of flowers."], "src": "iwb"}
+{"w": "gyro-pigeon", "pos": "noun", "d": ["A breed of pigeon that tumbles or rolls in flight."], "src": "iwb"}
+{"w": "gyrodus", "pos": "noun", "d": ["An extinct genus of deep-bodied Jurassic fishes."], "src": "iwb"}
+{"w": "gyrogonite", "pos": "noun", "d": ["The fossilized seed vessel of an extinct stonewort alga."], "src": "iwb"}
+{"w": "gyroidal", "pos": "adjective", "d": ["Spiral or whorled in form."], "src": "iwb"}
+{"w": "gyrolepis", "pos": "noun", "d": ["An extinct genus of small Triassic fishes."], "src": "iwb"}
+{"w": "gyroma", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gyromancy", "pos": "noun", "d": ["A form of divination in which the diviner walks in a circle until giddy, the place of falling giving the answer."], "src": "iwb"}
+{"w": "gyron", "pos": "noun", "d": ["A triangular division of a shield in heraldry."], "src": "iwb"}
+{"w": "gyronny", "pos": "adjective", "d": ["Divided into triangular pieces, as a heraldic shield."], "src": "iwb"}
+{"w": "gyropigeon", "pos": "noun", "d": ["A pigeon that flies in circling or tumbling flight."], "src": "iwb"}
+{"w": "gyroscope", "pos": "noun", "d": ["A spinning wheel mounted so its axis keeps a fixed direction, used to demonstrate the rotation of the earth and to steady ships and aircraft."], "src": "iwb"}
+{"w": "gyroscopic", "pos": "adjective", "d": ["Relating to a gyroscope or to its steadying action."], "src": "iwb"}
+{"w": "gyrose", "pos": "adjective", "d": ["Marked with wavy or spiral lines."], "src": "iwb"}
+{"w": "gyrostat", "pos": "noun", "d": ["A device with a rapidly spinning flywheel, used to demonstrate gyroscopic stability."], "src": "iwb"}
+{"w": "gyrus", "pos": "noun", "d": ["A rounded ridge on the surface of the brain."], "src": "iwb"}
+{"w": "gyse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gyte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gyve", "pos": "noun", "d": ["A shackle or fetter, especially for the leg."], "src": "iwb"}
+{"w": "ha-ha", "pos": "noun", "d": ["A sunken ditch used as a fence that does not block the view.", "An exclamation of laughter, usually written ha, ha."], "src": "iwb"}
+{"w": "haaf", "pos": "noun", "d": ["The deep-sea fishing grounds off the Shetland Islands."], "src": "iwb"}
+{"w": "haak", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haar", "pos": "noun", "d": ["A cold sea mist or fog on the east coast of Scotland and England."], "src": "iwb"}
+{"w": "habeas corpus", "pos": "phrase", "d": ["A writ ordering that a prisoner be brought before a court to decide whether the imprisonment is lawful."], "src": "iwb"}
+{"w": "habendum", "pos": "noun", "d": ["The clause in a deed that states what estate or interest is being granted."], "src": "iwb"}
+{"w": "haberdash", "pos": "verb", "d": ["To deal in small wares, as thread, ribbons, and notions."], "src": "iwb"}
+{"w": "haberdashery", "pos": "noun", "d": ["A shop that sells small wares such as thread, ribbons, buttons, and notions.", "The goods sold by a haberdasher."], "src": "iwb"}
+{"w": "haberdine", "pos": "noun", "d": ["Salted codfish."], "src": "iwb"}
+{"w": "habergeon", "pos": "noun", "d": ["A short sleeveless coat of mail worn over the torso."], "src": "iwb"}
+{"w": "habilatory", "pos": "adjective", "d": ["Relating to dress, clothing, or equipment."], "src": "iwb"}
+{"w": "habile", "pos": "adjective", "d": ["Skillful and dexterous; clever with the hands."], "src": "iwb"}
+{"w": "habiliment", "pos": "noun", "d": ["Clothing or attire, especially of a distinctive or ceremonial kind."], "src": "iwb"}
+{"w": "habilitate", "pos": "verb", "d": ["To equip or clothe for a purpose.", "To qualify or entitle, as for an office."], "src": "iwb"}
+{"w": "habilitation", "pos": "noun", "d": ["The act of equipping or qualifying."], "src": "iwb"}
+{"w": "hability", "pos": "noun", "d": ["An old form of the word ability."], "src": "iwb"}
+{"w": "habit", "pos": "noun", "d": ["A settled tendency to act in a certain way, formed by repetition.", "The distinctive dress of a religious order."], "src": "iwb"}
+{"w": "habitan", "pos": "noun", "d": ["A French-Canadian farmer or peasant."], "src": "iwb"}
+{"w": "habitancy", "pos": "noun", "d": ["The state of dwelling in a place; residence."], "src": "iwb"}
+{"w": "habitator", "pos": "noun", "d": ["One who dwells in a place; an inhabitant."], "src": "iwb"}
+{"w": "habitual", "pos": "adjective", "d": ["Done or acquired by habit; customary."], "src": "iwb"}
+{"w": "habituate", "pos": "verb", "d": ["To accustom by frequent repetition or exposure."], "src": "iwb"}
+{"w": "habituation", "pos": "noun", "d": ["The process of becoming accustomed to something through repetition."], "src": "iwb"}
+{"w": "habitude", "pos": "noun", "d": ["A habitual disposition of mind or body; a custom."], "src": "iwb"}
+{"w": "habitue", "pos": "noun", "d": ["A person who frequents a place regularly."], "src": "iwb"}
+{"w": "habitus", "pos": "noun", "d": ["The general build and appearance of a person.", "The characteristic form and growth of a plant."], "src": "iwb"}
+{"w": "hable", "pos": "adjective", "d": ["An older spelling of able."], "src": "iwb"}
+{"w": "habnab", "pos": "adverb", "d": ["At random; by chance."], "src": "iwb"}
+{"w": "hachure", "pos": "noun", "d": ["One of the short shading lines used on maps to show slopes and hills."], "src": "iwb"}
+{"w": "hacienda", "pos": "noun", "d": ["A large estate or plantation in Spanish America, with a dwelling house."], "src": "iwb"}
+{"w": "hackamore", "pos": "noun", "d": ["A bridle without a bit, used in training horses."], "src": "iwb"}
+{"w": "hackee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hackery", "pos": "noun", "d": ["A light two-wheeled cart drawn by bullocks, used in India."], "src": "iwb"}
+{"w": "hackle", "pos": "verb", "d": ["To comb out flax or hemp with a toothed board.", "To cut or chop roughly."], "src": "iwb"}
+{"w": "hackmatack", "pos": "noun", "d": ["The American larch, a tree also called tamarack."], "src": "iwb"}
+{"w": "hackney", "pos": "noun", "d": ["A horse kept for hire.", "A carriage kept for hire."], "src": "iwb"}
+{"w": "hackster", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hacqueton", "pos": "noun", "d": ["A padded jacket worn under armor."], "src": "iwb"}
+{"w": "hade", "pos": "noun", "d": ["The angle at which a mineral vein or fault inclines away from the vertical."], "src": "iwb"}
+{"w": "hadj", "pos": "noun", "d": ["The pilgrimage to Mecca required of Muslims."], "src": "iwb"}
+{"w": "hadji", "pos": "noun", "d": ["A Muslim who has made the pilgrimage to Mecca."], "src": "iwb"}
+{"w": "hadrosaurus", "pos": "noun", "d": ["A genus of duck-billed dinosaurs of the Cretaceous period."], "src": "iwb"}
+{"w": "haecceity", "pos": "noun", "d": ["The property that makes a thing uniquely itself and not another."], "src": "iwb"}
+{"w": "haema-", "pos": "prefix", "d": ["A prefix meaning blood, as in haemoglobin."], "src": "iwb"}
+{"w": "haemachrome", "pos": "noun", "d": ["The coloring matter of the blood."], "src": "iwb"}
+{"w": "haemacyanin", "pos": "noun", "d": ["A blue copper-containing pigment in the blood of mollusks and crustaceans, doing the work of hemoglobin."], "src": "iwb"}
+{"w": "haemacytometer", "pos": "noun", "d": ["An instrument for counting the corpuscles in a sample of blood."], "src": "iwb"}
+{"w": "haemad", "pos": "adjective", "d": ["Toward the side of the body where the chief blood vessels lie."], "src": "iwb"}
+{"w": "haemadrometer", "pos": "noun", "d": ["An instrument for measuring the force or speed of the blood current."], "src": "iwb"}
+{"w": "haemadrometry", "pos": "noun", "d": ["The measurement of the force or speed of blood flow."], "src": "iwb"}
+{"w": "haemadromograph", "pos": "noun", "d": ["An instrument that records the speed of blood flow."], "src": "iwb"}
+{"w": "haemadromometer", "pos": "noun", "d": ["An instrument for measuring the speed of the blood current."], "src": "iwb"}
+{"w": "haemadromometry", "pos": "noun", "d": ["The measurement of the speed of the blood current."], "src": "iwb"}
+{"w": "haemadynameter", "pos": "noun", "d": ["An instrument for measuring the force of the blood current."], "src": "iwb"}
+{"w": "haemadynamics", "pos": "noun", "d": ["The study of the forces involved in the circulation of the blood."], "src": "iwb"}
+{"w": "haemadynamometer", "pos": "noun", "d": ["An instrument for measuring blood pressure."], "src": "iwb"}
+{"w": "haemal", "pos": "adjective", "d": ["Relating to the blood or blood vessels.", "Relating to the under side of the backbone in fishes."], "src": "iwb"}
+{"w": "haemaphaein", "pos": "noun", "d": ["A brownish pigment sometimes found in urine and other body fluids."], "src": "iwb"}
+{"w": "haemapod", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haemapoietic", "pos": "adjective", "d": ["Forming or producing blood."], "src": "iwb"}
+{"w": "haemapophysis", "pos": "noun", "d": ["A bony process on the under side of a vertebra, protecting the blood vessels."], "src": "iwb"}
+{"w": "haemastatics", "pos": "noun", "d": ["The study of the blood in a state of rest, as regards its pressure."], "src": "iwb"}
+{"w": "haematachometer", "pos": "noun", "d": ["An instrument for measuring the speed of blood flow."], "src": "iwb"}
+{"w": "haematachometry", "pos": "noun", "d": ["The measurement of the speed of blood flow."], "src": "iwb"}
+{"w": "haematemesis", "pos": "noun", "d": ["The vomiting of blood."], "src": "iwb"}
+{"w": "haematic", "pos": "adjective", "d": ["Relating to the blood."], "src": "iwb"}
+{"w": "haematin", "pos": "noun", "d": ["A dark iron-containing pigment obtained from hemoglobin."], "src": "iwb"}
+{"w": "haematinometer", "pos": "noun", "d": ["An instrument for measuring the amount of haematin in blood."], "src": "iwb"}
+{"w": "haematinometric", "pos": "adjective", "d": ["Relating to the measurement of haematin."], "src": "iwb"}
+{"w": "haematite", "pos": "noun", "d": ["An important iron ore, a reddish or black oxide of iron."], "src": "iwb"}
+{"w": "haematitic", "pos": "adjective", "d": ["Relating to or containing haematite."], "src": "iwb"}
+{"w": "haemato-", "pos": "prefix", "d": ["A prefix meaning blood, as in haematology."], "src": "iwb"}
+{"w": "haematoblast", "pos": "noun", "d": ["A cell from which blood corpuscles develop; a blood platelet."], "src": "iwb"}
+{"w": "haematocrya", "pos": "noun", "d": ["Cold-blooded animals, whose temperature follows that of their surroundings."], "src": "iwb"}
+{"w": "haematocryal", "pos": "adjective", "d": ["Cold-blooded."], "src": "iwb"}
+{"w": "haematocrystallin", "pos": "noun", "d": ["An old name for hemoglobin, the red pigment of the blood."], "src": "iwb"}
+{"w": "haematodynamometer", "pos": "noun", "d": ["An instrument for measuring the force of the blood current."], "src": "iwb"}
+{"w": "haematogenesis", "pos": "noun", "d": ["The formation and development of blood."], "src": "iwb"}
+{"w": "haematogenic", "pos": "adjective", "d": ["Producing blood."], "src": "iwb"}
+{"w": "haematogenous", "pos": "adjective", "d": ["Produced from or carried by the blood."], "src": "iwb"}
+{"w": "haematoglobulin", "pos": "noun", "d": ["An older name for hemoglobin, the red pigment of the blood."], "src": "iwb"}
+{"w": "haematoid", "pos": "adjective", "d": ["Resembling blood."], "src": "iwb"}
+{"w": "haematoidin", "pos": "noun", "d": ["A reddish pigment formed from broken-down hemoglobin."], "src": "iwb"}
+{"w": "haematoin", "pos": "noun", "d": ["A pigment obtained from the red coloring matter of blood."], "src": "iwb"}
+{"w": "haematolin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haematology", "pos": "noun", "d": ["The branch of medicine dealing with the blood and its disorders."], "src": "iwb"}
+{"w": "haematolysis", "pos": "noun", "d": ["The breaking down or destruction of red blood corpuscles."], "src": "iwb"}
+{"w": "haematometer", "pos": "noun", "d": ["An instrument for measuring blood, as for counting its corpuscles."], "src": "iwb"}
+{"w": "haematophilina", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haematoplast", "pos": "noun", "d": ["A blood platelet, one of the small bodies concerned in clotting."], "src": "iwb"}
+{"w": "haematoporphyrin", "pos": "noun", "d": ["A dark pigment formed by the breakdown of hemoglobin."], "src": "iwb"}
+{"w": "haematosac", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haematoscope", "pos": "noun", "d": ["An instrument for examining the color and condition of blood."], "src": "iwb"}
+{"w": "haematosin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haematosis", "pos": "noun", "d": ["The formation of blood.", "The oxygenation of blood in the lungs."], "src": "iwb"}
+{"w": "haematotherma", "pos": "noun", "d": ["Warm-blooded animals, which keep a nearly constant body temperature."], "src": "iwb"}
+{"w": "haematothermal", "pos": "adjective", "d": ["Warm-blooded."], "src": "iwb"}
+{"w": "haematothorax", "pos": "noun", "d": ["An accumulation of blood in the cavity of the chest."], "src": "iwb"}
+{"w": "haematoxylin", "pos": "noun", "d": ["A blue dye obtained from logwood, much used to stain tissues for the microscope."], "src": "iwb"}
+{"w": "haematoxylon", "pos": "noun", "d": ["The logwood tree of tropical America, yielding a red dyewood."], "src": "iwb"}
+{"w": "haematozooen", "pos": "noun", "d": ["Animal parasites that live in the blood; plural of haematozoon."], "src": "iwb"}
+{"w": "haematozoon", "pos": "noun", "d": ["An animal parasite that lives in the blood."], "src": "iwb"}
+{"w": "haemic", "pos": "adjective", "d": ["Relating to the blood."], "src": "iwb"}
+{"w": "haemin", "pos": "noun", "d": ["Dark crystals obtained from blood, used as a test for the presence of blood."], "src": "iwb"}
+{"w": "haemo-", "pos": "prefix", "d": ["A prefix meaning blood, as in haemorrhage."], "src": "iwb"}
+{"w": "haemochrome", "pos": "noun", "d": ["A blood pigment; the coloring matter of the blood."], "src": "iwb"}
+{"w": "haemochromogen", "pos": "noun", "d": ["A pigment compound derived from hemoglobin."], "src": "iwb"}
+{"w": "haemochromometer", "pos": "noun", "d": ["An instrument for measuring the color of the blood."], "src": "iwb"}
+{"w": "haemocyanin", "pos": "noun", "d": ["A blue copper-containing pigment in the blood of mollusks and crustaceans, serving the function of hemoglobin."], "src": "iwb"}
+{"w": "haemocytolysis", "pos": "noun", "d": ["The breaking down of the corpuscles of the blood."], "src": "iwb"}
+{"w": "haemocytometer", "pos": "noun", "d": ["An instrument for counting the corpuscles in a measured sample of blood."], "src": "iwb"}
+{"w": "haemocytotrypsis", "pos": "noun", "d": ["The crushing of blood corpuscles."], "src": "iwb"}
+{"w": "haemodromograph", "pos": "noun", "d": ["An instrument that records the speed of the blood current."], "src": "iwb"}
+{"w": "haemodromometer", "pos": "noun", "d": ["An instrument for measuring the speed of the blood current."], "src": "iwb"}
+{"w": "haemodynameter", "pos": "noun", "d": ["An instrument for measuring the force of the blood current."], "src": "iwb"}
+{"w": "haemodynamics", "pos": "noun", "d": ["The study of the forces concerned in the circulation of the blood."], "src": "iwb"}
+{"w": "haemoglobin", "pos": "noun", "d": ["The red pigment of the blood corpuscles, which carries oxygen through the body."], "src": "iwb"}
+{"w": "haemoglobinometer", "pos": "noun", "d": ["An instrument for measuring the amount of hemoglobin in the blood."], "src": "iwb"}
+{"w": "haemol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haemolutein", "pos": "noun", "d": ["A yellow pigment derived from the blood."], "src": "iwb"}
+{"w": "haemolysis", "pos": "noun", "d": ["The destruction of red blood corpuscles, with setting free of hemoglobin."], "src": "iwb"}
+{"w": "haemolytic", "pos": "adjective", "d": ["Causing or relating to haemolysis."], "src": "iwb"}
+{"w": "haemomanometer", "pos": "noun", "d": ["An instrument for measuring the pressure of the blood."], "src": "iwb"}
+{"w": "haemometer", "pos": "noun", "d": ["An instrument for determining the amount of hemoglobin in blood."], "src": "iwb"}
+{"w": "haemony", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haemoplastic", "pos": "adjective", "d": ["Forming blood."], "src": "iwb"}
+{"w": "haemorrhoidal", "pos": "adjective", "d": ["Relating to hemorrhoids."], "src": "iwb"}
+{"w": "haemoscope", "pos": "noun", "d": ["An instrument for examining the blood, especially its color."], "src": "iwb"}
+{"w": "haemostatic", "pos": "adjective", "d": ["Serving to stop the flow of blood."], "src": "iwb"}
+{"w": "haemotachometer", "pos": "noun", "d": ["An instrument for measuring the speed of the blood current."], "src": "iwb"}
+{"w": "haemotachometry", "pos": "noun", "d": ["The measurement of the speed of the blood current."], "src": "iwb"}
+{"w": "haf", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haffle", "pos": "verb", "d": ["To hesitate in speaking; to stammer."], "src": "iwb"}
+{"w": "haft", "pos": "noun", "d": ["A handle, especially of a knife, sword, or tool."], "src": "iwb"}
+{"w": "hag", "pos": "noun", "d": ["An ugly or repulsive old woman.", "A witch."], "src": "iwb"}
+{"w": "hag-ridden", "pos": "adjective", "d": ["Tormented as if by witches; troubled by nightmares."], "src": "iwb"}
+{"w": "hag-taper", "pos": "noun", "d": ["The mullein, a tall plant with woolly leaves and a spike of yellow flowers."], "src": "iwb"}
+{"w": "haggada", "pos": "noun", "d": ["Another spelling of haggadah, the Jewish legend and story literature."], "src": "iwb"}
+{"w": "haggis", "pos": "noun", "d": ["A Scottish dish of minced sheep's heart, liver, and lungs mixed with oatmeal and boiled in a sheep's stomach."], "src": "iwb"}
+{"w": "haggish", "pos": "adjective", "d": ["Like a hag; ugly and repulsive."], "src": "iwb"}
+{"w": "haggle", "pos": "verb", "d": ["To bargain over a price in a petty way."], "src": "iwb"}
+{"w": "hagiarchy", "pos": "noun", "d": ["Government by saints or holy men."], "src": "iwb"}
+{"w": "hagiocracy", "pos": "noun", "d": ["Rule by saints or holy persons."], "src": "iwb"}
+{"w": "hagiographa", "pos": "noun", "d": ["The sacred writings; the third division of the Hebrew Scriptures, the Writings."], "src": "iwb"}
+{"w": "hagiographal", "pos": "adjective", "d": ["Relating to the hagiographa or sacred writings."], "src": "iwb"}
+{"w": "hagiographer", "pos": "noun", "d": ["A writer of the lives of saints."], "src": "iwb"}
+{"w": "hagiography", "pos": "noun", "d": ["The writing of the lives of saints.", "A biography that praises its subject without criticism."], "src": "iwb"}
+{"w": "hagiolatry", "pos": "noun", "d": ["The worship of saints."], "src": "iwb"}
+{"w": "hagiologist", "pos": "noun", "d": ["One versed in the literature of the lives of saints."], "src": "iwb"}
+{"w": "hagiology", "pos": "noun", "d": ["The literature dealing with the lives of saints."], "src": "iwb"}
+{"w": "hagioscope", "pos": "noun", "d": ["A small opening cut in a church wall so the altar can be seen, a squint."], "src": "iwb"}
+{"w": "hague tribunal", "pos": "noun", "d": ["The international court of arbitration established at The Hague."], "src": "iwb"}
+{"w": "haguebut", "pos": "noun", "d": ["An early form of portable firearm, the arquebus."], "src": "iwb"}
+{"w": "hah", "pos": "interjection", "d": ["An exclamation expressing laughter, surprise, or triumph."], "src": "iwb"}
+{"w": "haidingerite", "pos": "noun", "d": ["A mineral consisting of hydrous calcium arsenate."], "src": "iwb"}
+{"w": "haiduck", "pos": "noun", "d": ["A Hungarian foot soldier.", "A robber or bandit."], "src": "iwb"}
+{"w": "haik", "pos": "noun", "d": ["A large piece of cloth worn as an outer garment by Arabs."], "src": "iwb"}
+{"w": "haikwan tael", "pos": "noun", "d": ["A Chinese unit of weight and of money, used in reckoning customs duties."], "src": "iwb"}
+{"w": "hail", "pos": "verb", "d": ["To call out to in greeting.", "To fall as hail."], "src": "iwb"}
+{"w": "hail-fellow", "pos": "noun", "d": ["An intimate companion; a boon comrade."], "src": "iwb"}
+{"w": "hailse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haily", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hain", "pos": "verb", "d": ["To spare or save; to keep from being wasted."], "src": "iwb"}
+{"w": "hair grass", "pos": "noun", "d": ["A grass with very fine, hairlike leaves."], "src": "iwb"}
+{"w": "hair-brown", "pos": "adjective", "d": ["Brown like human hair in color."], "src": "iwb"}
+{"w": "hair-salt", "pos": "noun", "d": ["A fibrous white mineral, a native sulphate of magnesia."], "src": "iwb"}
+{"w": "hairiness", "pos": "noun", "d": ["The state of being hairy."], "src": "iwb"}
+{"w": "hairsplitting", "pos": "noun", "d": ["The making of overly fine or petty distinctions."], "src": "iwb"}
+{"w": "haitian", "pos": "adjective", "d": ["Of or relating to Haiti or its people."], "src": "iwb"}
+{"w": "haje", "pos": "noun", "d": ["A venomous hooded snake of Egypt, the Egyptian cobra."], "src": "iwb"}
+{"w": "hake", "pos": "noun", "d": ["A sea fish related to the cod, valued as food."], "src": "iwb"}
+{"w": "hakim", "pos": "noun", "d": ["A Muslim physician.", "A judge or ruler in Mohammedan countries."], "src": "iwb"}
+{"w": "halacha", "pos": "noun", "d": ["The body of Jewish religious law derived from the Scriptures and tradition."], "src": "iwb"}
+{"w": "halation", "pos": "noun", "d": ["The spreading of light around the bright parts of a photographic image."], "src": "iwb"}
+{"w": "halberd", "pos": "noun", "d": ["A weapon combining a spearhead and a battle-axe on a long staff."], "src": "iwb"}
+{"w": "halberd-shaped", "pos": "adjective", "d": ["Shaped like the head of a halberd, with a spear point and a side blade."], "src": "iwb"}
+{"w": "halberdier", "pos": "noun", "d": ["A soldier armed with a halberd."], "src": "iwb"}
+{"w": "halcyon", "pos": "noun", "d": ["The kingfisher.", "A time of happiness and prosperity, the halcyon days."], "src": "iwb"}
+{"w": "halcyonian", "pos": "adjective", "d": ["Relating to the halcyon or to a time of peace and happiness."], "src": "iwb"}
+{"w": "halcyonoid", "pos": "adjective", "d": ["Like a kingfisher."], "src": "iwb"}
+{"w": "hale", "pos": "adjective", "d": ["Sound in health; robust."], "src": "iwb"}
+{"w": "halesia", "pos": "noun", "d": ["A genus of shrubs of the southern United States, the silver-bells."], "src": "iwb"}
+{"w": "half blood", "pos": "noun", "d": ["The relation of persons who have only one parent in common."], "src": "iwb"}
+{"w": "half nelson", "pos": "noun", "d": ["A wrestling hold in which one arm is passed under the opponent's arm and the hand pressed on the neck."], "src": "iwb"}
+{"w": "half seas over", "pos": "phrase", "d": ["Half drunk; somewhat intoxicated."], "src": "iwb"}
+{"w": "half tone", "pos": "noun", "d": ["A process for printing pictures by means of dots of varying size.", "A half step in music."], "src": "iwb"}
+{"w": "half-and-half", "pos": "noun", "d": ["A mixture of two things in equal parts.", "A mixture of cream and milk."], "src": "iwb"}
+{"w": "half-blooded", "pos": "adjective", "d": ["Having parents of different races."], "src": "iwb"}
+{"w": "half-boot", "pos": "noun", "d": ["A boot reaching to the ankle."], "src": "iwb"}
+{"w": "half-bound", "pos": "adjective", "d": ["Bound with leather on the back and corners only, as a book."], "src": "iwb"}
+{"w": "half-bred", "pos": "adjective", "d": ["Not of pure breed."], "src": "iwb"}
+{"w": "half-breed", "pos": "noun", "d": ["A person of mixed race."], "src": "iwb"}
+{"w": "half-brother", "pos": "noun", "d": ["A brother by one parent only."], "src": "iwb"}
+{"w": "half-caste", "pos": "noun", "d": ["A person of mixed race."], "src": "iwb"}
+{"w": "half-clammed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "half-cracked", "pos": "adjective", "d": ["Slightly crazy; not quite sound of mind."], "src": "iwb"}
+{"w": "half-deck", "pos": "noun", "d": ["A deck that extends only partway along a vessel."], "src": "iwb"}
+{"w": "half-faced", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "half-fish", "pos": "adjective", "d": ["Partly fish in form, as a merman or mermaid."], "src": "iwb"}
+{"w": "half-hatched", "pos": "adjective", "d": ["Not fully developed; immature."], "src": "iwb"}
+{"w": "half-heard", "pos": "adjective", "d": ["Only partly heard."], "src": "iwb"}
+{"w": "half-hearted", "pos": "adjective", "d": ["Lacking warmth or enthusiasm."], "src": "iwb"}
+{"w": "half-hourly", "pos": "adjective", "d": ["Happening every half hour."], "src": "iwb"}
+{"w": "half-learned", "pos": "adjective", "d": ["Superficially educated; having only a smattering of learning."], "src": "iwb"}
+{"w": "half-length", "pos": "noun", "d": ["A portrait showing the upper half of the body."], "src": "iwb"}
+{"w": "half-mast", "pos": "noun", "d": ["The position of a flag lowered partway, as a sign of mourning."], "src": "iwb"}
+{"w": "half-moon", "pos": "noun", "d": ["The moon when only half its disk is lighted.", "Anything shaped like a half moon."], "src": "iwb"}
+{"w": "half-penny", "pos": "noun", "d": ["An English coin worth half a penny."], "src": "iwb"}
+{"w": "half-pike", "pos": "noun", "d": ["A short pike or spear."], "src": "iwb"}
+{"w": "half-port", "pos": "noun", "d": ["A shutter covering half of a porthole or gun port."], "src": "iwb"}
+{"w": "half-ray", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "half-read", "pos": "adjective", "d": ["Only partly or superficially read."], "src": "iwb"}
+{"w": "half-sighted", "pos": "adjective", "d": ["Seeing imperfectly; short-sighted."], "src": "iwb"}
+{"w": "half-sister", "pos": "noun", "d": ["A sister by one parent only."], "src": "iwb"}
+{"w": "half-strained", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "half-sword", "pos": "noun", "d": ["Close fighting in which the sword is gripped by the blade to shorten it."], "src": "iwb"}
+{"w": "half-timbered", "pos": "adjective", "d": ["Built with a timber frame whose beams show on the outside, the spaces filled with plaster or brick."], "src": "iwb"}
+{"w": "half-tone", "pos": "noun", "d": ["A picture printed by the half-tone process, in dots of varying size.", "A half step in music."], "src": "iwb"}
+{"w": "half-tongue", "pos": "noun", "d": ["A jury composed half of natives and half of foreigners, formerly allowed to an alien."], "src": "iwb"}
+{"w": "half-wit", "pos": "noun", "d": ["A foolish or weak-minded person."], "src": "iwb"}
+{"w": "half-yearly", "pos": "adjective", "d": ["Happening twice a year."], "src": "iwb"}
+{"w": "halfpace", "pos": "noun", "d": ["A landing where a staircase turns."], "src": "iwb"}
+{"w": "halibut", "pos": "noun", "d": ["A very large flatfish of northern seas, valued as food."], "src": "iwb"}
+{"w": "halichondriae", "pos": "noun", "d": ["A group of horny sponges."], "src": "iwb"}
+{"w": "halicore", "pos": "noun", "d": ["A genus of sea mammals, the dugongs."], "src": "iwb"}
+{"w": "halidom", "pos": "noun", "d": ["Holiness.", "A holy place or relic."], "src": "iwb"}
+{"w": "halieutics", "pos": "noun", "d": ["The art or practice of fishing."], "src": "iwb"}
+{"w": "halimas", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haliographer", "pos": "noun", "d": ["One who writes about the sea or marine life."], "src": "iwb"}
+{"w": "haliography", "pos": "noun", "d": ["A description of the sea."], "src": "iwb"}
+{"w": "haliotis", "pos": "noun", "d": ["A genus of ear-shaped sea shells, the abalones."], "src": "iwb"}
+{"w": "haliotoid", "pos": "adjective", "d": ["Like or relating to the abalone."], "src": "iwb"}
+{"w": "halisauria", "pos": "noun", "d": ["A group of extinct marine reptiles."], "src": "iwb"}
+{"w": "halite", "pos": "noun", "d": ["Rock salt; native sodium chloride."], "src": "iwb"}
+{"w": "halituous", "pos": "adjective", "d": ["Relating to breath or vapor."], "src": "iwb"}
+{"w": "halk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hall-mark", "pos": "noun", "d": ["An official mark stamped on gold and silver articles to show their fineness."], "src": "iwb"}
+{"w": "halleluiah", "pos": "interjection", "d": ["Another spelling of hallelujah, praise to God."], "src": "iwb"}
+{"w": "hallelujah", "pos": "interjection", "d": ["Praise to God; an exclamation of joy or thanks."], "src": "iwb"}
+{"w": "hallelujatic", "pos": "adjective", "d": ["Relating to or expressing hallelujah."], "src": "iwb"}
+{"w": "halliard", "pos": "noun", "d": ["A rope for hoisting sails or flags."], "src": "iwb"}
+{"w": "hallidome", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hallier", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "halloa", "pos": "verb", "d": ["To shout out; to cry halloa."], "src": "iwb"}
+{"w": "halloo", "pos": "verb", "d": ["To shout to hounds in the hunt.", "To cry out loudly."], "src": "iwb"}
+{"w": "hallow", "pos": "verb", "d": ["To make holy; to consecrate."], "src": "iwb"}
+{"w": "hallowmas", "pos": "noun", "d": ["The feast of All Saints, November first."], "src": "iwb"}
+{"w": "halloysite", "pos": "noun", "d": ["A white clay mineral allied to kaolin."], "src": "iwb"}
+{"w": "hallstatt", "pos": "noun", "d": ["An Iron Age culture of central Europe, named from Hallstatt in Austria."], "src": "iwb"}
+{"w": "hallstattian", "pos": "adjective", "d": ["Relating to the Hallstatt culture."], "src": "iwb"}
+{"w": "hallucal", "pos": "adjective", "d": ["Relating to the hallux or great toe."], "src": "iwb"}
+{"w": "hallucinate", "pos": "verb", "d": ["To see or hear things that are not really present."], "src": "iwb"}
+{"w": "hallucination", "pos": "noun", "d": ["The seeing or hearing of things that have no real existence."], "src": "iwb"}
+{"w": "hallucinator", "pos": "noun", "d": ["One who hallucinates."], "src": "iwb"}
+{"w": "hallucinatory", "pos": "adjective", "d": ["Relating to or causing hallucination."], "src": "iwb"}
+{"w": "hallux", "pos": "noun", "d": ["The great toe; the inner toe of the foot."], "src": "iwb"}
+{"w": "halm", "pos": "noun", "d": ["A stalk or stem of grain; straw."], "src": "iwb"}
+{"w": "halma", "pos": "noun", "d": ["A board game in which pieces are moved to the opposite corner."], "src": "iwb"}
+{"w": "halogen", "pos": "noun", "d": ["Any member of the family of elements including chlorine, bromine, iodine, and fluorine."], "src": "iwb"}
+{"w": "haloid", "pos": "adjective", "d": ["Like salt in form or composition."], "src": "iwb"}
+{"w": "halomancy", "pos": "noun", "d": ["Divination by means of salt."], "src": "iwb"}
+{"w": "halones", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "halophyte", "pos": "noun", "d": ["A plant that grows in salty soil, as along the seashore."], "src": "iwb"}
+{"w": "haloxyline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "halp", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hals", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "halse", "pos": "verb", "d": ["To embrace; to greet with an embrace."], "src": "iwb"}
+{"w": "halsening", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "halt", "pos": "verb", "d": ["To stop; to come to a stand."], "src": "iwb"}
+{"w": "halter-sack", "pos": "noun", "d": ["A nosebag for feeding a horse."], "src": "iwb"}
+{"w": "haltingly", "pos": "adverb", "d": ["In a halting or hesitating manner."], "src": "iwb"}
+{"w": "halvans", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "halve", "pos": "verb", "d": ["To divide into two equal parts."], "src": "iwb"}
+{"w": "halwe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "halysites", "pos": "noun", "d": ["A fossil coral whose tubes form a chainlike pattern, the chain coral."], "src": "iwb"}
+{"w": "hamadryad", "pos": "noun", "d": ["A wood nymph of Greek mythology.", "The king cobra, a large venomous snake of Asia."], "src": "iwb"}
+{"w": "hamadryas", "pos": "noun", "d": ["A large African baboon with a shaggy mane."], "src": "iwb"}
+{"w": "hamamelis", "pos": "noun", "d": ["A genus of shrubs, the witch hazels."], "src": "iwb"}
+{"w": "hamatum", "pos": "noun", "d": ["The hooked bone of the wrist, the hamate."], "src": "iwb"}
+{"w": "hamble", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hame", "pos": "noun", "d": ["One of the two curved wooden pieces forming a horse collar."], "src": "iwb"}
+{"w": "hamel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hamesecken", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hamfatter", "pos": "noun", "d": ["A poor or overacting actor."], "src": "iwb"}
+{"w": "hamiform", "pos": "adjective", "d": ["Shaped like a hook."], "src": "iwb"}
+{"w": "hamilton period", "pos": "noun", "d": ["A subdivision of the Devonian rocks in New York geology."], "src": "iwb"}
+{"w": "haminura", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hamite", "pos": "noun", "d": ["A descendant of Ham, son of Noah.", "A member of the Hamitic peoples of northern Africa."], "src": "iwb"}
+{"w": "hamitic", "pos": "adjective", "d": ["Relating to Ham or the Hamitic peoples and languages."], "src": "iwb"}
+{"w": "hammer break", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hammer lock", "pos": "noun", "d": ["A wrestling hold in which the opponent's arm is twisted up behind the back."], "src": "iwb"}
+{"w": "hammer-beam", "pos": "noun", "d": ["A short beam projecting from a wall to support a roof, used in old English timber roofs."], "src": "iwb"}
+{"w": "hammer-dressed", "pos": "adjective", "d": ["Shaped or smoothed with a hammer, as stone."], "src": "iwb"}
+{"w": "hammer-harden", "pos": "verb", "d": ["To harden by hammering, as metal."], "src": "iwb"}
+{"w": "hammochrysos", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hamose", "pos": "adjective", "d": ["Hooked at the end."], "src": "iwb"}
+{"w": "hamster", "pos": "noun", "d": ["A small burrowing rodent with cheek pouches, often kept as a pet."], "src": "iwb"}
+{"w": "hamular", "pos": "adjective", "d": ["Hook-shaped.", "Relating to the hamulus."], "src": "iwb"}
+{"w": "hamulate", "pos": "adjective", "d": ["Furnished with small hooks."], "src": "iwb"}
+{"w": "hamulose", "pos": "adjective", "d": ["Bearing small hooks."], "src": "iwb"}
+{"w": "hamulus", "pos": "noun", "d": ["A small hook or hooked process."], "src": "iwb"}
+{"w": "han", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hanap", "pos": "noun", "d": ["A goblet or drinking cup."], "src": "iwb"}
+{"w": "hance", "pos": "noun", "d": ["The part of an arch from its springing to its crown."], "src": "iwb"}
+{"w": "hanch", "pos": "noun", "d": ["The hip; the haunch."], "src": "iwb"}
+{"w": "hand-hole", "pos": "noun", "d": ["An opening through which the hand can be passed."], "src": "iwb"}
+{"w": "hand-tight", "pos": "adjective", "d": ["Tightened by the hand only, without a wrench."], "src": "iwb"}
+{"w": "hand-winged", "pos": "adjective", "d": ["Having the forelimbs formed into wings, as bats."], "src": "iwb"}
+{"w": "handicap", "pos": "noun", "d": ["A disadvantage that makes success harder.", "A contest in which allowances are given to equalize the chances."], "src": "iwb"}
+{"w": "handicraft", "pos": "noun", "d": ["Work done by the hand; manual skill.", "A manual occupation requiring skill."], "src": "iwb"}
+{"w": "handicraftsman", "pos": "noun", "d": ["One skilled in a handicraft."], "src": "iwb"}
+{"w": "handily", "pos": "adverb", "d": ["In a handy or skillful manner."], "src": "iwb"}
+{"w": "handiness", "pos": "noun", "d": ["The quality of being handy or skillful."], "src": "iwb"}
+{"w": "handiwork", "pos": "noun", "d": ["Work done by the hands; manufacture."], "src": "iwb"}
+{"w": "handsel", "pos": "noun", "d": ["A gift given at the beginning of an undertaking, for good luck.", "Earnest money; the first money taken in trade."], "src": "iwb"}
+{"w": "handy-dandy", "pos": "noun", "d": ["A children's game of guessing in which hand a small object is hidden."], "src": "iwb"}
+{"w": "hang-by", "pos": "noun", "d": ["A hanger-on; a dependent follower."], "src": "iwb"}
+{"w": "hanger-on", "pos": "noun", "d": ["One who hangs about another for gain; a dependent follower."], "src": "iwb"}
+{"w": "hank", "pos": "noun", "d": ["A coil or skein of yarn or thread."], "src": "iwb"}
+{"w": "hankeringly", "pos": "adverb", "d": ["In a hankering or longing manner."], "src": "iwb"}
+{"w": "hankey-pankey", "pos": "noun", "d": ["Trickery; underhand dealing."], "src": "iwb"}
+{"w": "hanoverian", "pos": "adjective", "d": ["Of or relating to Hanover in Germany."], "src": "iwb"}
+{"w": "hansa", "pos": "noun", "d": ["A medieval guild or league of merchants, as the Hanseatic League."], "src": "iwb"}
+{"w": "hanse", "pos": "noun", "d": ["The Hanseatic League of German trading cities."], "src": "iwb"}
+{"w": "hanseatic", "pos": "adjective", "d": ["Relating to the Hanseatic League."], "src": "iwb"}
+{"w": "hansel", "pos": "noun", "d": ["Another spelling of handsel, a luck-bringing gift."], "src": "iwb"}
+{"w": "hanselines", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hansom", "pos": "noun", "d": ["A light two-wheeled covered carriage with the driver's seat behind."], "src": "iwb"}
+{"w": "hansom cab", "pos": "noun", "d": ["A hansom; a two-wheeled public carriage."], "src": "iwb"}
+{"w": "hanukka", "pos": "noun", "d": ["Another spelling of Hanukkah, the Jewish festival of lights."], "src": "iwb"}
+{"w": "hanukkah", "pos": "noun", "d": ["The Jewish festival of lights, kept for eight days in December."], "src": "iwb"}
+{"w": "hanuman", "pos": "noun", "d": ["The monkey god of Hindu mythology, noted for strength and devotion."], "src": "iwb"}
+{"w": "hap", "pos": "noun", "d": ["Chance; luck; fortune."], "src": "iwb"}
+{"w": "haphtarah", "pos": "noun", "d": ["The lesson from the prophets read in the synagogue after the law."], "src": "iwb"}
+{"w": "haplomi", "pos": "noun", "d": ["An order of soft-finned fishes, including the pikes."], "src": "iwb"}
+{"w": "haplostemonous", "pos": "adjective", "d": ["Having the stamens in a single whorl, equal in number to the petals."], "src": "iwb"}
+{"w": "hapuku", "pos": "noun", "d": ["A large food fish of New Zealand waters, a kind of groper."], "src": "iwb"}
+{"w": "haquebut", "pos": "noun", "d": ["An early portable firearm, the arquebus."], "src": "iwb"}
+{"w": "hara-kiri", "pos": "noun", "d": ["Ritual suicide by disembowelment, formerly practiced in Japan."], "src": "iwb"}
+{"w": "harangue", "pos": "noun", "d": ["A long, loud, and passionate speech."], "src": "iwb"}
+{"w": "harass", "pos": "verb", "d": ["To trouble or vex by repeated attacks or demands."], "src": "iwb"}
+{"w": "harberous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "harbinger", "pos": "noun", "d": ["A forerunner; one who or that which announces what is coming."], "src": "iwb"}
+{"w": "harbor master", "pos": "noun", "d": ["The officer in charge of a harbor."], "src": "iwb"}
+{"w": "harborough", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "harbrough", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hard grass", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hard steel", "pos": "noun", "d": ["Steel hardened by tempering."], "src": "iwb"}
+{"w": "hard-favored", "pos": "adjective", "d": ["Having coarse or harsh features."], "src": "iwb"}
+{"w": "hard-featured", "pos": "adjective", "d": ["Having harsh or stern features."], "src": "iwb"}
+{"w": "hard-fisted", "pos": "adjective", "d": ["Close-fisted; stingy.", "Having hard or horny fists."], "src": "iwb"}
+{"w": "hard-fought", "pos": "adjective", "d": ["Fiercely contested."], "src": "iwb"}
+{"w": "hard-handed", "pos": "adjective", "d": ["Severe in dealing; harsh."], "src": "iwb"}
+{"w": "hard-headed", "pos": "adjective", "d": ["Shrewd and practical; not easily deceived."], "src": "iwb"}
+{"w": "hard-hearted", "pos": "adjective", "d": ["Unfeeling; cruel."], "src": "iwb"}
+{"w": "hard-labored", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hard-mouthed", "pos": "adjective", "d": ["Not easily guided by the bit, as a horse."], "src": "iwb"}
+{"w": "hard-shell", "pos": "adjective", "d": ["Having a hard shell.", "Strict and uncompromising in belief."], "src": "iwb"}
+{"w": "hard-tack", "pos": "noun", "d": ["A hard dry biscuit used as ship's bread."], "src": "iwb"}
+{"w": "hard-visaged", "pos": "adjective", "d": ["Stern of face."], "src": "iwb"}
+{"w": "harderian", "pos": "adjective", "d": ["Relating to Harder's gland, a gland near the eye in many animals."], "src": "iwb"}
+{"w": "hardihead", "pos": "noun", "d": ["A small silverside fish of American waters."], "src": "iwb"}
+{"w": "hardihood", "pos": "noun", "d": ["Boldness; daring."], "src": "iwb"}
+{"w": "hardily", "pos": "adverb", "d": ["In a hardy or bold manner."], "src": "iwb"}
+{"w": "hardiment", "pos": "noun", "d": ["A bold deed; hardihood."], "src": "iwb"}
+{"w": "hardiness", "pos": "noun", "d": ["The quality of being hardy; power of endurance."], "src": "iwb"}
+{"w": "hardock", "pos": "noun", "d": ["A coarse weed, the burdock."], "src": "iwb"}
+{"w": "hardy", "pos": "adjective", "d": ["Bold; daring.", "Able to bear cold, hardship, or fatigue."], "src": "iwb"}
+{"w": "hare", "pos": "noun", "d": ["A swift mammal resembling the rabbit but larger, with long ears and legs."], "src": "iwb"}
+{"w": "hare brained", "pos": "adjective", "d": ["Giddy; reckless; flighty."], "src": "iwb"}
+{"w": "hare-hearted", "pos": "adjective", "d": ["Timid like a hare; cowardly."], "src": "iwb"}
+{"w": "hareld", "pos": "noun", "d": ["The long-tailed duck, an arctic sea duck."], "src": "iwb"}
+{"w": "harem", "pos": "noun", "d": ["The women's apartments in a Mohammedan household.", "The wives and concubines belonging to one household."], "src": "iwb"}
+{"w": "harengiform", "pos": "adjective", "d": ["Shaped like a herring."], "src": "iwb"}
+{"w": "harfang", "pos": "noun", "d": ["The snowy owl of arctic regions."], "src": "iwb"}
+{"w": "hariali grass", "pos": "noun", "d": ["A creeping grass of India, used for pasturage."], "src": "iwb"}
+{"w": "haricot", "pos": "noun", "d": ["A French dish of stewed meat and beans.", "A kidney bean."], "src": "iwb"}
+{"w": "harikari", "pos": "noun", "d": ["Another spelling of hara-kiri, Japanese ritual suicide."], "src": "iwb"}
+{"w": "hariolation", "pos": "noun", "d": ["The act of foretelling the future; divination."], "src": "iwb"}
+{"w": "harish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hark", "pos": "verb", "d": ["To listen; to pay attention."], "src": "iwb"}
+{"w": "harl", "pos": "noun", "d": ["The fiber of flax or hemp.", "A barb of a feather, used in making fishing flies."], "src": "iwb"}
+{"w": "harle", "pos": "noun", "d": ["The goosander, a large fish-eating duck."], "src": "iwb"}
+{"w": "harlech group", "pos": "noun", "d": ["A group of Cambrian rocks in Wales."], "src": "iwb"}
+{"w": "harlequinade", "pos": "noun", "d": ["A pantomime in which Harlequin is the chief character.", "Buffoonery."], "src": "iwb"}
+{"w": "harlock", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "harlot", "pos": "noun", "d": ["A woman who sells herself for lewd purposes; a prostitute."], "src": "iwb"}
+{"w": "harlotry", "pos": "noun", "d": ["The practice of prostitution."], "src": "iwb"}
+{"w": "harmattan", "pos": "noun", "d": ["A dry, dusty east wind of the West African coast."], "src": "iwb"}
+{"w": "harmel", "pos": "noun", "d": ["A plant of the Mediterranean region, the Syrian rue, yielding the alkaloid harmine."], "src": "iwb"}
+{"w": "harmine", "pos": "noun", "d": ["An alkaloid obtained from the seeds of the harmel plant."], "src": "iwb"}
+{"w": "harmonic", "pos": "adjective", "d": ["Relating to harmony in music.", "Relating to a harmonic or overtone."], "src": "iwb"}
+{"w": "harmonica", "pos": "noun", "d": ["A small wind instrument played with the mouth, the mouth organ.", "A musical instrument of glass bowls or bars struck to sound."], "src": "iwb"}
+{"w": "harmonicon", "pos": "noun", "d": ["A musical instrument producing tones by the action of a flame in a tube."], "src": "iwb"}
+{"w": "harmoniphon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "harmonist", "pos": "noun", "d": ["One skilled in harmony; a musical composer."], "src": "iwb"}
+{"w": "harmonite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "harmonium", "pos": "noun", "d": ["A small reed organ played with keys."], "src": "iwb"}
+{"w": "harmonization", "pos": "noun", "d": ["The act of bringing into harmony."], "src": "iwb"}
+{"w": "harmonize", "pos": "verb", "d": ["To bring into harmony or agreement.", "To sing or play in harmony."], "src": "iwb"}
+{"w": "harmonometer", "pos": "noun", "d": ["An instrument for measuring musical intervals and harmonies."], "src": "iwb"}
+{"w": "harmotome", "pos": "noun", "d": ["A zeolite mineral occurring in small white crystals."], "src": "iwb"}
+{"w": "harness", "pos": "noun", "d": ["The gear by which a horse is attached to a carriage or plow."], "src": "iwb"}
+{"w": "harness cask", "pos": "noun", "d": ["A large cask on shipboard from which salt meat is served out."], "src": "iwb"}
+{"w": "harns", "pos": "noun", "d": ["The brains."], "src": "iwb"}
+{"w": "harp", "pos": "noun", "d": ["A musical instrument with many strings stretched on a triangular frame, played by plucking."], "src": "iwb"}
+{"w": "harpa", "pos": "noun", "d": ["A genus of handsome sea shells, the harp shells."], "src": "iwb"}
+{"w": "harping iron", "pos": "noun", "d": ["A harpoon; a barbed spear for striking whales."], "src": "iwb"}
+{"w": "harpooneer", "pos": "noun", "d": ["One who throws the harpoon in whaling."], "src": "iwb"}
+{"w": "harpress", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "harpsichon", "pos": "noun", "d": ["Another spelling of harpsichord."], "src": "iwb"}
+{"w": "harpsichord", "pos": "noun", "d": ["A keyboard instrument whose strings are plucked by quills, much used before the piano."], "src": "iwb"}
+{"w": "harpy", "pos": "noun", "d": ["A fabulous monster with a woman's face and a bird's body.", "A cruel, greedy woman.", "A large powerful eagle of tropical America."], "src": "iwb"}
+{"w": "harquebus", "pos": "noun", "d": ["An early portable firearm, fired from the shoulder."], "src": "iwb"}
+{"w": "harquebuse", "pos": "noun", "d": ["Another spelling of harquebus."], "src": "iwb"}
+{"w": "harrage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "harre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "harridan", "pos": "noun", "d": ["A scolding, vicious old woman."], "src": "iwb"}
+{"w": "harrow", "pos": "noun", "d": ["A farm implement with spikes or disks for breaking up soil."], "src": "iwb"}
+{"w": "harsh", "pos": "adjective", "d": ["Rough to the ear, eye, or feeling.", "Severe; cruel; unkind."], "src": "iwb"}
+{"w": "harslet", "pos": "noun", "d": ["The heart, liver, and lights of a hog, used as food."], "src": "iwb"}
+{"w": "hartbeest", "pos": "noun", "d": ["A large African antelope with long horns."], "src": "iwb"}
+{"w": "harum-scarum", "pos": "adjective", "d": ["Wild and reckless; giddy."], "src": "iwb"}
+{"w": "haruspication", "pos": "noun", "d": ["Divination by inspecting the entrails of sacrificed animals."], "src": "iwb"}
+{"w": "haruspice", "pos": "noun", "d": ["A diviner who foretells by inspecting entrails."], "src": "iwb"}
+{"w": "haruspicy", "pos": "noun", "d": ["The art of divining by the entrails of victims."], "src": "iwb"}
+{"w": "harvest-home", "pos": "noun", "d": ["The festival held at the close of the harvest."], "src": "iwb"}
+{"w": "harvestry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "harvey process", "pos": "noun", "d": ["A process for hardening the face of steel armor plate."], "src": "iwb"}
+{"w": "hary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hasard", "pos": "noun", "d": ["An old spelling of hazard, chance or risk."], "src": "iwb"}
+{"w": "hase", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hasheesh", "pos": "noun", "d": ["Another spelling of hashish, a narcotic drug made from hemp."], "src": "iwb"}
+{"w": "hask", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hasp", "pos": "noun", "d": ["A clasp or fastening for a door, chest, or gate, fitting over a staple."], "src": "iwb"}
+{"w": "hast", "pos": "verb", "d": ["An old second-person singular form of have, used with thou."], "src": "iwb"}
+{"w": "haste", "pos": "noun", "d": ["Speed; swiftness.", "Urgent need of quick action."], "src": "iwb"}
+{"w": "hastif", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hastily", "pos": "adverb", "d": ["In a hasty manner; quickly."], "src": "iwb"}
+{"w": "hastiness", "pos": "noun", "d": ["The quality of being hasty."], "src": "iwb"}
+{"w": "hastings", "pos": "noun", "d": ["A town on the south coast of England, near the field of the battle of 1066."], "src": "iwb"}
+{"w": "hastings sands", "pos": "noun", "d": ["A formation of Lower Cretaceous rocks in southeastern England."], "src": "iwb"}
+{"w": "hasty", "pos": "adjective", "d": ["Quick; hurried.", "Acting with too much speed; rash."], "src": "iwb"}
+{"w": "hasty pudding", "pos": "noun", "d": ["A porridge of cornmeal or flour boiled in milk or water."], "src": "iwb"}
+{"w": "hatch", "pos": "verb", "d": ["To bring forth young from eggs by warmth.", "To contrive or plot in secret."], "src": "iwb"}
+{"w": "hatch-boat", "pos": "noun", "d": ["A small decked boat used in fishing."], "src": "iwb"}
+{"w": "hatchel", "pos": "noun", "d": ["A toothed board for combing flax or hemp."], "src": "iwb"}
+{"w": "hatchery", "pos": "noun", "d": ["A place for hatching eggs, especially fish eggs."], "src": "iwb"}
+{"w": "hatchet", "pos": "noun", "d": ["A small axe with a short handle, for use with one hand."], "src": "iwb"}
+{"w": "hatchet man", "pos": "noun", "d": ["A hired killer.", "One employed to do the unpleasant or ruthless work of another."], "src": "iwb"}
+{"w": "hatchettite", "pos": "noun", "d": ["A yellowish mineral wax, a variety of ozocerite."], "src": "iwb"}
+{"w": "hatel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hath", "pos": "verb", "d": ["An old third-person singular form of have."], "src": "iwb"}
+{"w": "hatte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hatteria", "pos": "noun", "d": ["A genus of lizard-like reptiles of New Zealand, the tuatara."], "src": "iwb"}
+{"w": "hatti-sherif", "pos": "noun", "d": ["An irrevocable imperial decree of the Ottoman sultan."], "src": "iwb"}
+{"w": "haubergeon", "pos": "noun", "d": ["A short sleeveless coat of mail."], "src": "iwb"}
+{"w": "hauberk", "pos": "noun", "d": ["A long coat of mail."], "src": "iwb"}
+{"w": "hauerite", "pos": "noun", "d": ["A mineral consisting of manganese disulphide."], "src": "iwb"}
+{"w": "haugh", "pos": "noun", "d": ["A low-lying meadow beside a river."], "src": "iwb"}
+{"w": "haught", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haughtily", "pos": "adverb", "d": ["In a haughty manner; proudly."], "src": "iwb"}
+{"w": "haughtiness", "pos": "noun", "d": ["The quality of being haughty; pride."], "src": "iwb"}
+{"w": "haughty", "pos": "adjective", "d": ["Proud and scornful; arrogant."], "src": "iwb"}
+{"w": "haul", "pos": "verb", "d": ["To pull or draw with force; to drag."], "src": "iwb"}
+{"w": "haulm", "pos": "noun", "d": ["The stems or stalks of plants, as of grain or peas; straw."], "src": "iwb"}
+{"w": "haulse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hault", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haunce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haunch", "pos": "noun", "d": ["The hip, buttock, and upper thigh of an animal."], "src": "iwb"}
+{"w": "haunt", "pos": "verb", "d": ["To frequent; to visit often.", "To appear to as a ghost."], "src": "iwb"}
+{"w": "haurient", "pos": "adjective", "d": ["In heraldry, represented as drinking or drawing water."], "src": "iwb"}
+{"w": "hausen", "pos": "noun", "d": ["The beluga sturgeon, which yields much of the caviar of commerce."], "src": "iwb"}
+{"w": "hausse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haustellata", "pos": "noun", "d": ["A group of insects having sucking mouthparts."], "src": "iwb"}
+{"w": "haustellate", "pos": "adjective", "d": ["Furnished with a sucking proboscis, as an insect."], "src": "iwb"}
+{"w": "haustellum", "pos": "noun", "d": ["The sucking mouthpart or proboscis of an insect."], "src": "iwb"}
+{"w": "haustorium", "pos": "noun", "d": ["A rootlike organ of parasitic plants by which nourishment is absorbed from the host."], "src": "iwb"}
+{"w": "haut", "pos": "adjective", "d": ["High; of high fashion or rank."], "src": "iwb"}
+{"w": "hautein", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hauteur", "pos": "noun", "d": ["Haughtiness of manner; disdainful pride."], "src": "iwb"}
+{"w": "hauynite", "pos": "noun", "d": ["A blue mineral of the sodalite group, occurring in volcanic rocks."], "src": "iwb"}
+{"w": "havana", "pos": "noun", "d": ["A cigar made at Havana, Cuba."], "src": "iwb"}
+{"w": "havanese", "pos": "noun", "d": ["A small long-haired dog of a Cuban breed."], "src": "iwb"}
+{"w": "haversian", "pos": "adjective", "d": ["Relating to the minute canals that carry blood vessels through bone."], "src": "iwb"}
+{"w": "havier", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "havildar", "pos": "noun", "d": ["A native sergeant in the British Indian army."], "src": "iwb"}
+{"w": "havior", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "havoc", "pos": "noun", "d": ["Wide and general destruction; devastation."], "src": "iwb"}
+{"w": "haw", "pos": "noun", "d": ["The red berry of the hawthorn."], "src": "iwb"}
+{"w": "haw-haw", "pos": "noun", "d": ["A loud, boisterous laugh."], "src": "iwb"}
+{"w": "hawebake", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hawk moth", "pos": "noun", "d": ["A large stout-bodied moth that hovers like a hummingbird while feeding, the sphinx moth."], "src": "iwb"}
+{"w": "hawk-eyed", "pos": "adjective", "d": ["Having keen sight."], "src": "iwb"}
+{"w": "hawkeye state", "pos": "noun", "d": ["The state of Iowa."], "src": "iwb"}
+{"w": "hawm", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hawse", "pos": "noun", "d": ["The part of a ship's bow through which the anchor cables pass."], "src": "iwb"}
+{"w": "hawser-laid", "pos": "adjective", "d": ["Laid up like a hawser, of rope."], "src": "iwb"}
+{"w": "hay-cutter", "pos": "noun", "d": ["A machine for cutting hay or straw into short lengths."], "src": "iwb"}
+{"w": "haytian", "pos": "adjective", "d": ["Another spelling of Haitian, of or relating to Haiti."], "src": "iwb"}
+{"w": "hazardry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "haze", "pos": "noun", "d": ["A light mist or fog in the air.", "A state of mental confusion."], "src": "iwb"}
+{"w": "hazel", "pos": "noun", "d": ["A shrub or small tree bearing edible nuts, the filbert."], "src": "iwb"}
+{"w": "hazily", "pos": "adverb", "d": ["In a hazy manner."], "src": "iwb"}
+{"w": "haziness", "pos": "noun", "d": ["The state of being hazy."], "src": "iwb"}
+{"w": "hazle", "pos": "noun", "d": ["Another spelling of hazel."], "src": "iwb"}
+{"w": "hazy", "pos": "adjective", "d": ["Misty; filled with haze.", "Vague; indistinct."], "src": "iwb"}
+{"w": "head gear", "pos": "noun", "d": ["Anything worn on the head.", "The harness on a horse's head."], "src": "iwb"}
+{"w": "head-cheese", "pos": "noun", "d": ["A dish of chopped meat from a hog's head, boiled and pressed in a mold."], "src": "iwb"}
+{"w": "head-hunter", "pos": "noun", "d": ["A savage who cuts off and preserves the heads of enemies.", "One who seeks out persons for employment."], "src": "iwb"}
+{"w": "head-lugged", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "headachy", "pos": "adjective", "d": ["Suffering from headache."], "src": "iwb"}
+{"w": "headily", "pos": "adverb", "d": ["In a heady manner."], "src": "iwb"}
+{"w": "headiness", "pos": "noun", "d": ["The quality of being heady."], "src": "iwb"}
+{"w": "headmold shot", "pos": "noun", "d": ["Small shot for fowling."], "src": "iwb"}
+{"w": "headmould shot", "pos": "noun", "d": ["Another spelling of headmold shot."], "src": "iwb"}
+{"w": "headsman", "pos": "noun", "d": ["An executioner who beheads."], "src": "iwb"}
+{"w": "heady", "pos": "adjective", "d": ["Apt to go to the head; intoxicating.", "Rash; impetuous."], "src": "iwb"}
+{"w": "heal", "pos": "verb", "d": ["To make whole or sound; to cure.", "To become whole or sound."], "src": "iwb"}
+{"w": "heald", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "healthily", "pos": "adverb", "d": ["In a healthy manner."], "src": "iwb"}
+{"w": "healthiness", "pos": "noun", "d": ["The state of being healthy."], "src": "iwb"}
+{"w": "heam", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heap", "pos": "noun", "d": ["A pile or mass of things thrown together."], "src": "iwb"}
+{"w": "heapy", "pos": "adjective", "d": ["Full of heaps; abounding in piles."], "src": "iwb"}
+{"w": "hearse", "pos": "noun", "d": ["A carriage for carrying the dead to the grave."], "src": "iwb"}
+{"w": "heart-eating", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heart-robbing", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heart-spoon", "pos": "noun", "d": ["The pit of the stomach; the depression below the breastbone."], "src": "iwb"}
+{"w": "heart-whole", "pos": "adjective", "d": ["With unbroken spirit.", "Sincere; hearty."], "src": "iwb"}
+{"w": "heart-wounded", "pos": "adjective", "d": ["Wounded in the heart or in feeling."], "src": "iwb"}
+{"w": "hearth", "pos": "noun", "d": ["The floor of a fireplace.", "The home; the fireside."], "src": "iwb"}
+{"w": "heartily", "pos": "adverb", "d": ["In a hearty manner; cordially."], "src": "iwb"}
+{"w": "heartiness", "pos": "noun", "d": ["The quality of being hearty."], "src": "iwb"}
+{"w": "heartlings", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heartrending", "pos": "adjective", "d": ["Causing deep grief or anguish."], "src": "iwb"}
+{"w": "heartshaped", "pos": "adjective", "d": ["Shaped like a heart."], "src": "iwb"}
+{"w": "hearty", "pos": "adjective", "d": ["Warm and cordial.", "Strong and healthy; hale."], "src": "iwb"}
+{"w": "heathenesse", "pos": "noun", "d": ["An old form of heathenism."], "src": "iwb"}
+{"w": "heathy", "pos": "adjective", "d": ["Abounding in heath; resembling heath."], "src": "iwb"}
+{"w": "heave", "pos": "verb", "d": ["To lift with effort.", "To throw; to hurl."], "src": "iwb"}
+{"w": "heave offering", "pos": "noun", "d": ["A Jewish offering lifted up before the Lord."], "src": "iwb"}
+{"w": "heavenliness", "pos": "noun", "d": ["The state of being heavenly."], "src": "iwb"}
+{"w": "heavenly-minded", "pos": "adjective", "d": ["Having the mind set on heavenly things."], "src": "iwb"}
+{"w": "heavily traveled", "pos": "adjective", "d": ["Much used by travelers, as a road."], "src": "iwb"}
+{"w": "heavily-traveled", "pos": "adjective", "d": ["Much used by travelers."], "src": "iwb"}
+{"w": "heaviness", "pos": "noun", "d": ["The state or quality of being heavy."], "src": "iwb"}
+{"w": "heavisome", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heavy spar", "pos": "noun", "d": ["A heavy white mineral, native barium sulphate; barytes."], "src": "iwb"}
+{"w": "heavy-armed", "pos": "adjective", "d": ["Armed with heavy weapons or armor."], "src": "iwb"}
+{"w": "heavy-haded", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heavy-headed", "pos": "adjective", "d": ["Drowsy; dull; stupid."], "src": "iwb"}
+{"w": "hebdomad", "pos": "noun", "d": ["A week.", "A group or period of seven."], "src": "iwb"}
+{"w": "hebdomatical", "pos": "adjective", "d": ["Weekly."], "src": "iwb"}
+{"w": "hebe", "pos": "noun", "d": ["The Greek goddess of youth, cupbearer to the gods.", "A genus of evergreen shrubs of New Zealand."], "src": "iwb"}
+{"w": "heben", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hebetate", "pos": "verb", "d": ["To make dull or blunt."], "src": "iwb"}
+{"w": "hebetation", "pos": "noun", "d": ["The act of making dull."], "src": "iwb"}
+{"w": "hebete", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hebetude", "pos": "noun", "d": ["Dullness of mind; stupidity."], "src": "iwb"}
+{"w": "hebraic", "pos": "adjective", "d": ["Relating to the Hebrews or their language."], "src": "iwb"}
+{"w": "hebraism", "pos": "noun", "d": ["A Hebrew idiom or expression.", "Hebrew character or spirit."], "src": "iwb"}
+{"w": "hebraist", "pos": "noun", "d": ["One skilled in the Hebrew language."], "src": "iwb"}
+{"w": "hebraize", "pos": "verb", "d": ["To make Hebrew in form or character."], "src": "iwb"}
+{"w": "hebrew calendar", "pos": "noun", "d": ["The lunisolar calendar used by the Jews."], "src": "iwb"}
+{"w": "hebrewess", "pos": "noun", "d": ["A Hebrew woman."], "src": "iwb"}
+{"w": "hebrician", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hebridean", "pos": "adjective", "d": ["Of or relating to the Hebrides, islands off Scotland."], "src": "iwb"}
+{"w": "hebridian", "pos": "adjective", "d": ["Another form of Hebridean."], "src": "iwb"}
+{"w": "hecatomb", "pos": "noun", "d": ["A sacrifice of a hundred oxen.", "A great slaughter."], "src": "iwb"}
+{"w": "hecatompedon", "pos": "noun", "d": ["A temple a hundred feet long, as the Parthenon."], "src": "iwb"}
+{"w": "hecdecane", "pos": "noun", "d": ["A hydrocarbon of the paraffin series, containing sixteen carbon atoms."], "src": "iwb"}
+{"w": "heck", "pos": "noun", "d": ["A rack for holding hay for cattle.", "An exclamation of surprise or dismay."], "src": "iwb"}
+{"w": "heckerism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heckimal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heckle", "pos": "verb", "d": ["To comb flax or hemp with a hatchel.", "To question or interrupt with sharp questions."], "src": "iwb"}
+{"w": "hectare", "pos": "noun", "d": ["A measure of land equal to ten thousand square meters, about two and a half acres."], "src": "iwb"}
+{"w": "hectic", "pos": "adjective", "d": ["Relating to a habitual fever.", "Excited; feverish in action."], "src": "iwb"}
+{"w": "hectocotylized", "pos": "adjective", "d": ["Furnished with a hectocotylus."], "src": "iwb"}
+{"w": "hectocotylus", "pos": "noun", "d": ["A modified arm of the male cuttlefish and its allies, used in reproduction."], "src": "iwb"}
+{"w": "hectogram", "pos": "noun", "d": ["A weight of one hundred grams."], "src": "iwb"}
+{"w": "hectogramme", "pos": "noun", "d": ["Another spelling of hectogram."], "src": "iwb"}
+{"w": "hectograph", "pos": "noun", "d": ["A device for copying writing by means of a gelatin pad."], "src": "iwb"}
+{"w": "hectoliter", "pos": "noun", "d": ["A measure of one hundred liters."], "src": "iwb"}
+{"w": "hectolitre", "pos": "noun", "d": ["Another spelling of hectoliter."], "src": "iwb"}
+{"w": "hectometer", "pos": "noun", "d": ["A length of one hundred meters."], "src": "iwb"}
+{"w": "hectometre", "pos": "noun", "d": ["Another spelling of hectometer."], "src": "iwb"}
+{"w": "hector", "pos": "verb", "d": ["To bully; to treat with insolence."], "src": "iwb"}
+{"w": "hectostere", "pos": "noun", "d": ["A measure of one hundred steres."], "src": "iwb"}
+{"w": "heddle", "pos": "noun", "d": ["One of the wires in a loom through which a warp thread passes."], "src": "iwb"}
+{"w": "heddle-eye", "pos": "noun", "d": ["The eye or loop of a heddle through which the warp thread passes."], "src": "iwb"}
+{"w": "hederaceous", "pos": "adjective", "d": ["Relating to ivy."], "src": "iwb"}
+{"w": "hederal", "pos": "adjective", "d": ["Of or relating to ivy."], "src": "iwb"}
+{"w": "hederic", "pos": "adjective", "d": ["Relating to ivy."], "src": "iwb"}
+{"w": "hederiferous", "pos": "adjective", "d": ["Bearing or producing ivy."], "src": "iwb"}
+{"w": "hederose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hedge", "pos": "noun", "d": ["A fence or boundary formed of shrubs or small trees."], "src": "iwb"}
+{"w": "hedging bill", "pos": "noun", "d": ["A billhook for trimming hedges."], "src": "iwb"}
+{"w": "hedonic", "pos": "adjective", "d": ["Relating to pleasure."], "src": "iwb"}
+{"w": "hedonism", "pos": "noun", "d": ["The doctrine that pleasure is the chief good."], "src": "iwb"}
+{"w": "hedonist", "pos": "noun", "d": ["One who holds that pleasure is the chief good."], "src": "iwb"}
+{"w": "heed", "pos": "verb", "d": ["To pay attention to; to mind."], "src": "iwb"}
+{"w": "heedy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heemraad", "pos": "noun", "d": ["A Dutch magistrate having charge of dykes and polders."], "src": "iwb"}
+{"w": "heep", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heft", "pos": "noun", "d": ["Weight; heaviness.", "The act of heaving or lifting."], "src": "iwb"}
+{"w": "hefty", "pos": "adjective", "d": ["Heavy and strong; bulky."], "src": "iwb"}
+{"w": "hegelian", "pos": "adjective", "d": ["Relating to Hegel or his philosophy."], "src": "iwb"}
+{"w": "hegelism", "pos": "noun", "d": ["The philosophy of Hegel."], "src": "iwb"}
+{"w": "hegemonic", "pos": "adjective", "d": ["Relating to hegemony; ruling or predominant."], "src": "iwb"}
+{"w": "hegemony", "pos": "noun", "d": ["Leadership or predominant influence, as of one state over others."], "src": "iwb"}
+{"w": "hegge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hegira", "pos": "noun", "d": ["The flight of Mohammed from Mecca in 622, from which the Muslim era is reckoned.", "Any flight or exodus."], "src": "iwb"}
+{"w": "heifer", "pos": "noun", "d": ["A young cow that has not yet borne a calf."], "src": "iwb"}
+{"w": "heigh-ho", "pos": "interjection", "d": ["An exclamation expressing weariness or dejection."], "src": "iwb"}
+{"w": "heinous", "pos": "adjective", "d": ["Hatefully bad; atrocious."], "src": "iwb"}
+{"w": "heir", "pos": "noun", "d": ["One who inherits or is entitled to inherit property."], "src": "iwb"}
+{"w": "heiress", "pos": "noun", "d": ["A female heir."], "src": "iwb"}
+{"w": "hejira", "pos": "noun", "d": ["Another spelling of hegira."], "src": "iwb"}
+{"w": "hektare", "pos": "noun", "d": ["Another spelling of hectare."], "src": "iwb"}
+{"w": "hektogram", "pos": "noun", "d": ["Another spelling of hectogram."], "src": "iwb"}
+{"w": "hektograph", "pos": "noun", "d": ["Another spelling of hectograph."], "src": "iwb"}
+{"w": "hektoliter", "pos": "noun", "d": ["Another spelling of hectoliter."], "src": "iwb"}
+{"w": "hektometer", "pos": "noun", "d": ["Another spelling of hectometer."], "src": "iwb"}
+{"w": "helamys", "pos": "noun", "d": ["A genus of jumping rodents, the jerboas."], "src": "iwb"}
+{"w": "helcoplasty", "pos": "noun", "d": ["Plastic surgery for the repair of an ulcer."], "src": "iwb"}
+{"w": "hele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "heliac", "pos": "adjective", "d": ["Relating to the sun, especially to its rising with a star."], "src": "iwb"}
+{"w": "helianthin", "pos": "noun", "d": ["A yellow-orange dye, also called methyl orange."], "src": "iwb"}
+{"w": "helianthoid", "pos": "adjective", "d": ["Like a sunflower."], "src": "iwb"}
+{"w": "helianthoidea", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "helical", "pos": "adjective", "d": ["Spiral; winding like a screw."], "src": "iwb"}
+{"w": "helichrysum", "pos": "noun", "d": ["A genus of plants with dry, papery flowers, the everlastings."], "src": "iwb"}
+{"w": "heliciform", "pos": "adjective", "d": ["Shaped like a spiral."], "src": "iwb"}
+{"w": "helicin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "helicine", "pos": "adjective", "d": ["Spiral; coiled."], "src": "iwb"}
+{"w": "helicograph", "pos": "noun", "d": ["An instrument for drawing spirals."], "src": "iwb"}
+{"w": "helicoid", "pos": "noun", "d": ["A warped surface generated by a straight line turning about an axis, like a screw thread."], "src": "iwb"}
+{"w": "helicon", "pos": "noun", "d": ["A mountain in Greece, sacred to the Muses.", "A large circular brass wind instrument, a form of tuba."], "src": "iwb"}
+{"w": "heliconia", "pos": "noun", "d": ["A genus of large tropical plants with showy bracts, allied to the banana."], "src": "iwb"}
+{"w": "heliconian", "pos": "adjective", "d": ["Relating to Helicon; poetic."], "src": "iwb"}
+{"w": "helicotrema", "pos": "noun", "d": ["The opening between the two passages of the cochlea in the inner ear."], "src": "iwb"}
+{"w": "helio-", "pos": "prefix", "d": ["A prefix meaning the sun, as in heliocentric."], "src": "iwb"}
+{"w": "heliocentric", "pos": "adjective", "d": ["Having the sun as the center, as the solar system."], "src": "iwb"}
+{"w": "heliochrome", "pos": "noun", "d": ["A photograph in natural colors."], "src": "iwb"}
+{"w": "heliochromic", "pos": "adjective", "d": ["Relating to photography in natural colors."], "src": "iwb"}
+{"w": "heliochromy", "pos": "noun", "d": ["The art of photography in natural colors."], "src": "iwb"}
+{"w": "heliogram", "pos": "noun", "d": ["A message sent by heliograph."], "src": "iwb"}
+{"w": "heliograph", "pos": "noun", "d": ["An instrument for signaling by flashing sunlight with a mirror."], "src": "iwb"}
+{"w": "heliography", "pos": "noun", "d": ["Signaling by means of the heliograph.", "Photographic engraving by the action of sunlight."], "src": "iwb"}
+{"w": "heliogravure", "pos": "noun", "d": ["A process of engraving by photography; photogravure."], "src": "iwb"}
+{"w": "heliolater", "pos": "noun", "d": ["A worshiper of the sun."], "src": "iwb"}
+{"w": "heliolatry", "pos": "noun", "d": ["Worship of the sun."], "src": "iwb"}
+{"w": "heliolite", "pos": "noun", "d": ["A fossil honeycomb coral."], "src": "iwb"}
+{"w": "heliometer", "pos": "noun", "d": ["An instrument for measuring the sun's diameter and small celestial distances."], "src": "iwb"}
+{"w": "heliometric", "pos": "adjective", "d": ["Relating to the heliometer."], "src": "iwb"}
+{"w": "heliometry", "pos": "noun", "d": ["The measurement of the sun's diameter and figure."], "src": "iwb"}
+{"w": "heliopora", "pos": "noun", "d": ["A genus of reef-building corals with a blue skeleton, the blue corals."], "src": "iwb"}
+{"w": "helioscope", "pos": "noun", "d": ["An instrument for viewing the sun without injury to the eye."], "src": "iwb"}
+{"w": "heliostat", "pos": "noun", "d": ["A mirror mounted to follow the sun and reflect its rays in a fixed direction."], "src": "iwb"}
+{"w": "heliotrope", "pos": "noun", "d": ["A plant whose flowers turn toward the sun.", "A dark green stone with red spots, bloodstone."], "src": "iwb"}
+{"w": "heliotropic", "pos": "adjective", "d": ["Turning toward the sun or light."], "src": "iwb"}
+{"w": "heliotropism", "pos": "noun", "d": ["The turning of a plant toward light."], "src": "iwb"}
+{"w": "heliotype", "pos": "noun", "d": ["A photographic process for printing pictures from a gelatin plate."], "src": "iwb"}
+{"w": "heliotypic", "pos": "adjective", "d": ["Relating to the heliotype process."], "src": "iwb"}
+{"w": "heliotypy", "pos": "noun", "d": ["The heliotype process of printing."], "src": "iwb"}
+{"w": "heliozoa", "pos": "noun", "d": ["A group of protozoans with radiating threadlike arms, the sun animalcules."], "src": "iwb"}
+{"w": "helispheric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "helium", "pos": "noun", "d": ["A very light gaseous element, used to fill balloons and in cryogenics."], "src": "iwb"}
+{"w": "helix", "pos": "noun", "d": ["A spiral line or coil.", "The folded outer rim of the ear."], "src": "iwb"}
+{"w": "hell", "pos": "noun", "d": ["The place of punishment for the wicked after death."], "src": "iwb"}
+{"w": "hell-cat", "pos": "noun", "d": ["A spiteful, bad-tempered woman."], "src": "iwb"}
+{"w": "hell-diver", "pos": "noun", "d": ["The dabchick, a small diving water bird."], "src": "iwb"}
+{"w": "hell-haunted", "pos": "adjective", "d": ["Haunted by the terrors of hell."], "src": "iwb"}
+{"w": "hellanodic", "pos": "adjective", "d": ["Relating to the judges of the Olympic games."], "src": "iwb"}
+{"w": "hellbrewed", "pos": "adjective", "d": ["Brewed in hell; diabolical."], "src": "iwb"}
+{"w": "helldoomed", "pos": "adjective", "d": ["Doomed to hell."], "src": "iwb"}
+{"w": "hellebore", "pos": "noun", "d": ["A genus of poisonous plants with showy flowers, blooming in winter."], "src": "iwb"}
+{"w": "helleborein", "pos": "noun", "d": ["A poisonous glucoside obtained from hellebore."], "src": "iwb"}
+{"w": "helleborin", "pos": "noun", "d": ["Another name for helleborein."], "src": "iwb"}
+{"w": "helleborism", "pos": "noun", "d": ["Poisoning by hellebore."], "src": "iwb"}
+{"w": "hellene", "pos": "noun", "d": ["A Greek."], "src": "iwb"}
+{"w": "hellenian", "pos": "adjective", "d": ["Greek."], "src": "iwb"}
+{"w": "hellenic", "pos": "adjective", "d": ["Of or relating to Greece or the Greeks."], "src": "iwb"}
+{"w": "hellenism", "pos": "noun", "d": ["Greek culture, spirit, or character.", "A Greek idiom."], "src": "iwb"}
+{"w": "hellenist", "pos": "noun", "d": ["One skilled in the Greek language and literature."], "src": "iwb"}
+{"w": "hellenize", "pos": "verb", "d": ["To make Greek in character or form."], "src": "iwb"}
+{"w": "hellenotype", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hellespont", "pos": "noun", "d": ["The narrow strait joining the Aegean Sea to the Sea of Marmora, the Dardanelles."], "src": "iwb"}
+{"w": "hellespontine", "pos": "adjective", "d": ["Of or relating to the Hellespont."], "src": "iwb"}
+{"w": "hellgamite", "pos": "noun", "d": ["Another spelling of hellgramite."], "src": "iwb"}
+{"w": "hellgramite", "pos": "noun", "d": ["The large aquatic larva of the dobsonfly, used as fish bait."], "src": "iwb"}
+{"w": "helly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "helm", "pos": "noun", "d": ["The steering gear of a ship; the tiller or wheel."], "src": "iwb"}
+{"w": "helmet-shaped", "pos": "adjective", "d": ["Shaped like a helmet."], "src": "iwb"}
+{"w": "helminth", "pos": "noun", "d": ["A worm, especially a parasitic intestinal worm."], "src": "iwb"}
+{"w": "helminthagogue", "pos": "noun", "d": ["A medicine that expels intestinal worms."], "src": "iwb"}
+{"w": "helminthiasis", "pos": "noun", "d": ["Disease caused by parasitic worms."], "src": "iwb"}
+{"w": "helminthite", "pos": "noun", "d": ["A fossil worm."], "src": "iwb"}
+{"w": "helminthoid", "pos": "adjective", "d": ["Wormlike in form."], "src": "iwb"}
+{"w": "helminthologic", "pos": "adjective", "d": ["Relating to helminthology, the study of worms."], "src": "iwb"}
+{"w": "helminthologist", "pos": "noun", "d": ["One who studies worms, especially parasitic worms."], "src": "iwb"}
+{"w": "helmsman", "pos": "noun", "d": ["One who steers a ship."], "src": "iwb"}
+{"w": "helot", "pos": "noun", "d": ["A serf of ancient Sparta."], "src": "iwb"}
+{"w": "helotry", "pos": "noun", "d": ["The helot class; the condition of serfdom."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

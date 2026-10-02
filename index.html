@@ -3,6 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="The Signature Dictionary (IWB Dictionary): 577,742 entries — original definitions for 102,218 English headwords, JAH deterministic stamps, word programs, and an AI teacher per entry.">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"WebSite","name":"The Signature Dictionary","alternateName":"IWB Dictionary","url":"https://justinahiggins614-cmyk.github.io/jah-dictionary/","description":"Manon's own IWB Dictionary: every English word with original definitions, JAH deterministic stamps, word programs, and a personal AI teacher.","potentialAction":{"@type":"SearchAction","target":"https://justinahiggins614-cmyk.github.io/jah-dictionary/?q={query}","query-input":"required name=query"}},
+{"@type":"DefinedTermSet","name":"IWB Dictionary","url":"https://justinahiggins614-cmyk.github.io/jah-dictionary/","hasDefinedTerm":[]}
+]}
+</script>
 <title>The Signature Dictionary — every English word, defined two ways</title>
 <style>
 :root{--ink:#2b2118;--paper:#faf6ec;--accent:#1a4d2e;--gold:#8a6d1c;--line:#ddd2b8;--soft:#f3ecda;--mut:#6e6250}
@@ -88,6 +95,31 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
   <div class="searchbox"><input id="q" placeholder="Look up a word..." aria-label="Look up a word" autocomplete="off"><button id="qgo">Define</button><div class="sugg" id="sugg"></div></div>
 </div>
 <div class="wrap"><div id="app"><p style="font-family:Arial">Loading dictionary&hellip;</p></div></div>
+<!-- CRAWL SNAPSHOT (additive, polish pass 3): static, no-JavaScript counts, A–Z links, and data/methodology notes for humans, search engines, and AI crawlers. Live counters inside the app above stay the authoritative live source. -->
+<section aria-label="Dictionary counts, browse, and data methodology" style="font-family:Arial,sans-serif">
+<div class="wrap" style="padding-top:0">
+<h2 class="sec">Dictionary counts &amp; data</h2>
+<p class="jahstatus">Snapshot as of <b>2026-10-02</b> (source: <a href="data/index/stats.json">data/index/stats.json</a>) — readable without JavaScript. The live counters on this page refresh automatically as the dictionary grows.</p>
+<div class="stats" role="list">
+<div class="stat" role="listitem"><div class="n">577,742</div><div class="l">Entries — every searchable item in the index: headwords plus catalog terms.</div></div>
+<div class="stat" role="listitem"><div class="n">102,218</div><div class="l">Headwords — English words with original IWB definitions and JAH-DICT-W-###### stamps.</div></div>
+<div class="stat" role="listitem"><div class="n">475,524</div><div class="l">Catalog terms — spec and patent titles cross-referenced from the JAH network catalogs (JAH-DICT-T-###### stamps).</div></div>
+</div>
+<p class="jahstatus"><b>Word programs:</b> every headword entry carries a runnable Python&nbsp;3 word program (copy/download/run in the browser). <b>Word patents:</b> JAH-WORD-###### word-patent records are filed in the sister Signature Spec Catalog — each dictionary entry links out to its word patent.</p>
+<h3 style="font-family:Arial,sans-serif;color:#1a4d2e;font-size:1.05em;margin:1.2em 0 .4em">Browse every word, A&ndash;Z</h3>
+<nav class="az" role="navigation" aria-label="Browse words by first letter">
+<a href="?az=A">A</a><a href="?az=B">B</a><a href="?az=C">C</a><a href="?az=D">D</a><a href="?az=E">E</a><a href="?az=F">F</a><a href="?az=G">G</a><a href="?az=H">H</a><a href="?az=I">I</a><a href="?az=J">J</a><a href="?az=K">K</a><a href="?az=L">L</a><a href="?az=M">M</a><a href="?az=N">N</a><a href="?az=O">O</a><a href="?az=P">P</a><a href="?az=Q">Q</a><a href="?az=R">R</a><a href="?az=S">S</a><a href="?az=T">T</a><a href="?az=U">U</a><a href="?az=V">V</a><a href="?az=W">W</a><a href="?az=X">X</a><a href="?az=Y">Y</a><a href="?az=Z">Z</a>
+</nav>
+<details class="jahd"><summary>Data &amp; methodology</summary>
+<div class="detbox" style="margin-top:10px">
+<p style="margin-top:0"><b>Original definitions.</b> Every IWB definition is written fresh for this dictionary — all original text; no Webster's 1913 branding or text anywhere on the site. Entries marked &ldquo;editors are still writing&rdquo; are real headwords awaiting their authored definition.</p>
+<p><b>Stamp scheme.</b> Headwords carry <b>JAH-DICT-W-######</b> stamps (alphabetical, never renumbered). Catalog terms carry <b>JAH-DICT-T-######</b> stamps (reused across rebuilds, never renumbered). Either stamp pasted into the search box reopens that exact entry.</p>
+<p><b>Headword vs entry vs term.</b> A <b>headword</b> is an English word with IWB definitions. An <b>entry</b> is any item in the dictionary index. A <b>term</b> is a catalog-title record from the spec or patent catalogs, cross-referenced here.</p>
+<p><b>Versioning.</b> Definitions carry a definition version; stamps are permanent IDs; every field on an entry recomputes from fixed public rules (press &ldquo;Verify record&rdquo; on any entry to recompute in the browser).</p>
+<p style="margin-bottom:0"><b>Machine access.</b> <a href="api.json">api.json</a> (bot manifest) &middot; <a href="data/index/stats.json">stats.json</a> (counts) &middot; <a href="data/headwords.csv">headwords.csv</a> (word,pos,stamp — 102,218 rows) &middot; <a href="sitemap-index.xml">sitemap-index.xml</a> (headword deep links + A&ndash;Z pages; catalog terms are sitemapped by their home catalogs). Each entry also serves <b>JSON-LD (schema.org DefinedTerm)</b> and a canonical <b>?w=</b> URL.</p>
+</div></details>
+</div>
+</section>
 <footer class="site"><div class="wrap" style="padding:0">
 <b style="color:#fff">IWB Dictionary</b> — every English word, defined two ways: the normal IWB definition and the JAH deterministic definition, with an official deterministic stamp, a program of the word, and a personal AI teacher for each entry.<br>
 Word definitions are written fresh for the IWB Dictionary. Deterministic definitions, stamps, programs, and AI teachers are generated by the JAH system. Partner of
@@ -325,6 +357,24 @@ function detGloss(w,D,ndefs){
 }
 /* ================= views: home / search / browse ================= */
 function linkW(key,label){return '<a href="?w='+encodeURIComponent(key)+'">'+esc(label||key)+'</a>'}
+/* ================= polish pass 3: per-entry SEO (canonical + JSON-LD DefinedTerm) ================= */
+var DICTBASE="https://justinahiggins614-cmyk.github.io/jah-dictionary/";
+function setEntrySEO(e,senses){
+ var canon=DICTBASE+"?w="+encodeURIComponent(e.w);
+ var link=document.querySelector('link[rel="canonical"]');
+ if(!link){link=document.createElement("link");link.rel="canonical";document.head.appendChild(link)}
+ link.href=canon;
+ var first=String((senses&&senses.length?senses[0]:"")||"").replace(/^\d+\.\s*/,"").slice(0,160);
+ var md=document.querySelector('meta[name="description"]');
+ if(!md){md=document.createElement("meta");md.name="description";document.head.appendChild(md)}
+ md.content=e.w+(e.pos?(", "+e.pos):"")+" — "+first+" (IWB Dictionary entry "+e.st+")";
+ var old=document.getElementById("entryjsonld");if(old)old.remove();
+ var jl={"@context":"https://schema.org","@type":"DefinedTerm","name":e.w,"termCode":e.st,
+  "description":first,"url":canon,
+  "inDefinedTermSet":{"@type":"DefinedTermSet","name":"IWB Dictionary — The Signature Dictionary","url":DICTBASE}};
+ var sc=document.createElement("script");sc.type="application/ld+json";sc.id="entryjsonld";
+ sc.text=JSON.stringify(jl);document.head.appendChild(sc);
+}
 async function vHome(app){
  var s=DB.stats||{};
  var ec=s.entry_count||s.total||DB.idx.length;
@@ -337,7 +387,7 @@ async function vHome(app){
  '<div class="stat"><div class="n">'+Number(ec).toLocaleString()+'</div><div class="l">Total entries</div></div></div>';
  if(s.last_updated)h+='<p class="jahstatus">Last updated: '+esc(String(s.last_updated))+' &middot; counts refresh automatically as the dictionary grows.</p>';
  h+='<div class="wotd"><h2 class="sec" style="margin-top:0">Word of the day</h2><div id="wotd"><p style="font-family:Arial">Choosing today&rsquo;s word...</p></div></div>';
- h+='<h2 class="sec">Browse the dictionary</h2><div class="az">';
+ h+='<h2 class="sec">Browse the dictionary</h2><div class="az" role="navigation" aria-label="Browse words by first letter">';
  for(var c=65;c<=90;c++){var L=String.fromCharCode(c);h+='<a href="?az='+L+'">'+L+'</a>'}
  h+='<details class="jahd"><summary>What counts as an entry?</summary><p>Every lexical item in the IWB headword corpus: common words, inflected forms, archaic and obscure roots, slang, abbreviations, prefixes and suffixes, multiword phrases &mdash; plus catalog terms (spec and patent titles from the JAH network). Each entry is one headword with its numbered senses. Entries marked &ldquo;editors are still writing&rdquo; are real headwords awaiting their authored definition; the deterministic reading is ready for every entry.</p></details>';
  h+='<p class="note">Definitions are written fresh for the IWB Dictionary. JAH deterministic definitions, stamps, programs, and AI teachers are generated live by the JAH system and are the same on every machine, every time.</p>';
@@ -398,7 +448,7 @@ async function vBrowse(app,L,pg){
  var total=end-start,per=200,pages=Math.max(1,Math.ceil(total/per));pg=Math.min(pg,pages);
  var h='<div class="crumb">JAH Dictionary &rsaquo; Browse &rsaquo; '+esc(L)+'</div>';
  h+='<h1 class="hw" style="font-size:1.8em">Words beginning with '+esc(L)+'</h1>';
- h+='<div class="az">';for(var c=65;c<=90;c++){var x=String.fromCharCode(c);h+='<a href="?az='+x+'"'+(x===L?' style="background:#1a4d2e;color:#fff"':"")+'>'+x+'</a>'}h+='</div>';
+ h+='<div class="az" role="navigation" aria-label="Browse words by first letter">';for(var c=65;c<=90;c++){var x=String.fromCharCode(c);h+='<a href="?az='+x+'"'+(x===L?' style="background:#1a4d2e;color:#fff"':"")+'>'+x+'</a>'}h+='</div>';
  h+='<p style="font-family:Arial">'+total.toLocaleString()+' headwords &middot; page '+pg+' of '+pages+'</p><ul class="pgln">';
  var s0=start+(pg-1)*per,s1=Math.min(start+pg*per,end);
  for(var i=s0;i<s1;i++)h+='<li>'+linkW(DB.idx[i][0])+'</li>';
@@ -664,6 +714,7 @@ async function vEntryAt(app,pos,raw,pre){
  app.innerHTML=h;
  window._prog=prog;window._e=e;window._D=D;window._word=e.w;
  document.title=e.w+" — JAH Dictionary";
+ setEntrySEO(e,senses);
  wireTeacher(e,D,got.pos);
 }
 /* ================= router ================= */

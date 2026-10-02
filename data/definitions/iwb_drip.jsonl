@@ -19999,3 +19999,803 @@
 {"w":"foul-spoken","pos":"adjective","d":["Speaking in a foul or abusive manner."]}
 {"w":"foulard","pos":"noun","d":["A soft, lightweight silk fabric; also, a handkerchief made of it."]}
 {"w":"foulder","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "foule", "pos": "noun", "d": ["An archaic spelling of fowl, meaning a bird."]}
+{"w": "foumart", "pos": "noun", "d": ["An old name for the European polecat."]}
+{"w": "foundery", "pos": "noun", "d": ["An archaic spelling of foundry, a place where metal is cast."]}
+{"w": "foundress", "pos": "noun", "d": ["A woman who founds an institution or movement."]}
+{"w": "foundry", "pos": "noun", "d": ["A workshop where metal is melted and cast into shapes."]}
+{"w": "fount", "pos": "noun", "d": ["A source or spring, especially of water.", "A complete set of printing type in one style and size."]}
+{"w": "four-cornered", "pos": "adjective", "d": ["Having four corners or angles."]}
+{"w": "four-cycle", "pos": "adjective", "d": ["Operating in four strokes, as an internal-combustion engine."]}
+{"w": "four-in-hand", "pos": "noun", "d": ["A carriage drawn by four horses driven by one person.", "A knot used for tying a necktie."]}
+{"w": "four-poster", "pos": "noun", "d": ["A bed with tall posts at its four corners."]}
+{"w": "four-way", "pos": "adjective", "d": ["Allowing movement or access in four directions."]}
+{"w": "four-wheeled", "pos": "adjective", "d": ["Having four wheels."]}
+{"w": "four-wheeler", "pos": "noun", "d": ["A vehicle with four wheels, especially a small off-road vehicle."]}
+{"w": "fourb", "pos": "noun", "d": ["An archaic word for a cheat or rogue."]}
+{"w": "fourbe", "pos": "noun", "d": ["A sly or treacherous person."]}
+{"w": "fourche", "pos": "noun", "d": ["A fork or forked object."]}
+{"w": "fourchette", "pos": "noun", "d": ["The wishbone of a bird."]}
+{"w": "fourdrinier", "pos": "noun", "d": ["A machine that forms paper from pulp in a continuous sheet."]}
+{"w": "fourierism", "pos": "noun", "d": ["The socialist doctrines of Charles Fourier, based on cooperative communities called phalansteries."]}
+{"w": "fourierist", "pos": "noun", "d": ["A follower of Fourierism."]}
+{"w": "fourierite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fourneau", "pos": "noun", "d": ["A furnace or kiln."]}
+{"w": "fourrier", "pos": "noun", "d": ["One sent ahead to arrange quarters or supplies; a quartermaster."]}
+{"w": "fourteenth", "pos": "adjective", "d": ["Next after the thirteenth in order."]}
+{"w": "foussa", "pos": "noun", "d": ["An old spelling of fossa, a catlike carnivore of Madagascar."]}
+{"w": "fouter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "foutra", "pos": "interjection", "d": ["An archaic exclamation expressing contempt for something worthless."]}
+{"w": "fouty", "pos": "adjective", "d": ["Musty or stale-smelling."]}
+{"w": "fovea", "pos": "noun", "d": ["A small pit or depression, especially in the center of the retina."]}
+{"w": "foveate", "pos": "adjective", "d": ["Pitted with small depressions."]}
+{"w": "foveola", "pos": "noun", "d": ["A very small pit or depression."]}
+{"w": "foveolate", "pos": "adjective", "d": ["Marked with small pits."]}
+{"w": "fovilla", "pos": "noun", "d": ["The granular substance contained in a pollen grain."]}
+{"w": "fowl", "pos": "noun", "d": ["A bird, especially a domestic bird raised for food."]}
+{"w": "fowlerite", "pos": "noun", "d": ["A zinc-bearing variety of the mineral rhodonite."]}
+{"w": "fox-hunting", "pos": "noun", "d": ["The sport of hunting foxes with hounds."]}
+{"w": "foxery", "pos": "noun", "d": ["Craftiness or sly behavior."]}
+{"w": "foxiness", "pos": "noun", "d": ["The quality of being cunning or sly."]}
+{"w": "foxy", "pos": "adjective", "d": ["Cunning and sly.", "Attractive or stylish."]}
+{"w": "foy", "pos": "noun", "d": ["A farewell feast or parting gift."]}
+{"w": "foziness", "pos": "noun", "d": ["The state of being spongy or soft."]}
+{"w": "fozy", "pos": "adjective", "d": ["Spongy, soft, and porous."]}
+{"w": "fra", "pos": "noun", "d": ["An Italian title for a monk or friar, meaning brother."]}
+{"w": "frab", "pos": "verb", "d": ["To scold or nag."]}
+{"w": "fracas", "pos": "noun", "d": ["A noisy quarrel or brawl."]}
+{"w": "fracho", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fract", "pos": "verb", "d": ["To break or infringe."]}
+{"w": "fractious", "pos": "adjective", "d": ["Unruly and irritable."]}
+{"w": "fraenulum", "pos": "noun", "d": ["A small fold of tissue joining two parts, as under the tongue; the frenulum."]}
+{"w": "fraenum", "pos": "noun", "d": ["A frenulum; a small band of tissue."]}
+{"w": "fragility", "pos": "noun", "d": ["The quality of being easily broken."]}
+{"w": "fragment", "pos": "noun", "d": ["A broken piece or incomplete part."]}
+{"w": "fragmentarily", "pos": "adverb", "d": ["In fragments; incompletely."]}
+{"w": "fragmentariness", "pos": "noun", "d": ["The state of being fragmentary."]}
+{"w": "fragor", "pos": "noun", "d": ["A loud crash or sudden noise."]}
+{"w": "fragrancy", "pos": "noun", "d": ["Sweetness of smell; fragrance."]}
+{"w": "fraight", "pos": "verb", "d": ["An archaic form of freight, meaning to load with cargo."]}
+{"w": "frail", "pos": "adjective", "d": ["Easily broken; weak and delicate."]}
+{"w": "frailty", "pos": "noun", "d": ["Weakness of body or character."]}
+{"w": "fraischeur", "pos": "noun", "d": ["Freshness or coolness."]}
+{"w": "frambaesia", "pos": "noun", "d": ["A tropical infectious disease causing skin sores; yaws."]}
+{"w": "frame-up", "pos": "noun", "d": ["A scheme to make an innocent person appear guilty."]}
+{"w": "frampel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frampoid", "pos": "adjective", "d": ["Peevish and quarrelsome."]}
+{"w": "franc", "pos": "noun", "d": ["A former monetary unit of France and other countries."]}
+{"w": "franc-tireur", "pos": "noun", "d": ["A French irregular soldier fighting outside the regular army."]}
+{"w": "franciscan", "pos": "noun", "d": ["A member of the religious order founded by Saint Francis of Assisi."]}
+{"w": "francolin", "pos": "noun", "d": ["A partridge-like game bird of Africa and Asia."]}
+{"w": "francolite", "pos": "noun", "d": ["A mineral form of carbonate-bearing fluorapatite."]}
+{"w": "frangent", "pos": "adjective", "d": ["Breaking; that breaks."]}
+{"w": "frangibility", "pos": "noun", "d": ["The quality of being breakable."]}
+{"w": "frangible", "pos": "adjective", "d": ["Easily broken; breakable."]}
+{"w": "frangipane", "pos": "noun", "d": ["A sweet almond-flavored cream used in pastries."]}
+{"w": "frangipani", "pos": "noun", "d": ["A tropical tree with fragrant flowers; plumeria."]}
+{"w": "frangipanni", "pos": "noun", "d": ["A variant spelling of frangipani."]}
+{"w": "frangulic", "pos": "adjective", "d": ["Derived from buckthorn bark."]}
+{"w": "frangulin", "pos": "noun", "d": ["A bitter compound obtained from buckthorn bark."]}
+{"w": "franion", "pos": "noun", "d": ["An archaic word for a lover or boon companion."]}
+{"w": "frank-chase", "pos": "noun", "d": ["The right of hunting freely within certain limits."]}
+{"w": "frank-fee", "pos": "noun", "d": ["A freehold estate held without feudal service."]}
+{"w": "frank-law", "pos": "noun", "d": ["The full rights and protection of the law enjoyed by a free citizen."]}
+{"w": "frank-marriage", "pos": "noun", "d": ["A gift of land made to a bride on her marriage."]}
+{"w": "frankalmoigne", "pos": "noun", "d": ["A feudal tenure by which land was held in return for religious service."]}
+{"w": "frankfort black", "pos": "noun", "d": ["A black pigment made from charred organic matter."]}
+{"w": "franklin stove", "pos": "noun", "d": ["A cast-iron heating stove with an open front, designed by Benjamin Franklin."]}
+{"w": "franklinite", "pos": "noun", "d": ["A black mineral containing zinc, iron, and manganese."]}
+{"w": "frantic", "pos": "adjective", "d": ["Wildly excited or distraught with fear or worry."]}
+{"w": "frap", "pos": "verb", "d": ["To bind or lash tightly with rope."]}
+{"w": "frape", "pos": "verb", "d": ["An archaic word meaning to strike or beat."]}
+{"w": "frapler", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frappe", "pos": "adjective", "d": ["Served chilled or over crushed ice."]}
+{"w": "frater", "pos": "noun", "d": ["A monk or friar; a brother."]}
+{"w": "fraternal", "pos": "adjective", "d": ["Of or like a brother; brotherly."]}
+{"w": "fraternism", "pos": "noun", "d": ["The spirit or principle of brotherhood."]}
+{"w": "fraternity", "pos": "noun", "d": ["Brotherly friendship.", "A social organization of men, especially in college."]}
+{"w": "fraternization", "pos": "noun", "d": ["The act of associating in a friendly, brotherly way."]}
+{"w": "fraternize", "pos": "verb", "d": ["To associate with others in a friendly way."]}
+{"w": "fratery", "pos": "noun", "d": ["The dining hall of a monastery."]}
+{"w": "fratrage", "pos": "noun", "d": ["A share of an inheritance divided among brothers."]}
+{"w": "fratricelli", "pos": "noun", "d": ["Members of a medieval dissenting sect of Franciscans."]}
+{"w": "fratricidal", "pos": "adjective", "d": ["Relating to the murder of one's brother."]}
+{"w": "fratricide", "pos": "noun", "d": ["The killing of one's brother; one who kills his brother."]}
+{"w": "frau", "pos": "noun", "d": ["A German woman, especially a married one; wife."]}
+{"w": "fraudulence", "pos": "noun", "d": ["The quality of being fraudulent; deceitfulness."]}
+{"w": "fraudulency", "pos": "noun", "d": ["Fraudulence; deceitfulness."]}
+{"w": "fraudulent", "pos": "adjective", "d": ["Based on or involving fraud; deceitful."]}
+{"w": "fraught", "pos": "adjective", "d": ["Filled with something, especially something undesirable.", "Laden with cargo."]}
+{"w": "fraulein", "pos": "noun", "d": ["A German unmarried woman; miss."]}
+{"w": "fraunhofer lines", "pos": "noun", "d": ["Dark lines in the spectrum of the sun caused by absorption."]}
+{"w": "fraxin", "pos": "noun", "d": ["A crystalline compound obtained from the bark of the ash tree."]}
+{"w": "fraxinus", "pos": "noun", "d": ["The genus of trees comprising the ashes."]}
+{"w": "fray", "pos": "noun", "d": ["A noisy fight or brawl.", "A worn or raveled place in cloth."]}
+{"w": "frazzle", "pos": "verb", "d": ["To wear to shreds; to exhaust completely."]}
+{"w": "freak", "pos": "noun", "d": ["An odd or abnormal person, animal, or thing."]}
+{"w": "freck", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "freckle", "pos": "noun", "d": ["A small brownish spot on the skin."]}
+{"w": "free coinage", "pos": "noun", "d": ["The coining of metal into money at little or no charge."]}
+{"w": "free silver", "pos": "noun", "d": ["The unlimited coinage of silver into money, a former United States political demand."]}
+{"w": "free will", "pos": "noun", "d": ["The power of making choices without constraint."]}
+{"w": "free-denizen", "pos": "noun", "d": ["A person granted the rights of a free citizen."]}
+{"w": "free-hand", "pos": "adjective", "d": ["Drawn without the aid of instruments."]}
+{"w": "free-hearted", "pos": "adjective", "d": ["Generous and openhearted."]}
+{"w": "free-liver", "pos": "noun", "d": ["A person who indulges freely in pleasures."]}
+{"w": "free-living", "pos": "adjective", "d": ["Living freely; not parasitic."]}
+{"w": "free-love", "pos": "noun", "d": ["The doctrine that love should be free of legal marriage."]}
+{"w": "free-martin", "pos": "noun", "d": ["A female calf, usually sterile, born twin to a male."]}
+{"w": "free-milling", "pos": "adjective", "d": ["Yielding gold by simple crushing and amalgamation, as ore."]}
+{"w": "free-minded", "pos": "adjective", "d": ["Liberal in thought; open-minded."]}
+{"w": "free-soil", "pos": "adjective", "d": ["Opposed to the extension of slavery into new territories."]}
+{"w": "free-spoken", "pos": "adjective", "d": ["Speaking freely and plainly."]}
+{"w": "free-swimming", "pos": "adjective", "d": ["Swimming about freely; not attached."]}
+{"w": "free-tongued", "pos": "adjective", "d": ["Speaking freely; outspoken."]}
+{"w": "freebooter", "pos": "noun", "d": ["A pirate or plunderer."]}
+{"w": "freebootery", "pos": "noun", "d": ["Piracy; plundering."]}
+{"w": "freedman", "pos": "noun", "d": ["A man freed from slavery."]}
+{"w": "freedstool", "pos": "noun", "d": ["A seat near the altar offering sanctuary to fugitives."]}
+{"w": "freelte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "freieslebenite", "pos": "noun", "d": ["A mineral composed of lead, silver, antimony, and sulfur."]}
+{"w": "freiherr", "pos": "noun", "d": ["A German title of nobility corresponding to baron."]}
+{"w": "frejol", "pos": "noun", "d": ["A bean, especially a kidney bean."]}
+{"w": "frelte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fremd", "pos": "adjective", "d": ["Strange; foreign; not of kin."]}
+{"w": "fremed", "pos": "adjective", "d": ["A variant of fremd, meaning strange or foreign."]}
+{"w": "fremescent", "pos": "adjective", "d": ["Beginning to murmur or roar."]}
+{"w": "fremitus", "pos": "noun", "d": ["A vibration felt by touch, as on the chest wall."]}
+{"w": "fren", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frenetic", "pos": "adjective", "d": ["Frantic; frenzied."]}
+{"w": "frenum", "pos": "noun", "d": ["A small fold of tissue; the frenulum."]}
+{"w": "frenzical", "pos": "adjective", "d": ["Frenzied; frantic."]}
+{"w": "frenzy", "pos": "noun", "d": ["Wild excitement or agitation."]}
+{"w": "frequence", "pos": "noun", "d": ["An archaic form of frequency."]}
+{"w": "frequentative", "pos": "adjective", "d": ["Denoting repeated action, as a verb form."]}
+{"w": "frere", "pos": "noun", "d": ["A brother; a friar."]}
+{"w": "frescade", "pos": "noun", "d": ["A cool, shady place or walk."]}
+{"w": "fresco", "pos": "noun", "d": ["A painting made on wet plaster."]}
+{"w": "fresh-new", "pos": "adjective", "d": ["Brand new; entirely fresh."]}
+{"w": "fresh-water", "pos": "adjective", "d": ["Of or living in fresh water."]}
+{"w": "freshet", "pos": "noun", "d": ["A sudden rise or flood of a stream from rain or melting snow."]}
+{"w": "fresnel lamp", "pos": "noun", "d": ["A lamp fitted with a Fresnel lens, used in lighthouses and theaters."]}
+{"w": "fresnel lantern", "pos": "noun", "d": ["A lantern using a Fresnel lens to project light."]}
+{"w": "fresnel lens", "pos": "noun", "d": ["A lens made of concentric rings that focuses light like a much thicker lens."]}
+{"w": "fret", "pos": "verb", "d": ["To worry or be troubled in mind.", "To wear away or roughen by rubbing."]}
+{"w": "frett", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fretty", "pos": "adjective", "d": ["Covered with a pattern of interlaced bands, as in heraldry."]}
+{"w": "fretum", "pos": "noun", "d": ["A strait or narrow sea."]}
+{"w": "freya", "pos": "noun", "d": ["The Norse goddess of love and beauty."]}
+{"w": "friabiiity", "pos": "noun", "d": ["A misspelling of friability."]}
+{"w": "friable", "pos": "adjective", "d": ["Easily crumbled or broken into small pieces."]}
+{"w": "friar", "pos": "noun", "d": ["A member of a mendicant religious order."]}
+{"w": "friary", "pos": "noun", "d": ["A monastery of friars."]}
+{"w": "fribble", "pos": "noun", "d": ["A frivolous or trifling person."]}
+{"w": "friborg", "pos": "noun", "d": ["An old spelling of Fribourg, a city in Switzerland."]}
+{"w": "friborgh", "pos": "noun", "d": ["A variant spelling of Friborg."]}
+{"w": "fricace", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fricandeau", "pos": "noun", "d": ["A dish of larded and braised veal."]}
+{"w": "fricando", "pos": "noun", "d": ["A variant of fricandeau."]}
+{"w": "fricassee", "pos": "noun", "d": ["Meat stewed and served in a thickened gravy."]}
+{"w": "frication", "pos": "noun", "d": ["The act of rubbing."]}
+{"w": "fricative", "pos": "noun", "d": ["A consonant sound produced by forcing air through a narrow opening."]}
+{"w": "fricatrice", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frickle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "friction", "pos": "noun", "d": ["The rubbing of one surface against another.", "Disagreement or conflict between people."]}
+{"w": "fridstol", "pos": "noun", "d": ["A variant of freedstool, a sanctuary seat."]}
+{"w": "friendliness", "pos": "noun", "d": ["The quality of being friendly."]}
+{"w": "friese", "pos": "noun", "d": ["A native or inhabitant of Friesland; a Frisian."]}
+{"w": "friesic", "pos": "adjective", "d": ["Of or relating to Friesland or the Frisians."]}
+{"w": "friesish", "pos": "adjective", "d": ["A variant of Friesic."]}
+{"w": "frieze", "pos": "noun", "d": ["A decorated horizontal band on a building.", "A coarse woolen cloth."]}
+{"w": "frigate", "pos": "noun", "d": ["A medium-sized warship."]}
+{"w": "frigate-built", "pos": "adjective", "d": ["Built like a frigate, with a raised quarterdeck and forecastle."]}
+{"w": "frigatoon", "pos": "noun", "d": ["A small Venetian sailing vessel."]}
+{"w": "frigefaction", "pos": "noun", "d": ["The act or process of making cold."]}
+{"w": "frigefactive", "pos": "adjective", "d": ["Producing cold."]}
+{"w": "frigerate", "pos": "verb", "d": ["To make cold."]}
+{"w": "frigg", "pos": "noun", "d": ["The Norse goddess who is the wife of Odin."]}
+{"w": "frigga", "pos": "noun", "d": ["A variant of Frigg."]}
+{"w": "fright", "pos": "noun", "d": ["Sudden fear or terror."]}
+{"w": "frigid", "pos": "adjective", "d": ["Extremely cold.", "Stiff and formal in manner."]}
+{"w": "frigidarium", "pos": "noun", "d": ["The cold room of ancient Roman baths."]}
+{"w": "frigorific", "pos": "adjective", "d": ["Producing cold; cooling."]}
+{"w": "frijol", "pos": "noun", "d": ["A bean, especially one used in Mexican and Spanish cooking."]}
+{"w": "frijole", "pos": "noun", "d": ["A variant spelling of frijol, a bean used in Mexican cooking."]}
+{"w": "frill", "pos": "noun", "d": ["A gathered strip of fabric used as a decorative trimming.", "An unnecessary or showy extra."]}
+{"w": "frim", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frimaire", "pos": "noun", "d": ["The third month of the French Revolutionary calendar, the month of frost."]}
+{"w": "fringe", "pos": "noun", "d": ["A decorative border of hanging threads or strips.", "The outer edge or margin of something, or the people on the margins of a group."]}
+{"w": "fringe tree", "pos": "phrase", "d": ["A shrub or small tree with white, fringe-like blossoms."]}
+{"w": "fringent", "pos": "adjective", "d": ["Bearing a fringe of small hair-like processes."]}
+{"w": "fringilla", "pos": "noun", "d": ["A genus of finches that includes the chaffinches."]}
+{"w": "fringillaceous", "pos": "adjective", "d": ["Relating to the finch family Fringillidae."]}
+{"w": "fringilline", "pos": "adjective", "d": ["Relating to or resembling finches."]}
+{"w": "fringy", "pos": "adjective", "d": ["Having or decorated with a fringe."]}
+{"w": "fripper", "pos": "noun", "d": ["A dealer in old or secondhand clothes."]}
+{"w": "frippery", "pos": "noun", "d": ["Showy, trivial, or worthless finery."]}
+{"w": "frisette", "pos": "noun", "d": ["A small crisp curl or frizzed tuft of hair."]}
+{"w": "friseur", "pos": "noun", "d": ["A hairdresser."]}
+{"w": "frisian", "pos": "adjective", "d": ["Relating to Friesland, its people, or its language."]}
+{"w": "frisk", "pos": "verb", "d": ["To move about playfully; to gambol.", "To search a person for hidden weapons or contraband."]}
+{"w": "frisket", "pos": "noun", "d": ["A protective paper frame used in printing to keep ink off the margins of a sheet."]}
+{"w": "friskily", "pos": "adverb", "d": ["In a playful and lively manner."]}
+{"w": "friskiness", "pos": "noun", "d": ["Playful liveliness."]}
+{"w": "frisky", "pos": "adjective", "d": ["Playful and full of energy."]}
+{"w": "frislet", "pos": "noun", "d": ["A small crisp curl of hair."]}
+{"w": "frist", "pos": "noun", "d": ["A delay or postponement."]}
+{"w": "frisure", "pos": "noun", "d": ["An arrangement of crisped or frizzed hair."]}
+{"w": "frit", "pos": "noun", "d": ["A partly fused glassy material used in making glass, enamel, and pottery."]}
+{"w": "frith", "pos": "noun", "d": ["A narrow inlet of the sea; a firth.", "A wooded area or thicket."]}
+{"w": "frithy", "pos": "adjective", "d": ["Wooded; full of thickets."]}
+{"w": "fritillaria", "pos": "noun", "d": ["A genus of bulbous plants with bell-shaped, often checkered flowers."]}
+{"w": "fritillary", "pos": "noun", "d": ["A plant of the genus Fritillaria, or a butterfly with checkered orange-and-black wings."]}
+{"w": "fritinancy", "pos": "noun", "d": ["The chirping sound made by crickets and similar insects."]}
+{"w": "frivol", "pos": "verb", "d": ["To act frivolously; to trifle."]}
+{"w": "friz", "pos": "noun", "d": ["A tight curl of hair; a frizz."]}
+{"w": "frize", "pos": "noun", "d": ["A coarse, shaggy woollen cloth.", "An ornamental horizontal band on a wall or building; a frieze."]}
+{"w": "frizel", "pos": "noun", "d": ["A small frizzed curl of hair."]}
+{"w": "frizz", "pos": "noun", "d": ["A mass of tight, small curls of hair."]}
+{"w": "frizzle", "pos": "verb", "d": ["To fry with a sizzling sound.", "To form into tight curls."]}
+{"w": "frizzy", "pos": "adjective", "d": ["Full of tight, small curls."]}
+{"w": "fro", "pos": "adverb", "d": ["From; away, as in to and fro."]}
+{"w": "frock", "pos": "noun", "d": ["A loose gown or dress.", "A monk's or priest's gown."]}
+{"w": "froe", "pos": "noun", "d": ["A wedge-shaped tool used for splitting wood."]}
+{"w": "froebelian", "pos": "adjective", "d": ["Relating to Friedrich Froebel or his kindergarten system of education."]}
+{"w": "frog-eyed", "pos": "adjective", "d": ["Having large, bulging eyes like a frog's."]}
+{"w": "froggy", "pos": "adjective", "d": ["Like or resembling a frog."]}
+{"w": "frogs-bit", "pos": "noun", "d": ["An aquatic plant with small floating leaves."]}
+{"w": "frolic", "pos": "verb", "d": ["To play about in a lively, merry way.", "A merry bout of play; a prank."]}
+{"w": "frolicky", "pos": "adjective", "d": ["Playful and fond of frolicking."]}
+{"w": "frond", "pos": "noun", "d": ["The leaf of a fern or palm."]}
+{"w": "fronde", "pos": "noun", "d": ["A mid-17th-century French civil uprising against the monarchy.", "A sling for throwing stones."]}
+{"w": "frondesce", "pos": "verb", "d": ["To put forth leaves or fronds."]}
+{"w": "frondescence", "pos": "noun", "d": ["The act of leafing out; the foliage of a plant."]}
+{"w": "frondeur", "pos": "noun", "d": ["A member of the Fronde; a rebel against authority."]}
+{"w": "frondiferous", "pos": "adjective", "d": ["Bearing fronds."]}
+{"w": "frondose", "pos": "adjective", "d": ["Bearing fronds; leafy."]}
+{"w": "frons", "pos": "noun", "d": ["The forehead; the front part of the head, especially in insects."]}
+{"w": "frontiersman", "pos": "noun", "d": ["A person who lives or has lived on a frontier, especially a pioneer settler."]}
+{"w": "frontignac", "pos": "noun", "d": ["A sweet muscat wine from Frontignan, France."]}
+{"w": "frontignan", "pos": "noun", "d": ["A sweet muscat wine made at Frontignan, France; the muscat grape used for it."]}
+{"w": "frontingly", "pos": "adverb", "d": ["In a fronting position; facing forward."]}
+{"w": "frontiniac", "pos": "noun", "d": ["A variant name for frontignac, the sweet muscat wine of Frontignan."]}
+{"w": "frontispiece", "pos": "noun", "d": ["An illustration facing the title page of a book.", "The decorated front of a building."]}
+{"w": "fronto-", "pos": "prefix", "d": ["A prefix meaning the forehead or the frontal bone, as in frontonasal."]}
+{"w": "fronton", "pos": "noun", "d": ["A pediment; a decorative triangular gable.", "The walled court or front wall used in Basque pelota."]}
+{"w": "froppish", "pos": "adjective", "d": ["Peevish; fretful and cross."]}
+{"w": "frore", "pos": "adjective", "d": ["Frosty; frozen."]}
+{"w": "frorn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frory", "pos": "adjective", "d": ["Frosty; covered with frost."]}
+{"w": "frost signal", "pos": "phrase", "d": ["A warning signal displayed to announce coming frost."]}
+{"w": "frost-bitten", "pos": "adjective", "d": ["Injured or damaged by frost."]}
+{"w": "frost-blite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frostily", "pos": "adverb", "d": ["In a frosty manner; coldly."]}
+{"w": "frostiness", "pos": "noun", "d": ["The state of being frosty; coldness of manner."]}
+{"w": "frote", "pos": "verb", "d": ["To rub."]}
+{"w": "froterer", "pos": "noun", "d": ["One who rubs, especially in giving a massage."]}
+{"w": "froth", "pos": "noun", "d": ["A mass of small bubbles on the surface of a liquid; foam.", "Light, trivial talk."]}
+{"w": "frothily", "pos": "adverb", "d": ["In a frothy manner."]}
+{"w": "frothiness", "pos": "noun", "d": ["The quality of being frothy; triviality."]}
+{"w": "froufrou", "pos": "noun", "d": ["The rustling of skirts or silk.", "Frilly, showy ornamentation."]}
+{"w": "frouzy", "pos": "adjective", "d": ["Musty-smelling and dingy; slovenly."]}
+{"w": "frow", "pos": "noun", "d": ["A woman, especially a Dutch or German woman.", "A cleaving tool for splitting wood; a froe."]}
+{"w": "frown", "pos": "verb", "d": ["To wrinkle the brow in displeasure or concentration.", "A stern, disapproving facial expression."]}
+{"w": "frowningly", "pos": "adverb", "d": ["With a frown; in a disapproving manner."]}
+{"w": "frowny", "pos": "adjective", "d": ["Frowning; scowling."]}
+{"w": "frowy", "pos": "adjective", "d": ["Musty and unkempt."]}
+{"w": "frowzy", "pos": "adjective", "d": ["Musty-smelling, dingy, and slovenly."]}
+{"w": "froze", "pos": "verb", "d": ["Past tense of freeze."]}
+{"w": "frubish", "pos": "verb", "d": ["To polish; to furbish."]}
+{"w": "fructed", "pos": "adjective", "d": ["Bearing fruit, as in heraldry."]}
+{"w": "fructescence", "pos": "noun", "d": ["The act of coming into fruit; fruiting."]}
+{"w": "fructiculose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fructidor", "pos": "noun", "d": ["The twelfth month of the French Revolutionary calendar, the month of fruit."]}
+{"w": "fructiferuos", "pos": "adjective", "d": ["A misspelling of fructiferous, meaning bearing fruit."]}
+{"w": "fructification", "pos": "noun", "d": ["The act of producing fruit.", "The fruiting organs of a plant."]}
+{"w": "fructify", "pos": "verb", "d": ["To make fruitful.", "To bear fruit."]}
+{"w": "fructose", "pos": "noun", "d": ["A simple sugar found in fruit and honey."]}
+{"w": "fructuary", "pos": "noun", "d": ["One who has the use and profits of another's property."]}
+{"w": "fructuation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fructuous", "pos": "adjective", "d": ["Fruitful; productive."]}
+{"w": "fructure", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frue vanner", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frugal", "pos": "adjective", "d": ["Thrifty and economical; sparing in spending."]}
+{"w": "frugiferous", "pos": "adjective", "d": ["Bearing fruit."]}
+{"w": "frugivora", "pos": "noun", "d": ["Fruit-eating animals considered as a group."]}
+{"w": "frugivorous", "pos": "adjective", "d": ["Feeding on fruit."]}
+{"w": "fruiteress", "pos": "noun", "d": ["A woman who sells or deals in fruit."]}
+{"w": "fruitery", "pos": "noun", "d": ["A place where fruit is stored."]}
+{"w": "fruitestere", "pos": "noun", "d": ["A woman who sells fruit."]}
+{"w": "fruity", "pos": "adjective", "d": ["Tasting or smelling of fruit.", "Slightly eccentric or odd."]}
+{"w": "frumentaceous", "pos": "adjective", "d": ["Relating to wheat or grain."]}
+{"w": "frumentarious", "pos": "adjective", "d": ["Relating to grain or corn."]}
+{"w": "frumentation", "pos": "noun", "d": ["A distribution of free grain, as in ancient Rome."]}
+{"w": "frumenty", "pos": "noun", "d": ["A dish of wheat boiled in milk with spices."]}
+{"w": "frump", "pos": "noun", "d": ["A dowdy, unattractive woman; a cross old woman."]}
+{"w": "frush", "pos": "noun", "d": ["The frog of a horse's hoof, the V-shaped horny part."]}
+{"w": "frustrable", "pos": "adjective", "d": ["Capable of being frustrated."]}
+{"w": "frustraneous", "pos": "adjective", "d": ["Vain; useless; unprofitable."]}
+{"w": "frustrate", "pos": "verb", "d": ["To defeat or disappoint; to make vain.", "Vain; ineffectual."]}
+{"w": "frustration", "pos": "noun", "d": ["The act of frustrating; the feeling of being thwarted."]}
+{"w": "frustrative", "pos": "adjective", "d": ["Tending to frustrate."]}
+{"w": "frustratory", "pos": "adjective", "d": ["Tending to frustrate; disappointing."]}
+{"w": "frustule", "pos": "noun", "d": ["The siliceous shell of a diatom."]}
+{"w": "frustulent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frustum", "pos": "noun", "d": ["The part of a solid, such as a cone, lying between two parallel cutting planes."]}
+{"w": "frutage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "frutescent", "pos": "adjective", "d": ["Becoming shrubby; somewhat like a shrub."]}
+{"w": "frutex", "pos": "noun", "d": ["A shrub; a woody plant."]}
+{"w": "fruticant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fruticose", "pos": "adjective", "d": ["Shrubby; having the form of a shrub."]}
+{"w": "fruticous", "pos": "adjective", "d": ["Shrubby; like a shrub."]}
+{"w": "fruticulose", "pos": "adjective", "d": ["Somewhat shrubby."]}
+{"w": "fry", "pos": "verb", "d": ["To cook in hot fat.", "Small, young fish."]}
+{"w": "fuage", "pos": "noun", "d": ["A tax levied on each house or hearth."]}
+{"w": "fuar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fub", "pos": "verb", "d": ["To put off deceitfully; to fob."]}
+{"w": "fubbery", "pos": "noun", "d": ["Cheating; deception."]}
+{"w": "fubby", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fubsy", "pos": "adjective", "d": ["Short, stout, and plump."]}
+{"w": "fucate", "pos": "adjective", "d": ["Colored or painted, especially with rouge.", "To paint; to color."]}
+{"w": "fuchs", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fuchsia", "pos": "noun", "d": ["A shrub with drooping red and purple flowers.", "A vivid reddish-purple color."]}
+{"w": "fuchsine", "pos": "noun", "d": ["A magenta dye made from aniline."]}
+{"w": "fucivorous", "pos": "adjective", "d": ["Feeding on seaweed."]}
+{"w": "fucoid", "pos": "adjective", "d": ["Resembling seaweed.", "A fossil resembling seaweed."]}
+{"w": "fucus", "pos": "noun", "d": ["A genus of brown seaweeds, the rockweeds.", "A red cosmetic used in ancient times."]}
+{"w": "fucusol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fud", "pos": "noun", "d": ["The tail of a hare or rabbit."]}
+{"w": "fuddle", "pos": "verb", "d": ["To confuse or stupefy with drink.", "A drinking bout."]}
+{"w": "fudge", "pos": "noun", "d": ["A soft, rich candy made with sugar and flavoring.", "Nonsense; foolish talk.", "To fake or falsify something, as accounts."]}
+{"w": "fudge wheel", "pos": "phrase", "d": ["A joiner's toothed wheel for impressing ornamental patterns."]}
+{"w": "fuegian", "pos": "adjective", "d": ["Relating to Tierra del Fuego or its inhabitants."]}
+{"w": "fuero", "pos": "noun", "d": ["A Spanish charter, law, or grant of privileges."]}
+{"w": "fuff", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fuffy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fuga", "pos": "noun", "d": ["A fugue; a musical composition in fugal style."]}
+{"w": "fugacy", "pos": "noun", "d": ["The quality of being fugacious; fleetingness."]}
+{"w": "fugato", "pos": "adjective", "d": ["In the style of a fugue, but not a strict fugue."]}
+{"w": "fugh", "pos": "interjection", "d": ["An exclamation of disgust or contempt."]}
+{"w": "fughetta", "pos": "noun", "d": ["A short fugue."]}
+{"w": "fugitive", "pos": "adjective", "d": ["Fleeing or having fled.", "Fleeting; lasting a short time.", "A person who flees."]}
+{"w": "fugle", "pos": "verb", "d": ["To act as a fugleman; to lead or guide."]}
+{"w": "fugue", "pos": "noun", "d": ["A musical composition in which voices enter successively with the same theme.", "A mental state in which a person loses awareness of identity and may wander."]}
+{"w": "fuguist", "pos": "noun", "d": ["One skilled in composing or performing fugues."]}
+{"w": "fulahs", "pos": "noun", "d": ["Members of the Fulani people of West Africa."]}
+{"w": "fulbe", "pos": "noun", "d": ["The Fulani people of West Africa."]}
+{"w": "fulcible", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fulciment", "pos": "noun", "d": ["A prop; a support."]}
+{"w": "fulcra", "pos": "noun", "d": ["Plural of fulcrum."]}
+{"w": "fulcrate", "pos": "adjective", "d": ["Having a fulcrum."]}
+{"w": "fulcrum", "pos": "noun", "d": ["The pivot on which a lever turns.", "A means of support or a source of power."]}
+{"w": "fulfill", "pos": "verb", "d": ["To carry out or bring to completion; to satisfy."]}
+{"w": "fulgency", "pos": "noun", "d": ["Brightness; splendor."]}
+{"w": "fulgent", "pos": "adjective", "d": ["Shining brightly."]}
+{"w": "fulgid", "pos": "adjective", "d": ["Shining; glittering."]}
+{"w": "fulgor", "pos": "noun", "d": ["Brightness; splendor."]}
+{"w": "fulgurant", "pos": "adjective", "d": ["Flashing like lightning."]}
+{"w": "fulgurata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fulgurate", "pos": "verb", "d": ["To flash like lightning."]}
+{"w": "fulguration", "pos": "noun", "d": ["A flash of lightning.", "The destruction of tissue by electric sparks, as in surgery."]}
+{"w": "fulgurite", "pos": "noun", "d": ["A glassy tube formed in sand or rock by a lightning strike."]}
+{"w": "fulgury", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fulham", "pos": "noun", "d": ["A loaded die."]}
+{"w": "fuliginosity", "pos": "noun", "d": ["Sootiness."]}
+{"w": "fuliginous", "pos": "adjective", "d": ["Sooty; of a smoky color."]}
+{"w": "fulimart", "pos": "noun", "d": ["The European polecat."]}
+{"w": "full house", "pos": "phrase", "d": ["A poker hand containing three of a kind and a pair.", "A theater or hall filled to capacity."]}
+{"w": "full-blooded", "pos": "adjective", "d": ["Of pure breed or descent.", "Vigorous and hearty."]}
+{"w": "full-bloomed", "pos": "adjective", "d": ["In full bloom."]}
+{"w": "full-blown", "pos": "adjective", "d": ["Fully developed; at full strength."]}
+{"w": "full-bottomed", "pos": "adjective", "d": ["Having a full, flowing bottom, as a wig."]}
+{"w": "full-butt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "full-drive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "full-formed", "pos": "adjective", "d": ["Fully developed in form."]}
+{"w": "full-grown", "pos": "adjective", "d": ["Having reached full size or maturity."]}
+{"w": "full-hearted", "pos": "adjective", "d": ["Sincere and hearty."]}
+{"w": "full-hot", "pos": "adjective", "d": ["Fully hot; at full heat."]}
+{"w": "full-manned", "pos": "adjective", "d": ["Having a full crew."]}
+{"w": "full-orbed", "pos": "adjective", "d": ["Having a full, round disc, as the full moon."]}
+{"w": "full-sailed", "pos": "adjective", "d": ["With all sails set."]}
+{"w": "full-winged", "pos": "adjective", "d": ["Having fully developed wings; flying at full speed."]}
+{"w": "fullam", "pos": "noun", "d": ["A loaded die; a variant of fulham."]}
+{"w": "fullery", "pos": "noun", "d": ["A workshop where cloth is cleansed and thickened by fulling."]}
+{"w": "fullonical", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fulmar", "pos": "noun", "d": ["A gray-and-white seabird of northern oceans, related to the petrels."]}
+{"w": "fulminant", "pos": "adjective", "d": ["Developing suddenly and with explosive severity, especially of a disease."]}
+{"w": "fulminate", "pos": "verb", "d": ["To explode violently with a loud noise.", "To utter bitter and vehement denunciation."]}
+{"w": "fulmination", "pos": "noun", "d": ["A violent explosion.", "A bitter verbal denunciation."]}
+{"w": "fulminatory", "pos": "adjective", "d": ["Explosive or thunderous in character.", "Expressing bitter condemnation."]}
+{"w": "fulmine", "pos": "verb", "d": ["To hurl forth violently, as thunder or denunciation."]}
+{"w": "fulminic", "pos": "adjective", "d": ["Of or relating to fulminic acid or its explosive salts."]}
+{"w": "fulminuric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fulness", "pos": "noun", "d": ["The state or quality of being full."]}
+{"w": "fulsamic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fulsome", "pos": "adjective", "d": ["Excessively flattering to the point of disgust.", "Abundant to excess; copious."]}
+{"w": "fulvid", "pos": "adjective", "d": ["Tawny; of a dull yellow or brownish-yellow color."]}
+{"w": "fulvous", "pos": "adjective", "d": ["Dull yellow; tawny in color."]}
+{"w": "fum", "pos": "noun", "d": ["Smoke or fume rising in the air."]}
+{"w": "fumacious", "pos": "adjective", "d": ["Smoky in character; producing smoke."]}
+{"w": "fumade", "pos": "noun", "d": ["Meat or fish preserved by smoking."]}
+{"w": "fumarate", "pos": "noun", "d": ["A salt or ester of fumaric acid."]}
+{"w": "fumaric", "pos": "adjective", "d": ["Of or relating to fumaric acid, a white crystalline acid found in plants."]}
+{"w": "fumarine", "pos": "noun", "d": ["A bitter alkaloid obtained from the fumitory plant."]}
+{"w": "fumarole", "pos": "noun", "d": ["An opening in the earth that emits hot gases and vapors, found near volcanoes."]}
+{"w": "fumatorium", "pos": "noun", "d": ["A room or place used for fumigation."]}
+{"w": "fumatory", "pos": "noun", "d": ["A place or opening for the escape of smoke."]}
+{"w": "fumble", "pos": "verb", "d": ["To handle or grope for something clumsily.", "To make an awkward mistake, as by dropping a ball."]}
+{"w": "fumblingly", "pos": "adverb", "d": ["In a clumsy and awkward manner."]}
+{"w": "fume", "pos": "noun", "d": ["Smoke, vapor, or gas, often with a strong odor.", "A fit of angry agitation."]}
+{"w": "fumed oak", "pos": "phrase", "d": ["Oak darkened by exposure to ammonia fumes to a deep brown color."]}
+{"w": "fumet", "pos": "noun", "d": ["The rich aroma of well-hung game, or a concentrated stock made from it."]}
+{"w": "fumid", "pos": "adjective", "d": ["Smoky or vaporous in nature."]}
+{"w": "fumiferous", "pos": "adjective", "d": ["Producing or carrying smoke."]}
+{"w": "fumifugist", "pos": "noun", "d": ["One who drives away or disperses fumes."]}
+{"w": "fumigant", "pos": "noun", "d": ["A substance that gives off fumes used to kill pests or disinfect."]}
+{"w": "fumigate", "pos": "verb", "d": ["To expose to fumes or smoke in order to disinfect or destroy pests."]}
+{"w": "fumigation", "pos": "noun", "d": ["The act of disinfecting or purifying with fumes."]}
+{"w": "fumigator", "pos": "noun", "d": ["A person or device that carries out fumigation."]}
+{"w": "fumigatory", "pos": "adjective", "d": ["Pertaining to fumigation."]}
+{"w": "fumily", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fumitory", "pos": "noun", "d": ["A delicate plant with small pinkish flowers, once used in medicine."]}
+{"w": "fummel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fumosity", "pos": "noun", "d": ["The quality of being full of fumes; smokiness."]}
+{"w": "fumy", "pos": "adjective", "d": ["Full of fumes; smoky."]}
+{"w": "funambulist", "pos": "noun", "d": ["A tightrope walker."]}
+{"w": "funambulo", "pos": "noun", "d": ["A performer who walks on a tightrope."]}
+{"w": "funambulus", "pos": "noun", "d": ["A rope-walker; a tightrope performer."]}
+{"w": "fundus", "pos": "noun", "d": ["The base or bottom of a hollow organ, as of the eye or the uterus."]}
+{"w": "funebrial", "pos": "adjective", "d": ["Relating to a funeral; funereal."]}
+{"w": "funerate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "funeration", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "funereal", "pos": "adjective", "d": ["Pertaining to a funeral; solemn and mournful in manner."]}
+{"w": "fungal", "pos": "adjective", "d": ["Of or relating to fungi."]}
+{"w": "funge", "pos": "noun", "d": ["A fungus; a mushroom or similar organism."]}
+{"w": "fungi", "pos": "noun", "d": ["The plural of fungus."]}
+{"w": "fungi imperfecti", "pos": "phrase", "d": ["A former grouping of fungi whose sexual reproductive stage is unknown."]}
+{"w": "fungia", "pos": "noun", "d": ["A genus of mushroom-shaped stony corals."]}
+{"w": "fungian", "pos": "adjective", "d": ["Of or relating to the coral genus Fungia."]}
+{"w": "fungibles", "pos": "noun", "d": ["Things that are mutually interchangeable, each unit serving as well as another."]}
+{"w": "fungic", "pos": "adjective", "d": ["Of the nature of a fungus; fungal."]}
+{"w": "fungilliform", "pos": "adjective", "d": ["Shaped like a small fungus; mushroom-shaped."]}
+{"w": "fungivorous", "pos": "adjective", "d": ["Feeding on fungi."]}
+{"w": "fungoid", "pos": "adjective", "d": ["Resembling a fungus."]}
+{"w": "fungologist", "pos": "noun", "d": ["A person who studies fungi."]}
+{"w": "fungology", "pos": "noun", "d": ["The scientific study of fungi."]}
+{"w": "fungosity", "pos": "noun", "d": ["A soft, spongy fungal growth."]}
+{"w": "fungous", "pos": "adjective", "d": ["Of the nature of a fungus; spongy and quick-growing."]}
+{"w": "fungus", "pos": "noun", "d": ["Any of a group of spore-producing organisms, including mushrooms, molds, and yeasts, that feed on decaying organic matter."]}
+{"w": "funicle", "pos": "noun", "d": ["A small cord or fiber; in botany, the stalk attaching an ovule to the ovary wall."]}
+{"w": "funicular", "pos": "noun", "d": ["A cable railway climbing a steep slope, with cars drawn by cables."]}
+{"w": "funiculate", "pos": "adjective", "d": ["Formed like a small cord; cordlike."]}
+{"w": "funiculus", "pos": "noun", "d": ["A cordlike structure, as a bundle of nerve fibers or the umbilical cord."]}
+{"w": "funiliform", "pos": "adjective", "d": ["Shaped like a cord; cordlike in form."]}
+{"w": "funis", "pos": "noun", "d": ["A cord, especially the umbilical cord."]}
+{"w": "funnel", "pos": "noun", "d": ["A utensil with a wide mouth narrowing to a tube, used for pouring liquids into small openings.", "A smokestack or chimney, as of a ship or locomotive."]}
+{"w": "furacious", "pos": "adjective", "d": ["Given to theft; thievish."]}
+{"w": "furacity", "pos": "noun", "d": ["The quality of being thievish; a disposition to steal."]}
+{"w": "furciferous", "pos": "adjective", "d": ["Bearing forked parts or appendages."]}
+{"w": "furcula", "pos": "noun", "d": ["The forked bone in a bird's breast; the wishbone."]}
+{"w": "furcular", "pos": "adjective", "d": ["Relating to the furcula or wishbone."]}
+{"w": "furculum", "pos": "noun", "d": ["The furcula; the wishbone."]}
+{"w": "furdle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "furfuraceous", "pos": "adjective", "d": ["Covered with branlike scales or scurf; scaly."]}
+{"w": "furfuran", "pos": "noun", "d": ["A colorless, volatile liquid obtained from bran and other plant matter, used in making resins."]}
+{"w": "furfurine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "furfurol", "pos": "noun", "d": ["An oily liquid distilled from bran, used as a solvent and in making resins."]}
+{"w": "furibundal", "pos": "adjective", "d": ["Raging; full of fury."]}
+{"w": "furilic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "furioso", "pos": "adverb", "d": ["In music, played with fury and impetuosity."]}
+{"w": "furl", "pos": "verb", "d": ["To roll up and secure, as a sail or flag."]}
+{"w": "furmonty", "pos": "noun", "d": ["A dish of boiled wheat or other grain, often sweetened."]}
+{"w": "furnace", "pos": "noun", "d": ["An enclosed chamber in which fuel is burned to produce intense heat."]}
+{"w": "furniment", "pos": "noun", "d": ["Furniture; that with which a place is furnished."]}
+{"w": "furnish", "pos": "verb", "d": ["To supply with what is needed; to equip or provide."]}
+{"w": "furoin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "furriery", "pos": "noun", "d": ["The trade of a furrier; furs collectively."]}
+{"w": "furrowy", "pos": "adjective", "d": ["Full of furrows; marked with grooves."]}
+{"w": "furry", "pos": "adjective", "d": ["Covered with fur; resembling fur."]}
+{"w": "furthest", "pos": "adjective", "d": ["At the greatest distance; most remote."]}
+{"w": "furtive", "pos": "adjective", "d": ["Done secretly to avoid notice; stealthy."]}
+{"w": "furuncular", "pos": "adjective", "d": ["Relating to a furuncle or boil."]}
+{"w": "fury", "pos": "noun", "d": ["Violent anger; rage.", "An avenging deity; one of the Furies of classical myth."]}
+{"w": "furze", "pos": "noun", "d": ["A spiny evergreen shrub with bright yellow flowers; gorse."]}
+{"w": "furzen", "pos": "adjective", "d": ["Made of furze."]}
+{"w": "furzy", "pos": "adjective", "d": ["Abounding in furze; covered with furze."]}
+{"w": "fusain", "pos": "noun", "d": ["A soft charcoal stick used by artists for sketching.", "Fossilized charcoal found in coal beds."]}
+{"w": "fusarole", "pos": "noun", "d": ["A small ornamental molding resembling a string of beads."]}
+{"w": "fuscation", "pos": "noun", "d": ["The act of making dark; darkening."]}
+{"w": "fuscin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fuscine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fuscous", "pos": "adjective", "d": ["Dark brown or dusky in color."]}
+{"w": "fuse", "pos": "verb", "d": ["To join or blend together by melting or heating.", "To melt with heat."]}
+{"w": "fuse plug", "pos": "phrase", "d": ["A plug containing a fusible wire that melts to break an electric circuit."]}
+{"w": "fusee", "pos": "noun", "d": ["A conical pulley in old clockwork that equalizes the pull of the mainspring.", "A friction match or colored signal flare."]}
+{"w": "fusel", "pos": "noun", "d": ["Fusel oil; the mixture of volatile alcohols left after distilling spirits."]}
+{"w": "fusel oil", "pos": "phrase", "d": ["An oily, foul-smelling mixture of alcohols produced during fermentation, a byproduct of distillation."]}
+{"w": "fusibility", "pos": "noun", "d": ["The quality of being fusible; the capability of being melted."]}
+{"w": "fusible", "pos": "adjective", "d": ["Capable of being melted or fused."]}
+{"w": "fusiform", "pos": "adjective", "d": ["Spindle-shaped; tapering toward both ends."]}
+{"w": "fusil", "pos": "noun", "d": ["A light flintlock musket formerly used by light infantry."]}
+{"w": "fusile", "pos": "adjective", "d": ["Capable of being melted; fusible."]}
+{"w": "fusilier", "pos": "noun", "d": ["A soldier armed with a fusil; a member of certain infantry regiments."]}
+{"w": "fusome", "pos": "noun", "d": ["A branched, spindle-shaped structure in the developing germ cells of insects."]}
+{"w": "fuss", "pos": "noun", "d": ["A needless bustle or commotion over a trifle."]}
+{"w": "fussily", "pos": "adverb", "d": ["In a fussy manner; with needless attention to trifles."]}
+{"w": "fussiness", "pos": "noun", "d": ["The quality of being fussy; excessive attention to small details."]}
+{"w": "fussy", "pos": "adjective", "d": ["Given to fussing; hard to please about small matters."]}
+{"w": "fust", "pos": "noun", "d": ["The shaft of a column."]}
+{"w": "fustet", "pos": "noun", "d": ["A yellow dyewood obtained from the smoke tree, used for dyeing."]}
+{"w": "fustian", "pos": "noun", "d": ["A coarse cotton fabric with a nap, such as corduroy or velveteen.", "Pompous or inflated language."]}
+{"w": "fustigate", "pos": "verb", "d": ["To beat with a cudgel."]}
+{"w": "fustigation", "pos": "noun", "d": ["A beating with a stick; punishment by cudgeling."]}
+{"w": "fustilarian", "pos": "noun", "d": ["A coarse, low fellow; a scoundrel."]}
+{"w": "fustilug", "pos": "noun", "d": ["A fat, clumsy, slovenly person."]}
+{"w": "fustiness", "pos": "noun", "d": ["The state of being fusty; mustiness."]}
+{"w": "fusty", "pos": "adjective", "d": ["Musty; smelling stale and damp."]}
+{"w": "fusure", "pos": "noun", "d": ["The act of fusing or melting."]}
+{"w": "futchel", "pos": "noun", "d": ["One of the pieces of a carriage frame to which the shafts are attached."]}
+{"w": "futhorc", "pos": "noun", "d": ["The alphabet of runic characters used by early Germanic peoples."]}
+{"w": "futhork", "pos": "noun", "d": ["The runic alphabet; futhorc."]}
+{"w": "futile", "pos": "adjective", "d": ["Incapable of producing any result; useless."]}
+{"w": "futility", "pos": "noun", "d": ["The quality of being futile; uselessness."]}
+{"w": "futilous", "pos": "adjective", "d": ["Futile; of little importance."]}
+{"w": "futtock", "pos": "noun", "d": ["One of the curved timbers forming part of a ship's frame."]}
+{"w": "futurism", "pos": "noun", "d": ["An early 20th-century art movement glorifying speed, machinery, and modern life."]}
+{"w": "futurist", "pos": "noun", "d": ["An adherent of futurism; also one who studies or predicts the future."]}
+{"w": "futurition", "pos": "noun", "d": ["The quality of being yet to come."]}
+{"w": "futurity", "pos": "noun", "d": ["Future time; the time to come.", "A future event or possibility."]}
+{"w": "fuze", "pos": "noun", "d": ["A device for detonating an explosive charge."]}
+{"w": "fuze plug", "pos": "phrase", "d": ["A plug containing the fuze mechanism of a shell."]}
+{"w": "fuzz", "pos": "noun", "d": ["Fine, soft, downy hairs or fibers."]}
+{"w": "fuzzle", "pos": "verb", "d": ["To confuse or stupefy, as with liquor."]}
+{"w": "fyke", "pos": "noun", "d": ["A bag-shaped fishing net held open by hoops."]}
+{"w": "fyllot", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fyrd", "pos": "noun", "d": ["The military levy of Anglo-Saxon England; the army of freemen."]}
+{"w": "fyrdung", "pos": "noun", "d": ["Military service in the Anglo-Saxon fyrd."]}
+{"w": "fytte", "pos": "noun", "d": ["A division or canto of a poem; a song."]}
+{"w": "gab", "pos": "noun", "d": ["Idle talk; chatter."]}
+{"w": "gabarage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gabardine", "pos": "noun", "d": ["A closely woven twill fabric used for suits and coats.", "A long, loose cloak."]}
+{"w": "gabble", "pos": "verb", "d": ["To talk rapidly and incoherently; to chatter."]}
+{"w": "gabbro", "pos": "noun", "d": ["A dark, coarse-grained igneous rock."]}
+{"w": "gabel", "pos": "noun", "d": ["A tax, especially the salt tax of old France."]}
+{"w": "gabelle", "pos": "noun", "d": ["The salt tax levied in France before the Revolution."]}
+{"w": "gaber-lunzie", "pos": "noun", "d": ["A wandering beggar, especially one formerly licensed in Scotland."]}
+{"w": "gaberdine", "pos": "noun", "d": ["A long, loose outer garment; a coarse frock."]}
+{"w": "gabert", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gabionade", "pos": "noun", "d": ["A defensive work formed of gabions."]}
+{"w": "gabionnade", "pos": "noun", "d": ["A gabionade; a structure made of gabions."]}
+{"w": "gable", "pos": "noun", "d": ["The triangular upper part of a wall between the sloping ends of a roof."]}
+{"w": "gaby", "pos": "noun", "d": ["A simpleton; a foolish person."]}
+{"w": "gad", "pos": "verb", "d": ["To wander about restlessly in search of amusement."]}
+{"w": "gade", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gadhelic", "pos": "adjective", "d": ["Of or relating to the Scottish Gaelic language."]}
+{"w": "gaditanian", "pos": "adjective", "d": ["Of or relating to Cadiz, Spain."]}
+{"w": "gadoid", "pos": "adjective", "d": ["Belonging to the cod family of fishes."]}
+{"w": "gadolinia", "pos": "noun", "d": ["Gadolinium oxide; a rare-earth oxide."]}
+{"w": "gadolinic", "pos": "adjective", "d": ["Relating to gadolinium or gadolinia."]}
+{"w": "gadolinite", "pos": "noun", "d": ["A black mineral containing rare-earth elements."]}
+{"w": "gadolinium", "pos": "noun", "d": ["A soft, silvery rare-earth metallic element."]}
+{"w": "gadre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gadsman", "pos": "noun", "d": ["One who drives cattle with a goad."]}
+{"w": "gaduin", "pos": "noun", "d": ["An organic substance obtained from cod-liver oil."]}
+{"w": "gaekwar", "pos": "noun", "d": ["The title of the former Maratha rulers of Baroda, India."]}
+{"w": "gael", "pos": "noun", "d": ["A Gaelic-speaking Celt of Scotland or Ireland."]}
+{"w": "gaff", "pos": "noun", "d": ["A barbed spear or hook used for landing fish.", "A spar extending from a mast to support a sail."]}
+{"w": "gaff-topsail", "pos": "noun", "d": ["A small sail set above a gaff."]}
+{"w": "gaffle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gag", "pos": "noun", "d": ["A joke or comic trick.", "Something thrust into the mouth to prevent speech or outcry."]}
+{"w": "gag law", "pos": "phrase", "d": ["A law restricting freedom of speech or debate, especially in a legislature."]}
+{"w": "gag-toothed", "pos": "adjective", "d": ["Having the teeth projecting beyond the lips."]}
+{"w": "gaggle", "pos": "noun", "d": ["A flock of geese, especially when on land."]}
+{"w": "gahnite", "pos": "noun", "d": ["A dark green mineral; a zinc spinel."]}
+{"w": "gaidic", "pos": "adjective", "d": ["Of or relating to the bagpipe."]}
+{"w": "gaiety", "pos": "noun", "d": ["The state of being gay; cheerfulness and liveliness."]}
+{"w": "gailer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gaillard", "pos": "noun", "d": ["A spirited dance of the Renaissance period; a galliard."]}
+{"w": "gailliarde", "pos": "noun", "d": ["A lively 16th-century dance; a galliard."]}
+{"w": "gaily", "pos": "adverb", "d": ["In a cheerful and lively manner."]}
+{"w": "gainsborough hat", "pos": "phrase", "d": ["A woman's wide-brimmed hat with a drooping brim, fashionable in the 18th century."]}
+{"w": "gairfowl", "pos": "noun", "d": ["The great auk, an extinct flightless seabird of the North Atlantic."]}
+{"w": "gairish", "pos": "adjective", "d": ["Showy; gaudily bright."]}
+{"w": "gait", "pos": "noun", "d": ["A person's way of walking."]}
+{"w": "gaitre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gala", "pos": "noun", "d": ["A festive social gathering or celebration."]}
+{"w": "galacta-gogue", "pos": "noun", "d": ["A substance that increases the secretion of milk in nursing mothers."]}
+{"w": "galactic", "pos": "adjective", "d": ["Relating to a galaxy.", "Enormous in scale; vast."]}
+{"w": "galactin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galactodensimeter", "pos": "noun", "d": ["An instrument for measuring the density of milk."]}
+{"w": "galactometer", "pos": "noun", "d": ["An instrument for measuring the density or richness of milk."]}
+{"w": "galactophagist", "pos": "noun", "d": ["One who feeds on milk."]}
+{"w": "galactophagous", "pos": "adjective", "d": ["Feeding on milk."]}
+{"w": "galactophorous", "pos": "adjective", "d": ["Carrying or conveying milk."]}
+{"w": "galactopoietic", "pos": "adjective", "d": ["Promoting the production of milk."]}
+{"w": "galactose", "pos": "noun", "d": ["A simple sugar found in milk and milk products."]}
+{"w": "galage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galago", "pos": "noun", "d": ["A small nocturnal African primate with large eyes, also called a bushbaby."]}
+{"w": "galanga", "pos": "noun", "d": ["An aromatic root used as a spice, obtained from a plant of the ginger family."]}
+{"w": "galangal", "pos": "noun", "d": ["An aromatic root used as a spice, obtained from a plant of the ginger family."]}
+{"w": "galantine", "pos": "noun", "d": ["A cold dish of deboned meat or poultry, stuffed and served in jelly."]}
+{"w": "galapee tree", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galatian", "pos": "noun", "d": ["A native or inhabitant of Galatia, an ancient region of central Asia Minor."]}
+{"w": "galban", "pos": "noun", "d": ["An aromatic gum resin obtained from certain plants of the carrot family."]}
+{"w": "galbanum", "pos": "noun", "d": ["A strong-smelling gum resin obtained from certain plants, used in medicine and incense."]}
+{"w": "galbe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galea", "pos": "noun", "d": ["A helmet-shaped part of a flower or of an insect."]}
+{"w": "galei", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galena", "pos": "noun", "d": ["A gray mineral of lead sulfide, the principal ore of lead."]}
+{"w": "galenic", "pos": "adjective", "d": ["Relating to Galen, the ancient physician, or to his medical doctrines."]}
+{"w": "galenism", "pos": "noun", "d": ["The medical doctrines of the ancient physician Galen."]}
+{"w": "galenist", "pos": "noun", "d": ["A follower of the medical doctrines of Galen."]}
+{"w": "galenite", "pos": "noun", "d": ["A gray mineral of lead sulfide; the principal ore of lead."]}
+{"w": "galeopithecus", "pos": "noun", "d": ["A former genus name for the colugo, a gliding mammal of Southeast Asia."]}
+{"w": "galericulate", "pos": "adjective", "d": ["Wearing a cap or small helmet-like covering."]}
+{"w": "galician", "pos": "adjective", "d": ["Relating to Galicia in northwestern Spain, or to its people and language."]}
+{"w": "galilean", "pos": "adjective", "d": ["Relating to Galileo Galilei, the Italian astronomer, or to his discoveries."]}
+{"w": "galilee", "pos": "noun", "d": ["A porch or chapel attached to the western end of certain churches."]}
+{"w": "galimatias", "pos": "noun", "d": ["Confused or unintelligible talk; nonsense."]}
+{"w": "galingale", "pos": "noun", "d": ["An aromatic root used as a spice, obtained from a plant of the ginger family."]}
+{"w": "galiot", "pos": "noun", "d": ["A small swift sailing vessel formerly used in trade and war."]}
+{"w": "galipot", "pos": "noun", "d": ["A small glazed earthenware pot formerly used by apothecaries for ointments."]}
+{"w": "gall", "pos": "noun", "d": ["Bold, rude impudence.", "The bitter fluid secreted by the liver; bile."]}
+{"w": "gallantry", "pos": "noun", "d": ["Bravery in battle.", "Polite and attentive courtesy, especially toward women."]}
+{"w": "gallature", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galleass", "pos": "noun", "d": ["A large sailing warship with oars, used in former times."]}
+{"w": "gallegan", "pos": "adjective", "d": ["Relating to Galicia in northwestern Spain, or to its people and language."]}
+{"w": "gallein", "pos": "noun", "d": ["A violet synthetic dye used as an indicator in chemistry."]}
+{"w": "galleot", "pos": "noun", "d": ["A small swift sailing vessel formerly used in trade and war."]}
+{"w": "galletyle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galley", "pos": "noun", "d": ["A low flat vessel propelled by sails and oars.", "The kitchen of a ship or airplane."]}
+{"w": "galley-bird", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galley-worm", "pos": "noun", "d": ["A many-legged arthropod resembling a millipede."]}
+{"w": "gallian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galliard", "pos": "noun", "d": ["A lively leaping dance popular in the sixteenth and seventeenth centuries."]}
+{"w": "galliass", "pos": "noun", "d": ["A large sailing warship with oars, used in former times."]}
+{"w": "gallican", "pos": "adjective", "d": ["Relating to the tradition of the French Catholic Church asserting independence from papal authority."]}
+{"w": "galliform", "pos": "adjective", "d": ["Relating to an order of heavy-bodied ground birds that includes chickens, turkeys, pheasants, and grouse."]}
+{"w": "galligaskins", "pos": "noun", "d": ["Loose wide breeches worn in the sixteenth and seventeenth centuries."]}
+{"w": "gallimatia", "pos": "noun", "d": ["Confused or unintelligible talk; nonsense."]}
+{"w": "gallimaufry", "pos": "noun", "d": ["A confused jumble or medley of things."]}
+{"w": "gallin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gallinaceae", "pos": "noun", "d": ["A former zoological order of birds comprising chickens, turkeys, pheasants, and grouse."]}
+{"w": "gallinacean", "pos": "adjective", "d": ["Relating to or resembling chickens and similar ground-dwelling game birds."]}
+{"w": "gallinaceous", "pos": "adjective", "d": ["Relating to or resembling chickens and similar ground-dwelling game birds."]}
+{"w": "gallinae", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gallinipper", "pos": "noun", "d": ["A large biting mosquito or other stinging insect."]}
+{"w": "galliot", "pos": "noun", "d": ["A small swift sailing vessel formerly used in trade and war."]}
+{"w": "gallipoli oil", "pos": "noun", "d": ["A fine grade of olive oil formerly exported from Gallipoli, Italy."]}
+{"w": "gallipot", "pos": "noun", "d": ["A small glazed earthenware pot formerly used by apothecaries for ointments."]}
+{"w": "gallium", "pos": "noun", "d": ["A soft silvery metallic element with the chemical symbol Ga."]}
+{"w": "gallivant", "pos": "verb", "d": ["To go about from place to place in search of pleasure or amusement."]}
+{"w": "gallivat", "pos": "noun", "d": ["A small swift sailing vessel formerly used on the Malabar coast of India."]}
+{"w": "galliwasp", "pos": "noun", "d": ["A kind of lizard found in the West Indies."]}
+{"w": "gallomania", "pos": "noun", "d": ["An excessive admiration for everything French."]}
+{"w": "gallon", "pos": "noun", "d": ["A unit of liquid measure equal to four quarts."]}
+{"w": "gallop", "pos": "noun", "d": ["The fastest gait of a horse, in which all four feet are off the ground together at each stride."]}
+{"w": "gallopade", "pos": "noun", "d": ["A lively nineteenth-century dance performed with a galloping step."]}
+{"w": "gallopin", "pos": "noun", "d": ["A mounted aide or messenger attached to an army officer."]}
+{"w": "gallotannic", "pos": "adjective", "d": ["Relating to the tannin obtained from oak galls."]}
+{"w": "gallow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galloway", "pos": "noun", "d": ["A breed of small hardy cattle or of horses originating in Galloway, Scotland."]}
+{"w": "gally", "pos": "adjective", "d": ["Full of or affected with galls."]}
+{"w": "galoche", "pos": "noun", "d": ["An overshoe worn to protect shoes from wet or mud."]}
+{"w": "galoot", "pos": "noun", "d": ["A clumsy, oafish person."]}
+{"w": "galop", "pos": "noun", "d": ["A lively couples dance performed with a hopping or sliding step."]}
+{"w": "galore", "pos": "adjective", "d": ["Present in great abundance; plentiful."]}
+{"w": "galosh", "pos": "noun", "d": ["A waterproof overshoe."]}
+{"w": "galoshe", "pos": "noun", "d": ["A waterproof overshoe."]}
+{"w": "galpe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galsome", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "galvanic", "pos": "adjective", "d": ["Relating to electric current produced by chemical action.", "Sudden and startling in effect, like an electric shock."]}
+{"w": "galvanism", "pos": "noun", "d": ["Electricity produced by chemical action."]}
+{"w": "galvanist", "pos": "noun", "d": ["One who studies or applies galvanic electricity."]}
+{"w": "galvanization", "pos": "noun", "d": ["The process of coating iron or steel with a protective layer of zinc."]}
+{"w": "galvanize", "pos": "verb", "d": ["To coat iron or steel with a protective layer of zinc.", "To shock into sudden action."]}
+{"w": "galvanocaustic", "pos": "adjective", "d": ["Relating to surgical cauterization using a wire heated by electric current."]}
+{"w": "galvanocautery", "pos": "noun", "d": ["Cauterization performed with a wire heated by an electric current."]}
+{"w": "galvanoglyphy", "pos": "noun", "d": ["The art of engraving by electrolytic action."]}
+{"w": "galvanograph", "pos": "noun", "d": ["An instrument for producing engravings by electrolytic action."]}
+{"w": "galvanography", "pos": "noun", "d": ["The art or process of producing engravings by electrolytic action."]}
+{"w": "galvanologist", "pos": "noun", "d": ["One versed in the science of galvanic electricity."]}
+{"w": "galvanology", "pos": "noun", "d": ["The science of galvanic electricity."]}
+{"w": "galvanometer", "pos": "noun", "d": ["An instrument for measuring small electric currents."]}
+{"w": "galvanometric", "pos": "adjective", "d": ["Relating to a galvanometer."]}
+{"w": "galvanometry", "pos": "noun", "d": ["The measurement of electric currents with a galvanometer."]}
+{"w": "galvanoplastic", "pos": "adjective", "d": ["Relating to the electrodeposition of metal for making copies of objects, as in electrotyping."]}
+{"w": "galvanoplasty", "pos": "noun", "d": ["The art of depositing metal by electrolysis, as in electrotyping."]}
+{"w": "galvanopuncture", "pos": "noun", "d": ["Puncturing with needles through which a galvanic current is passed."]}
+{"w": "galvanoscope", "pos": "noun", "d": ["An instrument for detecting the presence of an electric current."]}
+{"w": "galvanoscopic", "pos": "adjective", "d": ["Relating to a galvanoscope."]}
+{"w": "galvanoscopy", "pos": "noun", "d": ["Examination or testing with a galvanoscope."]}
+{"w": "galvanotonus", "pos": "noun", "d": ["A state of continued muscular contraction produced by an electric current."]}
+{"w": "galvanotropism", "pos": "noun", "d": ["The tendency of an organism to turn or grow in response to an electric current."]}
+{"w": "galwes", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gam", "pos": "noun", "d": ["A leg, especially a shapely one.", "A social visit between the crews of two whaling ships."]}
+{"w": "gama grass", "pos": "noun", "d": ["A tall perennial grass native to North America, used as forage."]}
+{"w": "gamba", "pos": "noun", "d": ["A bass viol of the viol family.", "An organ stop imitating the tone of a bass viol."]}
+{"w": "gambeson", "pos": "noun", "d": ["A quilted jacket worn under armor in the Middle Ages."]}
+{"w": "gambist", "pos": "noun", "d": ["A player of the viola da gamba."]}
+{"w": "gamble", "pos": "verb", "d": ["To stake money on the outcome of a game or uncertain event."]}
+{"w": "gamboge", "pos": "noun", "d": ["A yellow gum resin used as a pigment and as a purgative."]}
+{"w": "gambogian", "pos": "adjective", "d": ["Relating to gamboge."]}
+{"w": "gambogic", "pos": "adjective", "d": ["Relating to gamboge."]}
+{"w": "gambol", "pos": "verb", "d": ["To skip about in play; to frolic."]}
+{"w": "gambrel", "pos": "noun", "d": ["The hock of an animal's hind leg.", "A roof with two slopes on each side."]}
+{"w": "gambroon", "pos": "noun", "d": ["A coarse twilled fabric."]}
+{"w": "game fowl", "pos": "noun", "d": ["A breed of domestic fowl bred for cockfighting."]}
+{"w": "gamete", "pos": "noun", "d": ["A reproductive cell that unites with another to form a new organism."]}
+{"w": "gametophyte", "pos": "noun", "d": ["The gamete-producing phase in the life cycle of a plant."]}
+{"w": "gamin", "pos": "noun", "d": ["A neglected street boy; an urchin."]}
+{"w": "gamma rays", "pos": "noun", "d": ["Very short-wavelength electromagnetic radiation emitted by the nuclei of atoms."]}
+{"w": "gammadion", "pos": "noun", "d": ["A figure formed of four capital gammas; a swastika-like cross."]}
+{"w": "gammon", "pos": "noun", "d": ["The hind leg of a pig cured as ham.", "Nonsense; humbug."]}
+{"w": "gamogenesis", "pos": "noun", "d": ["Sexual reproduction."]}
+{"w": "gamogenetic", "pos": "adjective", "d": ["Relating to sexual reproduction."]}
+{"w": "gamomorphism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gamopetalous", "pos": "adjective", "d": ["Having the petals united into a single corolla."]}
+{"w": "gamophyllous", "pos": "adjective", "d": ["Having the leaves united or joined together."]}
+{"w": "gamosepalous", "pos": "adjective", "d": ["Having the sepals united into a single calyx."]}
+{"w": "gamp", "pos": "noun", "d": ["A large umbrella."]}
+{"w": "gamut", "pos": "noun", "d": ["The whole range or extent of anything."]}
+{"w": "gamy", "pos": "adjective", "d": ["Having the strong flavor or smell of game meat."]}
+{"w": "gan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ganancial", "pos": "adjective", "d": ["Relating to property acquired by a married couple during marriage."]}
+{"w": "ganch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gander", "pos": "noun", "d": ["A male goose.", "A quick look; a glance."]}
+{"w": "gane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ganesa", "pos": "noun", "d": ["The Hindu god of wisdom and beginnings, usually depicted with an elephant's head."]}
+{"w": "gang-flower", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gange", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gangliac", "pos": "adjective", "d": ["Relating to a ganglion."]}
+{"w": "ganglial", "pos": "adjective", "d": ["Relating to a ganglion."]}
+{"w": "gangliate", "pos": "adjective", "d": ["Having ganglia."]}
+{"w": "gangliform", "pos": "adjective", "d": ["Having the form of a ganglion."]}
+{"w": "ganglioform", "pos": "adjective", "d": ["Having the form of a ganglion."]}
+{"w": "gangrel", "pos": "noun", "d": ["A vagrant; a vagabond."]}
+{"w": "gangrenous", "pos": "adjective", "d": ["Affected with gangrene."]}
+{"w": "ganil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ganister", "pos": "noun", "d": ["A hard siliceous rock used for lining furnaces."]}
+{"w": "ganja", "pos": "noun", "d": ["Marijuana; the dried flowering tops of the hemp plant used as a drug."]}
+{"w": "gannister", "pos": "noun", "d": ["A hard siliceous rock used for lining furnaces."]}
+{"w": "ganocephala", "pos": "noun", "d": ["An order of extinct amphibians."]}
+{"w": "ganocephalous", "pos": "adjective", "d": ["Relating to the Ganocephala."]}
+{"w": "ganoid", "pos": "adjective", "d": ["Relating to a group of fishes having hard, enamel-like scales, such as sturgeons and gars."]}
+{"w": "ganoidei", "pos": "noun", "d": ["An order of fishes characterized by hard, enamel-coated scales."]}
+{"w": "ganoidian", "pos": "noun", "d": ["A ganoid fish."]}
+{"w": "ganoine", "pos": "noun", "d": ["The enamel-like substance covering ganoid scales."]}
+{"w": "gansa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gantlet", "pos": "noun", "d": ["A protective glove.", "A severe trial or ordeal."]}
+{"w": "gantline", "pos": "noun", "d": ["A rope used for hoisting rigging or sails aboard a ship."]}
+{"w": "gantlope", "pos": "noun", "d": ["A former military punishment of running between two rows of men who strike the runner."]}
+{"w": "ganz system", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ganza", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gaol", "pos": "noun", "d": ["A jail; a prison."]}
+{"w": "gap-toothed", "pos": "adjective", "d": ["Having teeth with noticeable spaces between them."]}
+{"w": "gape", "pos": "verb", "d": ["To open the mouth wide, as in yawning.", "To stare with the mouth open in wonder."]}
+{"w": "gapingstock", "pos": "noun", "d": ["One exposed to public ridicule."]}
+{"w": "gar", "pos": "noun", "d": ["A long slender freshwater fish with a pointed snout.", "A spear or dart."]}
+{"w": "gar pike", "pos": "noun", "d": ["A long-snouted freshwater fish of the gar family."]}
+{"w": "garancin", "pos": "noun", "d": ["A red dye obtained from the madder plant."]}
+{"w": "garb", "pos": "noun", "d": ["Clothing or dress, especially of a distinctive kind."]}
+{"w": "garble", "pos": "verb", "d": ["To distort or mix up so as to make misleading or unintelligible."]}
+{"w": "garcinia", "pos": "noun", "d": ["A genus of tropical trees yielding gamboge and fruits such as the mangosteen."]}
+{"w": "gard", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "garde civique", "pos": "noun", "d": ["A civic guard; a citizen militia."]}
+{"w": "gardenia", "pos": "noun", "d": ["A tropical shrub with fragrant white flowers."]}
+{"w": "gardyloo", "pos": "interjection", "d": ["A warning shout formerly used in Edinburgh before emptying slops from an upper window."]}
+{"w": "gare", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gargalize", "pos": "verb", "d": ["To wash or rinse the throat with a liquid."]}
+{"w": "garganey", "pos": "noun", "d": ["A small European duck of the teal group."]}
+{"w": "gargantuan", "pos": "adjective", "d": ["Of immense size; gigantic."]}
+{"w": "gargarism", "pos": "noun", "d": ["A gargle; a liquid used for washing the throat."]}
+{"w": "gargarize", "pos": "verb", "d": ["To gargle; to rinse the throat with a liquid."]}
+{"w": "gargil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gargle", "pos": "verb", "d": ["To rinse the throat with a liquid."]}
+{"w": "gargol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gargoulette", "pos": "noun", "d": ["A porous earthenware water jar used for cooling water by evaporation."]}
+{"w": "gargoyle", "pos": "noun", "d": ["A grotesque carved stone spout projecting from the gutter of a building."]}
+{"w": "garibaldi", "pos": "noun", "d": ["A loose red shirt like those worn by Garibaldi's followers.", "A flat biscuit containing currants."]}
+{"w": "garlicky", "pos": "adjective", "d": ["Tasting or smelling of garlic."]}
+{"w": "garnetiferous", "pos": "adjective", "d": ["Containing or yielding garnets."]}

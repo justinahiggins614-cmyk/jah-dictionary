@@ -20799,3 +20799,803 @@
 {"w": "garibaldi", "pos": "noun", "d": ["A loose red shirt like those worn by Garibaldi's followers.", "A flat biscuit containing currants."]}
 {"w": "garlicky", "pos": "adjective", "d": ["Tasting or smelling of garlic."]}
 {"w": "garnetiferous", "pos": "adjective", "d": ["Containing or yielding garnets."]}
+{"w": "garnierite", "pos": "noun", "d": ["A green nickel-bearing silicate mineral, mined as an important ore of nickel."]}
+{"w": "garnish", "pos": "verb", "d": ["To decorate or dress up food or drink, usually with something small and colorful.", "To seize a person's wages or property under a court order to satisfy a debt."]}
+{"w": "garnishee", "pos": "noun", "d": ["A person or institution, such as an employer, that is legally ordered to hand over someone's wages or funds to pay that person's debt.", "A person whose money or property is subject to a court seizure."]}
+{"w": "garniture", "pos": "noun", "d": ["Decorative trimmings or ornaments added to something, such as a room, piece of furniture, or outfit."]}
+{"w": "garookuh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "garreteer", "pos": "noun", "d": ["A writer who lives in a garret, especially a poor or hack writer of cheap books and articles."]}
+{"w": "garrison", "pos": "noun", "d": ["A body of troops stationed in a fort, town, or other military post.", "A military post where troops are stationed."]}
+{"w": "garron", "pos": "noun", "d": ["A small, sturdy horse or pony of the kind used in the Scottish Highlands and Ireland."]}
+{"w": "garrulity", "pos": "noun", "d": ["The habit of talking too much or too idly; talkativeness."]}
+{"w": "garrulous", "pos": "adjective", "d": ["Given to talking too much, especially about unimportant things."]}
+{"w": "garrupa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "garter", "pos": "noun", "d": ["An elastic band worn around the leg to hold up a stocking.", "A strap or band worn to support stockings from a girdle or belt."]}
+{"w": "garter stitch", "pos": "phrase", "d": ["A basic knitting stitch made by knitting every row, producing a ridged, reversible fabric."]}
+{"w": "garth", "pos": "noun", "d": ["A small enclosed yard or garden, especially one beside a church or house."]}
+{"w": "garum", "pos": "noun", "d": ["A salty fermented fish sauce widely used as a seasoning in ancient Roman cooking."]}
+{"w": "gas engine", "pos": "phrase", "d": ["An internal-combustion engine that runs on gas rather than gasoline."]}
+{"w": "gas-burner", "pos": "noun", "d": ["The part of a gas lamp, stove, or torch where the gas burns as a flame."]}
+{"w": "gasalier", "pos": "noun", "d": ["An old spelling of gasolier, a chandelier fitted with gas burners."]}
+{"w": "gascoines", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gasconade", "pos": "noun", "d": ["Extravagant boasting or bluster; boastful talk about one's own deeds."]}
+{"w": "gascoynes", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gaseity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gaselier", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gaseous", "pos": "adjective", "d": ["Of or like a gas; existing in the form of gas.", "Full of or containing gas."]}
+{"w": "gash", "pos": "noun", "d": ["A long, deep cut or wound."]}
+{"w": "gasification", "pos": "noun", "d": ["The process of changing a solid or liquid into gas."]}
+{"w": "gasiform", "pos": "adjective", "d": ["Having the form or nature of a gas."]}
+{"w": "gaskins", "pos": "noun", "d": ["Loose, wide breeches of an old style, gathered at the knee and worn with hose."]}
+{"w": "gasogen", "pos": "noun", "d": ["An apparatus for making carbonated water by forcing gas into it."]}
+{"w": "gasolene", "pos": "noun", "d": ["An old spelling of gasoline, the flammable liquid used as fuel for engines."]}
+{"w": "gasolene engine", "pos": "phrase", "d": ["An old form of the term gasoline engine, an engine that runs on gasoline."]}
+{"w": "gasolier", "pos": "noun", "d": ["A chandelier fitted with gas burners for lighting a room by gas."]}
+{"w": "gasoline engine", "pos": "phrase", "d": ["An internal-combustion engine that burns gasoline for fuel."]}
+{"w": "gasometer", "pos": "noun", "d": ["A large tank or container for storing and measuring gas."]}
+{"w": "gasometric", "pos": "adjective", "d": ["Relating to the measurement or analysis of gases."]}
+{"w": "gasometry", "pos": "noun", "d": ["The science or practice of measuring gases."]}
+{"w": "gasoscope", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gasp", "pos": "verb", "d": ["To take in breath suddenly and sharply, as from surprise, fear, or effort.", "To breathe with difficulty; to pant."]}
+{"w": "gaspereau", "pos": "noun", "d": ["A small North American fish of the herring family, also called the alewife, valued for bait and food."]}
+{"w": "gasserian", "pos": "adjective", "d": ["Relating to the Gasserian ganglion, a large nerve cluster at the base of the brain serving the face."]}
+{"w": "gassy", "pos": "adjective", "d": ["Full of or containing gas; flatulent.", "Resembling gas; airy or inflated in speech."]}
+{"w": "gast", "pos": "verb", "d": ["To frighten or terrify; to make afraid."]}
+{"w": "gasteromycetes", "pos": "noun", "d": ["A former grouping of fungi whose spores are produced inside the body of the fruiting structure, including puffballs and earthstars."]}
+{"w": "gasteropod", "pos": "noun", "d": ["An old spelling of gastropod, a mollusk such as a snail or slug that crawls on its belly."]}
+{"w": "gasteropoda", "pos": "noun", "d": ["An old spelling of Gastropoda, the class of mollusks that includes snails, slugs, and their relatives."]}
+{"w": "gastornis", "pos": "noun", "d": ["A genus of giant flightless birds that lived in Europe during the Eocene epoch."]}
+{"w": "gastraea", "pos": "noun", "d": ["A hypothetical primitive ancestor of all animals, imagined as a two-layered saclike organism resembling a gastrula."]}
+{"w": "gastralgia", "pos": "noun", "d": ["Pain in the stomach or in the region of the stomach."]}
+{"w": "gastric", "pos": "adjective", "d": ["Relating to the stomach."]}
+{"w": "gastriloquist", "pos": "noun", "d": ["A person who seems to speak from the stomach or deep inside the body; a kind of ventriloquist."]}
+{"w": "gastriloquous", "pos": "adjective", "d": ["Relating to gastriloquy, the art of speaking as if from the stomach."]}
+{"w": "gastriloquy", "pos": "noun", "d": ["The art or practice of speaking so that the voice seems to come from the stomach or belly; ventriloquism."]}
+{"w": "gastritis", "pos": "noun", "d": ["Inflammation of the lining of the stomach."]}
+{"w": "gastro-", "pos": "prefix", "d": ["A prefix meaning relating to the stomach, as in gastritis or gastroenteritis."]}
+{"w": "gastrocnemius", "pos": "noun", "d": ["The large muscle of the calf of the leg that helps bend the foot downward."]}
+{"w": "gastrocolic", "pos": "adjective", "d": ["Relating to the stomach and the colon."]}
+{"w": "gastrodisc", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gastroduodenal", "pos": "adjective", "d": ["Relating to the stomach and the duodenum, the first part of the small intestine."]}
+{"w": "gastroduodenitis", "pos": "noun", "d": ["Inflammation of the stomach and the duodenum together."]}
+{"w": "gastroelytrotomy", "pos": "noun", "d": ["A former surgical operation for delivering a child by cutting through the abdominal wall and the vagina."]}
+{"w": "gastroenteric", "pos": "adjective", "d": ["Relating to the stomach and the intestines."]}
+{"w": "gastroenteritis", "pos": "noun", "d": ["Inflammation of the stomach and intestines, usually causing nausea, vomiting, and diarrhea."]}
+{"w": "gastroepiploic", "pos": "adjective", "d": ["Relating to the stomach and the omentum, the fold of membrane covering the intestines."]}
+{"w": "gastrohepatic", "pos": "adjective", "d": ["Relating to the stomach and the liver."]}
+{"w": "gastrohysterotomy", "pos": "noun", "d": ["A surgical operation for delivering a child by cutting through the abdominal wall and the uterus."]}
+{"w": "gastrointestinal", "pos": "adjective", "d": ["Relating to the stomach and intestines; having to do with digestion."]}
+{"w": "gastrolith", "pos": "noun", "d": ["A stone swallowed and retained in the stomach of some animals to help grind food, or a stony mass formed in the stomach."]}
+{"w": "gastrology", "pos": "noun", "d": ["The branch of medicine concerned with the stomach and its diseases."]}
+{"w": "gastromalacia", "pos": "noun", "d": ["Abnormal softening of the wall of the stomach."]}
+{"w": "gastromyces", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gastromyth", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gastronome", "pos": "noun", "d": ["A person who loves and knows fine food and drink; a connoisseur of eating and drinking."]}
+{"w": "gastronomic", "pos": "adjective", "d": ["Relating to the art of good eating."]}
+{"w": "gastronomist", "pos": "noun", "d": ["A person skilled in the art of good eating; an expert in fine food."]}
+{"w": "gastronomy", "pos": "noun", "d": ["The art or practice of choosing, preparing, and enjoying good food."]}
+{"w": "gastrophrenic", "pos": "adjective", "d": ["Relating to the stomach and the diaphragm."]}
+{"w": "gastropneumatic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gastropod", "pos": "noun", "d": ["A mollusk of the class Gastropoda, such as a snail, slug, or whelk, that moves on a broad muscular foot."]}
+{"w": "gastropoda", "pos": "noun", "d": ["The class of mollusks that includes snails, slugs, whelks, and related animals."]}
+{"w": "gastroraphy", "pos": "noun", "d": ["The surgical suturing of a wound in the stomach or abdominal wall."]}
+{"w": "gastroscope", "pos": "noun", "d": ["An instrument for looking into the stomach through the mouth."]}
+{"w": "gastroscopic", "pos": "adjective", "d": ["Relating to gastroscopy, the examination of the stomach with a gastroscope."]}
+{"w": "gastroscopy", "pos": "noun", "d": ["The examination of the inside of the stomach by means of a gastroscope."]}
+{"w": "gastrosplenic", "pos": "adjective", "d": ["Relating to the stomach and the spleen."]}
+{"w": "gastrostege", "pos": "noun", "d": ["One of the broad, flat scales on the belly of a snake or lizard."]}
+{"w": "gastrostomy", "pos": "noun", "d": ["A surgical operation that creates an opening into the stomach through the abdominal wall, usually to provide feeding."]}
+{"w": "gastrotomy", "pos": "noun", "d": ["The surgical cutting open of the stomach."]}
+{"w": "gastrotricha", "pos": "noun", "d": ["A phylum of tiny aquatic invertebrate animals with bodies covered in cilia and bristles."]}
+{"w": "gastrotrocha", "pos": "noun", "d": ["A ring of cilia around the body of certain worm larvae, used in swimming and feeding."]}
+{"w": "gastrovascular", "pos": "adjective", "d": ["Relating to both digestion and circulation, especially the single body cavity of jellyfish and similar animals that serves both purposes."]}
+{"w": "gastrula", "pos": "noun", "d": ["An early stage in the development of an animal embryo, following the blastula, in which the body has two or three distinct layers."]}
+{"w": "gastrura", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gastrurous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gat", "pos": "noun", "d": ["A narrow passage or channel, especially one by which water enters a harbor.", "A pistol or revolver."]}
+{"w": "gat-toothed", "pos": "adjective", "d": ["Having teeth like those of a goat; goat-toothed."]}
+{"w": "gatch", "pos": "noun", "d": ["A kind of plaster used in India for finishing the walls of buildings."]}
+{"w": "gatling gun", "pos": "phrase", "d": ["An early form of machine gun with revolving barrels, operated by a hand crank."]}
+{"w": "gatten tree", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gauche", "pos": "adjective", "d": ["Lacking ease and grace in social situations; awkward or tactless.", "On the left side; left-handed or leftward."]}
+{"w": "gaucho", "pos": "noun", "d": ["A cowboy of the grasslands of South America, especially Argentina and Uruguay."]}
+{"w": "gaud", "pos": "noun", "d": ["A cheap, showy ornament or trinket worn for display."]}
+{"w": "gaud-day", "pos": "noun", "d": ["A day of feasting and rejoicing; a holiday or festival day."]}
+{"w": "gaudery", "pos": "noun", "d": ["Showy, tasteless ornamentation; gaudy finery."]}
+{"w": "gaudily", "pos": "adverb", "d": ["In a tastelessly showy or overly bright manner."]}
+{"w": "gaudiness", "pos": "noun", "d": ["The quality of being gaudy; crude, tasteless showiness."]}
+{"w": "gaudy", "pos": "adjective", "d": ["Tastelessly showy; excessively bright or heavily decorated."]}
+{"w": "gauffer", "pos": "verb", "d": ["To crimp or pleat cloth with heated irons, forming small flutes or ridges."]}
+{"w": "gauffre", "pos": "noun", "d": ["A waffle, especially a thin crisp one; also a waffle-patterned ornament."]}
+{"w": "gauging rod", "pos": "phrase", "d": ["A graduated rod used to measure the depth or contents of a cask, tank, or vessel."]}
+{"w": "gaul", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gault", "pos": "noun", "d": ["A stiff, heavy clay, often bluish, used in brickmaking."]}
+{"w": "gaultheria", "pos": "noun", "d": ["A genus of evergreen shrubs that includes wintergreen."]}
+{"w": "gaunt", "pos": "adjective", "d": ["Thin and haggard, as from hunger or illness.", "Bare and desolate in appearance."]}
+{"w": "gauntry", "pos": "noun", "d": ["A framework of beams supporting a crane or machinery; a gantry."]}
+{"w": "gaur", "pos": "noun", "d": ["A large wild ox of South Asia, the Indian bison."]}
+{"w": "gaure", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gauss", "pos": "noun", "d": ["A unit of magnetic flux density in the centimeter-gram-second system."]}
+{"w": "gauze", "pos": "noun", "d": ["A thin, loosely woven, transparent fabric.", "A fine wire mesh used as a screen or filter."]}
+{"w": "gauziness", "pos": "noun", "d": ["The quality of being gauzy; thin transparency."]}
+{"w": "gauzy", "pos": "adjective", "d": ["Thin and transparent like gauze."]}
+{"w": "gavage", "pos": "noun", "d": ["The forced feeding of a person or animal, usually through a tube to the stomach."]}
+{"w": "gavel", "pos": "noun", "d": ["A small mallet used by a judge, auctioneer, or presiding officer to call for attention or order."]}
+{"w": "gaviae", "pos": "noun", "d": ["A taxonomic group of diving waterbirds comprising the loons."]}
+{"w": "gavial", "pos": "noun", "d": ["A long-snouted crocodilian of Indian rivers; the gharial."]}
+{"w": "gavot", "pos": "noun", "d": ["A lively dance of French origin; a gavotte."]}
+{"w": "gawby", "pos": "adjective", "d": ["Awkward and clownish; gawky."]}
+{"w": "gawk", "pos": "verb", "d": ["To stare in a stupid, open-mouthed way."]}
+{"w": "gawky", "pos": "adjective", "d": ["Awkward, clumsy, and ungainly in movement or appearance."]}
+{"w": "gawn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gaydiang", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gayety", "pos": "noun", "d": ["Cheerful merriment; gaiety."]}
+{"w": "gayley process", "pos": "phrase", "d": ["A method of drying the air blast for iron-smelting furnaces to improve their efficiency."]}
+{"w": "gaylussite", "pos": "noun", "d": ["A soft mineral consisting of hydrated sodium calcium carbonate."]}
+{"w": "gayne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gaytre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gaze", "pos": "verb", "d": ["To look steadily and intently at something."]}
+{"w": "gazeebo", "pos": "noun", "d": ["A small roofed structure in a garden or park, open on the sides; a gazebo."]}
+{"w": "gazel", "pos": "noun", "d": ["A short lyric poem of Arabic or Persian origin; a ghazal."]}
+{"w": "gazelle", "pos": "noun", "d": ["A small, swift antelope of Africa and Asia noted for its graceful leaping."]}
+{"w": "gazet", "pos": "noun", "d": ["An early spelling of gazette; a newspaper."]}
+{"w": "gazingstock", "pos": "noun", "d": ["A person or thing stared at with curiosity, ridicule, or contempt; a laughingstock."]}
+{"w": "gazogene", "pos": "noun", "d": ["An apparatus for making carbonated water at home or in a shop."]}
+{"w": "gazon", "pos": "noun", "d": ["Turf; a piece of grass-covered sod used for lawns."]}
+{"w": "ge-", "pos": "prefix", "d": ["A Germanic prefix meaning together or completely, as in German past participles."]}
+{"w": "geal", "pos": "verb", "d": ["To congeal or freeze solid."]}
+{"w": "gean", "pos": "noun", "d": ["The wild cherry tree or its fruit."]}
+{"w": "geanticlinal", "pos": "adjective", "d": ["Relating to a geanticline, a broad upward arch of the earth's crust."]}
+{"w": "geason", "pos": "adjective", "d": ["Rare or uncommon; scarce."]}
+{"w": "geat", "pos": "noun", "d": ["The channel through which molten metal is poured into a mold."]}
+{"w": "gecarcinian", "pos": "adjective", "d": ["Relating to land crabs of the family Gecarcinidae."]}
+{"w": "geck", "pos": "noun", "d": ["A fool or dupe; an object of scorn."]}
+{"w": "gecko", "pos": "noun", "d": ["A small lizard with adhesive toe pads that allow it to climb smooth surfaces."]}
+{"w": "geckotian", "pos": "adjective", "d": ["Relating to or resembling geckos."]}
+{"w": "ged", "pos": "noun", "d": ["A pike; a large freshwater fish of prey (Scots)."]}
+{"w": "gedd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gee", "pos": "interjection", "d": ["A command to a horse or team to move ahead or turn to the right.", "An exclamation of surprise."]}
+{"w": "geer", "pos": "noun", "d": ["An old spelling of gear; equipment or apparatus."]}
+{"w": "geese", "pos": "noun", "d": ["Plural of goose."]}
+{"w": "geest", "pos": "noun", "d": ["Sandy heathland or barren sandy soil."]}
+{"w": "geet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "geez", "pos": "interjection", "d": ["An exclamation of surprise or annoyance."]}
+{"w": "gehenna", "pos": "noun", "d": ["A place of torment or punishment after death; hell."]}
+{"w": "geic", "pos": "adjective", "d": ["Relating to the earth; terrestrial."]}
+{"w": "gein", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "geisha", "pos": "noun", "d": ["A Japanese woman trained in traditional arts to entertain guests."]}
+{"w": "geissler tube", "pos": "phrase", "d": ["A sealed glass tube with electrodes at each end, used to study electrical discharges in rarefied gases."]}
+{"w": "geitonogamy", "pos": "noun", "d": ["Pollination between different flowers of the same plant."]}
+{"w": "gelable", "pos": "adjective", "d": ["Capable of being formed into a gel."]}
+{"w": "gelada", "pos": "noun", "d": ["A large baboon-like monkey of the Ethiopian highlands."]}
+{"w": "gelastic", "pos": "adjective", "d": ["Relating to laughter."]}
+{"w": "gelatification", "pos": "noun", "d": ["The process of turning into gelatin."]}
+{"w": "gelatigenous", "pos": "adjective", "d": ["Producing or yielding gelatin."]}
+{"w": "gelatin", "pos": "noun", "d": ["A clear protein substance that dissolves in hot water and sets to a jelly, used in foods and photography."]}
+{"w": "gelatine", "pos": "noun", "d": ["A variant spelling of gelatin."]}
+{"w": "gelatiniferous", "pos": "adjective", "d": ["Yielding or containing gelatin."]}
+{"w": "gelatiniform", "pos": "adjective", "d": ["Having the form or texture of gelatin."]}
+{"w": "gelatinization", "pos": "noun", "d": ["The process of becoming gelatinous, as starch does when heated in water."]}
+{"w": "gelation", "pos": "noun", "d": ["The formation of a gel from a liquid."]}
+{"w": "geld", "pos": "verb", "d": ["To castrate a male animal, especially a horse."]}
+{"w": "gelder-rose", "pos": "noun", "d": ["A flowering shrub with round clusters of white blossoms; the guelder rose."]}
+{"w": "gelid", "pos": "adjective", "d": ["Extremely cold; icy."]}
+{"w": "gelly", "pos": "noun", "d": ["An old spelling of jelly."]}
+{"w": "geloscopy", "pos": "noun", "d": ["Divination or character-reading based on a person's laughter."]}
+{"w": "gelose", "pos": "noun", "d": ["A gelatinous substance obtained from agar and certain seaweeds."]}
+{"w": "gelsemic", "pos": "adjective", "d": ["Relating to gelsemium."]}
+{"w": "gelsemine", "pos": "noun", "d": ["A poisonous alkaloid obtained from gelsemium."]}
+{"w": "gelseminic", "pos": "adjective", "d": ["Relating to gelsemine."]}
+{"w": "gelsemium", "pos": "noun", "d": ["A genus of poisonous climbing plants with fragrant yellow flowers; Carolina jessamine."]}
+{"w": "gelt", "pos": "noun", "d": ["Money, especially in coin.", "A castrated animal."]}
+{"w": "gemaric", "pos": "adjective", "d": ["Relating to the Gemara, the rabbinical commentary on the Mishnah."]}
+{"w": "gemel", "pos": "noun", "d": ["One of a matched pair; a twin.", "A ring made in two interlocking parts."]}
+{"w": "gemellipa-rous", "pos": "adjective", "d": ["Producing twins; twin-bearing."]}
+{"w": "geminal", "pos": "adjective", "d": ["In chemistry, attached to the same atom, as two substituents on one carbon."]}
+{"w": "geminate", "pos": "verb", "d": ["To double; to arrange or form in pairs."]}
+{"w": "gemination", "pos": "noun", "d": ["The act of doubling; duplication."]}
+{"w": "gemini", "pos": "noun", "d": ["A zodiacal constellation representing the twins Castor and Pollux."]}
+{"w": "geminiflorous", "pos": "adjective", "d": ["Bearing flowers in pairs."]}
+{"w": "geminous", "pos": "adjective", "d": ["Twin; arranged in pairs; double."]}
+{"w": "geminy", "pos": "noun", "d": ["The state of being twin or double; twinning."]}
+{"w": "gemitores", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gemma", "pos": "noun", "d": ["A small budlike body by which some plants and simple animals reproduce asexually.", "A precious stone or engraved gem."]}
+{"w": "gemmaceous", "pos": "adjective", "d": ["Relating to or resembling a gemma."]}
+{"w": "gemmeous", "pos": "adjective", "d": ["Of the nature of a gemma; like a bud."]}
+{"w": "gemmiferous", "pos": "adjective", "d": ["Bearing or producing gemmae."]}
+{"w": "gemmification", "pos": "noun", "d": ["The formation or production of gemmae."]}
+{"w": "gemmiflorate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gemminess", "pos": "noun", "d": ["The quality of being gemmy; bright sparkling clearness."]}
+{"w": "gemmipara", "pos": "noun", "d": ["An organism that reproduces by budding."]}
+{"w": "gemmipares", "pos": "noun", "d": ["Organisms that reproduce by budding."]}
+{"w": "gemmiparity", "pos": "noun", "d": ["Reproduction by budding."]}
+{"w": "gemmiparous", "pos": "adjective", "d": ["Reproducing by budding."]}
+{"w": "gemmosity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gemmulation", "pos": "noun", "d": ["The process of forming gemmules; reproduction by budding."]}
+{"w": "gemmuliferous", "pos": "adjective", "d": ["Bearing gemmules."]}
+{"w": "gemmy", "pos": "adjective", "d": ["Like a gem; bright, clear, and sparkling."]}
+{"w": "gemote", "pos": "noun", "d": ["A meeting or assembly in Anglo-Saxon England."]}
+{"w": "gems-horn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gemsbok", "pos": "noun", "d": ["A large African antelope with long straight horns."]}
+{"w": "gemul", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gena", "pos": "noun", "d": ["The cheek region of the head, especially in insects."]}
+{"w": "genappe", "pos": "noun", "d": ["A town in Belgium, scene of a cavalry fight during the 1815 Waterloo campaign."]}
+{"w": "gendarme", "pos": "noun", "d": ["A member of a gendarmerie, a military police force.", "A steep rock pinnacle on a mountain ridge."]}
+{"w": "gendarmery", "pos": "noun", "d": ["A body of gendarmes; a military police force."]}
+{"w": "geneagenesis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "genealogic", "pos": "adjective", "d": ["Relating to genealogy or lines of family descent."]}
+{"w": "genealogist", "pos": "noun", "d": ["A person who traces family histories and lines of descent."]}
+{"w": "genealogize", "pos": "verb", "d": ["To trace or record the genealogy of."]}
+{"w": "genearch", "pos": "noun", "d": ["The founder or earliest known ancestor of a family line."]}
+{"w": "genera", "pos": "noun", "d": ["Plural of genus."]}
+{"w": "generability", "pos": "noun", "d": ["The quality of being able to be generated."]}
+{"w": "generable", "pos": "adjective", "d": ["Capable of being generated or produced."]}
+{"w": "generalia", "pos": "noun", "d": ["General matters or details, as of a subject of study."]}
+{"w": "generalissimo", "pos": "noun", "d": ["The supreme commander of a country's armed forces."]}
+{"w": "generalization", "pos": "noun", "d": ["A general conclusion drawn from particular cases.", "The act of making general or applying broadly."]}
+{"w": "generalty", "pos": "noun", "d": ["The general body or bulk of people or things."]}
+{"w": "generant", "pos": "noun", "d": ["Something that generates or produces."]}
+{"w": "generative", "pos": "adjective", "d": ["Having the power to generate or produce."]}
+{"w": "generatrix", "pos": "noun", "d": ["A line or curve whose motion generates a surface.", "A mother; a female parent."]}
+{"w": "generification", "pos": "noun", "d": ["The act of generating or producing."]}
+{"w": "generosity", "pos": "noun", "d": ["The quality of being generous; liberality in giving."]}
+{"w": "genesee epoch", "pos": "phrase", "d": ["A division of Devonian geologic time named for the Genesee region of New York."]}
+{"w": "genesial", "pos": "adjective", "d": ["Relating to generation or procreation."]}
+{"w": "genesiolgy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "genet", "pos": "noun", "d": ["A small spotted carnivorous mammal of Africa and southern Europe.", "A small Spanish riding horse; a jennet."]}
+{"w": "genethliac", "pos": "adjective", "d": ["Relating to birthdays or to the casting of nativities."]}
+{"w": "genethlialogy", "pos": "noun", "d": ["The art of casting horoscopes or nativities."]}
+{"w": "genethliatic", "pos": "adjective", "d": ["Relating to nativities; genethliac."]}
+{"w": "genette", "pos": "noun", "d": ["A small Spanish horse; a jennet.", "A variant spelling of genet, the spotted mammal."]}
+{"w": "genevan", "pos": "adjective", "d": ["Of or relating to Geneva, Switzerland."]}
+{"w": "genevese", "pos": "noun", "d": ["A native or inhabitant of Geneva."]}
+{"w": "genial", "pos": "adjective", "d": ["Friendly and cheerful in manner.", "Relating to the chin."]}
+{"w": "genian", "pos": "adjective", "d": ["Relating to the chin."]}
+{"w": "geniculate", "pos": "adjective", "d": ["Bent abruptly like a knee; jointed."]}
+{"w": "geniculation", "pos": "noun", "d": ["A knee-like bend; the state of being geniculate."]}
+{"w": "genie", "pos": "noun", "d": ["A magical spirit in Arabian folklore, able to grant wishes."]}
+{"w": "genio", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "genip", "pos": "noun", "d": ["A tropical American tree bearing small green tart fruits.", "The fruit of this tree."]}
+{"w": "genip tree", "pos": "phrase", "d": ["The tropical tree that bears the genip fruit."]}
+{"w": "genipap", "pos": "noun", "d": ["The large round fruit of a tropical American tree, used for drinks and dye."]}
+{"w": "genista", "pos": "noun", "d": ["A group of shrubs including broom, bearing yellow pea-like flowers."]}
+{"w": "genital", "pos": "adjective", "d": ["Relating to reproduction or the reproductive organs."]}
+{"w": "geniting", "pos": "noun", "d": ["A variety of early-ripening apple."]}
+{"w": "genitival", "pos": "adjective", "d": ["Relating to the genitive case."]}
+{"w": "genitive", "pos": "noun", "d": ["The grammatical case expressing possession or close relation."]}
+{"w": "genitocrural", "pos": "adjective", "d": ["Relating to the genital region and the thigh."]}
+{"w": "genitor", "pos": "noun", "d": ["A father; one who begets."]}
+{"w": "genitourinary", "pos": "adjective", "d": ["Relating to the genital and urinary organs."]}
+{"w": "geniture", "pos": "noun", "d": ["Birth; the circumstances attending one's birth.", "A horoscope cast for the moment of birth."]}
+{"w": "genoa cake", "pos": "phrase", "d": ["A rich cake containing dried fruits and often almonds."]}
+{"w": "genoese", "pos": "adjective", "d": ["Of or relating to Genoa, Italy."]}
+{"w": "genouillere", "pos": "noun", "d": ["A piece of armor protecting the knee.", "The part of a parapet behind which soldiers kneel to fire."]}
+{"w": "gens", "pos": "noun", "d": ["A clan or family group in ancient Rome."]}
+{"w": "gent", "pos": "noun", "d": ["An informal short form of gentleman."]}
+{"w": "genterie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gentian", "pos": "noun", "d": ["A plant with showy, usually blue, flowers.", "A bitter medicine made from gentian root."]}
+{"w": "gentianaceous", "pos": "adjective", "d": ["Belonging to the gentian family of plants."]}
+{"w": "gentianella", "pos": "noun", "d": ["A small or delicate gentian plant."]}
+{"w": "gentianine", "pos": "noun", "d": ["A bitter crystalline compound obtained from gentian root."]}
+{"w": "gentianose", "pos": "noun", "d": ["A sugar found in gentian root."]}
+{"w": "gentil", "pos": "adjective", "d": ["Gentle, courteous, or refined in manner."]}
+{"w": "gentile-falcon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gentilesse", "pos": "noun", "d": ["Gentleness and courtesy of manner."]}
+{"w": "gentiopikrin", "pos": "noun", "d": ["A bitter compound found in gentian root."]}
+{"w": "gentisin", "pos": "noun", "d": ["A yellow coloring matter obtained from gentian root."]}
+{"w": "gentle-hearted", "pos": "adjective", "d": ["Kind and tender in feeling."]}
+{"w": "gentlesse", "pos": "noun", "d": ["Gentleness; an old form of the word gentleness."]}
+{"w": "gentoo", "pos": "noun", "d": ["A penguin of the Antarctic with a white stripe across the top of its head.", "An old term for a Hindu of the Telugu people of India."]}
+{"w": "gentry", "pos": "noun", "d": ["People of high social rank, especially those just below the nobility."]}
+{"w": "genty", "pos": "adjective", "d": ["Neat and trim in appearance."]}
+{"w": "genu", "pos": "noun", "d": ["The knee; a knee-like bend in anatomy."]}
+{"w": "genuflect", "pos": "verb", "d": ["To bend the knee, especially in worship or reverence."]}
+{"w": "genys", "pos": "noun", "d": ["The chin; the chin region, especially in insects."]}
+{"w": "geocentric", "pos": "adjective", "d": ["Having the Earth as the center, as in the old model of the universe."]}
+{"w": "geochemistry", "pos": "noun", "d": ["The science dealing with the chemical makeup of the Earth."]}
+{"w": "geocronite", "pos": "noun", "d": ["A lead-gray mineral composed of lead, antimony, and sulfur."]}
+{"w": "geocyclic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "geode", "pos": "noun", "d": ["A hollow rounded rock lined on the inside with crystals."]}
+{"w": "geodephagous", "pos": "adjective", "d": ["Feeding on earth; earth-eating."]}
+{"w": "geodesy", "pos": "noun", "d": ["The science of measuring the size and shape of the Earth."]}
+{"w": "geodiferous", "pos": "adjective", "d": ["Bearing or containing geodes."]}
+{"w": "geoduck", "pos": "noun", "d": ["A very large edible clam of the Pacific coast with a long protruding siphon."]}
+{"w": "geognosis", "pos": "noun", "d": ["The study of the structure and composition of the earth, an early term for geology."]}
+{"w": "geognost", "pos": "noun", "d": ["A student of the earth's structure, especially in early geology."]}
+{"w": "geognosy", "pos": "noun", "d": ["The branch of early geology dealing with the structure of the earth's crust."]}
+{"w": "geogonic", "pos": "adjective", "d": ["Relating to the origin or formation of the earth."]}
+{"w": "geogony", "pos": "noun", "d": ["The study of the origin and formation of the earth."]}
+{"w": "geographer", "pos": "noun", "d": ["A person who studies or writes about geography."]}
+{"w": "geolatry", "pos": "noun", "d": ["Worship of the earth as a deity."]}
+{"w": "geologer", "pos": "noun", "d": ["A geologist, especially one studying rocks and minerals."]}
+{"w": "geologian", "pos": "noun", "d": ["A geologist."]}
+{"w": "geologic", "pos": "adjective", "d": ["Relating to the science of geology or to the history of the earth."]}
+{"w": "geologist", "pos": "noun", "d": ["A scientist who studies the earth, its rocks, and its history."]}
+{"w": "geologize", "pos": "verb", "d": ["To study or investigate the geology of a region."]}
+{"w": "geomalism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "geomancer", "pos": "noun", "d": ["A person who practices divination by means of the earth or figures drawn on the ground."]}
+{"w": "geomancy", "pos": "noun", "d": ["Divination by the earth or by figures made in earth or on the ground."]}
+{"w": "geomantic", "pos": "adjective", "d": ["Relating to geomancy."]}
+{"w": "geometer", "pos": "noun", "d": ["A person skilled in geometry."]}
+{"w": "geometral", "pos": "adjective", "d": ["Drawn or viewed in geometric perspective, especially on a horizontal plane."]}
+{"w": "geometric", "pos": "adjective", "d": ["Relating to geometry or made up of regular shapes such as lines, circles, and polygons.", "Increasing by a constant ratio, as in a geometric progression."]}
+{"w": "geometrician", "pos": "noun", "d": ["A geometer, one skilled in geometry."]}
+{"w": "geometrid", "pos": "noun", "d": ["A moth of the family Geometridae, whose larvae are the inchworms."]}
+{"w": "geometrize", "pos": "verb", "d": ["To make geometric, or to solve by the methods of geometry."]}
+{"w": "geophagism", "pos": "noun", "d": ["The practice of eating earth, clay, or chalk."]}
+{"w": "geophagist", "pos": "noun", "d": ["A person who eats earth or clay."]}
+{"w": "geophagous", "pos": "adjective", "d": ["Eating earth or clay."]}
+{"w": "geophila", "pos": "noun", "d": ["A genus of low-growing herbs of the coffee family."]}
+{"w": "geoponic", "pos": "adjective", "d": ["Relating to tillage or agriculture."]}
+{"w": "georama", "pos": "noun", "d": ["A large hollow globe on whose inside surface a map of the earth is drawn, viewed from within."]}
+{"w": "geordie", "pos": "noun", "d": ["A native of the Tyneside region of northeast England, or the local dialect."]}
+{"w": "george noble", "pos": "phrase", "d": ["A British gold sovereign coin, bearing the image of Saint George."]}
+{"w": "georgian", "pos": "adjective", "d": ["Relating to the reigns of the British kings George I through IV, or to the country or the U.S. state of Georgia."]}
+{"w": "georgian architecture", "pos": "phrase", "d": ["The architectural style of Britain and America during the reigns of George I through IV, marked by symmetry and classical detail."]}
+{"w": "georgic", "pos": "adjective", "d": ["Relating to farming or rural life, especially in poetry."]}
+{"w": "georgium sidus", "pos": "phrase", "d": ["A former name for the planet Uranus."]}
+{"w": "geoscopy", "pos": "noun", "d": ["The study of the visible features of the earth."]}
+{"w": "geoselenic", "pos": "adjective", "d": ["Relating to both the earth and the moon."]}
+{"w": "geostatic", "pos": "adjective", "d": ["Relating to the pressure or weight of the earth."]}
+{"w": "geosynclinal", "pos": "adjective", "d": ["Relating to a geosyncline, a long trough of sedimentary rock."]}
+{"w": "geothermometer", "pos": "noun", "d": ["An instrument for measuring the temperature of the earth at depths below the surface."]}
+{"w": "geotic", "pos": "adjective", "d": ["Relating to the earth."]}
+{"w": "geotropic", "pos": "adjective", "d": ["Turning or growing in response to the force of gravity."]}
+{"w": "geotropism", "pos": "noun", "d": ["The tendency of plants and some animals to grow or turn in response to gravity."]}
+{"w": "gephyrea", "pos": "noun", "d": ["A former group of worm-like marine invertebrates, now divided between the sipunculids and echiurids."]}
+{"w": "gephyrean", "pos": "adjective", "d": ["Relating to the Gephyrea."]}
+{"w": "gephyreoid", "pos": "adjective", "d": ["Resembling a gephyrean worm."]}
+{"w": "gepound", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gerah", "pos": "noun", "d": ["An ancient Hebrew unit of weight, a twentieth of a shekel."]}
+{"w": "geraniaceous", "pos": "adjective", "d": ["Belonging to or resembling the geranium family of plants."]}
+{"w": "geraniine", "pos": "noun", "d": ["A tannin compound obtained from plants of the geranium family."]}
+{"w": "geranine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "geranium", "pos": "noun", "d": ["A flowering plant of the genus Geranium, or a similar garden plant of the genus Pelargonium."]}
+{"w": "gerant", "pos": "noun", "d": ["A manager or administrator."]}
+{"w": "gerbe", "pos": "noun", "d": ["A sheaf of wheat or grain, especially as used in heraldry."]}
+{"w": "gerbil", "pos": "noun", "d": ["A small burrowing rodent of desert regions, often kept as a pet."]}
+{"w": "gerbille", "pos": "noun", "d": ["A gerbil."]}
+{"w": "gerboa", "pos": "noun", "d": ["A small desert rodent with long hind legs used for jumping, the jerboa."]}
+{"w": "gere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gerent", "pos": "noun", "d": ["One who rules or exercises authority."]}
+{"w": "gerfalcon", "pos": "noun", "d": ["A large Arctic falcon, the gyrfalcon."]}
+{"w": "gerful", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gerland", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gerlind", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gerlond", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "germ", "pos": "noun", "d": ["A microorganism, especially one that causes disease.", "The part of a seed from which a new plant sprouts.", "The earliest form of something, as the germ of an idea."]}
+{"w": "germ cell", "pos": "phrase", "d": ["A cell that gives rise to gametes, the eggs and sperm."]}
+{"w": "germ plasm", "pos": "phrase", "d": ["The hereditary material carried in the germ cells of an organism."]}
+{"w": "germ theory", "pos": "phrase", "d": ["The theory that many diseases are caused by microorganisms."]}
+{"w": "germain", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "germander", "pos": "noun", "d": ["A herb of the mint family, with toothed leaves and small flowers."]}
+{"w": "germane", "pos": "adjective", "d": ["Relevant or closely connected to the matter at hand."]}
+{"w": "germanium", "pos": "noun", "d": ["A brittle metallic chemical element used in semiconductors and electronics."]}
+{"w": "germanization", "pos": "noun", "d": ["The process of making something German in character or influence."]}
+{"w": "germarium", "pos": "noun", "d": ["The part of an insect ovary in which germ cells develop."]}
+{"w": "germicidal", "pos": "adjective", "d": ["Able to kill germs."]}
+{"w": "germicide", "pos": "noun", "d": ["A substance that kills germs."]}
+{"w": "germinal", "pos": "adjective", "d": ["Relating to germination or to germs, or in the earliest stage of development."]}
+{"w": "germinant", "pos": "adjective", "d": ["Beginning to sprout or germinate."]}
+{"w": "germinate", "pos": "verb", "d": ["To begin to sprout and grow from a seed."]}
+{"w": "germination", "pos": "noun", "d": ["The process by which a seed sprouts and begins to grow."]}
+{"w": "germinative", "pos": "adjective", "d": ["Able to germinate or cause germination."]}
+{"w": "germiparity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "germogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gern", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gerocomia", "pos": "noun", "d": ["The medical care of the aged."]}
+{"w": "gerocomical", "pos": "adjective", "d": ["Relating to the care of the aged."]}
+{"w": "gerocomy", "pos": "noun", "d": ["The branch of medicine concerned with the care and treatment of old age."]}
+{"w": "gerontes", "pos": "noun", "d": ["The council of elders in ancient Sparta."]}
+{"w": "gerontocracy", "pos": "noun", "d": ["Government by old people."]}
+{"w": "geropigia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gerrymander", "pos": "verb", "d": ["To redraw electoral districts so as to give one party an unfair advantage."]}
+{"w": "gerund", "pos": "noun", "d": ["A verb form ending in -ing that functions as a noun, as running in running is fun."]}
+{"w": "gery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gesling", "pos": "noun", "d": ["A young goose, a gosling."]}
+{"w": "gesse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gesso", "pos": "noun", "d": ["A mixture of plaster and glue used to prime canvas or wood for painting."]}
+{"w": "gesso duro", "pos": "phrase", "d": ["A hard variety of gesso used in gilding and surface preparation."]}
+{"w": "gest", "pos": "noun", "d": ["A notable deed or exploit.", "A tale or romance recounting heroic deeds."]}
+{"w": "gestatory", "pos": "adjective", "d": ["Relating to gestation or pregnancy."]}
+{"w": "geste", "pos": "noun", "d": ["A tale of heroic deeds, a romance."]}
+{"w": "gesticulate", "pos": "verb", "d": ["To make lively motions with the hands or arms, especially while speaking."]}
+{"w": "gesticulation", "pos": "noun", "d": ["The act of making lively hand or arm motions, especially while speaking.", "A single lively gesture of the hands or arms."]}
+{"w": "gesticulator", "pos": "noun", "d": ["A person who makes lively gestures, especially while speaking."]}
+{"w": "gesticulatory", "pos": "adjective", "d": ["Having to do with lively gestures of the hands or body."]}
+{"w": "get-penny", "pos": "noun", "d": ["A small sum of money, especially a penny earned by work."]}
+{"w": "get-up", "pos": "noun", "d": ["A costume or outfit, especially one that is showy or unusual."]}
+{"w": "geth", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "getterup", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "geusdism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gewgaw", "pos": "noun", "d": ["A small showy trinket or ornament of little real value."]}
+{"w": "geyser", "pos": "noun", "d": ["A natural spring that shoots up jets of hot water and steam at intervals."]}
+{"w": "geyserite", "pos": "noun", "d": ["A crusty mineral deposit of silica left around geysers and hot springs."]}
+{"w": "gharry", "pos": "noun", "d": ["A light covered carriage drawn by a horse, formerly common in India."]}
+{"w": "ghast", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ghastliness", "pos": "noun", "d": ["The quality of being ghastly; a pale and horrifying appearance."]}
+{"w": "ghat", "pos": "noun", "d": ["A broad flight of steps leading down to a river, especially in India.", "A mountain pass in India."]}
+{"w": "ghaut", "pos": "noun", "d": ["A variant spelling of ghat, a flight of steps leading down to a river."]}
+{"w": "ghawazi", "pos": "noun", "d": ["Women of a class of public dancers in Egypt, traditionally itinerant entertainers."]}
+{"w": "ghazal", "pos": "noun", "d": ["A lyric poem of Arabic and Persian origin, made of rhyming couplets and often about love."]}
+{"w": "ghazel", "pos": "noun", "d": ["A variant spelling of ghazal, a lyric poem in rhyming couplets."]}
+{"w": "ghazi", "pos": "noun", "d": ["A Muslim fighter against non-Muslims; a title of honor for a veteran of such wars."]}
+{"w": "gheber", "pos": "noun", "d": ["A member of the Zoroastrian community of Persia, historically called fire-worshippers."]}
+{"w": "ghebre", "pos": "noun", "d": ["A variant spelling of gheber, a Persian Zoroastrian."]}
+{"w": "ghee", "pos": "noun", "d": ["Clarified butter used in Indian cooking."]}
+{"w": "gherkin", "pos": "noun", "d": ["A small cucumber pickled in vinegar or brine."]}
+{"w": "ghess", "pos": "verb", "d": ["To guess; to form an opinion without certain knowledge (a Scots spelling)."]}
+{"w": "ghetto", "pos": "noun", "d": ["A crowded city district where members of a minority group live, often in poverty.", "Historically, a quarter of a city where Jews were required to live."]}
+{"w": "ghibelline", "pos": "noun", "d": ["A member of the medieval Italian party that backed the Holy Roman Emperor against the pope."]}
+{"w": "ghole", "pos": "noun", "d": ["A variant spelling of ghoul, an evil spirit said to rob graves and feed on the dead."]}
+{"w": "ghost dance", "pos": "phrase", "d": ["A religious dance of a late 19th-century Native American movement that foretold the return of the dead and the departure of settlers."]}
+{"w": "ghostliness", "pos": "noun", "d": ["The quality of being ghostly; a pale, spectral appearance."]}
+{"w": "ghoul", "pos": "noun", "d": ["An evil spirit of legend said to rob graves and feed on corpses.", "A person with a morbid fascination with death and corpses."]}
+{"w": "ghyll", "pos": "noun", "d": ["A narrow, steep-sided ravine, often wooded, especially in northern England."]}
+{"w": "giallolino", "pos": "noun", "d": ["A yellow pigment made from lead antimonate, used by painters and also called Naples yellow."]}
+{"w": "giambeux", "pos": "noun", "d": ["Armor protecting the legs; greaves."]}
+{"w": "giantess", "pos": "noun", "d": ["A female giant."]}
+{"w": "giantry", "pos": "noun", "d": ["Giants as a class; the race of giants."]}
+{"w": "giaour", "pos": "noun", "d": ["A term used by Turks for a non-Muslim, especially a Christian; an infidel."]}
+{"w": "gib", "pos": "noun", "d": ["A wedge or key of metal or wood used to hold parts of a machine firmly together.", "A hooked stick or curved piece of metal."]}
+{"w": "gib boom", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gib-cat", "pos": "noun", "d": ["A male cat, especially a castrated one; a tomcat."]}
+{"w": "gibaro", "pos": "noun", "d": ["A peasant farmer of the Puerto Rican countryside."]}
+{"w": "gibbartas", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gibbose", "pos": "adjective", "d": ["Humped; having a rounded swelling or protuberance."]}
+{"w": "gibbostity", "pos": "noun", "d": ["The state of being humped or rounded; a rounded protuberance."]}
+{"w": "gibbous", "pos": "adjective", "d": ["Rounded and bulging outward; humped.", "Of the moon, showing more than half but less than the full disk."]}
+{"w": "gibbsite", "pos": "noun", "d": ["A mineral consisting of aluminum hydroxide."]}
+{"w": "gibe", "pos": "noun", "d": ["A mocking or taunting remark."]}
+{"w": "gibel", "pos": "noun", "d": ["The hump of a camel."]}
+{"w": "gibingly", "pos": "adverb", "d": ["In a mocking or taunting manner."]}
+{"w": "gid", "pos": "noun", "d": ["A brain disease of sheep that makes them stagger and turn in circles."]}
+{"w": "giddily", "pos": "adverb", "d": ["In a giddy manner; dizzily or in a lighthearted, flighty way."]}
+{"w": "giddiness", "pos": "noun", "d": ["The state of being giddy; dizziness or lightheaded frivolity."]}
+{"w": "giddy", "pos": "adjective", "d": ["Dizzy; feeling lightheaded and unsteady.", "Flighty and frivolous; not serious."]}
+{"w": "giddy-paced", "pos": "adjective", "d": ["Moving with a light, unsteady, or frivolous step."]}
+{"w": "gie", "pos": "verb", "d": ["To give (a Scots form of the word)."]}
+{"w": "gier-eagle", "pos": "noun", "d": ["An old name for the lammergeier, a large bearded vulture."]}
+{"w": "gier-falcon", "pos": "noun", "d": ["A variant spelling of gerfalcon, a large falcon of northern regions."]}
+{"w": "gieseckite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "giffard injector", "pos": "phrase", "d": ["A device that uses steam pressure to force feedwater into a steam boiler, invented by Henri Giffard."]}
+{"w": "giffgaff", "pos": "noun", "d": ["Mutual giving and taking; fair exchange between parties."]}
+{"w": "giffy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "giftedness", "pos": "noun", "d": ["The quality of being gifted; natural talent or unusual ability."]}
+{"w": "gigantean", "pos": "adjective", "d": ["Like a giant; enormous in size or power."]}
+{"w": "gigantesque", "pos": "adjective", "d": ["Huge in a grotesque or extravagant way; giant-like and fantastic."]}
+{"w": "gigantine", "pos": "adjective", "d": ["Like a giant; gigantic."]}
+{"w": "gigantology", "pos": "noun", "d": ["The study of giants, usually in folklore or used humorously."]}
+{"w": "gigantomachy", "pos": "noun", "d": ["A battle between giants; in Greek myth, the war of the giants against the gods."]}
+{"w": "gige", "pos": "noun", "d": ["An old name for a fiddle or violin."]}
+{"w": "gigerium", "pos": "noun", "d": ["The gizzard of a bird."]}
+{"w": "giggle", "pos": "verb", "d": ["To laugh in a light, silly, or nervous way."]}
+{"w": "giggly", "pos": "adjective", "d": ["Given to giggling; laughing easily in a silly way."]}
+{"w": "giggyng", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gigot", "pos": "noun", "d": ["The leg of a sheep, served as meat.", "A sleeve puffed out at the shoulder like a leg of mutton."]}
+{"w": "gigue", "pos": "noun", "d": ["A lively dance in triple time; a jig."]}
+{"w": "gila monster", "pos": "phrase", "d": ["A large venomous lizard of the deserts of the southwestern United States and Mexico."]}
+{"w": "gild", "pos": "verb", "d": ["To cover with a thin layer of gold.", "To give a bright or attractive but false appearance to."]}
+{"w": "gile", "pos": "noun", "d": ["Guile; crafty deceit (an old spelling of guile)."]}
+{"w": "gill", "pos": "noun", "d": ["The organ through which a fish breathes, taking oxygen from water.", "A unit of liquid measure equal to a quarter of a pint.", "A narrow wooded ravine (also spelled ghyll)."]}
+{"w": "gill-flirt", "pos": "noun", "d": ["A flirtatious or flighty young woman; a coquette."]}
+{"w": "gillian", "pos": "noun", "d": ["A girl or young woman, especially a flirtatious one."]}
+{"w": "gillie", "pos": "noun", "d": ["A male attendant or guide for hunting and fishing, especially in Scotland."]}
+{"w": "gilly", "pos": "noun", "d": ["A variant spelling of gillie, a hunting or fishing attendant."]}
+{"w": "gilour", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gilse", "pos": "noun", "d": ["A young salmon returning from the sea for the first time; a grilse."]}
+{"w": "gilt", "pos": "noun", "d": ["A thin covering of gold, or the gold used for gilding.", "A young female pig that has not yet farrowed."]}
+{"w": "gilt-edge", "pos": "adjective", "d": ["Having gilded edges; of the finest quality, as in gilt-edged securities."]}
+{"w": "giltif", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gim", "pos": "adjective", "d": ["Neat and trim in appearance (Scots)."]}
+{"w": "gimbal", "pos": "noun", "d": ["A device of pivoted rings that keeps an instrument level and steady despite motion."]}
+{"w": "gimmal", "pos": "noun", "d": ["A ring made of two or more interlinked hoops; any jointed or interlinked mechanism."]}
+{"w": "gimmor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gimp", "pos": "noun", "d": ["A narrow ornamental braid or cord used as trimming on clothing or upholstery.", "A limp, or a lame person (slang, sometimes offensive)."]}
+{"w": "gin", "pos": "noun", "d": ["A clear alcoholic spirit flavored with juniper berries.", "A machine that separates cotton fibers from their seeds.", "A trap or snare for catching animals."]}
+{"w": "ging", "pos": "noun", "d": ["A company or band of people (an old form of gang)."]}
+{"w": "gingival", "pos": "adjective", "d": ["Relating to the gums of the mouth."]}
+{"w": "gingle", "pos": "verb", "d": ["To make a light ringing sound; to jingle."]}
+{"w": "ginglyform", "pos": "adjective", "d": ["Shaped like a hinge joint; hinge-like in form."]}
+{"w": "ginglymodi", "pos": "noun", "d": ["Hinge-like joints; the plural of ginglymus."]}
+{"w": "ginglymoid", "pos": "adjective", "d": ["Resembling a hinge joint in structure."]}
+{"w":"ginglymus","pos":"noun","d":["A hinge joint in the body, such as the elbow or knee, that allows movement in one direction only."]}
+{"w":"ginkgo","pos":"noun","d":["A tall tree from China with fan-shaped leaves, the only surviving member of an ancient plant group.","The fan-shaped leaf or seed of this tree, used in herbal preparations."]}
+{"w":"ginny-carriage","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ginseng","pos":"noun","d":["A slow-growing plant of eastern Asia whose forked root is used in traditional herbal medicine.","The dried root of this plant, sold as a tonic."]}
+{"w":"gip","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"gipoun","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"gipser","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"gipsy","pos":"noun","d":["An older spelling of gypsy, a member of the Romani people, now often considered offensive.","A person who lives a wandering life."]}
+{"w":"gipsy moth","pos":"noun","d":["A moth of Europe and Asia, introduced to North America, whose caterpillars strip the leaves from forest trees."]}
+{"w":"giraffe","pos":"noun","d":["A tall African mammal with a very long neck, long legs, and a spotted coat, that feeds on leaves high in trees."]}
+{"w":"girandole","pos":"noun","d":["An ornate branched candlestick or candelabra, often decorated with crystal.","A small revolving firework that throws off colored sparks.","A jeweled earring or brooch made of clustered stones."]}
+{"w":"girasol","pos":"noun","d":["A variety of opal that shows a shifting play of color when turned in the light.","A sunflower."]}
+{"w":"girasole","pos":"noun","d":["A sunflower, so called because its head turns to follow the sun.","A variety of fire opal with shifting colors."]}
+{"w":"gird","pos":"verb","d":["To fasten or encircle with a belt or band.","To prepare oneself for action, as in gird your loins.","To mock or sneer at, as in to gird at someone."]}
+{"w":"girdle","pos":"noun","d":["A belt or band worn around the waist.","A bony structure that encircles part of the body, such as the shoulder girdle.","Anything that encircles or bounds something."]}
+{"w":"gire","pos":"noun","d":["A circle or ring; an archaic word for a circuit or gyre."]}
+{"w":"girkin","pos":"noun","d":["An older spelling of gherkin, a small cucumber pickled in vinegar or brine."]}
+{"w":"girlond","pos":"noun","d":["An archaic spelling of garland, a wreath of flowers or leaves worn or hung as decoration."]}
+{"w":"girn","pos":"verb","d":["To show the teeth in a snarl or grimace.","To grumble or complain."]}
+{"w":"girondist","pos":"noun","d":["A member of the Gironde, the moderate republican party in France during the Revolution."]}
+{"w":"girrock","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"girt","pos":"verb","d":["The past tense and past participle of gird, meaning encircled or fastened with a band."]}
+{"w":"girth","pos":"noun","d":["The distance around something, as measured by a band or tape.","A strap that passes under a horse's belly to hold the saddle in place.","A person's waistline or bodily bulk."]}
+{"w":"gisarm","pos":"noun","d":["A medieval polearm consisting of a long shaft topped with a bladed axe-like head."]}
+{"w":"gise","pos":"noun","d":["An archaic spelling of guise, meaning outward manner or appearance."]}
+{"w":"gisle","pos":"noun","d":["An archaic word for a hostage held as a pledge for an agreement."]}
+{"w":"gismondine","pos":"noun","d":["A mineral of the zeolite group, a hydrated calcium aluminum silicate that forms small crystals."]}
+{"w":"gismondite","pos":"noun","d":["A variant name for gismondine, a calcium aluminum silicate mineral of the zeolite group."]}
+{"w":"gist","pos":"noun","d":["The main point or essential meaning of a statement or matter."]}
+{"w":"git","pos":"noun","d":["A foolish or unpleasant person, in British slang.","As a command, git means get out or go away."]}
+{"w":"gite","pos":"noun","d":["A furnished holiday cottage in France, rented out to travelers for self-catering stays."]}
+{"w":"gith","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"giust","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"giusto","pos":"adverb","d":["In music, a direction to play in strict, steady tempo, as in tempo giusto.","The Italian word for just, right, or correct."]}
+{"w":"gizzard","pos":"noun","d":["The muscular second stomach of a bird, which grinds food with the help of swallowed grit."]}
+{"w":"glabella","pos":"noun","d":["The smooth, slightly raised area of the forehead between the eyebrows."]}
+{"w":"glabellum","pos":"noun","d":["A variant of glabella, the smooth area between the eyebrows.","The raised middle lobe of a trilobite's head shield."]}
+{"w":"glabrate","pos":"verb","d":["To make smooth and bare of hair or down."]}
+{"w":"glabreate","pos":"adjective","d":["Becoming smooth and hairless, as a plant part losing its covering of fine hairs."]}
+{"w":"glabriate","pos":"verb","d":["To make smooth by removing hair or down; a variant of glabrate."]}
+{"w":"glabrity","pos":"noun","d":["The quality of being smooth and free of hair; smoothness."]}
+{"w":"glabrous","pos":"adjective","d":["Smooth and free of hair, down, or bristles, as a leaf or stem."]}
+{"w":"glace","pos":"adjective","d":["Coated with a glossy icing or glaze, as glace cherries.","Made smooth and glossy like ice."]}
+{"w":"glacial","pos":"adjective","d":["Of or like ice or glaciers; extremely cold.","Slow as a glacier.","Cold and unfriendly in manner."]}
+{"w":"glaciate","pos":"verb","d":["To cover with ice or glaciers.","To freeze or turn into ice."]}
+{"w":"glaciation","pos":"noun","d":["The covering of land by glaciers.","A period in the past when great ice sheets covered large parts of the earth."]}
+{"w":"glacier","pos":"noun","d":["A huge mass of ice that moves slowly down a mountain valley or across land."]}
+{"w":"glacious","pos":"adjective","d":["Icy; like ice or of the nature of ice."]}
+{"w":"glacis","pos":"noun","d":["A gently sloping bank, especially the cleared slope in front of a fortress.","In painting, a thin translucent layer of paint laid over another color."]}
+{"w":"glade","pos":"noun","d":["An open grassy space in a forest."]}
+{"w":"gladiate","pos":"verb","d":["To fight as a gladiator; to contend in single combat."]}
+{"w":"gladiator","pos":"noun","d":["A trained fighter in ancient Rome who fought in public arenas for entertainment.","A person engaged in fierce competition or debate."]}
+{"w":"gladiatorian","pos":"adjective","d":["Of or like a gladiator or gladiatorial combat."]}
+{"w":"gladiatory","pos":"adjective","d":["Pertaining to gladiators or their combats."]}
+{"w":"gladiature","pos":"noun","d":["The profession or practice of gladiatorial fighting."]}
+{"w":"gladiole","pos":"noun","d":["An older form of gladiolus, the garden plant with sword-shaped leaves and showy flower spikes."]}
+{"w":"gladiolus","pos":"noun","d":["A garden plant with sword-shaped leaves and tall spikes of bright trumpet-shaped flowers.","The long middle part of the breastbone."]}
+{"w":"gladius","pos":"noun","d":["The short double-edged sword carried by Roman foot soldiers."]}
+{"w":"glair","pos":"noun","d":["A glaze made from beaten egg white, used in bookbinding and on leather to give a glossy finish.","Any slimy, glossy film or substance."]}
+{"w":"glaire","pos":"noun","d":["A variant spelling of glair, a preparation of egg white used as a glaze."]}
+{"w":"glairin","pos":"noun","d":["A jelly-like organic substance found in some sulfur-rich mineral springs."]}
+{"w":"glairy","pos":"adjective","d":["Like glair; slimy and glossy."]}
+{"w":"glaive","pos":"noun","d":["A medieval weapon consisting of a long shaft with a broad single-edged blade.","A sword, in poetic or romantic use."]}
+{"w":"glama","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"glamour","pos":"noun","d":["A mysterious attractive charm that makes someone or something seem fascinating.","Originally, a magic spell or enchantment."]}
+{"w":"glamourie","pos":"noun","d":["A Scots form of glamour, meaning magic or enchantment."]}
+{"w":"gland","pos":"noun","d":["An organ in the body that produces and releases a fluid, such as saliva, sweat, or hormones.","An old word for an acorn."]}
+{"w":"glandered","pos":"adjective","d":["Affected with glanders, a contagious disease of horses."]}
+{"w":"glanderous","pos":"adjective","d":["Pertaining to glanders, or affected by it."]}
+{"w":"glandiferous","pos":"adjective","d":["Bearing acorns or other nut-like fruits."]}
+{"w":"glandiform","pos":"adjective","d":["Shaped like a gland or an acorn."]}
+{"w":"glandular","pos":"adjective","d":["Of or relating to glands.","Having glands; like a gland in structure."]}
+{"w":"glandulation","pos":"noun","d":["The formation or development of glands.","The condition of being provided with glands."]}
+{"w":"glanduliferous","pos":"adjective","d":["Bearing glands or small gland-like parts."]}
+{"w":"glandulose","pos":"adjective","d":["Full of small glands; covered with gland-like dots."]}
+{"w":"glandulosity","pos":"noun","d":["The condition of being glandulose; fullness of small glands."]}
+{"w":"glandulous","pos":"adjective","d":["Having many small glands."]}
+{"w":"glans","pos":"noun","d":["In anatomy, the rounded sensitive tip of the penis or clitoris.","An acorn or an acorn-shaped part."]}
+{"w":"glare","pos":"verb","d":["To stare fiercely or angrily.","To shine with a harsh, dazzling light."]}
+{"w":"glariness","pos":"noun","d":["The quality of being glary; harsh dazzling brightness or slippery smoothness."]}
+{"w":"glary","pos":"adjective","d":["Shining with a harsh, dazzling light.","Smooth and slippery, like ice."]}
+{"w":"glass maker","pos":"noun","d":["A person who makes glass articles; a glassblower or glass manufacturer."]}
+{"w":"glass-crab","pos":"noun","d":["A small crab with a thin, nearly transparent shell."]}
+{"w":"glass-faced","pos":"adjective","d":["Having a face or front covered with glass.","Smooth and shiny like glass."]}
+{"w":"glass-gazing","pos":"noun","d":["The act of gazing at one's own reflection in a mirror.","Vain admiration of one's own appearance."]}
+{"w":"glass-rope","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"glass-snail","pos":"noun","d":["A tiny land snail whose shell is thin and glassy-transparent."]}
+{"w":"glass-snake","pos":"noun","d":["A legless lizard of the southern United States whose long tail breaks off easily when seized."]}
+{"w":"glass-sponge","pos":"noun","d":["A deep-sea sponge whose skeleton is made of glassy silica fibers."]}
+{"w":"glassily","pos":"adverb","d":["In a glassy manner; with a dull, fixed, expressionless stare."]}
+{"w":"glassiness","pos":"noun","d":["The quality or state of being glassy."]}
+{"w":"glassite","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"glassy","pos":"adjective","d":["Like glass in smoothness or transparency.","Dull and fixed, as a glassy stare."]}
+{"w":"glastonbury thorn","pos":"noun","d":["A variety of hawthorn at Glastonbury, England, famed in legend for blooming at Christmas."]}
+{"w":"glasynge","pos":"noun","d":["An archaic spelling of glazing, the fitting of glass into windows."]}
+{"w":"glauberite","pos":"noun","d":["A mineral composed of sodium and calcium sulfate, forming clear or grayish crystals."]}
+{"w":"glaucescent","pos":"adjective","d":["Becoming bluish-gray-green; developing a waxy grayish bloom like that on a plum."]}
+{"w":"glaucic","pos":"adjective","d":["Of a dull bluish-gray or sea-green color."]}
+{"w":"glaucine","pos":"noun","d":["A bitter alkaloid obtained from the yellow horned poppy."]}
+{"w":"glaucodot","pos":"noun","d":["A grayish metallic mineral containing cobalt, iron, arsenic, and sulfur."]}
+{"w": "glaucoma", "pos": "noun", "d": ["A disease of the eye in which pressure builds up inside the eyeball and damages the optic nerve, often causing loss of vision."]}
+{"w": "glaucomatous", "pos": "adjective", "d": ["Relating to or caused by glaucoma."]}
+{"w": "glaucometer", "pos": "noun", "d": ["An instrument for measuring the firmness of the eyeball to detect glaucoma."]}
+{"w": "glauconite", "pos": "noun", "d": ["A greenish mineral composed of hydrated silicates of iron and potassium, commonly found in marine sedimentary rocks."]}
+{"w": "glaucophane", "pos": "noun", "d": ["A blue amphibole mineral found in certain metamorphic rocks."]}
+{"w": "glaucosis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "glaucous", "pos": "adjective", "d": ["Covered with a pale powdery or waxy coating that can be rubbed off, as on plums and cabbage leaves.", "Of a dull sea-green or grayish-blue color."]}
+{"w": "glaucus", "pos": "noun", "d": ["A genus of small bright-blue sea slugs that float at the surface of warm oceans."]}
+{"w": "glaum", "pos": "verb", "d": ["To grasp or snatch suddenly."]}
+{"w": "glave", "pos": "noun", "d": ["A sword or a long-handled weapon fitted with a blade; a glaive."]}
+{"w": "glaymore", "pos": "noun", "d": ["A large two-handed broadsword once used in the Scottish Highlands; a claymore."]}
+{"w": "glaze", "pos": "verb", "d": ["To coat with a smooth, glossy, often glasslike finish, as in glazing pottery or pastry.", "To fit windows with glass or to cover an opening with glass."]}
+{"w": "glazen", "pos": "adjective", "d": ["Made of glass or having the nature of glass; glassy."]}
+{"w": "glazy", "pos": "adjective", "d": ["Smooth and shiny like a glaze; glassy."]}
+{"w": "glead", "pos": "noun", "d": ["The kite, a bird of prey with long wings and a forked tail."]}
+{"w": "gleam", "pos": "noun", "d": ["A faint or brief flash of light.", "A trace or faint sign of something, as a gleam of hope."]}
+{"w": "gleamy", "pos": "adjective", "d": ["Full of gleams; shining faintly or intermittently."]}
+{"w": "glean", "pos": "verb", "d": ["To gather what is left behind after a harvest, especially grain.", "To collect information or facts bit by bit from various sources."]}
+{"w": "gleba", "pos": "noun", "d": ["The fleshy, spore-bearing inner mass of certain fungi such as puffballs."]}
+{"w": "glebe", "pos": "noun", "d": ["A piece of land belonging to a church or parish, especially one providing income for the clergy.", "Soil or earth; a field or clod."]}
+{"w": "glebosity", "pos": "noun", "d": ["The quality of being lumpy or full of clods."]}
+{"w": "glebous", "pos": "adjective", "d": ["Full of lumps or clods; lumpy."]}
+{"w": "gleby", "pos": "adjective", "d": ["Full of clods; turfy."]}
+{"w": "glede", "pos": "noun", "d": ["The kite, a soaring bird of prey; a glead."]}
+{"w": "glee", "pos": "noun", "d": ["Great delight or joy; exultant happiness.", "A part-song sung by three or more voices, usually for men's voices."]}
+{"w": "glee club", "pos": "noun", "d": ["A group of singers organized to perform songs, especially glee songs, for concerts."]}
+{"w": "gleek", "pos": "verb", "d": ["To glance aside or to the side.", "To squint or to look with a sly glance."]}
+{"w": "gleen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gleet", "pos": "noun", "d": ["A chronic slight discharge of thin mucus from the urethra or vagina, following inflammation."]}
+{"w": "gleety", "pos": "adjective", "d": ["Relating to or affected with gleet."]}
+{"w": "gleg", "pos": "noun", "d": ["A quick sharp look; a glimpse.", "An alert or keen glance."]}
+{"w": "gleire", "pos": "noun", "d": ["The white of an egg; glair."]}
+{"w": "glengarry", "pos": "noun", "d": ["A flat woolen cap with a crease down the middle, worn as part of Scottish Highland dress."]}
+{"w": "glengarry bonnet", "pos": "noun", "d": ["The flat creased woolen cap worn with Scottish Highland dress."]}
+{"w": "glenlivat", "pos": "noun", "d": ["A Scotch whisky made in the valley of the Livet in Scotland."]}
+{"w": "glenlivet", "pos": "noun", "d": ["A well-known single-malt Scotch whisky from the Livet valley in Scotland."]}
+{"w": "glenoid", "pos": "adjective", "d": ["Shallow and socketlike, as the cavity of the shoulder blade that receives the head of the upper arm bone."]}
+{"w": "glent", "pos": "verb", "d": ["To glance or flash suddenly, as of light.", "To dart a quick look."]}
+{"w": "gleucometer", "pos": "noun", "d": ["An instrument for measuring the sweetness or sugar content of grape juice or must."]}
+{"w": "glew", "pos": "noun", "d": ["Glue; a sticky substance used for joining things together."]}
+{"w": "gley", "pos": "noun", "d": ["A sticky, bluish-gray layer of clay found in waterlogged soils."]}
+{"w": "gleyre", "pos": "noun", "d": ["The white of an egg; glair."]}
+{"w": "gliadin", "pos": "noun", "d": ["One of the proteins that make up gluten in wheat and some other grains."]}
+{"w": "glib", "pos": "adjective", "d": ["Speaking smoothly and readily but in a way that seems insincere or superficial."]}
+{"w": "glibbery", "pos": "adjective", "d": ["Slippery in speech; smooth-talking and evasive."]}
+{"w": "glicke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "glidden", "pos": "verb", "d": ["The past participle of glide."]}
+{"w": "glidder", "pos": "noun", "d": ["Ice or a smooth, slippery surface; a place where one can slide."]}
+{"w": "gliddery", "pos": "adjective", "d": ["Smooth and slippery, as a glidder."]}
+{"w": "glide", "pos": "verb", "d": ["To move smoothly and quietly, as if sliding without effort.", "To fly without engine power, as in a glider."]}
+{"w": "gliden", "pos": "verb", "d": ["An old past participle of glide."]}
+{"w": "gliding angle", "pos": "noun", "d": ["The angle between the flight path of a gliding aircraft and the horizontal."]}
+{"w": "gliding machine", "pos": "noun", "d": ["An early heavier-than-air aircraft without an engine, made to soar on air currents; a glider."]}
+{"w": "glidingly", "pos": "adverb", "d": ["In a smooth, sliding manner."]}
+{"w": "gliff", "pos": "noun", "d": ["A sudden fright or shock; a startling surprise.", "A brief glimpse or glance."]}
+{"w": "glike", "pos": "noun", "d": ["A sly sidelong glance.", "A trick or stratagem."]}
+{"w": "glim", "pos": "noun", "d": ["A faint light or glimpse; a brief flash.", "A candle or lamp."]}
+{"w": "glimpse", "pos": "noun", "d": ["A very brief or hurried view of something."]}
+{"w": "glint", "pos": "noun", "d": ["A small flash or sparkle of light."]}
+{"w": "glioma", "pos": "noun", "d": ["A tumor arising from the glial cells that support nerve tissue, especially in the brain."]}
+{"w": "glires", "pos": "noun", "d": ["An order of mammals comprising the rodents and lagomorphs, such as rabbits and hares."]}
+{"w": "glissade", "pos": "noun", "d": ["A controlled slide down a steep snow slope, usually in a standing or sitting position.", "A gliding step in ballet."]}
+{"w": "glissando", "pos": "noun", "d": ["In music, a rapid slide across consecutive notes on an instrument."]}
+{"w": "glissette", "pos": "noun", "d": ["A small sliding frame or panel, as of a window."]}
+{"w": "glist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "glisteringly", "pos": "adverb", "d": ["In a sparkling or glittering manner."]}
+{"w": "glitter", "pos": "verb", "d": ["To sparkle with reflected light; to shine with many small flashes."]}
+{"w": "glitteringly", "pos": "adverb", "d": ["With a sparkling or flashing brilliance."]}
+{"w": "gloam", "pos": "verb", "d": ["To grow dark or dusky, as at twilight."]}
+{"w": "gloar", "pos": "verb", "d": ["To stare or glare fixedly."]}
+{"w": "gloat", "pos": "verb", "d": ["To look or think about something with malicious satisfaction or smug delight."]}
+{"w": "globard", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "globate", "pos": "adjective", "d": ["Shaped like a globe; globular."]}
+{"w": "globe-shaped", "pos": "adjective", "d": ["Having the form of a globe; spherical."]}
+{"w": "globiferous", "pos": "adjective", "d": ["Bearing globes or spherical bodies."]}
+{"w": "globigerina", "pos": "noun", "d": ["A genus of tiny marine organisms with globular chambered shells, whose remains form much of the deep-sea ooze."]}
+{"w": "globose", "pos": "adjective", "d": ["Spherical or nearly spherical in shape."]}
+{"w": "globosity", "pos": "noun", "d": ["The quality of being globose; roundness."]}
+{"w": "globous", "pos": "adjective", "d": ["Globular; shaped like a globe."]}
+{"w": "globular", "pos": "adjective", "d": ["Shaped like a globe or ball; spherical."]}
+{"w": "globule", "pos": "noun", "d": ["A tiny ball or sphere, especially a small drop of liquid."]}
+{"w": "globulet", "pos": "noun", "d": ["A very small globule."]}
+{"w": "globuliferous", "pos": "adjective", "d": ["Bearing or producing globules."]}
+{"w": "globulimeter", "pos": "noun", "d": ["An instrument for counting or measuring the globules in a fluid, such as blood corpuscles."]}
+{"w": "globulin", "pos": "noun", "d": ["Any of a class of simple proteins found in blood, milk, and plant seeds."]}
+{"w": "globulite", "pos": "noun", "d": ["A tiny spherical crystal found in volcanic glass."]}
+{"w": "globulous", "pos": "adjective", "d": ["Having the form of small globes; like globules."]}
+{"w": "globy", "pos": "adjective", "d": ["Round like a globe; globular."]}
+{"w": "glochidiate", "pos": "adjective", "d": ["Furnished with glochidia; covered with barbed bristles."]}
+{"w": "glochidium", "pos": "noun", "d": ["A barbed hair or bristle, as on certain cacti.", "The larval stage of certain freshwater mussels, which attaches to fish."]}
+{"w": "glockenspiel", "pos": "noun", "d": ["A percussion instrument of tuned steel bars struck with mallets, giving a bright bell-like sound."]}
+{"w": "glode", "pos": "verb", "d": ["The past tense of glide."]}
+{"w": "glombe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "glome", "pos": "noun", "d": ["A ball, sphere, or rounded cluster, as of flowers."]}
+{"w": "glomerous", "pos": "adjective", "d": ["Formed into a ball or cluster; closely clustered."]}
+{"w": "glomerulus", "pos": "noun", "d": ["A small ball of capillaries in the kidney where waste is filtered from the blood."]}
+{"w": "glomuliferous", "pos": "adjective", "d": ["Bearing glomes or rounded clusters."]}
+{"w": "glonoin", "pos": "noun", "d": ["Nitroglycerin, an oily explosive liquid also used in medicine."]}
+{"w": "glonoine", "pos": "noun", "d": ["Nitroglycerin, especially as used in homeopathic preparations."]}
+{"w": "gloom", "pos": "noun", "d": ["Partial or total darkness; dimness.", "A feeling of dejection or hopelessness; melancholy."]}
+{"w": "gloomily", "pos": "adverb", "d": ["In a dark, sad, or hopeless manner."]}
+{"w": "gloominess", "pos": "noun", "d": ["The state or quality of being gloomy.", "A feeling of sadness or hopelessness."]}
+{"w": "gloomth", "pos": "noun", "d": ["A rare word meaning gloom or darkness."]}
+{"w": "gloomy", "pos": "adjective", "d": ["Dark and lacking light.", "Sad and without hope."]}
+{"w": "gloppen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "glore", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gloria", "pos": "noun", "d": ["A hymn of praise beginning with the words Glory to God in the highest.", "A halo or ring of light shown around a sacred figure in art."]}
+{"w": "glorification", "pos": "noun", "d": ["The act of praising or honoring someone or something very highly.", "The act of making something seem more splendid or important than it is."]}
+{"w": "glorify", "pos": "verb", "d": ["To praise or honor with deep admiration.", "To make something appear more wonderful or important than it really is."]}
+{"w": "gloriole", "pos": "noun", "d": ["A halo of light around the head of a sacred figure."]}
+{"w": "gloriosa", "pos": "noun", "d": ["A genus of climbing lilies with bright flame-shaped flowers."]}
+{"w": "glorioser", "pos": "adjective", "d": ["The comparative form of glorious, meaning more glorious."]}
+{"w": "glorioso", "pos": "adjective", "d": ["An Italian word meaning glorious, used in music to call for a glorious style of playing."]}
+{"w": "glose", "pos": "noun", "d": ["An explanatory note or comment on a difficult word or passage.", "Flattering or insincere talk."]}
+{"w": "gloss", "pos": "noun", "d": ["A brief explanation of a difficult word or passage.", "A smooth, shiny surface finish."]}
+{"w": "glossa", "pos": "noun", "d": ["The tongue, especially the central lobe of an insect's lower lip."]}
+{"w": "glossata", "pos": "noun", "d": ["The suborder of insects that includes moths and butterflies, having a coiled sucking proboscis."]}
+{"w": "glossily", "pos": "adverb", "d": ["In a glossy manner, with a bright shine."]}
+{"w": "glossiness", "pos": "noun", "d": ["The quality of being glossy or shiny."]}
+{"w": "glossitis", "pos": "noun", "d": ["Inflammation of the tongue."]}
+{"w": "glossocomon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "glossoepiglottic", "pos": "adjective", "d": ["Relating to the tongue and the epiglottis."]}
+{"w": "glossographer", "pos": "noun", "d": ["A person who writes glosses or explanatory notes."]}
+{"w": "glossographical", "pos": "adjective", "d": ["Relating to glossography."]}
+{"w": "glossography", "pos": "noun", "d": ["The writing of explanatory notes or glosses.", "A collection of such notes."]}
+{"w": "glossohyal", "pos": "adjective", "d": ["Relating to the tongue and the hyoid bone.", "The tongue bone of fishes."]}
+{"w": "glossolalia", "pos": "noun", "d": ["Speechlike sounds uttered in religious ecstasy and taken to be an unknown language."]}
+{"w": "glossolaly", "pos": "noun", "d": ["Another word for glossolalia."]}
+{"w": "glossological", "pos": "adjective", "d": ["Relating to the study of language."]}
+{"w": "glossologist", "pos": "noun", "d": ["A person skilled in the study of language."]}
+{"w": "glossopharyngeal", "pos": "adjective", "d": ["Relating to the tongue and the pharynx."]}
+{"w": "glossy", "pos": "adjective", "d": ["Smooth and shiny.", "Printed on shiny paper, as a glossy magazine."]}
+{"w": "glost oven", "pos": "phrase", "d": ["A kiln in which glazed pottery is fired."]}
+{"w": "glottal", "pos": "adjective", "d": ["Relating to the glottis.", "Produced at the glottis, as a glottal sound."]}
+{"w": "glottic", "pos": "adjective", "d": ["Relating to the glottis."]}
+{"w": "glottidean", "pos": "adjective", "d": ["Relating to the glottis."]}
+{"w": "glottis", "pos": "noun", "d": ["The opening between the vocal cords in the larynx."]}
+{"w": "glottological", "pos": "adjective", "d": ["Relating to glottology, the study of languages."]}
+{"w": "glottologist", "pos": "noun", "d": ["A student of glottology."]}
+{"w": "glottology", "pos": "noun", "d": ["The science of language; linguistics."]}
+{"w": "glout", "pos": "verb", "d": ["To look sullen; to pout or scowl."]}
+{"w": "glove", "pos": "noun", "d": ["A covering for the hand with separate sections for the fingers.", "A padded mitt worn in boxing or baseball."]}
+{"w": "glowingly", "pos": "adverb", "d": ["In a glowing manner, with bright warmth.", "With enthusiastic praise."]}
+{"w": "gloxinia", "pos": "noun", "d": ["A tropical American plant grown for its large bell-shaped flowers."]}
+{"w": "gloze", "pos": "verb", "d": ["To explain away or make light of a fault.", "To flatter with smooth words."]}
+{"w": "glucic", "pos": "adjective", "d": ["Relating to sugar or glucose."]}
+{"w": "glucina", "pos": "noun", "d": ["An old name for beryllium oxide."]}
+{"w": "glucinic", "pos": "adjective", "d": ["Relating to glucina."]}
+{"w": "glucinum", "pos": "noun", "d": ["An old name for the element beryllium."]}
+{"w": "glucogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "glucogenesis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gluconic", "pos": "adjective", "d": ["Relating to gluconic acid, an acid made from glucose."]}
+{"w": "glucoside", "pos": "noun", "d": ["A compound formed from glucose joined to another substance."]}
+{"w": "glucosuria", "pos": "noun", "d": ["The presence of sugar in the urine."]}
+{"w": "glue", "pos": "noun", "d": ["A sticky substance used to join things together.", "The act of joining with glue."]}
+{"w": "gluey", "pos": "adjective", "d": ["Like glue; sticky."]}
+{"w": "gluish", "pos": "adjective", "d": ["Somewhat gluey; slightly sticky."]}
+{"w": "glum", "pos": "adjective", "d": ["Sullen and silent from disappointment or low spirits."]}
+{"w": "glumaceous", "pos": "adjective", "d": ["Resembling or bearing glumes."]}
+{"w": "glume", "pos": "noun", "d": ["One of the chaffy bracts enclosing the flowers of grasses and grains."]}
+{"w": "glumella", "pos": "noun", "d": ["A small glume; another name for the glumelle."]}
+{"w": "glumelle", "pos": "noun", "d": ["A small chaffy scale within the flower of a grass."]}
+{"w": "glummy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "glump", "pos": "verb", "d": ["To look sullen; to sulk or pout."]}
+{"w": "glumpy", "pos": "adjective", "d": ["Sullen; sulky."]}
+{"w": "glunch", "pos": "verb", "d": ["To scowl or look sullen."]}
+{"w": "glut", "pos": "verb", "d": ["To fill to overflowing.", "To eat or take in to excess."]}
+{"w": "glutaconic", "pos": "adjective", "d": ["Relating to glutaconic acid, a crystalline organic acid."]}
+{"w": "glutaeus", "pos": "noun", "d": ["Any of the large muscles of the buttocks; another spelling of gluteus."]}
+{"w": "glutaric", "pos": "adjective", "d": ["Relating to glutaric acid, a crystalline organic acid."]}
+{"w": "glutazine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "gluteal", "pos": "adjective", "d": ["Relating to the buttocks."]}
+{"w": "gluteus", "pos": "noun", "d": ["Any of the large muscles forming the buttocks."]}
+{"w": "glutin", "pos": "noun", "d": ["The gelatinous substance obtained from bones and hides, used in making glue."]}
+{"w": "glutinative", "pos": "adjective", "d": ["Tending to stick or glue things together."]}
+{"w": "glutinosity", "pos": "noun", "d": ["The quality of being glutinous or sticky."]}
+{"w": "glycerate", "pos": "noun", "d": ["A salt or ester of glyceric acid."]}
+{"w": "glyceric", "pos": "adjective", "d": ["Relating to glyceric acid, an acid derived from glycerol."]}
+{"w": "glyceride", "pos": "noun", "d": ["A compound formed from glycerol and fatty acids; a fat."]}
+{"w": "glycerin", "pos": "noun", "d": ["A thick, sweet, colorless liquid used in soaps, medicines, and explosives."]}
+{"w": "glycerine", "pos": "noun", "d": ["Another spelling of glycerin."]}
+{"w": "glycerite", "pos": "noun", "d": ["A medicinal preparation in which glycerin is the main solvent."]}
+{"w": "glycerol", "pos": "noun", "d": ["The chemical name for glycerin."]}
+{"w": "glycerole", "pos": "noun", "d": ["A preparation containing glycerin."]}
+{"w": "glyceryl", "pos": "noun", "d": ["The chemical group derived from glycerol."]}
+{"w": "glycide", "pos": "noun", "d": ["A chemical compound derived from glycerol."]}
+{"w": "glycidic", "pos": "adjective", "d": ["Relating to glycide."]}
+{"w": "glycin", "pos": "noun", "d": ["A photographic developer.", "A variant name for glycine, a simple amino acid."]}
+{"w": "glycocholate", "pos": "noun", "d": ["A salt of glycocholic acid found in bile."]}
+{"w": "glycocholic", "pos": "adjective", "d": ["Relating to glycocholic acid, an acid found in bile."]}
+{"w": "glycocin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "glycocoll", "pos": "noun", "d": ["An old name for glycine, a simple amino acid."]}
+{"w": "glycogen", "pos": "noun", "d": ["A starchy substance stored in the liver and muscles as a reserve of energy."]}
+{"w": "glycogenesis", "pos": "noun", "d": ["The formation of glycogen in the body."]}
+{"w": "glycogeny", "pos": "noun", "d": ["The production of sugar or glycogen in the body."]}
+{"w": "glycol", "pos": "noun", "d": ["A sweet, syrupy alcohol used as antifreeze and in making plastics."]}
+{"w": "glycoluril", "pos": "noun", "d": ["A crystalline chemical compound made from urea and glyoxal."]}
+{"w": "glycolyl", "pos": "noun", "d": ["The chemical group derived from glycolic acid."]}
+{"w": "glyconian", "pos": "adjective", "d": ["Relating to a form of ancient Greek verse."]}
+{"w": "glyconic", "pos": "adjective", "d": ["Relating to glyconic verse, a meter of ancient Greek poetry."]}

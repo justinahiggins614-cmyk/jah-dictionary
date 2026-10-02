@@ -23999,3 +23999,803 @@
 {"w": "homodemic", "pos": "adjective", "d": ["Developed from the same original local population or deme."]}
 {"w": "homodermic", "pos": "adjective", "d": ["Developed from the same germ layer of the embryo."]}
 {"w": "homodermy", "pos": "noun", "d": ["Correspondence between the germ layers of different organisms; homology of germinal layers."]}
+{"w": "homodont", "pos": "adjective", "d": ["Having teeth all of one kind, as most reptiles."]}
+{"w": "homodromal", "pos": "adjective", "d": ["Running or winding in the same direction, as the spirals of leaves."]}
+{"w": "homodromous", "pos": "adjective", "d": ["Running in the same direction; homodromal."]}
+{"w": "homodynamic", "pos": "adjective", "d": ["Having like powers or functions."]}
+{"w": "homodynamous", "pos": "adjective", "d": ["Having the same powers or capacities; homodynamic."]}
+{"w": "homodynamy", "pos": "noun", "d": ["The state of having like powers, functions, or potentialities."]}
+{"w": "homoeomeria", "pos": "noun", "d": ["The doctrine of Anaxagoras that all things are made of infinitely small particles like themselves."]}
+{"w": "homoeomeric", "pos": "adjective", "d": ["Composed of like parts; of the nature of homoeomeria."]}
+{"w": "homoeomerous", "pos": "adjective", "d": ["Composed of similar parts; homoeomeric."]}
+{"w": "homoeomery", "pos": "noun", "d": ["The state of being composed of like parts; the doctrine of homoeomeria."]}
+{"w": "homoeomorphism", "pos": "noun", "d": ["Likeness of form or structure between things of different origin."]}
+{"w": "homoeomorphous", "pos": "adjective", "d": ["Like in form or structure though of different origin."]}
+{"w": "homoeopathic", "pos": "adjective", "d": ["Of or relating to homeopathy."]}
+{"w": "homoeopathist", "pos": "noun", "d": ["One who practices homeopathy."]}
+{"w": "homoeopathy", "pos": "noun", "d": ["A system of medicine treating disease with minute doses of drugs that would produce like symptoms in a healthy person."]}
+{"w": "homoeothermal", "pos": "adjective", "d": ["Warm-blooded; maintaining a nearly constant body temperature."]}
+{"w": "homoeozoic", "pos": "adjective", "d": ["In geology, of strata or regions containing a similar fauna."]}
+{"w": "homogamous", "pos": "adjective", "d": ["In botany, having flowers or florets all of one kind."]}
+{"w": "homogamy", "pos": "noun", "d": ["The state of being homogamous; in flowers, the condition of having all the florets alike."]}
+{"w": "homogangliate", "pos": "adjective", "d": ["In zoology, having the segmental nerve ganglia alike, as an annelid."]}
+{"w": "homogene", "pos": "adjective", "d": ["Of the same kind or nature; homogeneous."]}
+{"w": "homogenous", "pos": "adjective", "d": ["Uniform in structure or composition throughout; of the same kind."]}
+{"w": "homogeny", "pos": "noun", "d": ["Sameness of nature or structure.", "In biology, likeness due to common descent."]}
+{"w": "homogonous", "pos": "adjective", "d": ["In botany, having flowers all of uniform structure."]}
+{"w": "homogony", "pos": "noun", "d": ["The state of being homogonous."]}
+{"w": "homograph", "pos": "noun", "d": ["A word spelled like another word but differing in meaning and often in pronunciation, as the lead of a pencil and to lead a parade."]}
+{"w": "homography", "pos": "noun", "d": ["The relation of being homographs.", "In mathematics, a transformation mapping straight lines to straight lines."]}
+{"w": "homoioptoton", "pos": "noun", "d": ["In rhetoric, a figure in which successive clauses end with words of similar inflection or sound."]}
+{"w": "homoiothermal", "pos": "adjective", "d": ["Warm-blooded; keeping a constant body temperature."]}
+{"w": "homoiousian", "pos": "adjective", "d": ["In theology, of like but not identical substance with the Father.", "One who holds this doctrine."]}
+{"w": "homologate", "pos": "verb", "d": ["To approve or confirm officially; to ratify."]}
+{"w": "homologation", "pos": "noun", "d": ["Official approval or confirmation; ratification."]}
+{"w": "homological", "pos": "adjective", "d": ["Pertaining to homology; corresponding in structure or origin."]}
+{"w": "homologinic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "homologize", "pos": "verb", "d": ["To make homologous; to show to be homologous."]}
+{"w": "homologon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "homologoumena", "pos": "noun", "d": ["The books of the New Testament universally received as canonical."]}
+{"w": "homologous", "pos": "adjective", "d": ["Corresponding in structure or position though differing in form or function, as a bat's wing and a human arm.", "In chemistry, belonging to a series whose members differ by a fixed unit."]}
+{"w": "homolographic", "pos": "adjective", "d": ["Of a map projection that preserves true relative areas."]}
+{"w": "homologue", "pos": "noun", "d": ["A thing corresponding to another in structure or position.", "In chemistry, a member of a homologous series."]}
+{"w": "homology", "pos": "noun", "d": ["Correspondence in structure or origin between parts of different organisms."]}
+{"w": "homomallous", "pos": "adjective", "d": ["In botany, having leaves or other parts all turned to one side."]}
+{"w": "homomorphic", "pos": "adjective", "d": ["In mathematics, preserving algebraic structure under a mapping.", "In biology, of like form."]}
+{"w": "homomorphism", "pos": "noun", "d": ["In mathematics, a mapping between algebraic structures that preserves their operations."]}
+{"w": "homomorphous", "pos": "adjective", "d": ["Of like form; similar in structure."]}
+{"w": "homomorphy", "pos": "noun", "d": ["Likeness of form or structure."]}
+{"w": "homonomous", "pos": "adjective", "d": ["Subject to the same laws; governed by the same principles."]}
+{"w": "homonomy", "pos": "noun", "d": ["The state of being under the same law; uniformity of governing principle."]}
+{"w": "homonym", "pos": "noun", "d": ["A word that sounds like another but differs in spelling and meaning, as bare and bear."]}
+{"w": "homonymy", "pos": "noun", "d": ["The relation of being homonyms; sameness of sound with difference of meaning."]}
+{"w": "homooergan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "homoorgan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "homoousian", "pos": "adjective", "d": ["In theology, of the same substance or essence with the Father.", "One who holds this doctrine."]}
+{"w": "homophone", "pos": "noun", "d": ["A word pronounced like another but differing in spelling and meaning, as sea and see."]}
+{"w": "homophonic", "pos": "adjective", "d": ["Of the nature of a homophone.", "In music, consisting of a single melodic line with subordinate accompaniment."]}
+{"w": "homophonous", "pos": "adjective", "d": ["Pronounced alike; having the same sound."]}
+{"w": "homophony", "pos": "noun", "d": ["Sameness of sound.", "In music, texture built on one principal melody with accompaniment."]}
+{"w": "homophylic", "pos": "adjective", "d": ["Pertaining to homophyly; derived from a common stock."]}
+{"w": "homophyly", "pos": "noun", "d": ["Common descent from the same ancestral stock; close natural relationship."]}
+{"w": "homoplasmy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "homoplast", "pos": "noun", "d": ["In biology, a structure resembling another through homoplasy rather than common descent."]}
+{"w": "homoplasty", "pos": "noun", "d": ["Resemblance of structures due to parallel evolution rather than common ancestry."]}
+{"w": "homoplasy", "pos": "noun", "d": ["In biology, likeness of structure arising from parallel evolution, not from common descent."]}
+{"w": "homopolic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "homopter", "pos": "noun", "d": ["An insect of the order Homoptera, as a cicada or aphid."]}
+{"w": "homoptera", "pos": "noun", "d": ["An order of insects with wings of uniform texture throughout, including cicadas, aphids, and leafhoppers."]}
+{"w": "homopteran", "pos": "adjective", "d": ["Of or belonging to the Homoptera."]}
+{"w": "homostyled", "pos": "adjective", "d": ["In botany, having styles of equal length in all the flowers."]}
+{"w": "homosystemic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "homotaxia", "pos": "noun", "d": ["In geology, correspondence in the arrangement of strata in different regions."]}
+{"w": "homotaxic", "pos": "adjective", "d": ["Pertaining to homotaxis."]}
+{"w": "homotaxis", "pos": "noun", "d": ["In geology, similarity in the order or arrangement of strata in separate regions."]}
+{"w": "homotaxy", "pos": "noun", "d": ["The state of being homotaxic; correspondence of arrangement."]}
+{"w": "homothermic", "pos": "adjective", "d": ["Warm-blooded; maintaining a constant body temperature."]}
+{"w": "homothermous", "pos": "adjective", "d": ["Warm-blooded; homothermic."]}
+{"w": "homotonous", "pos": "adjective", "d": ["Of the same tone throughout; monotonous in sound."]}
+{"w": "homotropal", "pos": "adjective", "d": ["In botany, curved in the same direction, as an embryo."]}
+{"w": "homotropous", "pos": "adjective", "d": ["In botany, having the same direction throughout; homotropal."]}
+{"w": "homotypal", "pos": "adjective", "d": ["Of the same type or pattern."]}
+{"w": "homotype", "pos": "noun", "d": ["In biology, a part or organ having the same fundamental structure as another."]}
+{"w": "homotypic", "pos": "adjective", "d": ["Of the same type; pertaining to homotypes."]}
+{"w": "homotypy", "pos": "noun", "d": ["The state of being homotypic; correspondence in type."]}
+{"w": "homunculus", "pos": "noun", "d": ["A little man; a dwarf.", "In old natural philosophy, a miniature human supposed to exist in the germ."]}
+{"w": "hond", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hone", "pos": "verb", "d": ["To sharpen or smooth with a hone; to whet."]}
+{"w": "honest", "pos": "adjective", "d": ["Truthful and upright; free from deceit or fraud."]}
+{"w": "honestetee", "pos": "noun", "d": ["An old form of the word honesty; uprightness of character."]}
+{"w": "honey-bag", "pos": "noun", "d": ["The sac in which a bee carries honey; the crop of a bee."]}
+{"w": "honey-mouthed", "pos": "adjective", "d": ["Sweet-spoken; flattering in speech."]}
+{"w": "honey-sweet", "pos": "adjective", "d": ["Sweet as honey."]}
+{"w": "honey-tongued", "pos": "adjective", "d": ["Speaking sweetly or flatteringly."]}
+{"w": "honied", "pos": "adjective", "d": ["Covered or sweetened with honey; sweet as honey."]}
+{"w": "honiton lace", "pos": "noun", "d": ["A fine handmade bobbin lace made at Honiton, England."]}
+{"w": "honk", "pos": "verb", "d": ["To make the cry of a wild goose; to sound an automobile horn."]}
+{"w": "honorarium", "pos": "noun", "d": ["A fee paid for professional services, especially as a token of thanks rather than by contract."]}
+{"w": "honorific", "pos": "adjective", "d": ["Conferring honor or marking distinction.", "A title or term used to show respect."]}
+{"w": "hont", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "honved", "pos": "noun", "d": ["A Hungarian foot soldier; the Hungarian national army."]}
+{"w": "hoo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hood molding", "pos": "noun", "d": ["In architecture, a projecting molding over a door, window, or arch; a dripstone."]}
+{"w": "hood moulding", "pos": "noun", "d": ["In architecture, a projecting molding over a door, window, or arch; a dripstone."]}
+{"w": "hoodman-blind", "pos": "noun", "d": ["The game of blindman's buff."]}
+{"w": "hoody", "pos": "adjective", "d": ["Like a hood; furnished with a hood."]}
+{"w": "hoof", "pos": "noun", "d": ["The horny covering of the foot of a horse, ox, and similar animals."]}
+{"w": "hook-billed", "pos": "adjective", "d": ["Having a hooked bill or beak."]}
+{"w": "hook-nosed", "pos": "adjective", "d": ["Having a hooked or aquiline nose."]}
+{"w": "hookah", "pos": "noun", "d": ["An oriental tobacco pipe with a water bowl through which the smoke is drawn."]}
+{"w": "hooky", "pos": "noun", "d": ["Truancy from school or work, as in to play hooky."]}
+{"w": "hool", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hoom", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hoonoomaun", "pos": "noun", "d": ["The sacred monkey of India, the langur, revered by Hindus."]}
+{"w": "hoop", "pos": "noun", "d": ["A circular band of wood or metal used to hold things together; a ring."]}
+{"w": "hoopoo", "pos": "noun", "d": ["An old spelling of hoopoe, a crested bird with a long curved bill."]}
+{"w": "hoosier", "pos": "noun", "d": ["A native or resident of Indiana."]}
+{"w": "hoosier state", "pos": "noun", "d": ["The state of Indiana, whose people are called Hoosiers."]}
+{"w": "hoot", "pos": "verb", "d": ["To cry out like an owl.", "To shout in derision or disapproval."]}
+{"w": "hoove", "pos": "noun", "d": ["Bloat or swelling of the stomach in cattle and sheep from eating too much green fodder."]}
+{"w": "hooven", "pos": "adjective", "d": ["Affected with hoove; bloated."]}
+{"w": "hop-thumb", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hopeite", "pos": "noun", "d": ["A mineral consisting of hydrated zinc phosphate."]}
+{"w": "hopingly", "pos": "adverb", "d": ["With hope; in a hopeful manner."]}
+{"w": "hopperings", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hoppestere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hopple", "pos": "verb", "d": ["To hobble; to fetter the feet of, as a horse."]}
+{"w": "hoppo", "pos": "noun", "d": ["A Chinese officer in charge of customs and trade at Canton."]}
+{"w": "horal", "pos": "adjective", "d": ["Pertaining to an hour; occurring every hour."]}
+{"w": "horaly", "pos": "adverb", "d": ["Hourly; every hour."]}
+{"w": "horary", "pos": "adjective", "d": ["Pertaining to the hours; marking the hours.", "In astrology, relating to the hour at which a question is asked."]}
+{"w": "horatian", "pos": "adjective", "d": ["Pertaining to the Roman poet Horace or his style."]}
+{"w": "horde", "pos": "noun", "d": ["A wandering tribe or troop of people; a large unruly crowd."]}
+{"w": "hordein", "pos": "noun", "d": ["A protein found in barley grain."]}
+{"w": "hordeolum", "pos": "noun", "d": ["A small inflamed swelling on the eyelid; a sty."]}
+{"w": "hordock", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hore", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hormogonium", "pos": "noun", "d": ["In botany, a small detached segment of a blue-green algal filament that can grow into a new filament."]}
+{"w": "horn-mad", "pos": "adjective", "d": ["Enraged like a horned beast; furiously angry."]}
+{"w": "hornblendic", "pos": "adjective", "d": ["Composed of or resembling hornblende."]}
+{"w": "hornel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hornet", "pos": "noun", "d": ["A large stinging wasp that builds a papery nest."]}
+{"w": "hornito", "pos": "noun", "d": ["A small low mound of volcanic matter; a little oven-shaped hill."]}
+{"w": "hornotine", "pos": "adjective", "d": ["In botany, of the current year's growth, as a shoot."]}
+{"w": "horny", "pos": "adjective", "d": ["Made of horn; hard and tough like horn."]}
+{"w": "horny-handed", "pos": "adjective", "d": ["Having hands hardened by manual labor."]}
+{"w": "horography", "pos": "noun", "d": ["The art of constructing instruments for telling the hour, as sundials."]}
+{"w": "horologe", "pos": "noun", "d": ["An instrument for telling the time; a clock, watch, or dial."]}
+{"w": "horological", "pos": "adjective", "d": ["Pertaining to horology or to timepieces."]}
+{"w": "horologiographer", "pos": "noun", "d": ["One who writes about or describes time-measuring instruments."]}
+{"w": "horologiographic", "pos": "adjective", "d": ["Pertaining to the description of timepieces."]}
+{"w": "horologiography", "pos": "noun", "d": ["The art or science of describing time-measuring instruments."]}
+{"w": "horologist", "pos": "noun", "d": ["One skilled in horology; a maker of clocks and watches."]}
+{"w": "horology", "pos": "noun", "d": ["The science of measuring time; the art of making timepieces."]}
+{"w": "horometer", "pos": "noun", "d": ["An instrument for measuring time or marking the hours."]}
+{"w": "horometrical", "pos": "adjective", "d": ["Pertaining to the measurement of time."]}
+{"w": "horometry", "pos": "noun", "d": ["The art of measuring time."]}
+{"w": "horopter", "pos": "noun", "d": ["In optics, the line or surface in which objects seen with both eyes appear single."]}
+{"w": "horoscope", "pos": "noun", "d": ["A diagram of the heavens at a given moment, used by astrologers to foretell fortunes.", "One's fortune as foretold from the stars."]}
+{"w": "horoscopist", "pos": "noun", "d": ["One who casts horoscopes; an astrologer."]}
+{"w": "horoscopy", "pos": "noun", "d": ["The art or practice of casting horoscopes."]}
+{"w": "horrendous", "pos": "adjective", "d": ["Horrible; dreadful; inspiring terror."]}
+{"w": "horrent", "pos": "adjective", "d": ["Standing on end like bristles; bristling with fear or horror."]}
+{"w": "horribly", "pos": "adverb", "d": ["In a horrible manner; dreadfully; shockingly."]}
+{"w": "horrid", "pos": "adjective", "d": ["Horrible; shocking; very unpleasant."]}
+{"w": "horrific", "pos": "adjective", "d": ["Causing horror; frightful; dreadful."]}
+{"w": "horrify", "pos": "verb", "d": ["To fill with horror; to shock or dismay greatly."]}
+{"w": "horripilation", "pos": "noun", "d": ["The bristling or erection of the hair; gooseflesh."]}
+{"w": "horrisonant", "pos": "adjective", "d": ["Sounding horribly; harsh or dreadful to the ear."]}
+{"w": "horrisonous", "pos": "adjective", "d": ["Sounding dreadfully; harsh-sounding."]}
+{"w": "horror-sticken", "pos": "adjective", "d": ["Stricken with horror; terrified."]}
+{"w": "horror-struck", "pos": "adjective", "d": ["Struck with horror; filled with terror."]}
+{"w": "hors de combat", "pos": "phrase", "d": ["French for out of the fight; disabled from taking part in combat."]}
+{"w": "horse guards", "pos": "noun", "d": ["Bodies of mounted soldiers serving as guards; cavalry regiments of a royal household."]}
+{"w": "horse power", "pos": "noun", "d": ["A unit of power equal to 550 foot-pounds per second, used to rate engines."]}
+{"w": "horse-chestnut", "pos": "noun", "d": ["A large ornamental tree with showy white flower clusters and inedible brown nuts."]}
+{"w": "horse-drench", "pos": "noun", "d": ["A dose of liquid medicine given to a horse."]}
+{"w": "horse-jockey", "pos": "noun", "d": ["One who rides horses in races; a dealer in horses."]}
+{"w": "horse-leech", "pos": "noun", "d": ["A large bloodsucking leech that attacks horses.", "An insatiable extortioner of money."]}
+{"w": "horse-leechery", "pos": "noun", "d": ["The practice of extorting money; insatiable greed for gain."]}
+{"w": "horse-litter", "pos": "noun", "d": ["A carriage or litter carried by horses for conveying persons.", "Straw or bedding spread for horses in a stable."]}
+{"w": "horse-radish", "pos": "noun", "d": ["A plant with a pungent root grated and used as a condiment."]}
+{"w": "horsiness", "pos": "noun", "d": ["The quality of being horsy; fondness for horses."]}
+{"w": "horsly", "pos": "adverb", "d": ["In the manner of a horse."]}
+{"w": "horsy", "pos": "adjective", "d": ["Like a horse; relating to horses.", "Fond of horses or horse racing."]}
+{"w": "hortation", "pos": "noun", "d": ["The act of exhorting; an earnest urging or encouragement."]}
+{"w": "hortative", "pos": "adjective", "d": ["Giving exhortation; urging or encouraging."]}
+{"w": "hortatory", "pos": "adjective", "d": ["Tending to exhort; encouraging; of the nature of an exhortation."]}
+{"w": "hortensial", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "horticultor", "pos": "noun", "d": ["One who cultivates a garden; a horticulturist."]}
+{"w": "horticultural", "pos": "adjective", "d": ["Pertaining to horticulture."]}
+{"w": "horticulture", "pos": "noun", "d": ["The art of cultivating gardens; the growing of fruits, vegetables, flowers, and ornamental plants."]}
+{"w": "horticulturist", "pos": "noun", "d": ["One skilled in the art of horticulture."]}
+{"w": "hortulan", "pos": "adjective", "d": ["Pertaining to a garden."]}
+{"w": "hortus siccus", "pos": "phrase", "d": ["Latin for a dried garden; a collection of dried and preserved plants; a herbarium."]}
+{"w": "hortyard", "pos": "noun", "d": ["An old word for an orchard or enclosed garden."]}
+{"w": "hosanna", "pos": "interjection", "d": ["A cry of praise or adoration to God."]}
+{"w": "hosen", "pos": "noun", "d": ["An old plural of hose; stockings or breeches."]}
+{"w": "hosier", "pos": "noun", "d": ["One who makes or sells stockings and similar goods; a dealer in hosiery."]}
+{"w": "hosiery", "pos": "noun", "d": ["Stockings, socks, and similar knitted goods collectively."]}
+{"w": "hospice", "pos": "noun", "d": ["A shelter for travelers, the poor, or the sick, often kept by a religious order.", "A program of care for the terminally ill."]}
+{"w": "hospitable", "pos": "adjective", "d": ["Kind and welcoming to guests and strangers; generous in entertainment."]}
+{"w": "hospitably", "pos": "adverb", "d": ["In a hospitable manner; with kindly welcome."]}
+{"w": "hospitage", "pos": "noun", "d": ["Lodging or shelter given to travelers and pilgrims."]}
+{"w": "hospitate", "pos": "verb", "d": ["To lodge or dwell as a guest in someone's home."]}
+{"w": "hospitium", "pos": "noun", "d": ["A place that offers lodging and care to travelers and pilgrims."]}
+{"w": "hospodar", "pos": "noun", "d": ["A historical title given to the rulers of the Romanian principalities of Wallachia and Moldavia."]}
+{"w": "host plant", "pos": "phrase", "d": ["A plant on which a parasite, insect, or fungus lives and feeds."]}
+{"w": "hostelry", "pos": "noun", "d": ["An inn or place that provides lodging for travelers.", "The business of providing lodging and hospitality."]}
+{"w": "hostess", "pos": "noun", "d": ["A woman who receives and entertains guests.", "A woman who serves food and drink on an aircraft."]}
+{"w": "hostie", "pos": "noun", "d": ["An informal or playful term for a hostess, especially a flight attendant."]}
+{"w": "hostility", "pos": "noun", "d": ["A state of deep dislike or open opposition toward someone or something.", "Acts of warfare or aggression."]}
+{"w": "hostilize", "pos": "verb", "d": ["To make hostile or unfriendly toward someone."]}
+{"w": "hostler", "pos": "noun", "d": ["A person who tends horses at an inn or stable.", "A driver who moves trucks or trailers within a yard."]}
+{"w": "hostry", "pos": "noun", "d": ["A lodging place or inn for travelers."]}
+{"w": "hot blast", "pos": "phrase", "d": ["Air heated before being blown into a furnace to speed smelting."]}
+{"w": "hot bulb", "pos": "phrase", "d": ["An early type of internal-combustion engine that ignites fuel in a heated bulb."]}
+{"w": "hot pot", "pos": "noun", "d": ["A dish of meat and vegetables cooked slowly in a pot.", "A simmering broth in which diners cook their own food at the table."]}
+{"w": "hot-blooded", "pos": "adjective", "d": ["Passionate, excitable, and quick to act on feeling."]}
+{"w": "hot-brained", "pos": "adjective", "d": ["Rash and impulsive, acting without thinking first."]}
+{"w": "hot-livered", "pos": "adjective", "d": ["Quick to anger; irritable and easily provoked."]}
+{"w": "hot-mouthed", "pos": "adjective", "d": ["Harsh or foul in speech; given to angry words."]}
+{"w": "hot-short", "pos": "adjective", "d": ["Brittle or crumbly when hot, as some metals are."]}
+{"w": "hot-spirited", "pos": "adjective", "d": ["Fiery and ardent in temper or feeling."]}
+{"w": "hotchkiss gun", "pos": "noun", "d": ["A revolving-barrel machine gun of the late nineteenth century."]}
+{"w": "hotchpot", "pos": "noun", "d": ["In law, the pooling of property so it can be divided equally among heirs."]}
+{"w": "hotchpotch", "pos": "noun", "d": ["A confused mixture of many different things."]}
+{"w": "hotcockles", "pos": "noun", "d": ["An old game in which a blindfolded player guesses who struck them."]}
+{"w":"hote","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hotel-de-ville", "pos": "noun", "d": ["A French town hall or city hall."]}
+{"w": "hotel-dieu", "pos": "noun", "d": ["A French hospital, especially one caring for the poor."]}
+{"w": "hottentot", "pos": "noun", "d": ["A historical and now offensive term for the Khoikhoi peoples of southern Africa."]}
+{"w": "houdah", "pos": "noun", "d": ["A seat or covered carriage carried on an elephant's back."]}
+{"w": "hough", "pos": "noun", "d": ["The hock, or back joint of an animal's hind leg."]}
+{"w": "houlet", "pos": "noun", "d": ["An owl, in Scots usage."]}
+{"w": "hoult", "pos": "noun", "d": ["A small grove of trees or a wooded hill."]}
+{"w": "hound", "pos": "noun", "d": ["A dog bred for hunting by scent or sight.", "A person who pursues something relentlessly."]}
+{"w":"houp","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "houri", "pos": "noun", "d": ["In Islamic tradition, a beautiful companion of paradise."]}
+{"w": "housage", "pos": "noun", "d": ["A fee or payment charged for lodging."]}
+{"w": "housebreaking", "pos": "noun", "d": ["The crime of breaking into a building to commit a crime inside."]}
+{"w": "housel", "pos": "noun", "d": ["The Eucharist or holy sacrament, in old usage."]}
+{"w": "housewifery", "pos": "noun", "d": ["The work and skill of managing a household."]}
+{"w":"housling","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"houss","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "houstonia", "pos": "noun", "d": ["A genus of small flowering plants commonly called bluets."]}
+{"w":"houtou","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"houve","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "houyhnhnm", "pos": "noun", "d": ["One of the race of rational horses in Swift's Gulliver's Travels."]}
+{"w": "hove", "pos": "verb", "d": ["The past tense of heave."]}
+{"w": "hovel", "pos": "noun", "d": ["A small, crude, poorly built dwelling."]}
+{"w": "hoven", "pos": "adjective", "d": ["Bloated with gas from overeating green pasture, as cattle are."]}
+{"w": "hover-hawk", "pos": "noun", "d": ["A hawk that hovers in the air while hunting."]}
+{"w": "hoveringly", "pos": "adverb", "d": ["In a hovering or lingering manner."]}
+{"w":"howadji","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "howbeit", "pos": "conjunction", "d": ["Although; notwithstanding."]}
+{"w": "howdah", "pos": "noun", "d": ["A seat or covered carriage carried on an elephant's back."]}
+{"w": "howdy", "pos": "interjection", "d": ["An informal greeting meaning hello."]}
+{"w":"howel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"howitz","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "howker", "pos": "noun", "d": ["A small Dutch coasting vessel with two masts."]}
+{"w": "howl", "pos": "verb", "d": ["To utter a long, loud, mournful cry like a wolf's.", "To laugh or wail loudly."]}
+{"w":"howp","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "howso", "pos": "conjunction", "d": ["Although; however."]}
+{"w":"howve","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hox", "pos": "verb", "d": ["To hamstring; to cut the hock of."]}
+{"w": "hoy", "pos": "noun", "d": ["A small single-masted vessel used in coastal trade."]}
+{"w": "hsien", "pos": "noun", "d": ["A Chinese administrative district or county."]}
+{"w": "huanaco", "pos": "noun", "d": ["A variant spelling of guanaco, a wild South American camelid."]}
+{"w":"huaracho","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hubble-bubble", "pos": "noun", "d": ["A simple water pipe in which smoke bubbles through water.", "A state of bubbling confusion."]}
+{"w": "hubby", "pos": "noun", "d": ["An informal term for a husband."]}
+{"w":"huch","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"huck","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "huckle", "pos": "noun", "d": ["The hip or haunch of a person or animal."]}
+{"w": "huckle-backed", "pos": "adjective", "d": ["Having a hunched or humped back."]}
+{"w": "huckster", "pos": "noun", "d": ["A seller of small goods; a peddler.", "A person who uses aggressive or showy sales tactics."]}
+{"w":"hud","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "huddle", "pos": "verb", "d": ["To crowd together closely for warmth or comfort.", "To draw oneself into a small, tight shape."]}
+{"w":"hudge","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hudibrastic", "pos": "adjective", "d": ["In the mock-heroic style of Butler's poem Hudibras."]}
+{"w": "hudsonian", "pos": "adjective", "d": ["Relating to the Hudson River or Hudson Bay region."]}
+{"w": "hue", "pos": "noun", "d": ["A color or shade of color.", "A general character or aspect of something."]}
+{"w":"huebner","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hued", "pos": "adjective", "d": ["Having a particular color or tint."]}
+{"w":"huer","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "huff", "pos": "verb", "d": ["To blow out with force in short puffs.", "To leave in a fit of offended pride."]}
+{"w": "huffiness", "pos": "noun", "d": ["The state of being easily offended or huffy."]}
+{"w": "huffingly", "pos": "adverb", "d": ["In a huffy or offended manner."]}
+{"w": "huffy", "pos": "adjective", "d": ["Easily offended; touchy.", "Showing anger or annoyance."]}
+{"w": "hug", "pos": "verb", "d": ["To hold tightly in one's arms as a sign of affection.", "To keep close to something, as a road or shoreline."]}
+{"w": "hugger-mugger", "pos": "phrase", "d": ["In secrecy or confusion."]}
+{"w":"huggle","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "huguenot", "pos": "noun", "d": ["A French Protestant of the sixteenth and seventeenth centuries."]}
+{"w":"hugy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "huia bird", "pos": "noun", "d": ["An extinct New Zealand bird noted for its long curved beak."]}
+{"w":"huisher","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"huke","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hulan", "pos": "noun", "d": ["A variant of uhlan, a light cavalryman armed with a lance."]}
+{"w":"hulch","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"hulchy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hulk", "pos": "noun", "d": ["A large, unwieldy ship or the hull of an old ship.", "A big, clumsy, heavy person or thing."]}
+{"w": "hulky", "pos": "adjective", "d": ["Large, heavy, and unwieldy like a hulk."]}
+{"w": "hullabaloo", "pos": "noun", "d": ["A loud uproar or commotion."]}
+{"w": "hullo", "pos": "interjection", "d": ["A variant greeting meaning hello."]}
+{"w":"hully","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"huloist","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hulotheism", "pos": "noun", "d": ["The doctrine that God is immanent in matter."]}
+{"w": "hulver", "pos": "noun", "d": ["Holly, in dialectal usage."]}
+{"w": "hum", "pos": "verb", "d": ["To make a low, steady buzzing sound.", "To sing with closed lips."]}
+{"w": "humane", "pos": "adjective", "d": ["Kind and compassionate toward people and animals."]}
+{"w": "humanics", "pos": "noun", "d": ["The study of human nature and human affairs."]}
+{"w":"humanitian","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "humanization", "pos": "noun", "d": ["The act of making something more humane or human in character."]}
+{"w": "humble", "pos": "adjective", "d": ["Modest and not proud about oneself.", "Lowly in rank or condition."]}
+{"w": "humblesse", "pos": "noun", "d": ["Humility, in archaic usage."]}
+{"w": "humbly", "pos": "adverb", "d": ["In a modest or submissive manner."]}
+{"w": "humect", "pos": "verb", "d": ["To moisten or make wet."]}
+{"w": "humeral", "pos": "adjective", "d": ["Relating to the humerus or upper arm.", "A cloth worn over the shoulders by a priest."]}
+{"w": "humerus", "pos": "noun", "d": ["The long bone of the upper arm."]}
+{"w": "humicubation", "pos": "noun", "d": ["The act of lying on the ground in humility or penance."]}
+{"w": "humid", "pos": "adjective", "d": ["Damp with moisture in the air."]}
+{"w": "humifuse", "pos": "adjective", "d": ["Spreading flat along the ground, as some plant stems do."]}
+{"w":"humiliant","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "humiliate", "pos": "verb", "d": ["To make someone feel ashamed or degraded."]}
+{"w": "humiliation", "pos": "noun", "d": ["The state of being humiliated; deep shame."]}
+{"w": "humility", "pos": "noun", "d": ["The quality of being modest and free from pride."]}
+{"w": "humin", "pos": "noun", "d": ["A dark organic substance found in soil and peat."]}
+{"w":"humiri","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "humite", "pos": "noun", "d": ["A magnesium silicate mineral of volcanic origin."]}
+{"w": "hummel", "pos": "verb", "d": ["To remove the awns from barley or other grain."]}
+{"w": "hummocky", "pos": "adjective", "d": ["Full of hummocks; having a broken, bumpy surface."]}
+{"w": "hump", "pos": "noun", "d": ["A rounded bulge on the back of an animal or person."]}
+{"w": "hump-shouldered", "pos": "adjective", "d": ["Having shoulders that rise into a hump."]}
+{"w": "humpbacked salmon", "pos": "noun", "d": ["A small Pacific salmon that develops a hump on its back when spawning."]}
+{"w": "humph", "pos": "interjection", "d": ["An exclamation expressing doubt, disapproval, or contempt."]}
+{"w": "humpy", "pos": "adjective", "d": ["Having humps; bumpy."]}
+{"w": "humulin", "pos": "noun", "d": ["A manufactured form of human insulin used to treat diabetes."]}
+{"w": "humus", "pos": "noun", "d": ["The rich dark organic part of soil formed from decayed matter."]}
+{"w": "hun", "pos": "noun", "d": ["A member of the nomadic people who invaded Europe in the fourth and fifth centuries.", "A barbarous or destructive person."]}
+{"w": "hunch", "pos": "noun", "d": ["A feeling or guess based on instinct.", "A rounded lump or hump."]}
+{"w": "hundredth", "pos": "adjective", "d": ["Coming after the ninety-ninth in order."]}
+{"w":"hunger-bit","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hunger-starve", "pos": "verb", "d": ["To suffer extreme hunger; to starve."]}
+{"w": "hunk", "pos": "noun", "d": ["A large thick piece of something.", "An attractive, well-built man, in slang."]}
+{"w": "hunky", "pos": "adjective", "d": ["Large and solidly built.", "Attractive and masculine, in slang."]}
+{"w":"hunt-counter","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"hunte","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hunterian", "pos": "adjective", "d": ["Relating to the surgeon John Hunter or his museum collections."]}
+{"w": "huntsman", "pos": "noun", "d": ["A person who hunts, especially one who manages hounds."]}
+{"w": "hurden", "pos": "noun", "d": ["A coarse cloth made from the refuse of flax."]}
+{"w": "hurdle", "pos": "noun", "d": ["A barrier to jump over in a race.", "An obstacle or difficulty to overcome."]}
+{"w": "hurds", "pos": "noun", "d": ["The coarse refuse left after dressing flax or hemp."]}
+{"w": "hurdy-gurdy", "pos": "noun", "d": ["A stringed instrument played by turning a crank that rubs the strings."]}
+{"w": "hurkaru", "pos": "noun", "d": ["In India, a messenger or spy."]}
+{"w": "hurl", "pos": "verb", "d": ["To throw with great force."]}
+{"w":"hurly","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hurly-burly", "pos": "noun", "d": ["Noisy confusion or tumult."]}
+{"w": "huron-iroquous", "pos": "noun", "d": ["A group of related North American Indian languages."]}
+{"w": "huronian", "pos": "adjective", "d": ["Relating to the Huron people.", "Relating to an ancient group of rock formations."]}
+{"w": "hurons", "pos": "noun", "d": ["A people of North American Indians, now called the Wyandot."]}
+{"w":"hurr","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hurra", "pos": "interjection", "d": ["A variant of hurrah, a shout of joy or approval."]}
+{"w": "hurrah", "pos": "interjection", "d": ["A shout expressing joy, approval, or triumph."]}
+{"w": "hurricano", "pos": "noun", "d": ["An old form of the word hurricane."]}
+{"w": "hurry", "pos": "verb", "d": ["To move or act quickly.", "To urge to move faster."]}
+{"w": "hurry-skurry", "pos": "phrase", "d": ["In confused haste."]}
+{"w": "hurryingly", "pos": "adverb", "d": ["In a hurrying manner; hastily."]}
+{"w": "hurst", "pos": "noun", "d": ["A grove of trees or a wooded hill."]}
+{"w": "hurtle", "pos": "verb", "d": ["To move with great speed and force.", "To collide noisily."]}
+{"w": "husbandry", "pos": "noun", "d": ["The care and raising of crops and animals; farming.", "Careful management of resources."]}
+{"w": "hush", "pos": "verb", "d": ["To become or make silent.", "To calm or soothe."]}
+{"w": "husk", "pos": "noun", "d": ["The dry outer covering of certain seeds and fruits."]}
+{"w": "huskily", "pos": "adverb", "d": ["In a husky or hoarse manner."]}
+{"w": "huskiness", "pos": "noun", "d": ["The quality of being husky in voice or build."]}
+{"w": "husky", "pos": "adjective", "d": ["Hoarse or rough in voice.", "Big and strong in build."]}
+{"w": "huso", "pos": "noun", "d": ["A genus of large sturgeons, including the beluga."]}
+{"w": "hussar", "pos": "noun", "d": ["A member of a light cavalry regiment."]}
+{"w": "hussite", "pos": "noun", "d": ["A follower of the religious reformer John Huss."]}
+{"w": "hussy", "pos": "noun", "d": ["A bold or disreputable woman, in old-fashioned usage."]}
+{"w": "hustings", "pos": "noun", "d": ["A platform used for political speeches and campaigning."]}
+{"w": "hustle", "pos": "verb", "d": ["To push or move roughly and hurriedly.", "To work energetically to earn money."]}
+{"w": "huswife", "pos": "noun", "d": ["A variant of housewife.", "A small case holding sewing materials."]}
+{"w": "huswifery", "pos": "noun", "d": ["A variant of housewifery; the management of a household."]}
+{"w": "hut", "pos": "noun", "d": ["A small, simple shelter or dwelling."]}
+{"w": "hutch", "pos": "noun", "d": ["A pen or coop for small animals.", "A chest or cupboard for storage."]}
+{"w": "hutchunsonian", "pos": "adjective", "d": ["Relating to the philosophy of Francis Hutcheson."]}
+{"w": "huttonian", "pos": "adjective", "d": ["Relating to the geologist James Hutton or his theories."]}
+{"w":"huttoning","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"huxter","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "huyghenian", "pos": "adjective", "d": ["Relating to Christiaan Huygens or his wave theory of light."]}
+{"w":"huzz","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "huzza", "pos": "interjection", "d": ["A shout of joy or applause; hurrah."]}
+{"w":"hy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "hyacine", "pos": "noun", "d": ["A reddish gem variety of the mineral zircon."]}
+{"w": "hyacinth", "pos": "noun", "d": ["A spring flower with clusters of fragrant bell-shaped blossoms.", "A reddish gem variety of zircon."]}
+{"w": "hyacinthian", "pos": "adjective", "d": ["Relating to the hyacinth flower or the youth Hyacinthus of myth."]}
+{"w": "hyacinthine", "pos": "adjective", "d": ["Like a hyacinth in color or form."]}
+{"w": "hyades", "pos": "noun", "d": ["A group of nymphs in Greek myth who bring rain.", "A cluster of stars in the constellation Taurus."]}
+{"w": "hyads", "pos": "noun", "d": ["The plural of hyad; the nymphs called Hyades."]}
+{"w": "hyaena", "pos": "noun", "d": ["A variant spelling of hyena, a carnivorous African mammal."]}
+{"w": "hyalea", "pos": "noun", "d": ["A genus of small sea snails known as sea butterflies."]}
+{"w": "hyalescence", "pos": "noun", "d": ["The quality of looking like glass; glassiness."]}
+{"w": "hyaline", "pos": "adjective", "d": ["Having a glassy, transparent appearance."]}
+{"w": "hyalite", "pos": "noun", "d": ["A colorless, glassy variety of opal."]}
+{"w": "hyalograph", "pos": "noun", "d": ["An instrument for engraving or drawing designs on glass."]}
+{"w": "hyalography", "pos": "noun", "d": ["The art or process of engraving on glass."]}
+{"w": "hyaloid", "pos": "adjective", "d": ["Resembling glass; transparent."]}
+{"w": "hyalonema", "pos": "noun", "d": ["A genus of deep-sea sponges with glassy fibers."]}
+{"w": "hyalophane", "pos": "noun", "d": ["A glassy mineral, a variety of feldspar containing barium."]}
+{"w": "hyalospongia", "pos": "noun", "d": ["A group of sponges whose skeletons are made of glassy silica spicules."]}
+{"w": "hyalotype", "pos": "noun", "d": ["A photographic picture produced on glass."]}
+{"w": "hybernacle", "pos": "noun", "d": ["Winter quarters; a shelter used during winter."]}
+{"w": "hybernate", "pos": "verb", "d": ["To pass the winter in a dormant or torpid state."]}
+{"w": "hybernation", "pos": "noun", "d": ["The dormant state in which some animals pass the winter."]}
+{"w": "hyblaean", "pos": "adjective", "d": ["Relating to Hybla, an ancient Sicilian town famed for its honey."]}
+{"w": "hybodont", "pos": "noun", "d": ["An extinct shark with conical teeth suited for crushing."]}
+{"w": "hybodus", "pos": "noun", "d": ["A genus of extinct sharks with ridged, conical teeth."]}
+{"w": "hybridization", "pos": "noun", "d": ["The crossing of different varieties or species to produce offspring.", "The combining of different elements into a single new form."]}
+{"w": "hydage", "pos": "noun", "d": ["A charge or rate paid for a supply of water."]}
+{"w": "hydantoic", "pos": "adjective", "d": ["Relating to hydantoic acid, a compound derived from urea."]}
+{"w": "hydantoin", "pos": "noun", "d": ["A white crystalline compound used in medicines and resins."]}
+{"w": "hydatid", "pos": "noun", "d": ["A fluid-filled cyst formed by the larval stage of a tapeworm."]}
+{"w": "hydatiform", "pos": "adjective", "d": ["Resembling a watery cyst or vesicle."]}
+{"w": "hydatoid", "pos": "adjective", "d": ["Watery; resembling water."]}
+{"w": "hydr-", "pos": "prefix", "d": ["A prefix meaning water or hydrogen, as in hydrate."]}
+{"w": "hydra", "pos": "noun", "d": ["In Greek myth, a many-headed serpent whose heads grew back when cut off.", "A genus of tiny freshwater polyps with stinging tentacles."]}
+{"w": "hydra-tainted", "pos": "adjective", "d": ["Corrupted or poisoned as if by the Hydra's venom."]}
+{"w": "hydrachnid", "pos": "noun", "d": ["A water mite, a tiny aquatic arachnid."]}
+{"w": "hydracrylic", "pos": "adjective", "d": ["Relating to hydracrylic acid."]}
+{"w": "hydractinian", "pos": "adjective", "d": ["Relating to hydractinia, a genus of colonial hydroid polyps."]}
+{"w": "hydraemia", "pos": "noun", "d": ["An abnormally thin, watery condition of the blood."]}
+{"w": "hydragogue", "pos": "noun", "d": ["A medicine that draws excess water from the body."]}
+{"w": "hydramide", "pos": "noun", "d": ["A crystalline compound formed by the action of ammonia on an aldehyde."]}
+{"w": "hydrangea", "pos": "noun", "d": ["A garden shrub bearing large rounded clusters of flowers."]}
+{"w": "hydrant", "pos": "noun", "d": ["An upright pipe with a valve for drawing water from a main, used especially in firefighting."]}
+{"w": "hydranth", "pos": "noun", "d": ["The feeding polyp of a hydroid colony."]}
+{"w": "hydrargochloride", "pos": "noun", "d": ["A chemical compound of mercury and chlorine."]}
+{"w": "hydrargyrate", "pos": "noun", "d": ["A chemical compound containing mercury."]}
+{"w": "hydrargyrism", "pos": "noun", "d": ["Poisoning caused by mercury or its compounds."]}
+{"w": "hydrargyrum", "pos": "noun", "d": ["Mercury, the liquid metallic element."]}
+{"w": "hydrarthrosis", "pos": "noun", "d": ["An accumulation of watery fluid within a joint."]}
+{"w": "hydrastine", "pos": "noun", "d": ["A bitter alkaloid obtained from the goldenseal plant."]}
+{"w": "hydrate", "pos": "verb", "d": ["To cause to combine chemically with water."]}
+{"w": "hydraulicon", "pos": "noun", "d": ["An ancient musical instrument played by water pressure; a water organ."]}
+{"w": "hydrazine", "pos": "noun", "d": ["A colorless liquid compound of nitrogen and hydrogen, used as a rocket fuel."]}
+{"w": "hydrencephsloid", "pos": "adjective", "d": ["Resembling hydrocephalus."]}
+{"w": "hydria", "pos": "noun", "d": ["An ancient Greek jar used for carrying water."]}
+{"w": "hydriad", "pos": "noun", "d": ["A nymph presiding over water; a water nymph."]}
+{"w": "hydric", "pos": "adjective", "d": ["Relating to or containing water or hydrogen."]}
+{"w": "hydride", "pos": "noun", "d": ["A chemical compound of hydrogen with another element."]}
+{"w": "hydriform", "pos": "adjective", "d": ["Having the shape of a hydra."]}
+{"w": "hydrina", "pos": "noun", "d": ["A genus of venomous sea snakes."]}
+{"w": "hydriodate", "pos": "noun", "d": ["A salt formed from hydriodic acid."]}
+{"w": "hydriodic", "pos": "adjective", "d": ["Relating to hydriodic acid, a strong acid of hydrogen and iodine."]}
+{"w": "hydriodide", "pos": "noun", "d": ["A compound formed by the union of hydriodic acid with a base."]}
+{"w": "hydro-", "pos": "prefix", "d": ["A prefix meaning water or hydrogen, as in hydrology."]}
+{"w": "hydrobarometer", "pos": "noun", "d": ["An instrument for measuring the pressure or depth of water."]}
+{"w": "hydrobilirubin", "pos": "noun", "d": ["A brown pigment formed by the reduction of bilirubin."]}
+{"w": "hydrobiplane", "pos": "noun", "d": ["An early seaplane; a biplane fitted with floats for landing on water."]}
+{"w": "hydrobranchiata", "pos": "noun", "d": ["A group of aquatic mollusks that breathe by means of gills."]}
+{"w": "hydrobromate", "pos": "noun", "d": ["A salt formed from hydrobromic acid."]}
+{"w": "hydrobromic", "pos": "adjective", "d": ["Relating to hydrobromic acid."]}
+{"w": "hydrobromide", "pos": "noun", "d": ["A compound formed by the union of hydrobromic acid with a base."]}
+{"w": "hydrocarbon", "pos": "noun", "d": ["A compound composed entirely of hydrogen and carbon, such as methane or petroleum."]}
+{"w": "hydrocarbonaceous", "pos": "adjective", "d": ["Containing or resembling hydrocarbons."]}
+{"w": "hydrocarbostyril", "pos": "noun", "d": ["A crystalline organic compound derived from quinoline."]}
+{"w": "hydrocarburet", "pos": "noun", "d": ["An older name for a hydrocarbon."]}
+{"w": "hydrocaulus", "pos": "noun", "d": ["The stem-like portion of a hydroid colony that bears the polyps."]}
+{"w": "hydrocele", "pos": "noun", "d": ["An accumulation of watery fluid around the testicle."]}
+{"w": "hydrocephalic", "pos": "adjective", "d": ["Relating to or affected with hydrocephalus."]}
+{"w": "hydrocephaloid", "pos": "adjective", "d": ["Resembling hydrocephalus."]}
+{"w": "hydrocephalous", "pos": "adjective", "d": ["Affected with hydrocephalus."]}
+{"w": "hydrocephalus", "pos": "noun", "d": ["An abnormal accumulation of fluid within the cavities of the brain."]}
+{"w": "hydrochlorate", "pos": "noun", "d": ["An older name for a hydrochloride."]}
+{"w": "hydrochloric", "pos": "adjective", "d": ["Relating to hydrochloric acid."]}
+{"w": "hydrochloride", "pos": "noun", "d": ["A salt formed by the reaction of hydrochloric acid with a base."]}
+{"w": "hydrocorallia", "pos": "noun", "d": ["A group of hydroid corals that build stony skeletons."]}
+{"w": "hydrocyanate", "pos": "noun", "d": ["A salt formed from hydrocyanic acid."]}
+{"w": "hydrocyanic", "pos": "adjective", "d": ["Relating to hydrocyanic acid, a highly poisonous compound."]}
+{"w": "hydrocyanide", "pos": "noun", "d": ["A compound formed by the union of hydrocyanic acid with a base."]}
+{"w": "hydrodynamic", "pos": "adjective", "d": ["Relating to water in motion and the forces it exerts."]}
+{"w": "hydrodynamometer", "pos": "noun", "d": ["An instrument for measuring the force or power of moving water."]}
+{"w": "hydroferricyanic", "pos": "adjective", "d": ["Relating to hydroferricyanic acid."]}
+{"w": "hydroferrocyanic", "pos": "adjective", "d": ["Relating to hydroferrocyanic acid."]}
+{"w": "hydrofluate", "pos": "noun", "d": ["A salt formed from hydrofluoric acid."]}
+{"w": "hydrofluoric", "pos": "adjective", "d": ["Relating to hydrofluoric acid, a corrosive acid of hydrogen and fluorine."]}
+{"w": "hydrofluosilicate", "pos": "noun", "d": ["A salt formed from hydrofluosilicic acid."]}
+{"w": "hydrofluosilicic", "pos": "adjective", "d": ["Relating to hydrofluosilicic acid."]}
+{"w": "hydrogalvanic", "pos": "adjective", "d": ["Producing electricity through the chemical action of water."]}
+{"w": "hydrogenium", "pos": "noun", "d": ["An early name for the element hydrogen."]}
+{"w": "hydrognosy", "pos": "noun", "d": ["The scientific study of water and its properties."]}
+{"w": "hydrogode", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hydrographer", "pos": "noun", "d": ["A person who surveys and charts bodies of water."]}
+{"w": "hydrographic", "pos": "adjective", "d": ["Relating to the surveying and charting of bodies of water."]}
+{"w": "hydrography", "pos": "noun", "d": ["The science of surveying and charting seas, lakes, and rivers."]}
+{"w": "hydroguret", "pos": "noun", "d": ["An older name for a compound of hydrogen with another substance."]}
+{"w": "hydroid", "pos": "noun", "d": ["A small hydra-like polyp, often living in colonies."]}
+{"w": "hydroidea", "pos": "noun", "d": ["An order of coelenterates that includes the hydroids."]}
+{"w": "hydrokinetic", "pos": "adjective", "d": ["Relating to the motion or energy of moving water."]}
+{"w": "hydrological", "pos": "adjective", "d": ["Relating to the scientific study of water."]}
+{"w": "hydrologist", "pos": "noun", "d": ["A scientist who studies water and its movement and distribution."]}
+{"w": "hydrology", "pos": "noun", "d": ["The scientific study of water, its properties, and its distribution on earth."]}
+{"w": "hydrolysis", "pos": "noun", "d": ["A chemical reaction in which water splits a compound into simpler parts."]}
+{"w": "hydrolytic", "pos": "adjective", "d": ["Relating to or producing hydrolysis."]}
+{"w": "hydromagnesite", "pos": "noun", "d": ["A white mineral composed of hydrated magnesium carbonate."]}
+{"w": "hydromancy", "pos": "noun", "d": ["Divination by means of water."]}
+{"w": "hydromantic", "pos": "adjective", "d": ["Relating to divination by water."]}
+{"w": "hydromechanics", "pos": "noun", "d": ["The science dealing with the mechanical properties of water and other fluids."]}
+{"w": "hydromedusa", "pos": "noun", "d": ["The free-swimming, jellyfish-like stage of a hydroid."]}
+{"w": "hydromel", "pos": "noun", "d": ["A drink made of honey mixed with water."]}
+{"w": "hydromellonic", "pos": "adjective", "d": ["Relating to hydromellonic acid."]}
+{"w": "hydrometallurgical", "pos": "adjective", "d": ["Relating to the extraction of metals by means of water-based solutions."]}
+{"w": "hydrometallurgy", "pos": "noun", "d": ["The extraction of metals from ores using water-based chemical solutions."]}
+{"w": "hydrometeor", "pos": "noun", "d": ["An atmospheric phenomenon involving water, such as rain, cloud, or snow."]}
+{"w": "hydrometeorological", "pos": "adjective", "d": ["Relating to the study of atmospheric water phenomena."]}
+{"w": "hydrometer", "pos": "noun", "d": ["An instrument for measuring the density of liquids."]}
+{"w": "hydrometric", "pos": "adjective", "d": ["Relating to the measurement of liquids or of water flow."]}
+{"w": "hydrometrograph", "pos": "noun", "d": ["A self-recording instrument for measuring the density of liquids."]}
+{"w": "hydrometry", "pos": "noun", "d": ["The measurement of the density of liquids or the flow of water."]}
+{"w": "hydromica", "pos": "noun", "d": ["A mineral formed from mica altered by the action of water."]}
+{"w": "hydronephrosis", "pos": "noun", "d": ["A swelling of the kidney caused by trapped urine."]}
+{"w": "hydropath", "pos": "noun", "d": ["One who treats disease by the use of water."]}
+{"w": "hydropathy", "pos": "noun", "d": ["The treatment of disease by the external or internal use of water."]}
+{"w": "hydroperitoneum", "pos": "noun", "d": ["An accumulation of watery fluid in the cavity of the abdomen."]}
+{"w": "hydrophane", "pos": "noun", "d": ["A variety of opal that becomes transparent when soaked in water."]}
+{"w": "hydrophanous", "pos": "adjective", "d": ["Becoming transparent when placed in water."]}
+{"w": "hydrophid", "pos": "noun", "d": ["A venomous sea snake."]}
+{"w": "hydrophlorone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hydrophobia", "pos": "noun", "d": ["An abnormal fear of water.", "Rabies, a disease marked by spasms at the sight of water."]}
+{"w": "hydrophobic", "pos": "adjective", "d": ["Repelling water; not mixing with water."]}
+{"w": "hydrophoby", "pos": "noun", "d": ["An older form of hydrophobia."]}
+{"w": "hydrophora", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hydrophore", "pos": "noun", "d": ["A carrier or conveyor of water."]}
+{"w": "hydrophyllium", "pos": "noun", "d": ["A waterleaf plant; a member of the waterleaf family."]}
+{"w": "hydrophyte", "pos": "noun", "d": ["A plant that grows in water."]}
+{"w": "hydrophytology", "pos": "noun", "d": ["The scientific study of water plants."]}
+{"w": "hydropic", "pos": "adjective", "d": ["Relating to or affected with dropsy."]}
+{"w": "hydropiper", "pos": "noun", "d": ["A plant with sharp-tasting leaves that grows in wet ground; water pepper."]}
+{"w": "hydroplane", "pos": "noun", "d": ["An airplane built to take off from and land on water.", "A light boat designed to skim over the water's surface."]}
+{"w": "hydropneumatic", "pos": "adjective", "d": ["Operated by the combined pressure of water and air."]}
+{"w": "hydropneumatic gun carriage", "pos": "phrase", "d": ["A gun carriage in which recoil is absorbed by water and air pressure."]}
+{"w": "hydropsy", "pos": "noun", "d": ["An older name for dropsy, an abnormal buildup of fluid in the body."]}
+{"w": "hydropult", "pos": "noun", "d": ["A machine for throwing or pumping water."]}
+{"w": "hydroquinone", "pos": "noun", "d": ["A crystalline compound used as a photographic developer."]}
+{"w": "hydrorhiza", "pos": "noun", "d": ["The root-like base by which a hydroid colony fastens itself."]}
+{"w": "hydrosalt", "pos": "noun", "d": ["A salt containing water of crystallization."]}
+{"w": "hydroscope", "pos": "noun", "d": ["An instrument for viewing objects beneath the surface of water."]}
+{"w": "hydrosoma", "pos": "noun", "d": ["The entire body of a hydroid colony."]}
+{"w": "hydrosome", "pos": "noun", "d": ["The body of a hydroid colony."]}
+{"w": "hydrosorbic", "pos": "adjective", "d": ["Relating to hydrosorbic acid."]}
+{"w": "hydrosphere", "pos": "noun", "d": ["All the water on the earth's surface, including oceans, lakes, and rivers."]}
+{"w": "hydrostat", "pos": "noun", "d": ["A device for regulating water level or pressure."]}
+{"w": "hydrostatician", "pos": "noun", "d": ["One skilled in hydrostatics."]}
+{"w": "hydrosulphate", "pos": "noun", "d": ["A salt formed from hydrosulphuric acid."]}
+{"w": "hydrosulphide", "pos": "noun", "d": ["A compound of hydrogen and sulfur."]}
+{"w": "hydrosulphite", "pos": "noun", "d": ["A salt formed from hydrosulphurous acid."]}
+{"w": "hydrosulphuret", "pos": "noun", "d": ["An older name for a hydrosulphide."]}
+{"w": "hydrosulphuric", "pos": "adjective", "d": ["Relating to hydrosulphuric acid."]}
+{"w": "hydrosulphurous", "pos": "adjective", "d": ["Relating to hydrosulphurous acid."]}
+{"w": "hydrotellurate", "pos": "noun", "d": ["A salt formed from hydrotelluric acid."]}
+{"w": "hydrotelluric", "pos": "adjective", "d": ["Relating to hydrotelluric acid."]}
+{"w": "hydrotheca", "pos": "noun", "d": ["The protective cup that encloses a hydroid polyp."]}
+{"w": "hydrotherapeutics", "pos": "noun", "d": ["Treatment of disease by means of water; hydrotherapy."]}
+{"w": "hydrotherapy", "pos": "noun", "d": ["The treatment of disease or injury by the use of water."]}
+{"w": "hydrothermal", "pos": "adjective", "d": ["Relating to heated water, especially water heated underground."]}
+{"w": "hydrothorax", "pos": "noun", "d": ["An accumulation of watery fluid in the cavity of the chest."]}
+{"w": "hydrotic", "pos": "adjective", "d": ["Causing perspiration."]}
+{"w": "hydrotrope", "pos": "noun", "d": ["An organism that turns or moves toward water."]}
+{"w": "hydrotropic", "pos": "adjective", "d": ["Turning or growing toward water."]}
+{"w": "hydrotropism", "pos": "noun", "d": ["The turning or growth of an organism toward water."]}
+{"w": "hydrous", "pos": "adjective", "d": ["Containing water, especially water held in chemical combination."]}
+{"w": "hydroxanthane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hydroxanthic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hydroxide", "pos": "noun", "d": ["A compound containing one or more hydroxyl groups, such as sodium hydroxide."]}
+{"w": "hydroxy-", "pos": "prefix", "d": ["A prefix denoting the presence of a hydroxyl group, as in hydroxide."]}
+{"w": "hydroxyl", "pos": "noun", "d": ["A chemical group made of one oxygen atom and one hydrogen atom."]}
+{"w": "hydrozoa", "pos": "noun", "d": ["A class of coelenterates that includes hydras, hydroids, and related forms."]}
+{"w": "hydrozoal", "pos": "adjective", "d": ["Relating to the Hydrozoa."]}
+{"w": "hydrozooen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hydrozoon", "pos": "noun", "d": ["An individual member of the Hydrozoa."]}
+{"w": "hydruret", "pos": "noun", "d": ["An older name for a hydride."]}
+{"w": "hydrus", "pos": "noun", "d": ["A genus of venomous sea snakes.", "A southern constellation representing a water snake."]}
+{"w": "hye", "pos": "verb", "d": ["To hasten; to go quickly."]}
+{"w": "hyemal", "pos": "adjective", "d": ["Relating to or occurring in winter."]}
+{"w": "hyemation", "pos": "noun", "d": ["The act or state of passing the winter."]}
+{"w": "hyen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hyena", "pos": "noun", "d": ["A doglike carnivorous mammal of Africa and Asia, known for its laughing cry."]}
+{"w": "hyetal", "pos": "adjective", "d": ["Relating to rain or rainfall."]}
+{"w": "hyetograph", "pos": "noun", "d": ["A chart or map showing the distribution of rainfall."]}
+{"w": "hyetography", "pos": "noun", "d": ["The scientific study of the geographic distribution of rainfall."]}
+{"w": "hyetology", "pos": "noun", "d": ["The scientific study of rain and rainfall."]}
+{"w": "hygeia", "pos": "noun", "d": ["In Greek mythology, the goddess of health."]}
+{"w": "hygeian", "pos": "adjective", "d": ["Relating to health; promoting health."]}
+{"w": "hygeist", "pos": "noun", "d": ["An advocate of healthful living."]}
+{"w": "hygieist", "pos": "noun", "d": ["One who practices or teaches hygiene; a hygienist."]}
+{"w": "hygienic", "pos": "adjective", "d": ["Promoting health and cleanliness."]}
+{"w": "hygienism", "pos": "noun", "d": ["The principles and practice of hygiene."]}
+{"w": "hygienist", "pos": "noun", "d": ["One who practices or teaches hygiene."]}
+{"w": "hygiology", "pos": "noun", "d": ["The science of health and hygiene."]}
+{"w": "hygrine", "pos": "noun", "d": ["An alkaloid found in coca leaves."]}
+{"w": "hygrodeik", "pos": "noun", "d": ["An instrument for indicating the humidity of the air."]}
+{"w": "hygrograph", "pos": "noun", "d": ["A self-recording instrument for measuring atmospheric humidity."]}
+{"w": "hygrology", "pos": "noun", "d": ["The branch of science dealing with the fluids of the body."]}
+{"w": "hygrometer", "pos": "noun", "d": ["An instrument for measuring the humidity of the air."]}
+{"w": "hygrometric", "pos": "adjective", "d": ["Relating to the hygrometer or to the measurement of humidity."]}
+{"w": "hygrometry", "pos": "noun", "d": ["The measurement of the humidity of the atmosphere."]}
+{"w": "hygrophanous", "pos": "adjective", "d": ["Changing appearance with moisture, as fungi that turn translucent when wet."]}
+{"w": "hygrophthalmic", "pos": "adjective", "d": ["Pertaining to the natural moisture of the eye."]}
+{"w": "hygroplasm", "pos": "noun", "d": ["The fluid, unorganized portion of the protoplasm of a cell."]}
+{"w": "hygroscope", "pos": "noun", "d": ["An instrument that shows changes in humidity without measuring them precisely."]}
+{"w": "hygroscopic", "pos": "adjective", "d": ["Readily absorbing moisture from the air."]}
+{"w": "hygrostatics", "pos": "noun", "d": ["The branch of physics treating of moisture, especially atmospheric moisture."]}
+{"w": "hyke", "pos": "verb", "d": ["To move briskly or with long steps; an old form of hike."]}
+{"w": "hyksos", "pos": "noun", "d": ["The foreign rulers who dominated Egypt during the Second Intermediate Period."]}
+{"w": "hylaeosaur", "pos": "noun", "d": ["A fossil armored dinosaur of the Cretaceous period."]}
+{"w": "hylaeosaurus", "pos": "noun", "d": ["An extinct genus of armored dinosaurs; the hylaeosaur."]}
+{"w": "hylarchical", "pos": "adjective", "d": ["Pertaining to rule over matter or the material universe."]}
+{"w": "hyleosaur", "pos": "noun", "d": ["A variant spelling of hylaeosaurus, an extinct armored dinosaur."]}
+{"w": "hylic", "pos": "adjective", "d": ["Pertaining to matter; material or bodily.", "In Gnostic belief, belonging to the lowest, purely material class of people."]}
+{"w": "hylism", "pos": "noun", "d": ["The philosophical doctrine that matter is the ultimate principle of all things."]}
+{"w": "hylobate", "pos": "noun", "d": ["A gibbon; an ape of the genus Hylobates."]}
+{"w": "hylodes", "pos": "noun", "d": ["A genus of small tree frogs native to South America."]}
+{"w": "hyloism", "pos": "noun", "d": ["The doctrine that matter is the fundamental principle of the universe."]}
+{"w": "hyloist", "pos": "noun", "d": ["One who holds the doctrine of hyloism."]}
+{"w": "hylopathism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hylopathist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hylophagous", "pos": "adjective", "d": ["Feeding on wood, as certain insects."]}
+{"w": "hylotheism", "pos": "noun", "d": ["The doctrine that God and matter are identical."]}
+{"w": "hylotheist", "pos": "noun", "d": ["One who holds the doctrine of hylotheism."]}
+{"w": "hylozoic", "pos": "adjective", "d": ["Pertaining to hylozoism; holding that matter is alive."]}
+{"w": "hylozoism", "pos": "noun", "d": ["The philosophical doctrine that all matter has life."]}
+{"w": "hylozoist", "pos": "noun", "d": ["One who holds the doctrine of hylozoism."]}
+{"w": "hymar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hymen", "pos": "noun", "d": ["A thin membrane partly closing the opening of the vagina.", "The Greek god of marriage."]}
+{"w": "hymeneal", "pos": "adjective", "d": ["Pertaining to marriage; nuptial."]}
+{"w": "hymenium", "pos": "noun", "d": ["The spore-bearing layer on the surface of a fungus."]}
+{"w": "hymenogeny", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hymenomycetes", "pos": "noun", "d": ["A class of fungi that bear their spores on a hymenium, including most mushrooms."]}
+{"w": "hymenophore", "pos": "noun", "d": ["The part of a fungus that bears the hymenium."]}
+{"w": "hymenopter", "pos": "noun", "d": ["An insect of the order Hymenoptera."]}
+{"w": "hymenoptera", "pos": "noun", "d": ["A large order of insects including ants, bees, and wasps."]}
+{"w": "hymenopteran", "pos": "noun", "d": ["An insect of the order Hymenoptera, such as an ant, bee, or wasp."]}
+{"w": "hymn", "pos": "noun", "d": ["A religious song of praise or worship."]}
+{"w": "hymnody", "pos": "noun", "d": ["The singing or composition of hymns.", "A collection of hymns."]}
+{"w": "hymnographer", "pos": "noun", "d": ["A writer or composer of hymns."]}
+{"w": "hymnography", "pos": "noun", "d": ["The writing or composition of hymns."]}
+{"w": "hymnologist", "pos": "noun", "d": ["One versed in the study of hymns and hymnody."]}
+{"w": "hympne", "pos": "noun", "d": ["An obsolete spelling of hymn."]}
+{"w": "hyndreste", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hyne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hyo-", "pos": "prefix", "d": ["A prefix denoting relation to the hyoid bone, as in hyoglossus."]}
+{"w": "hyoganoidei", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hyoglossal", "pos": "adjective", "d": ["Pertaining to the hyoglossus muscle of the tongue."]}
+{"w": "hyoglossus", "pos": "noun", "d": ["A muscle connecting the tongue to the hyoid bone."]}
+{"w": "hyoid", "pos": "noun", "d": ["The U-shaped bone at the base of the tongue."]}
+{"w": "hyoideal", "pos": "adjective", "d": ["Pertaining to the hyoid bone."]}
+{"w": "hyomandibular", "pos": "adjective", "d": ["Relating to the hyoid and mandibular arches, as the suspensory bone in fishes."]}
+{"w": "hyomental", "pos": "adjective", "d": ["Relating to the hyoid bone and the chin."]}
+{"w": "hyopastron", "pos": "noun", "d": ["A paired bone forming part of the plastron, or undershell, of a turtle."]}
+{"w": "hyoscine", "pos": "noun", "d": ["A poisonous alkaloid from henbane, used as a sedative; scopolamine."]}
+{"w": "hyoscyamine", "pos": "noun", "d": ["A poisonous alkaloid obtained from henbane and related plants."]}
+{"w": "hyoscyamus", "pos": "noun", "d": ["A genus of poisonous plants including henbane."]}
+{"w": "hyosternal", "pos": "adjective", "d": ["Pertaining to the hyosternum of a turtle."]}
+{"w": "hyosternum", "pos": "noun", "d": ["A lateral bone of the plastron of a turtle."]}
+{"w": "hyostylic", "pos": "adjective", "d": ["Having the lower jaw suspended from the hyomandibular cartilage, as in sharks."]}
+{"w": "hyp", "pos": "noun", "d": ["A fit of melancholy or low spirits.", "A shortening of hypochondria."]}
+{"w": "hypaethral", "pos": "adjective", "d": ["Open to the sky; without a roof, as certain ancient temples."]}
+{"w": "hypallage", "pos": "noun", "d": ["A rhetorical figure interchanging the grammatical relations of words."]}
+{"w": "hypanthium", "pos": "noun", "d": ["The cup-shaped enlargement of a flower stalk that bears the floral parts."]}
+{"w": "hypaspist", "pos": "noun", "d": ["A shield-bearing soldier or attendant in ancient Greek armies."]}
+{"w": "hype", "pos": "noun", "d": ["Exaggerated publicity or promotion."]}
+{"w": "hyper-", "pos": "prefix", "d": ["A prefix meaning above, beyond, or excessively, as in hypersensitive."]}
+{"w": "hyperaemia", "pos": "noun", "d": ["An excess of blood in some part of the body."]}
+{"w": "hyperaspist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hyperbatic", "pos": "adjective", "d": ["Pertaining to hyperbaton, the inversion of normal word order."]}
+{"w": "hyperbola", "pos": "noun", "d": ["A curve formed by cutting a cone with a plane parallel to its axis."]}
+{"w": "hyperbolic", "pos": "adjective", "d": ["Relating to a hyperbola.", "Grossly exaggerated; of the nature of hyperbole."]}
+{"w": "hyperboliform", "pos": "adjective", "d": ["Having the form of a hyperbola."]}
+{"w": "hyperbolism", "pos": "noun", "d": ["The use of hyperbole; exaggerated statement."]}
+{"w": "hyperbolist", "pos": "noun", "d": ["One who uses hyperbole."]}
+{"w": "hyperbolize", "pos": "verb", "d": ["To speak or write with hyperbole; to exaggerate."]}
+{"w": "hyperboloid", "pos": "noun", "d": ["A solid or surface generated by revolving a hyperbola about one of its axes."]}
+{"w": "hyperborean", "pos": "noun", "d": ["An inhabitant of the extreme north; a northerner."]}
+{"w": "hyperesthesia", "pos": "noun", "d": ["Abnormally increased sensitivity to touch or other stimuli."]}
+{"w": "hypericum", "pos": "noun", "d": ["A large genus of plants including Saint-John's-wort."]}
+{"w": "hyperinosis", "pos": "noun", "d": ["An excess of fibrin in the blood."]}
+{"w": "hyperkinesis", "pos": "noun", "d": ["Abnormally increased muscular movement or restlessness."]}
+{"w": "hypermetropia", "pos": "noun", "d": ["Farsightedness; vision defective for near objects."]}
+{"w": "hypermetropy", "pos": "noun", "d": ["Same as hypermetropia; farsightedness."]}
+{"w": "hypernoea", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hyperoartia", "pos": "noun", "d": ["The order of jawless fishes comprising the lampreys."]}
+{"w": "hyperopia", "pos": "noun", "d": ["Farsightedness."]}
+{"w": "hyperotreta", "pos": "noun", "d": ["The order of jawless fishes comprising the hagfishes."]}
+{"w": "hyperoxygenated", "pos": "adjective", "d": ["Combined or charged with an excess of oxygen."]}
+{"w": "hyperoxygenized", "pos": "adjective", "d": ["Treated with or containing an excess of oxygen."]}
+{"w": "hyperplasia", "pos": "noun", "d": ["An abnormal increase in the number of cells in a tissue."]}
+{"w": "hypersthene", "pos": "noun", "d": ["A dark-colored mineral of the pyroxene group."]}
+{"w": "hyperthyrion", "pos": "noun", "d": ["In Greek architecture, the lintel or frieze above a doorway."]}
+{"w": "hypethral", "pos": "adjective", "d": ["Same as hypaethral; open to the sky."]}
+{"w": "hyphae", "pos": "noun", "d": ["The threadlike filaments forming the body of a fungus."]}
+{"w": "hyphenated", "pos": "adjective", "d": ["Joined or written with a hyphen.", "Designating an American described by a hyphenated national origin, as Irish-American."]}
+{"w": "hyphomycetes", "pos": "noun", "d": ["A group of fungi that bear their spores on hyphae."]}
+{"w": "hypinosis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hypnagogic", "pos": "adjective", "d": ["Pertaining to the drowsy state just before sleep."]}
+{"w": "hypnobate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hypnocyst", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hypnogenic", "pos": "adjective", "d": ["Producing or inducing sleep."]}
+{"w": "hypnologist", "pos": "noun", "d": ["One versed in hypnology; an expert on sleep."]}
+{"w": "hypnology", "pos": "noun", "d": ["The branch of science treating of sleep and its phenomena."]}
+{"w": "hypnoscope", "pos": "noun", "d": ["An instrument for testing susceptibility to hypnotism."]}
+{"w": "hypnosis", "pos": "noun", "d": ["A sleeplike state of altered consciousness with heightened suggestibility."]}
+{"w": "hypnotic", "pos": "adjective", "d": ["Pertaining to or producing hypnosis.", "Tending to induce sleep."]}
+{"w": "hypnotism", "pos": "noun", "d": ["The act or practice of inducing hypnosis."]}
+{"w": "hypnotization", "pos": "noun", "d": ["The act of hypnotizing; induction of the hypnotic state."]}
+{"w": "hypnotize", "pos": "verb", "d": ["To put into a state of hypnosis."]}
+{"w": "hypnum", "pos": "noun", "d": ["A large genus of mosses."]}
+{"w": "hypo", "pos": "noun", "d": ["Sodium thiosulfate, used as a fixer in photography.", "A hypodermic injection."]}
+{"w": "hypo-", "pos": "prefix", "d": ["A prefix meaning under, beneath, or less than normal, as in hypodermic."]}
+{"w": "hypoarion", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hypocarpium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hypocarpogean", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hypocaust", "pos": "noun", "d": ["An ancient Roman system of heating rooms by hot air under the floor."]}
+{"w": "hypochondres", "pos": "noun", "d": ["The regions of the abdomen on either side below the lower ribs."]}
+{"w": "hypochondria", "pos": "noun", "d": ["The regions of the abdomen below the ribs.", "Morbid anxiety about one's health."]}
+{"w": "hypochondriac", "pos": "noun", "d": ["A person morbidly anxious about their health."]}
+{"w": "hypochondriasm", "pos": "noun", "d": ["Morbid anxiety about one's health; hypochondria."]}
+{"w": "hypochondrium", "pos": "noun", "d": ["One of the two regions of the abdomen below the ribs."]}
+{"w": "hypochondry", "pos": "noun", "d": ["Same as hypochondria; morbid anxiety about health."]}
+{"w": "hypocleidium", "pos": "noun", "d": ["The median keel-like process of a bird's furcula, or wishbone."]}
+{"w": "hypocoristic", "pos": "adjective", "d": ["Expressing affection by a diminutive or pet form of a name."]}
+{"w": "hypocraterimorphous", "pos": "adjective", "d": ["Salver-shaped, with a flat spreading limb and narrow tube, as certain flowers."]}
+{"w": "hypocrisy", "pos": "noun", "d": ["The pretense of virtues or beliefs one does not hold."]}
+{"w": "hypocrite", "pos": "noun", "d": ["One who pretends to virtues or beliefs they do not hold."]}
+{"w": "hypodactylum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hypogaeic", "pos": "adjective", "d": ["Growing or living underground."]}
+{"w": "hypogastrium", "pos": "noun", "d": ["The lower middle region of the abdomen."]}
+{"w": "hypogene", "pos": "adjective", "d": ["Formed or situated beneath the earth's surface, as certain rocks."]}
+{"w": "hypogeous", "pos": "adjective", "d": ["Growing or living underground."]}
+{"w": "hypogeum", "pos": "noun", "d": ["An underground chamber or tomb."]}
+{"w": "hypognatous", "pos": "adjective", "d": ["Having the mouthparts directed downward, as certain insects."]}
+{"w": "hypohyal", "pos": "noun", "d": ["A bone of the hyoid arch in fishes."]}
+{"w": "hyponastic", "pos": "adjective", "d": ["Curving or growing upward, as leaves under uneven growth."]}
+{"w": "hypophysial", "pos": "adjective", "d": ["Pertaining to the hypophysis."]}
+{"w": "hypophysis", "pos": "noun", "d": ["The pituitary gland.", "In botany, the lower part of a plant embryo."]}
+{"w": "hypoptilum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hypospadias", "pos": "noun", "d": ["A congenital condition in which the urethra opens on the underside of the penis."]}
+{"w": "hypostasize", "pos": "verb", "d": ["To treat or regard as a distinct substance or real entity."]}
+{"w": "hypostatize", "pos": "verb", "d": ["Same as hypostasize; to treat as a real substance."]}
+{"w": "hypostome", "pos": "noun", "d": ["A plate or mouthpart beneath the mouth, as in trilobites and ticks."]}
+{"w": "hypotenuse", "pos": "noun", "d": ["The side of a right triangle opposite the right angle."]}
+{"w": "hypothec", "pos": "noun", "d": ["In civil and Scots law, a lien or security on property without possession."]}
+{"w": "hypothenusal", "pos": "adjective", "d": ["Pertaining to the hypotenuse of a right triangle."]}
+{"w": "hypothenuse", "pos": "noun", "d": ["An old spelling of hypotenuse."]}
+{"w": "hypothetic", "pos": "adjective", "d": ["Same as hypothetical; assumed as a basis for reasoning."]}
+{"w": "hypothetist", "pos": "noun", "d": ["One who forms hypotheses or reasons from them."]}
+{"w": "hypotrachelium", "pos": "noun", "d": ["In classical architecture, the part of a column just below the necking."]}
+{"w": "hypotricha", "pos": "noun", "d": ["A group of ciliate protozoans with reduced or specialized cilia."]}
+{"w": "hypotyposis", "pos": "noun", "d": ["A rhetorical figure presenting a vivid, lifelike description."]}
+{"w": "hyppogriff", "pos": "noun", "d": ["A variant spelling of hippogriff, a mythical winged creature part horse and part eagle."]}
+{"w": "hypsiloid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hypsometer", "pos": "noun", "d": ["An instrument for measuring altitude by the boiling point of water."]}
+{"w": "hypsometric", "pos": "adjective", "d": ["Pertaining to hypsometry or the measurement of altitudes."]}
+{"w": "hypsometry", "pos": "noun", "d": ["The measurement of altitudes above sea level."]}
+{"w": "hyracoid", "pos": "noun", "d": ["An animal resembling the hyrax."]}
+{"w": "hyracoidea", "pos": "noun", "d": ["The order of mammals comprising the hyraxes."]}
+{"w": "hyrax", "pos": "noun", "d": ["A small rabbit-sized mammal of Africa and the Middle East, related to elephants."]}
+{"w": "hyrcan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hyrcanian", "pos": "adjective", "d": ["Pertaining to Hyrcania, an ancient region south of the Caspian Sea."]}
+{"w": "hyrse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hyrst", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hyson", "pos": "noun", "d": ["A variety of Chinese green tea."]}
+{"w": "hyssop", "pos": "noun", "d": ["A fragrant herb of the mint family, used in cooking and medicine."]}
+{"w": "hysteranthous", "pos": "adjective", "d": ["Bearing flowers before the leaves appear."]}
+{"w": "hysteresis", "pos": "noun", "d": ["The lagging of an effect behind its cause, as in magnetism."]}
+{"w": "hysteretic", "pos": "adjective", "d": ["Pertaining to or exhibiting hysteresis."]}
+{"w": "hysteria", "pos": "noun", "d": ["A state of unmanageable excitement or panic."]}
+{"w": "hysteric", "pos": "noun", "d": ["A person subject to hysteria."]}
+{"w": "hysteroepilepsy", "pos": "noun", "d": ["A condition combining hysterical and epileptic symptoms."]}
+{"w": "hysterogenic", "pos": "adjective", "d": ["Producing hysteria."]}
+{"w": "hysterology", "pos": "noun", "d": ["A rhetorical figure that inverts the natural order of ideas."]}
+{"w": "hysteron proteron", "pos": "phrase", "d": ["A rhetorical figure putting first what should logically come last."]}
+{"w": "hysterophyte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "hysterotomy", "pos": "noun", "d": ["Surgical incision of the uterus, as in a Caesarean section."]}
+{"w": "hystricine", "pos": "adjective", "d": ["Pertaining to or resembling porcupines."]}
+{"w": "hystricomorphous", "pos": "adjective", "d": ["Porcupine-like in form."]}
+{"w": "hystrix", "pos": "noun", "d": ["A genus of Old World porcupines."]}
+{"w": "hythe", "pos": "noun", "d": ["A small haven or landing place for boats."]}
+{"w": "i o u", "pos": "noun", "d": ["A written acknowledgment of a debt."]}
+{"w": "i-", "pos": "prefix", "d": ["A form of the prefix in- meaning not, used before gn, as in ignoble."]}
+{"w": "iamatology", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "iamb", "pos": "noun", "d": ["A metrical foot of one unstressed syllable followed by one stressed."]}
+{"w": "iambus", "pos": "noun", "d": ["An iamb; a metrical foot of an unstressed followed by a stressed syllable."]}
+{"w": "ianthina", "pos": "noun", "d": ["A genus of violet-colored pelagic sea snails."]}
+{"w": "iatraliptic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "iatric", "pos": "adjective", "d": ["Pertaining to a physician or to medicine."]}
+{"w": "iatrochemical", "pos": "adjective", "d": ["Pertaining to iatrochemistry."]}
+{"w": "iatrochemist", "pos": "noun", "d": ["One who practices iatrochemistry."]}
+{"w": "iatrochemistry", "pos": "noun", "d": ["The application of chemistry to medicine, especially in the school of Paracelsus."]}
+{"w": "iatromathematical", "pos": "adjective", "d": ["Pertaining to the application of mathematics or mechanics to medicine."]}
+{"w": "iatromathematician", "pos": "noun", "d": ["One who applies mathematics or mechanics to medicine."]}
+{"w": "iberian", "pos": "noun", "d": ["A native or inhabitant of the Iberian Peninsula."]}
+{"w": "ibex", "pos": "noun", "d": ["A wild mountain goat with large ridged horns."]}

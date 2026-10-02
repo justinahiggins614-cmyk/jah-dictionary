@@ -18,6 +18,7 @@ class FakeEl {
   get textContent() { return this._text; }
   appendChild(c) { this.children.push(c); return c; }
   addEventListener() {}
+  remove() {}
   querySelector() { return new FakeEl("div"); }
   setAttribute(k, v) { this.attributes[k] = v; }
 }
@@ -27,8 +28,11 @@ const document = {
   getElementById(id) { if (!elsById[id]) { elsById[id] = new FakeEl("div"); elsById[id].id = id; } return elsById[id]; },
   createElement(t) { return new FakeEl(t); },
   addEventListener() {},
+  querySelector() { return new FakeEl("div"); },
 };
+document.head = new FakeEl("head");
 const window = {};
+document.head = new FakeEl("head");
 const location = { search: "", href: "", _replaced: null, replace(u) { this._replaced = u; }, reload() {} };
 const navigator = { onLine: true };
 function resetStubs() { for (const k of Object.keys(elsById)) delete elsById[k];

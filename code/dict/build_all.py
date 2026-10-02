@@ -25,6 +25,10 @@ import gzip
 import json
 import os
 import re
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__))))
+from enrich import build_families, enrich_entry  # noqa: E402
 
 ROOT = os.path.expanduser("~/workspace/jah-dictionary")
 BUILD = os.path.join(ROOT, "code", "dict", "build")
@@ -76,7 +80,8 @@ def load_iwb_defs():
                 d = [str(s).strip() for s in d if str(s).strip()][:3]
                 defs[w.lower()] = {"d": d, "pos": str(r.get("pos", "") or ""),
                                    "src": str(r.get("src", "") or ""),
-                                   "links": r.get("links") or []}
+                                   "links": r.get("links") or [],
+                                   "unsure": bool(r.get("unsure", False))}
     return defs
 
 def parse_words():
@@ -103,6 +108,7 @@ def parse_words():
         words.append({"w": word, "k": "w", "key": key, "d": senses,
                       "pos": rec.get("pos", ""),
                       "links": rec.get("links", []),
+                      "unsure": bool(rec.get("unsure", False)),
                       "defsrc": rec.get("src", "") or "pending"})
     words.sort(key=lambda e: e["key"])
     for i, e in enumerate(words, 1):
@@ -270,7 +276,13 @@ def write_chunks(entries):
                     obj = {"w": e["w"], "k": "w", "st": e["st"], "d": e["d"],
                            "s": e.get("s", 0), "p": e.get("p", 0),
                            "pos": e.get("pos", ""), "defsrc": e.get("defsrc", "pending"),
-                           "links": e.get("links", [])}
+                           "links": e.get("links", []),
+                           "unsure": bool(e.get("unsure", False)),
+                           "pron": e.get("pron", ""), "hist": e.get("hist", ""),
+                           "histsrc": e.get("histsrc", "composed"),
+                           "desc": e.get("desc", []), "ex": e.get("ex", []),
+                           "rel": e.get("rel", []), "ant": e.get("ant", []),
+                           "forms": e.get("forms", {})}
                 else:
                     obj = {"w": e["w"], "k": "t", "st": e["st"], "rt": e["rt"],
                            "rid": e["rid"], "d": e["d"], "cpc": e.get("cpc", "")}
@@ -323,6 +335,10 @@ def refresh_api(stats):
         return
     api["records_approx"] = stats["total"]
     api["records_as_of"] = stats["last_updated"]
+    # the sitemap moved to sitemap-index.xml in polish pass 3 (robots.txt
+    # agrees); keep the api.json pointer honest on every rebuild.
+    api["sitemap"] = ("https://justinahiggins614-cmyk.github.io/jah-dictionary/"
+                      "sitemap-index.xml")
     # keep the endpoint description honest about chunking
     n_chunks = sum(1 for n in os.listdir(DATADIR)
                    if n.startswith("dict-c") and n.endswith(".jsonl.gz"))
@@ -358,7 +374,7 @@ def write_stats(n_words, n_terms):
         data_hash = "sha256:" + h.hexdigest()
     stats = {
         "dictionary_version": "1.0",
-        "schema_version": "1.0",
+        "schema_version": "1.1",
         "entry_count": n_words + n_terms,
         "words": n_words,
         "terms": n_terms,
@@ -413,6 +429,14 @@ def verify(index, ipath):
     assert len(rug["d"]) >= 1, "'rug' has no IWB senses"
     log("'rug' resolves: OK (st=%s, senses=%d, s=%d, p=%d)" %
         (rug["st"], len(rug["d"]), rug.get("s", 0), rug.get("p", 0)))
+    # 3b. schema v1.1 enrichment present on the word entry
+    for f in ("pron", "hist", "histsrc", "desc", "ex", "rel", "ant", "forms"):
+        assert f in rug, "enriched field missing: %s" % f
+    assert rug["pron"], "'rug' has no pronunciation"
+    assert rug["desc"], "'rug' has no worded description"
+    assert rug["forms"].get("plural"), "'rug' has no plural form"
+    log("schema v1.1 enrichment: OK (pron=%s, senses=%d, examples=%d)" %
+        (rug["pron"], len(rug["desc"]), len(rug["ex"])))
     # 4. spot-check one spec term and one patent term
     spec_e = None
     for r in index:
@@ -449,6 +473,16 @@ def main():
     assert os.path.exists(DICT_JSON), "missing input: %s" % DICT_JSON
     words = parse_words()
     write_words_cache(words)
+    # schema v1.1: enrich every headword with the full dictionary apparatus
+    # (pronunciation, history, description, examples, relations, forms).
+    # Deterministic and pure: safe to re-run on every rebuild, including the
+    # 2h iwb-definitions-drip (new words are enriched automatically).
+    log("enriching %d headwords..." % len(words))
+    wordset = set(e["key"] for e in words)
+    fams = build_families([e["key"] for e in words], wordset)
+    for e in words:
+        enrich_entry(e, wordset, fams)
+    log("enrichment complete")
     old_stamps, max_t = load_old_term_stamps()
     log("old term stamps loaded: %d (max T-number %d)" % (len(old_stamps), max_t))
     terms, spec_titles, pat_titles, n_spec_terms, n_pat_terms = build_terms(old_stamps, max_t + 1)
@@ -460,7 +494,10 @@ def main():
     log("usage counts: words hit by spec titles=%d, by patent titles=%d" %
         (sum(1 for v in spec_counts.values() if v), sum(1 for v in pat_counts.values() if v)))
     entries = words + terms
-    entries.sort(key=lambda e: (e["key"], e["k"]))  # word ("w") before term ("t") on collision
+    # Word ("w") before term ("t") on collision: the English word wins the
+    # primary slot and shadowed catalog terms stay reachable by stamp ID.
+    # (NB: "t" < "w" in ASCII, so sort explicitly on kind rank.)
+    entries.sort(key=lambda e: (e["key"], 0 if e["k"] == "w" else 1))
     index, n_chunks = write_chunks(entries)
     ipath = write_index(index)
     write_stamp_index(entries)

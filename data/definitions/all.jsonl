@@ -29416,6 +29416,806 @@
 {"w": "iatromathematician", "pos": "noun", "d": ["One who applies mathematics or mechanics to medicine."], "src": "iwb"}
 {"w": "iberian", "pos": "noun", "d": ["A native or inhabitant of the Iberian Peninsula."], "src": "iwb"}
 {"w": "ibex", "pos": "noun", "d": ["A wild mountain goat with large ridged horns."], "src": "iwb"}
+{"w": "ibidem", "pos": "adverb", "d": ["In the same place, used in citations to refer to the source just mentioned."], "src": "iwb"}
+{"w": "ibis", "pos": "noun", "d": ["A long-legged wading bird with a long curved bill that feeds in shallow water."], "src": "iwb"}
+{"w": "ible", "pos": "suffix", "d": ["A suffix meaning 'capable of' or 'tending to', as in sensible."], "src": "iwb"}
+{"w": "ibsenism", "pos": "noun", "d": ["The spirit or style of Henrik Ibsen's plays, marked by realistic social drama."], "src": "iwb"}
+{"w": "icarian", "pos": "adjective", "d": ["Relating to Icarus of myth; marked by overbold daring that leads to failure."], "src": "iwb"}
+{"w": "ice plant", "pos": "noun", "d": ["A low succulent plant whose fleshy leaves glisten as if coated with ice."], "src": "iwb"}
+{"w": "ice-built", "pos": "adjective", "d": ["Formed or constructed of ice."], "src": "iwb"}
+{"w": "iced", "pos": "adjective", "d": ["Covered with ice, or chilled with ice."], "src": "iwb"}
+{"w": "iceland moss", "pos": "noun", "d": ["An edible lichen of northern regions, used in food and medicine."], "src": "iwb"}
+{"w": "iceland spar", "pos": "noun", "d": ["A clear, colorless variety of calcite that splits a light ray in two."], "src": "iwb"}
+{"w": "icelandic", "pos": "adjective", "d": ["Of or relating to Iceland, its people, or its language.", "The language spoken in Iceland."], "src": "iwb"}
+{"w": "ich", "pos": "pronoun", "d": ["The German word for 'I'."], "src": "iwb"}
+{"w": "ichneumon", "pos": "noun", "d": ["A wasp that lays its eggs in or on the bodies of other insects.", "The Egyptian mongoose."], "src": "iwb"}
+{"w": "ichneumonidan", "pos": "noun", "d": ["A wasp of the ichneumon family, whose larvae live as parasites in other insects."], "src": "iwb"}
+{"w": "ichnite", "pos": "noun", "d": ["A fossil footprint preserved in rock."], "src": "iwb"}
+{"w": "ichnographic", "pos": "adjective", "d": ["Relating to ground plans, or to fossil footprints."], "src": "iwb"}
+{"w": "ichnography", "pos": "noun", "d": ["The art of drawing ground plans.", "The study of fossil footprints."], "src": "iwb"}
+{"w": "ichnolite", "pos": "noun", "d": ["A fossil footprint found preserved in stone."], "src": "iwb"}
+{"w": "ichnolithology", "pos": "noun", "d": ["The branch of science dealing with fossil footprints."], "src": "iwb"}
+{"w": "ichnological", "pos": "adjective", "d": ["Relating to ichnology."], "src": "iwb"}
+{"w": "ichnology", "pos": "noun", "d": ["The study of fossil footprints and other trace fossils."], "src": "iwb"}
+{"w": "ichnoscopy", "pos": "noun", "d": ["The examination and study of fossil tracks."], "src": "iwb"}
+{"w": "ichor", "pos": "noun", "d": ["In Greek myth, the fluid flowing in the veins of the gods.", "A thin, watery discharge from a wound or sore."], "src": "iwb"}
+{"w": "ichorhaemia", "pos": "noun", "d": ["The presence of watery, ichor-like fluid in the blood."], "src": "iwb"}
+{"w": "ichthidin", "pos": "noun", "d": ["A protein substance found in the eggs of fishes."], "src": "iwb"}
+{"w": "ichthulin", "pos": "noun", "d": ["A protein substance found in fish eggs."], "src": "iwb"}
+{"w": "ichthyic", "pos": "adjective", "d": ["Relating to fishes."], "src": "iwb"}
+{"w": "ichthyocol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ichthyocolla", "pos": "noun", "d": ["A gelatinous glue made from the air bladders of fishes; isinglass."], "src": "iwb"}
+{"w": "ichthyocoprolite", "pos": "noun", "d": ["The fossilized excrement of a fish."], "src": "iwb"}
+{"w": "ichthyodorulite", "pos": "noun", "d": ["A fossil spine or fin ray of a fish."], "src": "iwb"}
+{"w": "ichthyography", "pos": "noun", "d": ["The written description of fishes.", "An illustrated work about fishes."], "src": "iwb"}
+{"w": "ichthyoid", "pos": "adjective", "d": ["Shaped like a fish; fishlike."], "src": "iwb"}
+{"w": "ichthyol", "pos": "noun", "d": ["A dark medicinal substance derived from fossil fish remains, used for skin disorders."], "src": "iwb"}
+{"w": "ichthyolatry", "pos": "noun", "d": ["The worship of fish or fish gods."], "src": "iwb"}
+{"w": "ichthyolite", "pos": "noun", "d": ["A fossil fish."], "src": "iwb"}
+{"w": "ichthyologic", "pos": "adjective", "d": ["Relating to ichthyology."], "src": "iwb"}
+{"w": "ichthyologist", "pos": "noun", "d": ["A person who studies fishes."], "src": "iwb"}
+{"w": "ichthyology", "pos": "noun", "d": ["The branch of zoology that studies fishes."], "src": "iwb"}
+{"w": "ichthyomancy", "pos": "noun", "d": ["Divination by the examination of fish."], "src": "iwb"}
+{"w": "ichthyomorpha", "pos": "noun", "d": ["A group of fishes or fish-shaped animals in some classifications."], "src": "iwb"}
+{"w": "ichthyomorphic", "pos": "adjective", "d": ["Having the form of a fish."], "src": "iwb"}
+{"w": "ichthyomorphous", "pos": "adjective", "d": ["Having the form of a fish."], "src": "iwb"}
+{"w": "ichthyophagist", "pos": "noun", "d": ["A person who lives chiefly on fish."], "src": "iwb"}
+{"w": "ichthyophagous", "pos": "adjective", "d": ["Feeding on fish."], "src": "iwb"}
+{"w": "ichthyophagy", "pos": "noun", "d": ["The practice of eating fish."], "src": "iwb"}
+{"w": "ichthyophthalmite", "pos": "noun", "d": ["A pearly mineral whose luster resembles a fish's eye."], "src": "iwb"}
+{"w": "ichthyophthira", "pos": "noun", "d": ["A group of small parasitic crustaceans that infest the gills of fishes."], "src": "iwb"}
+{"w": "ichthyopsida", "pos": "noun", "d": ["A class of vertebrates including fishes and fishlike animals."], "src": "iwb"}
+{"w": "ichthyopterygia", "pos": "noun", "d": ["An order of extinct marine reptiles with fishlike fins, including the ichthyosaurs."], "src": "iwb"}
+{"w": "ichthyopterygium", "pos": "noun", "d": ["A fishlike fin or paddle of an ichthyosaur."], "src": "iwb"}
+{"w": "ichthyornis", "pos": "noun", "d": ["An extinct toothed seabird known only from fossils."], "src": "iwb"}
+{"w": "ichthyosaur", "pos": "noun", "d": ["An extinct marine reptile with a fish-shaped body and paddle-like limbs."], "src": "iwb"}
+{"w": "ichthyosauria", "pos": "noun", "d": ["The order of extinct marine reptiles comprising the ichthyosaurs."], "src": "iwb"}
+{"w": "ichthyosaurian", "pos": "adjective", "d": ["Relating to the ichthyosaurs."], "src": "iwb"}
+{"w": "ichthyosaurus", "pos": "noun", "d": ["A genus of extinct fishlike marine reptiles."], "src": "iwb"}
+{"w": "ichthyosis", "pos": "noun", "d": ["A skin condition marked by dry, scaly skin."], "src": "iwb"}
+{"w": "ichthyotomist", "pos": "noun", "d": ["A person who dissects fishes for study."], "src": "iwb"}
+{"w": "ichthyotomy", "pos": "noun", "d": ["The dissection of fishes."], "src": "iwb"}
+{"w": "ichthys", "pos": "noun", "d": ["A fish symbol used by early Christians, formed from the Greek word for fish."], "src": "iwb"}
+{"w": "icicle", "pos": "noun", "d": ["A hanging pointed piece of ice formed by dripping water freezing."], "src": "iwb"}
+{"w": "icily", "pos": "adverb", "d": ["In an icy manner; coldly or frostily."], "src": "iwb"}
+{"w": "iciness", "pos": "noun", "d": ["The quality or state of being icy."], "src": "iwb"}
+{"w": "icing", "pos": "noun", "d": ["A sweet coating for cakes and pastries.", "The forming of ice on a surface."], "src": "iwb"}
+{"w": "ickle", "pos": "adjective", "d": ["Little in size; tiny."], "src": "iwb"}
+{"w": "iconoclasm", "pos": "noun", "d": ["The breaking or destroying of religious images.", "An attack on established beliefs or institutions."], "src": "iwb"}
+{"w": "iconoclast", "pos": "noun", "d": ["A person who attacks cherished beliefs, customs, or institutions."], "src": "iwb"}
+{"w": "iconodule", "pos": "noun", "d": ["A supporter or worshipper of religious images."], "src": "iwb"}
+{"w": "iconodulist", "pos": "noun", "d": ["One who favors the use of religious images."], "src": "iwb"}
+{"w": "iconograph", "pos": "noun", "d": ["A book containing illustrations or descriptions of images."], "src": "iwb"}
+{"w": "iconography", "pos": "noun", "d": ["The study of the symbolic meaning of images in art.", "Illustrations or images taken collectively."], "src": "iwb"}
+{"w": "iconolater", "pos": "noun", "d": ["A worshipper of religious images."], "src": "iwb"}
+{"w": "iconolatry", "pos": "noun", "d": ["The worship of images."], "src": "iwb"}
+{"w": "iconomachy", "pos": "noun", "d": ["A struggle or controversy over the use of religious images."], "src": "iwb"}
+{"w": "iconomania", "pos": "noun", "d": ["An excessive fondness for images."], "src": "iwb"}
+{"w": "iconomical", "pos": "adjective", "d": ["Relating to images or icons."], "src": "iwb"}
+{"w": "iconophilist", "pos": "noun", "d": ["A lover of images."], "src": "iwb"}
+{"w": "icosahedral", "pos": "adjective", "d": ["Having the shape of an icosahedron."], "src": "iwb"}
+{"w": "icosahedron", "pos": "noun", "d": ["A solid figure with twenty faces."], "src": "iwb"}
+{"w": "icosandria", "pos": "noun", "d": ["A class of plants having twenty or more stamens."], "src": "iwb"}
+{"w": "icosandrian", "pos": "adjective", "d": ["Belonging to the class icosandria."], "src": "iwb"}
+{"w": "icosandrous", "pos": "adjective", "d": ["Having twenty or more stamens."], "src": "iwb"}
+{"w": "icositetrahedron", "pos": "noun", "d": ["A solid figure with twenty-four faces."], "src": "iwb"}
+{"w": "icteric", "pos": "adjective", "d": ["Relating to jaundice."], "src": "iwb"}
+{"w": "icteritious", "pos": "adjective", "d": ["Affected with jaundice; yellowish."], "src": "iwb"}
+{"w": "icteritous", "pos": "adjective", "d": ["Affected with jaundice."], "src": "iwb"}
+{"w": "icteroid", "pos": "adjective", "d": ["Resembling jaundice; yellowish."], "src": "iwb"}
+{"w": "icterus", "pos": "noun", "d": ["Jaundice; yellowing of the skin and eyes."], "src": "iwb"}
+{"w": "ictic", "pos": "adjective", "d": ["Relating to metrical stress in poetry."], "src": "iwb"}
+{"w": "ictus", "pos": "noun", "d": ["A sudden attack or seizure, as of a disease.", "The stressed beat in a line of verse."], "src": "iwb"}
+{"w": "icy", "pos": "adjective", "d": ["Covered with ice.", "Very cold; also, cold in manner and unfriendly."], "src": "iwb"}
+{"w": "icy-pearled", "pos": "adjective", "d": ["Spangled with drops of ice like pearls."], "src": "iwb"}
+{"w": "idalian", "pos": "adjective", "d": ["Relating to Venus, goddess of love."], "src": "iwb"}
+{"w": "idealization", "pos": "noun", "d": ["The act of representing something as ideal or perfect."], "src": "iwb"}
+{"w": "idealogue", "pos": "noun", "d": ["A person devoted to ideals, often impractical in action."], "src": "iwb"}
+{"w": "ideat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "idem", "pos": "pronoun", "d": ["The same; used in citations to refer to the author just named."], "src": "iwb"}
+{"w": "identic", "pos": "adjective", "d": ["Identical; the very same."], "src": "iwb"}
+{"w": "identifiable", "pos": "adjective", "d": ["Capable of being identified."], "src": "iwb"}
+{"w": "identism", "pos": "noun", "d": ["The doctrine that the mind and the external world are one and the same."], "src": "iwb"}
+{"w": "ideo-", "pos": "prefix", "d": ["A prefix meaning 'idea' or 'thought', as in ideology."], "src": "iwb"}
+{"w": "ideogenical", "pos": "adjective", "d": ["Relating to or involving the production of ideas or mental images."], "src": "iwb"}
+{"w": "ideogeny", "pos": "noun", "d": ["The spontaneous production of mental images in the mind."], "src": "iwb"}
+{"w": "ideogram", "pos": "noun", "d": ["A written symbol that represents an idea or thing rather than a sound, such as a Chinese character or a numeral."], "src": "iwb"}
+{"w": "ideograph", "pos": "noun", "d": ["A symbol representing an idea or object rather than a word or sound; an ideogram."], "src": "iwb"}
+{"w": "ideography", "pos": "noun", "d": ["The use of or study of ideographs; writing in symbols that represent ideas."], "src": "iwb"}
+{"w": "ideological", "pos": "adjective", "d": ["Relating to or based on a system of ideas or ideals."], "src": "iwb"}
+{"w": "ideologist", "pos": "noun", "d": ["A person who studies, develops, or strongly supports an ideology."], "src": "iwb"}
+{"w": "idio-", "pos": "prefix", "d": ["A prefix meaning 'private', 'personal', or 'peculiar', as in idiosyncrasy."], "src": "iwb"}
+{"w": "idioblast", "pos": "noun", "d": ["A plant cell that is distinctly different in form or content from the cells around it."], "src": "iwb"}
+{"w": "idiocrasis", "pos": "noun", "d": ["A peculiarity of bodily or mental constitution; an individual temperament."], "src": "iwb"}
+{"w": "idiocrasy", "pos": "noun", "d": ["A peculiarity of temperament or constitution; idiocrasis."], "src": "iwb"}
+{"w": "idiocratic", "pos": "adjective", "d": ["Relating to or marked by personal peculiarity of constitution."], "src": "iwb"}
+{"w": "idiocy", "pos": "noun", "d": ["Extreme foolishness or lack of good sense."], "src": "iwb"}
+{"w": "idiocyclophanous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "idioelectric", "pos": "adjective", "d": ["Becoming electrically charged through friction alone."], "src": "iwb"}
+{"w": "idiograph", "pos": "noun", "d": ["A mark, sign, or signature made by one's own hand."], "src": "iwb"}
+{"w": "idiolatry", "pos": "noun", "d": ["Worship of oneself; excessive admiration of one's own person."], "src": "iwb"}
+{"w": "idiom", "pos": "noun", "d": ["An expression whose meaning differs from the literal meanings of its words, such as 'kick the bucket'.", "The distinctive language or style of a people, place, or art form."], "src": "iwb"}
+{"w": "idiomatic", "pos": "adjective", "d": ["Natural and correct in the usage of a particular language.", "Characterized by or using idioms."], "src": "iwb"}
+{"w": "idiomorphous", "pos": "adjective", "d": ["Having a distinct crystal form of its own, with faces fully developed."], "src": "iwb"}
+{"w": "idiomuscular", "pos": "adjective", "d": ["Relating to contraction of a muscle caused by stimulating the muscle itself rather than its nerve."], "src": "iwb"}
+{"w": "idiopathetic", "pos": "adjective", "d": ["Relating to a disease that arises by itself rather than as a consequence of another illness."], "src": "iwb"}
+{"w": "idiopathic", "pos": "adjective", "d": ["Of a disease, arising on its own without a known cause."], "src": "iwb"}
+{"w": "idiopathy", "pos": "noun", "d": ["A disease of unknown cause; a condition that arises by itself."], "src": "iwb"}
+{"w": "idiophanous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "idioplasm", "pos": "noun", "d": ["The hereditary material within a cell; the living substance of a germ cell that carries inherited traits."], "src": "iwb"}
+{"w": "idioplasma", "pos": "noun", "d": ["The idioplasm; the hereditary substance of a cell."], "src": "iwb"}
+{"w": "idiorepulsive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "idiosyncrasy", "pos": "noun", "d": ["A distinctive habit, quirk, or mannerism peculiar to one person."], "src": "iwb"}
+{"w": "idiosyncratic", "pos": "adjective", "d": ["Having or marked by peculiar habits or traits of one's own."], "src": "iwb"}
+{"w": "idiot", "pos": "noun", "d": ["A very foolish or unintelligent person."], "src": "iwb"}
+{"w": "idiotcy", "pos": "noun", "d": ["The state or quality of being an idiot; extreme foolishness."], "src": "iwb"}
+{"w": "idiothermic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "idiotry", "pos": "noun", "d": ["Extreme foolishness; idiotic behavior or talk."], "src": "iwb"}
+{"w": "idle-headed", "pos": "adjective", "d": ["Foolish or empty-headed; lacking sense."], "src": "iwb"}
+{"w": "idle-pated", "pos": "adjective", "d": ["Foolish; silly and empty-headed."], "src": "iwb"}
+{"w": "idless", "pos": "adjective", "d": ["Without an id; lacking the instinctual part of the mind."], "src": "iwb"}
+{"w": "idlesse", "pos": "noun", "d": ["The state of being without an id."], "src": "iwb"}
+{"w": "idly", "pos": "adverb", "d": ["In an idle manner; without purpose or effort."], "src": "iwb"}
+{"w": "ido", "pos": "noun", "d": ["An international auxiliary language developed from Esperanto for easy worldwide use."], "src": "iwb"}
+{"w": "idolastre", "pos": "noun", "d": ["A worshipper of idols; an idolater."], "src": "iwb"}
+{"w": "idolatress", "pos": "noun", "d": ["A woman who worships idols."], "src": "iwb"}
+{"w": "idolatrical", "pos": "adjective", "d": ["Relating to or marked by the worship of idols."], "src": "iwb"}
+{"w": "idolatrize", "pos": "verb", "d": ["To worship as an idol.", "To love or admire to excess."], "src": "iwb"}
+{"w": "idolatry", "pos": "noun", "d": ["The worship of idols.", "Excessive devotion to or admiration of something."], "src": "iwb"}
+{"w": "idoloclast", "pos": "noun", "d": ["A breaker of idols; one who attacks cherished beliefs or institutions."], "src": "iwb"}
+{"w": "idolographical", "pos": "adjective", "d": ["Relating to written descriptions of idols or images."], "src": "iwb"}
+{"w": "idolon", "pos": "noun", "d": ["An image or phantom; an apparition or false appearance."], "src": "iwb"}
+{"w": "idoneous", "pos": "adjective", "d": ["Fit; suitable; appropriate to the purpose."], "src": "iwb"}
+{"w": "idorgan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "idrialine", "pos": "noun", "d": ["A yellowish hydrocarbon mineral found near Idria in Slovenia."], "src": "iwb"}
+{"w": "idrialite", "pos": "noun", "d": ["A mineral composed of hydrocarbons, found near Idria in Slovenia; idrialine."], "src": "iwb"}
+{"w": "idumean", "pos": "adjective", "d": ["Relating to ancient Idumea, the region south of Judah."], "src": "iwb"}
+{"w": "idyl", "pos": "noun", "d": ["A short poem or prose piece describing peaceful country life.", "A blissfully happy or peaceful episode."], "src": "iwb"}
+{"w": "idyllic", "pos": "adjective", "d": ["Peaceful and blissful, like an idyll."], "src": "iwb"}
+{"w": "ifere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "igasuric", "pos": "adjective", "d": ["Relating to a bitter substance found in the St. Ignatius bean."], "src": "iwb"}
+{"w": "igasurine", "pos": "noun", "d": ["A bitter alkaloid obtained from the St. Ignatius bean."], "src": "iwb"}
+{"w": "igloo", "pos": "noun", "d": ["A dome-shaped shelter built from blocks of packed snow."], "src": "iwb"}
+{"w": "ignatius bean", "pos": "phrase", "d": ["The poisonous seed of a Philippine tree, containing strychnine and used in small amounts in medicine."], "src": "iwb"}
+{"w": "igneous", "pos": "adjective", "d": ["Formed by great heat, especially of rocks solidified from molten lava.", "Relating to fire."], "src": "iwb"}
+{"w": "ignescent", "pos": "adjective", "d": ["Giving off sparks when struck.", "Glowing with heat."], "src": "iwb"}
+{"w": "ignicolist", "pos": "noun", "d": ["A worshipper of fire."], "src": "iwb"}
+{"w": "igniferous", "pos": "adjective", "d": ["Bearing or producing fire."], "src": "iwb"}
+{"w": "ignifluous", "pos": "adjective", "d": ["Flowing with fire."], "src": "iwb"}
+{"w": "ignify", "pos": "verb", "d": ["To set on fire; to make fiery."], "src": "iwb"}
+{"w": "ignigenous", "pos": "adjective", "d": ["Produced by or born of fire."], "src": "iwb"}
+{"w": "ignipotence", "pos": "noun", "d": ["Power over fire."], "src": "iwb"}
+{"w": "ignipotent", "pos": "adjective", "d": ["Having power over fire."], "src": "iwb"}
+{"w": "ignis fatuus", "pos": "phrase", "d": ["A pale flitting light seen over marshy ground at night.", "A deceptive hope or misleading guide."], "src": "iwb"}
+{"w": "ignite", "pos": "verb", "d": ["To set on fire.", "To catch fire."], "src": "iwb"}
+{"w": "ignitible", "pos": "adjective", "d": ["Capable of being set on fire."], "src": "iwb"}
+{"w": "ignition", "pos": "noun", "d": ["The act of setting something on fire.", "The mechanism that starts the fuel burning in an engine."], "src": "iwb"}
+{"w": "ignitor", "pos": "noun", "d": ["A device that starts ignition; one that sets something burning."], "src": "iwb"}
+{"w": "ignivomous", "pos": "adjective", "d": ["Spouting or vomiting fire."], "src": "iwb"}
+{"w": "ignobility", "pos": "noun", "d": ["The quality of being ignoble; baseness or dishonor."], "src": "iwb"}
+{"w": "ignoble", "pos": "adjective", "d": ["Dishonorable; of low or base character.", "Of low birth or humble origin."], "src": "iwb"}
+{"w": "ignobly", "pos": "adverb", "d": ["In an ignoble manner; dishonorably."], "src": "iwb"}
+{"w": "ignominy", "pos": "noun", "d": ["Public shame or disgrace."], "src": "iwb"}
+{"w": "ignomy", "pos": "noun", "d": ["An archaic form of ignominy; public disgrace."], "src": "iwb"}
+{"w": "ignoramus", "pos": "noun", "d": ["An ignorant or uneducated person."], "src": "iwb"}
+{"w": "ignorance", "pos": "noun", "d": ["Lack of knowledge or awareness."], "src": "iwb"}
+{"w": "ignorant", "pos": "adjective", "d": ["Lacking knowledge; unaware of something.", "Resulting from lack of knowledge."], "src": "iwb"}
+{"w": "ignoscible", "pos": "adjective", "d": ["Capable of being forgiven; pardonable."], "src": "iwb"}
+{"w": "ignote", "pos": "adjective", "d": ["Unknown; unfamiliar."], "src": "iwb"}
+{"w": "iguana", "pos": "noun", "d": ["A large lizard of tropical America, often with spines along its back."], "src": "iwb"}
+{"w": "iguanian", "pos": "adjective", "d": ["Relating to iguanas or to the iguana family."], "src": "iwb"}
+{"w": "iguanid", "pos": "adjective", "d": ["Belonging to the iguana family of lizards."], "src": "iwb"}
+{"w": "iguanodon", "pos": "noun", "d": ["A genus of large plant-eating dinosaurs of the Cretaceous period."], "src": "iwb"}
+{"w": "iguanodont", "pos": "adjective", "d": ["Relating to iguanodon dinosaurs."], "src": "iwb"}
+{"w": "iguanoid", "pos": "adjective", "d": ["Resembling an iguana."], "src": "iwb"}
+{"w": "ihlang-ihlang", "pos": "noun", "d": ["A Philippine tree prized for its sweetly fragrant yellow flowers; the ylang-ylang tree."], "src": "iwb"}
+{"w": "ihram", "pos": "noun", "d": ["The sacred state entered by a Muslim pilgrim during the Hajj.", "The plain white garments worn by pilgrims during the Hajj."], "src": "iwb"}
+{"w": "ihvh", "pos": "noun", "d": ["An early transliteration of the Hebrew four-letter name of God."], "src": "iwb"}
+{"w": "ik", "pos": "noun", "d": ["A member of an ethnic group living in the mountains of northeastern Uganda."], "src": "iwb"}
+{"w": "il-", "pos": "prefix", "d": ["A form of the prefix in-, meaning 'not', used before words beginning with l, as in illegible."], "src": "iwb"}
+{"w": "ile", "pos": "noun", "d": ["The French word for island."], "src": "iwb"}
+{"w": "ileac", "pos": "adjective", "d": ["Relating to the ileum, the lowest part of the small intestine."], "src": "iwb"}
+{"w": "ileocaecal", "pos": "adjective", "d": ["Relating to the ileum and the cecum, where the small and large intestines meet."], "src": "iwb"}
+{"w": "ileocolic", "pos": "adjective", "d": ["Relating to the ileum and the colon, especially where they meet in the body."], "src": "iwb"}
+{"w": "ileum", "pos": "noun", "d": ["The lowest and longest section of the small intestine, where it joins the large intestine."], "src": "iwb"}
+{"w": "ileus", "pos": "noun", "d": ["A blockage or stoppage of the intestine that prevents food from moving through."], "src": "iwb"}
+{"w": "ilex", "pos": "noun", "d": ["A tree of the holm oak kind, an evergreen oak with dark glossy leaves."], "src": "iwb"}
+{"w": "iliac", "pos": "adjective", "d": ["Relating to the ilium, the broad upper bone of the hip."], "src": "iwb"}
+{"w": "iliad", "pos": "noun", "d": ["The ancient Greek epic poem, attributed to Homer, telling of the last days of the Trojan War."], "src": "iwb"}
+{"w": "ilial", "pos": "adjective", "d": ["Relating to the ilium or to the flank region of the body."], "src": "iwb"}
+{"w": "iliche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ilicic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ilicin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ilio-", "pos": "prefix", "d": ["A combining form meaning 'relating to the ilium,' as in iliofemoral."], "src": "iwb"}
+{"w": "iliofemoral", "pos": "adjective", "d": ["Relating to the ilium and the femur, especially a ligament joining them at the hip."], "src": "iwb"}
+{"w": "iliolumbar", "pos": "adjective", "d": ["Relating to the ilium and the lower back, especially a ligament joining them."], "src": "iwb"}
+{"w": "iliopsoas", "pos": "noun", "d": ["A muscle of the hip formed by the joining of the iliacus and psoas muscles, used in bending the thigh."], "src": "iwb"}
+{"w": "ilium", "pos": "noun", "d": ["The large, broad upper bone of the pelvis that forms the top of the hip."], "src": "iwb"}
+{"w": "ilixanthin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ilk", "pos": "noun", "d": ["A kind or sort of person or thing, especially of the same family or class."], "src": "iwb"}
+{"w": "ilke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ill-boding", "pos": "adjective", "d": ["Giving a sense that something bad is going to happen."], "src": "iwb"}
+{"w": "ill-bred", "pos": "adjective", "d": ["Badly brought up; lacking good manners."], "src": "iwb"}
+{"w": "ill-favored", "pos": "adjective", "d": ["Unpleasant to look at; unattractive."], "src": "iwb"}
+{"w": "ill-judged", "pos": "adjective", "d": ["Showing poor judgment; unwise in decision or timing."], "src": "iwb"}
+{"w": "ill-lived", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ill-looking", "pos": "adjective", "d": ["Having an unpleasant or sickly appearance."], "src": "iwb"}
+{"w": "ill-mannered", "pos": "adjective", "d": ["Having bad manners; rude in behavior."], "src": "iwb"}
+{"w": "ill-minded", "pos": "adjective", "d": ["Having an evil or wicked turn of mind."], "src": "iwb"}
+{"w": "ill-natured", "pos": "adjective", "d": ["Having a bad temper or unpleasant disposition."], "src": "iwb"}
+{"w": "ill-nurtured", "pos": "adjective", "d": ["Poorly raised or educated; ill-bred."], "src": "iwb"}
+{"w": "ill-omened", "pos": "adjective", "d": ["Bearing signs of coming evil or misfortune."], "src": "iwb"}
+{"w": "ill-starred", "pos": "adjective", "d": ["Unlucky; fated to misfortune."], "src": "iwb"}
+{"w": "ill-tempered", "pos": "adjective", "d": ["Easily angered; having a sour or quarrelsome temper."], "src": "iwb"}
+{"w": "ill-timed", "pos": "adjective", "d": ["Done or happening at an unsuitable moment."], "src": "iwb"}
+{"w": "ill-used", "pos": "adjective", "d": ["Badly treated; dealt with unfairly or harshly."], "src": "iwb"}
+{"w": "ill-will", "pos": "noun", "d": ["A feeling of dislike or hostility toward another person."], "src": "iwb"}
+{"w": "ill-wisher", "pos": "noun", "d": ["A person who wishes harm or misfortune on someone."], "src": "iwb"}
+{"w": "illacrymable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "illaqueable", "pos": "adjective", "d": ["Capable of being caught in a snare or trick."], "src": "iwb"}
+{"w": "illaqueate", "pos": "verb", "d": ["To catch in a snare; to entrap or ensnare."], "src": "iwb"}
+{"w": "illaqueation", "pos": "noun", "d": ["The act of ensnaring; a trap or entanglement."], "src": "iwb"}
+{"w": "illative", "pos": "adjective", "d": ["Expressing an inference or conclusion, as the word 'therefore' does."], "src": "iwb"}
+{"w": "illecebration", "pos": "noun", "d": ["The act of enticing or alluring; enticement."], "src": "iwb"}
+{"w": "illecebrous", "pos": "adjective", "d": ["Attractive in a tempting or seductive way; alluring."], "src": "iwb"}
+{"w": "illesive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "illicium", "pos": "noun", "d": ["The movable stalked lure on the head of an anglerfish, used to attract prey."], "src": "iwb"}
+{"w": "illude", "pos": "verb", "d": ["To mock or trick by deceitful play; to make sport of."], "src": "iwb"}
+{"w": "illume", "pos": "verb", "d": ["To light up or brighten, either with light or with understanding."], "src": "iwb"}
+{"w": "illuminati", "pos": "noun", "d": ["People claiming or said to possess special secret enlightenment; historically, members of a secret 18th-century Bavarian society."], "src": "iwb"}
+{"w": "illuminatism", "pos": "noun", "d": ["The doctrines or practices of the Illuminati; a claim to secret superior knowledge."], "src": "iwb"}
+{"w": "illuminative", "pos": "adjective", "d": ["Giving light; enlightening the mind."], "src": "iwb"}
+{"w": "illuminator", "pos": "noun", "d": ["A person or thing that lights up; especially one who decorated manuscripts with bright colors and gold."], "src": "iwb"}
+{"w": "illuminee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "illuminism", "pos": "noun", "d": ["A belief in special mystical enlightenment beyond ordinary knowledge."], "src": "iwb"}
+{"w": "illuministic", "pos": "adjective", "d": ["Relating to or marked by illuminism; claiming secret enlightenment."], "src": "iwb"}
+{"w": "illuminize", "pos": "verb", "d": ["To enlighten; to fill with light or understanding."], "src": "iwb"}
+{"w": "illusion", "pos": "noun", "d": ["A false impression of reality, in which what is seen or heard seems other than it is."], "src": "iwb"}
+{"w": "illusive", "pos": "adjective", "d": ["Deceptive; not truly what it appears to be."], "src": "iwb"}
+{"w": "illustrable", "pos": "adjective", "d": ["Capable of being explained or clarified by pictures or examples."], "src": "iwb"}
+{"w": "illustrative", "pos": "adjective", "d": ["Serving to explain or clarify by example."], "src": "iwb"}
+{"w": "illustrator", "pos": "noun", "d": ["An artist who makes pictures for books, magazines, or other printed works."], "src": "iwb"}
+{"w": "illustratory", "pos": "adjective", "d": ["Serving to illustrate; explanatory by example."], "src": "iwb"}
+{"w": "illustrious", "pos": "adjective", "d": ["Famous and honored for great achievements; glorious."], "src": "iwb"}
+{"w": "illy", "pos": "adverb", "d": ["In a bad, evil, or sickly manner."], "src": "iwb"}
+{"w": "ilmenite", "pos": "noun", "d": ["A dark metallic mineral made of iron and titanium, mined as a source of titanium."], "src": "iwb"}
+{"w": "ilmenium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ilvaite", "pos": "noun", "d": ["A dark iron-bearing silicate mineral found in rock formations."], "src": "iwb"}
+{"w": "im-", "pos": "prefix", "d": ["A form of the prefix in- used before b, m, or p, meaning 'not,' as in impossible."], "src": "iwb"}
+{"w": "imagery", "pos": "noun", "d": ["Mental pictures formed in the mind; also the use of vivid word pictures in writing or speech."], "src": "iwb"}
+{"w": "imaginability", "pos": "noun", "d": ["The quality of being able to be imagined."], "src": "iwb"}
+{"w": "imaginal", "pos": "adjective", "d": ["Relating to the imagination or existing only in the mind."], "src": "iwb"}
+{"w": "imaginant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imaginarily", "pos": "adverb", "d": ["In an imaginary way; as something existing only in the mind."], "src": "iwb"}
+{"w": "imaginariness", "pos": "noun", "d": ["The quality of being imaginary rather than real."], "src": "iwb"}
+{"w": "imaginary", "pos": "adjective", "d": ["Existing only in the mind; not real."], "src": "iwb"}
+{"w": "imaginate", "pos": "verb", "d": ["To form a picture of in the mind; to imagine."], "src": "iwb"}
+{"w": "imaginative", "pos": "adjective", "d": ["Having or showing a lively imagination; creative in thought."], "src": "iwb"}
+{"w": "imaginous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imam", "pos": "noun", "d": ["The leader of prayers in a mosque; also a title of religious and spiritual leadership in Islam."], "src": "iwb"}
+{"w": "iman", "pos": "noun", "d": ["Faith or belief in Islam; also a variant spelling of imam, a Muslim prayer leader."], "src": "iwb"}
+{"w": "imbargo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imbecile", "pos": "noun", "d": ["A person considered very foolish or mentally weak."], "src": "iwb"}
+{"w": "imbecilitate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imbecility", "pos": "noun", "d": ["Great mental weakness; foolishness or stupidity."], "src": "iwb"}
+{"w": "imbenching", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imber-goose", "pos": "noun", "d": ["A large northern diving bird, the great northern loon."], "src": "iwb"}
+{"w": "imbibe", "pos": "verb", "d": ["To drink in; also to take in or absorb, as knowledge or moisture."], "src": "iwb"}
+{"w": "imbibition", "pos": "noun", "d": ["The act of drinking in or absorbing."], "src": "iwb"}
+{"w": "imbonity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imbosture", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imbracery", "pos": "noun", "d": ["The legal offense of trying to influence a juror corruptly."], "src": "iwb"}
+{"w": "imbricate", "pos": "verb", "d": ["To arrange in overlapping rows, like shingles or tiles on a roof."], "src": "iwb"}
+{"w": "imbrication", "pos": "noun", "d": ["An arrangement of parts overlapping one another like shingles."], "src": "iwb"}
+{"w": "imbricative", "pos": "adjective", "d": ["Having parts that overlap like roof tiles or shingles."], "src": "iwb"}
+{"w": "imbrocado", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imbrocata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imbroccata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imbroglio", "pos": "noun", "d": ["A confused or embarrassing tangle of affairs; a messy entanglement."], "src": "iwb"}
+{"w": "imbrue", "pos": "verb", "d": ["To stain or drench, especially with blood."], "src": "iwb"}
+{"w": "imbue", "pos": "verb", "d": ["To fill deeply with a feeling, quality, or color."], "src": "iwb"}
+{"w": "imbution", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imesatin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imitability", "pos": "noun", "d": ["The quality or state of being able to be imitated."], "src": "iwb"}
+{"w": "imitable", "pos": "adjective", "d": ["Able to be imitated or copied."], "src": "iwb"}
+{"w": "imitancy", "pos": "noun", "d": ["The tendency or habit of imitating others."], "src": "iwb"}
+{"w": "imitate", "pos": "verb", "d": ["To copy the actions, appearance, or style of someone or something."], "src": "iwb"}
+{"w": "imitation", "pos": "noun", "d": ["A copy or likeness of something.", "The act of copying someone or something."], "src": "iwb"}
+{"w": "imitative", "pos": "adjective", "d": ["Copying or tending to copy others."], "src": "iwb"}
+{"w": "imitator", "pos": "noun", "d": ["A person who copies the behavior or work of another."], "src": "iwb"}
+{"w": "imitatress", "pos": "noun", "d": ["A woman who imitates others."], "src": "iwb"}
+{"w": "imitatrix", "pos": "noun", "d": ["A female imitator; a woman who imitates."], "src": "iwb"}
+{"w": "immanence", "pos": "noun", "d": ["The state of dwelling within and throughout something rather than existing outside it."], "src": "iwb"}
+{"w": "immanency", "pos": "noun", "d": ["The quality of being immanent; immanence."], "src": "iwb"}
+{"w": "immanent", "pos": "adjective", "d": ["Existing or operating within something; inherent rather than external."], "src": "iwb"}
+{"w": "immanity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "immanuel", "pos": "noun", "d": ["A masculine given name."], "src": "iwb"}
+{"w": "immarcescibly", "pos": "adverb", "d": ["In an unfading or imperishable manner."], "src": "iwb"}
+{"w": "immeability", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "immeasurability", "pos": "noun", "d": ["The quality of being unable to be measured."], "src": "iwb"}
+{"w": "immeasurably", "pos": "adverb", "d": ["To a degree that cannot be measured."], "src": "iwb"}
+{"w": "immediatism", "pos": "noun", "d": ["A doctrine favoring immediate action rather than gradual change."], "src": "iwb"}
+{"w": "immensible", "pos": "adjective", "d": ["Not able to be mixed together."], "src": "iwb"}
+{"w": "immensity", "pos": "noun", "d": ["Great size, extent, or vastness."], "src": "iwb"}
+{"w": "immensive", "pos": "adjective", "d": ["Surrounding or engaging a person so fully that they feel part of the experience."], "src": "iwb"}
+{"w": "immerse", "pos": "verb", "d": ["To plunge or dip something into a liquid.", "To involve someone deeply in an activity."], "src": "iwb"}
+{"w": "immersible", "pos": "adjective", "d": ["Able to be immersed, especially in water."], "src": "iwb"}
+{"w": "imminence", "pos": "noun", "d": ["The state of being about to happen."], "src": "iwb"}
+{"w": "imminent", "pos": "adjective", "d": ["About to happen; likely to occur very soon."], "src": "iwb"}
+{"w": "imminution", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "immit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "immitigably", "pos": "adverb", "d": ["In a way that cannot be softened or made less severe."], "src": "iwb"}
+{"w": "immoderacy", "pos": "noun", "d": ["Lack of moderation; excess."], "src": "iwb"}
+{"w": "immoderancy", "pos": "noun", "d": ["Lack of moderation; excess."], "src": "iwb"}
+{"w": "immolate", "pos": "verb", "d": ["To offer as a sacrifice, especially by fire."], "src": "iwb"}
+{"w": "immolation", "pos": "noun", "d": ["The act of offering a sacrifice, especially by fire."], "src": "iwb"}
+{"w": "immolator", "pos": "noun", "d": ["One who offers a sacrifice."], "src": "iwb"}
+{"w": "immortalization", "pos": "noun", "d": ["The act of making someone or something immortal."], "src": "iwb"}
+{"w": "immortelle", "pos": "noun", "d": ["A flower that keeps its shape and color when dried; an everlasting."], "src": "iwb"}
+{"w": "immundicity", "pos": "noun", "d": ["Filthiness; uncleanness."], "src": "iwb"}
+{"w": "immutate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imp", "pos": "noun", "d": ["A small mischievous demon or sprite in folklore.", "A mischievous child."], "src": "iwb"}
+{"w": "imp-pole", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "impackment", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "impalpably", "pos": "adverb", "d": ["In a way that cannot be felt or easily perceived."], "src": "iwb"}
+{"w": "impanate", "pos": "verb", "d": ["To embody in bread, especially in the doctrine of the Eucharist."], "src": "iwb"}
+{"w": "impanation", "pos": "noun", "d": ["The supposed presence of the body of Christ in the consecrated bread of the Eucharist."], "src": "iwb"}
+{"w": "impanator", "pos": "noun", "d": ["One who holds the doctrine of impanation."], "src": "iwb"}
+{"w": "imparalleled", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imparl", "pos": "verb", "d": ["To confer or parley, especially in old English law to discuss a plea."], "src": "iwb"}
+{"w": "imparsonee", "pos": "noun", "d": ["One inducted into possession of an ecclesiastical benefice."], "src": "iwb"}
+{"w": "impastation", "pos": "noun", "d": ["The act or process of making something into a paste."], "src": "iwb"}
+{"w": "impasto", "pos": "noun", "d": ["Paint applied thickly to a canvas so that it stands out in relief."], "src": "iwb"}
+{"w": "impatiency", "pos": "noun", "d": ["Impatience; inability to bear delay or suffering."], "src": "iwb"}
+{"w": "impatiens", "pos": "noun", "d": ["A plant of a genus whose seed pods burst open when touched; a touch-me-not."], "src": "iwb"}
+{"w": "impecuniosity", "pos": "noun", "d": ["Lack of money; pennilessness."], "src": "iwb"}
+{"w": "impedance", "pos": "noun", "d": ["The opposition that an electric circuit offers to alternating current.", "Anything that hinders or obstructs."], "src": "iwb"}
+{"w": "impede", "pos": "verb", "d": ["To delay or obstruct the progress of something."], "src": "iwb"}
+{"w": "impedimenta", "pos": "noun", "d": ["Baggage and equipment that hinder movement, especially of an army."], "src": "iwb"}
+{"w": "impedite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "impeditive", "pos": "adjective", "d": ["Tending to impede; obstructive."], "src": "iwb"}
+{"w": "impel", "pos": "verb", "d": ["To drive or urge forward; to push into action."], "src": "iwb"}
+{"w": "impenetrably", "pos": "adverb", "d": ["In a way that cannot be penetrated, entered, or understood."], "src": "iwb"}
+{"w": "impennes", "pos": "noun", "d": ["Flightless swimming birds, such as penguins."], "src": "iwb"}
+{"w": "imperant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imperate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imperatival", "pos": "adjective", "d": ["Relating to the imperative mood in grammar.", "Relating to command."], "src": "iwb"}
+{"w": "imperator", "pos": "noun", "d": ["A commander or emperor in ancient Rome; a supreme ruler."], "src": "iwb"}
+{"w": "imperatorian", "pos": "adjective", "d": ["Relating to an imperator or emperor."], "src": "iwb"}
+{"w": "imperatory", "pos": "adjective", "d": ["Commanding; relating to imperial command."], "src": "iwb"}
+{"w": "imperceived", "pos": "adjective", "d": ["Not perceived; unnoticed."], "src": "iwb"}
+{"w": "imperdibility", "pos": "noun", "d": ["The quality of being unable to be lost."], "src": "iwb"}
+{"w": "imperdible", "pos": "noun", "d": ["A safety pin.", "As an adjective: unable to be lost."], "src": "iwb"}
+{"w": "imperforable", "pos": "adjective", "d": ["Not able to be perforated or pierced."], "src": "iwb"}
+{"w": "imperium", "pos": "noun", "d": ["Supreme power or absolute command, especially in ancient Rome.", "An empire; a sphere of rule."], "src": "iwb"}
+{"w": "imperiwigged", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imperscrutable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "impertransibility", "pos": "noun", "d": ["The quality of not being able to be passed through or transmitted."], "src": "iwb"}
+{"w": "impertransible", "pos": "adjective", "d": ["Not able to be passed through or transmitted."], "src": "iwb"}
+{"w": "imperturbably", "pos": "adverb", "d": ["In a calm and unshakable manner."], "src": "iwb"}
+{"w": "imperviability", "pos": "noun", "d": ["The quality of being impervious or impassable."], "src": "iwb"}
+{"w": "imperviable", "pos": "adjective", "d": ["Not able to be passed through; impervious."], "src": "iwb"}
+{"w": "impetiginous", "pos": "adjective", "d": ["Relating to or resembling impetigo."], "src": "iwb"}
+{"w": "impetigo", "pos": "noun", "d": ["A contagious skin infection that forms crusty sores."], "src": "iwb"}
+{"w": "impetrable", "pos": "adjective", "d": ["Able to be obtained by asking or entreating."], "src": "iwb"}
+{"w": "impetrate", "pos": "verb", "d": ["To obtain by request or earnest entreaty."], "src": "iwb"}
+{"w": "impetration", "pos": "noun", "d": ["The act of obtaining something by earnest request."], "src": "iwb"}
+{"w": "impetrative", "pos": "adjective", "d": ["Relating to obtaining by entreaty."], "src": "iwb"}
+{"w": "impetratory", "pos": "adjective", "d": ["Serving to obtain by entreaty; impetrative."], "src": "iwb"}
+{"w": "impetuosity", "pos": "noun", "d": ["The quality of acting with sudden force or rash haste."], "src": "iwb"}
+{"w": "impetuous", "pos": "adjective", "d": ["Acting quickly without thought; rash.", "Moving with great force."], "src": "iwb"}
+{"w": "impetus", "pos": "noun", "d": ["The force that moves something forward.", "A driving stimulus or incentive."], "src": "iwb"}
+{"w": "impeyan pheasant", "pos": "noun", "d": ["A brilliantly colored pheasant of the Himalayas, also called the monal."], "src": "iwb"}
+{"w": "imphee", "pos": "noun", "d": ["A kind of sorghum grown in southern Africa for its sweet stalks and grain."], "src": "iwb"}
+{"w": "impi", "pos": "noun", "d": ["A body of armed warriors or a military force among the Zulu people."], "src": "iwb"}
+{"w": "impignorate", "pos": "verb", "d": ["To pawn or pledge as security."], "src": "iwb"}
+{"w": "impinge", "pos": "verb", "d": ["To strike against or encroach upon something.", "To have an effect on something."], "src": "iwb"}
+{"w": "impinguate", "pos": "verb", "d": ["To make fat; to fatten."], "src": "iwb"}
+{"w": "impinguation", "pos": "noun", "d": ["The act of fattening; the state of becoming fat."], "src": "iwb"}
+{"w": "implacably", "pos": "adverb", "d": ["In a way that cannot be appeased or pacified."], "src": "iwb"}
+{"w": "impletion", "pos": "noun", "d": ["The act of filling up; completion by filling."], "src": "iwb"}
+{"w": "implicative", "pos": "adjective", "d": ["Implying something; involving by implication."], "src": "iwb"}
+{"w": "implicity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imploded", "pos": "adjective", "d": ["Collapsed inward; burst inward with force.", "Suddenly failed or fallen apart."], "src": "iwb"}
+{"w": "implodent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imploration", "pos": "noun", "d": ["The act of imploring; earnest and urgent pleading."], "src": "iwb"}
+{"w": "implorator", "pos": "noun", "d": ["One who implores; a person who begs earnestly."], "src": "iwb"}
+{"w": "imploratory", "pos": "adjective", "d": ["Expressing earnest entreaty; pleading."], "src": "iwb"}
+{"w": "implosion", "pos": "noun", "d": ["A violent collapse inward, as of a vessel under outside pressure.", "The sudden ruin or failure of something."], "src": "iwb"}
+{"w": "implosive", "pos": "noun", "d": ["A speech sound produced by drawing air inward, as some consonants in African languages."], "src": "iwb"}
+{"w": "implumed", "pos": "adjective", "d": ["Without feathers or plumage; unfeathered."], "src": "iwb"}
+{"w": "impluvium", "pos": "noun", "d": ["The central open court of an ancient Roman house, with a basin to catch rainwater."], "src": "iwb"}
+{"w": "impolarly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "impoofo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "importancy", "pos": "noun", "d": ["The quality or state of being important; importance."], "src": "iwb"}
+{"w": "importunacy", "pos": "noun", "d": ["Persistent and urgent asking; importunate insistence."], "src": "iwb"}
+{"w": "importunate", "pos": "adjective", "d": ["Persistently and urgently demanding; hard to refuse."], "src": "iwb"}
+{"w": "importunator", "pos": "noun", "d": ["One who importunes; a persistent and insistent asker."], "src": "iwb"}
+{"w": "importune", "pos": "verb", "d": ["To ask persistently and urgently; to beset with requests.", "To beg for urgently, as a favor."], "src": "iwb"}
+{"w": "importuous", "pos": "adjective", "d": ["Importunate; persistent in requesting."], "src": "iwb"}
+{"w": "impostor", "pos": "noun", "d": ["One who deceives by assuming a false identity or name."], "src": "iwb"}
+{"w": "impostress", "pos": "noun", "d": ["A female impostor."], "src": "iwb"}
+{"w": "impostrix", "pos": "noun", "d": ["A female impostor."], "src": "iwb"}
+{"w": "impostrous", "pos": "adjective", "d": ["Of or resembling an impostor; marked by imposture."], "src": "iwb"}
+{"w": "imposturage", "pos": "noun", "d": ["The act or practice of imposture; deception."], "src": "iwb"}
+{"w": "imposturous", "pos": "adjective", "d": ["Characterized by imposture; deceitful."], "src": "iwb"}
+{"w": "impostury", "pos": "noun", "d": ["A variant spelling of imposture; deception by false identity."], "src": "iwb"}
+{"w": "impoverish", "pos": "verb", "d": ["To make poor; to deprive of money or resources.", "To drain of richness or quality."], "src": "iwb"}
+{"w": "impracticably", "pos": "adverb", "d": ["In a manner that cannot be done or put into practice."], "src": "iwb"}
+{"w": "imprecate", "pos": "verb", "d": ["To utter a curse against; to call down evil upon."], "src": "iwb"}
+{"w": "impregn", "pos": "verb", "d": ["To make pregnant; to impregnate."], "src": "iwb"}
+{"w": "impresa", "pos": "noun", "d": ["An enterprise or undertaking."], "src": "iwb"}
+{"w": "impresario", "pos": "noun", "d": ["An organizer or promoter of concerts, operas, and other entertainments."], "src": "iwb"}
+{"w": "imprescriptibly", "pos": "adverb", "d": ["In a way not subject to loss or barring through the passage of time."], "src": "iwb"}
+{"w": "impressibility", "pos": "noun", "d": ["The quality of being easily impressed or influenced."], "src": "iwb"}
+{"w": "imprimatur", "pos": "noun", "d": ["An official license or sanction to print or publish.", "Any formal approval or endorsement."], "src": "iwb"}
+{"w": "imprimery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "imprimis", "pos": "adverb", "d": ["In the first place; to begin with."], "src": "iwb"}
+{"w": "impromptu", "pos": "adjective", "d": ["Done without prior preparation; improvised.", "Prompted by the occasion rather than planned."], "src": "iwb"}
+{"w": "improperia", "pos": "noun", "d": ["The reproaches chanted in some Christian liturgies on Good Friday."], "src": "iwb"}
+{"w": "impropriate", "pos": "verb", "d": ["To convert church property or revenue to private or secular use."], "src": "iwb"}
+{"w": "impropriation", "pos": "noun", "d": ["The act of impropriating; the transfer of church revenue to secular hands."], "src": "iwb"}
+{"w": "impropriator", "pos": "noun", "d": ["One who impropriates; the holder of an impropriated church living."], "src": "iwb"}
+{"w": "impropriatrix", "pos": "noun", "d": ["A female impropriator."], "src": "iwb"}
+{"w": "improvability", "pos": "noun", "d": ["The quality of being able to be improved."], "src": "iwb"}
+{"w": "improvidentially", "pos": "adverb", "d": ["In an improvident manner; without foresight."], "src": "iwb"}
+{"w": "improvisate", "pos": "verb", "d": ["To improvise; to compose or perform without preparation."], "src": "iwb"}
+{"w": "improvisation", "pos": "noun", "d": ["The act of improvising.", "Something improvised, as an extemporaneous performance."], "src": "iwb"}
+{"w": "improvisatize", "pos": "verb", "d": ["To render improvisatory; to give the character of an improvisation to."], "src": "iwb"}
+{"w": "improvisator", "pos": "noun", "d": ["One who improvises; an impromptu composer or performer."], "src": "iwb"}
+{"w": "improvisatore", "pos": "noun", "d": ["An Italian improviser; a composer of impromptu verses."], "src": "iwb"}
+{"w": "improvisatory", "pos": "adjective", "d": ["Of or resembling improvisation; extemporaneous."], "src": "iwb"}
+{"w": "improvisatrice", "pos": "noun", "d": ["A female improviser."], "src": "iwb"}
+{"w": "improvise", "pos": "verb", "d": ["To make or perform without prior preparation."], "src": "iwb"}
+{"w": "improvvisatore", "pos": "noun", "d": ["An Italian improviser of verses."], "src": "iwb"}
+{"w": "improvvisatrice", "pos": "noun", "d": ["A female Italian improviser of verses."], "src": "iwb"}
+{"w": "impudence", "pos": "noun", "d": ["Bold disrespect; shameless rudeness."], "src": "iwb"}
+{"w": "impudent", "pos": "adjective", "d": ["Boldly disrespectful; shamelessly rude."], "src": "iwb"}
+{"w": "impugn", "pos": "verb", "d": ["To challenge as false or questionable; to attack by argument."], "src": "iwb"}
+{"w": "impulsor", "pos": "noun", "d": ["One who impels; a driving force."], "src": "iwb"}
+{"w": "impunctate", "pos": "adjective", "d": ["Not punctate; without spots or points."], "src": "iwb"}
+{"w": "impune", "pos": "adverb", "d": ["With impunity; without punishment."], "src": "iwb"}
+{"w": "impunibly", "pos": "adverb", "d": ["In a manner that goes unpunished."], "src": "iwb"}
+{"w": "impuration", "pos": "noun", "d": ["The act of making impure; contamination."], "src": "iwb"}
+{"w": "imputability", "pos": "noun", "d": ["The quality of being imputable; the state of being attributable to someone."], "src": "iwb"}
+{"w": "imputably", "pos": "adverb", "d": ["In a manner that may be imputed or attributed."], "src": "iwb"}
+{"w": "imputation", "pos": "noun", "d": ["The act of attributing something, especially blame or a crime, to someone."], "src": "iwb"}
+{"w": "impute", "pos": "verb", "d": ["To attribute to a person, especially blame or a crime.", "To credit or assign to a cause."], "src": "iwb"}
+{"w": "imrigh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "in and in", "pos": "phrase", "d": ["By inbreeding over generations; by repeated breeding of closely related animals."], "src": "iwb"}
+{"w": "in antis", "pos": "phrase", "d": ["Between pilasters or columns at the end of a building, as in classical architecture."], "src": "iwb"}
+{"w": "in commendam", "pos": "phrase", "d": ["In trust or temporary keeping, especially of a church office or benefice."], "src": "iwb"}
+{"w": "in esse", "pos": "phrase", "d": ["In being; in actual existence."], "src": "iwb"}
+{"w": "in loco", "pos": "phrase", "d": ["In the place of; as a substitute."], "src": "iwb"}
+{"w": "in posse", "pos": "phrase", "d": ["In potential; not yet actual or in being."], "src": "iwb"}
+{"w": "in rem", "pos": "phrase", "d": ["Directed against a thing or property rather than a person, as in law."], "src": "iwb"}
+{"w": "in situ", "pos": "phrase", "d": ["In its original place or position."], "src": "iwb"}
+{"w": "in transitu", "pos": "phrase", "d": ["In transit; on the way."], "src": "iwb"}
+{"w": "in vacuo", "pos": "phrase", "d": ["In a vacuum; in empty space."], "src": "iwb"}
+{"w": "in-", "pos": "prefix", "d": ["A prefix meaning 'not' or 'without', as in inactive, or 'in' or 'into', as in inject."], "src": "iwb"}
+{"w": "in-and-in", "pos": "adjective", "d": ["Resulting from or marked by inbreeding."], "src": "iwb"}
+{"w": "inactose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inaidable", "pos": "adjective", "d": ["Not able to be helped; beyond aid."], "src": "iwb"}
+{"w": "inalienably", "pos": "adverb", "d": ["In a manner that cannot be transferred, sold, or taken away."], "src": "iwb"}
+{"w": "inamorata", "pos": "noun", "d": ["A woman with whom one is in love; a sweetheart."], "src": "iwb"}
+{"w": "inamorate", "pos": "verb", "d": ["To inspire with love; to enamor."], "src": "iwb"}
+{"w": "inamorato", "pos": "noun", "d": ["A man with whom one is in love; a sweetheart."], "src": "iwb"}
+{"w": "inane", "pos": "adjective", "d": ["Lacking sense; silly and empty."], "src": "iwb"}
+{"w": "inaniloquent", "pos": "adjective", "d": ["Given to silly or empty talk."], "src": "iwb"}
+{"w": "inaniloquous", "pos": "adjective", "d": ["Given to foolish or empty talk."], "src": "iwb"}
+{"w": "inanitiate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inanition", "pos": "noun", "d": ["Exhaustion from lack of nourishment; starvation.", "Emptiness; lack of substance."], "src": "iwb"}
+{"w": "inanity", "pos": "noun", "d": ["Silliness; lack of sense or substance."], "src": "iwb"}
+{"w": "inantherate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inappellability", "pos": "noun", "d": ["The quality of being inappellable; not subject to appeal."], "src": "iwb"}
+{"w": "inaquate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inaquation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inasmuch", "pos": "conjunction", "d": ["To the extent that; insofar as.", "Since; because."], "src": "iwb"}
+{"w": "inauguration day", "pos": "phrase", "d": ["The day on which a person, especially a president, is formally installed in office."], "src": "iwb"}
+{"w": "inaugurator", "pos": "noun", "d": ["One who inaugurates."], "src": "iwb"}
+{"w": "inauguratory", "pos": "adjective", "d": ["Relating to inauguration; inaugural."], "src": "iwb"}
+{"w": "inauration", "pos": "noun", "d": ["The act of installing in office with ceremony; an inauguration."], "src": "iwb"}
+{"w": "inca", "pos": "noun", "d": ["A member of the indigenous people of Peru who built a vast empire before the Spanish conquest.", "The ruler of that empire."], "src": "iwb"}
+{"w": "incalculability", "pos": "noun", "d": ["The quality of being too great or too uncertain to be counted or estimated."], "src": "iwb"}
+{"w": "incalescency", "pos": "noun", "d": ["The act or process of growing warm or hot."], "src": "iwb"}
+{"w": "incalescent", "pos": "adjective", "d": ["Growing warm; becoming heated."], "src": "iwb"}
+{"w": "incapably", "pos": "adverb", "d": ["In a way that shows a lack of ability or skill."], "src": "iwb"}
+{"w": "incapacitation", "pos": "noun", "d": ["The act of making someone unable to act or function."], "src": "iwb"}
+{"w": "incapsulation", "pos": "noun", "d": ["The act of enclosing something in a capsule or protective case."], "src": "iwb"}
+{"w": "incarcerate", "pos": "verb", "d": ["To put someone in prison; to confine behind bars."], "src": "iwb"}
+{"w": "incarceration", "pos": "noun", "d": ["The state of being imprisoned; confinement in a jail or prison."], "src": "iwb"}
+{"w": "incarcerator", "pos": "noun", "d": ["One who imprisons or confines another person."], "src": "iwb"}
+{"w": "incarn", "pos": "verb", "d": ["To embody in flesh; to give bodily form to."], "src": "iwb"}
+{"w": "incarnadine", "pos": "adjective", "d": ["Of a deep crimson or flesh-red color."], "src": "iwb"}
+{"w": "incarnative", "pos": "adjective", "d": ["Tending to promote the growth of new flesh in a healing wound."], "src": "iwb"}
+{"w": "incavated", "pos": "adjective", "d": ["Hollowed out; made into a cavity."], "src": "iwb"}
+{"w": "incavation", "pos": "noun", "d": ["The act of hollowing out; a hollow place."], "src": "iwb"}
+{"w": "incaved", "pos": "adjective", "d": ["Made hollow; excavated."], "src": "iwb"}
+{"w": "incedingly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "incendiarism", "pos": "noun", "d": ["The act of deliberately setting fires; arson."], "src": "iwb"}
+{"w": "incendiary", "pos": "noun", "d": ["A person who deliberately sets fires.", "A bomb or device designed to start fires."], "src": "iwb"}
+{"w": "incendious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "incensant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "incensation", "pos": "noun", "d": ["The burning of incense."], "src": "iwb"}
+{"w": "incense-breathing", "pos": "adjective", "d": ["Breathing out or spreading the scent of incense; sweetly fragrant."], "src": "iwb"}
+{"w": "incension", "pos": "noun", "d": ["The act of kindling or setting on fire."], "src": "iwb"}
+{"w": "incensive", "pos": "adjective", "d": ["Tending to provoke anger or stir up strife."], "src": "iwb"}
+{"w": "incensory", "pos": "noun", "d": ["A vessel in which incense is burned; a censer."], "src": "iwb"}
+{"w": "inception", "pos": "noun", "d": ["The beginning or start of something."], "src": "iwb"}
+{"w": "inceptive", "pos": "adjective", "d": ["Relating to or marking a beginning; initial."], "src": "iwb"}
+{"w": "inceptor", "pos": "noun", "d": ["One who begins something; a beginner."], "src": "iwb"}
+{"w": "inceration", "pos": "noun", "d": ["In alchemy, the process of softening a dry substance until it has the consistency of wax."], "src": "iwb"}
+{"w": "incertum", "pos": "noun", "d": ["An uncertain matter; something not yet settled."], "src": "iwb"}
+{"w": "incessable", "pos": "adjective", "d": ["Not able to cease; unceasing."], "src": "iwb"}
+{"w": "incessancy", "pos": "noun", "d": ["The quality of being unceasing; continual action."], "src": "iwb"}
+{"w": "incesttuous", "pos": "adjective", "d": ["Guilty of or involving sexual relations between close relatives."], "src": "iwb"}
+{"w": "inchipin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inchoate", "pos": "adjective", "d": ["Just begun and not fully formed or developed."], "src": "iwb"}
+{"w": "inchoation", "pos": "noun", "d": ["A beginning; the first stage of something."], "src": "iwb"}
+{"w": "inchoative", "pos": "adjective", "d": ["Relating to a beginning; initial."], "src": "iwb"}
+{"w": "incicurable", "pos": "adjective", "d": ["Not able to be cured or healed; incurable."], "src": "iwb"}
+{"w": "incidency", "pos": "noun", "d": ["The act or fact of falling or striking upon something, as a ray of light upon a surface."], "src": "iwb"}
+{"w": "incinerable", "pos": "adjective", "d": ["Able to be burned to ashes."], "src": "iwb"}
+{"w": "incinerate", "pos": "verb", "d": ["To burn something completely to ashes."], "src": "iwb"}
+{"w": "incipience", "pos": "noun", "d": ["A beginning; the earliest stage of something."], "src": "iwb"}
+{"w": "incipiency", "pos": "noun", "d": ["The state of being in the early stages; a beginning."], "src": "iwb"}
+{"w": "incipient", "pos": "adjective", "d": ["Just beginning to appear or develop."], "src": "iwb"}
+{"w": "incision", "pos": "noun", "d": ["A cut made into something, especially by a surgical instrument."], "src": "iwb"}
+{"w": "incisive", "pos": "adjective", "d": ["Sharp and direct in thought or expression; penetrating."], "src": "iwb"}
+{"w": "incisor", "pos": "noun", "d": ["One of the sharp front teeth used for cutting food."], "src": "iwb"}
+{"w": "incisory", "pos": "adjective", "d": ["Adapted for cutting; having sharp cutting edges."], "src": "iwb"}
+{"w": "incisure", "pos": "noun", "d": ["A notch or slit cut into a surface."], "src": "iwb"}
+{"w": "incitant", "pos": "noun", "d": ["Something that incites or stimulates action."], "src": "iwb"}
+{"w": "incitative", "pos": "adjective", "d": ["Tending to incite or provoke; stimulating."], "src": "iwb"}
+{"w": "incitingly", "pos": "adverb", "d": ["In a manner that incites or provokes."], "src": "iwb"}
+{"w": "incito-motor", "pos": "adjective", "d": ["In physiology, exciting or stimulating motor activity."], "src": "iwb"}
+{"w": "incito-motory", "pos": "adjective", "d": ["Same as incito-motor; exciting motor activity."], "src": "iwb"}
+{"w": "incle", "pos": "noun", "d": ["A narrow linen tape or braid used for trimming."], "src": "iwb"}
+{"w": "inclination", "pos": "noun", "d": ["A natural tendency or leaning toward something.", "The angle at which something slopes or leans."], "src": "iwb"}
+{"w": "inclinatory", "pos": "adjective", "d": ["Relating to inclination or the angle of dip."], "src": "iwb"}
+{"w": "inclinnometer", "pos": "noun", "d": ["An instrument for measuring angles of slope or tilt."], "src": "iwb"}
+{"w": "includible", "pos": "adjective", "d": ["Able to be included."], "src": "iwb"}
+{"w": "inclusa", "pos": "noun", "d": ["A woman who lives as a religious recluse."], "src": "iwb"}
+{"w": "incocted", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "incogitance", "pos": "noun", "d": ["Lack of thought; thoughtlessness."], "src": "iwb"}
+{"w": "incogitancy", "pos": "noun", "d": ["Thoughtlessness; lack of consideration."], "src": "iwb"}
+{"w": "incogitant", "pos": "adjective", "d": ["Not thinking; thoughtless."], "src": "iwb"}
+{"w": "incogitativity", "pos": "noun", "d": ["The quality of being thoughtless or unthinking."], "src": "iwb"}
+{"w": "incognita", "pos": "noun", "d": ["Something unknown; an undiscovered region or matter."], "src": "iwb"}
+{"w": "incognitant", "pos": "adjective", "d": ["Not aware; lacking knowledge of something."], "src": "iwb"}
+{"w": "incognito", "pos": "adverb", "d": ["In disguise; under a false name or identity."], "src": "iwb"}
+{"w": "incoherentific", "pos": "adjective", "d": ["Making or tending to make incoherent."], "src": "iwb"}
+{"w": "incolumity", "pos": "noun", "d": ["Safety; security from harm."], "src": "iwb"}
+{"w": "incommiscible", "pos": "adjective", "d": ["Not able to be mixed together."], "src": "iwb"}
+{"w": "incommodation", "pos": "noun", "d": ["Lack of accommodation; unsuitableness."], "src": "iwb"}
+{"w": "incommunicated", "pos": "adjective", "d": ["Not communicated; not made known."], "src": "iwb"}
+{"w": "incommunicating", "pos": "adjective", "d": ["Not communicating; not imparting information."], "src": "iwb"}
+{"w": "incompared", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "incompetibility", "pos": "noun", "d": ["The state of being incompatible; lack of agreement or harmony."], "src": "iwb"}
+{"w": "incomprehense", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inconceivability", "pos": "noun", "d": ["The quality of being impossible to imagine or believe."], "src": "iwb"}
+{"w": "inconcinne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inconcluding", "pos": "adjective", "d": ["Not bringing to a conclusion; inconclusive."], "src": "iwb"}
+{"w": "inconcussible", "pos": "adjective", "d": ["Not able to be shaken; firm and unmovable."], "src": "iwb"}
+{"w": "incondensibility", "pos": "noun", "d": ["The quality of being unable to be condensed."], "src": "iwb"}
+{"w": "inconfused", "pos": "adjective", "d": ["Not confused; clear and orderly."], "src": "iwb"}
+{"w": "inconnected", "pos": "adjective", "d": ["Not connected; separate."], "src": "iwb"}
+{"w": "inconnexedly", "pos": "adverb", "d": ["In a disconnected or incoherent manner."], "src": "iwb"}
+{"w": "inconsideracy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inconsisting", "pos": "adjective", "d": ["Not consistent; at odds with itself."], "src": "iwb"}
+{"w": "inconstance", "pos": "noun", "d": ["Lack of constancy; changeableness."], "src": "iwb"}
+{"w": "inconsumptible", "pos": "adjective", "d": ["Not able to be consumed or used up."], "src": "iwb"}
+{"w": "incontestability", "pos": "noun", "d": ["The quality of being beyond dispute."], "src": "iwb"}
+{"w": "incontested", "pos": "adjective", "d": ["Not contested or disputed."], "src": "iwb"}
+{"w": "incontrovertibility", "pos": "noun", "d": ["The quality of being impossible to dispute or deny."], "src": "iwb"}
+{"w": "inconverted", "pos": "adjective", "d": ["Not converted; unchanged in form or belief."], "src": "iwb"}
+{"w": "inconvincibly", "pos": "adverb", "d": ["In a way that cannot be convinced; beyond persuasion."], "src": "iwb"}
+{"w": "incooerdinate", "pos": "adjective", "d": ["Not coordinated; lacking orderly arrangement."], "src": "iwb"}
+{"w": "incooerdination", "pos": "noun", "d": ["Lack of coordination."], "src": "iwb"}
+{"w": "incorporative", "pos": "adjective", "d": ["Tending to incorporate or unite into one body."], "src": "iwb"}
+{"w": "incorrigibly", "pos": "adverb", "d": ["In a way that cannot be corrected or reformed."], "src": "iwb"}
+{"w": "incorruptibly", "pos": "adverb", "d": ["In a way that cannot be corrupted; with perfect honesty."], "src": "iwb"}
+{"w": "incrassate", "pos": "verb", "d": ["To make thick or thicken, as fluids in the body."], "src": "iwb"}
+{"w": "incrassation", "pos": "noun", "d": ["The process of thickening, especially of a fluid in the body.", "A thickened condition of some bodily substance."], "src": "iwb"}
+{"w": "incrassative", "pos": "adjective", "d": ["Tending to thicken.", "Having the property of making a substance thicker."], "src": "iwb"}
+{"w": "incredited", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "incremable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "increment", "pos": "noun", "d": ["A small increase in amount, value, or size.", "The amount by which something grows or is increased."], "src": "iwb"}
+{"w": "increpate", "pos": "verb", "d": ["To scold or rebuke sharply.", "To criticize someone harshly for a fault."], "src": "iwb"}
+{"w": "increpation", "pos": "noun", "d": ["A sharp scolding or rebuke.", "The act of criticizing someone harshly."], "src": "iwb"}
+{"w": "incroyable", "pos": "noun", "d": ["A fashionable young Frenchman of the late 1700s known for extravagant dress.", "One of the dandies of post-revolutionary France who wore exaggerated clothing."], "src": "iwb"}
+{"w": "incruental", "pos": "adjective", "d": ["Bloodless; involving no shedding of blood.", "Performed without the loss of blood."], "src": "iwb"}
+{"w": "incubate", "pos": "verb", "d": ["To keep eggs warm until they hatch.", "To develop an idea or project in its early stages."], "src": "iwb"}
+{"w": "incubative", "pos": "adjective", "d": ["Relating to or used for incubation.", "Having the nature of an incubator."], "src": "iwb"}
+{"w": "incubator", "pos": "noun", "d": ["A heated container that keeps eggs or newborn babies warm.", "A device that maintains the right conditions for growing bacteria or cell cultures.", "An organization that supports new businesses in their early stages."], "src": "iwb"}
+{"w": "incubiture", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "incubous", "pos": "adjective", "d": ["Arranged so that parts overlap like roof shingles, as the leaves of some mosses."], "src": "iwb"}
+{"w": "incubus", "pos": "noun", "d": ["An evil spirit said to sit on sleepers and cause nightmares.", "A heavy, oppressive burden on the mind."], "src": "iwb"}
+{"w": "inculcate", "pos": "verb", "d": ["To teach an idea or habit by repeating it often.", "To impress something firmly upon someone's mind."], "src": "iwb"}
+{"w": "inculcation", "pos": "noun", "d": ["The act of teaching by frequent repetition.", "Something taught through repeated instruction."], "src": "iwb"}
+{"w": "inculcator", "pos": "noun", "d": ["A person who teaches ideas by repeated instruction."], "src": "iwb"}
+{"w": "inculk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inculp", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "incultivated", "pos": "adjective", "d": ["Not cultivated; left wild or untended.", "Not refined by education or culture."], "src": "iwb"}
+{"w": "incumbency", "pos": "noun", "d": ["The period during which someone holds an office or position.", "The state of being the current holder of an office."], "src": "iwb"}
+{"w": "incumbition", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "incunabulum", "pos": "noun", "d": ["A book printed in Europe before the year 1501.", "Any very early printed book from the infancy of printing."], "src": "iwb"}
+{"w": "incurrence", "pos": "noun", "d": ["The act of bringing something upon oneself, such as a cost or penalty.", "Something incurred, such as a debt or obligation."], "src": "iwb"}
+{"w": "incus", "pos": "noun", "d": ["The small anvil-shaped bone in the middle ear that carries sound vibrations.", "One of the three tiny bones that transmit sound in the ear."], "src": "iwb"}
+{"w": "incuss", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indagation", "pos": "noun", "d": ["Careful searching or investigation into a matter.", "The act of inquiring or researching thoroughly."], "src": "iwb"}
+{"w": "indagative", "pos": "adjective", "d": ["Given to searching or investigation.", "Relating to inquiry and research."], "src": "iwb"}
+{"w": "indagator", "pos": "noun", "d": ["A person who searches into or investigates something."], "src": "iwb"}
+{"w": "indazol", "pos": "noun", "d": ["A crystalline chemical compound used in making dyes and medicines."], "src": "iwb"}
+{"w": "inde", "pos": "preposition", "d": ["A French word meaning from or of, used in phrases borrowed into English."], "src": "iwb"}
+{"w": "indecimable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indeclinably", "pos": "adverb", "d": ["Without declining or bending.", "In an unchanging, invariable manner."], "src": "iwb"}
+{"w": "indefatigability", "pos": "noun", "d": ["The quality of never growing tired.", "Tireless persistence in work or effort."], "src": "iwb"}
+{"w": "indefatigably", "pos": "adverb", "d": ["In a tireless manner.", "Without ever growing weary."], "src": "iwb"}
+{"w": "indefeisible", "pos": "adjective", "d": ["Not capable of being defeated, annulled, or made void.", "Describing a legal right that cannot be taken away."], "src": "iwb"}
+{"w": "indefensibly", "pos": "adverb", "d": ["In a way that cannot be defended or justified."], "src": "iwb"}
+{"w": "indefinably", "pos": "adverb", "d": ["In a manner that cannot be clearly defined or described."], "src": "iwb"}
+{"w": "indelibility", "pos": "noun", "d": ["The quality of being impossible to erase or remove.", "Lasting permanence."], "src": "iwb"}
+{"w": "indelible", "pos": "adjective", "d": ["Impossible to wash out or erase.", "Making marks that cannot be removed."], "src": "iwb"}
+{"w": "indemnification", "pos": "noun", "d": ["The act of compensating someone for a loss or injury.", "Payment made to cover a loss or expense."], "src": "iwb"}
+{"w": "indemnify", "pos": "verb", "d": ["To compensate someone for a loss, damage, or expense.", "To protect someone against future loss by a guarantee."], "src": "iwb"}
+{"w": "indemnity", "pos": "noun", "d": ["Compensation paid for a loss or injury.", "Protection against possible loss, especially in an insurance agreement."], "src": "iwb"}
+{"w": "independence day", "pos": "phrase", "d": ["A national holiday celebrating a country's independence from foreign rule.", "In the United States, July 4, marking the adoption of the Declaration of Independence in 1776."], "src": "iwb"}
+{"w": "indepravate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "india rubber", "pos": "noun", "d": ["Natural rubber obtained from the sap of tropical trees.", "An eraser made of rubber."], "src": "iwb"}
+{"w": "india steel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indican", "pos": "noun", "d": ["A chemical substance found in some plants and in animal urine, related to indigo."], "src": "iwb"}
+{"w": "indicant", "pos": "noun", "d": ["Something that points to or indicates a fact or condition."], "src": "iwb"}
+{"w": "indicative", "pos": "adjective", "d": ["Serving as a sign or indication of something.", "Describing the grammatical mood used for stating facts."], "src": "iwb"}
+{"w": "indicatory", "pos": "adjective", "d": ["Serving to indicate or point out.", "Giving information or a sign about something."], "src": "iwb"}
+{"w": "indicatrix", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indicavit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indicia", "pos": "noun", "d": ["Signs or marks that indicate something.", "Evidence pointing to a particular fact or identity."], "src": "iwb"}
+{"w": "indicible", "pos": "adjective", "d": ["Not able to be spoken or expressed in words.", "Beyond description."], "src": "iwb"}
+{"w": "indicolite", "pos": "noun", "d": ["A blue variety of the mineral tourmaline, used as a gemstone."], "src": "iwb"}
+{"w": "indict", "pos": "verb", "d": ["To formally charge a person with a crime.", "To accuse publicly of wrongdoing."], "src": "iwb"}
+{"w": "indictee", "pos": "noun", "d": ["A person who has been formally charged with a crime."], "src": "iwb"}
+{"w": "indictor", "pos": "noun", "d": ["A person who brings a formal criminal charge against another."], "src": "iwb"}
+{"w": "indies", "pos": "noun", "d": ["The islands of the West Indies together with the lands of the East Indies.", "Independent films or music, made outside the major studios or labels."], "src": "iwb"}
+{"w": "indifferency", "pos": "noun", "d": ["Lack of interest or concern; indifference.", "A state of being neutral or impartial."], "src": "iwb"}
+{"w": "indifulvin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indifuscin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indigeen", "pos": "noun", "d": ["A person born in a particular place; a native inhabitant."], "src": "iwb"}
+{"w": "indigence", "pos": "noun", "d": ["The state of being very poor; poverty.", "Lack of the basic necessities of life."], "src": "iwb"}
+{"w": "indigency", "pos": "noun", "d": ["Extreme poverty.", "The condition of lacking money for basic needs."], "src": "iwb"}
+{"w": "indigene", "pos": "noun", "d": ["A person or plant native to a particular region.", "An indigenous inhabitant."], "src": "iwb"}
+{"w": "indigent", "pos": "adjective", "d": ["Very poor; lacking the necessities of life.", "Needing financial help to survive."], "src": "iwb"}
+{"w": "indiglucin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indign", "pos": "adjective", "d": ["Not worthy; undeserving.", "Shameful or disgraceful."], "src": "iwb"}
+{"w": "indignancy", "pos": "noun", "d": ["Strong anger at something unjust or unworthy; indignation."], "src": "iwb"}
+{"w": "indigo", "pos": "noun", "d": ["A deep blue dye made from certain plants.", "A dark blue-violet color."], "src": "iwb"}
+{"w": "indigofera", "pos": "noun", "d": ["A genus of plants from which indigo dye is obtained."], "src": "iwb"}
+{"w": "indigogen", "pos": "noun", "d": ["A substance from which indigo can be produced."], "src": "iwb"}
+{"w": "indigometry", "pos": "noun", "d": ["The measurement of the amount of indigo in a substance."], "src": "iwb"}
+{"w": "indigrubin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indihumin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indiretin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indirubin", "pos": "noun", "d": ["A reddish chemical compound found in natural indigo dye."], "src": "iwb"}
+{"w": "indiscussed", "pos": "adjective", "d": ["Not discussed or talked about."], "src": "iwb"}
+{"w": "indispensability", "pos": "noun", "d": ["The quality of being absolutely necessary.", "The state of being essential and irreplaceable."], "src": "iwb"}
+{"w": "indispensably", "pos": "adverb", "d": ["In a way that is absolutely necessary.", "So as to be essential and not able to be done without."], "src": "iwb"}
+{"w": "indisputability", "pos": "noun", "d": ["The quality of being beyond question or dispute."], "src": "iwb"}
+{"w": "indisputed", "pos": "adjective", "d": ["Not disputed; accepted without argument."], "src": "iwb"}
+{"w": "indissolubly", "pos": "adverb", "d": ["In a way that cannot be dissolved, broken, or separated.", "Firmly and permanently joined."], "src": "iwb"}
+{"w": "indium", "pos": "noun", "d": ["A soft, silvery chemical element used in electronics and solders."], "src": "iwb"}
+{"w": "individualistic", "pos": "adjective", "d": ["Marked by strong independence and self-reliance.", "Favoring individual freedom over group conformity."], "src": "iwb"}
+{"w": "individualization", "pos": "noun", "d": ["The act of making something suited to a particular individual.", "The process of developing a distinct individual character."], "src": "iwb"}
+{"w": "individuate", "pos": "verb", "d": ["To give individual form or character to.", "To distinguish as a separate individual."], "src": "iwb"}
+{"w": "individuation", "pos": "noun", "d": ["The process by which a person develops a distinct identity.", "The act of distinguishing one thing from others as an individual."], "src": "iwb"}
+{"w": "individuator", "pos": "noun", "d": ["One who gives individual character to something or distinguishes it as an individual."], "src": "iwb"}
+{"w": "individuity", "pos": "noun", "d": ["The quality of being an individual; individuality.", "Distinct personal existence."], "src": "iwb"}
+{"w": "indivisibly", "pos": "adverb", "d": ["In a manner that cannot be divided or separated.", "As one unbroken whole."], "src": "iwb"}
+{"w": "indo-", "pos": "prefix", "d": ["A prefix meaning Indian or relating to India.", "A prefix meaning relating to both India and another region, as in Indo-Chinese."], "src": "iwb"}
+{"w": "indo-do-chinese languages", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indoaniline", "pos": "noun", "d": ["A class of blue dye compounds used in coloring fabrics and in chemistry."], "src": "iwb"}
+{"w": "indoctrinate", "pos": "verb", "d": ["To teach a person or group to accept a set of beliefs without question.", "To instruct in the ideas of a doctrine."], "src": "iwb"}
+{"w": "indoctrination", "pos": "noun", "d": ["The process of teaching beliefs so that they are accepted without questioning.", "Instruction in a doctrine or system of ideas."], "src": "iwb"}
+{"w": "indogen", "pos": "noun", "d": ["A chemical radical derived from indigo, involved in dye reactions."], "src": "iwb"}
+{"w": "indoin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indol", "pos": "noun", "d": ["A white crystalline organic compound with a strong odor, found in coal tar and jasmine, used in making dyes and perfumes."], "src": "iwb"}
+{"w": "indolency", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indolin", "pos": "noun", "d": ["A colorless oily organic compound derived from indole by adding hydrogen, used in making dyes."], "src": "iwb"}
+{"w": "indomptable", "pos": "adjective", "d": ["Not able to be tamed or subdued; indomitable."], "src": "iwb"}
+{"w": "indophenol", "pos": "noun", "d": ["Any of a group of blue dyes containing a nitrogen-linked ring structure, some used as chemical indicators."], "src": "iwb"}
+{"w": "indorsation", "pos": "noun", "d": ["The act of signing one's name on the back of a check or bill to transfer or guarantee it."], "src": "iwb"}
+{"w": "indorsee", "pos": "noun", "d": ["The person to whom a check or promissory note is signed over."], "src": "iwb"}
+{"w": "indorsor", "pos": "noun", "d": ["The person who signs the back of a check or bill to transfer or guarantee it."], "src": "iwb"}
+{"w": "indoxyl", "pos": "noun", "d": ["A chemical compound formed during the making of indigo dye, which turns into indigo when exposed to air."], "src": "iwb"}
+{"w": "indri", "pos": "noun", "d": ["A large black-and-white lemur of Madagascar known for its loud wailing calls."], "src": "iwb"}
+{"w": "indubitably", "pos": "adverb", "d": ["Without any doubt; certainly."], "src": "iwb"}
+{"w": "induce", "pos": "verb", "d": ["To persuade someone to do something.", "To bring something about, as labor in childbirth or an electric current."], "src": "iwb"}
+{"w": "induced current", "pos": "phrase", "d": ["An electric current created in a wire or coil by a changing magnetic field."], "src": "iwb"}
+{"w": "inducible", "pos": "adjective", "d": ["Capable of being brought about or switched on, as a gene or enzyme that activates under certain conditions."], "src": "iwb"}
+{"w": "inductance coil", "pos": "phrase", "d": ["A coil of wire that stores energy in a magnetic field and resists changes in electric current."], "src": "iwb"}
+{"w": "inducteous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "induction generator", "pos": "phrase", "d": ["A machine that produces electricity when coils of wire move through a magnetic field."], "src": "iwb"}
+{"w": "induction motor", "pos": "phrase", "d": ["An electric motor in which the spinning part is driven by magnetic fields from the stationary coils, with no direct electrical connection."], "src": "iwb"}
+{"w": "inductometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inductorium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inductric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "indulge", "pos": "verb", "d": ["To allow yourself or another to have or do something pleasurable, especially freely."], "src": "iwb"}
+{"w": "indulgence", "pos": "noun", "d": ["The act of giving in to a desire or pleasure.", "In the Catholic Church, a remission of punishment for sins granted by the church."], "src": "iwb"}
+{"w": "indulgency", "pos": "noun", "d": ["The quality or act of being lenient or permissive."], "src": "iwb"}
+{"w": "indulgent", "pos": "adjective", "d": ["Lenient and generous toward someone's wishes or faults; not strict."], "src": "iwb"}
+{"w": "indulgiate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "induline", "pos": "noun", "d": ["Any of a group of blue or blue-black dyes related to the aniline dyes."], "src": "iwb"}
+{"w": "indult", "pos": "noun", "d": ["In the Catholic Church, a special permission or favor granted by a church authority."], "src": "iwb"}
+{"w": "indulto", "pos": "noun", "d": ["A pardon or decree of clemency issued by a Spanish or Latin American authority."], "src": "iwb"}
+{"w": "indument", "pos": "noun", "d": ["In botany, a covering of hairs, down, or scales on a plant surface."], "src": "iwb"}
+{"w": "indusial", "pos": "adjective", "d": ["Relating to an indusium, the thin covering over the spore cases of a fern."], "src": "iwb"}
+{"w": "indusiate", "pos": "adjective", "d": ["Having an indusium, as a fern leaf with covered spore clusters."], "src": "iwb"}
+{"w": "indusium", "pos": "noun", "d": ["A thin membrane that covers the spore-bearing dots on the underside of a fern frond.", "Any similar covering membrane in nature."], "src": "iwb"}
+{"w": "indutive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "induviae", "pos": "noun", "d": ["In botany, withered leaves, petals, or other parts that remain attached to a plant after drying."], "src": "iwb"}
+{"w": "induviate", "pos": "adjective", "d": ["Covered with persistent withered parts, as a plant stem bearing dead leaves."], "src": "iwb"}
+{"w": "inebriant", "pos": "noun", "d": ["A substance that causes drunkenness or intoxication."], "src": "iwb"}
+{"w": "inebriate", "pos": "verb", "d": ["To make someone drunk.", "As a noun, a person who is habitually drunk."], "src": "iwb"}
+{"w": "inebriation", "pos": "noun", "d": ["The state of being drunk; intoxication."], "src": "iwb"}
+{"w": "inedited", "pos": "adjective", "d": ["Not published; never printed."], "src": "iwb"}
+{"w": "inee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ineffability", "pos": "noun", "d": ["The quality of being too great or marvelous to be described in words."], "src": "iwb"}
+{"w": "ineffably", "pos": "adverb", "d": ["In a way that cannot be expressed in words."], "src": "iwb"}
+{"w": "ineffaceably", "pos": "adverb", "d": ["In a way that cannot be wiped out or erased."], "src": "iwb"}
+{"w": "ineffervescibility", "pos": "noun", "d": ["The quality of not fizzing or bubbling."], "src": "iwb"}
+{"w": "inelligibly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ineluctable", "pos": "adjective", "d": ["That cannot be avoided or escaped; inevitable."], "src": "iwb"}
+{"w": "inenarrable", "pos": "adjective", "d": ["That cannot be told or described in words."], "src": "iwb"}
+{"w": "inept", "pos": "adjective", "d": ["Lacking skill; clumsy or incompetent.", "Out of place; unsuitable or inappropriate."], "src": "iwb"}
+{"w": "ineptitude", "pos": "noun", "d": ["Lack of skill or fitness; incompetence."], "src": "iwb"}
+{"w": "inequilobate", "pos": "adjective", "d": ["In botany, having lobes that are not equal in size."], "src": "iwb"}
+{"w": "inequitate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ineradicably", "pos": "adverb", "d": ["In a way that cannot be rooted out or destroyed."], "src": "iwb"}
+{"w": "inergetic", "pos": "adjective", "d": ["Lacking energy; inactive or listless."], "src": "iwb"}
+{"w": "inerm", "pos": "adjective", "d": ["In botany, unarmed; having no thorns, spines, or prickles."], "src": "iwb"}
+{"w": "inermis", "pos": "adjective", "d": ["Unarmed; without spines, thorns, or other defensive structures."], "src": "iwb"}
+{"w": "inerrability", "pos": "noun", "d": ["The quality of being unable to make a mistake; infallibility."], "src": "iwb"}
+{"w": "inerrably", "pos": "adverb", "d": ["Without error; unerringly."], "src": "iwb"}
+{"w": "inerringly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "inert", "pos": "adjective", "d": ["Not moving or acting; sluggish and lifeless.", "In chemistry, not reacting with other substances."], "src": "iwb"}
+{"w": "inertia", "pos": "noun", "d": ["The tendency of an object to keep its state of rest or motion unless a force acts on it.", "A reluctance to move or change; sluggishness."], "src": "iwb"}
+{"w": "inertitude", "pos": "noun", "d": ["The state of being inert; inactivity or sluggishness."], "src": "iwb"}
+{"w": "inescate", "pos": "verb", "d": ["To bait a hook or trap; to lure with a temptation."], "src": "iwb"}
+{"w": "inescation", "pos": "noun", "d": ["The act of baiting or luring; enticement."], "src": "iwb"}
+{"w": "inevitability", "pos": "noun", "d": ["The quality of being certain to happen; unavoidableness."], "src": "iwb"}
+{"w": "inevitably", "pos": "adverb", "d": ["In a way that cannot be avoided; certainly."], "src": "iwb"}
+{"w": "inexcusably", "pos": "adverb", "d": ["In a way that cannot be excused or justified."], "src": "iwb"}
+{"w": "inexhausted", "pos": "adjective", "d": ["Not used up; still remaining in full supply."], "src": "iwb"}
+{"w": "inexorability", "pos": "noun", "d": ["The quality of being unmoved by pleading; relentlessness."], "src": "iwb"}
+{"w": "inexorably", "pos": "adverb", "d": ["In a way that cannot be stopped or persuaded otherwise; relentlessly."], "src": "iwb"}
+{"w": "inexpected", "pos": "adjective", "d": ["Not expected; unexpected."], "src": "iwb"}
+{"w": "inexpiably", "pos": "adverb", "d": ["In a way that cannot be atoned for or forgiven."], "src": "iwb"}
+{"w": "inexpleably", "pos": "adverb", "d": ["Insatiably; in a way that cannot be satisfied or filled."], "src": "iwb"}
+{"w": "inexplicability", "pos": "noun", "d": ["The quality of being impossible to explain."], "src": "iwb"}
+{"w": "inexplicably", "pos": "adverb", "d": ["In a way that cannot be explained or accounted for."], "src": "iwb"}
+{"w": "inexpressibly", "pos": "adverb", "d": ["To a degree that cannot be put into words."], "src": "iwb"}
+{"w": "inexpugnably", "pos": "adverb", "d": ["In a way that cannot be conquered or overcome; impregnably."], "src": "iwb"}
+{"w": "inexsuperable", "pos": "adjective", "d": ["That cannot be passed over or overcome; insurmountable."], "src": "iwb"}
+{"w": "inextended", "pos": "adjective", "d": ["Not extended; having no size or spread."], "src": "iwb"}
+{"w": "inexterminable", "pos": "adjective", "d": ["That cannot be destroyed or wiped out completely."], "src": "iwb"}
+{"w": "inextinguible", "pos": "adjective", "d": ["That cannot be put out or quenched, as a fire or a desire."], "src": "iwb"}
+{"w": "inextinguishably", "pos": "adverb", "d": ["In a way that cannot be put out or extinguished."], "src": "iwb"}
+{"w": "inextricably", "pos": "adverb", "d": ["In a way that cannot be untangled or separated."], "src": "iwb"}
+{"w": "infabricated", "pos": "adjective", "d": ["Not made or manufactured; natural and unworked."], "src": "iwb"}
+{"w": "infallibilist", "pos": "noun", "d": ["A person who believes in the doctrine of infallibility, especially papal infallibility."], "src": "iwb"}
+{"w": "infamize", "pos": "verb", "d": ["To make infamous; to bring shame or a bad reputation upon."], "src": "iwb"}
+{"w": "infamy", "pos": "noun", "d": ["The state of having an extremely bad reputation; public disgrace.", "An extremely shameful or wicked act."], "src": "iwb"}
+{"w": "infandous", "pos": "adjective", "d": ["Too dreadful to be spoken of; unspeakably horrible."], "src": "iwb"}
+{"w": "infangthef", "pos": "noun", "d": ["In old English law, the right of a lord to punish a thief caught within his own lands."], "src": "iwb"}
+{"w": "infanta", "pos": "noun", "d": ["A daughter of the king of Spain or Portugal who is not the heir to the throne; a Spanish or Portuguese princess."], "src": "iwb"}
+{"w": "infante", "pos": "noun", "d": ["A son of the king of Spain or Portugal who is not the heir to the throne; a Spanish or Portuguese prince."], "src": "iwb"}
+{"w": "infanticidal", "pos": "adjective", "d": ["Relating to or causing the killing of an infant."], "src": "iwb"}
+{"w": "infanticide", "pos": "noun", "d": ["The killing of an infant, especially a newborn child."], "src": "iwb"}
+{"w": "infantile paralysis", "pos": "phrase", "d": ["The former name for poliomyelitis, a viral disease that can cause muscle weakness or paralysis in children."], "src": "iwb"}
+{"w": "infantine", "pos": "adjective", "d": ["Of or like an infant; childish or babyish."], "src": "iwb"}
+{"w": "infantry", "pos": "noun", "d": ["Soldiers who fight on foot; the foot-soldier branch of an army."], "src": "iwb"}
+{"w": "infarct", "pos": "noun", "d": ["An area of dead tissue caused by a blocked blood supply, as in a heart attack."], "src": "iwb"}
+{"w": "infatuate", "pos": "verb", "d": ["To inspire with an intense but foolish passion or admiration."], "src": "iwb"}
+{"w": "infatuation", "pos": "noun", "d": ["An intense, short-lived passion or admiration, often unreasonable."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

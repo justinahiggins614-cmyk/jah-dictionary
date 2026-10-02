@@ -31816,6 +31816,806 @@
 {"w": "kind-hearted", "pos": "adjective", "d": ["Having or showing a kind and caring nature."], "src": "iwb"}
 {"w": "kindergarten", "pos": "noun", "d": ["A class or school for young children, usually four to six years old, that prepares them for first grade."], "src": "iwb"}
 {"w": "kindergartner", "pos": "noun", "d": ["A child who attends kindergarten."], "src": "iwb"}
+{"w": "kindle", "pos": "verb", "d": ["To set on fire; to cause to start burning.", "To arouse or excite, as in kindling interest."], "src": "iwb"}
+{"w": "kindliness", "pos": "noun", "d": ["The quality of being kind; gentleness and goodwill toward others."], "src": "iwb"}
+{"w": "kine", "pos": "noun", "d": ["Cows; cattle, as an old plural of cow."], "src": "iwb"}
+{"w": "kinematic", "pos": "adjective", "d": ["Relating to the motion of bodies without regard to the forces causing it."], "src": "iwb"}
+{"w": "kinesiatrics", "pos": "noun", "d": ["The treatment of disease by muscular exercise; an early form of physical therapy."], "src": "iwb"}
+{"w": "kinesipathy", "pos": "noun", "d": ["Treatment of disease by regulated muscular movement."], "src": "iwb"}
+{"w": "kinesitherapy", "pos": "noun", "d": ["The treatment of disease through active muscular exercise."], "src": "iwb"}
+{"w": "kinetogenesis", "pos": "noun", "d": ["The production or origin of motion."], "src": "iwb"}
+{"w": "kinetograph", "pos": "noun", "d": ["An early motion-picture camera for recording moving images."], "src": "iwb"}
+{"w": "kinetophone", "pos": "noun", "d": ["An early device combining moving pictures with synchronized phonograph sound."], "src": "iwb"}
+{"w": "kinetoscope", "pos": "noun", "d": ["An early device for viewing moving pictures through a small opening."], "src": "iwb"}
+{"w": "king charles spaniel", "pos": "noun", "d": ["A small toy spaniel with a silky coat and long drooping ears."], "src": "iwb"}
+{"w": "king-post", "pos": "noun", "d": ["A central vertical post in a roof truss supporting the ridge."], "src": "iwb"}
+{"w": "kinglihood", "pos": "noun", "d": ["The state, dignity, or office of a king."], "src": "iwb"}
+{"w": "kingliness", "pos": "noun", "d": ["The quality of being kingly; royal dignity of bearing."], "src": "iwb"}
+{"w": "kingston metal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kingston valve", "pos": "noun", "d": ["A valve fitted in a ship's hull for admitting or letting out seawater."], "src": "iwb"}
+{"w": "kinit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kink", "pos": "noun", "d": ["A sharp twist or bend in a rope, wire, or strand of hair."], "src": "iwb"}
+{"w": "kinkajou", "pos": "noun", "d": ["A small nocturnal mammal of Central and South American forests that feeds on fruit and nectar."], "src": "iwb"}
+{"w": "kinkhaust", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kinkle", "pos": "noun", "d": ["A small kink or twist; a slight irregular bend."], "src": "iwb"}
+{"w": "kinky", "pos": "adjective", "d": ["Full of kinks; tightly curled or twisted."], "src": "iwb"}
+{"w": "kinnikinic", "pos": "noun", "d": ["A mixture of tobacco and other dried plants once smoked by some Native American peoples."], "src": "iwb"}
+{"w": "kino", "pos": "noun", "d": ["A reddish gum from certain tropical trees, used as an astringent."], "src": "iwb"}
+{"w": "kinoyl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kinsfolk", "pos": "noun", "d": ["Relatives; one's kin or family."], "src": "iwb"}
+{"w": "kinsman", "pos": "noun", "d": ["A male relative."], "src": "iwb"}
+{"w": "kinswoman", "pos": "noun", "d": ["A female relative."], "src": "iwb"}
+{"w": "kintlidge", "pos": "noun", "d": ["Pig-iron ballast stowed low in a ship's hold."], "src": "iwb"}
+{"w": "kiosk", "pos": "noun", "d": ["A small freestanding booth for selling goods or giving information."], "src": "iwb"}
+{"w": "kioways", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kip", "pos": "noun", "d": ["The hide of a young or small animal.", "A brief sleep, or a cheap place to sleep."], "src": "iwb"}
+{"w": "kipe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kirmess", "pos": "noun", "d": ["A village fair or festival."], "src": "iwb"}
+{"w": "kirschwasser", "pos": "noun", "d": ["A colorless brandy distilled from cherries."], "src": "iwb"}
+{"w": "kirsome", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kirtle", "pos": "noun", "d": ["A woman's long dress or tunic, as worn in earlier centuries."], "src": "iwb"}
+{"w": "kirumbo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kish", "pos": "noun", "d": ["Flakes of graphite that separate from molten cast iron as it cools."], "src": "iwb"}
+{"w": "kismet", "pos": "noun", "d": ["Fate; destiny."], "src": "iwb"}
+{"w": "kissing bug", "pos": "noun", "d": ["A bloodsucking insect whose bite can spread Chagas disease."], "src": "iwb"}
+{"w": "kissing strings", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kissingcrust", "pos": "noun", "d": ["The soft crust formed where two loaves of bread touch while baking."], "src": "iwb"}
+{"w": "kist", "pos": "noun", "d": ["A chest or box for storing things; in some dialects, a coffin."], "src": "iwb"}
+{"w": "kistvaen", "pos": "noun", "d": ["A prehistoric stone-lined burial chamber."], "src": "iwb"}
+{"w": "kitchen middens", "pos": "noun", "d": ["Heaps of shells, bones, and refuse marking prehistoric settlement sites."], "src": "iwb"}
+{"w": "kitchen-ry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kite", "pos": "noun", "d": ["A light frame covered with paper or cloth, flown in the wind on a string.", "A graceful bird of prey with long wings."], "src": "iwb"}
+{"w": "kith", "pos": "noun", "d": ["One's friends and neighbors, as distinct from relatives."], "src": "iwb"}
+{"w": "kithe", "pos": "verb", "d": ["To make known; to show or manifest."], "src": "iwb"}
+{"w": "kitte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kittel", "pos": "noun", "d": ["A white robe worn on certain Jewish holy days."], "src": "iwb"}
+{"w": "kittiwake", "pos": "noun", "d": ["A small gull of northern seas that nests on cliffs."], "src": "iwb"}
+{"w": "kittle", "pos": "adjective", "d": ["Difficult to handle; tricky."], "src": "iwb"}
+{"w": "kittlish", "pos": "adjective", "d": ["Easily tickled; ticklish."], "src": "iwb"}
+{"w": "kiva", "pos": "noun", "d": ["An underground ceremonial chamber used by Pueblo peoples."], "src": "iwb"}
+{"w": "kive", "pos": "noun", "d": ["A large vat or tub, especially for brewing."], "src": "iwb"}
+{"w": "kivikivi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kiwikiwi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kjoekken moeddings", "pos": "noun", "d": ["The Danish term for kitchen middens; prehistoric shell heaps."], "src": "iwb"}
+{"w": "klamaths", "pos": "noun", "d": ["The Klamath people, a Native American tribe of the Pacific Northwest."], "src": "iwb"}
+{"w": "kleeneboc", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kleptomania", "pos": "noun", "d": ["An irresistible impulse to steal things, even without need."], "src": "iwb"}
+{"w": "kleptomaniac", "pos": "noun", "d": ["A person driven by an uncontrollable urge to steal."], "src": "iwb"}
+{"w": "klick", "pos": "noun", "d": ["A kilometer, in military slang.", "A short sharp sound; a click."], "src": "iwb"}
+{"w": "klicket", "pos": "noun", "d": ["A small gate or wicket beside a larger gate."], "src": "iwb"}
+{"w": "klinkstone", "pos": "noun", "d": ["A volcanic rock that rings when struck; phonolite."], "src": "iwb"}
+{"w": "klinometer", "pos": "noun", "d": ["An instrument for measuring the angle of a slope."], "src": "iwb"}
+{"w": "klipdachs", "pos": "noun", "d": ["A small burrowing mammal of southern Africa; the rock hyrax."], "src": "iwb"}
+{"w": "klipdas", "pos": "noun", "d": ["The rock hyrax."], "src": "iwb"}
+{"w": "klipfish", "pos": "noun", "d": ["Salted and dried fish, especially cod."], "src": "iwb"}
+{"w": "klipspringer", "pos": "noun", "d": ["A small agile antelope of rocky African hillsides."], "src": "iwb"}
+{"w": "kloof", "pos": "noun", "d": ["A deep ravine or narrow valley."], "src": "iwb"}
+{"w": "klopemania", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knab", "pos": "verb", "d": ["To bite, gnaw, or nibble."], "src": "iwb"}
+{"w": "knabble", "pos": "verb", "d": ["To gnaw or bite with small bites."], "src": "iwb"}
+{"w": "knack", "pos": "noun", "d": ["A special skill or talent for doing something well."], "src": "iwb"}
+{"w": "knack-kneed", "pos": "adjective", "d": ["Having knees that bend inward; knock-kneed."], "src": "iwb"}
+{"w": "knacky", "pos": "adjective", "d": ["Skillful or clever at doing something."], "src": "iwb"}
+{"w": "knag", "pos": "noun", "d": ["A knot in wood, or a short projecting point."], "src": "iwb"}
+{"w": "knaggy", "pos": "adjective", "d": ["Full of knots or knags."], "src": "iwb"}
+{"w": "knap", "pos": "verb", "d": ["To strike sharply; to chip off by a blow, as flint."], "src": "iwb"}
+{"w": "knapple", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knappy", "pos": "adjective", "d": ["Rugged; full of small hills or knolls."], "src": "iwb"}
+{"w": "knar", "pos": "noun", "d": ["A knot or hard lump in wood."], "src": "iwb"}
+{"w": "knarl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knarry", "pos": "adjective", "d": ["Full of knots; knotty."], "src": "iwb"}
+{"w": "knave", "pos": "noun", "d": ["A dishonest or unprincipled man.", "The jack in a deck of cards."], "src": "iwb"}
+{"w": "knavery", "pos": "noun", "d": ["Dishonest or tricky behavior; rascality."], "src": "iwb"}
+{"w": "knavess", "pos": "noun", "d": ["A dishonest woman."], "src": "iwb"}
+{"w": "knavish", "pos": "adjective", "d": ["Dishonest; like a knave."], "src": "iwb"}
+{"w": "knaw", "pos": "verb", "d": ["To gnaw."], "src": "iwb"}
+{"w": "knawel", "pos": "noun", "d": ["A small low-growing plant of the pink family."], "src": "iwb"}
+{"w": "knead", "pos": "verb", "d": ["To work dough or clay by pressing, folding, and stretching."], "src": "iwb"}
+{"w": "kneadingly", "pos": "adverb", "d": ["In a kneading manner; by pressing and folding."], "src": "iwb"}
+{"w": "knebelite", "pos": "noun", "d": ["A dark mineral made of iron and manganese silicate."], "src": "iwb"}
+{"w": "kneck", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knee jerk", "pos": "noun", "d": ["An involuntary kick caused by tapping the tendon below the knee.", "A quick, automatic reaction made without thought."], "src": "iwb"}
+{"w": "knee-crooking", "pos": "adjective", "d": ["Servile; fawning like one who bows and scrapes."], "src": "iwb"}
+{"w": "knee-deep", "pos": "adjective", "d": ["So deep as to reach the knees."], "src": "iwb"}
+{"w": "knee-high", "pos": "adjective", "d": ["As high as the knees."], "src": "iwb"}
+{"w": "kneel", "pos": "verb", "d": ["To rest on the knees, as in prayer or reverence."], "src": "iwb"}
+{"w": "kneelingly", "pos": "adverb", "d": ["In a kneeling position."], "src": "iwb"}
+{"w": "knell", "pos": "noun", "d": ["The solemn sound of a bell, especially marking a death or funeral.", "A signal of the end of something."], "src": "iwb"}
+{"w": "knelt", "pos": "verb", "d": ["Past tense of kneel."], "src": "iwb"}
+{"w": "knicker", "pos": "noun", "d": ["A small glass marble used in children's games.", "A resident of old New York; a knickerbocker."], "src": "iwb"}
+{"w": "knickerbocker", "pos": "noun", "d": ["A descendant of the early Dutch settlers of New York.", "Loose-fitting trousers gathered at the knee; knickers."], "src": "iwb"}
+{"w": "knickknack", "pos": "noun", "d": ["A small ornamental trifle."], "src": "iwb"}
+{"w": "knickknackatory", "pos": "noun", "d": ["A place or collection for keeping knickknacks."], "src": "iwb"}
+{"w": "knickknackery", "pos": "noun", "d": ["Small ornamental trifles collectively."], "src": "iwb"}
+{"w": "knife switch", "pos": "noun", "d": ["An electrical switch with a hinged blade that fits between contacts."], "src": "iwb"}
+{"w": "knife-edge", "pos": "noun", "d": ["The cutting edge of a knife.", "A sharp narrow ridge."], "src": "iwb"}
+{"w": "knight bachelor", "pos": "noun", "d": ["The lowest order of knighthood; a knight belonging to no order."], "src": "iwb"}
+{"w": "knight banneret", "pos": "noun", "d": ["A knight entitled to lead men into battle under his own banner."], "src": "iwb"}
+{"w": "knight baronet", "pos": "noun", "d": ["A hereditary title of honor ranking below a baron."], "src": "iwb"}
+{"w": "knight marshal", "pos": "noun", "d": ["A former officer of the English royal household."], "src": "iwb"}
+{"w": "knight service", "pos": "noun", "d": ["Feudal military service owed by a tenant to his lord."], "src": "iwb"}
+{"w": "knight templar", "pos": "noun", "d": ["A member of the medieval military order of the Temple."], "src": "iwb"}
+{"w": "knight-er-ratic", "pos": "adjective", "d": ["Resembling a knight-errant; quixotic and wandering."], "src": "iwb"}
+{"w": "knight-errant", "pos": "noun", "d": ["A wandering knight seeking adventure."], "src": "iwb"}
+{"w": "knight-errantry", "pos": "noun", "d": ["The practice of wandering in search of adventure, like a knight-errant."], "src": "iwb"}
+{"w": "knightliness", "pos": "noun", "d": ["The qualities of a knight; chivalry and honor."], "src": "iwb"}
+{"w": "knitch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knitchet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knitster", "pos": "noun", "d": ["A knitter; one who knits."], "src": "iwb"}
+{"w": "knittle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knob", "pos": "noun", "d": ["A rounded handle or projection.", "A small rounded hill."], "src": "iwb"}
+{"w": "knobbler", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knobbling fire", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knobby", "pos": "adjective", "d": ["Full of knobs; covered with rounded bumps."], "src": "iwb"}
+{"w": "knobkerrie", "pos": "noun", "d": ["A short club with a knobbed head, used in southern Africa."], "src": "iwb"}
+{"w": "knock-knee", "pos": "noun", "d": ["An inward bending of the knees so they touch or nearly touch."], "src": "iwb"}
+{"w": "knock-off", "pos": "noun", "d": ["A cheap imitation or copy.", "A stoppage of work; a break."], "src": "iwb"}
+{"w": "knock-out", "pos": "noun", "d": ["A blow that knocks one unconscious.", "Something stunning or remarkable."], "src": "iwb"}
+{"w": "knock-out drops", "pos": "noun", "d": ["A drug slipped into a drink to knock someone out."], "src": "iwb"}
+{"w": "knoll", "pos": "noun", "d": ["A small rounded hill.", "The sound of a bell tolled solemnly."], "src": "iwb"}
+{"w": "knop", "pos": "noun", "d": ["A knob; an ornamental rounded protuberance."], "src": "iwb"}
+{"w": "knor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knosp", "pos": "noun", "d": ["A bud; an unopened flower."], "src": "iwb"}
+{"w": "knot", "pos": "noun", "d": ["An intertwined loop or tie in rope or cord.", "A hard lump in wood where a branch grew.", "To tie in a knot."], "src": "iwb"}
+{"w": "knottiness", "pos": "noun", "d": ["The quality of being knotty."], "src": "iwb"}
+{"w": "knotty", "pos": "adjective", "d": ["Full of knots.", "Difficult to solve; intricate."], "src": "iwb"}
+{"w": "knout", "pos": "noun", "d": ["A heavy leather whip formerly used in Russia.", "A flogging with such a whip."], "src": "iwb"}
+{"w": "know-all", "pos": "noun", "d": ["A person who claims to know everything; a know-it-all."], "src": "iwb"}
+{"w": "know-nothing", "pos": "noun", "d": ["A person who knows little or nothing.", "A member of the mid-1800s American nativist political movement."], "src": "iwb"}
+{"w": "knubs", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knuckle", "pos": "noun", "d": ["A joint of a finger.", "To submit or give in; to knuckle under."], "src": "iwb"}
+{"w": "knuff", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "knur", "pos": "noun", "d": ["A knot or hard lump in wood."], "src": "iwb"}
+{"w": "knurl", "pos": "noun", "d": ["A small raised ridge or bead on a surface, as on a tool handle."], "src": "iwb"}
+{"w": "knurry", "pos": "adjective", "d": ["Full of knurs; knotty."], "src": "iwb"}
+{"w": "koaita", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "koala", "pos": "noun", "d": ["A tree-dwelling Australian marsupial that feeds on eucalyptus leaves."], "src": "iwb"}
+{"w": "kob", "pos": "noun", "d": ["A small African antelope."], "src": "iwb"}
+{"w": "koba", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kobellite", "pos": "noun", "d": ["A dark metallic mineral containing lead, bismuth, and antimony."], "src": "iwb"}
+{"w": "koel", "pos": "noun", "d": ["A large cuckoo of Asia and Australia."], "src": "iwb"}
+{"w": "koff", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "koftgari", "pos": "noun", "d": ["Indian damascened metalwork inlaid with gold or silver."], "src": "iwb"}
+{"w": "kohinoor", "pos": "noun", "d": ["A celebrated large diamond now among the British crown jewels."], "src": "iwb"}
+{"w": "kohl", "pos": "noun", "d": ["A dark powder used as a cosmetic for the eyes."], "src": "iwb"}
+{"w": "kohl-rabi", "pos": "noun", "d": ["A cabbage variety with an edible swollen stem; kohlrabi."], "src": "iwb"}
+{"w": "kohnur", "pos": "noun", "d": ["A variant name of the Kohinoor diamond."], "src": "iwb"}
+{"w": "kokama", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "koklass", "pos": "noun", "d": ["A pheasant of the Himalayas; the koklas."], "src": "iwb"}
+{"w": "kokoon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kola", "pos": "noun", "d": ["The kola tree or its caffeine-rich nut."], "src": "iwb"}
+{"w": "kola nut", "pos": "noun", "d": ["The caffeine-containing seed of the kola tree, used in flavoring."], "src": "iwb"}
+{"w": "kolarian", "pos": "adjective", "d": ["Relating to the Kol peoples or their languages of central India."], "src": "iwb"}
+{"w": "kolinsky", "pos": "noun", "d": ["The Siberian weasel, valued for its fur; also its fur."], "src": "iwb"}
+{"w": "koluschan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kolushan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "komenic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "komtok", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "konite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "konze", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "koodoo", "pos": "noun", "d": ["A large African antelope with spiral horns; the kudu."], "src": "iwb"}
+{"w": "kookoom", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "koolokamba", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "koolslaa", "pos": "noun", "d": ["A salad of shredded cabbage; coleslaw."], "src": "iwb"}
+{"w": "koord", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "koorilian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kop", "pos": "noun", "d": ["A hill or mountain, in South African usage."], "src": "iwb"}
+{"w": "kopeck", "pos": "noun", "d": ["A small Russian coin, one hundredth of a ruble."], "src": "iwb"}
+{"w": "kopje", "pos": "noun", "d": ["A small hill rising from the South African veld."], "src": "iwb"}
+{"w": "koran", "pos": "noun", "d": ["The sacred scripture of Islam."], "src": "iwb"}
+{"w": "korin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "korrigum", "pos": "noun", "d": ["A large African antelope of the hartebeest kind."], "src": "iwb"}
+{"w": "kosher", "pos": "adjective", "d": ["Prepared according to Jewish dietary law.", "Legitimate or proper."], "src": "iwb"}
+{"w": "kosmos", "pos": "noun", "d": ["The universe considered as an orderly whole."], "src": "iwb"}
+{"w": "kotow", "pos": "verb", "d": ["To kneel and touch the forehead to the ground in deep respect; to kowtow."], "src": "iwb"}
+{"w": "koulan", "pos": "noun", "d": ["The wild ass of central Asia; the kulan."], "src": "iwb"}
+{"w": "koumiss", "pos": "noun", "d": ["Fermented mare's milk, a drink of central Asia."], "src": "iwb"}
+{"w": "kousso", "pos": "noun", "d": ["An African tree whose flowers are used as a medicine against tapeworm."], "src": "iwb"}
+{"w": "kowtow", "pos": "verb", "d": ["To bow deeply in servile respect; to kotow."], "src": "iwb"}
+{"w": "kra", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "krait", "pos": "noun", "d": ["A highly venomous snake of Asia."], "src": "iwb"}
+{"w": "krakowiak", "pos": "noun", "d": ["A lively Polish dance; also its music."], "src": "iwb"}
+{"w": "krameria", "pos": "noun", "d": ["A genus of shrubs yielding rhatany root, used as an astringent."], "src": "iwb"}
+{"w": "krameric", "pos": "adjective", "d": ["Pertaining to or obtained from krameria."], "src": "iwb"}
+{"w": "krang", "pos": "noun", "d": ["The carcass of a whale after the blubber is removed."], "src": "iwb"}
+{"w": "kranging hook", "pos": "noun", "d": ["A hook used in cutting up whales."], "src": "iwb"}
+{"w": "kreatic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kreatin", "pos": "noun", "d": ["A nitrogenous substance found in muscle; creatine."], "src": "iwb"}
+{"w": "kreatinin", "pos": "noun", "d": ["A waste product of muscle metabolism; creatinine."], "src": "iwb"}
+{"w": "kreel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kremlin", "pos": "noun", "d": ["A citadel or fortress in a Russian city; especially the government center in Moscow."], "src": "iwb"}
+{"w": "krems", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kreng", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kreosote", "pos": "noun", "d": ["An oily wood preservative distilled from tar; creosote."], "src": "iwb"}
+{"w": "kreutzer", "pos": "noun", "d": ["A small former German and Austrian copper coin."], "src": "iwb"}
+{"w": "kriegsspiel", "pos": "noun", "d": ["A war game in which military operations are planned on maps."], "src": "iwb"}
+{"w": "kris", "pos": "noun", "d": ["A Malay dagger with a wavy blade."], "src": "iwb"}
+{"w": "krishna", "pos": "noun", "d": ["A major Hindu deity, the eighth avatar of Vishnu."], "src": "iwb"}
+{"w": "kritarchy", "pos": "noun", "d": ["Government by judges."], "src": "iwb"}
+{"w": "krokidolite", "pos": "noun", "d": ["A blue fibrous mineral; a form of asbestos."], "src": "iwb"}
+{"w": "krone", "pos": "noun", "d": ["A Scandinavian monetary unit; the crown."], "src": "iwb"}
+{"w": "krooman", "pos": "noun", "d": ["A member of the Kru people of West Africa."], "src": "iwb"}
+{"w": "kruller", "pos": "noun", "d": ["A twisted doughnut-like cake; a cruller."], "src": "iwb"}
+{"w": "krumhorn", "pos": "noun", "d": ["A curved medieval wind instrument."], "src": "iwb"}
+{"w": "krummhorn", "pos": "noun", "d": ["A curved woodwind instrument of the Renaissance."], "src": "iwb"}
+{"w": "krupp gun", "pos": "noun", "d": ["A breech-loading cannon made by the Krupp works."], "src": "iwb"}
+{"w": "krupp process", "pos": "noun", "d": ["A process for making steel developed by the Krupp firm."], "src": "iwb"}
+{"w": "kruppize", "pos": "verb", "d": ["To treat by the Krupp process."], "src": "iwb"}
+{"w": "kryolite", "pos": "noun", "d": ["A mineral used in making aluminum; cryolite."], "src": "iwb"}
+{"w": "krypton", "pos": "noun", "d": ["A colorless inert gas used in lamps and lasers."], "src": "iwb"}
+{"w": "ksar", "pos": "noun", "d": ["A fortified village in North Africa."], "src": "iwb"}
+{"w": "kshatriya", "pos": "noun", "d": ["A member of the warrior caste in Hindu society."], "src": "iwb"}
+{"w": "kshatruya", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kuda", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kudos", "pos": "noun", "d": ["Praise or glory for an achievement."], "src": "iwb"}
+{"w": "kudu", "pos": "noun", "d": ["A large African antelope with spiral horns."], "src": "iwb"}
+{"w": "kufic", "pos": "adjective", "d": ["Relating to an early angular Arabic script."], "src": "iwb"}
+{"w": "kukang", "pos": "noun", "d": ["The slow loris of southeastern Asia."], "src": "iwb"}
+{"w": "kuklux", "pos": "noun", "d": ["The Ku Klux Klan."], "src": "iwb"}
+{"w": "kulan", "pos": "noun", "d": ["The wild ass of central Asia."], "src": "iwb"}
+{"w": "kulturkampf", "pos": "noun", "d": ["A conflict between cultures; especially Bismarck's campaign against the Catholic Church."], "src": "iwb"}
+{"w": "kumish", "pos": "noun", "d": ["Fermented mare's milk; koumiss."], "src": "iwb"}
+{"w": "kumiss", "pos": "noun", "d": ["Fermented mare's milk, a drink of central Asia."], "src": "iwb"}
+{"w": "kummel", "pos": "noun", "d": ["A caraway-flavored liqueur."], "src": "iwb"}
+{"w": "kumquat", "pos": "noun", "d": ["A small oval citrus fruit with an edible sweet rind."], "src": "iwb"}
+{"w": "kupfernickel", "pos": "noun", "d": ["A nickel arsenide mineral; also, a copper-nickel alloy."], "src": "iwb"}
+{"w": "kurd", "pos": "noun", "d": ["A member of the Kurdish people of the Middle East."], "src": "iwb"}
+{"w": "kurilian", "pos": "adjective", "d": ["Relating to the Kuril Islands."], "src": "iwb"}
+{"w": "kuro-siwo", "pos": "noun", "d": ["The warm Pacific current off Japan; the Kuroshio."], "src": "iwb"}
+{"w": "kursaal", "pos": "noun", "d": ["A public hall or building at a German health resort."], "src": "iwb"}
+{"w": "kusimanse", "pos": "noun", "d": ["A small African mongoose-like mammal."], "src": "iwb"}
+{"w": "kuskus", "pos": "noun", "d": ["A North African dish of steamed semolina; couscous.", "A tree-dwelling marsupial; the cuscus."], "src": "iwb"}
+{"w": "kussier", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kutauss", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kutch", "pos": "noun", "d": ["Catechu; an astringent extract from acacia."], "src": "iwb"}
+{"w": "kyaboca wood", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kyack", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kyanite", "pos": "noun", "d": ["A blue-bladed mineral used as a gemstone and refractory."], "src": "iwb"}
+{"w": "kyanize", "pos": "verb", "d": ["To preserve wood by treatment with corrosive sublimate."], "src": "iwb"}
+{"w": "kyanol", "pos": "noun", "d": ["An old name for aniline, a colorless oily liquid."], "src": "iwb"}
+{"w": "kyanophyll", "pos": "noun", "d": ["A blue pigment in plants; a form of chlorophyll."], "src": "iwb"}
+{"w": "kyar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kyaw", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kyd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kydde", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kyke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kyley", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kyloes", "pos": "noun", "d": ["Cattle of the Hebrides; Highland cattle."], "src": "iwb"}
+{"w": "kymnel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kymograph", "pos": "noun", "d": ["An instrument for recording motion or pressure variations."], "src": "iwb"}
+{"w": "kymric", "pos": "adjective", "d": ["Welsh; relating to the Cymry."], "src": "iwb"}
+{"w": "kymry", "pos": "noun", "d": ["The Welsh people."], "src": "iwb"}
+{"w": "kynrede", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kynurenic", "pos": "adjective", "d": ["Relating to kynurenic acid, a compound in tryptophan metabolism."], "src": "iwb"}
+{"w": "kyrie", "pos": "noun", "d": ["A short prayer beginning 'Kyrie eleison' in Christian liturgy."], "src": "iwb"}
+{"w": "kyrie eleison", "pos": "phrase", "d": ["Lord, have mercy; a liturgical petition."], "src": "iwb"}
+{"w": "kyrielle", "pos": "noun", "d": ["A French stanza form of rhyming couplets or quatrains."], "src": "iwb"}
+{"w": "kyriolexy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kyriological", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kyriology", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kythe", "pos": "verb", "d": ["To make known; to show."], "src": "iwb"}
+{"w": "kytomiton", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "kytoplasma", "pos": "noun", "d": ["The living substance of a cell outside the nucleus; cytoplasm."], "src": "iwb"}
+{"w": "la valliere", "pos": "noun", "d": ["A lace neck ornament; a lavaliere."], "src": "iwb"}
+{"w": "laager", "pos": "noun", "d": ["A defensive camp formed by a circle of wagons.", "To form wagons into a defensive circle."], "src": "iwb"}
+{"w": "laas", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "labadist", "pos": "noun", "d": ["A follower of Jean de Labadie, a 17th-century religious sect."], "src": "iwb"}
+{"w": "labdanum", "pos": "noun", "d": ["A fragrant resin from rockrose shrubs, used in perfumery."], "src": "iwb"}
+{"w": "labefaction", "pos": "noun", "d": ["A weakening or impairing."], "src": "iwb"}
+{"w": "labefy", "pos": "verb", "d": ["To weaken or impair."], "src": "iwb"}
+{"w": "labia", "pos": "noun", "d": ["The plural of labium."], "src": "iwb"}
+{"w": "labialization", "pos": "noun", "d": ["Pronunciation with rounded lips; the act of labializing."], "src": "iwb"}
+{"w": "labiate", "pos": "adjective", "d": ["Having lips or liplike parts; relating to the mint family."], "src": "iwb"}
+{"w": "labiatifloral", "pos": "adjective", "d": ["Having lipped flowers."], "src": "iwb"}
+{"w": "labidometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lability", "pos": "noun", "d": ["The quality of being labile; instability or changeableness."], "src": "iwb"}
+{"w": "labimeter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "labiodental", "pos": "adjective", "d": ["Formed with lip and teeth, as the sounds f and v."], "src": "iwb"}
+{"w": "labionasal", "pos": "adjective", "d": ["Relating to the lips and nose."], "src": "iwb"}
+{"w": "labioplasty", "pos": "noun", "d": ["Surgical repair or reshaping of the lips."], "src": "iwb"}
+{"w": "labiose", "pos": "adjective", "d": ["Having thick or prominent lips."], "src": "iwb"}
+{"w": "labipalp", "pos": "noun", "d": ["One of the lip feelers of an insect; a labial palp."], "src": "iwb"}
+{"w": "labipalpus", "pos": "noun", "d": ["The labial palp of an insect."], "src": "iwb"}
+{"w": "labium", "pos": "noun", "d": ["A lip or liplike part.", "One of the folds at the opening of the vulva."], "src": "iwb"}
+{"w": "labor day", "pos": "noun", "d": ["A holiday honoring workers, observed the first Monday of September in the United States."], "src": "iwb"}
+{"w": "labor-saving", "pos": "adjective", "d": ["Designed to reduce the amount of work needed."], "src": "iwb"}
+{"w": "laborious", "pos": "adjective", "d": ["Requiring much hard work; toilsome."], "src": "iwb"}
+{"w": "labrador", "pos": "noun", "d": ["A large retriever dog breed.", "A native of Labrador."], "src": "iwb"}
+{"w": "labradorite", "pos": "noun", "d": ["A feldspar mineral with an iridescent play of color."], "src": "iwb"}
+{"w": "labroid", "pos": "adjective", "d": ["Relating to or resembling the wrasse family of fishes."], "src": "iwb"}
+{"w": "labrus", "pos": "noun", "d": ["A genus of wrasses; a typical wrasse."], "src": "iwb"}
+{"w": "laburnic", "pos": "adjective", "d": ["Pertaining to laburnum."], "src": "iwb"}
+{"w": "laburnine", "pos": "noun", "d": ["An alkaloid obtained from laburnum."], "src": "iwb"}
+{"w": "laburnum", "pos": "noun", "d": ["A flowering tree with hanging clusters of yellow blossoms."], "src": "iwb"}
+{"w": "labyrinth", "pos": "noun", "d": ["A maze of winding passages.", "The inner-ear structure governing balance."], "src": "iwb"}
+{"w": "labyrinthian", "pos": "adjective", "d": ["Like a labyrinth; intricate and winding."], "src": "iwb"}
+{"w": "labyrinthibranch", "pos": "noun", "d": ["A fish with labyrinth-like breathing organs."], "src": "iwb"}
+{"w": "labyrinthici", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "labyrinthiform", "pos": "adjective", "d": ["Shaped like a labyrinth."], "src": "iwb"}
+{"w": "labyrinthine", "pos": "adjective", "d": ["Like a labyrinth; mazelike and intricate."], "src": "iwb"}
+{"w": "labyrinthodon", "pos": "noun", "d": ["An extinct amphibian with labyrinth-folded teeth."], "src": "iwb"}
+{"w": "labyrinthodont", "pos": "adjective", "d": ["Having teeth with labyrinth-like folds."], "src": "iwb"}
+{"w": "labyrinthodonta", "pos": "noun", "d": ["An extinct group of amphibians with folded teeth."], "src": "iwb"}
+{"w": "lac", "pos": "noun", "d": ["A resin secreted by lac insects, used in varnish and shellac."], "src": "iwb"}
+{"w": "laccic", "pos": "adjective", "d": ["Pertaining to lac."], "src": "iwb"}
+{"w": "laccin", "pos": "noun", "d": ["A coloring substance obtained from lac."], "src": "iwb"}
+{"w": "laccolite", "pos": "noun", "d": ["A lens-shaped igneous intrusion; a laccolith."], "src": "iwb"}
+{"w": "laccolith", "pos": "noun", "d": ["A lens-shaped mass of igneous rock intruded between strata."], "src": "iwb"}
+{"w": "lace-bark", "pos": "noun", "d": ["A tree whose inner bark forms a lacelike fabric; also the fabric."], "src": "iwb"}
+{"w": "lace-winged", "pos": "adjective", "d": ["Having delicate lacelike wings, as the lacewing fly."], "src": "iwb"}
+{"w": "lacedaemonian", "pos": "adjective", "d": ["Spartan; relating to ancient Sparta."], "src": "iwb"}
+{"w": "lacerable", "pos": "adjective", "d": ["Capable of being torn."], "src": "iwb"}
+{"w": "lacert", "pos": "noun", "d": ["A lizard."], "src": "iwb"}
+{"w": "lacerta", "pos": "noun", "d": ["A genus of lizards.", "A northern constellation, the Lizard."], "src": "iwb"}
+{"w": "lacertian", "pos": "adjective", "d": ["Relating to lizards."], "src": "iwb"}
+{"w": "lacertilia", "pos": "noun", "d": ["The suborder of reptiles comprising the lizards."], "src": "iwb"}
+{"w": "lacertilian", "pos": "adjective", "d": ["Relating to the Lacertilia; lizardlike."], "src": "iwb"}
+{"w": "lacertiloid", "pos": "adjective", "d": ["Resembling a lizard."], "src": "iwb"}
+{"w": "lacertine", "pos": "adjective", "d": ["Lizardlike; relating to lizards."], "src": "iwb"}
+{"w": "lacertus", "pos": "noun", "d": ["A fibrous band or cord in anatomy."], "src": "iwb"}
+{"w": "lache", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lachrymable", "pos": "adjective", "d": ["Capable of weeping; tearful."], "src": "iwb"}
+{"w": "lachrymae christi", "pos": "noun", "d": ["A wine of the Vesuvius region; literally, tears of Christ."], "src": "iwb"}
+{"w": "lachrymal", "pos": "adjective", "d": ["Relating to tears; tear-producing."], "src": "iwb"}
+{"w": "lachrymary", "pos": "noun", "d": ["A small ancient vessel for holding tears; a lachrymatory."], "src": "iwb"}
+{"w": "lachrymate", "pos": "verb", "d": ["To weep."], "src": "iwb"}
+{"w": "lachrymation", "pos": "noun", "d": ["The act of weeping; secretion of tears."], "src": "iwb"}
+{"w": "lachrymatory", "pos": "noun", "d": ["A vessel for tears.", "Tear gas."], "src": "iwb"}
+{"w": "lachrymiform", "pos": "adjective", "d": ["Shaped like a tear."], "src": "iwb"}
+{"w": "lachrymose", "pos": "adjective", "d": ["Given to weeping; tearful."], "src": "iwb"}
+{"w": "laciniate", "pos": "adjective", "d": ["Cut into narrow pointed lobes; fringed."], "src": "iwb"}
+{"w": "laciniolate", "pos": "adjective", "d": ["Minutely laciniate."], "src": "iwb"}
+{"w": "lacinula", "pos": "noun", "d": ["A small lacinia; a little fringe or flap."], "src": "iwb"}
+{"w": "lackadaisical", "pos": "adjective", "d": ["Lacking energy or enthusiasm; listless."], "src": "iwb"}
+{"w": "lackadaisy", "pos": "interjection", "d": ["An expression of dismay or regret; alas."], "src": "iwb"}
+{"w": "lackaday", "pos": "interjection", "d": ["An exclamation of sorrow; alas."], "src": "iwb"}
+{"w": "laconian", "pos": "adjective", "d": ["Spartan; laconic."], "src": "iwb"}
+{"w": "laconic", "pos": "adjective", "d": ["Using few words; tersely brief."], "src": "iwb"}
+{"w": "laconism", "pos": "noun", "d": ["Terseness of speech; a brief expression."], "src": "iwb"}
+{"w": "laconize", "pos": "verb", "d": ["To speak tersely, like a Spartan."], "src": "iwb"}
+{"w": "lacquer", "pos": "noun", "d": ["A glossy varnish or coating.", "To coat with lacquer."], "src": "iwb"}
+{"w": "lacrimoso", "pos": "adjective", "d": ["Played in a tearful, mournful style."], "src": "iwb"}
+{"w": "lacrosse", "pos": "noun", "d": ["A team game played with long-handled rackets and a ball."], "src": "iwb"}
+{"w": "lacrymal", "pos": "adjective", "d": ["Relating to tears; lachrymal."], "src": "iwb"}
+{"w": "lacrymary", "pos": "noun", "d": ["A vessel for tears; a lachrymatory."], "src": "iwb"}
+{"w": "lacrymose", "pos": "adjective", "d": ["Tearful; lachrymose."], "src": "iwb"}
+{"w": "lacrytory", "pos": "noun", "d": ["A vessel for tears; a lachrymatory."], "src": "iwb"}
+{"w": "lactage", "pos": "noun", "d": ["The secretion of milk; lactation."], "src": "iwb"}
+{"w": "lactam", "pos": "noun", "d": ["A cyclic amide; a compound formed from an amino acid."], "src": "iwb"}
+{"w": "lactarene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lactary", "pos": "adjective", "d": ["Relating to milk; milky."], "src": "iwb"}
+{"w": "lactate", "pos": "verb", "d": ["To secrete milk."], "src": "iwb"}
+{"w": "lactation", "pos": "noun", "d": ["The secretion of milk by the mammary glands."], "src": "iwb"}
+{"w": "lactean", "pos": "adjective", "d": ["Milky; relating to milk."], "src": "iwb"}
+{"w": "lacteous", "pos": "adjective", "d": ["Milky; resembling milk."], "src": "iwb"}
+{"w": "lactescence", "pos": "noun", "d": ["Milkiness; a milky appearance."], "src": "iwb"}
+{"w": "lactescent", "pos": "adjective", "d": ["Becoming milky; yielding a milky juice."], "src": "iwb"}
+{"w": "lactiferous", "pos": "adjective", "d": ["Producing or conveying milk."], "src": "iwb"}
+{"w": "lactific", "pos": "adjective", "d": ["Producing milk."], "src": "iwb"}
+{"w": "lactifuge", "pos": "adjective", "d": ["Checking the secretion of milk."], "src": "iwb"}
+{"w": "lactim", "pos": "noun", "d": ["A compound isomeric with a lactam."], "src": "iwb"}
+{"w": "lactoabumin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lactobutyrometer", "pos": "noun", "d": ["An instrument for measuring butterfat in milk."], "src": "iwb"}
+{"w": "lactodensimeter", "pos": "noun", "d": ["An instrument for measuring the density of milk."], "src": "iwb"}
+{"w": "lactometer", "pos": "noun", "d": ["An instrument for testing the purity of milk."], "src": "iwb"}
+{"w": "lactoprotein", "pos": "noun", "d": ["A protein found in milk."], "src": "iwb"}
+{"w": "lactoscope", "pos": "noun", "d": ["An instrument for testing the opacity of milk."], "src": "iwb"}
+{"w": "lactuca", "pos": "noun", "d": ["The lettuce genus."], "src": "iwb"}
+{"w": "lactucarium", "pos": "noun", "d": ["A milky juice from wild lettuce, used as a mild sedative."], "src": "iwb"}
+{"w": "lactucic", "pos": "adjective", "d": ["Pertaining to lactucarium or lettuce."], "src": "iwb"}
+{"w": "lactucin", "pos": "noun", "d": ["The bitter principle of lactucarium."], "src": "iwb"}
+{"w": "lactucone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lacturamic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lactyl", "pos": "noun", "d": ["A chemical radical derived from lactic acid."], "src": "iwb"}
+{"w": "lacuna", "pos": "noun", "d": ["A gap or blank space, as in a manuscript.", "A small cavity in bone or tissue."], "src": "iwb"}
+{"w": "lacunal", "pos": "adjective", "d": ["Relating to a lacuna."], "src": "iwb"}
+{"w": "lacunar", "pos": "noun", "d": ["A ceiling with sunken panels."], "src": "iwb"}
+{"w": "lacune", "pos": "noun", "d": ["A lacuna; a gap or hollow."], "src": "iwb"}
+{"w": "lacunose", "pos": "adjective", "d": ["Full of gaps or hollows."], "src": "iwb"}
+{"w": "lacunous", "pos": "adjective", "d": ["Having lacunae; full of hollows."], "src": "iwb"}
+{"w": "lacustral", "pos": "adjective", "d": ["Relating to lakes."], "src": "iwb"}
+{"w": "lacustrine", "pos": "adjective", "d": ["Relating to or living in lakes."], "src": "iwb"}
+{"w": "lad", "pos": "noun", "d": ["A boy or young man."], "src": "iwb"}
+{"w": "ladanum", "pos": "noun", "d": ["A fragrant resin from rockrose shrubs; labdanum."], "src": "iwb"}
+{"w": "ladde", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lade", "pos": "verb", "d": ["To load or put cargo aboard.", "To draw water; to bail."], "src": "iwb"}
+{"w": "ladin", "pos": "noun", "d": ["A Romance language of the Dolomites."], "src": "iwb"}
+{"w": "ladino", "pos": "noun", "d": ["The Spanish dialect of Sephardic Jews; Judeo-Spanish.", "A mestizo in Central America."], "src": "iwb"}
+{"w": "ladle", "pos": "noun", "d": ["A deep-bowled spoon for serving liquids.", "To serve with a ladle."], "src": "iwb"}
+{"w": "ladrone", "pos": "noun", "d": ["A thief or robber."], "src": "iwb"}
+{"w": "lady day", "pos": "noun", "d": ["March 25, the feast of the Annunciation."], "src": "iwb"}
+{"w": "lady-killer", "pos": "noun", "d": ["A man who charms or captivates women."], "src": "iwb"}
+{"w": "lady-killing", "pos": "adjective", "d": ["Captivating to women."], "src": "iwb"}
+{"w": "laelaps", "pos": "noun", "d": ["A swift hunting dog of Greek myth.", "A genus of mites."], "src": "iwb"}
+{"w": "laemmergeyer", "pos": "noun", "d": ["The bearded vulture; the lammergeier."], "src": "iwb"}
+{"w": "laemodipod", "pos": "noun", "d": ["A small crustacean of the Laemodipoda."], "src": "iwb"}
+{"w": "laemodipoda", "pos": "noun", "d": ["An order of small amphipod crustaceans."], "src": "iwb"}
+{"w": "laetere sunday", "pos": "noun", "d": ["The fourth Sunday in Lent."], "src": "iwb"}
+{"w": "laevigate", "pos": "verb", "d": ["To make smooth; to levigate."], "src": "iwb"}
+{"w": "laevo-", "pos": "prefix", "d": ["A prefix meaning 'left' or 'to the left'."], "src": "iwb"}
+{"w": "laevorotatory", "pos": "adjective", "d": ["Turning polarized light to the left; levorotatory."], "src": "iwb"}
+{"w": "laevulose", "pos": "noun", "d": ["Fruit sugar; fructose."], "src": "iwb"}
+{"w": "laft", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lafte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lag", "pos": "verb", "d": ["To fall behind; to move too slowly."], "src": "iwb"}
+{"w": "lagan", "pos": "noun", "d": ["Goods cast overboard but buoyed for recovery."], "src": "iwb"}
+{"w": "lagarto", "pos": "noun", "d": ["A lizard or alligator."], "src": "iwb"}
+{"w": "lagena", "pos": "noun", "d": ["A flask-shaped vessel.", "A part of the inner ear."], "src": "iwb"}
+{"w": "lagenian", "pos": "adjective", "d": ["Relating to a lagena."], "src": "iwb"}
+{"w": "lageniform", "pos": "adjective", "d": ["Flask-shaped."], "src": "iwb"}
+{"w": "lager beer", "pos": "noun", "d": ["Beer brewed by bottom fermentation and aged."], "src": "iwb"}
+{"w": "lager wine", "pos": "noun", "d": ["Wine that has settled on its lees."], "src": "iwb"}
+{"w": "lagniappe", "pos": "noun", "d": ["A small gift given with a purchase."], "src": "iwb"}
+{"w": "lagomorph", "pos": "noun", "d": ["A mammal of the order Lagomorpha, as a rabbit or hare."], "src": "iwb"}
+{"w": "lagomorpha", "pos": "noun", "d": ["The order of mammals comprising rabbits, hares, and pikas."], "src": "iwb"}
+{"w": "lagophthalmos", "pos": "noun", "d": ["Inability to fully close the eyes."], "src": "iwb"}
+{"w": "lagopous", "pos": "adjective", "d": ["Having feathered feet, like a ptarmigan."], "src": "iwb"}
+{"w": "lagune", "pos": "noun", "d": ["A lagoon."], "src": "iwb"}
+{"w": "laic", "pos": "adjective", "d": ["Relating to the laity; not clerical."], "src": "iwb"}
+{"w": "lain", "pos": "verb", "d": ["Past participle of lie."], "src": "iwb"}
+{"w": "lair", "pos": "noun", "d": ["The den of a wild animal.", "A hiding place."], "src": "iwb"}
+{"w": "laird", "pos": "noun", "d": ["A Scottish landed proprietor."], "src": "iwb"}
+{"w": "laism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laissez faire", "pos": "phrase", "d": ["A policy of noninterference, especially in economics."], "src": "iwb"}
+{"w": "laity", "pos": "noun", "d": ["The people of a church who are not clergy."], "src": "iwb"}
+{"w": "lakao", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lake-dweller", "pos": "noun", "d": ["One who lives by a lake.", "A member of a prehistoric lake-dwelling people."], "src": "iwb"}
+{"w": "lakh", "pos": "noun", "d": ["One hundred thousand, in Indian reckoning."], "src": "iwb"}
+{"w": "lakin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lakke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laky", "pos": "adjective", "d": ["Relating to lakes."], "src": "iwb"}
+{"w": "lallation", "pos": "noun", "d": ["Babbling speech; the lalling of infants."], "src": "iwb"}
+{"w": "lalo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lam", "pos": "verb", "d": ["To beat or strike.", "To flee hastily."], "src": "iwb"}
+{"w": "lama", "pos": "noun", "d": ["A Buddhist monk of Tibet or Mongolia."], "src": "iwb"}
+{"w": "lamaite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lamantin", "pos": "noun", "d": ["The manatee."], "src": "iwb"}
+{"w": "lamarckian", "pos": "adjective", "d": ["Relating to Lamarck's theory of evolution."], "src": "iwb"}
+{"w": "lamarckism", "pos": "noun", "d": ["The theory that acquired traits can be inherited."], "src": "iwb"}
+{"w": "lamasery", "pos": "noun", "d": ["A monastery of lamas."], "src": "iwb"}
+{"w": "lambative", "pos": "adjective", "d": ["Licked up; taken by licking."], "src": "iwb"}
+{"w": "lambdacism", "pos": "noun", "d": ["Mispronunciation of the letter l."], "src": "iwb"}
+{"w": "lambdoid", "pos": "adjective", "d": ["Shaped like the Greek letter lambda."], "src": "iwb"}
+{"w": "lambert pine", "pos": "noun", "d": ["The sugar pine of western North America."], "src": "iwb"}
+{"w": "lamboys", "pos": "noun", "d": ["Skirts of steel plates on armor."], "src": "iwb"}
+{"w": "lamdoidal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lame", "pos": "adjective", "d": ["Crippled in a limb; unable to walk properly.", "Weak or unconvincing."], "src": "iwb"}
+{"w": "lamel", "pos": "noun", "d": ["A thin plate or scale."], "src": "iwb"}
+{"w": "lamella", "pos": "noun", "d": ["A thin plate, scale, or layer."], "src": "iwb"}
+{"w": "lamellibranch", "pos": "noun", "d": ["A bivalve mollusk."], "src": "iwb"}
+{"w": "lamellibranchia", "pos": "noun", "d": ["The class of bivalve mollusks."], "src": "iwb"}
+{"w": "lamellibranchiata", "pos": "noun", "d": ["The bivalve mollusks."], "src": "iwb"}
+{"w": "lamellibranchiate", "pos": "adjective", "d": ["Having lamellar gills; bivalve."], "src": "iwb"}
+{"w": "lamellicorn", "pos": "noun", "d": ["A beetle with lamellate antennae."], "src": "iwb"}
+{"w": "lamellicornia", "pos": "noun", "d": ["A group of beetles with plated antennae."], "src": "iwb"}
+{"w": "lamelliferous", "pos": "adjective", "d": ["Bearing lamellae."], "src": "iwb"}
+{"w": "lamelliform", "pos": "adjective", "d": ["Shaped like a lamella."], "src": "iwb"}
+{"w": "lamellirostral", "pos": "adjective", "d": ["Having a lamellate beak, as ducks."], "src": "iwb"}
+{"w": "lamellirostres", "pos": "noun", "d": ["Birds with lamellate bills, as ducks and geese."], "src": "iwb"}
+{"w": "lamentin", "pos": "noun", "d": ["The manatee."], "src": "iwb"}
+{"w": "lametta", "pos": "noun", "d": ["Tinsel; thin metallic strips for decoration."], "src": "iwb"}
+{"w": "lamia", "pos": "noun", "d": ["A mythical female monster.", "A genus of longhorn beetles."], "src": "iwb"}
+{"w": "lamina", "pos": "noun", "d": ["A thin plate or layer.", "The blade of a leaf."], "src": "iwb"}
+{"w": "laminal", "pos": "adjective", "d": ["Relating to a lamina."], "src": "iwb"}
+{"w": "laminar", "pos": "adjective", "d": ["Arranged in layers; composed of laminae."], "src": "iwb"}
+{"w": "laminaria", "pos": "noun", "d": ["A genus of large brown seaweeds; kelp."], "src": "iwb"}
+{"w": "laminarian", "pos": "adjective", "d": ["Relating to laminaria."], "src": "iwb"}
+{"w": "laminary", "pos": "adjective", "d": ["Relating to laminae; laminar."], "src": "iwb"}
+{"w": "laminate", "pos": "verb", "d": ["To form into layers; to cover with a thin layer."], "src": "iwb"}
+{"w": "laminiferous", "pos": "adjective", "d": ["Bearing or producing laminae."], "src": "iwb"}
+{"w": "laminiplantar", "pos": "adjective", "d": ["Having the tarsus covered with broad scales, as some birds."], "src": "iwb"}
+{"w": "laminitis", "pos": "noun", "d": ["Inflammation of the laminae of a horse's hoof."], "src": "iwb"}
+{"w": "lamm", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lammas", "pos": "noun", "d": ["August 1, a former harvest festival."], "src": "iwb"}
+{"w": "lammergeier", "pos": "noun", "d": ["The bearded vulture."], "src": "iwb"}
+{"w": "lammergeir", "pos": "noun", "d": ["The bearded vulture; a lammergeier."], "src": "iwb"}
+{"w": "lamnunguia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lamp-post", "pos": "noun", "d": ["A post supporting a street lamp."], "src": "iwb"}
+{"w": "lampadrome", "pos": "noun", "d": ["A runner in an ancient torch race; also the race itself."], "src": "iwb"}
+{"w": "lamper eel", "pos": "noun", "d": ["The lamprey eel."], "src": "iwb"}
+{"w": "lampoonry", "pos": "noun", "d": ["The act of lampooning; satirical writings."], "src": "iwb"}
+{"w": "lamprel", "pos": "noun", "d": ["A small lamprey."], "src": "iwb"}
+{"w": "lampron", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lampyrine", "pos": "adjective", "d": ["Relating to fireflies."], "src": "iwb"}
+{"w": "lampyris", "pos": "noun", "d": ["A genus of fireflies; the glowworm."], "src": "iwb"}
+{"w": "lanarkite", "pos": "noun", "d": ["A lead sulfate-carbonate mineral."], "src": "iwb"}
+{"w": "lanary", "pos": "adjective", "d": ["Relating to wool."], "src": "iwb"}
+{"w": "lanate", "pos": "adjective", "d": ["Woolly; covered with fine hair."], "src": "iwb"}
+{"w": "lancashire boiler", "pos": "noun", "d": ["A cylindrical steam boiler with two furnace tubes."], "src": "iwb"}
+{"w": "lancasterian", "pos": "adjective", "d": ["Relating to the Lancasterian monitorial system of schooling."], "src": "iwb"}
+{"w": "lance fish", "pos": "noun", "d": ["The sand lance; a slender burrowing fish."], "src": "iwb"}
+{"w": "lancegaye", "pos": "noun", "d": ["A light lance; a launcegay."], "src": "iwb"}
+{"w": "lanceolar", "pos": "adjective", "d": ["Lance-shaped; lanceolate."], "src": "iwb"}
+{"w": "lanceolate", "pos": "adjective", "d": ["Shaped like a lance head; narrow and tapering."], "src": "iwb"}
+{"w": "lancet", "pos": "noun", "d": ["A small sharp surgical knife.", "A narrow pointed window or arch."], "src": "iwb"}
+{"w": "lanch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lanciferous", "pos": "adjective", "d": ["Bearing a lance or spear."], "src": "iwb"}
+{"w": "lanciform", "pos": "adjective", "d": ["Lance-shaped."], "src": "iwb"}
+{"w": "lancinate", "pos": "verb", "d": ["To pierce or stab."], "src": "iwb"}
+{"w": "lancination", "pos": "noun", "d": ["A piercing; a sharp stabbing pain."], "src": "iwb"}
+{"w": "land league", "pos": "noun", "d": ["An Irish organization formed to reform land tenure."], "src": "iwb"}
+{"w": "land of steady habits", "pos": "noun", "d": ["A nickname for Connecticut."], "src": "iwb"}
+{"w": "land-poor", "pos": "adjective", "d": ["Owning much land but short of money."], "src": "iwb"}
+{"w": "landamman", "pos": "noun", "d": ["The chief magistrate of a Swiss canton."], "src": "iwb"}
+{"w": "landau", "pos": "noun", "d": ["A carriage with a folding top."], "src": "iwb"}
+{"w": "landdrost", "pos": "noun", "d": ["A Dutch or South African magistrate."], "src": "iwb"}
+{"w": "landgraviate", "pos": "noun", "d": ["The territory or office of a landgrave."], "src": "iwb"}
+{"w": "landgravine", "pos": "noun", "d": ["The wife of a landgrave."], "src": "iwb"}
+{"w": "landlordry", "pos": "noun", "d": ["The state or business of a landlord."], "src": "iwb"}
+{"w": "landlouper", "pos": "noun", "d": ["A vagrant; a vagabond."], "src": "iwb"}
+{"w": "landowning", "pos": "adjective", "d": ["Owning land."], "src": "iwb"}
+{"w": "landscapist", "pos": "noun", "d": ["A painter of landscapes."], "src": "iwb"}
+{"w": "landsman", "pos": "noun", "d": ["One who lives on land.", "A fellow countryman."], "src": "iwb"}
+{"w": "landsthing", "pos": "noun", "d": ["A former Norwegian legislative assembly."], "src": "iwb"}
+{"w": "landsturm", "pos": "noun", "d": ["A German militia of older reserves."], "src": "iwb"}
+{"w": "landtrost", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "landwehr", "pos": "noun", "d": ["A German militia or reserve army."], "src": "iwb"}
+{"w": "langarey", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "langrel", "pos": "noun", "d": ["Scrap iron used as cannon shot; langrage."], "src": "iwb"}
+{"w": "langteraloo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "langued", "pos": "adjective", "d": ["Having the tongue visible, as in heraldry."], "src": "iwb"}
+{"w": "languente", "pos": "adjective", "d": ["Languishing; played in a drooping style."], "src": "iwb"}
+{"w": "languet", "pos": "noun", "d": ["A small tongue-shaped part; a languette."], "src": "iwb"}
+{"w": "languid", "pos": "adjective", "d": ["Lacking energy; drooping or listless."], "src": "iwb"}
+{"w": "languish", "pos": "verb", "d": ["To lose strength or spirit; to pine away."], "src": "iwb"}
+{"w": "languor", "pos": "noun", "d": ["Lack of energy; dreamy listlessness."], "src": "iwb"}
+{"w": "langya", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laniard", "pos": "noun", "d": ["A lanyard; a cord for carrying something."], "src": "iwb"}
+{"w": "laniariform", "pos": "adjective", "d": ["Shaped like a laniary tooth."], "src": "iwb"}
+{"w": "laniary", "pos": "adjective", "d": ["Canine; adapted for tearing."], "src": "iwb"}
+{"w": "laniate", "pos": "verb", "d": ["To tear in pieces."], "src": "iwb"}
+{"w": "laniation", "pos": "noun", "d": ["A tearing in pieces."], "src": "iwb"}
+{"w": "lanier", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laniferous", "pos": "adjective", "d": ["Bearing wool."], "src": "iwb"}
+{"w": "lanifical", "pos": "adjective", "d": ["Producing wool."], "src": "iwb"}
+{"w": "lanifice", "pos": "noun", "d": ["The making of woolen goods."], "src": "iwb"}
+{"w": "lanigerous", "pos": "adjective", "d": ["Wool-bearing; fleecy."], "src": "iwb"}
+{"w": "lanioid", "pos": "adjective", "d": ["Relating to the shrike family."], "src": "iwb"}
+{"w": "lank", "pos": "adjective", "d": ["Thin and tall.", "Straight and limp, as hair."], "src": "iwb"}
+{"w": "lankiness", "pos": "noun", "d": ["The quality of being lanky."], "src": "iwb"}
+{"w": "lanky", "pos": "adjective", "d": ["Tall, thin, and ungainly."], "src": "iwb"}
+{"w": "lanner", "pos": "noun", "d": ["A falcon of southern Europe and Africa."], "src": "iwb"}
+{"w": "lanneret", "pos": "noun", "d": ["The male lanner falcon."], "src": "iwb"}
+{"w": "lanolin", "pos": "noun", "d": ["A fatty substance from sheep's wool, used in ointments."], "src": "iwb"}
+{"w": "lanseh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lansquenet", "pos": "noun", "d": ["A German mercenary foot soldier of the 1500s."], "src": "iwb"}
+{"w": "lant", "pos": "noun", "d": ["A game at cards.", "Urine used in tanning."], "src": "iwb"}
+{"w": "lantanium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lantanum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lantanuric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lanterloo", "pos": "noun", "d": ["An old card game; also its winning combination."], "src": "iwb"}
+{"w": "lantern-jawed", "pos": "adjective", "d": ["Having long thin jaws."], "src": "iwb"}
+{"w": "lanthanite", "pos": "noun", "d": ["A rare-earth carbonate mineral."], "src": "iwb"}
+{"w": "lanthanum", "pos": "noun", "d": ["A soft silvery chemical element; a rare earth."], "src": "iwb"}
+{"w": "lanthopine", "pos": "noun", "d": ["An alkaloid found in opium."], "src": "iwb"}
+{"w": "lanuginose", "pos": "adjective", "d": ["Covered with fine down; lanuginous."], "src": "iwb"}
+{"w": "lanuginous", "pos": "adjective", "d": ["Downy; covered with soft fine hair."], "src": "iwb"}
+{"w": "lanugo", "pos": "noun", "d": ["Fine downy hair, as on a newborn."], "src": "iwb"}
+{"w": "lanyard", "pos": "noun", "d": ["A cord for carrying or securing something."], "src": "iwb"}
+{"w": "lanyer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laocooen", "pos": "noun", "d": ["Laocoon, the Trojan priest of Greek legend."], "src": "iwb"}
+{"w": "laocoon", "pos": "noun", "d": ["The Trojan priest strangled by sea serpents."], "src": "iwb"}
+{"w": "laodicean", "pos": "adjective", "d": ["Lukewarm in religion or principles."], "src": "iwb"}
+{"w": "lap-jointed", "pos": "adjective", "d": ["Joined by overlapping."], "src": "iwb"}
+{"w": "lap-welded", "pos": "adjective", "d": ["Welded with overlapping edges."], "src": "iwb"}
+{"w": "laparocele", "pos": "noun", "d": ["A hernia through the abdominal wall."], "src": "iwb"}
+{"w": "laparotomy", "pos": "noun", "d": ["Surgical incision into the abdomen."], "src": "iwb"}
+{"w": "lapel", "pos": "noun", "d": ["The folded flap on the front of a coat."], "src": "iwb"}
+{"w": "lapicide", "pos": "noun", "d": ["A stonecutter."], "src": "iwb"}
+{"w": "lapidarian", "pos": "adjective", "d": ["Relating to stone inscriptions."], "src": "iwb"}
+{"w": "lapidary", "pos": "noun", "d": ["One who cuts and polishes gems.", "Relating to gems."], "src": "iwb"}
+{"w": "lapidate", "pos": "verb", "d": ["To stone; to pelt with stones."], "src": "iwb"}
+{"w": "lapidation", "pos": "noun", "d": ["The act of stoning."], "src": "iwb"}
+{"w": "lapideous", "pos": "adjective", "d": ["Stony; of the nature of stone."], "src": "iwb"}
+{"w": "lapidescence", "pos": "noun", "d": ["The process of turning to stone."], "src": "iwb"}
+{"w": "lapidescent", "pos": "adjective", "d": ["Becoming stone; petrifying."], "src": "iwb"}
+{"w": "lapidific", "pos": "adjective", "d": ["Forming stone."], "src": "iwb"}
+{"w": "lapidify", "pos": "verb", "d": ["To turn into stone."], "src": "iwb"}
+{"w": "lapidist", "pos": "noun", "d": ["A lapidary; a gem cutter."], "src": "iwb"}
+{"w": "lapilli", "pos": "noun", "d": ["Small volcanic stones ejected in eruptions."], "src": "iwb"}
+{"w": "lapis", "pos": "noun", "d": ["A stone; especially lapis lazuli."], "src": "iwb"}
+{"w": "lapis lazuli", "pos": "noun", "d": ["A deep-blue semiprecious stone."], "src": "iwb"}
+{"w": "laplandish", "pos": "adjective", "d": ["Relating to Lapland."], "src": "iwb"}
+{"w": "lapp", "pos": "noun", "d": ["A member of the Sami people of northern Scandinavia.", "To lap; to lick up."], "src": "iwb"}
+{"w": "lappaceous", "pos": "adjective", "d": ["Bearing burs; like burdock."], "src": "iwb"}
+{"w": "lapponian", "pos": "adjective", "d": ["Relating to Lapland."], "src": "iwb"}
+{"w": "lapponic", "pos": "adjective", "d": ["Relating to Lapland; Lapponian."], "src": "iwb"}
+{"w": "lapse", "pos": "noun", "d": ["A slip or slight error.", "The passing of time.", "To slip or fall gradually."], "src": "iwb"}
+{"w": "lapsible", "pos": "adjective", "d": ["Capable of lapsing; liable to slip away."], "src": "iwb"}
+{"w": "laputan", "pos": "adjective", "d": ["Visionary and impractical, like the Laputans of Gulliver's Travels."], "src": "iwb"}
+{"w": "laquay", "pos": "noun", "d": ["A lackey; a footman."], "src": "iwb"}
+{"w": "laquear", "pos": "noun", "d": ["A coffered ceiling; a lacunar."], "src": "iwb"}
+{"w": "laqueary", "pos": "adjective", "d": ["Relating to a coffered ceiling."], "src": "iwb"}
+{"w": "lar", "pos": "noun", "d": ["A Roman household god; also, a gibbon of southeast Asia."], "src": "iwb"}
+{"w": "laramie group", "pos": "noun", "d": ["A series of Cretaceous rock strata in the American West."], "src": "iwb"}
+{"w": "larcener", "pos": "noun", "d": ["One who commits larceny."], "src": "iwb"}
+{"w": "larcenist", "pos": "noun", "d": ["One who commits larceny."], "src": "iwb"}
+{"w": "larcenous", "pos": "adjective", "d": ["Guilty of larceny; thievish."], "src": "iwb"}
+{"w": "larceny", "pos": "noun", "d": ["The unlawful taking of another's property; theft."], "src": "iwb"}
+{"w": "larch", "pos": "noun", "d": ["A coniferous tree that sheds its needles."], "src": "iwb"}
+{"w": "lard", "pos": "noun", "d": ["Rendered pig fat used in cooking.", "To enrich with fat; to interlard."], "src": "iwb"}
+{"w": "lardacein", "pos": "noun", "d": ["A waxy protein deposited in diseased tissue; amyloid."], "src": "iwb"}
+{"w": "lardaceous", "pos": "adjective", "d": ["Resembling lard; fatty."], "src": "iwb"}
+{"w": "lardery", "pos": "noun", "d": ["A place for storing provisions; a pantry."], "src": "iwb"}
+{"w": "lardy", "pos": "adjective", "d": ["Resembling or containing lard; fat."], "src": "iwb"}
+{"w": "lare", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "large-acred", "pos": "adjective", "d": ["Owning large tracts of land."], "src": "iwb"}
+{"w": "large-handed", "pos": "adjective", "d": ["Having large hands; also, generous."], "src": "iwb"}
+{"w": "large-hearted", "pos": "adjective", "d": ["Generous and kind."], "src": "iwb"}
+{"w": "largess", "pos": "noun", "d": ["Generous giving; liberality."], "src": "iwb"}
+{"w": "largifical", "pos": "adjective", "d": ["Making large; enlarging."], "src": "iwb"}
+{"w": "largifluous", "pos": "adjective", "d": ["Flowing abundantly."], "src": "iwb"}
+{"w": "largiloquent", "pos": "adjective", "d": ["Speaking grandly; bombastic."], "src": "iwb"}
+{"w": "largish", "pos": "adjective", "d": ["Somewhat large."], "src": "iwb"}
+{"w": "largition", "pos": "noun", "d": ["The act of giving generously; largess."], "src": "iwb"}
+{"w": "largo", "pos": "adjective", "d": ["Played very slowly and broadly."], "src": "iwb"}
+{"w": "lariat", "pos": "noun", "d": ["A lasso; a long rope for catching cattle."], "src": "iwb"}
+{"w": "larine", "pos": "adjective", "d": ["Relating to the gull family."], "src": "iwb"}
+{"w": "larixinic", "pos": "adjective", "d": ["Pertaining to larch; obtained from larch bark."], "src": "iwb"}
+{"w": "lark", "pos": "noun", "d": ["A small songbird known for singing in flight.", "A merry adventure or prank."], "src": "iwb"}
+{"w": "lark-colored", "pos": "adjective", "d": ["Of the color of a lark; dull brownish gray."], "src": "iwb"}
+{"w": "larmier", "pos": "noun", "d": ["A dripstone; a molding that throws off rainwater."], "src": "iwb"}
+{"w": "laroid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "larrikin", "pos": "noun", "d": ["A rowdy young man; a hoodlum."], "src": "iwb"}
+{"w": "larrup", "pos": "verb", "d": ["To beat soundly; to thrash."], "src": "iwb"}
+{"w": "larum", "pos": "noun", "d": ["An alarm; a call to arms."], "src": "iwb"}
+{"w": "larva", "pos": "noun", "d": ["The immature wingless stage of an insect.", "A mask or ghost."], "src": "iwb"}
+{"w": "larval", "pos": "adjective", "d": ["Relating to a larva."], "src": "iwb"}
+{"w": "larvalia", "pos": "noun", "d": ["Masks; the larval stage collectively."], "src": "iwb"}
+{"w": "larvate", "pos": "adjective", "d": ["Masked; concealed."], "src": "iwb"}
+{"w": "larve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "larviform", "pos": "adjective", "d": ["Shaped like a larva."], "src": "iwb"}
+{"w": "larviparous", "pos": "adjective", "d": ["Producing larvae instead of eggs."], "src": "iwb"}
+{"w": "lary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laryngeal", "pos": "adjective", "d": ["Relating to the larynx."], "src": "iwb"}
+{"w": "laryngean", "pos": "adjective", "d": ["Relating to the larynx; laryngeal."], "src": "iwb"}
+{"w": "laryngectomy", "pos": "noun", "d": ["Surgical removal of the larynx."], "src": "iwb"}
+{"w": "laryngismus", "pos": "noun", "d": ["Spasm of the larynx."], "src": "iwb"}
+{"w": "laryngitis", "pos": "noun", "d": ["Inflammation of the larynx."], "src": "iwb"}
+{"w": "laryngograph", "pos": "noun", "d": ["An instrument for recording larynx movements."], "src": "iwb"}
+{"w": "laryngological", "pos": "adjective", "d": ["Relating to laryngology."], "src": "iwb"}
+{"w": "laryngologist", "pos": "noun", "d": ["A specialist in diseases of the larynx."], "src": "iwb"}
+{"w": "laryngology", "pos": "noun", "d": ["The study of the larynx and its diseases."], "src": "iwb"}
+{"w": "laryngophony", "pos": "noun", "d": ["Sound produced by the larynx."], "src": "iwb"}
+{"w": "laryngoscope", "pos": "noun", "d": ["An instrument for examining the larynx."], "src": "iwb"}
+{"w": "laryngoscopic", "pos": "adjective", "d": ["Relating to the laryngoscope."], "src": "iwb"}
+{"w": "laryngoscopist", "pos": "noun", "d": ["One skilled in using the laryngoscope."], "src": "iwb"}
+{"w": "laryngoscopy", "pos": "noun", "d": ["Examination of the larynx with a laryngoscope."], "src": "iwb"}
+{"w": "laryngotome", "pos": "noun", "d": ["An instrument for cutting into the larynx."], "src": "iwb"}
+{"w": "laryngotomy", "pos": "noun", "d": ["Surgical incision into the larynx."], "src": "iwb"}
+{"w": "laryngotracheal", "pos": "adjective", "d": ["Relating to the larynx and trachea."], "src": "iwb"}
+{"w": "laryngotracheotomy", "pos": "noun", "d": ["Surgical opening of the larynx and trachea."], "src": "iwb"}
+{"w": "larynx", "pos": "noun", "d": ["The organ of voice at the top of the windpipe."], "src": "iwb"}
+{"w": "lascious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lasciviency", "pos": "noun", "d": ["Lustfulness; lasciviousness."], "src": "iwb"}
+{"w": "lascivient", "pos": "adjective", "d": ["Lustful; lascivious."], "src": "iwb"}
+{"w": "lascivious", "pos": "adjective", "d": ["Lustful; lewd."], "src": "iwb"}
+{"w": "laserwort", "pos": "noun", "d": ["A plant of the parsley family yielding a gum resin."], "src": "iwb"}
+{"w": "lash", "pos": "noun", "d": ["A stroke with a whip.", "An eyelash.", "To strike with a whip."], "src": "iwb"}
+{"w": "lask", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lass", "pos": "noun", "d": ["A girl or young woman."], "src": "iwb"}
+{"w": "lasse", "pos": "interjection", "d": ["An exclamation of weariness; alas."], "src": "iwb"}
+{"w": "lassie", "pos": "noun", "d": ["A little girl; a lass."], "src": "iwb"}
+{"w": "lassitude", "pos": "noun", "d": ["Weariness; lack of energy."], "src": "iwb"}
+{"w": "lasso", "pos": "noun", "d": ["A looped rope for catching cattle; a lariat."], "src": "iwb"}
+{"w": "laste", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lastery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "latah", "pos": "noun", "d": ["A startle disorder marked by involuntary imitation."], "src": "iwb"}
+{"w": "latakia", "pos": "noun", "d": ["A strong aromatic tobacco from Syria."], "src": "iwb"}
+{"w": "latch", "pos": "noun", "d": ["A fastening for a door or gate.", "To fasten with a latch."], "src": "iwb"}
+{"w": "latchet", "pos": "noun", "d": ["The strap fastening a shoe; a latchet."], "src": "iwb"}
+{"w": "latency", "pos": "noun", "d": ["The state of being latent; delay before action."], "src": "iwb"}
+{"w": "laterifolious", "pos": "adjective", "d": ["Growing on the side of a leaf or stem."], "src": "iwb"}
+{"w": "lateritic", "pos": "adjective", "d": ["Relating to laterite."], "src": "iwb"}
+{"w": "lateritious", "pos": "adjective", "d": ["Brick-red; relating to laterite."], "src": "iwb"}
+{"w": "latescence", "pos": "noun", "d": ["The state of becoming hidden or latent."], "src": "iwb"}
+{"w": "lath", "pos": "noun", "d": ["A thin strip of wood used in plastering."], "src": "iwb"}
+{"w": "lath-shaped", "pos": "adjective", "d": ["Shaped like a lath; long and flat."], "src": "iwb"}
+{"w": "lathe", "pos": "noun", "d": ["A machine for shaping wood or metal by rotation."], "src": "iwb"}
+{"w": "lathy", "pos": "adjective", "d": ["Like a lath; long and thin."], "src": "iwb"}
+{"w": "latian", "pos": "adjective", "d": ["Relating to Latium; Latin."], "src": "iwb"}
+{"w": "latibulize", "pos": "verb", "d": ["To hide in a corner or lurking place."], "src": "iwb"}
+{"w": "latibulum", "pos": "noun", "d": ["A hiding place; a lurking hole."], "src": "iwb"}
+{"w": "laticiferous", "pos": "adjective", "d": ["Bearing latex; producing milky juice."], "src": "iwb"}
+{"w": "laticlave", "pos": "noun", "d": ["A broad purple stripe on a Roman senator's tunic."], "src": "iwb"}
+{"w": "laticostate", "pos": "adjective", "d": ["Having broad ribs."], "src": "iwb"}
+{"w": "latidentate", "pos": "adjective", "d": ["Broad-toothed."], "src": "iwb"}
+{"w": "latifoliate", "pos": "adjective", "d": ["Broad-leaved."], "src": "iwb"}
+{"w": "latifolious", "pos": "adjective", "d": ["Broad-leaved; latifoliate."], "src": "iwb"}
+{"w": "latigo", "pos": "noun", "d": ["A strap for tightening a saddle."], "src": "iwb"}
+{"w": "latigo halter", "pos": "noun", "d": ["A halter secured with a latigo strap."], "src": "iwb"}
+{"w": "latimer", "pos": "noun", "d": ["An interpreter."], "src": "iwb"}
+{"w": "latinitaster", "pos": "noun", "d": ["A smatterer in Latin."], "src": "iwb"}
+{"w": "latinization", "pos": "noun", "d": ["The act of making Latin in form or character."], "src": "iwb"}
+{"w": "latirostral", "pos": "adjective", "d": ["Broad-billed."], "src": "iwb"}
+{"w": "latirostres", "pos": "noun", "d": ["Broad-billed birds."], "src": "iwb"}
+{"w": "latirostrous", "pos": "adjective", "d": ["Broad-billed; latirostral."], "src": "iwb"}
+{"w": "latisternal", "pos": "adjective", "d": ["Broad-breasted."], "src": "iwb"}
+{"w": "latitancy", "pos": "noun", "d": ["The state of lying hidden; concealment."], "src": "iwb"}
+{"w": "latitant", "pos": "adjective", "d": ["Lying hidden; concealed."], "src": "iwb"}
+{"w": "latitat", "pos": "noun", "d": ["A writ summoning one who lies hidden."], "src": "iwb"}
+{"w": "latitudinal", "pos": "adjective", "d": ["Relating to latitude."], "src": "iwb"}
+{"w": "latitudinarian", "pos": "adjective", "d": ["Broad-minded; tolerant in religious views."], "src": "iwb"}
+{"w": "latitudinous", "pos": "adjective", "d": ["Having latitude; broad in scope."], "src": "iwb"}
+{"w": "laton", "pos": "noun", "d": ["A brass-like alloy; latten."], "src": "iwb"}
+{"w": "latoun", "pos": "noun", "d": ["A brass-like alloy; latten."], "src": "iwb"}
+{"w": "latreutical", "pos": "adjective", "d": ["Relating to hired service."], "src": "iwb"}
+{"w": "latria", "pos": "noun", "d": ["The highest worship, given to God alone."], "src": "iwb"}
+{"w": "latrociny", "pos": "noun", "d": ["Theft; robbery."], "src": "iwb"}
+{"w": "latter-day saint", "pos": "noun", "d": ["A member of the Church of Jesus Christ of Latter-day Saints."], "src": "iwb"}
+{"w": "latus rectum", "pos": "noun", "d": ["A chord of a conic section through the focus."], "src": "iwb"}
+{"w": "laud", "pos": "verb", "d": ["To praise."], "src": "iwb"}
+{"w": "laudanine", "pos": "noun", "d": ["An alkaloid found in opium."], "src": "iwb"}
+{"w": "laudanum", "pos": "noun", "d": ["A tincture of opium."], "src": "iwb"}
+{"w": "laudative", "pos": "adjective", "d": ["Expressing praise; laudatory."], "src": "iwb"}
+{"w": "laudator", "pos": "noun", "d": ["One who praises."], "src": "iwb"}
+{"w": "laudatory", "pos": "adjective", "d": ["Expressing praise."], "src": "iwb"}
+{"w": "laughter", "pos": "noun", "d": ["The sound of laughing."], "src": "iwb"}
+{"w": "laumontite", "pos": "noun", "d": ["A zeolite mineral."], "src": "iwb"}
+{"w": "launce", "pos": "noun", "d": ["A lance; also, the sand lance fish."], "src": "iwb"}
+{"w": "launcegaye", "pos": "noun", "d": ["A light lance."], "src": "iwb"}
+{"w": "laund", "pos": "noun", "d": ["A grassy clearing in a wood; a lawn."], "src": "iwb"}
+{"w": "laundress", "pos": "noun", "d": ["A woman who washes clothes."], "src": "iwb"}
+{"w": "lauraceous", "pos": "adjective", "d": ["Relating to the laurel family."], "src": "iwb"}
+{"w": "laurate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laureate", "pos": "noun", "d": ["One honored for achievement, as a poet laureate."], "src": "iwb"}
+{"w": "laureation", "pos": "noun", "d": ["The act of crowning with laurel; graduation."], "src": "iwb"}
+{"w": "laurel", "pos": "noun", "d": ["An evergreen shrub; a symbol of honor."], "src": "iwb"}
+{"w": "laurentian", "pos": "adjective", "d": ["Relating to the St. Lawrence region; also, of an ancient rock system."], "src": "iwb"}
+{"w": "laurer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laurestine", "pos": "noun", "d": ["An evergreen shrub with white winter flowers."], "src": "iwb"}
+{"w": "lauric", "pos": "adjective", "d": ["Relating to laurel; also, of lauric acid."], "src": "iwb"}
+{"w": "lauriferous", "pos": "adjective", "d": ["Bearing laurel."], "src": "iwb"}
+{"w": "laurin", "pos": "noun", "d": ["A crystalline substance from laurel."], "src": "iwb"}
+{"w": "laurinol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lauriol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laurite", "pos": "noun", "d": ["A rare ruthenium sulfide mineral."], "src": "iwb"}
+{"w": "laurone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "laurus", "pos": "noun", "d": ["The laurel genus."], "src": "iwb"}
+{"w": "laus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lautverschiebung", "pos": "noun", "d": ["The High German consonant shift."], "src": "iwb"}
+{"w": "lava", "pos": "noun", "d": ["Molten rock from a volcano; also, the rock it forms."], "src": "iwb"}
+{"w": "lavalliere", "pos": "noun", "d": ["A pendant worn on a chain; a lavaliere."], "src": "iwb"}
+{"w": "lavature", "pos": "noun", "d": ["A washing; a lotion."], "src": "iwb"}
+{"w": "lave", "pos": "verb", "d": ["To wash or bathe."], "src": "iwb"}
+{"w": "lave-eared", "pos": "adjective", "d": ["Having drooping ears."], "src": "iwb"}
+{"w": "lavender", "pos": "noun", "d": ["A fragrant purple-flowered plant; also its pale purple color."], "src": "iwb"}
+{"w": "lavic", "pos": "adjective", "d": ["Relating to lava."], "src": "iwb"}
+{"w": "lavish", "pos": "adjective", "d": ["Extravagantly generous; profuse."], "src": "iwb"}
+{"w": "lavoesium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lavolt", "pos": "noun", "d": ["A lively 16th-century dance with high leaps."], "src": "iwb"}
+{"w": "lavolta", "pos": "noun", "d": ["A lively 16th-century dance; the lavolt."], "src": "iwb"}
+{"w": "lavoltateer", "pos": "noun", "d": ["A dancer of the lavolt."], "src": "iwb"}
+{"w": "lavour", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lavrock", "pos": "noun", "d": ["The lark."], "src": "iwb"}
+{"w": "law-abiding", "pos": "adjective", "d": ["Obeying the law."], "src": "iwb"}
+{"w": "lawe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lawnd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lawny", "pos": "adjective", "d": ["Like a lawn; also, made of lawn cloth."], "src": "iwb"}
+{"w": "lawsonia", "pos": "noun", "d": ["The henna genus."], "src": "iwb"}
+{"w": "lax", "pos": "adjective", "d": ["Not strict; loose or careless."], "src": "iwb"}
+{"w": "laxative", "pos": "noun", "d": ["A medicine that loosens the bowels."], "src": "iwb"}
+{"w": "laxator", "pos": "noun", "d": ["A muscle that relaxes a part."], "src": "iwb"}
+{"w": "laxiity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lay reader", "pos": "noun", "d": ["A layperson licensed to read services in church."], "src": "iwb"}
+{"w": "lay shaft", "pos": "noun", "d": ["A secondary shaft in machinery."], "src": "iwb"}
+{"w": "lazar", "pos": "noun", "d": ["A diseased beggar; a leper."], "src": "iwb"}
+{"w": "lazaret", "pos": "noun", "d": ["A quarantine hospital; a lazaretto."], "src": "iwb"}
+{"w": "lazaret fever", "pos": "noun", "d": ["Typhus fever, as in quarantine hospitals."], "src": "iwb"}
+{"w": "lazaretto", "pos": "noun", "d": ["A quarantine station or hospital."], "src": "iwb"}
+{"w": "lazarite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lazaroni", "pos": "noun", "d": ["The street beggars of Naples."], "src": "iwb"}
+{"w": "laze", "pos": "verb", "d": ["To idle; to lounge lazily."], "src": "iwb"}
+{"w": "lazily", "pos": "adverb", "d": ["In a lazy manner."], "src": "iwb"}
+{"w": "laziness", "pos": "noun", "d": ["The quality of being lazy; idleness."], "src": "iwb"}
+{"w": "lazuli", "pos": "noun", "d": ["Lapis lazuli; also, azure blue."], "src": "iwb"}
+{"w": "lazulite", "pos": "noun", "d": ["A blue phosphate mineral."], "src": "iwb"}
+{"w": "lazybones", "pos": "noun", "d": ["A lazy person."], "src": "iwb"}
+{"w": "lazzaroni", "pos": "noun", "d": ["The street beggars of Naples; lazzaroni."], "src": "iwb"}
+{"w": "lea", "pos": "noun", "d": ["A meadow; also, a measure of yarn."], "src": "iwb"}
+{"w": "leach", "pos": "verb", "d": ["To drain a liquid through a substance; to percolate."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

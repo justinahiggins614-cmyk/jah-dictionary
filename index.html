@@ -81,6 +81,23 @@ details.jahd summary{cursor:pointer;font-weight:bold;color:var(--accent)}
 .longentry{max-height:60vh;overflow:auto;border:1px solid var(--line);border-radius:6px;padding:8px;background:#fffdf4}
 .retrybtn{font-family:Arial,sans-serif;font-size:.9em;padding:8px 16px;border:1px solid #b3a67e;background:#1a4d2e;color:#fff;border-radius:4px;cursor:pointer}
 a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid #e8d98a;outline-offset:2px}
+
+/* Finder AI + entry helper (additive) */
+.finderbar{background:#f4f1e6;border:1px solid #1a4d2e;border-radius:8px;padding:12px 14px;margin:0 0 12px}
+.finder-kicker{color:#1a4d2e;font-weight:bold;letter-spacing:1px;font-size:.85em;font-family:Arial,sans-serif}
+.finder-sub{font-family:Arial,sans-serif;font-size:.88em;color:#5b6472;margin:4px 0 8px}
+.finder-row{display:flex;gap:8px;flex-wrap:wrap}
+#finder-q{flex:1;min-width:170px;padding:9px 12px;border:1px solid #1a4d2e;border-radius:4px;font-size:1em;font-family:Arial,sans-serif}
+#finder-go{padding:9px 18px;background:#1a4d2e;color:#fff;border:none;border-radius:4px;font-weight:bold;cursor:pointer;font-family:Arial,sans-serif}
+.finder-card{background:#fff;border:1px solid #c9bfa3;border-radius:6px;padding:10px 12px;margin:8px 0;font-family:Arial,sans-serif}
+.finder-card b{color:#1a4d2e;font-size:1.1em}
+.finder-card a{color:#1a4d2e;font-weight:bold}
+.finder-none{font-family:Arial,sans-serif;color:#5b6472;font-size:.9em;margin:8px 0}
+.finder-help{background:#f4f1e6;border:1px solid #1a4d2e;border-radius:8px;padding:12px 14px;margin:14px 0}
+.fh-k{color:#1a4d2e;font-weight:bold;letter-spacing:1px;font-size:.82em;font-family:Arial,sans-serif;margin-bottom:8px}
+.fh-row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+.fh-row button{padding:8px 14px;background:#fff;border:1px solid #1a4d2e;color:#1a4d2e;border-radius:4px;cursor:pointer;font-weight:bold;font-family:Arial,sans-serif}
+.fh-a{font-family:Arial,sans-serif;font-size:.92em;background:#fff;border:1px solid #c9bfa3;border-radius:6px;padding:10px 12px;min-height:1.4em}
 </style>
 <style>.jahnet{background:#101418;color:#9aa4b2;font-size:.76em;padding:6px 10px;text-align:center;line-height:2;letter-spacing:.02em}.jahnet-t{color:#e8c766;font-weight:700;letter-spacing:.25em;margin-right:10px}.jahnet a{color:#9fc2ff;text-decoration:none;margin:0 7px;white-space:nowrap}.jahnet a:hover{text-decoration:underline}.jahnet-here{color:#e8c766;font-weight:700;white-space:nowrap;margin:0 2px 0 7px}.jahnet a.jahnet-cur{color:#e8c766;font-weight:700}</style>
 </head>
@@ -391,7 +408,7 @@ async function vHome(app){
  '<div class="stat"><div class="n">'+Number(ec).toLocaleString()+'</div><div class="l">Total entries</div></div></div>';
  if(s.last_updated)h+='<p class="jahstatus">Last updated: '+esc(String(s.last_updated))+' &middot; counts refresh automatically as the dictionary grows.</p>';
  h+='<div class="wotd"><h2 class="sec" style="margin-top:0">Word of the day</h2><div id="wotd"><p style="font-family:Arial">Choosing today&rsquo;s word...</p></div></div>';
- h+='<h2 class="sec">Browse the dictionary</h2><div class="az" role="navigation" aria-label="Browse words by first letter">';
+ h+='<h2 class="sec">Browse the dictionary</h2>'+finderBarHTML()+'<div class="az" role="navigation" aria-label="Browse words by first letter">';
  for(var c=65;c<=90;c++){var L=String.fromCharCode(c);h+='<a href="?az='+L+'">'+L+'</a>'}
  h+='<details class="jahd"><summary>What counts as an entry?</summary><p>Every lexical item in the IWB headword corpus: common words, inflected forms, archaic and obscure roots, slang, abbreviations, prefixes and suffixes, multiword phrases &mdash; plus catalog terms (spec and patent titles from the JAH network). Each entry is one headword with its numbered senses. Entries marked &ldquo;editors are still writing&rdquo; are real headwords awaiting their authored definition; the deterministic reading is ready for every entry.</p></details>';
  h+='<p class="note">Definitions are written fresh for the IWB Dictionary. JAH deterministic definitions, stamps, programs, and AI teachers are generated live by the JAH system and are the same on every machine, every time.</p>';
@@ -452,7 +469,7 @@ async function vBrowse(app,L,pg){
  var total=end-start,per=200,pages=Math.max(1,Math.ceil(total/per));pg=Math.min(pg,pages);
  var h='<div class="crumb">JAH Dictionary &rsaquo; Browse &rsaquo; '+esc(L)+'</div>';
  h+='<h1 class="hw" style="font-size:1.8em">Words beginning with '+esc(L)+'</h1>';
- h+='<div class="az" role="navigation" aria-label="Browse words by first letter">';for(var c=65;c<=90;c++){var x=String.fromCharCode(c);h+='<a href="?az='+x+'"'+(x===L?' style="background:#1a4d2e;color:#fff"':"")+'>'+x+'</a>'}h+='</div>';
+ h+=finderBarHTML()+'<div class="az" role="navigation" aria-label="Browse words by first letter">';for(var c=65;c<=90;c++){var x=String.fromCharCode(c);h+='<a href="?az='+x+'"'+(x===L?' style="background:#1a4d2e;color:#fff"':"")+'>'+x+'</a>'}h+='</div>';
  h+='<p style="font-family:Arial">'+total.toLocaleString()+' headwords &middot; page '+pg+' of '+pages+'</p><ul class="pgln">';
  var s0=start+(pg-1)*per,s1=Math.min(start+pg*per,end);
  for(var i=s0;i<s1;i++)h+='<li>'+linkW(DB.idx[i][0])+'</li>';
@@ -657,6 +674,7 @@ async function vEntryAt(app,pos,raw,pre){
  h+='<div class="eidline">Entry ID: <b>'+esc(e.st)+'</b> &middot; the permanent machine identity of this entry &middot; paste the ID into search to reopen this entry</div>';
  h+='<div><span class="stamp">'+esc(e.st)+'</span>'+kindBadge(e)+'</div>';
  h+='<div class="toolbar">'+rdToolbar()+'</div>';
+ h+=dictHelperHTML(e,senses);
  h+='<div id="entrytext" style="display:none">'+esc(window._entryText)+'</div>';
  h+='<h2 class="sec">IWB Dictionary &mdash; normal definition</h2><div class="defs">';
  h+='<p style="font-family:Arial;color:#6b5f3e">Part of speech: <i>'+esc(e.pos||"not yet assigned")+'</i></p>';
@@ -752,6 +770,66 @@ async function vEntryAt(app,pos,raw,pre){
  setEntrySEO(e,senses);
  wireTeacher(e,D,got.pos);
 }
+/* ============ FINDER AI: describe it in plain words ============ */
+var FINDER_STOP={the:1,a:1,an:1,and:1,or:1,of:1,to:1,in:1,for:1,on:1,with:1,is:1,are:1,was:1,were:1,be:1,by:1,as:1,at:1,from:1,that:1,this:1,it:1,its:1,you:1,your:1,i:1,me:1,my:1,we:1,our:1,they:1,them:1,their:1,he:1,she:1,his:1,her:1,not:1,no:1,yes:1,do:1,does:1,did:1,can:1,could:1,will:1,would:1,should:1,what:1,which:1,who:1,whom:1,when:1,where:1,why:1,how:1,all:1,any:1,both:1,each:1,few:1,more:1,most:1,other:1,some:1,such:1,than:1,then:1,there:1,these:1,those:1,over:1,under:1,between:1,into:1,through:1,about:1,after:1,before:1,also:1,just:1,very:1,only:1,own:1,same:1,so:1,but:1,if:1,because:1,while:1,up:1,out:1,down:1,off:1,again:1,once:1,here:1,need:1,want:1,looking:1,find:1,get:1,show:1,give:1,tell:1,like:1,please:1};
+function finderKeywords(t){
+ return String(t==null?"":t).toLowerCase().replace(/[^a-z0-9\s]/g," ").split(/\s+/).filter(function(w){return w.length>=3&&!FINDER_STOP[w]});
+}
+function finderBarHTML(){
+ return '<div class="finderbar" id="finderbar"><div class="finder-kicker">THE FINDER \u2014 dictionary assistance</div>'+
+ '<p class="finder-sub">Describe the word you are after in plain words \u2014 the Finder reads every headword and brings you the five closest entries.</p>'+
+ '<div class="finder-row"><input type="text" id="finder-q" placeholder="Describe what you\u2019re looking for\u2026" aria-label="Describe the word you are looking for" autocomplete="off"><button type="button" id="finder-go">Find it</button></div>'+
+ '<div id="finder-res" aria-live="polite"></div></div>';
+}
+function wireFinder(){
+ var inp=document.getElementById("finder-q");if(!inp||inp._fwired)return;inp._fwired=1;
+ var btn=document.getElementById("finder-go"),res=document.getElementById("finder-res");
+ function run(){
+  var kw=finderKeywords(inp.value);
+  if(!kw.length){res.innerHTML='<p class="finder-none">Tell me a little more \u2014 a word or two about the word you want.</p>';return}
+  var cands=[],i,j,s;
+  for(i=0;i<DB.idx.length;i++){var k=DB.idx[i][0];s=0;for(j=0;j<kw.length;j++)if(k.indexOf(kw[j])>=0)s++;if(s>0)cands.push({s:s,k:k})}
+  cands.sort(function(a,b){return b.s-a.s||(a.k<b.k?-1:1)});
+  var top=cands.slice(0,5);
+  if(!top.length){res.innerHTML='<p class="finder-none">No headword matched \u2014 try fewer, simpler words.</p>';return}
+  res.innerHTML='<p class="finder-sub">Five closest entries:</p>'+top.map(function(c){
+   return '<div class="finder-card"><b>'+esc(c.k)+'</b><br><a href="?w='+encodeURIComponent(c.k)+'">Take me there &rarr;</a></div>';
+  }).join("");
+ }
+ btn.onclick=run;
+ inp.addEventListener("keydown",function(e){if(e.key==="Enter")run()});
+}
+/* compact entry helper: data-grounded answers, never invents */
+function dictHelperHTML(e,senses){
+ var isW=e.k==="w",firstSense="";
+ if(senses&&senses.length)firstSense=String(senses[0]||"").replace(/^\d+\.\s*/,"").trim();
+ var A={};
+ A["What does it mean?"]=isW
+  ?("\u201c"+e.w+"\u201d \u2014 "+(e.pos||"part of speech not yet assigned")+". "+(firstSense?("First sense: "+firstSense):"The IWB editors are still writing this definition \u2014 the JAH deterministic reading below is ready now."))
+  :("Catalog term from the "+(e.rt==="spec"?"spec":"patent")+" catalogs"+(e.rid?" ("+e.rid+")":"")+". "+(firstSense?("Record text: "+firstSense):"This term carries no definition text."));
+ A["How do you say it?"]=isW
+  ?(e.pron?("IWB phonetic respelling: "+e.pron+". An approximate guide written by the editors, not IPA."):"No pronunciation recorded for this entry yet.")
+  :"Catalog terms do not carry pronunciation \u2014 only English words do.";
+ A["Where does it come from?"]=isW
+  ?(e.hist?("Word history: "+e.hist+" (Source: "+(e.histsrc==="morphological"?"derived from the dictionary\u2019s own word analysis":"composed by the IWB editors")+")."):"No word history recorded for this entry yet.")
+  :"This is a catalog term, not an English word \u2014 it has no word history.";
+ A["Show me examples."]=isW
+  ?((e.ex&&e.ex.length)?("Examples: "+e.ex.slice(0,2).join(" / ")):"No usage examples recorded for this entry yet.")
+  :"Catalog terms do not carry usage examples.";
+ var qs=Object.keys(A);
+ window._dictHelperA=qs.map(function(q){return A[q]});
+ return '<div class="finder-help"><div class="fh-k">ASK THIS ENTRY \u2014 quick answers, straight from the record</div><div class="fh-row">'+
+  qs.map(function(q,i){return '<button type="button" data-dha="'+i+'">'+esc(q)+'</button>'}).join("")+
+  '</div><div class="fh-a" aria-live="polite">Tap a question above.</div></div>';
+}
+function wireHelper(){
+ var box=document.querySelector(".finder-help");if(!box||box._wired)return;box._wired=1;
+ box.addEventListener("click",function(ev){
+  var b=ev.target.closest?ev.target.closest("[data-dha]"):null;if(!b)return;
+  var a=box.querySelector(".fh-a"),t=(window._dictHelperA||[])[+b.getAttribute("data-dha")];
+  if(a&&t!=null)a.textContent=t;
+ });
+}
 /* ================= router ================= */
 async function route(){
  var app=document.getElementById("app");
@@ -770,7 +848,7 @@ async function route(){
  }catch(err){
   app.innerHTML=loadErrorHTML(err);
  }
- wireSearch();
+ wireSearch();wireFinder();wireHelper();
 }
 document.addEventListener("DOMContentLoaded",route);
 </script>

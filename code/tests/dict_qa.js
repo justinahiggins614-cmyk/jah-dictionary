@@ -43,7 +43,8 @@ eval(blocks[0] + "\n" + blocks[1] + `
  detWord, normKey, normChanged, normNote, esc, cleanSense, detGloss, entryHash, defVersion,
  JAHDict, teacherReply, wordProgram, runWordDemo, entryJson, entryCsv,
  bsFind, bsLower, prefixMatches, rankSearch, suggest, nearbyWords, levenshtein,
- vHome, vSearch, vBrowse, vEntry, route, wireSearch, loadDB, getEntry,
+ vHome, vSearch, vBrowse, vEntry, vEntryAt, route, wireSearch, loadDB, getEntry, getEntryAt,
+ isStampId, resolveStamp, collideRows, stampNotFoundHTML,
  notFoundHTML, zeroResultsHTML, loadErrorHTML, searchHelpersHTML, verifyRecord,
  set_fetchGz(f){ fetchGz = f; }, set_getEntry(f){ getEntry = f; }, set_loadDB(f){ loadDB = f; },
  get_DB(){ return DB; }, get_window(){ return window; }
@@ -53,7 +54,8 @@ const A = globalThis.__api;
 const { detWord, normKey, normChanged, normNote, esc, cleanSense, detGloss, entryHash, defVersion,
  JAHDict, teacherReply, wordProgram, runWordDemo, entryJson, entryCsv,
  bsFind, bsLower, prefixMatches, rankSearch, suggest, nearbyWords, levenshtein,
- vHome, vSearch, vBrowse, vEntry, route, wireSearch, loadDB, getEntry } = A;
+ vHome, vSearch, vBrowse, vEntry, vEntryAt, route, wireSearch, loadDB, getEntry, getEntryAt,
+ isStampId, resolveStamp, collideRows, stampNotFoundHTML } = A;
 const DB = A.get_DB();
 
 /* real data: read gz chunks from disk */
@@ -280,6 +282,53 @@ async function main() {
   const t1 = Date.now();
   const sg = suggest("zzzzzzzz");
   ok("T20 suggest completes", Date.now() - t1 < 5000 && Array.isArray(sg), (Date.now() - t1) + "ms");
+
+  /* T21 stamp-ID recognition */
+  ok("T21 stamp id valid W", isStampId("JAH-DICT-W-001281"));
+  ok("T21 stamp id valid T lowercase", isStampId("jah-dict-t-166922"));
+  ok("T21 stamp id rejects word", !isStampId("computer"));
+  ok("T21 stamp id rejects short", !isStampId("JAH-DICT-W-123"));
+  ok("T21 stamp id rejects bad kind", !isStampId("JAH-DICT-X-001281"));
+
+  /* T22 stamp resolution against real data */
+  const pW = await resolveStamp("JAH-DICT-W-001281");
+  ok("T22 resolve W stamp", pW >= 0 && DB.idx[pW][0] === "adapter", "pos=" + pW);
+  const gW = await getEntryAt(pW);
+  ok("T22 resolved entry carries stamp", gW.entry.st === "JAH-DICT-W-001281");
+  const pT = await resolveStamp("JAH-DICT-T-166922");
+  ok("T22 resolve T stamp", pT >= 0 && pT !== pW, "pos=" + pT);
+  const gT = await getEntryAt(pT);
+  ok("T22 resolved term entry", gT.entry.st === "JAH-DICT-T-166922" && gT.entry.k === "t");
+  ok("T22 unknown stamp -> -1", (await resolveStamp("JAH-DICT-W-999999")) === -1);
+  ok("T22 malformed stamp -> -1", (await resolveStamp("nope")) === -1);
+
+  /* T23 ?id= route renders the entry */
+  resetStubs();
+  location.search = "?id=JAH-DICT-W-001281";
+  const realApp = document.getElementById("app");
+  await route();
+  ok("T23 ?id= route renders entry", realApp.innerHTML.includes("JAH-DICT-W-001281"));
+
+  /* T24 search box stamp query redirects to ?id= */
+  resetStubs();
+  const appS2 = appEl();
+  await vSearch(appS2, "JAH-DICT-T-166922");
+  ok("T24 stamp search redirects", location._replaced === "?id=JAH-DICT-T-166922", location._replaced);
+  resetStubs();
+  const appS3 = appEl();
+  await vSearch(appS3, "JAH-DICT-W-999999");
+  ok("T24 unknown stamp shows not-found", appS3.innerHTML.includes("Stamp not found"));
+
+  /* T25 disambiguation row on collided headword */
+  resetStubs();
+  const appD = appEl();
+  await vEntry(appD, "adapter", "adapter");
+  ok("T25 disambiguation row present", appD.innerHTML.includes("Also filed under this headword"));
+  ok("T25 disambiguation links shadowed term", appD.innerHTML.includes("?id=JAH-DICT-T-166922"));
+  resetStubs();
+  const appD2 = appEl();
+  await vEntry(appD2, "computer", "computer");
+  ok("T25 no disambiguation when unique", !appD2.innerHTML.includes("Also filed under this headword"));
 
   console.log("\n==== " + pass + " passed, " + fail + " failed ====");
   process.exit(fail ? 1 : 0);

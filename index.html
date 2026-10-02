@@ -16,8 +16,8 @@ a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
 .navlinks a{color:#dcebd8;font-family:Arial,sans-serif;font-size:.86em}
 .navlinks a:hover{color:#fff}
 .searchbox{margin-left:auto;display:flex;gap:6px;position:relative}
-.searchbox input{padding:7px 10px;font-size:.95em;border:1px solid #3c6b4e;border-radius:3px;width:min(320px,52vw);font-family:Arial,sans-serif}
-.searchbox button{padding:7px 14px;background:#e8d98a;border:none;border-radius:3px;font-weight:bold;cursor:pointer;font-family:Arial,sans-serif}
+.searchbox input{padding:9px 12px;font-size:.95em;border:1px solid #3c6b4e;border-radius:3px;width:min(320px,52vw);font-family:Arial,sans-serif;min-height:40px}
+.searchbox button{padding:9px 16px;background:#e8d98a;border:none;border-radius:3px;font-weight:bold;cursor:pointer;font-family:Arial,sans-serif;min-height:40px}
 .sugg{position:absolute;top:100%;left:0;right:0;background:#fff;border:1px solid var(--line);border-radius:0 0 6px 6px;box-shadow:0 8px 20px rgba(0,0,0,.15);display:none;max-height:320px;overflow-y:auto;z-index:60;font-family:Arial,sans-serif}
 .sugg a{display:block;padding:8px 12px;font-size:.9em;color:var(--ink)}
 .sugg a:hover{background:var(--soft);text-decoration:none}
@@ -27,12 +27,12 @@ h1.hw{font-size:2.4em;margin:.1em 0 .05em;line-height:1.2}
 .stamp{display:inline-block;font-family:Arial,sans-serif;font-size:.72em;font-weight:bold;letter-spacing:1px;color:#fff;background:#1a4d2e;border-radius:4px;padding:4px 10px;margin:4px 8px 4px 0;vertical-align:middle}
 .kind{display:inline-block;font-family:Arial,sans-serif;font-size:.72em;font-weight:bold;letter-spacing:1px;color:#1a4d2e;border:1px solid #1a4d2e;border-radius:4px;padding:3px 9px;margin:4px 0;vertical-align:middle}
 .toolbar{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;padding:10px;background:var(--soft);border:1px solid var(--line);border-radius:6px;align-items:center}
-.toolbar button,.toolbar select{font-family:Arial,sans-serif;font-size:.85em;padding:7px 12px;border:1px solid #b3a67e;background:#fff;border-radius:4px;cursor:pointer;color:var(--accent)}
+.toolbar button,.toolbar select{font-family:Arial,sans-serif;font-size:.85em;padding:10px 14px;border:1px solid #b3a67e;background:#fff;border-radius:4px;cursor:pointer;color:var(--accent);min-height:40px}
 .toolbar button:hover{background:#eef3e4}
 .defs{font-size:1.05em}
 .defs ol{margin:8px 0;padding-left:26px}.defs li{margin:7px 0}
 h2.sec{font-size:1.4em;border-bottom:2px solid var(--accent);padding-bottom:5px;margin:1.6em 0 .6em;color:var(--accent)}
-.detbox{border:1px solid var(--line);border-left:4px solid var(--gold);background:#fffdf4;padding:12px 16px;margin:10px 0;border-radius:0 6px 6px 0;font-family:Arial,sans-serif;font-size:.92em}
+.detbox{border:1px solid var(--line);border-left:4px solid var(--gold);background:#fffdf4;padding:12px 16px;margin:10px 0;border-radius:0 6px 6px 0;font-family:Arial,sans-serif;font-size:.92em;overflow-x:auto}
 .detbox table{border-collapse:collapse;margin:8px 0}
 .detbox td{padding:4px 12px 4px 0;vertical-align:top}
 .detbox td.k{font-weight:bold;color:#5b4d1e;white-space:nowrap}
@@ -58,7 +58,7 @@ h2.sec{font-size:1.4em;border-bottom:2px solid var(--accent);padding-bottom:5px;
 .stat{flex:1;min-width:140px;background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:14px;text-align:center;font-family:Arial,sans-serif}
 .stat .n{font-size:1.7em;font-weight:bold;color:var(--accent)}.stat .l{font-size:.8em;color:var(--mut)}
 .az{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0;font-family:Arial,sans-serif}
-.az a{padding:5px 10px;border:1px solid var(--line);border-radius:4px;background:#fff;font-size:.85em}
+.az a{padding:8px 13px;border:1px solid var(--line);border-radius:4px;background:#fff;font-size:.85em;min-width:40px;text-align:center}
 .pgln{font-family:Arial,sans-serif;font-size:.88em;columns:2}.pgln li{margin:5px 0;break-inside:avoid}
 @media(max-width:700px){.pgln{columns:1}}
 footer.site{background:#0f3520;color:#cdd9c2;padding:22px 18px;font-family:Arial,sans-serif;font-size:.85em;margin-top:30px}
@@ -72,11 +72,12 @@ details.jahd{font-family:Arial,sans-serif;font-size:.88em;border:1px solid var(-
 details.jahd summary{cursor:pointer;font-weight:bold;color:var(--accent)}
 .longentry{max-height:60vh;overflow:auto;border:1px solid var(--line);border-radius:6px;padding:8px;background:#fffdf4}
 .retrybtn{font-family:Arial,sans-serif;font-size:.9em;padding:8px 16px;border:1px solid #b3a67e;background:#1a4d2e;color:#fff;border-radius:4px;cursor:pointer}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid #e8d98a;outline-offset:2px}
 </style>
-<style>.jahnet{background:#101418;color:#9aa4b2;font-size:.76em;padding:6px 10px;text-align:center;line-height:2;letter-spacing:.02em}.jahnet-t{color:#e8c766;font-weight:700;letter-spacing:.25em;margin-right:10px}.jahnet a{color:#9fc2ff;text-decoration:none;margin:0 7px;white-space:nowrap}.jahnet a:hover{text-decoration:underline}</style>
+<style>.jahnet{background:#101418;color:#9aa4b2;font-size:.76em;padding:6px 10px;text-align:center;line-height:2;letter-spacing:.02em}.jahnet-t{color:#e8c766;font-weight:700;letter-spacing:.25em;margin-right:10px}.jahnet a{color:#9fc2ff;text-decoration:none;margin:0 7px;white-space:nowrap}.jahnet a:hover{text-decoration:underline}.jahnet-here{color:#e8c766;font-weight:700;white-space:nowrap;margin:0 2px 0 7px}.jahnet a.jahnet-cur{color:#e8c766;font-weight:700}</style>
 </head>
 <body>
-<div class="jahnet"><span class="jahnet-t">THE JAH NETWORK</span><a href="https://justinahiggins614-cmyk.github.io/cyber-patent-catalog/">Globally Rejustered Patent Catalog</a><a href="https://justinahiggins614-cmyk.github.io/signature-one-archive/">Signature Spec Catalog Pending Patents</a><a href="https://justinahiggins614-cmyk.github.io/jah-dictionary/">The Signature Dictionary</a><a href="https://justinahiggins614-cmyk.github.io/jah-wiki/">JAH Wiki</a><a href="https://justinahiggins614-cmyk.github.io/jah-n-wiki-leaks/">JAH-N Wiki</a><a href="https://justinahiggins614-cmyk.github.io/jah-calculator/">Signature Universal Paradox Immune Calculator</a><a href="https://justinahiggins614-cmyk.github.io/jah-ai-models/">The Signature AI Telephone Book</a><a href="https://justinahiggins614-cmyk.github.io/signature-llama/">Signature Llama</a><a href="https://justinahiggins614-cmyk.github.io/jah-computer-systems/">The Signature PC System Depository</a></div>
+<div class="jahnet"><span class="jahnet-t">THE JAH NETWORK</span><a href="https://justinahiggins614-cmyk.github.io/jah-ai-models/">The Signature AI Telephone Book</a><a href="https://justinahiggins614-cmyk.github.io/jah-calculator/">Signature Universal Paradox Immune Calculator</a><span class="jahnet-here">YOU ARE HERE:</span><a href="https://justinahiggins614-cmyk.github.io/jah-dictionary/" class="jahnet-cur" aria-current="page">The Signature Dictionary</a><a href="https://justinahiggins614-cmyk.github.io/jah-wiki/">JAH Wiki</a><a href="https://justinahiggins614-cmyk.github.io/jah-n-wiki-leaks/">JAH-N Wiki</a><a href="https://justinahiggins614-cmyk.github.io/cyber-patent-catalog/">Globally Rejustered Patent Catalog</a><a href="https://justinahiggins614-cmyk.github.io/signature-one-archive/specs.html">Signature Spec Catalog Pending Patents</a><a href="https://justinahiggins614-cmyk.github.io/signature-llama/">Signature Llama</a><a href="https://justinahiggins614-cmyk.github.io/jah-computer-systems/">The Signature PC System Depository</a></div>
 <div class="topbar">
   <a href="?" style="text-decoration:none"><div class="brand">IWB DICTIONARY<small>ORIGINAL DEFINITIONS &middot; JAH DETERMINISTIC</small></div></a>
   <div class="navlinks">
@@ -230,7 +231,7 @@ function rdToolbar(){
  '<button onclick="sayWord()" title="Hear just this word spoken">🔊 Hear word</button>'+
 
  '<button onclick="rdStop()">\u23F9 Stop</button>'+
- '<select id="rdspeed" onchange="RD.speed=parseFloat(this.value)" title="Reading speed">'+
+ '<select id="rdspeed" onchange="RD.speed=parseFloat(this.value)" title="Reading speed" aria-label="Reading speed">'+
  '<option value="0.8">0.8&times;</option><option value="1" selected>1&times;</option><option value="1.25">1.25&times;</option><option value="1.5">1.5&times;</option><option value="2">2&times;</option></select>'+
  '<button onclick="copyText(document.getElementById(\'entrytext\').textContent,this)" title="Copy the full entry text (headword, entry ID, definitions, stamp, hash) to the clipboard">\uD83D\uDCCB Copy entry</button>'+
  '<button onclick="dlEntryTxt()" title="Download this entry as plain text (.txt): headword, entry ID, both definitions, stamp, entry hash">\u2B07 Download .txt</button>'+
@@ -255,8 +256,39 @@ function bsLower(key){var lo=0,hi=DB.idx.length;while(lo<hi){var m=(lo+hi)>>1;if
 function prefixMatches(pref,limit){var out=[],i=bsLower(pref);while(i<DB.idx.length&&out.length<limit){var k=DB.idx[i][0];if(k.indexOf(pref)!==0)break;out.push(DB.idx[i]);i++}return out}
 async function getEntry(key){
  var pos=bsFind(key);if(pos<0)return null;
+ return getEntryAt(pos);
+}
+async function getEntryAt(pos){
  var row=DB.idx[pos],txt=await fetchGz("data/dict/"+row[1]),lines=txt.split("\n");
  var e=JSON.parse(lines[row[2]]);return {entry:e,pos:pos};
+}
+/* ================= stamp-ID lookup: typing/pasting JAH-DICT-W/T-###### ================= */
+function isStampId(q){return /^JAH-DICT-[WT]-\d{6}$/i.test(String(q==null?"":q).trim())}
+var STAMPIDX=null;
+async function loadStampIdx(){
+ if(STAMPIDX)return STAMPIDX;
+ var t=await fetchGz("data/index/stamp.idx.json.gz");STAMPIDX=JSON.parse(t);return STAMPIDX;
+}
+async function resolveStamp(st){
+ var m=/^JAH-DICT-([WT])-(\d{6})$/i.exec(String(st==null?"":st).trim());
+ if(!m)return -1;
+ try{
+  var sx=await loadStampIdx(),arr=sx[m[1].toUpperCase()],n=parseInt(m[2],10);
+  if(!arr||n<1||n>arr.length)return -1;
+  var pos=arr[n-1];
+  return (pos==null||pos<0||pos>=DB.idx.length)?-1:pos;
+ }catch(e){return -1}
+}
+function stampNotFoundHTML(id){
+ return '<div class="crumb"><a href="?">IWB Dictionary</a> &rsaquo; not found</div>'+
+ '<h1 class="hw" style="font-size:1.6em">Stamp not found.</h1>'+
+ '<p style="font-family:Arial">No entry carries the stamp &ldquo;'+esc(String(id).trim())+'&rdquo;. Stamps look like JAH-DICT-W-000001 or JAH-DICT-T-000001 &mdash; every entry shows its stamp under its headword.</p>'+
+ searchHelpersHTML(normKey(String(id)))}
+function collideRows(key,pos){
+ var out=[],i=pos;
+ while(i>0&&DB.idx[i-1][0]===key)i--;
+ for(;i<DB.idx.length&&DB.idx[i][0]===key;i++)out.push(i);
+ return out;
 }
 /* ================= deterministic word analysis ================= */
 var SCRABBLE={a:1,b:3,c:3,d:2,e:1,f:4,g:2,h:4,i:1,j:8,k:5,l:1,m:3,n:1,o:1,p:3,q:10,r:1,s:1,t:1,u:1,v:4,w:4,x:8,y:4,z:10};
@@ -303,6 +335,7 @@ async function vHome(app){
  h+='<div class="stats"><div class="stat"><div class="n">'+Number(s.words||0).toLocaleString()+'</div><div class="l">English words</div></div>'+
  '<div class="stat"><div class="n">'+Number(s.terms||0).toLocaleString()+'</div><div class="l">Catalog terms</div></div>'+
  '<div class="stat"><div class="n">'+Number(ec).toLocaleString()+'</div><div class="l">Total entries</div></div></div>';
+ if(s.last_updated)h+='<p class="jahstatus">Last updated: '+esc(String(s.last_updated))+' &middot; counts refresh automatically as the dictionary grows.</p>';
  h+='<div class="wotd"><h2 class="sec" style="margin-top:0">Word of the day</h2><div id="wotd"><p style="font-family:Arial">Choosing today&rsquo;s word...</p></div></div>';
  h+='<h2 class="sec">Browse the dictionary</h2><div class="az">';
  for(var c=65;c<=90;c++){var L=String.fromCharCode(c);h+='<a href="?az='+L+'">'+L+'</a>'}
@@ -342,6 +375,11 @@ function rankSearch(key){
 }
 async function vSearch(app,q){
  var raw=String(q),key=normKey(q);
+ if(isStampId(raw)){
+  var sp=await resolveStamp(raw);
+  if(sp>=0){location.replace("?id="+encodeURIComponent(raw.trim().toUpperCase()));return}
+  app.innerHTML=stampNotFoundHTML(raw);return;
+ }
  var h='<div class="crumb">JAH Dictionary &rsaquo; Search &rsaquo; '+esc(q)+'</div>';
  h+=normNote(raw,key);
  var ex=await getEntry(key).catch(function(){return null});
@@ -539,13 +577,19 @@ function wireTeacher(e,D,pos){
 async function vEntry(app,key,raw){
  var got=await getEntry(key).catch(function(){return null});
  if(!got||!got.entry){app.innerHTML=notFoundHTML(key);return}
+ await vEntryAt(app,got.pos,raw==null?key:raw,got.entry);
+}
+async function vEntryAt(app,pos,raw,pre){
+ var got=pre?{entry:pre,pos:pos}:await getEntryAt(pos).catch(function(){return null});
+ var key=DB.idx[pos]?DB.idx[pos][0]:"";
+ if(!got||!got.entry){app.innerHTML=notFoundHTML(key);return}
  var e=got.entry,D=detWord(e.w),ehash=entryHash(e,D);
  window._entryText=entryText(e,D);
  var senses=Array.isArray(e.d)?e.d:[e.d];
  var h='<div class="crumb"><a href="?">IWB Dictionary</a> &rsaquo; '+esc(e.w)+'</div>';
  h+='<h1 class="hw">'+esc(e.w)+'</h1>';
  h+=normNote(raw==null?key:raw,key);
- h+='<div class="eidline">Entry ID: <b>'+esc(e.st)+'</b> &middot; the permanent machine identity of this entry</div>';
+ h+='<div class="eidline">Entry ID: <b>'+esc(e.st)+'</b> &middot; the permanent machine identity of this entry &middot; paste the ID into search to reopen this entry</div>';
  h+='<div><span class="stamp">'+esc(e.st)+'</span>'+kindBadge(e)+'</div>';
  h+='<div class="toolbar">'+rdToolbar()+'</div>';
  h+='<div id="entrytext" style="display:none">'+esc(window._entryText)+'</div>';
@@ -598,6 +642,22 @@ async function vEntry(app,key,raw){
   else{h+='<a href="'+WIKI2+'/?page=PAT:'+encodeURIComponent(e.rid)+'" target="_blank" rel="noopener">JAH Wiki article \u2B08</a> &nbsp;&middot;&nbsp; <a href="'+PATCAT+'" target="_blank" rel="noopener">Patent Catalog \u2B08</a>'}
   h+='</p></div>';
  }
+ /* disambiguation: other entries sharing this exact headword (word wins the
+    primary slot; shadowed catalog terms stay reachable by stamp ID) */
+ var crows=collideRows(key,pos);
+ if(crows.length>1){
+  var citems=await Promise.all(crows.filter(function(r){return r!==pos}).map(function(r){
+   return getEntryAt(r).then(function(g){
+    var x=g.entry;
+    var kind=x.k==="w"?"English word":(x.rt==="patent"?"Patent catalog term":"Spec catalog term");
+    return '<li><a href="?id='+esc(x.st)+'">'+esc(x.st)+'</a> &mdash; '+esc(kind)+(x.k==="t"?" ("+esc(x.rid)+")":"")+'</li>';
+   }).catch(function(){return ""});
+  }));
+  citems=citems.filter(function(s){return s});
+  if(citems.length){
+   h+='<h2 class="sec">Also filed under this headword</h2><div class="detbox"><p style="margin-top:0">'+citems.length+' more '+(citems.length===1?"entry shares":"entries share")+' the title &ldquo;'+esc(e.w)+'&rdquo;:</p><ul>'+citems.join("")+'</ul></div>';
+  }
+ }
  var nb=neighbors(e,got.pos,10);
  h+='<h2 class="sec">Nearby headwords</h2><p style="font-family:Arial">'+nb.map(function(k){return linkW(k)}).join(" &middot; ")+'</p>';
  h+='<p class="note">Normal definitions: written fresh for the IWB Dictionary. Deterministic definition, stamp '+esc(e.st)+', word program, and AI teacher generated by the JAH system.</p>';
@@ -612,8 +672,12 @@ async function route(){
  try{
   if(typeof navigator!=="undefined"&&"onLine" in navigator&&!navigator.onLine)throw new Error("OFFLINE");
   await loadDB();
-  var w=qp("w")||qp("dict"),q=qp("q"),az=qp("az");
-  if(w)await vEntry(app,normKey(w),w);
+  var w=qp("w")||qp("dict"),sid=qp("id"),q=qp("q"),az=qp("az");
+  if(sid&&isStampId(sid)){
+   var sp=await resolveStamp(sid);
+   if(sp>=0)await vEntryAt(app,sp,sid);else app.innerHTML=stampNotFoundHTML(sid);
+  }
+  else if(w)await vEntry(app,normKey(w),w);
   else if(q&&q.trim())await vSearch(app,q);
   else if(az)await vBrowse(app,az,qp("pg"));
   else await vHome(app);

@@ -289,6 +289,58 @@ def write_index(index):
     return ipath
 
 
+def write_stamp_index(entries):
+    """stamp.idx.json.gz: {"W":[idxPos,...],"T":[idxPos,...]} — element n-1 is the
+    dict.idx row position of JAH-DICT-W/T-<n padded to 6>; -1 marks a gap.
+    Lets the page resolve a typed or pasted stamp ID straight to its entry
+    (ID-aware search). Regenerated on every rebuild so positions stay exact."""
+    pat = re.compile(r"^JAH-DICT-([WT])-(\d+)$")
+    buckets = {"W": {}, "T": {}}
+    for pos, e in enumerate(entries):  # entries order == dict.idx row order
+        m = pat.match(str(e.get("st", "")))
+        if m:
+            buckets[m.group(1)][int(m.group(2))] = pos
+    out = {}
+    for k in ("W", "T"):
+        d = buckets[k]
+        out[k] = [d.get(i, -1) for i in range(1, (max(d) if d else 0) + 1)]
+    spath = os.path.join(IDXDIR, "stamp.idx.json.gz")
+    with gzip.open(spath, "wt", encoding="utf-8") as f:
+        json.dump(out, f, separators=(",", ":"))
+    log("stamp index written: %s (W=%d T=%d)" %
+        (spath, len(out["W"]), len(out["T"])))
+
+
+def refresh_api(stats):
+    """Keep api.json counts honest: derive records_approx/records_as_of from
+    the freshly built stats (never hardcoded)."""
+    apath = os.path.join(ROOT, "api.json")
+    try:
+        with open(apath, encoding="utf-8") as f:
+            api = json.load(f)
+    except Exception as e:
+        log("api.json refresh skipped: %s" % e)
+        return
+    api["records_approx"] = stats["total"]
+    api["records_as_of"] = stats["last_updated"]
+    # keep the endpoint description honest about chunking
+    n_chunks = sum(1 for n in os.listdir(DATADIR)
+                   if n.startswith("dict-c") and n.endswith(".jsonl.gz"))
+    for ep in api.get("endpoints", []):
+        if isinstance(ep, dict) and "data/dict/" in str(ep.get("path", "")):
+            ep["desc"] = re.sub(r"\(\d+ chunks",
+                                "(%d chunks" % n_chunks, ep.get("desc", ""))
+    if not any("?id=" in str(d.get("pattern", "")) for d in api.get("deep_links", [])):
+        api.setdefault("deep_links", []).append({
+            "pattern": "?id=<JAH-DICT-W-######|JAH-DICT-T-######>",
+            "desc": "Open an entry directly by its permanent stamp ID."})
+    with open(apath, "w", encoding="utf-8") as f:
+        json.dump(api, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+    log("api.json refreshed: records_approx=%d as_of=%s" %
+        (stats["total"], stats["last_updated"]))
+
+
 def write_stats(n_words, n_terms):
     spath = os.path.join(IDXDIR, "stats.json")
     # Authoritative dictionary metadata: every visible count on the page
@@ -411,7 +463,9 @@ def main():
     entries.sort(key=lambda e: (e["key"], e["k"]))  # word ("w") before term ("t") on collision
     index, n_chunks = write_chunks(entries)
     ipath = write_index(index)
-    write_stats(len(words), len(terms))
+    write_stamp_index(entries)
+    stats = write_stats(len(words), len(terms))
+    refresh_api(stats)
     verify(index, ipath)
     # data size
     total = 0

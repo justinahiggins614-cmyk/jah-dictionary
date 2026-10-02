@@ -26216,6 +26216,806 @@
 {"w": "glycolyl", "pos": "noun", "d": ["The chemical group derived from glycolic acid."], "src": "iwb"}
 {"w": "glyconian", "pos": "adjective", "d": ["Relating to a form of ancient Greek verse."], "src": "iwb"}
 {"w": "glyconic", "pos": "adjective", "d": ["Relating to glyconic verse, a meter of ancient Greek poetry."], "src": "iwb"}
+{"w": "glyconin", "pos": "noun", "d": ["A medicinal ointment made from glycerin blended with egg yolk."], "src": "iwb"}
+{"w": "glycose", "pos": "noun", "d": ["An older name for glucose, the simple sugar found in fruit, honey, and blood."], "src": "iwb"}
+{"w": "glycosine", "pos": "noun", "d": ["A white, crystalline organic compound formed when ammonia acts on glyoxal."], "src": "iwb"}
+{"w": "glycosometer", "pos": "noun", "d": ["An instrument used to measure the amount of sugar in a liquid, such as urine."], "src": "iwb"}
+{"w": "glycosuria", "pos": "noun", "d": ["A condition in which sugar is present in the urine, often linked to diabetes."], "src": "iwb"}
+{"w": "glycyrrhiza", "pos": "noun", "d": ["A genus of flowering plants that includes licorice, whose sweet roots are used for flavoring."], "src": "iwb"}
+{"w": "glycyrrhizimic", "pos": "adjective", "d": ["Relating to glycyrrhizin, the sweet compound found in licorice root."], "src": "iwb"}
+{"w": "glycyrrhizin", "pos": "noun", "d": ["The sweet-tasting substance extracted from licorice root."], "src": "iwb"}
+{"w": "glyn", "pos": "noun", "d": ["An old spelling of glynne; a narrow valley, especially one with a stream at its bottom."], "src": "iwb"}
+{"w": "glynne", "pos": "noun", "d": ["An old word for a narrow valley or glen, now found mainly in Irish place names."], "src": "iwb"}
+{"w": "glyoxal", "pos": "noun", "d": ["A white, easily dissolved powder, the simplest dialdehyde, used in making textiles and paper."], "src": "iwb"}
+{"w": "glyoxaline", "pos": "noun", "d": ["An older name for imidazole, a nitrogen-containing organic compound."], "src": "iwb"}
+{"w": "glyoxime", "pos": "noun", "d": ["A white, crystalline nitrogen compound produced when hydroxylamine acts on glyoxal."], "src": "iwb"}
+{"w": "glyph", "pos": "noun", "d": ["A carved or written symbol, such as a character in an ancient writing system.", "In architecture, a sunken channel or groove, usually vertical."], "src": "iwb"}
+{"w": "glyphograph", "pos": "noun", "d": ["A printing plate made by glyphography, or an impression taken from such a plate."], "src": "iwb"}
+{"w": "glyphography", "pos": "noun", "d": ["A process of making raised printing plates from drawings by means of electricity."], "src": "iwb"}
+{"w": "glyptic", "pos": "adjective", "d": ["Relating to the art of engraving on gems or precious stones."], "src": "iwb"}
+{"w": "glyptodon", "pos": "noun", "d": ["An extinct giant mammal of South America, related to the armadillo and protected by a bony shell."], "src": "iwb"}
+{"w": "glyptodont", "pos": "noun", "d": ["Any of an extinct family of giant, shell-covered mammals related to the armadillo."], "src": "iwb"}
+{"w": "glyptographic", "pos": "adjective", "d": ["Relating to glyptography, the art of engraving on precious stones."], "src": "iwb"}
+{"w": "glyptography", "pos": "noun", "d": ["The art or process of engraving on precious stones."], "src": "iwb"}
+{"w": "glyptotheca", "pos": "noun", "d": ["A building or room devoted to works of sculpture."], "src": "iwb"}
+{"w": "glyster", "pos": "noun", "d": ["An old spelling of clyster, a liquid given as an enema."], "src": "iwb"}
+{"w": "gmelinite", "pos": "noun", "d": ["A glassy zeolite mineral found in volcanic rocks, related to chabazite."], "src": "iwb"}
+{"w": "gnaphalium", "pos": "noun", "d": ["A genus of woolly herbs of the daisy family, commonly called cudweeds."], "src": "iwb"}
+{"w": "gnar", "pos": "noun", "d": ["A knot or twisted lump in wood.", "An old term for a tough, thickset man."], "src": "iwb"}
+{"w": "gnarl", "pos": "verb", "d": ["To growl or snarl in a low, rough tone."], "src": "iwb"}
+{"w": "gnash", "pos": "verb", "d": ["To grind or strike the teeth together, as in anger or pain."], "src": "iwb"}
+{"w": "gnashingly", "pos": "adverb", "d": ["With a grinding together of the teeth."], "src": "iwb"}
+{"w": "gnat", "pos": "noun", "d": ["A tiny biting fly; in America, often a mosquito or black fly."], "src": "iwb"}
+{"w": "gnathic", "pos": "adjective", "d": ["Relating to the jaw."], "src": "iwb"}
+{"w": "gnathidium", "pos": "noun", "d": ["The bare lower portion of a bird's jaw on each side, usually spoken of in the plural."], "src": "iwb"}
+{"w": "gnathite", "pos": "noun", "d": ["Any of the jawlike mouthparts of an arthropod, such as a mandible or maxilla."], "src": "iwb"}
+{"w": "gnathonic", "pos": "adjective", "d": ["Flattering in a servile, deceitful way."], "src": "iwb"}
+{"w": "gnathopod", "pos": "noun", "d": ["A limb of a crustacean that is modified to work like a jaw."], "src": "iwb"}
+{"w": "gnathopodite", "pos": "noun", "d": ["A leglike appendage of a crustacean that is modified, wholly or partly, to serve as a jaw."], "src": "iwb"}
+{"w": "gnathostegite", "pos": "noun", "d": ["One of a pair of broad plates in crabs, formed from the outer jaw-feet, that cover the other mouthparts."], "src": "iwb"}
+{"w": "gnathostoma", "pos": "noun", "d": ["The great group of vertebrate animals that possess distinct jaws."], "src": "iwb"}
+{"w": "gnathotheca", "pos": "noun", "d": ["The horny covering of a bird's lower mandible."], "src": "iwb"}
+{"w": "gnaw", "pos": "verb", "d": ["To bite or chew at something over and over, wearing it away bit by bit.", "To trouble the mind persistently, as worry or guilt does."], "src": "iwb"}
+{"w": "gneiss", "pos": "noun", "d": ["A banded crystalline rock of quartz, feldspar, and mica that breaks into coarse slabs."], "src": "iwb"}
+{"w": "gneissoid", "pos": "adjective", "d": ["Resembling gneiss in structure or appearance."], "src": "iwb"}
+{"w": "gneissose", "pos": "adjective", "d": ["Having the layered, banded structure of gneiss."], "src": "iwb"}
+{"w": "gnew", "pos": "verb", "d": ["An old or dialectal past tense of gnaw."], "src": "iwb"}
+{"w": "gnide", "pos": "verb", "d": ["To rub or bruise; to break into pieces."], "src": "iwb"}
+{"w": "gnof", "pos": "noun", "d": ["A churlish, miserly person; a curmudgeon."], "src": "iwb"}
+{"w": "gnomic", "pos": "adjective", "d": ["Expressing wisdom in short, pithy sayings; aphoristic."], "src": "iwb"}
+{"w": "gnomologic", "pos": "adjective", "d": ["Relating to a collection of maxims or wise sayings."], "src": "iwb"}
+{"w": "gnomology", "pos": "noun", "d": ["A collection or treatise of maxims, proverbs, and wise reflections."], "src": "iwb"}
+{"w": "gnomon", "pos": "noun", "d": ["The upright pin of a sundial whose shadow marks the hour.", "In geometry, the L-shaped remainder when a smaller similar parallelogram is cut out of a larger one."], "src": "iwb"}
+{"w": "gnoscopine", "pos": "noun", "d": ["An alkaloid found in small quantities in opium."], "src": "iwb"}
+{"w": "gnosis", "pos": "noun", "d": ["Spiritual insight into divine truth, such as was claimed by the Gnostics."], "src": "iwb"}
+{"w": "gnostic", "pos": "adjective", "d": ["Relating to Gnosticism or its followers."], "src": "iwb"}
+{"w": "gnow", "pos": "verb", "d": ["An old past tense of gnaw."], "src": "iwb"}
+{"w": "go-between", "pos": "noun", "d": ["A person who carries messages or arranges dealings between two parties; a mediator."], "src": "iwb"}
+{"w": "go-by", "pos": "noun", "d": ["A deliberate passing over; intentional neglect."], "src": "iwb"}
+{"w": "go-devil", "pos": "noun", "d": ["A device sent through a pipeline to clean it or to test for faults."], "src": "iwb"}
+{"w": "go-out", "pos": "noun", "d": ["A social outing or excursion."], "src": "iwb"}
+{"w": "goa", "pos": "noun", "d": ["A small antelope of the Tibetan highlands with a grayish coat."], "src": "iwb"}
+{"w": "goa powder", "pos": "noun", "d": ["A bitter medicinal powder from a Brazilian tree, used as a source of chrysarobin."], "src": "iwb"}
+{"w": "goad", "pos": "verb", "d": ["To urge forward as with a pointed stick; to provoke or stimulate.", "(As a noun) A pointed stick used to drive cattle; anything that urges or stimulates."], "src": "iwb"}
+{"w": "goaf", "pos": "noun", "d": ["The part of a mine from which the mineral has been partly or wholly removed; the waste left in old workings."], "src": "iwb"}
+{"w": "goar", "pos": "noun", "d": ["An old spelling of gore; a triangular piece of cloth set into a garment."], "src": "iwb"}
+{"w": "goaves", "pos": "noun", "d": ["Old mine workings from which the ore has been taken."], "src": "iwb"}
+{"w": "gob", "pos": "noun", "d": ["A small lump or mass; a mouthful.", "In mining, waste rock left in old workings."], "src": "iwb"}
+{"w": "gobang", "pos": "noun", "d": ["A Japanese board game played with black and white stones on a grid; also called gomoku."], "src": "iwb"}
+{"w": "gobble", "pos": "verb", "d": ["To eat greedily and hastily.", "To make the throaty sound of a turkey."], "src": "iwb"}
+{"w": "gobelin", "pos": "adjective", "d": ["Relating to the Gobelins tapestry works in Paris, or to tapestry made there."], "src": "iwb"}
+{"w": "gobemouche", "pos": "noun", "d": ["A silly, credulous person who believes anything; literally, a fly-swallower."], "src": "iwb"}
+{"w": "gobet", "pos": "noun", "d": ["A small piece or lump; a mouthful."], "src": "iwb"}
+{"w": "gobioid", "pos": "adjective", "d": ["Like a goby; belonging to the goby family of fishes."], "src": "iwb"}
+{"w": "goby", "pos": "noun", "d": ["A small, bottom-dwelling marine fish whose pelvic fins are fused into a sucker."], "src": "iwb"}
+{"w": "gocart", "pos": "noun", "d": ["A small framework on wheels that supports a child learning to walk.", "A small, simple open motor vehicle; a go-kart."], "src": "iwb"}
+{"w": "god", "pos": "noun", "d": ["A being worshiped as possessing supernatural power; a deity.", "The Supreme Being, the eternal creator and ruler of the universe.", "A person or thing treated as the chief object of devotion."], "src": "iwb"}
+{"w": "god-fearing", "pos": "adjective", "d": ["Deeply reverent toward God; devoutly religious."], "src": "iwb"}
+{"w": "gode", "pos": "adjective", "d": ["An old spelling of good."], "src": "iwb"}
+{"w": "gode-year", "pos": "phrase", "d": ["An old form of good-year, used as a mild oath or expression of annoyance."], "src": "iwb"}
+{"w": "godild", "pos": "interjection", "d": ["An old corruption of \"God yield,\" meaning God reward or bless you."], "src": "iwb"}
+{"w": "godliness", "pos": "noun", "d": ["Devoutness; reverent obedience to God; piety."], "src": "iwb"}
+{"w": "goel", "pos": "noun", "d": ["A Hebrew term for the nearest kinsman, who had the duty to redeem or avenge a relative.", "An old adjective meaning yellow."], "src": "iwb"}
+{"w": "goemin", "pos": "noun", "d": ["A complex mixture of substances extracted from Irish moss."], "src": "iwb"}
+{"w": "goen", "pos": "verb", "d": ["An old past participle of go."], "src": "iwb"}
+{"w": "goer", "pos": "noun", "d": ["One who goes; a person who regularly attends something.", "A horse judged by its gait, as a good goer."], "src": "iwb"}
+{"w": "goethite", "pos": "noun", "d": ["A brownish iron ore mineral, an iron hydroxide found in many soils and rocks."], "src": "iwb"}
+{"w": "goety", "pos": "noun", "d": ["The invoking of evil spirits; witchcraft or sorcery."], "src": "iwb"}
+{"w": "goff", "pos": "noun", "d": ["A silly, clownish person.", "An old spelling of golf, the game played with clubs and a small ball."], "src": "iwb"}
+{"w": "gog", "pos": "noun", "d": ["Eager haste; an ardent desire to be off."], "src": "iwb"}
+{"w": "goggle", "pos": "verb", "d": ["To stare with wide, rolling eyes.", "(As a noun) A pair of tight-fitting protective glasses."], "src": "iwb"}
+{"w": "goggle-eye", "pos": "noun", "d": ["Any of several American freshwater fishes with large, prominent eyes."], "src": "iwb"}
+{"w": "goiter", "pos": "noun", "d": ["An enlargement of the thyroid gland, causing a swelling in the front of the neck."], "src": "iwb"}
+{"w": "goitre", "pos": "noun", "d": ["An alternate spelling of goiter."], "src": "iwb"}
+{"w": "goitrous", "pos": "adjective", "d": ["Affected with or relating to goiter."], "src": "iwb"}
+{"w": "gold-beaten", "pos": "adjective", "d": ["Flattened into thin leaf by hammering; gilded."], "src": "iwb"}
+{"w": "gold-beating", "pos": "noun", "d": ["The craft of hammering gold into extremely thin leaves."], "src": "iwb"}
+{"w": "gold-bound", "pos": "adjective", "d": ["Bound or encircled with gold."], "src": "iwb"}
+{"w": "gold-hammer", "pos": "noun", "d": ["The yellowhammer, a European bunting with a bright yellow head."], "src": "iwb"}
+{"w": "golde", "pos": "noun", "d": ["An old name for a yellow flower, especially the marigold."], "src": "iwb"}
+{"w": "golden state", "pos": "phrase", "d": ["A nickname for the state of California."], "src": "iwb"}
+{"w": "golden-eye", "pos": "noun", "d": ["A northern diving duck with striking yellow eyes and whistling wings."], "src": "iwb"}
+{"w": "golden-rod", "pos": "noun", "d": ["Any of a group of tall herbs bearing clusters of small yellow flowers; the genus Solidago."], "src": "iwb"}
+{"w": "goldie", "pos": "noun", "d": ["An affectionate name for a person or pet with golden coloring, also used as a given name."], "src": "iwb"}
+{"w": "goldilocks", "pos": "noun", "d": ["The golden-haired girl in the fairy tale about three bears and a bowl of porridge.", "A zone around a star where temperatures may be just right for life to exist."], "src": "iwb"}
+{"w": "goldin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "goldney", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "goldsinny", "pos": "noun", "d": ["A small wrasse of the northeastern Atlantic, with a spotted greenish body."], "src": "iwb"}
+{"w": "goldylocks", "pos": "noun", "d": ["A European plant with clusters of golden-yellow flower heads.", "A variant spelling of Goldilocks."], "src": "iwb"}
+{"w": "golet", "pos": "noun", "d": ["A small two-masted sailing vessel; a little schooner."], "src": "iwb"}
+{"w": "golgotha", "pos": "noun", "d": ["The hill outside Jerusalem where Jesus was crucified.", "Any place of great suffering or execution."], "src": "iwb"}
+{"w": "goliard", "pos": "noun", "d": ["One of the wandering scholars and clerics of medieval Europe, known for satirical songs and poems."], "src": "iwb"}
+{"w": "goliardery", "pos": "noun", "d": ["The satirical songs and poems of the goliards, and their wandering way of life."], "src": "iwb"}
+{"w": "goliath beetle", "pos": "noun", "d": ["Any of several very large African beetles, among the heaviest insects in the world."], "src": "iwb"}
+{"w": "goll", "pos": "noun", "d": ["An old word for a hand, paw, or claw."], "src": "iwb"}
+{"w": "goloe-shoe", "pos": "noun", "d": ["A waterproof overshoe; an old spelling of galosh."], "src": "iwb"}
+{"w": "golore", "pos": "adjective", "d": ["An obsolete spelling of galore, meaning in great abundance."], "src": "iwb"}
+{"w": "goloshe", "pos": "noun", "d": ["An old spelling of galosh; a waterproof overshoe."], "src": "iwb"}
+{"w": "goltschut", "pos": "noun", "d": ["A small ingot of gold.", "A silver ingot once used as money in Japan."], "src": "iwb"}
+{"w": "golyardeys", "pos": "noun", "d": ["Plural of golyard, a variant spelling of goliard."], "src": "iwb"}
+{"w": "goman", "pos": "noun", "d": ["An old word for a husband, or the master of a family."], "src": "iwb"}
+{"w": "gomarist", "pos": "noun", "d": ["A follower of Franciscus Gomarus, the Dutch theologian who opposed Arminius."], "src": "iwb"}
+{"w": "gomarite", "pos": "noun", "d": ["A follower of Franciscus Gomarus, the Dutch theologian who opposed Arminius."], "src": "iwb"}
+{"w": "gombo", "pos": "noun", "d": ["The okra plant or its seed pods.", "A thick soup or stew made with okra."], "src": "iwb"}
+{"w": "gome", "pos": "noun", "d": ["Thick black grease used for lubricating machinery.", "Heed or attention, in Scots usage."], "src": "iwb"}
+{"w": "gommelin", "pos": "noun", "d": ["An old name for dextrin, a gummy substance obtained from starch."], "src": "iwb"}
+{"w": "gomphiasis", "pos": "noun", "d": ["An abnormal looseness of the teeth in their sockets."], "src": "iwb"}
+{"w": "gomphosis", "pos": "noun", "d": ["The fibrous joint that fastens a tooth in its socket."], "src": "iwb"}
+{"w": "gomuti", "pos": "noun", "d": ["A tall palm of southeast Asia, also called the sugar palm.", "The coarse black fiber from this palm, used for ropes and brushes."], "src": "iwb"}
+{"w": "gon", "pos": "verb", "d": ["An archaic past participle of go, meaning gone."], "src": "iwb"}
+{"w": "gonad", "pos": "noun", "d": ["An organ that produces reproductive cells; a testis or an ovary."], "src": "iwb"}
+{"w": "gonakie", "pos": "noun", "d": ["A small decked sailing vessel used on the west coast of Africa."], "src": "iwb"}
+{"w": "gonangium", "pos": "noun", "d": ["A reproductive capsule or zooid in a hydroid colony."], "src": "iwb"}
+{"w": "gondola", "pos": "noun", "d": ["A long, narrow boat rowed with a single oar on the canals of Venice.", "An enclosed cabin hung beneath a cable car, balloon, or airship."], "src": "iwb"}
+{"w": "gondolet", "pos": "noun", "d": ["A small gondola."], "src": "iwb"}
+{"w": "gondolier", "pos": "noun", "d": ["A person who rows a gondola."], "src": "iwb"}
+{"w": "gonfalon", "pos": "noun", "d": ["A banner or standard hung from a crossbar, especially one flown by Italian city-states."], "src": "iwb"}
+{"w": "gonfalonier", "pos": "noun", "d": ["A person who carries a gonfalon; a standard-bearer.", "A chief magistrate of Florence or another Italian city."], "src": "iwb"}
+{"w": "gong", "pos": "noun", "d": ["A large hanging metal disk that gives a deep ringing sound when struck."], "src": "iwb"}
+{"w": "gongorism", "pos": "noun", "d": ["An ornate and affected style of writing, imitating the Spanish poet Gongora."], "src": "iwb"}
+{"w": "goniatite", "pos": "noun", "d": ["An extinct shelled cephalopod with a coiled shell, related to the ammonites."], "src": "iwb"}
+{"w": "gonidial", "pos": "adjective", "d": ["Relating to a gonidium."], "src": "iwb"}
+{"w": "gonidium", "pos": "noun", "d": ["A chlorophyll-bearing algal cell, especially one in the green layer of a lichen."], "src": "iwb"}
+{"w": "gonimia", "pos": "noun", "d": ["The reproductive organs of an animal, taken together."], "src": "iwb"}
+{"w": "gonimous", "pos": "adjective", "d": ["Relating to the reproductive organs."], "src": "iwb"}
+{"w": "goniometer", "pos": "noun", "d": ["An instrument for measuring angles."], "src": "iwb"}
+{"w": "goniometric", "pos": "adjective", "d": ["Relating to goniometry; measured with a goniometer."], "src": "iwb"}
+{"w": "goniometry", "pos": "noun", "d": ["The measurement of angles.", "The measurement of the range of motion of the joints of the body."], "src": "iwb"}
+{"w": "gonoblastid", "pos": "noun", "d": ["A reproductive zooid of a hydroid that bears the gonophores."], "src": "iwb"}
+{"w": "gonoblastidium", "pos": "noun", "d": ["A reproductive branchlet of a hydroid colony that develops into gonophores."], "src": "iwb"}
+{"w": "gonocalyx", "pos": "noun", "d": ["A cup-shaped protective covering over the reproductive zooids of certain hydroids."], "src": "iwb"}
+{"w": "gonochorism", "pos": "noun", "d": ["The condition of having separate male and female individuals in a species."], "src": "iwb"}
+{"w": "gonococcus", "pos": "noun", "d": ["The bacterium that causes gonorrhea."], "src": "iwb"}
+{"w": "gonoph", "pos": "noun", "d": ["A thief, especially a pickpocket; a piece of Yiddish slang."], "src": "iwb"}
+{"w": "gonorrhea", "pos": "noun", "d": ["A sexually transmitted disease that causes inflammation and discharge from the genital organs."], "src": "iwb"}
+{"w": "gonorrheal", "pos": "adjective", "d": ["Relating to or affected by gonorrhea."], "src": "iwb"}
+{"w": "gonorrhoea", "pos": "noun", "d": ["The British spelling of gonorrhea, a sexually transmitted disease."], "src": "iwb"}
+{"w": "gonorrhoeal", "pos": "adjective", "d": ["The British spelling of gonorrheal; relating to gonorrhea."], "src": "iwb"}
+{"w": "gonosome", "pos": "noun", "d": ["The reproductive zooids of a hydroid colony, taken together.", "The set of sex chromosomes in a cell."], "src": "iwb"}
+{"w": "gonotheca", "pos": "noun", "d": ["A horny, cup-shaped case that protects the reproductive zooids of certain hydroids."], "src": "iwb"}
+{"w": "gonozooid", "pos": "noun", "d": ["A reproductive zooid in a colonial hydroid."], "src": "iwb"}
+{"w": "gonydial", "pos": "adjective", "d": ["Relating to the gonys."], "src": "iwb"}
+{"w": "gonys", "pos": "noun", "d": ["The lower ridge of a bird's bill, where the two halves of the lower jaw meet."], "src": "iwb"}
+{"w": "goober", "pos": "noun", "d": ["A peanut.", "A foolish or naive person."], "src": "iwb"}
+{"w": "good fellowship", "pos": "phrase", "d": ["Warm, friendly companionship."], "src": "iwb"}
+{"w": "good now", "pos": "phrase", "d": ["An exclamation expressing wonder, surprise, or entreaty."], "src": "iwb"}
+{"w": "good-by", "pos": "interjection", "d": ["An expression of farewell; a variant spelling of goodbye."], "src": "iwb"}
+{"w": "good-bye", "pos": "interjection", "d": ["An expression of farewell."], "src": "iwb"}
+{"w": "good-den", "pos": "interjection", "d": ["An old greeting meaning good evening, shortened from good e'en."], "src": "iwb"}
+{"w": "good-fellowship", "pos": "noun", "d": ["Sociable companionship; friendly goodwill."], "src": "iwb"}
+{"w": "good-humored", "pos": "adjective", "d": ["Cheerful and pleasant in temper."], "src": "iwb"}
+{"w": "good-looking", "pos": "adjective", "d": ["Pleasing to look at; attractive."], "src": "iwb"}
+{"w": "good-natured", "pos": "adjective", "d": ["Kind and easygoing in disposition."], "src": "iwb"}
+{"w": "good-tempered", "pos": "adjective", "d": ["Not easily angered; mild and calm in disposition."], "src": "iwb"}
+{"w": "goodgeon", "pos": "noun", "d": ["An old spelling of gudgeon, the metal fitting by which a ship's rudder is hung."], "src": "iwb"}
+{"w": "goodliness", "pos": "noun", "d": ["The quality of being good or beautiful."], "src": "iwb"}
+{"w": "goody", "pos": "noun", "d": ["A sweet treat, especially candy given to children.", "An old-fashioned respectful term for a married woman, short for goodwife."], "src": "iwb"}
+{"w": "goody-goody", "pos": "noun", "d": ["A person who is smugly or excessively virtuous."], "src": "iwb"}
+{"w": "goolde", "pos": "noun", "d": ["An old English name for a yellow flower, especially the marigold."], "src": "iwb"}
+{"w": "gooroo", "pos": "noun", "d": ["An old spelling of guru; a spiritual teacher or guide."], "src": "iwb"}
+{"w": "goosander", "pos": "noun", "d": ["A large diving duck of northern lakes and rivers that feeds on fish."], "src": "iwb"}
+{"w": "goose", "pos": "noun", "d": ["A large long-necked waterbird related to ducks and swans.", "A sudden sharp poke in the buttocks."], "src": "iwb"}
+{"w": "goose egg", "pos": "noun", "d": ["A score of zero in a game.", "A raised bump on the head caused by a blow."], "src": "iwb"}
+{"w": "goose-rumped", "pos": "adjective", "d": ["Having a large, rounded rump like a goose's."], "src": "iwb"}
+{"w": "goosery", "pos": "noun", "d": ["A place where geese are kept.", "A silly act or remark."], "src": "iwb"}
+{"w": "goosish", "pos": "adjective", "d": ["Silly or foolish, like a goose."], "src": "iwb"}
+{"w": "goost", "pos": "noun", "d": ["An old spelling of ghost."], "src": "iwb"}
+{"w": "goot", "pos": "noun", "d": ["An old spelling of goat."], "src": "iwb"}
+{"w": "gopher", "pos": "noun", "d": ["A burrowing rodent of North America with large cheek pouches.", "An early internet protocol for distributing documents."], "src": "iwb"}
+{"w": "gopher state", "pos": "noun", "d": ["A nickname for the U.S. state of Minnesota."], "src": "iwb"}
+{"w": "gopher wood", "pos": "noun", "d": ["The unidentified wood from which Noah's ark was said to be built."], "src": "iwb"}
+{"w": "gor-belly", "pos": "noun", "d": ["A large, protruding belly.", "A person with such a belly."], "src": "iwb"}
+{"w": "goracco", "pos": "noun", "d": ["A paste of tobacco and sweeteners smoked in hookahs in western India."], "src": "iwb"}
+{"w": "goral", "pos": "noun", "d": ["A small goat-like antelope of the mountains of Asia."], "src": "iwb"}
+{"w": "goramy", "pos": "noun", "d": ["A variant spelling of gourami, a freshwater food fish of southeast Asia."], "src": "iwb"}
+{"w": "gorce", "pos": "noun", "d": ["An old word for a pool of water used to keep fish; a weir."], "src": "iwb"}
+{"w": "gorcock", "pos": "noun", "d": ["The male of the red grouse."], "src": "iwb"}
+{"w": "gorcrow", "pos": "noun", "d": ["The hooded crow, a gray-and-black crow of northern Europe."], "src": "iwb"}
+{"w": "gord", "pos": "noun", "d": ["An old word for a kind of dice used in gaming.", "A medieval Slavic fortified settlement of wooden houses ringed by earth and timber walls."], "src": "iwb"}
+{"w": "gordiacea", "pos": "noun", "d": ["A group of long, slender parasitic worms; the horsehair worms."], "src": "iwb"}
+{"w": "gordian", "pos": "adjective", "d": ["Extremely tangled or complex, like the Gordian knot."], "src": "iwb"}
+{"w": "gordius", "pos": "noun", "d": ["A genus of long, slender parasitic worms; the typical horsehair worms."], "src": "iwb"}
+{"w": "gorfly", "pos": "noun", "d": ["A fly that breeds in dung; a dung fly."], "src": "iwb"}
+{"w": "gorge", "pos": "noun", "d": ["A narrow valley with steep rocky sides, often with a stream running through it.", "A large, hungrily eaten meal."], "src": "iwb"}
+{"w": "gorgerin", "pos": "noun", "d": ["In classical architecture, the neck of a column's capital, the band just below its top slab."], "src": "iwb"}
+{"w": "gorget", "pos": "noun", "d": ["A piece of armor that protects the throat and neck.", "A small crescent-shaped metal plate once worn at the throat by military officers as a badge of rank."], "src": "iwb"}
+{"w": "gorgon", "pos": "noun", "d": ["In Greek myth, one of three monstrous sisters with snakes for hair whose gaze turned beholders to stone, Medusa being the most famous.", "A terrifying or forbiddingly stern person."], "src": "iwb"}
+{"w": "gorgonacea", "pos": "noun", "d": ["An order of soft corals that includes the sea fans and sea whips."], "src": "iwb"}
+{"w": "gorgoneion", "pos": "noun", "d": ["In ancient Greek art, a depicted head of a gorgon, often used as a protective emblem on shields and temples."], "src": "iwb"}
+{"w": "gorgonia", "pos": "noun", "d": ["A genus of sea fans, branching corals that grow upright in warm ocean waters."], "src": "iwb"}
+{"w": "gorgoniacea", "pos": "noun", "d": ["An order of soft corals including sea fans and sea whips, typically growing in branching colonies."], "src": "iwb"}
+{"w": "gorgonian", "pos": "noun", "d": ["Any soft coral of the order Gorgonacea, such as a sea fan or sea whip."], "src": "iwb"}
+{"w": "gorgonzola", "pos": "noun", "d": ["A strong-flavored Italian cheese veined with blue-green mold."], "src": "iwb"}
+{"w": "gorhen", "pos": "noun", "d": ["The female of the red grouse, a game bird of British moorlands."], "src": "iwb"}
+{"w": "gorilla", "pos": "noun", "d": ["The largest living ape, a powerful ground-dwelling primate of central Africa."], "src": "iwb"}
+{"w": "goring cloth", "pos": "noun", "d": ["A piece of canvas cut on the slant to widen a sail at its foot.", "A triangular piece of cloth inserted to widen a garment."], "src": "iwb"}
+{"w": "gorm", "pos": "noun", "d": ["In Northern English dialect, a foolish or senseless person.", "The Scots Gaelic word for blue, also used of green growing things."], "src": "iwb"}
+{"w": "gorma", "pos": "noun", "d": ["An old name for the European cormorant, a large black seabird."], "src": "iwb"}
+{"w": "goroon shell", "pos": "noun", "d": ["A large, showy, spiral marine shell, the shell of a predatory sea snail of the triton group."], "src": "iwb"}
+{"w": "gorse", "pos": "noun", "d": ["A spiny evergreen shrub with bright yellow flowers, common on European heaths; also called furze or whin."], "src": "iwb"}
+{"w": "gory", "pos": "adjective", "d": ["Covered with blood; bloody.", "Involving bloodshed; gruesome."], "src": "iwb"}
+{"w": "goshawk", "pos": "noun", "d": ["A large, short-winged hawk that hunts birds and small mammals in woodlands."], "src": "iwb"}
+{"w": "gosherd", "pos": "noun", "d": ["A person whose work is tending geese."], "src": "iwb"}
+{"w": "goslet", "pos": "noun", "d": ["A young goose; a gosling."], "src": "iwb"}
+{"w": "gosling", "pos": "noun", "d": ["A young goose."], "src": "iwb"}
+{"w": "goss", "pos": "noun", "d": ["An old word for gorse, the spiny yellow-flowered shrub.", "In old slang, a tall silk hat."], "src": "iwb"}
+{"w": "gossamer", "pos": "noun", "d": ["Fine, filmy cobwebs floating in the air, spun by small spiders.", "Anything light, thin, and delicate."], "src": "iwb"}
+{"w": "gossamery", "pos": "adjective", "d": ["Light and delicate like gossamer."], "src": "iwb"}
+{"w": "gossan", "pos": "noun", "d": ["A rusty, iron-stained rock capping a mineral deposit, formed by the weathering of sulfide ores."], "src": "iwb"}
+{"w": "gossaniferous", "pos": "adjective", "d": ["Containing or yielding gossan."], "src": "iwb"}
+{"w": "gossat", "pos": "noun", "d": ["A small marine fish of British waters, the three-bearded rockling, also called the whistler."], "src": "iwb"}
+{"w": "gossib", "pos": "noun", "d": ["An old word for a gossip; originally a godparent or close friend."], "src": "iwb"}
+{"w": "gossipry", "pos": "noun", "d": ["The act or habit of gossiping; idle talk about other people."], "src": "iwb"}
+{"w": "gossipy", "pos": "adjective", "d": ["Fond of gossip; full of talk about other people's affairs."], "src": "iwb"}
+{"w": "gossypium", "pos": "noun", "d": ["The plant genus that includes cotton."], "src": "iwb"}
+{"w": "gote", "pos": "noun", "d": ["An old word for a water channel, drain, or sluice."], "src": "iwb"}
+{"w": "goth", "pos": "noun", "d": ["A member of the Germanic peoples who overran much of the Roman Empire in ancient times.", "A follower of the modern goth subculture, marked by dark dress and music."], "src": "iwb"}
+{"w": "gothamist", "pos": "noun", "d": ["An old word for a foolish or witless person, named for the village of Gotham, once famed in tales for its blunders."], "src": "iwb"}
+{"w": "gothite", "pos": "noun", "d": ["A reddish-brown to yellow mineral, an oxide of iron common in rust and iron ores; also called goethite."], "src": "iwb"}
+{"w": "gouache", "pos": "noun", "d": ["An opaque form of watercolor paint.", "A painting done in such paint."], "src": "iwb"}
+{"w": "goud", "pos": "noun", "d": ["The Scots word for gold."], "src": "iwb"}
+{"w": "goudron", "pos": "noun", "d": ["Tar, especially coal tar."], "src": "iwb"}
+{"w": "gouge", "pos": "noun", "d": ["A chisel with a curved blade for cutting grooves or scooping out wood.", "The act of cheating or overcharging someone."], "src": "iwb"}
+{"w": "goujere", "pos": "noun", "d": ["A small puff pastry made with cheese, often served as an appetizer."], "src": "iwb"}
+{"w": "gouland", "pos": "noun", "d": ["An old name for the corn marigold, a bright yellow wildflower."], "src": "iwb"}
+{"w": "goulards extract", "pos": "noun", "d": ["A medicinal solution of lead acetate in water, formerly used as a cooling lotion for bruises and swelling."], "src": "iwb"}
+{"w": "gour", "pos": "noun", "d": ["An old word for a fire worshiper of Persia, a Zoroastrian.", "Another name for the koulan, a wild horse of Central Asia."], "src": "iwb"}
+{"w": "goura", "pos": "noun", "d": ["A genus of large crowned pigeons of New Guinea, noted for their lacy head crests."], "src": "iwb"}
+{"w": "gourami", "pos": "noun", "d": ["A freshwater fish of Southeast Asia, several kinds of which are popular in home aquariums."], "src": "iwb"}
+{"w": "gourd", "pos": "noun", "d": ["A hard-shelled fruit of the squash family, often dried and used as a bottle, dipper, or ornament.", "The plant that bears such fruit."], "src": "iwb"}
+{"w": "gourd tree", "pos": "noun", "d": ["A tropical American tree bearing large hard fruits with gourdlike shells, used for bowls and cups."], "src": "iwb"}
+{"w": "gourde", "pos": "noun", "d": ["The basic unit of money of Haiti."], "src": "iwb"}
+{"w": "gourdiness", "pos": "noun", "d": ["The condition of being gourdy; swelling of the legs."], "src": "iwb"}
+{"w": "gourdy", "pos": "adjective", "d": ["Swollen, especially in the legs."], "src": "iwb"}
+{"w": "gout", "pos": "noun", "d": ["A painful disease of the joints caused by deposits of uric acid.", "An old word for a drop of liquid.", "Taste or relish for something."], "src": "iwb"}
+{"w": "goutily", "pos": "adverb", "d": ["In a gouty manner; as one afflicted with gout."], "src": "iwb"}
+{"w": "goutiness", "pos": "noun", "d": ["The state of being afflicted with gout."], "src": "iwb"}
+{"w": "gouty", "pos": "adjective", "d": ["Afflicted with gout.", "Swollen like a limb with gout."], "src": "iwb"}
+{"w": "gove", "pos": "noun", "d": ["An old word for a mow or stack of hay.", "In Scots, a stare or vacant gaze."], "src": "iwb"}
+{"w": "govern", "pos": "verb", "d": ["To rule or control a country, state, or people.", "To regulate or direct the behavior of something."], "src": "iwb"}
+{"w": "governess", "pos": "noun", "d": ["A woman employed to teach and care for children in a private household."], "src": "iwb"}
+{"w": "governor general", "pos": "noun", "d": ["The representative of a monarch in a country or colony under that monarch's rule."], "src": "iwb"}
+{"w": "gowan", "pos": "noun", "d": ["The Scots word for a daisy."], "src": "iwb"}
+{"w": "gowany", "pos": "adjective", "d": ["Abounding in daisies."], "src": "iwb"}
+{"w": "gowd", "pos": "noun", "d": ["The Scots word for gold."], "src": "iwb"}
+{"w": "gowdie", "pos": "noun", "d": ["A Scots name for the dragonet, a small marine fish.", "A Scots name for the greater weever, another sea fish."], "src": "iwb"}
+{"w": "gowk", "pos": "noun", "d": ["The Scots word for the cuckoo.", "In Scots, a fool or simpleton."], "src": "iwb"}
+{"w": "gowl", "pos": "verb", "d": ["To howl or cry out loudly.", "To wail in grief or pain."], "src": "iwb"}
+{"w": "gown", "pos": "noun", "d": ["A long, loose outer garment worn on formal occasions or by academics, judges, and clergy.", "A woman's elegant dress."], "src": "iwb"}
+{"w": "gownsman", "pos": "noun", "d": ["A man who wears a gown, especially an academic, clergyman, or judge."], "src": "iwb"}
+{"w": "gozzard", "pos": "noun", "d": ["A person who tends geese; a gooseherd."], "src": "iwb"}
+{"w": "graafian", "pos": "adjective", "d": ["Relating to the Dutch physician Regnier de Graaf, especially the ovarian follicle he described."], "src": "iwb"}
+{"w": "graal", "pos": "noun", "d": ["An old spelling of grail."], "src": "iwb"}
+{"w": "grabble", "pos": "verb", "d": ["To grope or feel about with the hands."], "src": "iwb"}
+{"w": "gracile", "pos": "adjective", "d": ["Gracefully slender; thin and delicate in form."], "src": "iwb"}
+{"w": "gracility", "pos": "noun", "d": ["The quality of being gracile; slender gracefulness."], "src": "iwb"}
+{"w": "gracillent", "pos": "adjective", "d": ["Slender; thin."], "src": "iwb"}
+{"w": "gracious", "pos": "adjective", "d": ["Courteous, kind, and pleasant in manner.", "Showing mercy or favor."], "src": "iwb"}
+{"w": "grackle", "pos": "noun", "d": ["A noisy American blackbird with iridescent dark plumage and a long tail."], "src": "iwb"}
+{"w": "gradate", "pos": "verb", "d": ["To arrange in grades or steps.", "To change gradually from one shade or degree to another."], "src": "iwb"}
+{"w": "gradation", "pos": "noun", "d": ["A gradual change from one stage or degree to another.", "Arrangement in a series of steps or grades."], "src": "iwb"}
+{"w": "gradatory", "pos": "adjective", "d": ["Proceeding step by step; gradual.", "Adapted for walking, as an animal's limbs."], "src": "iwb"}
+{"w": "gradient", "pos": "noun", "d": ["The rate at which something rises or falls; the steepness of a slope.", "A sloping stretch of road or track."], "src": "iwb"}
+{"w": "gradin", "pos": "noun", "d": ["A step or ledge, as in an amphitheater or on an altar."], "src": "iwb"}
+{"w": "gradine", "pos": "noun", "d": ["A toothed chisel used by sculptors for shaping stone."], "src": "iwb"}
+{"w": "gradino", "pos": "noun", "d": ["The Italian word for a step, especially in architecture."], "src": "iwb"}
+{"w": "gradual", "pos": "adjective", "d": ["Happening little by little; not sudden."], "src": "iwb"}
+{"w": "graduator", "pos": "noun", "d": ["One who determines or marks graduations, as on a measuring instrument.", "An instrument for dividing a line into small regular intervals.", "An apparatus for spreading a liquid over a large surface to expose it to air."], "src": "iwb"}
+{"w": "gradus", "pos": "noun", "d": ["A step or degree.", "A handbook for composing Latin verse."], "src": "iwb"}
+{"w": "graf", "pos": "noun", "d": ["The German title of a count or earl."], "src": "iwb"}
+{"w": "graff", "pos": "noun", "d": ["An old word for a steward or overseer.", "An earlier spelling of graft."], "src": "iwb"}
+{"w": "graffiti", "pos": "noun", "d": ["Writings or drawings scribbled or sprayed on walls and other public surfaces."], "src": "iwb"}
+{"w": "graffito", "pos": "noun", "d": ["A single inscription or drawing of the kind called graffiti."], "src": "iwb"}
+{"w": "graft", "pos": "noun", "d": ["A shoot or bud inserted into another plant so the two grow together.", "Living tissue transplanted into the body.", "Money or advantage gained dishonestly through power or position."], "src": "iwb"}
+{"w": "graham bread", "pos": "noun", "d": ["Bread made from whole-wheat flour, named for Sylvester Graham."], "src": "iwb"}
+{"w": "grahamite", "pos": "noun", "d": ["A black, brittle bituminous mineral resembling coal."], "src": "iwb"}
+{"w": "grail", "pos": "noun", "d": ["The legendary cup sought by knights in medieval tales, said to have held Christ's blood.", "Something eagerly sought as a great prize."], "src": "iwb"}
+{"w": "graille", "pos": "noun", "d": ["An old spelling of grail."], "src": "iwb"}
+{"w": "grainy", "pos": "adjective", "d": ["Composed of or resembling grains; having a rough, granular texture.", "Of a photograph, showing visible specks or grain."], "src": "iwb"}
+{"w": "graip", "pos": "noun", "d": ["A Scots word for a three-pronged dung fork used in digging."], "src": "iwb"}
+{"w": "graith", "pos": "noun", "d": ["A Scots word for equipment, tools, or gear.", "Preparation or readiness."], "src": "iwb"}
+{"w": "grakle", "pos": "noun", "d": ["An old spelling of grackle, the American blackbird."], "src": "iwb"}
+{"w": "grallae", "pos": "noun", "d": ["An old order of wading birds, including herons, cranes, and storks."], "src": "iwb"}
+{"w": "grallatores", "pos": "noun", "d": ["Wading birds; long-legged birds that feed in shallow water, such as cranes and herons."], "src": "iwb"}
+{"w": "grallatory", "pos": "adjective", "d": ["Of or relating to wading birds; having long legs suited to walking in shallow water."], "src": "iwb"}
+{"w": "grallic", "pos": "adjective", "d": ["Of or pertaining to wading birds."], "src": "iwb"}
+{"w": "gralline", "pos": "adjective", "d": ["Resembling or relating to wading birds."], "src": "iwb"}
+{"w": "gralloch", "pos": "verb", "d": ["To disembowel a hunted animal, such as a deer, after the kill."], "src": "iwb"}
+{"w": "gram", "pos": "noun", "d": ["A metric unit of mass equal to one thousandth of a kilogram.", "An informal word for one's grandmother."], "src": "iwb"}
+{"w": "grama grass", "pos": "phrase", "d": ["Any of several native grasses of the western plains, especially blue grama, valued as pasture for cattle."], "src": "iwb"}
+{"w": "gramarye", "pos": "noun", "d": ["Magic or enchantment, especially in old tales and romances.", "Book learning or grammar, in old usage."], "src": "iwb"}
+{"w": "grame", "pos": "noun", "d": ["Anger or wrath, in old Scottish usage."], "src": "iwb"}
+{"w": "gramercy", "pos": "interjection", "d": ["An old exclamation of thanks or surprise."], "src": "iwb"}
+{"w": "graminaceous", "pos": "adjective", "d": ["Of or relating to grasses; belonging to the grass family."], "src": "iwb"}
+{"w": "gramineal", "pos": "adjective", "d": ["Relating to or like grass; grassy in nature."], "src": "iwb"}
+{"w": "gramineous", "pos": "adjective", "d": ["Of the nature of grass; belonging to the grass family."], "src": "iwb"}
+{"w": "graminifolious", "pos": "adjective", "d": ["Having leaves like those of grass."], "src": "iwb"}
+{"w": "graminivorous", "pos": "adjective", "d": ["Feeding on grass."], "src": "iwb"}
+{"w": "grammalogue", "pos": "noun", "d": ["In shorthand, a single sign or stroke standing for a whole word."], "src": "iwb"}
+{"w": "grammates", "pos": "noun", "d": ["The first principles or rudiments of a subject, especially of grammar."], "src": "iwb"}
+{"w": "grammatic", "pos": "adjective", "d": ["Of or relating to grammar."], "src": "iwb"}
+{"w": "grammatist", "pos": "noun", "d": ["One skilled in grammar, especially one devoted to its formal rules."], "src": "iwb"}
+{"w": "gramme", "pos": "noun", "d": ["The metric unit of mass; one thousandth of a kilogram."], "src": "iwb"}
+{"w": "gramme machine", "pos": "phrase", "d": ["An early electric generator or dynamo invented by Zenobe Gramme."], "src": "iwb"}
+{"w": "gramophone", "pos": "noun", "d": ["An early sound-playing device that used a needle on a spinning record disc."], "src": "iwb"}
+{"w": "granade", "pos": "noun", "d": ["An old spelling of grenade, a small thrown explosive."], "src": "iwb"}
+{"w": "granadilla", "pos": "noun", "d": ["A tropical American passionflower vine and its sweet, soft fruit."], "src": "iwb"}
+{"w": "granado", "pos": "noun", "d": ["An old name for a small hand-thrown explosive shell."], "src": "iwb"}
+{"w": "granary", "pos": "noun", "d": ["A building or bin where threshed grain is stored.", "A region that produces abundant grain."], "src": "iwb"}
+{"w": "granate", "pos": "noun", "d": ["An old name for garnet, a hard, glassy mineral."], "src": "iwb"}
+{"w": "granatin", "pos": "noun", "d": ["A sweet, white, crystalline substance also called mannite."], "src": "iwb"}
+{"w": "granatite", "pos": "noun", "d": ["Staurolite, a brown mineral often worn as a charm stone."], "src": "iwb"}
+{"w": "grand mercy", "pos": "phrase", "d": ["An old expression of great thanks."], "src": "iwb"}
+{"w": "grand-ducal", "pos": "adjective", "d": ["Of or relating to a grand duke or a grand duchy."], "src": "iwb"}
+{"w": "grandam", "pos": "noun", "d": ["An old word for grandmother."], "src": "iwb"}
+{"w": "grandee", "pos": "noun", "d": ["A nobleman of high rank, especially in Spain or Portugal.", "A person of high standing or influence."], "src": "iwb"}
+{"w": "grandeur", "pos": "noun", "d": ["Majestic beauty or impressiveness, especially in scale."], "src": "iwb"}
+{"w": "grandevity", "pos": "noun", "d": ["Great age; advanced old age."], "src": "iwb"}
+{"w": "grandevous", "pos": "adjective", "d": ["Of great age; very old."], "src": "iwb"}
+{"w": "grandific", "pos": "adjective", "d": ["Tending to make grand or great."], "src": "iwb"}
+{"w": "grandiloquence", "pos": "noun", "d": ["Pompous or inflated speech; lofty language meant to impress."], "src": "iwb"}
+{"w": "grandiloquent", "pos": "adjective", "d": ["Using pompous, showy language."], "src": "iwb"}
+{"w": "grandiloquous", "pos": "adjective", "d": ["Given to grandiloquent speech; using inflated language."], "src": "iwb"}
+{"w": "grandinous", "pos": "adjective", "d": ["Consisting of hail; resembling hail."], "src": "iwb"}
+{"w": "grandiose", "pos": "adjective", "d": ["Impressive in a showy or exaggerated way.", "Ambitious on a scale too large to be practical."], "src": "iwb"}
+{"w": "grandiosity", "pos": "noun", "d": ["The quality of being grandiose; showy grandeur."], "src": "iwb"}
+{"w": "grandma", "pos": "noun", "d": ["An informal word for one's grandmother."], "src": "iwb"}
+{"w": "grandpa", "pos": "noun", "d": ["An informal word for one's grandfather."], "src": "iwb"}
+{"w": "grane", "pos": "noun", "d": ["An old form of the word groan."], "src": "iwb"}
+{"w": "grange", "pos": "noun", "d": ["A farm with its house, barns, and other buildings.", "A local lodge of the Grange, a farmers' association."], "src": "iwb"}
+{"w": "granger railroads", "pos": "phrase", "d": ["The railroads of the grain-growing states, regulated by the Granger laws of the 1870s."], "src": "iwb"}
+{"w": "granger roads", "pos": "phrase", "d": ["Railroads serving the grain-growing farm states in the Granger era."], "src": "iwb"}
+{"w": "granger shares", "pos": "phrase", "d": ["Shares of stock in railroad companies serving the farm states."], "src": "iwb"}
+{"w": "granger stocks", "pos": "phrase", "d": ["Stocks of railroads serving the grain-growing states."], "src": "iwb"}
+{"w": "graniferous", "pos": "adjective", "d": ["Bearing grain or seed."], "src": "iwb"}
+{"w": "graniform", "pos": "adjective", "d": ["Shaped like a grain of corn or seed."], "src": "iwb"}
+{"w": "granilla", "pos": "noun", "d": ["The small, broken coffee beans sifted out as inferior during sorting."], "src": "iwb"}
+{"w": "granite", "pos": "noun", "d": ["A hard, coarse-grained igneous rock composed chiefly of quartz and feldspar."], "src": "iwb"}
+{"w": "granite state", "pos": "phrase", "d": ["A nickname for New Hampshire."], "src": "iwb"}
+{"w": "granitic", "pos": "adjective", "d": ["Of the nature of granite; like granite."], "src": "iwb"}
+{"w": "granitification", "pos": "noun", "d": ["The process of turning into granite."], "src": "iwb"}
+{"w": "granitiform", "pos": "adjective", "d": ["Having the form or appearance of granite."], "src": "iwb"}
+{"w": "granitoid", "pos": "adjective", "d": ["Resembling granite in look or structure."], "src": "iwb"}
+{"w": "granivorous", "pos": "adjective", "d": ["Feeding on grain or seeds."], "src": "iwb"}
+{"w": "grannam", "pos": "noun", "d": ["A grandmother; granny."], "src": "iwb"}
+{"w": "granolithic", "pos": "adjective", "d": ["Like granolithic, a hard concrete pavement mixed with crushed stone."], "src": "iwb"}
+{"w": "grantee", "pos": "noun", "d": ["A person to whom a grant is made, especially of land."], "src": "iwb"}
+{"w": "grantor", "pos": "noun", "d": ["A person who makes a grant, especially of land."], "src": "iwb"}
+{"w": "granular", "pos": "adjective", "d": ["Composed of small grains or particles.", "Grainy in texture."], "src": "iwb"}
+{"w": "granulary", "pos": "noun", "d": ["A storehouse for grain; a granary."], "src": "iwb"}
+{"w": "granulate", "pos": "verb", "d": ["To form or break into grains or small particles."], "src": "iwb"}
+{"w": "granulation", "pos": "noun", "d": ["The act or process of forming into grains.", "The new soft tissue that forms over a healing wound."], "src": "iwb"}
+{"w": "granule", "pos": "noun", "d": ["A small grain or particle."], "src": "iwb"}
+{"w": "granuliferous", "pos": "adjective", "d": ["Bearing granules."], "src": "iwb"}
+{"w": "granuliform", "pos": "adjective", "d": ["Shaped like a granule; having the form of grains."], "src": "iwb"}
+{"w": "granulite", "pos": "noun", "d": ["A granular metamorphic rock formed under high heat and pressure."], "src": "iwb"}
+{"w": "granulose", "pos": "adjective", "d": ["Consisting of or resembling small grains."], "src": "iwb"}
+{"w": "granulous", "pos": "adjective", "d": ["Full of granules; granular in texture."], "src": "iwb"}
+{"w": "grape", "pos": "noun", "d": ["The small, juicy, round fruit of the grapevine, eaten fresh or made into wine, juice, and raisins.", "The grapevine itself, in informal use."], "src": "iwb"}
+{"w": "grape fruit", "pos": "phrase", "d": ["An older spelling of grapefruit, the large yellow citrus fruit."], "src": "iwb"}
+{"w": "grapery", "pos": "noun", "d": ["A place where grapes are grown, especially a glasshouse for grapes."], "src": "iwb"}
+{"w": "graphiscope", "pos": "noun", "d": ["An instrument for enlarging pictures to aid in copying them."], "src": "iwb"}
+{"w": "graphite", "pos": "noun", "d": ["A soft, dark form of carbon used in pencils and as a lubricant."], "src": "iwb"}
+{"w": "graphitic", "pos": "adjective", "d": ["Of or like graphite."], "src": "iwb"}
+{"w": "graphitoid", "pos": "adjective", "d": ["Resembling graphite."], "src": "iwb"}
+{"w": "grapholite", "pos": "noun", "d": ["Any slate fit to be written on."], "src": "iwb"}
+{"w": "graphology", "pos": "noun", "d": ["The study of handwriting, especially as a supposed guide to character."], "src": "iwb"}
+{"w": "graphophone", "pos": "noun", "d": ["An early sound recorder and player that used wax cylinders."], "src": "iwb"}
+{"w": "graphoscope", "pos": "noun", "d": ["An optical instrument that enlarges prints or drawings for viewing."], "src": "iwb"}
+{"w": "graphotype", "pos": "noun", "d": ["An early process for making printing blocks by etching.", "A block made by this process."], "src": "iwb"}
+{"w": "grapnel", "pos": "noun", "d": ["A small anchor with several hooked arms, used for gripping or dragging."], "src": "iwb"}
+{"w": "grapple", "pos": "verb", "d": ["To seize and struggle with in close combat.", "To wrestle with a problem or difficulty."], "src": "iwb"}
+{"w": "grapsoid", "pos": "adjective", "d": ["Like or related to the shore crabs of the family Grapsidae."], "src": "iwb"}
+{"w": "graptolite", "pos": "noun", "d": ["An extinct colonial marine animal, known from fossils used to date ancient rocks."], "src": "iwb"}
+{"w": "graptolitic", "pos": "adjective", "d": ["Of or relating to graptolites."], "src": "iwb"}
+{"w": "grapy", "pos": "adjective", "d": ["Of or like grapes; tasting of grapes."], "src": "iwb"}
+{"w": "grasp", "pos": "verb", "d": ["To seize and hold firmly with the hand.", "To take in with the mind; understand."], "src": "iwb"}
+{"w": "grass tree", "pos": "phrase", "d": ["An Australian plant with a stout trunk and a crown of grasslike leaves."], "src": "iwb"}
+{"w": "grass-green", "pos": "adjective", "d": ["Bright green, like fresh grass."], "src": "iwb"}
+{"w": "grass-grown", "pos": "adjective", "d": ["Covered or overgrown with grass."], "src": "iwb"}
+{"w": "grassiness", "pos": "noun", "d": ["The quality or state of being grassy."], "src": "iwb"}
+{"w": "grassy", "pos": "adjective", "d": ["Covered with grass.", "Like grass in color, smell, or taste."], "src": "iwb"}
+{"w": "grate", "pos": "verb", "d": ["To shred by rubbing against a rough surface.", "To make a harsh scraping sound.", "To annoy or irritate."], "src": "iwb"}
+{"w": "graticulation", "pos": "noun", "d": ["The act of dividing a surface into a grid of squares, as a guide for copying a drawing to a larger or smaller scale."], "src": "iwb"}
+{"w": "graticule", "pos": "noun", "d": ["A grid of fine lines or squares used as a guide when copying or measuring a picture.", "A network of lines marking degrees of latitude and longitude on a map or chart."], "src": "iwb"}
+{"w": "gratification", "pos": "noun", "d": ["A feeling of pleasure that comes from having a wish or desire fulfilled.", "Something that gives pleasure or satisfaction."], "src": "iwb"}
+{"w": "gratify", "pos": "verb", "d": ["To please or satisfy someone by giving them what they want.", "To yield to or indulge a wish or desire."], "src": "iwb"}
+{"w": "gratin", "pos": "noun", "d": ["A dish baked or broiled with a browned crust of cheese, breadcrumbs, or sauce on top."], "src": "iwb"}
+{"w": "gratiolin", "pos": "noun", "d": ["A bitter chemical compound found in the hedge hyssop plant."], "src": "iwb"}
+{"w": "gratitude", "pos": "noun", "d": ["A warm feeling of thanks toward someone who has helped you or given you something."], "src": "iwb"}
+{"w": "gratuitous", "pos": "adjective", "d": ["Given freely, without payment or being earned.", "Lacking good reason or justification."], "src": "iwb"}
+{"w": "gratuity", "pos": "noun", "d": ["Money given as a tip for service.", "Something given freely as a gift or favor."], "src": "iwb"}
+{"w": "gratulate", "pos": "verb", "d": ["To congratulate someone; to express joy at another person's good fortune."], "src": "iwb"}
+{"w": "gratulation", "pos": "noun", "d": ["An expression of joy at another person's good fortune; congratulation."], "src": "iwb"}
+{"w": "gratulatory", "pos": "adjective", "d": ["Expressing congratulation or joy at another person's good fortune."], "src": "iwb"}
+{"w": "graunt", "pos": "noun", "d": ["An archaic spelling of grant, meaning something formally given or bestowed.", "An archaic spelling of grant, meaning the act of giving or bestowing."], "src": "iwb"}
+{"w": "grauwacke", "pos": "noun", "d": ["A dark gray sandstone made of rock fragments bound together by fine mineral matter."], "src": "iwb"}
+{"w": "gravamen", "pos": "noun", "d": ["The most serious or weighty part of an accusation or complaint.", "A grievance."], "src": "iwb"}
+{"w": "gravel", "pos": "noun", "d": ["Small stones and pebbles used for paving paths, roads, and driveways.", "A painful buildup of small stony particles in the kidneys or bladder."], "src": "iwb"}
+{"w": "gravel-stone", "pos": "noun", "d": ["A single small stone or pebble."], "src": "iwb"}
+{"w": "gravelliness", "pos": "noun", "d": ["The state or quality of being gravelly."], "src": "iwb"}
+{"w": "graven", "pos": "adjective", "d": ["Cut or carved into a hard surface."], "src": "iwb"}
+{"w": "graveolence", "pos": "noun", "d": ["A strong and unpleasant smell."], "src": "iwb"}
+{"w": "gravery", "pos": "noun", "d": ["The act, process, or art of carving designs into a hard surface; engraving."], "src": "iwb"}
+{"w": "gravic", "pos": "adjective", "d": ["Relating to gravity or gravitation."], "src": "iwb"}
+{"w": "gravid", "pos": "adjective", "d": ["Carrying young; pregnant.", "Heavy or full, as a mind full of ideas."], "src": "iwb"}
+{"w": "gravidated", "pos": "verb", "d": ["Made pregnant."], "src": "iwb"}
+{"w": "gravigrade", "pos": "adjective", "d": ["Moving with a heavy, lumbering step, as elephants do."], "src": "iwb"}
+{"w": "gravimeter", "pos": "noun", "d": ["An instrument for measuring the force of gravity."], "src": "iwb"}
+{"w": "gravimetric", "pos": "adjective", "d": ["Measured by weight or by the force of gravity."], "src": "iwb"}
+{"w": "gravitate", "pos": "verb", "d": ["To move toward something under the pull of gravity.", "To be drawn toward a person, place, or idea."], "src": "iwb"}
+{"w": "gravitation", "pos": "noun", "d": ["The force by which objects with mass pull toward one another.", "The act of moving or being drawn toward something."], "src": "iwb"}
+{"w": "gravitative", "pos": "adjective", "d": ["Relating to or caused by gravitation."], "src": "iwb"}
+{"w": "gravy", "pos": "noun", "d": ["A sauce made from the juices of cooked meat, often thickened with flour.", "Extra money or benefits beyond what is expected."], "src": "iwb"}
+{"w": "graze", "pos": "verb", "d": ["To feed on growing grass, as cattle and sheep do.", "To scrape or touch lightly while passing."], "src": "iwb"}
+{"w": "grazier", "pos": "noun", "d": ["A person who raises cattle or sheep on grazing land."], "src": "iwb"}
+{"w": "grazioso", "pos": "adverb", "d": ["In music, in a graceful and smooth style."], "src": "iwb"}
+{"w": "gre", "pos": "noun", "d": ["An obsolete spelling of gree, meaning one step of a stairway.", "An obsolete spelling of gree, meaning goodwill or favor."], "src": "iwb"}
+{"w": "grease", "pos": "noun", "d": ["Soft or melted animal fat used in cooking.", "Any thick oily substance used to lubricate machinery."], "src": "iwb"}
+{"w": "grease cock", "pos": "noun", "d": ["A small valve that controls the flow of grease to a machine bearing."], "src": "iwb"}
+{"w": "grease cup", "pos": "noun", "d": ["A small cup that holds grease and slowly feeds it to a bearing."], "src": "iwb"}
+{"w": "greasily", "pos": "adverb", "d": ["In a greasy or oily manner."], "src": "iwb"}
+{"w": "greasiness", "pos": "noun", "d": ["The quality of being coated with grease or oil."], "src": "iwb"}
+{"w": "greasy", "pos": "adjective", "d": ["Coated or soiled with grease or oil.", "Slippery because of an oily film."], "src": "iwb"}
+{"w": "great white way", "pos": "phrase", "d": ["A nickname for the brightly lit Broadway theater district of New York City."], "src": "iwb"}
+{"w": "great-bellied", "pos": "adjective", "d": ["Having a large, swollen belly.", "Pregnant."], "src": "iwb"}
+{"w": "great-grandchild", "pos": "noun", "d": ["The child of one's grandchild."], "src": "iwb"}
+{"w": "great-granddaughter", "pos": "noun", "d": ["The daughter of one's grandchild."], "src": "iwb"}
+{"w": "great-grandfather", "pos": "noun", "d": ["The father of one's grandparent."], "src": "iwb"}
+{"w": "great-grandmother", "pos": "noun", "d": ["The mother of one's grandparent."], "src": "iwb"}
+{"w": "great-grandson", "pos": "noun", "d": ["The son of one's grandchild."], "src": "iwb"}
+{"w": "great-hearted", "pos": "adjective", "d": ["Generous and noble in spirit; courageous."], "src": "iwb"}
+{"w": "grebe", "pos": "noun", "d": ["A diving water bird with a pointed bill and lobed toes."], "src": "iwb"}
+{"w": "grecian", "pos": "adjective", "d": ["Relating to ancient Greece or its people and culture."], "src": "iwb"}
+{"w": "grecism", "pos": "noun", "d": ["A word or turn of speech borrowed from Greek into another language."], "src": "iwb"}
+{"w": "greco-roman", "pos": "adjective", "d": ["Combining elements of ancient Greek and Roman art or culture."], "src": "iwb"}
+{"w": "grecque", "pos": "noun", "d": ["A repeating geometric border pattern of interlocking lines; the Greek fret."], "src": "iwb"}
+{"w": "gree", "pos": "noun", "d": ["One step of a flight of stairs.", "A degree or stage of rank.", "In Scotland, the prize won in a contest."], "src": "iwb"}
+{"w": "greedily", "pos": "adverb", "d": ["With an excessive desire for more than one needs."], "src": "iwb"}
+{"w": "greediness", "pos": "noun", "d": ["An excessive desire for more than one needs, especially of food or wealth."], "src": "iwb"}
+{"w": "greedy", "pos": "adjective", "d": ["Wanting more than one needs, especially of food or wealth."], "src": "iwb"}
+{"w": "greedy-gut", "pos": "noun", "d": ["A greedy eater; a glutton."], "src": "iwb"}
+{"w": "greek calendar", "pos": "phrase", "d": ["At the Greek calendar; at a time that will never come."], "src": "iwb"}
+{"w": "greek calends", "pos": "phrase", "d": ["The calends in the Greek calendar; a date that never arrives, and therefore never."], "src": "iwb"}
+{"w": "greek kalends", "pos": "phrase", "d": ["Another form of Greek calends, meaning a time that will never come."], "src": "iwb"}
+{"w": "green-broom", "pos": "noun", "d": ["A shrub with slender green branches and yellow flowers, once used by dyers to make green dye."], "src": "iwb"}
+{"w": "green-eyed", "pos": "adjective", "d": ["Having green eyes.", "Jealous or envious."], "src": "iwb"}
+{"w": "green-leek", "pos": "noun", "d": ["An Australian parrakeet with green plumage, also called the scarlet-breasted parrot."], "src": "iwb"}
+{"w": "green-stall", "pos": "noun", "d": ["A market stall where fresh greens and vegetables are sold."], "src": "iwb"}
+{"w": "greenery", "pos": "noun", "d": ["Green plants and foliage."], "src": "iwb"}
+{"w": "greenockite", "pos": "noun", "d": ["A yellow mineral made of cadmium sulfide."], "src": "iwb"}
+{"w": "greenth", "pos": "noun", "d": ["Greenness; the quality of being green."], "src": "iwb"}
+{"w": "greet", "pos": "verb", "d": ["To address or welcome someone with friendly words or gestures.", "In Scotland, to weep or cry."], "src": "iwb"}
+{"w": "greeze", "pos": "noun", "d": ["An obsolete form of gree, meaning a step of a stairway."], "src": "iwb"}
+{"w": "greffier", "pos": "noun", "d": ["A clerk or registrar of a court, especially in French-speaking countries."], "src": "iwb"}
+{"w": "gregal", "pos": "adjective", "d": ["Pertaining to or like a flock."], "src": "iwb"}
+{"w": "gregarian", "pos": "adjective", "d": ["An obsolete word meaning gregarious, or belonging to the common herd."], "src": "iwb"}
+{"w": "gregarinae", "pos": "noun", "d": ["A group of parasitic single-celled organisms that live inside invertebrate animals."], "src": "iwb"}
+{"w": "gregarine", "pos": "noun", "d": ["One of the gregarinae, a parasitic single-celled organism found in invertebrates."], "src": "iwb"}
+{"w": "gregarinida", "pos": "noun", "d": ["An order of parasitic single-celled organisms that includes the gregarines."], "src": "iwb"}
+{"w": "gregarious", "pos": "adjective", "d": ["Fond of company; sociable.", "Living in flocks or herds."], "src": "iwb"}
+{"w": "grege", "pos": "verb", "d": ["An obsolete word meaning to make heavy or to increase."], "src": "iwb"}
+{"w": "gregge", "pos": "verb", "d": ["A variant spelling of grege, an obsolete word meaning to make heavy or to increase."], "src": "iwb"}
+{"w": "greggoe", "pos": "noun", "d": ["A short hooded cloak of coarse thick cloth once worn in the eastern Mediterranean."], "src": "iwb"}
+{"w": "grego", "pos": "noun", "d": ["A short thick hooded jacket formerly worn in the eastern Mediterranean and by sailors."], "src": "iwb"}
+{"w": "gregorian", "pos": "adjective", "d": ["Relating to one of the popes named Gregory, as the Gregorian calendar or Gregorian chant."], "src": "iwb"}
+{"w": "greillade", "pos": "noun", "d": ["Iron ore crushed to a coarse powder, prepared for smelting by the Catalan forge process."], "src": "iwb"}
+{"w": "greisen", "pos": "noun", "d": ["An altered granitic rock made mostly of quartz and mica."], "src": "iwb"}
+{"w": "greit", "pos": "verb", "d": ["In Scots, to cry or weep."], "src": "iwb"}
+{"w": "greith", "pos": "noun", "d": ["In Scots, harness, gear, or equipment."], "src": "iwb"}
+{"w": "gremial", "pos": "noun", "d": ["A cloth laid across a bishop's lap when he sits during Mass.", "Of or relating to the lap or bosom."], "src": "iwb"}
+{"w": "grenade", "pos": "noun", "d": ["A small explosive thrown by hand or fired from a launcher."], "src": "iwb"}
+{"w": "grenadier", "pos": "noun", "d": ["A soldier trained to throw grenades.", "A member of a ceremonial guards regiment."], "src": "iwb"}
+{"w": "grenadillo", "pos": "noun", "d": ["A hard dark wood from tropical America, used for small carved objects."], "src": "iwb"}
+{"w": "grenadine", "pos": "noun", "d": ["A sweet red syrup made from pomegranates.", "A loosely woven fabric, often of silk."], "src": "iwb"}
+{"w": "grenado", "pos": "noun", "d": ["An obsolete form of grenade."], "src": "iwb"}
+{"w": "grene", "pos": "adjective", "d": ["A Middle English spelling of green."], "src": "iwb"}
+{"w": "gressorial", "pos": "adjective", "d": ["Adapted for walking, as the feet of some birds."], "src": "iwb"}
+{"w": "gressorious", "pos": "adjective", "d": ["Another form of gressorial; adapted for walking, as the feet of some birds."], "src": "iwb"}
+{"w": "gret", "pos": "adjective", "d": ["An obsolete spelling of great."], "src": "iwb"}
+{"w": "grete", "pos": "adjective", "d": ["An obsolete spelling of great."], "src": "iwb"}
+{"w": "gretto", "pos": "verb", "d": ["An obsolete past-tense form of greet, meaning to salute."], "src": "iwb"}
+{"w": "greve", "pos": "noun", "d": ["In Denmark and Sweden, a nobleman of the highest rank; a count.", "An obsolete word for the shin or the armor that protects it."], "src": "iwb"}
+{"w": "gribble", "pos": "noun", "d": ["A small marine crustacean that bores into wooden pilings and ships' timbers."], "src": "iwb"}
+{"w": "grice", "pos": "noun", "d": ["In Scots use, a young pig."], "src": "iwb"}
+{"w": "griddle", "pos": "noun", "d": ["A flat, heavy pan used for cooking pancakes, eggs, and similar foods."], "src": "iwb"}
+{"w": "gride", "pos": "verb", "d": ["To cut or scrape with a harsh, grating sound.", "To make such a grating sound."], "src": "iwb"}
+{"w": "grief", "pos": "noun", "d": ["Deep sorrow felt over a loss, especially the death of someone loved."], "src": "iwb"}
+{"w": "griego", "pos": "noun", "d": ["The Spanish word for a Greek person or for the Greek language."], "src": "iwb"}
+{"w": "grievance", "pos": "noun", "d": ["A complaint about unfair or unjust treatment.", "The cause or ground of such a complaint."], "src": "iwb"}
+{"w": "grieve", "pos": "verb", "d": ["To feel deep sorrow.", "To cause sorrow to someone."], "src": "iwb"}
+{"w": "grievous", "pos": "adjective", "d": ["Causing deep sorrow or great suffering.", "Very serious or severe, as a grievous wound."], "src": "iwb"}
+{"w": "griff", "pos": "noun", "d": ["A claw or talon, especially of a bird of prey."], "src": "iwb"}
+{"w": "griffe", "pos": "noun", "d": ["A person of mixed African and European ancestry, a historical term from colonial Louisiana."], "src": "iwb"}
+{"w": "griffon", "pos": "noun", "d": ["A large vulture of the Old World.", "A small breed of toy dog, the Brussels griffon."], "src": "iwb"}
+{"w": "grig", "pos": "noun", "d": ["A cricket or grasshopper, in British dialect use.", "A small eel; the sand eel."], "src": "iwb"}
+{"w": "grigri", "pos": "noun", "d": ["An amulet or charm worn for protection or good luck."], "src": "iwb"}
+{"w": "gril", "pos": "adjective", "d": ["Harsh, hard, severe, or stern; an obsolete word."], "src": "iwb"}
+{"w": "grille", "pos": "noun", "d": ["A metal framework of bars set over a window, door, or the front of a car.", "A restaurant that specializes in grilled food."], "src": "iwb"}
+{"w": "grilse", "pos": "noun", "d": ["A young Atlantic salmon returning from the sea after its first winter."], "src": "iwb"}
+{"w": "grim", "pos": "adjective", "d": ["Stern and forbidding in manner or appearance.", "Gloomy or ghastly, as grim news."], "src": "iwb"}
+{"w": "grimalkin", "pos": "noun", "d": ["An old female cat, especially one said to be a witch's familiar."], "src": "iwb"}
+{"w": "grime", "pos": "noun", "d": ["Dirt rubbed or ground into a surface."], "src": "iwb"}
+{"w": "grimily", "pos": "adverb", "d": ["In a grimy, dirty manner."], "src": "iwb"}
+{"w": "griminess", "pos": "noun", "d": ["The state or quality of being grimy."], "src": "iwb"}
+{"w": "grimme", "pos": "noun", "d": ["A small West African antelope of deep bay color with a black stripe along its back."], "src": "iwb"}
+{"w": "grimy", "pos": "adjective", "d": ["Covered or smeared with grime; dirty."], "src": "iwb"}
+{"w": "grin", "pos": "verb", "d": ["To smile broadly, showing the teeth."], "src": "iwb"}
+{"w": "grind", "pos": "verb", "d": ["To crush into powder or small pieces by friction.", "To sharpen or smooth by rubbing on an abrasive surface."], "src": "iwb"}
+{"w": "grindelia", "pos": "noun", "d": ["A genus of yellow-flowered plants of western North America, the gumweeds."], "src": "iwb"}
+{"w": "grindery", "pos": "noun", "d": ["A workshop where tools are ground or sharpened; a cutler's workshop."], "src": "iwb"}
+{"w": "grindle", "pos": "noun", "d": ["The bowfin, a freshwater fish of North America also called the dogfish."], "src": "iwb"}
+{"w": "grindle stone", "pos": "phrase", "d": ["A grindstone for grinding or sharpening."], "src": "iwb"}
+{"w": "gringo", "pos": "noun", "d": ["In Spanish-speaking countries, a foreigner, especially an English-speaking one."], "src": "iwb"}
+{"w": "grinningly", "pos": "adverb", "d": ["With a broad smile; grinning."], "src": "iwb"}
+{"w": "grint", "pos": "verb", "d": ["An obsolete Middle English verb meaning to growl or grunt.", "To gnash or grind the teeth."], "src": "iwb"}
+{"w": "grinte", "pos": "verb", "d": ["An obsolete past tense of the verb grin."], "src": "iwb"}
+{"w": "grip car", "pos": "phrase", "d": ["The car of a cable railway that grips the moving cable.", "A cable car."], "src": "iwb"}
+{"w": "gripe", "pos": "verb", "d": ["To complain persistently.", "To cause sharp pain in the bowels."], "src": "iwb"}
+{"w": "gripingly", "pos": "adverb", "d": ["In a complaining, fretful manner."], "src": "iwb"}
+{"w": "grippe", "pos": "noun", "d": ["Influenza, the contagious illness known as the flu."], "src": "iwb"}
+{"w": "gripple", "pos": "adjective", "d": ["Miserly and grasping; greedy, in British dialect use."], "src": "iwb"}
+{"w": "gris", "pos": "adjective", "d": ["Gray; from the French word for gray, used in English color names."], "src": "iwb"}
+{"w": "grisaille", "pos": "noun", "d": ["Painting done in shades of gray, often to imitate sculpture."], "src": "iwb"}
+{"w": "grise", "pos": "noun", "d": ["An old word for a step in a flight of stairs.", "A Scots spelling of grice, a young pig."], "src": "iwb"}
+{"w": "grisliness", "pos": "noun", "d": ["The quality of being grisly; gruesomeness."], "src": "iwb"}
+{"w": "grison", "pos": "noun", "d": ["A weasel-like South American mammal with a gray back.", "A native of the Grisons region of Switzerland."], "src": "iwb"}
+{"w": "grist", "pos": "noun", "d": ["Grain to be ground at a mill.", "Useful material brought to a purpose, as in grist for the mill."], "src": "iwb"}
+{"w": "gristle", "pos": "noun", "d": ["Tough, flexible cartilage found in meat."], "src": "iwb"}
+{"w": "grit", "pos": "noun", "d": ["Small, hard particles of sand or stone.", "Firmness of spirit; courage and resolve."], "src": "iwb"}
+{"w": "grith", "pos": "noun", "d": ["Peace or sanctuary under law; legal protection, in old English use."], "src": "iwb"}
+{"w": "grittiness", "pos": "noun", "d": ["The quality of being gritty."], "src": "iwb"}
+{"w": "gritty", "pos": "adjective", "d": ["Full of or covered with grit.", "Showing courage and resolve."], "src": "iwb"}
+{"w": "grivet", "pos": "noun", "d": ["A long-tailed African monkey, the green monkey of eastern Africa."], "src": "iwb"}
+{"w": "grize", "pos": "noun", "d": ["An obsolete form of grise, meaning a step in a staircase."], "src": "iwb"}
+{"w": "grizzle", "pos": "verb", "d": ["To make or become gray.", "To whine or fret, especially a child."], "src": "iwb"}
+{"w": "grizzly", "pos": "adjective", "d": ["Grayish; streaked or mixed with gray."], "src": "iwb"}
+{"w": "groan", "pos": "verb", "d": ["To utter a deep sound of pain, grief, or disapproval.", "To creak under strain."], "src": "iwb"}
+{"w": "groat", "pos": "noun", "d": ["An old English silver coin worth fourpence.", "Hulled grain, especially oats; used in the plural."], "src": "iwb"}
+{"w": "grobian", "pos": "noun", "d": ["A coarse, rude, clownish person."], "src": "iwb"}
+{"w": "grocer", "pos": "noun", "d": ["A storekeeper who sells food and household supplies."], "src": "iwb"}
+{"w": "grog", "pos": "noun", "d": ["A drink of rum mixed with water.", "Strong liquor, especially rum."], "src": "iwb"}
+{"w": "grogginess", "pos": "noun", "d": ["The state of being groggy; dazed unsteadiness."], "src": "iwb"}
+{"w": "groggy", "pos": "adjective", "d": ["Unsteady and dazed, as from a blow, drink, or lack of sleep."], "src": "iwb"}
+{"w": "groin", "pos": "noun", "d": ["The fold of the body where the thigh joins the abdomen.", "In architecture, the curved edge where two vaults meet."], "src": "iwb"}
+{"w": "grolier", "pos": "noun", "d": ["An ornately decorated bookbinding in the style made for the French collector Jean Grolier."], "src": "iwb"}
+{"w": "gromet", "pos": "noun", "d": ["A variant spelling of grommet, a ring lining a hole."], "src": "iwb"}
+{"w": "gromill", "pos": "noun", "d": ["Another spelling of gromwell, a plant of the borage family."], "src": "iwb"}
+{"w": "grommet", "pos": "noun", "d": ["A metal or rubber ring that lines and strengthens a hole.", "An eyelet in cloth or leather."], "src": "iwb"}
+{"w": "gromwell", "pos": "noun", "d": ["A plant of the borage family with small hard white nutlets."], "src": "iwb"}
+{"w": "grond", "pos": "verb", "d": ["An obsolete past tense of grind."], "src": "iwb"}
+{"w": "gronte", "pos": "verb", "d": ["An obsolete past tense of groan."], "src": "iwb"}
+{"w": "groom", "pos": "noun", "d": ["A person who tends and cleans horses.", "A bridegroom; a man about to be married."], "src": "iwb"}
+{"w": "groomsman", "pos": "noun", "d": ["A male attendant of the bridegroom at a wedding."], "src": "iwb"}
+{"w": "grooper", "pos": "noun", "d": ["An archaic spelling of grouper, a large sea fish."], "src": "iwb"}
+{"w": "grope", "pos": "verb", "d": ["To feel about with the hands, as in the dark.", "To search uncertainly by feeling."], "src": "iwb"}
+{"w": "groping-ly", "pos": "adverb", "d": ["In a groping manner; by feeling one's way."], "src": "iwb"}
+{"w": "gros", "pos": "adjective", "d": ["Big, large, or thick; the French word for large, as in grosgrain."], "src": "iwb"}
+{"w": "groschen", "pos": "noun", "d": ["A small silver coin formerly used in Austria and Germany."], "src": "iwb"}
+{"w": "gross-headed", "pos": "adjective", "d": ["Having a large or thick head; dull and stupid."], "src": "iwb"}
+{"w": "grossification", "pos": "noun", "d": ["The act of making gross or thick, or the state of becoming so.", "In botany, the swelling of a plant's ovary after fertilization."], "src": "iwb"}
+{"w": "grossular", "pos": "noun", "d": ["A calcium-aluminum garnet, often green or cinnamon-brown, used as a gemstone."], "src": "iwb"}
+{"w": "grossularia", "pos": "noun", "d": ["The genus of plants that includes the gooseberries and currants."], "src": "iwb"}
+{"w": "grossulin", "pos": "noun", "d": ["A pectin-like plant jelly found in gooseberries and other fruits."], "src": "iwb"}
+{"w": "grot", "pos": "noun", "d": ["A grotto; a small cave or cavern."], "src": "iwb"}
+{"w": "grote", "pos": "noun", "d": ["An obsolete spelling of groat, an old English silver coin."], "src": "iwb"}
+{"w": "grotesque", "pos": "adjective", "d": ["Strangely ugly, distorted, or unnatural.", "In the form of a bizarre figure."], "src": "iwb"}
+{"w": "grotesquery", "pos": "noun", "d": ["Grotesque ornament or style.", "Something grotesque."], "src": "iwb"}
+{"w": "grotto", "pos": "noun", "d": ["A small cave, especially one fitted up as an ornamental retreat."], "src": "iwb"}
+{"w": "grotto-work", "pos": "noun", "d": ["Ornamental work imitating a grotto.", "Grotesque decoration."], "src": "iwb"}
+{"w": "groundedly", "pos": "adverb", "d": ["In a grounded manner; with a firm foundation."], "src": "iwb"}
+{"w": "groundsel", "pos": "noun", "d": ["A common weed with small yellow flowers, Senecio vulgaris."], "src": "iwb"}
+{"w": "grouse", "pos": "noun", "d": ["A plump game bird with feathered legs, hunted as game.", "A complaint; a grumble."], "src": "iwb"}
+{"w": "grout", "pos": "noun", "d": ["Thin, coarse mortar used for filling the joints of masonry.", "Coarse meal or ground malt; an old word."], "src": "iwb"}
+{"w": "groutnol", "pos": "noun", "d": ["An old word for a growthead, a lazy blockhead."], "src": "iwb"}
+{"w": "grouty", "pos": "adjective", "d": ["Sulky, surly, or bad-tempered.", "Muddy or full of sediment."], "src": "iwb"}
+{"w": "grovel", "pos": "verb", "d": ["To crawl or lie face down on the ground.", "To humble oneself in an abject manner."], "src": "iwb"}
+{"w": "grovy", "pos": "adjective", "d": ["Relating to or like a grove; set in groves."], "src": "iwb"}
+{"w": "growan", "pos": "noun", "d": ["Decomposed granite forming a mass of sandy gravel; a Cornish mining term."], "src": "iwb"}
+{"w": "growl", "pos": "verb", "d": ["To make a low, threatening sound in the throat.", "To speak in an angry, rumbling tone."], "src": "iwb"}
+{"w": "growlingly", "pos": "adverb", "d": ["With a growl; in a growling manner."], "src": "iwb"}
+{"w": "growse", "pos": "verb", "d": ["To shiver; to have chills, in old or dialect use."], "src": "iwb"}
+{"w": "growthead", "pos": "noun", "d": ["A lazy person; a blockhead, in old use."], "src": "iwb"}
+{"w": "groyne", "pos": "noun", "d": ["A low wall or barrier built out from a beach into the sea to slow erosion and trap drifting sand."], "src": "iwb"}
+{"w": "grozing iron", "pos": "noun", "d": ["A metal tool used by glaziers to trim glass and to shape the lead strips that hold stained-glass panels together."], "src": "iwb"}
+{"w": "grub", "pos": "noun", "d": ["The thick, soft larva of a beetle or similar insect.", "Food, especially a plain and filling meal."], "src": "iwb"}
+{"w": "grubble", "pos": "verb", "d": ["To feel or grope about in the dark with the hands."], "src": "iwb"}
+{"w": "grubby", "pos": "adjective", "d": ["Dirty and grimy from rough work or hard use.", "Low or sordid in character, as in a grubby business deal."], "src": "iwb"}
+{"w": "grucche", "pos": "verb", "d": ["To complain in a low, grumbling voice."], "src": "iwb"}
+{"w": "grudge", "pos": "noun", "d": ["A deep and lasting feeling of resentment toward someone.", "Ill will held over a past wrong, as in to bear a grudge."], "src": "iwb"}
+{"w": "grudgeons", "pos": "noun", "d": ["A coarse meal or roughly ground grain used for rough bread."], "src": "iwb"}
+{"w": "grudgingly", "pos": "adverb", "d": ["In a reluctant or unwilling way."], "src": "iwb"}
+{"w": "grudgingness", "pos": "noun", "d": ["The state or quality of giving or acting reluctantly."], "src": "iwb"}
+{"w": "gruel", "pos": "noun", "d": ["A thin, watery porridge made from boiled grain meal."], "src": "iwb"}
+{"w": "gruesome", "pos": "adjective", "d": ["Causing horror or disgust, especially by showing injury or death.", "Shocking and unpleasant to look at."], "src": "iwb"}
+{"w": "gruf", "pos": "adverb", "d": ["Forward with the face toward the ground, as in to fall gruf."], "src": "iwb"}
+{"w": "gruff", "pos": "adjective", "d": ["Having a rough, low voice.", "Stern and blunt in manner."], "src": "iwb"}
+{"w": "grugru palm", "pos": "noun", "d": ["A tall tropical American palm with a spiny trunk, grown for its oily nuts."], "src": "iwb"}
+{"w": "grugru worm", "pos": "noun", "d": ["The fat, edible larva of a beetle that bores into the trunk of the grugru palm."], "src": "iwb"}
+{"w": "grum", "pos": "adjective", "d": ["Stern and gloomy in mood or expression.", "Deep and low in sound, like a rumbling voice."], "src": "iwb"}
+{"w": "grumble", "pos": "verb", "d": ["To complain in a low, muttering voice.", "To make a low rumbling sound, as thunder does."], "src": "iwb"}
+{"w": "grumblingly", "pos": "adverb", "d": ["In a low, complaining voice."], "src": "iwb"}
+{"w": "grume", "pos": "noun", "d": ["A thick, sticky fluid.", "A clot of blood."], "src": "iwb"}
+{"w": "grumose", "pos": "adjective", "d": ["Thickened into lumps or clots."], "src": "iwb"}
+{"w": "grumpy", "pos": "adjective", "d": ["Easily annoyed and bad-tempered.", "Complaining in a cross, sullen way."], "src": "iwb"}
+{"w": "grundel", "pos": "noun", "d": ["A small bottom-dwelling fish of northern waters, also called a groundling."], "src": "iwb"}
+{"w": "grundsel", "pos": "noun", "d": ["A common weed with clusters of small yellow flowers, also spelled groundsel."], "src": "iwb"}
+{"w": "grundyism", "pos": "noun", "d": ["Narrow, prudish respect for what the neighbors think."], "src": "iwb"}
+{"w": "grunt", "pos": "verb", "d": ["To make a short, low, guttural sound, as a pig does.", "To speak or answer in such a sound."], "src": "iwb"}
+{"w": "gruntingly", "pos": "adverb", "d": ["With short, low, grunting sounds."], "src": "iwb"}
+{"w": "gruntle", "pos": "verb", "d": ["To utter low grunting sounds.", "To make cheerful or content, as a joke on the word disgruntled."], "src": "iwb"}
+{"w": "grutch", "pos": "verb", "d": ["To grumble or complain in a sulky way."], "src": "iwb"}
+{"w": "gruyere cheese", "pos": "noun", "d": ["A firm, pale-yellow Swiss cheese with a nutty flavor."], "src": "iwb"}
+{"w": "gry", "pos": "noun", "d": ["An old unit of measure equal to one tenth of a line.", "Anything very small or of little value."], "src": "iwb"}
+{"w": "gryde", "pos": "verb", "d": ["To pierce or cut with a grating sound, as a sword does."], "src": "iwb"}
+{"w": "gryllus", "pos": "noun", "d": ["A genus of insects that includes the common field crickets."], "src": "iwb"}
+{"w": "grype", "pos": "noun", "d": ["An old word for a vulture or for the mythical griffin."], "src": "iwb"}
+{"w": "gryphaea", "pos": "noun", "d": ["A genus of extinct oysters with curved shells, known from fossils."], "src": "iwb"}
+{"w": "gryphite", "pos": "noun", "d": ["A fossilized shell of an extinct oyster-like mollusk."], "src": "iwb"}
+{"w": "gryphon", "pos": "noun", "d": ["A mythical creature with the body of a lion and the head and wings of an eagle."], "src": "iwb"}
+{"w": "grysbok", "pos": "noun", "d": ["A small South African antelope with a reddish coat and white markings."], "src": "iwb"}
+{"w": "guacharo", "pos": "noun", "d": ["A nocturnal fruit-eating bird of South American caves, also called the oilbird."], "src": "iwb"}
+{"w": "guacho", "pos": "noun", "d": ["A person of mixed Spanish and native ancestry living on the South American pampas.", "In South American Spanish, an orphaned or abandoned child or animal."], "src": "iwb"}
+{"w": "guaco", "pos": "noun", "d": ["A climbing tropical American plant used in folk medicine, especially for snakebite."], "src": "iwb"}
+{"w": "guaiac", "pos": "noun", "d": ["A fragrant resin taken from guaiacum wood, used in medicine and in chemical testing."], "src": "iwb"}
+{"w": "guaiacol", "pos": "noun", "d": ["A colorless oily compound made from guaiac resin, used in medicine and flavoring."], "src": "iwb"}
+{"w": "guaiacum", "pos": "noun", "d": ["A genus of slow-growing tropical American trees that yield a hard, oily wood and a medicinal resin."], "src": "iwb"}
+{"w": "guan", "pos": "noun", "d": ["A large, turkey-like game bird of Central and South American forests."], "src": "iwb"}
+{"w": "guana", "pos": "noun", "d": ["A regional form of the word iguana, meaning the large tropical lizard.", "A member of an Indigenous people of the Paraguay-Brazil region, or their language."], "src": "iwb"}
+{"w": "guanaco", "pos": "noun", "d": ["A wild South American camelid, the ancestor of the domestic llama and alpaca."], "src": "iwb"}
+{"w": "guanidine", "pos": "noun", "d": ["A strongly basic organic compound found in urine and used in making plastics and explosives."], "src": "iwb"}
+{"w": "guaniferous", "pos": "adjective", "d": ["Yielding guano, or rich in guano deposits."], "src": "iwb"}
+{"w": "guanin", "pos": "noun", "d": ["A crystalline compound found in guano and animal tissues, and a building block of DNA."], "src": "iwb"}
+{"w": "guano", "pos": "noun", "d": ["The droppings of seabirds or bats, gathered as a rich fertilizer."], "src": "iwb"}
+{"w": "guara", "pos": "noun", "d": ["A brilliant scarlet ibis of tropical South America.", "The maned wolf, a tall, long-legged wild dog of South American grasslands."], "src": "iwb"}
+{"w": "guarana", "pos": "noun", "d": ["A climbing shrub of Brazil whose seeds are rich in caffeine.", "A stimulating drink made from the ground seeds of this plant."], "src": "iwb"}
+{"w": "guarantor", "pos": "noun", "d": ["A person who promises to pay another person's debt or fulfill another person's obligation if that person fails to do so."], "src": "iwb"}
+{"w": "guaranty", "pos": "noun", "d": ["A formal promise to answer for the debt or performance of another.", "Something given as security for such a promise."], "src": "iwb"}
+{"w": "guardenage", "pos": "noun", "d": ["The office or duty of a guardian."], "src": "iwb"}
+{"w": "guardiance", "pos": "noun", "d": ["Guardianship, or the act of guarding."], "src": "iwb"}
+{"w": "guardianess", "pos": "noun", "d": ["A woman who acts as a guardian."], "src": "iwb"}
+{"w": "guarish", "pos": "verb", "d": ["To heal or cure."], "src": "iwb"}
+{"w": "guatemala grass", "pos": "noun", "d": ["A tall tropical grass grown as fodder for livestock."], "src": "iwb"}
+{"w": "guava", "pos": "noun", "d": ["A sweet, fragrant tropical fruit with green skin and pink or white flesh."], "src": "iwb"}
+{"w": "gubernance", "pos": "noun", "d": ["Government, or the act of governing."], "src": "iwb"}
+{"w": "gubernate", "pos": "verb", "d": ["To govern or rule over."], "src": "iwb"}
+{"w": "gubernation", "pos": "noun", "d": ["The act of governing, or government itself."], "src": "iwb"}
+{"w": "gubernative", "pos": "adjective", "d": ["Having to do with government, or exercising rule."], "src": "iwb"}
+{"w": "gubernatorial", "pos": "adjective", "d": ["Of or relating to a governor or the office of governor."], "src": "iwb"}
+{"w": "gudgeon", "pos": "noun", "d": ["A small freshwater fish often used as bait.", "A pin or pivot on which a wheel, rudder, or hinge turns."], "src": "iwb"}
+{"w": "gue", "pos": "noun", "d": ["An old two-stringed bowed instrument once played in the Shetland Islands.", "An old word for a rogue or sharper."], "src": "iwb"}
+{"w": "gueber", "pos": "noun", "d": ["A follower of Zoroaster, the ancient Persian religion of fire worship."], "src": "iwb"}
+{"w": "guebre", "pos": "noun", "d": ["A Zoroastrian, a follower of the ancient Persian fire religion."], "src": "iwb"}
+{"w": "guelderrose", "pos": "noun", "d": ["A European shrub with round clusters of white flowers, also called the snowball bush."], "src": "iwb"}
+{"w": "guelf", "pos": "noun", "d": ["A member of the medieval Italian party that supported the pope against the emperor."], "src": "iwb"}
+{"w": "guelph", "pos": "noun", "d": ["A supporter of the papal party in medieval Italy.", "A city in Ontario, Canada."], "src": "iwb"}
+{"w": "guerdon", "pos": "noun", "d": ["A reward or payment given for service or merit."], "src": "iwb"}
+{"w": "guereza", "pos": "noun", "d": ["A black-and-white leaf-eating monkey of African forests, with a flowing white mantle."], "src": "iwb"}
+{"w": "guerilla", "pos": "noun", "d": ["A variant spelling of guerrilla, a fighter in an irregular war."], "src": "iwb"}
+{"w": "guernsey lily", "pos": "noun", "d": ["A South African lily with clusters of large pink-red flowers."], "src": "iwb"}
+{"w": "guerrilla", "pos": "noun", "d": ["A fighter in a small band that uses hit-and-run raids against a regular army.", "Of or relating to such fighters, as in guerrilla war."], "src": "iwb"}
+{"w": "guess rope", "pos": "noun", "d": ["A ship's rope used in warping or towing a vessel."], "src": "iwb"}
+{"w": "guess warp", "pos": "noun", "d": ["A rope carried out in a small boat to warp or tow a ship toward an anchor or shore point."], "src": "iwb"}
+{"w": "guessingly", "pos": "adverb", "d": ["In the manner of someone guessing."], "src": "iwb"}
+{"w": "guest rope", "pos": "noun", "d": ["The line by which a small boat is made fast to a larger vessel or buoy."], "src": "iwb"}
+{"w": "guevi", "pos": "noun", "d": ["A very small African antelope of the duiker group."], "src": "iwb"}
+{"w": "guffaw", "pos": "noun", "d": ["A loud, hearty burst of laughter.", "The act of laughing loudly and coarsely."], "src": "iwb"}
+{"w": "guffer", "pos": "noun", "d": ["The eelpout, an eel-like fish that bears live young."], "src": "iwb"}
+{"w": "guggle", "pos": "verb", "d": ["To make a bubbling sound, as water flowing from a bottle does."], "src": "iwb"}
+{"w": "guhr", "pos": "noun", "d": ["A fine, powdery earth made of fossil shells, used in polishing and filtering."], "src": "iwb"}
+{"w": "guiac", "pos": "noun", "d": ["A variant spelling of guaiac, the medicinal resin of the guaiacum tree."], "src": "iwb"}
+{"w": "guiacol", "pos": "noun", "d": ["A variant spelling of guaiacol, an oily compound used in medicine."], "src": "iwb"}
+{"w": "guiacum", "pos": "noun", "d": ["A variant spelling of guaiacum, the tropical tree yielding hard wood and resin."], "src": "iwb"}
+{"w": "guib", "pos": "noun", "d": ["A West African antelope marked with white stripes and spots, also called the harnessed antelope."], "src": "iwb"}
+{"w": "guicowar", "pos": "noun", "d": ["A variant spelling of Gaekwad, the title of the Maratha rulers of Baroda in India."], "src": "iwb"}
+{"w": "guidage", "pos": "noun", "d": ["The act of guiding, or guidance."], "src": "iwb"}
+{"w": "guide rope", "pos": "noun", "d": ["A rope used to steady or direct a load, as in hoisting by a crane."], "src": "iwb"}
+{"w": "guideress", "pos": "noun", "d": ["A woman who serves as a guide."], "src": "iwb"}
+{"w": "guidguid", "pos": "noun", "d": ["A South American antbird noted for its loud barking call."], "src": "iwb"}
+{"w": "guidon", "pos": "noun", "d": ["A small flag or pennant carried by a military unit for identification."], "src": "iwb"}
+{"w": "guige", "pos": "noun", "d": ["The strap by which a knight slung his shield over the shoulder."], "src": "iwb"}
+{"w": "guile", "pos": "noun", "d": ["Crafty or deceitful cleverness.", "The use of sly tricks to mislead."], "src": "iwb"}
+{"w": "guillemet", "pos": "noun", "d": ["Either of the angled quotation marks used in French and other languages."], "src": "iwb"}
+{"w": "guillemot", "pos": "noun", "d": ["A black-and-white seabird of the auk family that dives for fish in northern ocean waters.", "Any of several related diving seabirds found in cold northern seas."], "src": "iwb"}
+{"w": "guillevat", "pos": "noun", "d": ["A large vat in which liquors are left to ferment."], "src": "iwb"}
+{"w": "guilloche", "pos": "noun", "d": ["An ornamental pattern of twisted, interlaced bands used in architecture and engraving.", "A fine engraved design of interweaving curved lines, as on banknotes and watch cases."], "src": "iwb"}
+{"w": "guillotine", "pos": "noun", "d": ["A machine with a heavy falling blade once used to behead condemned prisoners.", "A device with a descending blade for cutting paper or sheet material.", "To behead or execute with a guillotine."], "src": "iwb"}
+{"w": "guilor", "pos": "noun", "d": ["A deceiver; one who misleads others by cunning."], "src": "iwb"}
+{"w": "guilt", "pos": "noun", "d": ["The state of having done something wrong or broken a law.", "A painful feeling of being responsible for having done wrong."], "src": "iwb"}
+{"w": "guilt-sick", "pos": "adjective", "d": ["Made ill or tormented by a consciousness of guilt."], "src": "iwb"}
+{"w": "guiltily", "pos": "adverb", "d": ["In a guilty manner, as if conscious of having done wrong."], "src": "iwb"}
+{"w": "guiltiness", "pos": "noun", "d": ["The state or quality of being guilty."], "src": "iwb"}
+{"w": "guimpe", "pos": "noun", "d": ["A cloth covering the neck and shoulders worn by medieval women and by nuns.", "A short under-blouse worn beneath a low-cut dress to fill in the neckline."], "src": "iwb"}
+{"w": "guinea-pig director", "pos": "noun", "d": ["A company director who holds the post mainly for the fee paid for attendance rather than for any real work."], "src": "iwb"}
+{"w": "guipure", "pos": "noun", "d": ["A heavy lace whose bold patterns are joined by connecting bars instead of a mesh ground."], "src": "iwb"}
+{"w": "guirland", "pos": "noun", "d": ["A garland of flowers or leaves."], "src": "iwb"}
+{"w": "guise", "pos": "noun", "d": ["An outward appearance, especially one that hides the truth.", "A person's usual manner or way of behaving."], "src": "iwb"}
+{"w": "guitguit", "pos": "noun", "d": ["A small tropical American bird with a slender curved bill suited to feeding on nectar."], "src": "iwb"}
+{"w": "gula", "pos": "noun", "d": ["The upper front of the throat, just below the chin."], "src": "iwb"}
+{"w": "gular", "pos": "adjective", "d": ["Of or relating to the throat."], "src": "iwb"}
+{"w": "gulaund", "pos": "noun", "d": ["A seabird found in arctic waters."], "src": "iwb"}
+{"w": "gulch", "pos": "noun", "d": ["A deep, narrow ravine, especially one worn by running water.", "An act of gulping; a large greedy swallow."], "src": "iwb"}
+{"w": "guld", "pos": "noun", "d": ["A flower."], "src": "iwb"}
+{"w": "gule", "pos": "verb", "d": ["To give something the red color called gules."], "src": "iwb"}
+{"w": "gulfy", "pos": "adjective", "d": ["Full of whirlpools or deep gulfs."], "src": "iwb"}
+{"w": "gulgul", "pos": "noun", "d": ["A cement made in India from crushed seashells mixed with oil, spread on a ship's hull to keep boring worms out."], "src": "iwb"}
+{"w": "gulist", "pos": "noun", "d": ["A glutton; one who eats to excess."], "src": "iwb"}
+{"w": "gull", "pos": "noun", "d": ["A long-winged seabird, usually white and gray.", "A person easily cheated; a dupe."], "src": "iwb"}
+{"w": "gullery", "pos": "noun", "d": ["The act or practice of tricking others; fraud."], "src": "iwb"}
+{"w": "gullet", "pos": "noun", "d": ["The tube that carries food from the throat to the stomach.", "A narrow channel, as for water."], "src": "iwb"}
+{"w": "gully", "pos": "noun", "d": ["A channel worn into the earth by running water.", "A large knife."], "src": "iwb"}
+{"w": "gulosity", "pos": "noun", "d": ["Excessive appetite; greediness for food."], "src": "iwb"}
+{"w": "gulp", "pos": "verb", "d": ["To swallow hurriedly or in large amounts.", "A large hurried swallow."], "src": "iwb"}
+{"w": "gulph", "pos": "noun", "d": ["A gulf; a deep chasm or a part of the sea reaching into the land."], "src": "iwb"}
+{"w": "gult", "pos": "noun", "d": ["An old form of the word guilt."], "src": "iwb"}
+{"w": "gulty", "pos": "adjective", "d": ["Guilty."], "src": "iwb"}
+{"w": "guly", "pos": "adjective", "d": ["Red; of the heraldic color called gules."], "src": "iwb"}
+{"w": "gum", "pos": "noun", "d": ["A sticky substance that oozes from certain trees and plants.", "The firm flesh around the bases of the teeth.", "A sweetened preparation for chewing."], "src": "iwb"}
+{"w": "gum ammoniac", "pos": "noun", "d": ["A gum resin from an Asian plant, used in medicine and in perfumery."], "src": "iwb"}
+{"w": "gumbo", "pos": "noun", "d": ["A thick soup or stew made with okra, popular in Louisiana cooking.", "The okra plant or its pods."], "src": "iwb"}
+{"w": "gumma", "pos": "noun", "d": ["A soft, rubbery tumor that can form in the advanced stage of syphilis."], "src": "iwb"}
+{"w": "gummatous", "pos": "adjective", "d": ["Resembling or relating to a gumma."], "src": "iwb"}
+{"w": "gummiferous", "pos": "adjective", "d": ["Producing gum; bearing gum."], "src": "iwb"}
+{"w": "gumminess", "pos": "noun", "d": ["The quality of being gummy; stickiness."], "src": "iwb"}
+{"w": "gummosity", "pos": "noun", "d": ["Gumminess; a viscous or sticky quality."], "src": "iwb"}
+{"w": "gummous", "pos": "adjective", "d": ["Like gum; gummy."], "src": "iwb"}
+{"w": "gummy", "pos": "adjective", "d": ["Sticky like gum; viscous and adhesive."], "src": "iwb"}
+{"w": "gump", "pos": "noun", "d": ["A dull or foolish person."], "src": "iwb"}
+{"w": "guna", "pos": "noun", "d": ["In Sanskrit grammar, the lengthening of a simple vowel by adding an 'a' sound to it."], "src": "iwb"}
+{"w": "gundelet", "pos": "noun", "d": ["A small boat resembling a gondola."], "src": "iwb"}
+{"w": "gunnage", "pos": "noun", "d": ["The number of guns carried by a warship."], "src": "iwb"}
+{"w": "gunnel", "pos": "noun", "d": ["The upper edge of a boat's side.", "A small eel-shaped sea fish."], "src": "iwb"}
+{"w": "gunnery", "pos": "noun", "d": ["The science and practice of operating guns and artillery."], "src": "iwb"}
+{"w": "gunnie", "pos": "noun", "d": ["In mining, the empty space left behind after ore has been removed."], "src": "iwb"}
+{"w": "gunny", "pos": "noun", "d": ["A coarse fabric woven from jute fiber, used for sacks."], "src": "iwb"}
+{"w": "gunny cloth", "pos": "noun", "d": ["A strong, coarse sacking made from jute fiber."], "src": "iwb"}
+{"w": "gunocracy", "pos": "noun", "d": ["Government by women; female rule."], "src": "iwb"}
+{"w": "gunstome", "pos": "noun", "d": ["A cannonball, so called because cannonballs were once made of stone."], "src": "iwb"}
+{"w": "gunter rig", "pos": "noun", "d": ["A sailing rig in which a spar slides up the mast to carry the sail."], "src": "iwb"}
+{"w": "gurge", "pos": "noun", "d": ["A whirlpool.", "To swallow up; to engulf."], "src": "iwb"}
+{"w": "gurgeons", "pos": "noun", "d": ["Coarse meal; roughly ground grain."], "src": "iwb"}
+{"w": "gurgle", "pos": "verb", "d": ["To flow with a broken, bubbling sound.", "The act or sound of gurgling."], "src": "iwb"}
+{"w": "gurglet", "pos": "noun", "d": ["A porous earthen jar that cools water by evaporation."], "src": "iwb"}
+{"w": "gurglingly", "pos": "adverb", "d": ["In a gurgling manner."], "src": "iwb"}
+{"w": "gurgoyle", "pos": "noun", "d": ["A gargoyle; a grotesquely carved waterspout projecting from a building."], "src": "iwb"}
+{"w": "gurjun", "pos": "noun", "d": ["A thin, balsam-like oil from an East Indian tree, used in medicine and in coarse paint.", "The large East Indian tree that yields this oil."], "src": "iwb"}
+{"w": "gurl", "pos": "noun", "d": ["A young person of either sex; a girl."], "src": "iwb"}
+{"w": "gurlet", "pos": "noun", "d": ["A mason's pickax with one sharp point and one cutting edge."], "src": "iwb"}
+{"w": "gurmy", "pos": "noun", "d": ["In mining, a level or working tunnel."], "src": "iwb"}
+{"w": "gurnard", "pos": "noun", "d": ["A sea fish with a large spiny head and armored cheeks."], "src": "iwb"}
+{"w": "gurnet", "pos": "noun", "d": ["A gurnard; a sea fish with a large spiny head."], "src": "iwb"}
+{"w": "gurniad", "pos": "noun", "d": ["The gwiniad; a freshwater whitefish of North Wales."], "src": "iwb"}
+{"w": "gurry", "pos": "noun", "d": ["Refuse or waste matter, such as fish offal."], "src": "iwb"}
+{"w": "gurt", "pos": "noun", "d": ["In mining, a channel for water cut into the floor of a working drift."], "src": "iwb"}
+{"w": "gush", "pos": "verb", "d": ["To flow out suddenly and in large amount.", "A sudden, copious outflow."], "src": "iwb"}
+{"w": "gusset", "pos": "noun", "d": ["A small piece of cloth sewn into a garment to strengthen it or give it shape."], "src": "iwb"}
+{"w": "gust", "pos": "noun", "d": ["A sudden, violent rush of wind.", "A keen relish or enjoyment; taste."], "src": "iwb"}
+{"w": "gustard", "pos": "noun", "d": ["The great bustard; a large Old World game bird."], "src": "iwb"}
+{"w": "gustatory", "pos": "adjective", "d": ["Relating to the sense of taste."], "src": "iwb"}
+{"w": "gusto", "pos": "noun", "d": ["Enthusiastic enjoyment; hearty relish."], "src": "iwb"}
+{"w": "gustoso", "pos": "adverb", "d": ["In music, played with taste and feeling."], "src": "iwb"}
+{"w": "gusty", "pos": "adjective", "d": ["Blowing in sudden bursts; marked by gusts."], "src": "iwb"}
+{"w": "gut", "pos": "noun", "d": ["The intestines; the part of the body that digests food.", "Personal courage or nerve."], "src": "iwb"}
+{"w": "gutta", "pos": "noun", "d": ["A drop.", "In architecture, a small cone-shaped ornament set under a triglyph."], "src": "iwb"}
+{"w": "gutta-percha", "pos": "noun", "d": ["A rubber-like substance from the sap of certain tropical trees, once used for insulation and for golf balls."], "src": "iwb"}
+{"w": "guttate", "pos": "adjective", "d": ["Spotted as if with drops."], "src": "iwb"}
+{"w": "guttifer", "pos": "adjective", "d": ["Bearing drops; drop-producing."], "src": "iwb"}
+{"w": "guttiform", "pos": "adjective", "d": ["Shaped like a drop."], "src": "iwb"}
+{"w": "guttle", "pos": "verb", "d": ["To eat greedily; to gobble."], "src": "iwb"}
+{"w": "guttulous", "pos": "adjective", "d": ["Full of small drops."], "src": "iwb"}
+{"w": "guttural", "pos": "adjective", "d": ["Produced in the throat; throaty.", "A throaty speech sound."], "src": "iwb"}
+{"w": "gutturine", "pos": "adjective", "d": ["Relating to the throat."], "src": "iwb"}
+{"w": "gutturize", "pos": "verb", "d": ["To pronounce with a guttural, throaty sound."], "src": "iwb"}
+{"w": "gutturo-", "pos": "prefix", "d": ["A combining form meaning 'of the throat', as in gutturo-nasal."], "src": "iwb"}
+{"w": "gutty", "pos": "adjective", "d": ["In heraldry, charged or sprinkled with drops."], "src": "iwb"}
+{"w": "guyle", "pos": "verb", "d": ["To beguile; to deceive with cunning."], "src": "iwb"}
+{"w": "guze", "pos": "noun", "d": ["In heraldry, a round disk of blood-red color."], "src": "iwb"}
+{"w": "guzzle", "pos": "verb", "d": ["To drink greedily or in large amounts."], "src": "iwb"}
+{"w": "gwiniad", "pos": "noun", "d": ["A freshwater whitefish of North Wales, also called powan."], "src": "iwb"}
+{"w": "gyall", "pos": "noun", "d": ["The gayal; a large domesticated ox of Southeast Asia."], "src": "iwb"}
+{"w": "gyb", "pos": "noun", "d": ["Another form of gybe, the swinging of a sail from one side of a boat to the other.", "A mocking remark; a taunt."], "src": "iwb"}
+{"w": "gybe", "pos": "verb", "d": ["To swing a fore-and-aft sail from one side of a boat to the other.", "A mocking remark; a taunt."], "src": "iwb"}
+{"w": "gye", "pos": "verb", "d": ["To guide or govern."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

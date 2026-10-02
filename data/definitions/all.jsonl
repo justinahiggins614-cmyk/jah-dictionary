@@ -23016,6 +23016,806 @@
 {"d": ["To leave one's native country to live elsewhere.", "To force someone to leave their native country."], "pos": "verb", "w": "expatriate", "src": "iwb"}
 {"w": "expatriation", "pos": "noun", "d": ["The act of leaving one's native country to live elsewhere."], "src": "iwb"}
 {"w": "expectancy", "pos": "noun", "d": ["The state of expecting something to happen.", "Something that is expected to come in the future."], "src": "iwb"}
+{"w": "expectative", "pos": "adjective", "d": ["Full of expectation or hope.", "Existing only in expectation, not yet realized."], "src": "iwb"}
+{"w": "expectedly", "pos": "adverb", "d": ["In the way that was expected."], "src": "iwb"}
+{"w": "expectingly", "pos": "adverb", "d": ["In an eager, anticipating manner."], "src": "iwb"}
+{"w": "expectorant", "pos": "noun", "d": ["A medicine that loosens mucus so it can be coughed up."], "src": "iwb"}
+{"w": "expectorate", "pos": "verb", "d": ["To cough up and spit out mucus from the air passages.", "To spit."], "src": "iwb"}
+{"w": "expectorative", "pos": "adjective", "d": ["Helping to bring up mucus by coughing."], "src": "iwb"}
+{"w": "expede", "pos": "verb", "d": ["To set free from entanglement; to clear away.", "To hurry along; to expedite."], "src": "iwb"}
+{"w": "expediate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "expedience", "pos": "noun", "d": ["Suitability for getting a desired result.", "Self-interested advantage rather than principle."], "src": "iwb"}
+{"w": "expediency", "pos": "noun", "d": ["The quality of being convenient or advantageous in the moment."], "src": "iwb"}
+{"w": "expedient", "pos": "adjective", "d": ["Suitable and advantageous under the circumstances."], "src": "iwb"}
+{"w": "expeditate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "expedite", "pos": "verb", "d": ["To make happen more quickly; to speed up."], "src": "iwb"}
+{"w": "expedition", "pos": "noun", "d": ["An organized journey with a purpose.", "Promptness; speed in carrying something out."], "src": "iwb"}
+{"w": "expeditious", "pos": "adjective", "d": ["Quick and efficient in action."], "src": "iwb"}
+{"w": "expeditive", "pos": "adjective", "d": ["Tending to speed things up."], "src": "iwb"}
+{"w": "expel", "pos": "verb", "d": ["To force out; to drive away.", "To remove officially, as from a school or a country."], "src": "iwb"}
+{"w": "expellable", "pos": "adjective", "d": ["Able to be expelled."], "src": "iwb"}
+{"w": "expenditor", "pos": "noun", "d": ["One who spends or pays out money; a steward of funds."], "src": "iwb"}
+{"w": "experience table", "pos": "phrase", "d": ["A statistical table of observed rates of death, illness, or other events, used to set insurance premiums."], "src": "iwb"}
+{"w": "experient", "pos": "adjective", "d": ["Experienced; having learned from experience."], "src": "iwb"}
+{"w": "experimentative", "pos": "adjective", "d": ["Relating to or based on experiment."], "src": "iwb"}
+{"w": "experimentator", "pos": "noun", "d": ["One who makes experiments."], "src": "iwb"}
+{"w": "experrection", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "expetible", "pos": "adjective", "d": ["Desirable; worth seeking after."], "src": "iwb"}
+{"w": "expiable", "pos": "adjective", "d": ["Capable of being atoned for."], "src": "iwb"}
+{"w": "expiate", "pos": "verb", "d": ["To make amends for a wrong; to atone."], "src": "iwb"}
+{"w": "expiatist", "pos": "noun", "d": ["One who makes atonement for wrongs."], "src": "iwb"}
+{"w": "expiator", "pos": "noun", "d": ["One who expiates or atones."], "src": "iwb"}
+{"w": "expiatory", "pos": "adjective", "d": ["Serving to make atonement."], "src": "iwb"}
+{"w": "expilation", "pos": "noun", "d": ["A plundering or robbing; pillage."], "src": "iwb"}
+{"w": "expilator", "pos": "noun", "d": ["A robber or plunderer."], "src": "iwb"}
+{"w": "expirant", "pos": "noun", "d": ["One who breathes out, or whose life is ending."], "src": "iwb"}
+{"w": "expiratory", "pos": "adjective", "d": ["Relating to breathing out."], "src": "iwb"}
+{"w": "expire", "pos": "verb", "d": ["To come to an end.", "To breathe out."], "src": "iwb"}
+{"w": "expiry", "pos": "noun", "d": ["The coming to an end of a term; termination."], "src": "iwb"}
+{"w": "expiscate", "pos": "verb", "d": ["To draw out by careful inquiry, as a fisherman draws up fish."], "src": "iwb"}
+{"w": "explanate", "pos": "adjective", "d": ["Spread out flat, as a leaf blade."], "src": "iwb"}
+{"w": "explanative", "pos": "adjective", "d": ["Serving to explain."], "src": "iwb"}
+{"w": "explanatoriness", "pos": "noun", "d": ["The quality of being explanatory."], "src": "iwb"}
+{"w": "explanatory", "pos": "adjective", "d": ["Serving to make something clear or understandable."], "src": "iwb"}
+{"w": "expletion", "pos": "noun", "d": ["The act of completing; completion."], "src": "iwb"}
+{"w": "expletive", "pos": "noun", "d": ["A swear word or profane outburst.", "A word inserted to fill out a sentence without adding meaning, like there in there is."], "src": "iwb"}
+{"w": "expletory", "pos": "adjective", "d": ["Serving to fill out or complete."], "src": "iwb"}
+{"w": "explicable", "pos": "adjective", "d": ["Able to be explained."], "src": "iwb"}
+{"w": "explicative", "pos": "adjective", "d": ["Serving to explain."], "src": "iwb"}
+{"w": "explicator", "pos": "noun", "d": ["One who explains or interprets."], "src": "iwb"}
+{"w": "explicatory", "pos": "adjective", "d": ["Serving to explain."], "src": "iwb"}
+{"w": "explode", "pos": "verb", "d": ["To burst apart with a loud noise.", "To refute or disprove decisively."], "src": "iwb"}
+{"w": "explodent", "pos": "noun", "d": ["A consonant pronounced with an audible burst of breath, like p or t.", "One who causes an explosion."], "src": "iwb"}
+{"w": "exploit", "pos": "verb", "d": ["To make unfair use of a person or thing for one's own gain.", "To make full use of an opportunity or resource."], "src": "iwb"}
+{"w": "explorate", "pos": "verb", "d": ["To explore; to search through unfamiliar territory."], "src": "iwb"}
+{"w": "explorative", "pos": "adjective", "d": ["Tending to explore or investigate."], "src": "iwb"}
+{"w": "explorator", "pos": "noun", "d": ["One who explores; an explorer."], "src": "iwb"}
+{"w": "exploratory", "pos": "adjective", "d": ["Done for the purpose of exploration or discovery."], "src": "iwb"}
+{"w": "explosive", "pos": "adjective", "d": ["Able to explode or burst forth violently.", "Likely to arouse strong feeling, as an explosive issue."], "src": "iwb"}
+{"w": "expoliation", "pos": "noun", "d": ["The act of stripping or despoiling."], "src": "iwb"}
+{"w": "exposal", "pos": "noun", "d": ["The act of exposing; exposure."], "src": "iwb"}
+{"w": "exposedness", "pos": "noun", "d": ["The state of being exposed."], "src": "iwb"}
+{"w": "expositor", "pos": "noun", "d": ["One who expounds or explains, especially scripture."], "src": "iwb"}
+{"w": "expository", "pos": "adjective", "d": ["Serving to expound or explain."], "src": "iwb"}
+{"w": "expost facto", "pos": "phrase", "d": ["After the fact; done afterward.", "Having retroactive effect, as an ex post facto law."], "src": "iwb"}
+{"w": "expostfacto", "pos": "adjective", "d": ["After the fact; retroactive."], "src": "iwb"}
+{"w": "expostulator", "pos": "noun", "d": ["One who argues earnestly against something; a remonstrator."], "src": "iwb"}
+{"w": "express rifle", "pos": "phrase", "d": ["A high-velocity hunting rifle firing a flat-trajectory bullet."], "src": "iwb"}
+{"w": "express train", "pos": "phrase", "d": ["A train that stops at few stations and runs on a fast schedule."], "src": "iwb"}
+{"w": "exprobrate", "pos": "verb", "d": ["To reproach or upbraid."], "src": "iwb"}
+{"w": "exprobration", "pos": "noun", "d": ["The act of reproaching; upbraiding."], "src": "iwb"}
+{"w": "exprobrative", "pos": "adjective", "d": ["Expressing reproach."], "src": "iwb"}
+{"w": "exprobratory", "pos": "adjective", "d": ["Serving to reproach."], "src": "iwb"}
+{"w": "expropriate", "pos": "verb", "d": ["To take private property for public use, with compensation."], "src": "iwb"}
+{"w": "expropriation", "pos": "noun", "d": ["The taking of private property for public use."], "src": "iwb"}
+{"w": "expugn", "pos": "verb", "d": ["To take by storm; to conquer in battle."], "src": "iwb"}
+{"w": "expunge", "pos": "verb", "d": ["To blot out or erase completely."], "src": "iwb"}
+{"w": "expurgate", "pos": "verb", "d": ["To remove objectionable parts from a book or writing."], "src": "iwb"}
+{"w": "expurgator", "pos": "noun", "d": ["One who expurgates or cleanses writings."], "src": "iwb"}
+{"w": "exquisite", "pos": "adjective", "d": ["Of rare beauty or delicate perfection.", "Keenly or sharply felt, as exquisite pain."], "src": "iwb"}
+{"w": "exquisitive", "pos": "adjective", "d": ["Keenly perceptive or discerning."], "src": "iwb"}
+{"w": "exsanguinous", "pos": "adjective", "d": ["Bloodless; lacking blood."], "src": "iwb"}
+{"w": "exsanguious", "pos": "adjective", "d": ["Bloodless; drained of blood."], "src": "iwb"}
+{"w": "exscind", "pos": "verb", "d": ["To cut off or cut away."], "src": "iwb"}
+{"w": "exsert", "pos": "verb", "d": ["To thrust out or protrude."], "src": "iwb"}
+{"w": "exsiccant", "pos": "adjective", "d": ["Tending to dry."], "src": "iwb"}
+{"w": "exsiccator", "pos": "noun", "d": ["One who or that which dries."], "src": "iwb"}
+{"w": "exsiliency", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "exspuition", "pos": "noun", "d": ["The act of spitting out."], "src": "iwb"}
+{"w": "exsputory", "pos": "adjective", "d": ["Relating to or serving for spitting out."], "src": "iwb"}
+{"w": "exstrophy", "pos": "noun", "d": ["The turning inside out of an organ, as of the bladder."], "src": "iwb"}
+{"w": "exsuccous", "pos": "adjective", "d": ["Dry; lacking juice."], "src": "iwb"}
+{"w": "exsufflicate", "pos": "verb", "d": ["To blow upon, as in a rite of exorcism."], "src": "iwb"}
+{"w": "extacy", "pos": "noun", "d": ["An old spelling of ecstasy."], "src": "iwb"}
+{"w": "extance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "extancy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "extasy", "pos": "noun", "d": ["An old spelling of ecstasy."], "src": "iwb"}
+{"w": "extatic", "pos": "adjective", "d": ["Ecstatic; enraptured."], "src": "iwb"}
+{"w": "extemporanean", "pos": "adjective", "d": ["Done offhand; without preparation."], "src": "iwb"}
+{"w": "extempore", "pos": "adverb", "d": ["Without preparation; on the spur of the moment."], "src": "iwb"}
+{"w": "extemporiness", "pos": "noun", "d": ["The quality of being unpremeditated."], "src": "iwb"}
+{"w": "extendedly", "pos": "adverb", "d": ["In an extended or lengthened manner."], "src": "iwb"}
+{"w": "extendlessness", "pos": "noun", "d": ["The state of having no extension or extent."], "src": "iwb"}
+{"w": "extensometer", "pos": "noun", "d": ["An instrument that measures how much a material stretches under stress."], "src": "iwb"}
+{"w": "extenuation", "pos": "noun", "d": ["An act of making an offense or fault seem less serious."], "src": "iwb"}
+{"w": "extenuator", "pos": "noun", "d": ["A person or thing that lessens the blame for an offense."], "src": "iwb"}
+{"w": "extenuatory", "pos": "adjective", "d": ["Serving to lessen the seriousness of an offense or fault."], "src": "iwb"}
+{"w": "externalistic", "pos": "adjective", "d": ["Concerned with outward or external things rather than inner ones."], "src": "iwb"}
+{"w": "externe", "pos": "noun", "d": ["A student who attends classes at a hospital or school without living there."], "src": "iwb"}
+{"w": "exterraneous", "pos": "adjective", "d": ["Foreign to the matter at hand; coming from outside.", "Not essential to a thing's nature."], "src": "iwb"}
+{"w": "extersion", "pos": "noun", "d": ["The act of wiping or rubbing away."], "src": "iwb"}
+{"w": "extimulate", "pos": "verb", "d": ["To stimulate from without; to rouse or excite outwardly."], "src": "iwb"}
+{"w": "extimulation", "pos": "noun", "d": ["Outward stimulation; the act of rousing from the outside."], "src": "iwb"}
+{"w": "extinguish", "pos": "verb", "d": ["To put out a fire or light.", "To bring to an end; to destroy completely."], "src": "iwb"}
+{"w": "extirp", "pos": "verb", "d": ["To root out; to destroy utterly."], "src": "iwb"}
+{"w": "extirpative", "pos": "adjective", "d": ["Tending to root out or destroy completely."], "src": "iwb"}
+{"w": "extirpator", "pos": "noun", "d": ["One who roots out or destroys completely."], "src": "iwb"}
+{"w": "extirpatory", "pos": "adjective", "d": ["Relating to or tending toward rooting out; destructive of."], "src": "iwb"}
+{"w": "extispicious", "pos": "adjective", "d": ["Relating to the ancient practice of foretelling by inspecting animal entrails."], "src": "iwb"}
+{"w": "extogenous", "pos": "adjective", "d": ["Growing from the outside; developed externally."], "src": "iwb"}
+{"w": "extorsive", "pos": "adjective", "d": ["Tending to twist or turn outward."], "src": "iwb"}
+{"w": "extra-", "pos": "prefix", "d": ["A prefix meaning outside of, beyond, or in addition to, as in extraordinary."], "src": "iwb"}
+{"w": "extractiform", "pos": "adjective", "d": ["Having the shape of an extract or thickened concentrate."], "src": "iwb"}
+{"w": "extrados", "pos": "noun", "d": ["The outer curve or surface of an arch."], "src": "iwb"}
+{"w": "extraforaneous", "pos": "adjective", "d": ["Coming from outside a legal forum or jurisdiction."], "src": "iwb"}
+{"w": "extrageneous", "pos": "adjective", "d": ["Originating outside the body or outside the natural kind."], "src": "iwb"}
+{"w": "extrajudicial conveyance", "pos": "phrase", "d": ["A transfer of property done outside of court proceedings."], "src": "iwb"}
+{"w": "extraneity", "pos": "noun", "d": ["The state of being foreign or extrinsic to something."], "src": "iwb"}
+{"w": "extraneous", "pos": "adjective", "d": ["Not belonging to the subject at hand; irrelevant.", "Coming from outside."], "src": "iwb"}
+{"w": "extraordinariness", "pos": "noun", "d": ["The quality of being beyond the ordinary; unusualness."], "src": "iwb"}
+{"w": "extraught", "pos": "adjective", "d": ["Pumped out; drawn out to excess."], "src": "iwb"}
+{"w": "extravagance", "pos": "noun", "d": ["Spending money or resources in an excessive, wasteful way.", "The quality of exceeding reasonable bounds."], "src": "iwb"}
+{"w": "extravagant", "pos": "adjective", "d": ["Spending too much or using more than necessary.", "Exceeding reasonable limits; wild or excessive."], "src": "iwb"}
+{"w": "extravaganza", "pos": "noun", "d": ["A lavish, spectacular entertainment or display."], "src": "iwb"}
+{"w": "extravagate", "pos": "verb", "d": ["To wander beyond bounds; to stray from the proper course."], "src": "iwb"}
+{"w": "extravagation", "pos": "noun", "d": ["A wandering beyond proper limits; an act of straying."], "src": "iwb"}
+{"w": "extravasate", "pos": "verb", "d": ["To pour out of the usual vessels, as blood or sap.", "In geology, to pour out molten rock."], "src": "iwb"}
+{"w": "extravasation", "pos": "noun", "d": ["The escape of blood or other fluid from its normal vessels into surrounding tissue."], "src": "iwb"}
+{"w": "extravenate", "pos": "verb", "d": ["To let out blood from a vein; to bleed a patient."], "src": "iwb"}
+{"w": "extremist", "pos": "noun", "d": ["A person who holds extreme or radical views."], "src": "iwb"}
+{"w": "extremity", "pos": "noun", "d": ["The furthest point or end of something.", "A condition of extreme distress or danger.", "A hand or foot; an outer limb."], "src": "iwb"}
+{"w": "extricable", "pos": "adjective", "d": ["Capable of being untangled or freed from difficulty."], "src": "iwb"}
+{"w": "extricate", "pos": "verb", "d": ["To free from entanglement or difficulty."], "src": "iwb"}
+{"w": "extrication", "pos": "noun", "d": ["The act of freeing from entanglement or difficulty."], "src": "iwb"}
+{"w": "extrinsic", "pos": "adjective", "d": ["Not part of the essential nature of a thing; coming from outside."], "src": "iwb"}
+{"w": "extroitive", "pos": "adjective", "d": ["Tending to turn outward; extroverted in manner."], "src": "iwb"}
+{"w": "extrorsal", "pos": "adjective", "d": ["Turning outward; directed away from the center."], "src": "iwb"}
+{"w": "extrorse", "pos": "adjective", "d": ["Turned outward; facing away from the center, as anthers."], "src": "iwb"}
+{"w": "extroversion", "pos": "noun", "d": ["The act of turning outward.", "The personality trait of being outgoing and sociable."], "src": "iwb"}
+{"w": "extruct", "pos": "verb", "d": ["To build or raise up; to construct."], "src": "iwb"}
+{"w": "extructor", "pos": "noun", "d": ["One who builds or constructs; a builder."], "src": "iwb"}
+{"w": "extrude", "pos": "verb", "d": ["To force out through a shaped opening, as molten metal or plastic.", "To thrust out; to expel."], "src": "iwb"}
+{"w": "extrusive", "pos": "adjective", "d": ["Forced out; relating to volcanic rock formed from lava that cooled at the surface."], "src": "iwb"}
+{"w": "extuberance", "pos": "noun", "d": ["A swelling or bump on a surface."], "src": "iwb"}
+{"w": "extuberancy", "pos": "noun", "d": ["The state of being swollen or protuberant."], "src": "iwb"}
+{"w": "extuberant", "pos": "adjective", "d": ["Swelling outward; protuberant."], "src": "iwb"}
+{"w": "extuberate", "pos": "verb", "d": ["To swell or bulge outward."], "src": "iwb"}
+{"w": "extuberation", "pos": "noun", "d": ["A swelling or bulging outward; a protuberance."], "src": "iwb"}
+{"w": "exuberance", "pos": "noun", "d": ["Overflowing energy, joy, or enthusiasm."], "src": "iwb"}
+{"w": "exuberancy", "pos": "noun", "d": ["The state of being exuberant; abundant vitality."], "src": "iwb"}
+{"w": "exuberant", "pos": "adjective", "d": ["Full of energy, excitement, and cheerfulness.", "Growing abundantly; luxuriant."], "src": "iwb"}
+{"w": "exuberate", "pos": "verb", "d": ["To abound; to overflow with plenty."], "src": "iwb"}
+{"w": "exuccous", "pos": "adjective", "d": ["Without sap or juice; dry."], "src": "iwb"}
+{"w": "exudate", "pos": "noun", "d": ["Fluid or sap that oozes out of a plant or wound.", "Matter that has passed out through vessel walls."], "src": "iwb"}
+{"w": "exudation", "pos": "noun", "d": ["The act or process of oozing out slowly."], "src": "iwb"}
+{"w": "exude", "pos": "verb", "d": ["To ooze out slowly through pores or a wound.", "To display an emotion or quality openly and strongly."], "src": "iwb"}
+{"w": "exulceratory", "pos": "adjective", "d": ["Tending to cause ulcers or sores."], "src": "iwb"}
+{"w": "exult", "pos": "verb", "d": ["To rejoice greatly; to triumph with delight."], "src": "iwb"}
+{"w": "exultancy", "pos": "noun", "d": ["The state of rejoicing greatly; jubilant triumph."], "src": "iwb"}
+{"w": "exundate", "pos": "verb", "d": ["To overflow; to flow out in a flood."], "src": "iwb"}
+{"w": "exundation", "pos": "noun", "d": ["An overflowing; a flood."], "src": "iwb"}
+{"w": "exuperable", "pos": "adjective", "d": ["Able to be overcome or surmounted."], "src": "iwb"}
+{"w": "exuperance", "pos": "noun", "d": ["The act of overcoming; superiority."], "src": "iwb"}
+{"w": "exuperant", "pos": "adjective", "d": ["Overcoming; surmounting; superior."], "src": "iwb"}
+{"w": "exuperate", "pos": "verb", "d": ["To overcome; to surmount."], "src": "iwb"}
+{"w": "exuperation", "pos": "noun", "d": ["The act of overcoming or surmounting."], "src": "iwb"}
+{"w": "exuscitate", "pos": "verb", "d": ["To stir up; to rouse from sleep or inactivity."], "src": "iwb"}
+{"w": "exutory", "pos": "adjective", "d": ["Relating to the casting off of skin or a covering."], "src": "iwb"}
+{"w": "exuvia", "pos": "noun", "d": ["Cast-off skins or shells, as of insects or snakes."], "src": "iwb"}
+{"w": "exuviability", "pos": "noun", "d": ["The capacity to shed a covering or skin."], "src": "iwb"}
+{"w": "exuviable", "pos": "adjective", "d": ["Able to be cast off, as a skin."], "src": "iwb"}
+{"w": "exuviae", "pos": "noun", "d": ["The cast-off skins, shells, or coverings of animals."], "src": "iwb"}
+{"w": "exuvial", "pos": "adjective", "d": ["Relating to cast-off skins or the shedding of a covering."], "src": "iwb"}
+{"w": "exuviate", "pos": "verb", "d": ["To shed a skin, shell, or other covering."], "src": "iwb"}
+{"w": "ey", "pos": "interjection", "d": ["An old variant spelling of aye, expressing agreement."], "src": "iwb"}
+{"w": "eyalet", "pos": "noun", "d": ["An administrative province of the old Ottoman Empire."], "src": "iwb"}
+{"w": "eyas", "pos": "noun", "d": ["A young hawk taken from the nest for training."], "src": "iwb"}
+{"w": "eye opener", "pos": "phrase", "d": ["Something that reveals a surprising truth.", "An alcoholic drink taken in the morning."], "src": "iwb"}
+{"w": "eye-minded", "pos": "adjective", "d": ["Thinking mainly in visual images; disposed to see things clearly."], "src": "iwb"}
+{"w": "eye-saint", "pos": "noun", "d": ["The patron saint of the eyes; a traditional protector of sight."], "src": "iwb"}
+{"w": "eye-splice", "pos": "noun", "d": ["A loop formed in the end of a rope by splicing its strands back into itself."], "src": "iwb"}
+{"w": "eye-spot", "pos": "noun", "d": ["A spot like an eye on an animal's skin, wing, or feather.", "A light-sensitive spot on certain simple organisms."], "src": "iwb"}
+{"w": "eyeleteer", "pos": "noun", "d": ["A pirate or rover who preys by sea; a privateer."], "src": "iwb"}
+{"w": "eyen", "pos": "noun", "d": ["An old plural form of eye."], "src": "iwb"}
+{"w": "eyer", "pos": "noun", "d": ["One who eyes; a watcher."], "src": "iwb"}
+{"w": "eyet", "pos": "noun", "d": ["An islet; a small island in a river or lake."], "src": "iwb"}
+{"w": "eyghen", "pos": "noun", "d": ["Eyes; an old plural form of eye."], "src": "iwb"}
+{"w": "eyght", "pos": "noun", "d": ["An old spelling of eight."], "src": "iwb"}
+{"w": "eyle", "pos": "verb", "d": ["To ail; to trouble or afflict."], "src": "iwb"}
+{"w": "eyliad", "pos": "noun", "d": ["The Iliad; the epic poem of Homer about the siege of Troy."], "src": "iwb"}
+{"w": "eyne", "pos": "noun", "d": ["An old plural form of eye."], "src": "iwb"}
+{"w": "eyot", "pos": "noun", "d": ["A small island, especially in a river."], "src": "iwb"}
+{"w": "eyr", "pos": "noun", "d": ["An heir; one entitled to inherit."], "src": "iwb"}
+{"w": "eyra", "pos": "noun", "d": ["A South American wildcat with a long body and small head, now usually called the jaguarundi."], "src": "iwb"}
+{"w": "eyre", "pos": "noun", "d": ["A circuit traveled by judges to hear cases in different towns.", "An obsolete term for a journey or expedition."], "src": "iwb"}
+{"w": "eyrie", "pos": "noun", "d": ["The nest of a bird of prey, built high on a cliff, tree, or building.", "A high and remote dwelling place."], "src": "iwb"}
+{"w": "eyry", "pos": "noun", "d": ["A variant spelling of eyrie, the nest of a bird of prey."], "src": "iwb"}
+{"w": "eysell", "pos": "noun", "d": ["An obsolete spelling of eisel, meaning vinegar or a sour liquid."], "src": "iwb"}
+{"w": "fabaceous", "pos": "adjective", "d": ["Belonging to or resembling the bean family of plants.", "Bearing beans or beanlike seeds."], "src": "iwb"}
+{"w": "fabella", "pos": "noun", "d": ["A small sesamoid bone sometimes found in a tendon behind the knee joint."], "src": "iwb"}
+{"w": "fabian", "pos": "adjective", "d": ["Favoring cautious delay and gradual pressure instead of direct confrontation.", "Relating to the Fabian Society, which advocates gradual social reform."], "src": "iwb"}
+{"w": "fable", "pos": "noun", "d": ["A short tale, often with talking animals, that teaches a moral lesson.", "A false or invented story.", "To tell or invent fictitious stories."], "src": "iwb"}
+{"w": "fabliau", "pos": "noun", "d": ["A short comic and often coarse tale in verse, popular in medieval France."], "src": "iwb"}
+{"w": "fabricator", "pos": "noun", "d": ["A person who makes or builds things, especially by assembling parts.", "A person who invents false stories or reports."], "src": "iwb"}
+{"w": "fabricatress", "pos": "noun", "d": ["A woman who fabricates; a female fabricator."], "src": "iwb"}
+{"w": "fabrile", "pos": "adjective", "d": ["Relating to a craftsman or to skilled work done by hand."], "src": "iwb"}
+{"w": "fabulist", "pos": "noun", "d": ["A writer or teller of fables.", "A person who invents false stories."], "src": "iwb"}
+{"w": "fabulize", "pos": "verb", "d": ["To turn into a fable.", "To invent stories about something."], "src": "iwb"}
+{"w": "fabulosity", "pos": "noun", "d": ["The quality of being fabulous, legendary, or almost unbelievable."], "src": "iwb"}
+{"w": "faburden", "pos": "noun", "d": ["An early form of harmonized church music in which a chant melody is sung with accompanying parts in parallel intervals."], "src": "iwb"}
+{"w": "fac", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "facade", "pos": "noun", "d": ["The front face of a building.", "A false or misleading outward appearance."], "src": "iwb"}
+{"w": "facet", "pos": "noun", "d": ["One of the small flat polished surfaces cut on a gemstone.", "One particular aspect or side of a subject or situation.", "To cut or shape with small flat surfaces."], "src": "iwb"}
+{"w": "facete", "pos": "adjective", "d": ["Witty and amusing in a light, playful way."], "src": "iwb"}
+{"w": "facetiae", "pos": "noun", "d": ["Witty or amusing sayings and writings."], "src": "iwb"}
+{"w": "facetious", "pos": "adjective", "d": ["Treating serious matters with deliberately inappropriate humor.", "Playfully witty or joking."], "src": "iwb"}
+{"w": "facia", "pos": "noun", "d": ["A variant form of fascia, a band or strip of material."], "src": "iwb"}
+{"w": "faciend", "pos": "noun", "d": ["Something that must be done; a task to be performed."], "src": "iwb"}
+{"w": "facient", "pos": "noun", "d": ["A person who makes or does something; a doer."], "src": "iwb"}
+{"w": "facies", "pos": "noun", "d": ["The general outward appearance of a thing.", "In geology, the distinctive character and composition of a rock layer as formed under particular conditions."], "src": "iwb"}
+{"w": "facilitation", "pos": "noun", "d": ["The act of making something easier or helping it to happen."], "src": "iwb"}
+{"w": "facinorous", "pos": "adjective", "d": ["Extremely wicked or villainous."], "src": "iwb"}
+{"w": "facound", "pos": "adjective", "d": ["An obsolete form of facund, meaning eloquent or fluent in speech."], "src": "iwb"}
+{"w": "factious", "pos": "adjective", "d": ["Given to causing quarrels and divisions within a group.", "Relating to a political faction."], "src": "iwb"}
+{"w": "factitious", "pos": "adjective", "d": ["Artificially created rather than natural or genuine."], "src": "iwb"}
+{"w": "factitive", "pos": "adjective", "d": ["In grammar, denoting a verb that takes both a direct object and a complement describing it, as in elected him president."], "src": "iwb"}
+{"w": "facto", "pos": "adverb", "d": ["In fact; in reality."], "src": "iwb"}
+{"w": "factoress", "pos": "noun", "d": ["A female factor; a woman who acts as an agent for another person."], "src": "iwb"}
+{"w": "factotum", "pos": "noun", "d": ["A person employed to do all kinds of work or tasks."], "src": "iwb"}
+{"w": "factual", "pos": "adjective", "d": ["Based on or containing facts; true to what actually happened."], "src": "iwb"}
+{"w": "factum", "pos": "noun", "d": ["A deed or act that has been done.", "A fact."], "src": "iwb"}
+{"w": "faculae", "pos": "noun", "d": ["Bright patches visible on the surface of the sun."], "src": "iwb"}
+{"w": "facular", "pos": "adjective", "d": ["Relating to or consisting of faculae."], "src": "iwb"}
+{"w": "facultative", "pos": "adjective", "d": ["Optional rather than required; left to free choice.", "Capable of living or functioning under varying conditions."], "src": "iwb"}
+{"w": "facund", "pos": "adjective", "d": ["Eloquent and fluent in speech."], "src": "iwb"}
+{"w": "facundious", "pos": "adjective", "d": ["Fluent and eloquent in speech."], "src": "iwb"}
+{"w": "fad", "pos": "noun", "d": ["A brief and intense popular craze or fashion."], "src": "iwb"}
+{"w": "fadaise", "pos": "noun", "d": ["A trifling or silly remark."], "src": "iwb"}
+{"w": "faddle", "pos": "verb", "d": ["To handle fondly; to play with in a trifling way."], "src": "iwb"}
+{"w": "fade", "pos": "verb", "d": ["To lose brightness, color, or strength gradually.", "To disappear slowly from sight, hearing, or memory.", "A gradual loss of brightness or sound."], "src": "iwb"}
+{"w": "fadge", "pos": "verb", "d": ["To fit together in a suitable way; to succeed or get along."], "src": "iwb"}
+{"w": "fadme", "pos": "verb", "d": ["An obsolete form of fathom, meaning to measure the depth of or to understand fully."], "src": "iwb"}
+{"w": "fady", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "faecal", "pos": "adjective", "d": ["Relating to or consisting of faeces."], "src": "iwb"}
+{"w": "faeces", "pos": "noun", "d": ["Solid waste matter discharged from the bowels."], "src": "iwb"}
+{"w": "faecula", "pos": "noun", "d": ["Starch obtained from plants, used in cooking and medicine."], "src": "iwb"}
+{"w": "faery", "pos": "noun", "d": ["The realm or world of fairies; fairyland.", "An archaic spelling of fairy."], "src": "iwb"}
+{"w": "faffle", "pos": "verb", "d": ["To stammer or hesitate in speaking.", "To flutter or wave about loosely."], "src": "iwb"}
+{"w": "fag", "pos": "verb", "d": ["To work hard at a tiring task.", "To tire out by hard work or effort."], "src": "iwb"}
+{"w": "fag-end", "pos": "noun", "d": ["The very end or last remnant of something.", "The unfinished end of a rope."], "src": "iwb"}
+{"w": "fagot", "pos": "noun", "d": ["A bundle of sticks or twigs bound together, used as fuel.", "A bundle of iron rods bound for forging."], "src": "iwb"}
+{"w": "faham", "pos": "noun", "d": ["An aromatic tea made from the dried leaves of a wild orchid native to Mauritius."], "src": "iwb"}
+{"w": "fahlband", "pos": "noun", "d": ["A band or layer of rock impregnated with scattered metallic minerals."], "src": "iwb"}
+{"w": "fahlerz", "pos": "noun", "d": ["A grayish copper ore, also called tetrahedrite."], "src": "iwb"}
+{"w": "fahlunite", "pos": "noun", "d": ["A greenish mineral related to cordierite."], "src": "iwb"}
+{"w": "fahrenheit", "pos": "adjective", "d": ["Of or relating to the temperature scale on which water freezes at 32 degrees and boils at 212 degrees."], "src": "iwb"}
+{"w": "faience", "pos": "noun", "d": ["Tin-glazed earthenware, often decorated with colored designs."], "src": "iwb"}
+{"w": "faille", "pos": "noun", "d": ["A soft fabric of silk or rayon with a distinct crosswise rib."], "src": "iwb"}
+{"w": "fain", "pos": "adjective", "d": ["Glad or willing to do something.", "Gladly; willingly."], "src": "iwb"}
+{"w": "faineance", "pos": "noun", "d": ["The habit of avoiding work; laziness."], "src": "iwb"}
+{"w": "faineancy", "pos": "noun", "d": ["The habit of avoiding work; laziness."], "src": "iwb"}
+{"w": "faineant", "pos": "noun", "d": ["A person who avoids work; an idler.", "Idle and inactive; doing nothing."], "src": "iwb"}
+{"w": "faineant deity", "pos": "phrase", "d": ["A god believed to take no interest in the world and never to intervene in human affairs."], "src": "iwb"}
+{"w": "faint", "pos": "adjective", "d": ["Barely perceptible; dim, weak, or slight.", "To lose consciousness briefly.", "A brief loss of consciousness."], "src": "iwb"}
+{"w": "faint-hearted", "pos": "adjective", "d": ["Lacking courage; timid or cowardly."], "src": "iwb"}
+{"w": "fainty", "pos": "adjective", "d": ["Slightly faint; inclined to faintness."], "src": "iwb"}
+{"w": "fair catch", "pos": "phrase", "d": ["In football, a catch of a kicked ball after which the catcher may not be tackled, signaled by waving one arm."], "src": "iwb"}
+{"w": "fair-haired", "pos": "adjective", "d": ["Having light-colored hair."], "src": "iwb"}
+{"w": "fair-leader", "pos": "noun", "d": ["A device on a ship or machine that guides a rope or line so it runs smoothly and without chafing."], "src": "iwb"}
+{"w": "fair-minded", "pos": "adjective", "d": ["Judging matters impartially and honestly."], "src": "iwb"}
+{"w": "fair-natured", "pos": "adjective", "d": ["Having a kind and pleasant disposition."], "src": "iwb"}
+{"w": "fair-spoken", "pos": "adjective", "d": ["Speaking in a courteous and pleasant manner."], "src": "iwb"}
+{"w": "fair-weather", "pos": "adjective", "d": ["Loyal or useful only in easy times and absent in difficulty."], "src": "iwb"}
+{"w": "fair-world", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fairily", "pos": "adverb", "d": ["In the manner of a fairy; like a fairy."], "src": "iwb"}
+{"w": "faitour", "pos": "noun", "d": ["An evildoer or villain.", "A cheat or impostor."], "src": "iwb"}
+{"w": "fakir", "pos": "noun", "d": ["A Muslim or Hindu religious ascetic who practices feats of endurance.", "A beggar who claims miraculous powers."], "src": "iwb"}
+{"w": "fal-lals", "pos": "noun", "d": ["Showy but worthless trinkets or finery."], "src": "iwb"}
+{"w": "falanaka", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "falcade", "pos": "noun", "d": ["A movement in horsemanship in which a horse checks its pace and settles back on its haunches."], "src": "iwb"}
+{"w": "falcate", "pos": "adjective", "d": ["Curved like a sickle."], "src": "iwb"}
+{"w": "falcation", "pos": "noun", "d": ["A curving like that of a sickle."], "src": "iwb"}
+{"w": "falcer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "falchion", "pos": "noun", "d": ["A broad, slightly curved sword with a single cutting edge."], "src": "iwb"}
+{"w": "falcidian", "pos": "adjective", "d": ["Relating to the ancient Roman law reserving one fourth of an estate for the heir."], "src": "iwb"}
+{"w": "falciform", "pos": "adjective", "d": ["Shaped like a sickle; curved and tapering."], "src": "iwb"}
+{"w": "falcon", "pos": "noun", "d": ["A swift bird of prey with long pointed wings, often trained for hunting."], "src": "iwb"}
+{"w": "falconet", "pos": "noun", "d": ["A small light cannon used in former times.", "A young falcon."], "src": "iwb"}
+{"w": "falconine", "pos": "adjective", "d": ["Relating to or resembling a falcon."], "src": "iwb"}
+{"w": "falconry", "pos": "noun", "d": ["The art and sport of training hawks and falcons for hunting."], "src": "iwb"}
+{"w": "falcula", "pos": "noun", "d": ["A small sickle-shaped anatomical structure."], "src": "iwb"}
+{"w": "falculate", "pos": "adjective", "d": ["Furnished with claws or hooked talons."], "src": "iwb"}
+{"w": "faldage", "pos": "noun", "d": ["The feudal right of a lord to have his tenants fold their sheep on his land."], "src": "iwb"}
+{"w": "faldfee", "pos": "noun", "d": ["A fee or rent paid for the privilege of faldage, the folding of sheep on one's own ground."], "src": "iwb"}
+{"w": "falding", "pos": "noun", "d": ["A coarse woolen cloth."], "src": "iwb"}
+{"w": "faldistory", "pos": "noun", "d": ["A folding stool, especially the portable chair used by a bishop."], "src": "iwb"}
+{"w": "faldstool", "pos": "noun", "d": ["A folding stool; a portable chair without arms, used especially by bishops in church ceremonies."], "src": "iwb"}
+{"w": "falernian", "pos": "noun", "d": ["A celebrated wine of ancient Rome, grown in the Falernian district of Campania."], "src": "iwb"}
+{"w": "falk", "pos": "noun", "d": ["The razorbill, a black-and-white seabird of the North Atlantic."], "src": "iwb"}
+{"w": "fallacy", "pos": "noun", "d": ["An error in reasoning that makes an argument unsound.", "A false or mistaken belief."], "src": "iwb"}
+{"w": "fallax", "pos": "adjective", "d": ["Deceptive; fallacious (a Latin word)."], "src": "iwb"}
+{"w": "fallency", "pos": "noun", "d": ["An exception (obsolete)."], "src": "iwb"}
+{"w": "fallibility", "pos": "noun", "d": ["The quality of being liable to error; the capacity to make mistakes."], "src": "iwb"}
+{"w": "fallibly", "pos": "adverb", "d": ["In a manner liable to error."], "src": "iwb"}
+{"w": "fallopian", "pos": "adjective", "d": ["Of or relating to the Fallopian tubes."], "src": "iwb"}
+{"w": "fallow", "pos": "adjective", "d": ["Plowed but left unsown for a season to restore its fertility.", "Of a pale yellowish-brown color."], "src": "iwb"}
+{"w": "fallow deer", "pos": "noun", "d": ["A medium-sized deer with a spotted coat and broad, flattened antlers, native to Europe and western Asia."], "src": "iwb"}
+{"w": "falsary", "pos": "noun", "d": ["A falsifier; one who forges or counterfeits."], "src": "iwb"}
+{"w": "false-faced", "pos": "adjective", "d": ["Having a deceitful appearance; hypocritical."], "src": "iwb"}
+{"w": "false-heart", "pos": "noun", "d": ["A deceitful or treacherous person."], "src": "iwb"}
+{"w": "falsetto", "pos": "noun", "d": ["A high-pitched singing voice used by men above their natural range."], "src": "iwb"}
+{"w": "falsicrimen", "pos": "noun", "d": ["A crime involving falsity, fraud, or forgery."], "src": "iwb"}
+{"w": "falsifiable", "pos": "adjective", "d": ["Capable of being shown to be false."], "src": "iwb"}
+{"w": "falsification", "pos": "noun", "d": ["The act of making false; forgery or misrepresentation."], "src": "iwb"}
+{"w": "falsificator", "pos": "noun", "d": ["One who falsifies; a forger."], "src": "iwb"}
+{"w": "falsify", "pos": "verb", "d": ["To make false; to misrepresent or forge."], "src": "iwb"}
+{"w": "falsism", "pos": "noun", "d": ["A statement that is obviously false; the opposite of a truism."], "src": "iwb"}
+{"w": "falsity", "pos": "noun", "d": ["The quality of being false; a false statement or belief."], "src": "iwb"}
+{"w": "falter", "pos": "verb", "d": ["To hesitate or waver in purpose or action.", "To speak with broken, unsteady utterance."], "src": "iwb"}
+{"w": "faluns", "pos": "noun", "d": ["Shell-rich rock layers of middle Tertiary age in France, taken by Lyell as the type of his Miocene subdivision."], "src": "iwb"}
+{"w": "falwe", "pos": "adjective", "d": ["An obsolete form of fallow."], "src": "iwb"}
+{"w": "falx", "pos": "noun", "d": ["A sickle-shaped fold of the dura mater separating the two halves of the brain.", "A curved, sickle-like sword of ancient peoples."], "src": "iwb"}
+{"w": "famble", "pos": "verb", "d": ["To stammer in speaking (obsolete)."], "src": "iwb"}
+{"w": "familiarization", "pos": "noun", "d": ["The act of making familiar or well acquainted."], "src": "iwb"}
+{"w": "familiary", "pos": "adjective", "d": ["Of or pertaining to a family or household; domestic (obsolete)."], "src": "iwb"}
+{"w": "familism", "pos": "noun", "d": ["The practice of putting the interests of one's family above all others."], "src": "iwb"}
+{"w": "familist", "pos": "noun", "d": ["A member of the Family of Love, a 16th-century religious sect.", "One devoted to family interests."], "src": "iwb"}
+{"w": "familistery", "pos": "noun", "d": ["The doctrine or practices of the Familists."], "src": "iwb"}
+{"w": "famine", "pos": "noun", "d": ["An extreme and general scarcity of food in a region."], "src": "iwb"}
+{"w": "famish", "pos": "verb", "d": ["To starve; to suffer or cause extreme hunger."], "src": "iwb"}
+{"w": "famosity", "pos": "noun", "d": ["The state or quality of being famous; renown (obsolete)."], "src": "iwb"}
+{"w": "famular", "pos": "noun", "d": ["A domestic servant or familiar attendant (obsolete)."], "src": "iwb"}
+{"w": "famulate", "pos": "verb", "d": ["To serve (obsolete)."], "src": "iwb"}
+{"w": "famulist", "pos": "noun", "d": ["At Oxford, a student of inferior rank, like a sizar at Cambridge."], "src": "iwb"}
+{"w": "fan palm", "pos": "noun", "d": ["A palm tree whose leaves spread out like a fan."], "src": "iwb"}
+{"w": "fan-nerved", "pos": "adjective", "d": ["Having veins radiating from one point like the ribs of a fan."], "src": "iwb"}
+{"w": "fan-tailed", "pos": "adjective", "d": ["Having a tail shaped like a fan."], "src": "iwb"}
+{"w": "fan-tan", "pos": "noun", "d": ["A Chinese gambling game played with piles of counters.", "A card game in which players build on cards in sequence."], "src": "iwb"}
+{"w": "fanatic", "pos": "noun", "d": ["A person filled with excessive, unreasoning zeal."], "src": "iwb"}
+{"w": "fanatism", "pos": "noun", "d": ["Fanaticism; extravagant or wild zeal."], "src": "iwb"}
+{"w": "fanciful", "pos": "adjective", "d": ["Guided by fancy rather than reality; existing only in the imagination."], "src": "iwb"}
+{"w": "fanciless", "pos": "adjective", "d": ["Without fancy; lacking imagination."], "src": "iwb"}
+{"w": "fancy-free", "pos": "adjective", "d": ["Free from the bonds or cares of love; unencumbered."], "src": "iwb"}
+{"w": "fancy-sick", "pos": "adjective", "d": ["Sick with love; lovesick."], "src": "iwb"}
+{"w": "fand", "pos": "verb", "d": ["Found; the Scots past tense of find."], "src": "iwb"}
+{"w": "fandango", "pos": "noun", "d": ["A lively Spanish dance in triple time.", "A foolish or wild display; nonsense."], "src": "iwb"}
+{"w": "fane", "pos": "noun", "d": ["A temple or church; a sacred place.", "A weather vane."], "src": "iwb"}
+{"w": "fanega", "pos": "noun", "d": ["A Spanish measure of dry capacity, about a bushel and a half.", "A Spanish measure of land."], "src": "iwb"}
+{"w": "fanfaron", "pos": "noun", "d": ["A braggart; an empty boaster."], "src": "iwb"}
+{"w": "fanfaronade", "pos": "noun", "d": ["Boastful or blustering talk."], "src": "iwb"}
+{"w": "fang", "pos": "noun", "d": ["A long, sharp tooth, as of a carnivore or serpent.", "The root of a tooth."], "src": "iwb"}
+{"w": "fangle", "pos": "verb", "d": ["To fashion or make, especially something new (obsolete)."], "src": "iwb"}
+{"w": "fannel", "pos": "noun", "d": ["A liturgical vestment; the same as a fanon."], "src": "iwb"}
+{"w": "fanon", "pos": "noun", "d": ["A liturgical vestment, especially the striped shoulder cape worn by the pope."], "src": "iwb"}
+{"w": "fantad", "pos": "noun", "d": ["A state of worry or excitement; a fidgety fuss; also, a fit of sulks."], "src": "iwb"}
+{"w": "fantasia", "pos": "noun", "d": ["A musical composition in free, improvisational form.", "A fanciful creation of the imagination."], "src": "iwb"}
+{"w": "fantasm", "pos": "noun", "d": ["A phantom; an apparition."], "src": "iwb"}
+{"w": "fantast", "pos": "noun", "d": ["A visionary; one given to fanciful ideas."], "src": "iwb"}
+{"w": "fantastic-alness", "pos": "noun", "d": ["The quality of being fantastic."], "src": "iwb"}
+{"w": "fantastico", "pos": "noun", "d": ["A fantastic person; an eccentric (obsolete)."], "src": "iwb"}
+{"w": "fantigue", "pos": "noun", "d": ["A state of worry or excitement; a fidgety, ill-humored state."], "src": "iwb"}
+{"w": "fantique", "pos": "noun", "d": ["A variant spelling of fantigue."], "src": "iwb"}
+{"w": "fantoccini", "pos": "noun", "d": ["Puppets made to perform by machinery; a puppet show."], "src": "iwb"}
+{"w": "fap", "pos": "adjective", "d": ["Fuddled; drunk or confused (obsolete)."], "src": "iwb"}
+{"w": "faquir", "pos": "noun", "d": ["A Muslim or Hindu ascetic or beggar; a fakir."], "src": "iwb"}
+{"w": "far-about", "pos": "adjective", "d": ["Roundabout; going a long way around; indirect."], "src": "iwb"}
+{"w": "far-off", "pos": "adjective", "d": ["Distant; remote."], "src": "iwb"}
+{"w": "far-stretched", "pos": "adjective", "d": ["Stretched to a great distance; extensive."], "src": "iwb"}
+{"w": "farad", "pos": "noun", "d": ["The unit of electrical capacitance."], "src": "iwb"}
+{"w": "faradization", "pos": "noun", "d": ["Treatment by means of faradic, or induced, electric currents."], "src": "iwb"}
+{"w": "farandams", "pos": "noun", "d": ["A cloth woven from silk mixed with wool or hair."], "src": "iwb"}
+{"w": "farandole", "pos": "noun", "d": ["A lively Provencal dance in which the dancers form a winding chain."], "src": "iwb"}
+{"w": "farantly", "pos": "adjective", "d": ["Orderly, good-looking, and respectable (obsolete)."], "src": "iwb"}
+{"w": "farce", "pos": "noun", "d": ["A comic play full of improbable situations and horseplay.", "Stuffing or seasoning for food."], "src": "iwb"}
+{"w": "farcical", "pos": "adjective", "d": ["Resembling a farce; ludicrously absurd."], "src": "iwb"}
+{"w": "farcilite", "pos": "noun", "d": ["An obsolete mineralogical name for pudding stone, a conglomerate rock."], "src": "iwb"}
+{"w": "farcimen", "pos": "noun", "d": ["Farcy; a contagious disease of horses akin to glanders."], "src": "iwb"}
+{"w": "farcin", "pos": "noun", "d": ["Farcy; a contagious disease of horses akin to glanders."], "src": "iwb"}
+{"w": "farctate", "pos": "adjective", "d": ["Stuffed full; in botany, filled with pith instead of hollow."], "src": "iwb"}
+{"w": "farcy", "pos": "noun", "d": ["A contagious disease of horses, marked by skin swellings, of the same nature as glanders."], "src": "iwb"}
+{"w": "fard", "pos": "noun", "d": ["Paint or cosmetics applied to the face."], "src": "iwb"}
+{"w": "farding-bag", "pos": "noun", "d": ["The first stomach of a cow or other ruminant; the rumen."], "src": "iwb"}
+{"w": "fardingdale", "pos": "noun", "d": ["A variant spelling of fardingdeal."], "src": "iwb"}
+{"w": "fardingdeal", "pos": "noun", "d": ["An old English land measure equal to one quarter of an acre."], "src": "iwb"}
+{"w": "farina", "pos": "noun", "d": ["Flour or meal made from grain or other starchy plants."], "src": "iwb"}
+{"w": "farinaceous", "pos": "adjective", "d": ["Consisting of or resembling flour or meal; mealy."], "src": "iwb"}
+{"w": "farinose", "pos": "adjective", "d": ["Covered with a white, mealy powder."], "src": "iwb"}
+{"w": "farl", "pos": "noun", "d": ["A thin cake of oatmeal or flour, often cut into quarters.", "A quarter; a fourth part."], "src": "iwb"}
+{"w": "farmeress", "pos": "noun", "d": ["A woman who farms; a female farmer."], "src": "iwb"}
+{"w": "farmery", "pos": "noun", "d": ["The buildings and yards belonging to a farm; a farmstead.", "The practice of farming."], "src": "iwb"}
+{"w": "faro", "pos": "noun", "d": ["A card game in which players bet on the order in which cards are drawn from the pack."], "src": "iwb"}
+{"w": "farraginous", "pos": "adjective", "d": ["Consisting of a farrago; confusedly mixed."], "src": "iwb"}
+{"w": "farrago", "pos": "noun", "d": ["A confused mixture; a medley."], "src": "iwb"}
+{"w": "farreation", "pos": "noun", "d": ["An ancient Roman marriage ceremony in which the couple shared a cake made of spelt."], "src": "iwb"}
+{"w": "farriery", "pos": "noun", "d": ["The trade of shoeing horses and caring for their hooves."], "src": "iwb"}
+{"w": "farry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "farse", "pos": "noun", "d": ["An old word for stuffing or forcemeat used to fill food.", "An obsolete form of farce, a comic play."], "src": "iwb"}
+{"w": "farstretched", "pos": "adjective", "d": ["Stretched out over a great distance or expanse."], "src": "iwb"}
+{"w": "farther", "pos": "adverb", "d": ["At or to a greater distance."], "src": "iwb"}
+{"w": "farthest", "pos": "adverb", "d": ["At or to the greatest distance."], "src": "iwb"}
+{"w": "fasces", "pos": "noun", "d": ["A bundle of rods bound around an ax, carried as a Roman symbol of authority.", "An architectural ornament representing such a bundle."], "src": "iwb"}
+{"w": "fascet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fascia", "pos": "noun", "d": ["A sheet of connective tissue that encloses muscles or organs.", "A flat band or strip joining or reinforcing parts of a structure.", "A flat horizontal band on the face of a building."], "src": "iwb"}
+{"w": "fascial", "pos": "adjective", "d": ["Relating to or formed of fascia."], "src": "iwb"}
+{"w": "fasciate", "pos": "adjective", "d": ["Marked with broad bands or stripes of color."], "src": "iwb"}
+{"w": "fascicle", "pos": "noun", "d": ["A small bundle or cluster, as of leaves, flowers, or nerves.", "A section of a book published in installments."], "src": "iwb"}
+{"w": "fascicular", "pos": "adjective", "d": ["Arranged in or relating to small bundles or fascicles."], "src": "iwb"}
+{"w": "fasciculate", "pos": "adjective", "d": ["Growing or arranged in small bundles or clusters."], "src": "iwb"}
+{"w": "fascicule", "pos": "noun", "d": ["A small bundle or cluster, as of leaves or flowers."], "src": "iwb"}
+{"w": "fasciculus", "pos": "noun", "d": ["A small bundle of nerve or muscle fibers in the body."], "src": "iwb"}
+{"w": "fascinate", "pos": "verb", "d": ["To attract and strongly hold the attention or interest of."], "src": "iwb"}
+{"w": "fascination", "pos": "noun", "d": ["The power to attract and hold someone's interest.", "The state of being strongly interested or charmed."], "src": "iwb"}
+{"w": "fascine", "pos": "noun", "d": ["A bundle of sticks bound together, used to fill ditches or strengthen earthworks."], "src": "iwb"}
+{"w": "fascinous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fasciola", "pos": "noun", "d": ["A narrow band or stripe of color on an animal or shell."], "src": "iwb"}
+{"w": "fasciole", "pos": "noun", "d": ["A narrow band or stripe on the surface of an animal, especially a sea urchin."], "src": "iwb"}
+{"w": "fash", "pos": "noun", "d": ["Vexation, trouble, or annoyance."], "src": "iwb"}
+{"w": "fashion-monger", "pos": "noun", "d": ["A person who eagerly follows or deals in the latest fashions."], "src": "iwb"}
+{"w": "fassaite", "pos": "noun", "d": ["A dark green to brown mineral, a variety of augite found in volcanic rocks."], "src": "iwb"}
+{"w": "fast-handed", "pos": "adjective", "d": ["Having quick, skillful hands."], "src": "iwb"}
+{"w": "fasti", "pos": "noun", "d": ["The ancient Roman calendar of sacred and public days.", "Records of Roman magistrates and their terms."], "src": "iwb"}
+{"w": "fastidiosity", "pos": "noun", "d": ["The quality of being fastidious; excessive nicety or disdain."], "src": "iwb"}
+{"w": "fastidious", "pos": "adjective", "d": ["Hard to please; very attentive to detail and cleanliness."], "src": "iwb"}
+{"w": "fastigiate", "pos": "adjective", "d": ["Tapering to a point like an obelisk, as branches clustered toward the top of a tree."], "src": "iwb"}
+{"w": "fastuous", "pos": "adjective", "d": ["Haughty; arrogantly proud."], "src": "iwb"}
+{"w": "fat-brained", "pos": "adjective", "d": ["Stupid; dull-witted."], "src": "iwb"}
+{"w": "fat-kidneyed", "pos": "adjective", "d": ["Gross, coarse, and lustful; sensual in appetite."], "src": "iwb"}
+{"w": "fat-witted", "pos": "adjective", "d": ["Dull, stupid, or slow of understanding."], "src": "iwb"}
+{"w": "fata morgana", "pos": "noun", "d": ["A mirage of distorted, floating images seen over water."], "src": "iwb"}
+{"w": "father longlegs", "pos": "noun", "d": ["An arachnid with a tiny body and very long, thin legs, commonly called a daddy longlegs."], "src": "iwb"}
+{"w": "father-in-law", "pos": "noun", "d": ["The father of one's spouse."], "src": "iwb"}
+{"w": "father-lasher", "pos": "noun", "d": ["A small European marine fish of the sculpin family, with spiny fins."], "src": "iwb"}
+{"w": "fatherliness", "pos": "noun", "d": ["The quality of being a kind, protective father."], "src": "iwb"}
+{"w": "fathom", "pos": "noun", "d": ["A unit of sea depth equal to six feet."], "src": "iwb"}
+{"w": "fatidical", "pos": "adjective", "d": ["Prophetic; relating to or uttering prophecy."], "src": "iwb"}
+{"w": "fatiferous", "pos": "adjective", "d": ["Bringing death; fatal."], "src": "iwb"}
+{"w": "fatigable", "pos": "adjective", "d": ["Capable of being tired or wearied."], "src": "iwb"}
+{"w": "fatigate", "pos": "verb", "d": ["To tire, weary, or exhaust."], "src": "iwb"}
+{"w": "fatigation", "pos": "noun", "d": ["Weariness; fatigue."], "src": "iwb"}
+{"w": "fatigue", "pos": "noun", "d": ["Weariness from work or exertion."], "src": "iwb"}
+{"w": "fatiloquent", "pos": "adjective", "d": ["Speaking of fate; prophetic in speech."], "src": "iwb"}
+{"w": "fatiloquist", "pos": "noun", "d": ["One who speaks of fate; a prophet."], "src": "iwb"}
+{"w": "fatimite", "pos": "noun", "d": ["A member of the Fatimid Muslim dynasty that ruled North Africa and Egypt from the tenth to the twelfth century."], "src": "iwb"}
+{"w": "fatiscence", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fattiness", "pos": "noun", "d": ["The quality of being fat or greasy."], "src": "iwb"}
+{"w": "fattish", "pos": "adjective", "d": ["Somewhat fat; inclined to fatness."], "src": "iwb"}
+{"w": "fatuitous", "pos": "adjective", "d": ["Stupid, silly, or foolish."], "src": "iwb"}
+{"w": "fatuity", "pos": "noun", "d": ["Silliness; foolishness."], "src": "iwb"}
+{"w": "fatuous", "pos": "adjective", "d": ["Silly, foolish, or inane."], "src": "iwb"}
+{"w": "faubourg", "pos": "noun", "d": ["A suburb of a French city, especially of Paris."], "src": "iwb"}
+{"w": "faucal", "pos": "adjective", "d": ["Relating to the fauces or the back of the throat."], "src": "iwb"}
+{"w": "fauces", "pos": "noun", "d": ["The passage at the back of the mouth leading into the pharynx."], "src": "iwb"}
+{"w": "faucet", "pos": "noun", "d": ["A tap for drawing liquid from a pipe or vessel."], "src": "iwb"}
+{"w": "fauchion", "pos": "noun", "d": ["A broad, slightly curved sword with one cutting edge."], "src": "iwb"}
+{"w": "faucial", "pos": "adjective", "d": ["Relating to the fauces or throat."], "src": "iwb"}
+{"w": "faugh", "pos": "interjection", "d": ["An exclamation of disgust or contempt."], "src": "iwb"}
+{"w": "faulchion", "pos": "noun", "d": ["A variant spelling of falchion, a broad curved sword."], "src": "iwb"}
+{"w": "faulcon", "pos": "noun", "d": ["An old spelling of falcon, a swift bird of prey trained for hunting."], "src": "iwb"}
+{"w": "fauld", "pos": "noun", "d": ["A fold or enclosure for sheep or cattle."], "src": "iwb"}
+{"w": "faule", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fault-finder", "pos": "noun", "d": ["One who habitually finds fault; a chronic critic."], "src": "iwb"}
+{"w": "fault-finding", "pos": "noun", "d": ["The act of finding faults; petty or constant criticism."], "src": "iwb"}
+{"w": "faultily", "pos": "adverb", "d": ["In a faulty manner; imperfectly."], "src": "iwb"}
+{"w": "faultiness", "pos": "noun", "d": ["The state of being faulty; imperfection."], "src": "iwb"}
+{"w": "faulty", "pos": "adjective", "d": ["Having faults; defective or imperfect."], "src": "iwb"}
+{"w": "faun", "pos": "noun", "d": ["A Roman woodland deity, half man and half goat."], "src": "iwb"}
+{"w": "fauna", "pos": "noun", "d": ["The animals of a particular region, habitat, or period."], "src": "iwb"}
+{"w": "faunus", "pos": "noun", "d": ["The Roman god of woods, fields, and flocks."], "src": "iwb"}
+{"w": "fausen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fausse-braye", "pos": "noun", "d": ["A low outer wall built in front of the main rampart of a fortress."], "src": "iwb"}
+{"w": "fauteuil", "pos": "noun", "d": ["An upholstered armchair of French style."], "src": "iwb"}
+{"w": "fautor", "pos": "noun", "d": ["A favorer or supporter; a patron."], "src": "iwb"}
+{"w": "fautress", "pos": "noun", "d": ["A female favorer or patroness."], "src": "iwb"}
+{"w": "fauvette", "pos": "noun", "d": ["A small European songbird of the warbler family, especially the blackcap."], "src": "iwb"}
+{"w": "faux", "pos": "adjective", "d": ["Made in imitation; not genuine; artificial."], "src": "iwb"}
+{"w": "faux pas", "pos": "noun", "d": ["A tactless social mistake; a blunder in manners."], "src": "iwb"}
+{"w": "favaginous", "pos": "adjective", "d": ["Resembling a honeycomb; pitted with small cells."], "src": "iwb"}
+{"w": "favas", "pos": "noun", "d": ["Fava beans; broad beans."], "src": "iwb"}
+{"w": "favel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "favella", "pos": "noun", "d": ["A Brazilian shantytown or slum; a variant spelling of favela."], "src": "iwb"}
+{"w": "faveolate", "pos": "adjective", "d": ["Pitted with small cells like a honeycomb."], "src": "iwb"}
+{"w": "favier explosive", "pos": "noun", "d": ["A type of ammonium-nitrate safety explosive used in mining."], "src": "iwb"}
+{"w": "favillous", "pos": "adjective", "d": ["Consisting of or like ashes; pertaining to embers."], "src": "iwb"}
+{"w": "favonian", "pos": "adjective", "d": ["Of or like the mild west wind; gentle and favorable."], "src": "iwb"}
+{"w": "favoress", "pos": "noun", "d": ["A female favorer; a patroness."], "src": "iwb"}
+{"w": "favoritism", "pos": "noun", "d": ["The practice of giving unfair preference to some people over others."], "src": "iwb"}
+{"w": "favose", "pos": "adjective", "d": ["Honeycombed; marked with pits like a honeycomb."], "src": "iwb"}
+{"w": "favosite", "pos": "noun", "d": ["An extinct coral whose skeleton forms a honeycomb of small tubes."], "src": "iwb"}
+{"w": "favus", "pos": "noun", "d": ["A contagious fungal disease of the scalp marked by thick yellow crusts."], "src": "iwb"}
+{"w": "fawe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fawkner", "pos": "noun", "d": ["An old spelling of falconer, one who trains hawks for hunting."], "src": "iwb"}
+{"w": "fawn", "pos": "noun", "d": ["A young deer."], "src": "iwb"}
+{"w": "fawn-colored", "pos": "adjective", "d": ["Having the light yellowish-brown color of a young deer."], "src": "iwb"}
+{"w": "fawningly", "pos": "adverb", "d": ["In an excessively flattering or servile manner."], "src": "iwb"}
+{"w": "faxed", "pos": "verb", "d": ["Sent a document by fax machine."], "src": "iwb"}
+{"w": "fay", "pos": "noun", "d": ["A fairy or elf, especially in old stories.", "To fit or join closely together, as timbers."], "src": "iwb"}
+{"w": "fayalite", "pos": "noun", "d": ["An iron-rich mineral of the olivine group, dark in color."], "src": "iwb"}
+{"w": "faze", "pos": "verb", "d": ["To disturb, embarrass, or disconcert someone."], "src": "iwb"}
+{"w": "fazzolet", "pos": "noun", "d": ["A large handkerchief, as worn in earlier times."], "src": "iwb"}
+{"w": "feaberry", "pos": "noun", "d": ["An old name for the gooseberry."], "src": "iwb"}
+{"w": "feague", "pos": "verb", "d": ["To beat or drive away, now obsolete.", "To make a horse appear livelier by a stable trick, now obsolete."], "src": "iwb"}
+{"w": "feal", "pos": "adjective", "d": ["Loyal and faithful, chiefly in Scots use."], "src": "iwb"}
+{"w": "fealty", "pos": "noun", "d": ["Loyal allegiance owed to a lord or ruler."], "src": "iwb"}
+{"w": "feasibility", "pos": "noun", "d": ["The quality of being possible or practical to do."], "src": "iwb"}
+{"w": "feasible", "pos": "adjective", "d": ["Possible and practical to achieve."], "src": "iwb"}
+{"w": "feast", "pos": "noun", "d": ["A large, rich meal served for a celebration.", "An annual religious festival or holy day."], "src": "iwb"}
+{"w": "feat-bodied", "pos": "adjective", "d": ["Having a neat or trim body, in old use."], "src": "iwb"}
+{"w": "feateous", "pos": "adjective", "d": ["Neat, handsome, or elegant, in old use."], "src": "iwb"}
+{"w": "feather-brained", "pos": "adjective", "d": ["Silly and scatterbrained."], "src": "iwb"}
+{"w": "feather-edge", "pos": "noun", "d": ["A very thin, tapered edge, as on a board or tool."], "src": "iwb"}
+{"w": "feather-few", "pos": "noun", "d": ["The herb feverfew, in old use."], "src": "iwb"}
+{"w": "feather-foil", "pos": "noun", "d": ["A water plant with finely divided leaves, the water violet."], "src": "iwb"}
+{"w": "feather-heeled", "pos": "adjective", "d": ["Light-footed or nimble, in old use."], "src": "iwb"}
+{"w": "feather-pated", "pos": "adjective", "d": ["Silly and empty-headed."], "src": "iwb"}
+{"w": "feather-veined", "pos": "adjective", "d": ["Having veins arranged like a feather, as some leaves."], "src": "iwb"}
+{"w": "featheriness", "pos": "noun", "d": ["The quality of being light, soft, or feathery."], "src": "iwb"}
+{"w": "feaze", "pos": "verb", "d": ["To frighten or unsettle, in old use.", "To fray or unravel, as the end of a rope."], "src": "iwb"}
+{"w": "feazings", "pos": "noun", "d": ["The frayed or unraveled ends of a rope."], "src": "iwb"}
+{"w": "febricitate", "pos": "verb", "d": ["To be feverish or have a fever, a rare word."], "src": "iwb"}
+{"w": "febriculose", "pos": "adjective", "d": ["Somewhat feverish."], "src": "iwb"}
+{"w": "febrifacient", "pos": "adjective", "d": ["Causing fever.", "A substance that causes fever."], "src": "iwb"}
+{"w": "febriferous", "pos": "adjective", "d": ["Producing or carrying fever."], "src": "iwb"}
+{"w": "febrific", "pos": "adjective", "d": ["Causing or producing fever."], "src": "iwb"}
+{"w": "febrifugal", "pos": "adjective", "d": ["Driving away or reducing fever."], "src": "iwb"}
+{"w": "febrifuge", "pos": "noun", "d": ["A medicine that reduces fever."], "src": "iwb"}
+{"w": "febrile", "pos": "adjective", "d": ["Relating to or marked by fever."], "src": "iwb"}
+{"w": "februation", "pos": "noun", "d": ["Purification, especially the ancient Roman festival of purification."], "src": "iwb"}
+{"w": "fecal", "pos": "adjective", "d": ["Relating to feces."], "src": "iwb"}
+{"w": "fecche", "pos": "noun", "d": ["Dregs or refuse, from Italian."], "src": "iwb"}
+{"w": "feces", "pos": "noun", "d": ["Solid waste discharged from the bowels."], "src": "iwb"}
+{"w": "fecial", "pos": "adjective", "d": ["Relating to the fetiales, the heralds of ancient Rome."], "src": "iwb"}
+{"w": "fecifork", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "feck", "pos": "noun", "d": ["The greater part or bulk of something, in Scots use.", "Efficacy or vigor, as in feckless."], "src": "iwb"}
+{"w": "fecula", "pos": "noun", "d": ["Starchy matter obtained from plants."], "src": "iwb"}
+{"w": "feculence", "pos": "noun", "d": ["Dregs or sediment.", "Foulness or impurity."], "src": "iwb"}
+{"w": "feculency", "pos": "noun", "d": ["The state of being full of dregs; foulness."], "src": "iwb"}
+{"w": "feculent", "pos": "adjective", "d": ["Full of dregs or sediment.", "Foul or muddy."], "src": "iwb"}
+{"w": "fecund", "pos": "adjective", "d": ["Fertile or fruitful, producing abundantly."], "src": "iwb"}
+{"w": "federary", "pos": "noun", "d": ["A confederate or accomplice, in old use."], "src": "iwb"}
+{"w": "federate", "pos": "verb", "d": ["To unite in a federation or league."], "src": "iwb"}
+{"w": "fee-faw-fum", "pos": "phrase", "d": ["The threatening chant of the giant in the tale of Jack and the Beanstalk."], "src": "iwb"}
+{"w": "feeble", "pos": "adjective", "d": ["Lacking physical or mental strength; weak."], "src": "iwb"}
+{"w": "feeble-minded", "pos": "adjective", "d": ["Lacking in mental strength or resolve.", "Formerly, having limited intellectual ability, now considered offensive."], "src": "iwb"}
+{"w": "feebly", "pos": "adverb", "d": ["In a weak or faint manner."], "src": "iwb"}
+{"w": "feere", "pos": "noun", "d": ["A companion or mate, in old use."], "src": "iwb"}
+{"w": "feese", "pos": "verb", "d": ["To frighten or drive away, in old use."], "src": "iwb"}
+{"w": "feeze", "pos": "verb", "d": ["To frighten or disconcert, in old use.", "To fray or unravel, as rope."], "src": "iwb"}
+{"w": "fehling", "pos": "adjective", "d": ["Relating to Fehling's chemical test for sugars."], "src": "iwb"}
+{"w": "fehm", "pos": "noun", "d": ["The Vehm, a medieval German secret tribunal."], "src": "iwb"}
+{"w": "fehmgericht", "pos": "noun", "d": ["The secret court of medieval Germany."], "src": "iwb"}
+{"w": "feign", "pos": "verb", "d": ["To pretend or give a false appearance of."], "src": "iwb"}
+{"w": "feine", "pos": "verb", "d": ["To pretend or feign, in old use."], "src": "iwb"}
+{"w": "feint", "pos": "noun", "d": ["A deceptive movement meant to mislead an opponent.", "To make a deceptive movement."], "src": "iwb"}
+{"w": "feitsui", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "feize", "pos": "verb", "d": ["To frighten or unsettle, in old use."], "src": "iwb"}
+{"w": "felanders", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "feldspar", "pos": "noun", "d": ["Any of a common group of rock-forming minerals."], "src": "iwb"}
+{"w": "feldspath", "pos": "noun", "d": ["An old spelling of feldspar."], "src": "iwb"}
+{"w": "feldspathose", "pos": "adjective", "d": ["Containing or resembling feldspar."], "src": "iwb"}
+{"w": "fele", "pos": "adjective", "d": ["Many or numerous, in old use."], "src": "iwb"}
+{"w": "felicify", "pos": "verb", "d": ["To make happy, a rare word."], "src": "iwb"}
+{"w": "felicitate", "pos": "verb", "d": ["To congratulate someone."], "src": "iwb"}
+{"w": "felicitation", "pos": "noun", "d": ["An expression of congratulation."], "src": "iwb"}
+{"w": "felicitous", "pos": "adjective", "d": ["Well chosen or aptly expressed.", "Fortunate or delightful."], "src": "iwb"}
+{"w": "felicity", "pos": "noun", "d": ["Great happiness.", "Aptness of expression."], "src": "iwb"}
+{"w": "feline", "pos": "adjective", "d": ["Relating to cats.", "Resembling a cat, especially in grace."], "src": "iwb"}
+{"w": "felis", "pos": "noun", "d": ["The genus of small cats, including the domestic cat."], "src": "iwb"}
+{"w": "fellah", "pos": "noun", "d": ["An Egyptian peasant or farm laborer."], "src": "iwb"}
+{"w": "fellifluous", "pos": "adjective", "d": ["Flowing with gall; bitter, a rare word."], "src": "iwb"}
+{"w": "fellinic", "pos": "adjective", "d": ["Relating to a bile acid found in gall."], "src": "iwb"}
+{"w": "felloe", "pos": "noun", "d": ["The curved rim segment of a wooden wheel."], "src": "iwb"}
+{"w": "fellon", "pos": "noun", "d": ["An old spelling of felon, a criminal or a finger infection."], "src": "iwb"}
+{"w": "fellow-commoner", "pos": "noun", "d": ["At Cambridge, a student who dines at the fellows' table."], "src": "iwb"}
+{"w": "fellow-creature", "pos": "noun", "d": ["Another human being, or any living thing sharing the world."], "src": "iwb"}
+{"w": "fellow-feeling", "pos": "noun", "d": ["Sympathy or fellow feeling between people."], "src": "iwb"}
+{"w": "felly", "pos": "noun", "d": ["The rim of a wheel; another spelling of felloe."], "src": "iwb"}
+{"w": "felo-de-se", "pos": "noun", "d": ["One who commits suicide, in old legal use."], "src": "iwb"}
+{"w": "felon", "pos": "noun", "d": ["One guilty of a serious crime.", "A painful infection of the fingertip."], "src": "iwb"}
+{"w": "felonry", "pos": "noun", "d": ["Criminals or felons as a class, a rare word."], "src": "iwb"}
+{"w": "felony", "pos": "noun", "d": ["A serious crime, graver than a misdemeanor."], "src": "iwb"}
+{"w": "felsite", "pos": "noun", "d": ["A fine-grained light-colored igneous rock."], "src": "iwb"}
+{"w": "felsitic", "pos": "adjective", "d": ["Relating to or resembling felsite."], "src": "iwb"}
+{"w": "felspar", "pos": "noun", "d": ["Another spelling of feldspar."], "src": "iwb"}
+{"w": "felspath", "pos": "noun", "d": ["An old spelling of feldspar."], "src": "iwb"}
+{"w": "felstone", "pos": "noun", "d": ["A compact feldspathic rock, an old term."], "src": "iwb"}
+{"w": "felt grain", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "feltry", "pos": "adjective", "d": ["Resembling felt in texture, a rare word."], "src": "iwb"}
+{"w": "felucca", "pos": "noun", "d": ["A small swift sailing vessel of the Mediterranean."], "src": "iwb"}
+{"w": "felwort", "pos": "noun", "d": ["A plant of the gentian family; the marsh gentian."], "src": "iwb"}
+{"w": "female fern", "pos": "phrase", "d": ["A common delicate fern of shady woods."], "src": "iwb"}
+{"w": "female rhymes", "pos": "phrase", "d": ["Rhymes ending on an unstressed syllable, like motion and ocean."], "src": "iwb"}
+{"w": "femalist", "pos": "noun", "d": ["An old word for a supporter of women's rights."], "src": "iwb"}
+{"w": "femalize", "pos": "verb", "d": ["To make female or feminine in character, a rare word."], "src": "iwb"}
+{"w": "feme", "pos": "noun", "d": ["A woman, in old legal use, as in the phrase feme covert for a married woman."], "src": "iwb"}
+{"w": "femeral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "femerell", "pos": "noun", "d": ["A cowl or open turret in the roof of a medieval hall or church for letting out smoke."], "src": "iwb"}
+{"w": "feminal", "pos": "adjective", "d": ["Feminine; belonging to women (obsolete)."], "src": "iwb"}
+{"w": "feminate", "pos": "verb", "d": ["To make feminine or womanly in character (obsolete)."], "src": "iwb"}
+{"w": "femineity", "pos": "noun", "d": ["The quality of being feminine; womanliness (archaic)."], "src": "iwb"}
+{"w": "feminine", "pos": "adjective", "d": ["Of, relating to, or characteristic of women.", "In grammar, of the gender class that includes female beings."], "src": "iwb"}
+{"w": "feminine rhyme", "pos": "phrase", "d": ["A rhyme of two syllables in which the final syllable is unstressed, as in tender and slender."], "src": "iwb"}
+{"w": "femininity", "pos": "noun", "d": ["The quality of being feminine; womanly traits and character."], "src": "iwb"}
+{"w": "feminity", "pos": "noun", "d": ["An old spelling of femininity."], "src": "iwb"}
+{"w": "feminization", "pos": "noun", "d": ["The act or process of making feminine.", "The development of female characteristics in a normally male organism."], "src": "iwb"}
+{"w": "feminize", "pos": "verb", "d": ["To make feminine in character or appearance.", "To give female characteristics to."], "src": "iwb"}
+{"w": "feminye", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "femme", "pos": "noun", "d": ["A woman.", "A lesbian who presents herself in a conventionally feminine way."], "src": "iwb"}
+{"w": "femoral", "pos": "adjective", "d": ["Of, relating to, or located in the thigh or femur."], "src": "iwb"}
+{"w": "femur", "pos": "noun", "d": ["The thighbone, the long bone of the thigh.", "In insects, the thick segment of the leg next to the body."], "src": "iwb"}
+{"w": "fen", "pos": "noun", "d": ["Low marshy land; a bog or swamp."], "src": "iwb"}
+{"w": "fen cricket", "pos": "noun", "d": ["An old name for the mole cricket, a burrowing insect."], "src": "iwb"}
+{"w": "fen-sucked", "pos": "adjective", "d": ["Drawn up from the fens, as fog or mist."], "src": "iwb"}
+{"w": "fence month", "pos": "phrase", "d": ["The month in which deer drop their fawns, when hunting in the forest was forbidden."], "src": "iwb"}
+{"w": "fenci-ble", "pos": "noun", "d": ["A variant spelling of fencible: a person fit for home military defense, especially a member of a British fencible regiment."], "src": "iwb"}
+{"w": "fencible", "pos": "noun", "d": ["A person fit or liable for military defense at home.", "A member of one of the British fencible regiments raised for home defense."], "src": "iwb"}
+{"w": "fend", "pos": "verb", "d": ["To ward off; to keep away.", "To provide for oneself; to shift for oneself."], "src": "iwb"}
+{"w": "fendliche", "pos": "adjective", "d": ["Like a fiend; devilish (obsolete)."], "src": "iwb"}
+{"w": "fenerate", "pos": "verb", "d": ["To lend money at interest; to practice usury (obsolete)."], "src": "iwb"}
+{"w": "feneration", "pos": "noun", "d": ["The lending of money at interest; usury (obsolete)."], "src": "iwb"}
+{"w": "fenes-tella", "pos": "noun", "d": ["A small window or niche, especially in a church wall."], "src": "iwb"}
+{"w": "fenestra", "pos": "noun", "d": ["A small opening or window, especially in anatomy, as the fenestra of the ear."], "src": "iwb"}
+{"w": "fenestral", "pos": "adjective", "d": ["Of or relating to a window.", "Having windows or windowlike openings."], "src": "iwb"}
+{"w": "fenestrate", "pos": "verb", "d": ["To furnish with windows.", "To pierce with openings."], "src": "iwb"}
+{"w": "fenestrule", "pos": "noun", "d": ["One of the small openings in a fenestrated structure, such as the gaps between the branches of a lacy bryozoan colony."], "src": "iwb"}
+{"w": "feng-hwang", "pos": "noun", "d": ["The mythical bird of Chinese legend, the Chinese phoenix."], "src": "iwb"}
+{"w": "feng-shui", "pos": "noun", "d": ["The Chinese art of arranging buildings and objects in harmony with their surroundings."], "src": "iwb"}
+{"w": "fenian", "pos": "noun", "d": ["A member of a nineteenth-century Irish nationalist movement seeking independence from Britain.", "In Irish legend, a member of the Fianna, the warrior band of Finn mac Cool."], "src": "iwb"}
+{"w": "fenks", "pos": "noun", "d": ["The refuse of whale blubber, once used as manure and in making Prussian blue."], "src": "iwb"}
+{"w": "fennec", "pos": "noun", "d": ["A small pale fox of North Africa with very large ears."], "src": "iwb"}
+{"w": "fennel", "pos": "noun", "d": ["A tall fragrant herb with feathery leaves and yellow flowers, its seeds used as flavoring."], "src": "iwb"}
+{"w": "fennish", "pos": "adjective", "d": ["Of or like a fen; marshy."], "src": "iwb"}
+{"w": "fenny", "pos": "adjective", "d": ["Of or like a fen; marshy."], "src": "iwb"}
+{"w": "fenowed", "pos": "adjective", "d": ["Moldy or decayed; corrupted (obsolete)."], "src": "iwb"}
+{"w": "fensi-ble", "pos": "noun", "d": ["A variant spelling of fencible: a person fit for home military defense, especially a member of a British fencible regiment."], "src": "iwb"}
+{"w": "fenugreek", "pos": "noun", "d": ["A herb with aromatic seeds used as a spice and in medicine."], "src": "iwb"}
+{"w": "feod", "pos": "noun", "d": ["A fief; a feudal estate held of a superior lord."], "src": "iwb"}
+{"w": "feodatory", "pos": "noun", "d": ["A person holding land by feudal tenure; a feudatory vassal."], "src": "iwb"}
+{"w": "feoff", "pos": "verb", "d": ["To invest with a fief; to enfeoff (obsolete)."], "src": "iwb"}
+{"w": "feoffee", "pos": "noun", "d": ["A person invested with a fee or fief; the grantee in a feoffment."], "src": "iwb"}
+{"w": "feofor", "pos": "noun", "d": ["The grantor in a feoffment; one who enfeoffs another."], "src": "iwb"}
+{"w": "fer", "pos": "adjective", "d": ["An old form of far, meaning distant or remote."], "src": "iwb"}
+{"w": "fer-de-lance", "pos": "noun", "d": ["A large venomous pit viper of tropical America."], "src": "iwb"}
+{"w": "feracious", "pos": "adjective", "d": ["Fruitful; productive (obsolete)."], "src": "iwb"}
+{"w": "feracity", "pos": "noun", "d": ["Fruitfulness; fertility (obsolete)."], "src": "iwb"}
+{"w": "ferae", "pos": "noun", "d": ["Wild beasts (plural of the Latin fera)."], "src": "iwb"}
+{"w": "ferae naturae", "pos": "phrase", "d": ["Of a wild nature; in law, said of wild animals not subject to absolute ownership."], "src": "iwb"}
+{"w": "ferde", "pos": "noun", "d": ["A host, army, or military force (Middle English)."], "src": "iwb"}
+{"w": "ferdness", "pos": "noun", "d": ["Fearfulness (obsolete)."], "src": "iwb"}
+{"w": "fere", "pos": "noun", "d": ["A companion, mate, or spouse (archaic)."], "src": "iwb"}
+{"w": "fergusonite", "pos": "noun", "d": ["A dark mineral consisting chiefly of tantalate and niobate of yttrium."], "src": "iwb"}
+{"w": "feria", "pos": "noun", "d": ["A weekday in the church calendar.", "A festival day in the Roman calendar."], "src": "iwb"}
+{"w": "ferie", "pos": "noun", "d": ["An old term for a holiday.", "In Middle English, a weekday of the church calendar."], "src": "iwb"}
+{"w": "ferine", "pos": "adjective", "d": ["Wild; having the nature of a wild beast."], "src": "iwb"}
+{"w": "feringee", "pos": "noun", "d": ["A term used in Persia and India for a European or other foreigner."], "src": "iwb"}
+{"w": "ferm", "pos": "noun", "d": ["An obsolete form of farm, meaning a fixed rent or lease."], "src": "iwb"}
+{"w": "fermacy", "pos": "noun", "d": ["An obsolete spelling of pharmacy."], "src": "iwb"}
+{"w": "ferme", "pos": "noun", "d": ["An obsolete spelling of farm, especially a rented farm or its rent."], "src": "iwb"}
+{"w": "fermentation theory", "pos": "phrase", "d": ["The theory explaining fermentation as the work of living microorganisms."], "src": "iwb"}
+{"w": "fermentative", "pos": "adjective", "d": ["Causing fermentation.", "Of or relating to fermentation."], "src": "iwb"}
+{"w": "fermerere", "pos": "noun", "d": ["The monk in charge of the infirmary in a medieval monastery."], "src": "iwb"}
+{"w": "fermeture", "pos": "noun", "d": ["A closing, fastening, or clasp."], "src": "iwb"}
+{"w": "fern", "pos": "noun", "d": ["A flowerless plant with feathery fronds that reproduces by spores."], "src": "iwb"}
+{"w": "fernery", "pos": "noun", "d": ["A place where ferns are grown.", "A collection of ferns."], "src": "iwb"}
+{"w": "fernticle", "pos": "noun", "d": ["A freckle on the skin, fancied to resemble a fern seed (dialect, obsolete)."], "src": "iwb"}
+{"w": "ferny", "pos": "adjective", "d": ["Of or like a fern.", "Abounding in ferns."], "src": "iwb"}
+{"w": "ferocious", "pos": "adjective", "d": ["Savagely fierce or cruel.", "Very intense or severe."], "src": "iwb"}
+{"w": "ferocity", "pos": "noun", "d": ["Savage fierceness; cruelty.", "Extreme intensity."], "src": "iwb"}
+{"w": "feroher", "pos": "noun", "d": ["An ancient symbol of the sun god, found on monuments excavated at Babylon, Nineveh, and similar sites."], "src": "iwb"}
+{"w": "ferrandine", "pos": "noun", "d": ["A kind of twilled silk fabric."], "src": "iwb"}
+{"w": "ferranti cables", "pos": "noun", "d": ["Electric cables designed for the Ferranti system of high-voltage power distribution."], "src": "iwb"}
+{"w": "ferranti mains", "pos": "noun", "d": ["The system of high-voltage electric mains developed by Sebastian Z. de Ferranti."], "src": "iwb"}
+{"w": "ferranti phenomenon", "pos": "phrase", "d": ["The rise of voltage at the receiving end of a long alternating-current transmission line under light load."], "src": "iwb"}
+{"w": "ferrara", "pos": "noun", "d": ["A broadsword of a kind made at Ferrara, Italy."], "src": "iwb"}
+{"w": "ferrarese", "pos": "adjective", "d": ["Of or relating to Ferrara, Italy."], "src": "iwb"}
+{"w": "ferrary", "pos": "noun", "d": ["An obsolete spelling of farriery, the trade of shoeing horses."], "src": "iwb"}
+{"w": "ferre", "pos": "verb", "d": ["To bear or carry (Middle English)."], "src": "iwb"}
+{"w": "ferret-eye", "pos": "noun", "d": ["An eye resembling a ferret's, red and inflamed."], "src": "iwb"}
+{"w": "ferretto", "pos": "noun", "d": ["A red pigment made from copper suboxide."], "src": "iwb"}
+{"w": "ferri-", "pos": "prefix", "d": ["A prefix denoting iron, especially iron in its ferric state."], "src": "iwb"}
+{"w": "ferriage", "pos": "noun", "d": ["The fare paid for conveyance by ferry.", "Transportation by ferry."], "src": "iwb"}
+{"w": "ferric", "pos": "adjective", "d": ["Of or containing iron, especially iron in its higher valence state."], "src": "iwb"}
+{"w": "ferricyanate", "pos": "noun", "d": ["A salt of ferricyanic acid."], "src": "iwb"}
+{"w": "ferricyanic", "pos": "adjective", "d": ["Of or relating to ferricyanic acid."], "src": "iwb"}
+{"w": "ferricyanide", "pos": "noun", "d": ["A salt of ferricyanic acid, such as potassium ferricyanide."], "src": "iwb"}
+{"w": "ferriferous", "pos": "adjective", "d": ["Yielding or containing iron."], "src": "iwb"}
+{"w": "ferriprussiate", "pos": "noun", "d": ["A ferricyanide; a salt such as potassium ferricyanide, the red prussiate of potash."], "src": "iwb"}
+{"w": "ferriprussic", "pos": "adjective", "d": ["Of or relating to ferricyanic acid or its salts."], "src": "iwb"}
+{"w": "ferris wheel", "pos": "noun", "d": ["A large upright revolving wheel with seats or cars, ridden for amusement."], "src": "iwb"}
+{"w": "ferro-", "pos": "prefix", "d": ["A prefix denoting iron, especially iron in its ferrous state."], "src": "iwb"}
+{"w": "ferrocalcite", "pos": "noun", "d": ["A variety of calcite containing iron."], "src": "iwb"}
+{"w": "ferrocyanate", "pos": "noun", "d": ["A salt of ferrocyanic acid."], "src": "iwb"}
+{"w": "ferrocyanic", "pos": "adjective", "d": ["Of or relating to ferrocyanic acid."], "src": "iwb"}
+{"w": "ferrocyanide", "pos": "noun", "d": ["A salt of ferrocyanic acid, such as potassium ferrocyanide, the yellow prussiate of potash."], "src": "iwb"}
+{"w": "ferroprussiate", "pos": "noun", "d": ["A salt formed from ferroprussic acid, containing iron and cyanide in its composition."], "src": "iwb"}
+{"w": "ferroprussic", "pos": "adjective", "d": ["Relating to ferroprussic acid, an old name for ferrocyanic acid, a compound containing iron and cyanide."], "src": "iwb"}
+{"w": "ferroso-", "pos": "prefix", "d": ["A prefix meaning iron or containing ferrous iron, as in mineral and chemical names."], "src": "iwb"}
+{"w": "ferrotype", "pos": "noun", "d": ["An early photographic process that produced an image on a thin sheet of iron.", "The dark tintype picture made by that process."], "src": "iwb"}
+{"w": "ferrous", "pos": "adjective", "d": ["Containing iron, especially in its lower state of oxidation."], "src": "iwb"}
+{"w": "ferruginated", "pos": "adjective", "d": ["Impregnated with iron or stained with rust."], "src": "iwb"}
+{"w": "ferrugineous", "pos": "adjective", "d": ["Rust-colored; containing or resembling rust."], "src": "iwb"}
+{"w": "ferruginous", "pos": "adjective", "d": ["Containing iron or rust; having a rusty color."], "src": "iwb"}
+{"w": "ferrugo", "pos": "noun", "d": ["A plant disease that produces rust-colored spots; also, the rust color itself."], "src": "iwb"}
+{"w": "fertilitate", "pos": "verb", "d": ["To make fertile or fruitful; an obsolete form of fertilize."], "src": "iwb"}
+{"w": "fertility", "pos": "noun", "d": ["The quality of being fertile; the ability to produce offspring or abundant growth."], "src": "iwb"}
+{"w": "fertilization", "pos": "noun", "d": ["The act or process of making fertile; the union of male and female reproductive cells that begins development of a new organism."], "src": "iwb"}
+{"w": "fertilize", "pos": "verb", "d": ["To make fertile or productive.", "To unite with an egg cell so that a new organism can develop."], "src": "iwb"}
+{"w": "ferula", "pos": "noun", "d": ["A genus of tall plants related to fennel, also called giant fennel.", "A flat ruler formerly used for striking the hands of schoolchildren as punishment."], "src": "iwb"}
+{"w": "ferulaceous", "pos": "adjective", "d": ["Relating to the genus Ferula; resembling giant fennel."], "src": "iwb"}
+{"w": "ferular", "pos": "adjective", "d": ["Pertaining to a ferula, the plant or the flat ruler."], "src": "iwb"}
+{"w": "ferulic", "pos": "adjective", "d": ["Pertaining to or derived from the genus Ferula; designating an acid obtained from certain plant resins."], "src": "iwb"}
+{"w": "fervence", "pos": "noun", "d": ["Warmth of feeling; ardent zeal; fervor."], "src": "iwb"}
+{"w": "fervency", "pos": "noun", "d": ["The state of being fervent; warm and earnest feeling."], "src": "iwb"}
+{"w": "fervescent", "pos": "adjective", "d": ["Growing hot or warm; glowing with ardor."], "src": "iwb"}
+{"w": "fervid", "pos": "adjective", "d": ["Burning with zeal; ardent and passionate."], "src": "iwb"}
+{"w": "fervor", "pos": "noun", "d": ["Intense warmth of feeling; passionate zeal."], "src": "iwb"}
+{"w": "fescennine", "pos": "adjective", "d": ["Relating to Fescennine verses, the coarse and mocking songs of ancient Italy; scurrilous or ribald."], "src": "iwb"}
+{"w": "fescue", "pos": "noun", "d": ["A grass of the genus Festuca.", "A straw or wire pointer formerly used in teaching children to read."], "src": "iwb"}
+{"w": "fesels", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fess", "pos": "noun", "d": ["In heraldry, a broad horizontal band across the middle of a shield."], "src": "iwb"}
+{"w": "fesse", "pos": "noun", "d": ["The French form of fess, a horizontal band across a shield in heraldry."], "src": "iwb"}
+{"w": "fessitude", "pos": "noun", "d": ["Weariness; the state of being tired."], "src": "iwb"}
+{"w": "fest", "pos": "noun", "d": ["A feast, festival, or merry gathering."], "src": "iwb"}
+{"w": "feste", "pos": "noun", "d": ["The Italian plural of festa; feasts or festivals."], "src": "iwb"}
+{"w": "festennine", "pos": "adjective", "d": ["An alternate spelling of fescennine; relating to coarse, mocking verse."], "src": "iwb"}
+{"w": "festi-val", "pos": "adjective", "d": ["Of or relating to a festival; festive."], "src": "iwb"}
+{"w": "festinate", "pos": "verb", "d": ["To hasten; to hurry; to move quickly."], "src": "iwb"}
+{"w": "festination", "pos": "noun", "d": ["Haste; hurry."], "src": "iwb"}
+{"w": "festivity", "pos": "noun", "d": ["A festive celebration or observance.", "Gaiety and merriment on a festive occasion."], "src": "iwb"}
+{"w": "festivous", "pos": "adjective", "d": ["Festive; full of festivity and merriment."], "src": "iwb"}
+{"w": "festoony", "pos": "adjective", "d": ["Adorned with festoons; decorated with hanging garlands."], "src": "iwb"}
+{"w": "festucine", "pos": "adjective", "d": ["Resembling fescue grass; straw-like."], "src": "iwb"}
+{"w": "festucous", "pos": "adjective", "d": ["Made of straw; resembling straw in color or texture."], "src": "iwb"}
+{"w": "festue", "pos": "noun", "d": ["An obsolete spelling of festuce, a straw stem formerly used as a pointer in teaching children to read."], "src": "iwb"}
+{"w": "fet", "pos": "verb", "d": ["An obsolete form of fetch; to go after and bring back."], "src": "iwb"}
+{"w": "fetch", "pos": "verb", "d": ["To go after something and bring it back.", "To be sold for; to bring a certain price."], "src": "iwb"}
+{"w": "fete", "pos": "noun", "d": ["An elaborate outdoor celebration or festival in honor of some person or event.", "To honor with a festive celebration."], "src": "iwb"}
+{"w": "feticide", "pos": "noun", "d": ["The killing of a fetus; the destruction of unborn young."], "src": "iwb"}
+{"w": "feticism", "pos": "noun", "d": ["An alternate spelling of fetishism; worship of or devotion to a material object believed to have magical power."], "src": "iwb"}
+{"w": "fetid", "pos": "adjective", "d": ["Having a foul, rotten smell; stinking."], "src": "iwb"}
+{"w": "fetiferous", "pos": "adjective", "d": ["Bearing young; fruitful and prolific."], "src": "iwb"}
+{"w": "fetis", "pos": "adjective", "d": ["An obsolete word meaning neat, trim, and elegant."], "src": "iwb"}
+{"w": "fetisely", "pos": "adverb", "d": ["In a neat and elegant manner; delicately."], "src": "iwb"}
+{"w": "fetor", "pos": "noun", "d": ["An offensive odor; a stench."], "src": "iwb"}
+{"w": "fette", "pos": "verb", "d": ["An obsolete form of fetch; to go and bring back."], "src": "iwb"}
+{"w": "fettle", "pos": "verb", "d": ["To put in good order; to repair or mend.", "The state of repair or fitness of a person or thing."], "src": "iwb"}
+{"w": "fetuous", "pos": "adjective", "d": ["Bearing fruit; fruitful."], "src": "iwb"}
+{"w": "fetus", "pos": "noun", "d": ["The unborn young of a mammal after it has taken on a recognizable form, still developing in the womb."], "src": "iwb"}
+{"w": "feu", "pos": "noun", "d": ["In Scots law, a perpetual tenure of land held for a stipulated yearly rent or duty."], "src": "iwb"}
+{"w": "feu de joie", "pos": "phrase", "d": ["A firing of guns in celebration of a joyful occasion; literally, fire of joy."], "src": "iwb"}
+{"w": "feuar", "pos": "noun", "d": ["In Scotland, one who holds land by feu tenure."], "src": "iwb"}
+{"w": "feud", "pos": "noun", "d": ["A prolonged bitter quarrel, especially between families or groups.", "An estate held on condition of feudal service; a fief."], "src": "iwb"}
+{"w": "feudalization", "pos": "noun", "d": ["The act of reducing to a feudal system; the state of being made feudal."], "src": "iwb"}
+{"w": "feudatory", "pos": "noun", "d": ["One who holds a fief or feud; a vassal."], "src": "iwb"}
+{"w": "feuillants", "pos": "noun", "d": ["Members of a moderate political club during the French Revolution; also, monks of a reformed Cistercian order."], "src": "iwb"}
+{"w": "feuillemort", "pos": "noun", "d": ["A dull yellowish-brown color like that of a dead leaf."], "src": "iwb"}
+{"w": "feuilleton", "pos": "noun", "d": ["A section of a French newspaper devoted to light literature, criticism, and gossip.", "Such an article itself."], "src": "iwb"}
+{"w": "feuilltonist", "pos": "noun", "d": ["A writer of feuilletons for a French newspaper."], "src": "iwb"}
+{"w": "feuter", "pos": "verb", "d": ["In Scots, to set in order; to mend or repair."], "src": "iwb"}
+{"w": "feveret", "pos": "noun", "d": ["A slight or mild fever."], "src": "iwb"}
+{"w": "fevery", "pos": "adjective", "d": ["Affected with fever; feverish."], "src": "iwb"}
+{"w": "fewel", "pos": "noun", "d": ["An obsolete spelling of fuel; combustible material for making fire."], "src": "iwb"}
+{"w": "fey", "pos": "adjective", "d": ["Strange and otherworldly, as though fated or doomed.", "Full of unrestrained high spirits; elfin."], "src": "iwb"}
+{"w": "feyne", "pos": "verb", "d": ["An obsolete spelling of feign; to pretend or make up."], "src": "iwb"}
+{"w": "feyre", "pos": "adjective", "d": ["An obsolete spelling of fair; beautiful or pleasing."], "src": "iwb"}
+{"w": "fez", "pos": "noun", "d": ["A brimless red felt cap worn by men in North Africa and the Middle East."], "src": "iwb"}
+{"w": "fiacre", "pos": "noun", "d": ["A small four-wheeled carriage for hire, originally in Paris."], "src": "iwb"}
+{"w": "fiance", "pos": "noun", "d": ["A man who is engaged to be married."], "src": "iwb"}
+{"w": "fiancee", "pos": "noun", "d": ["A woman who is engaged to be married."], "src": "iwb"}
+{"w": "fiants", "pos": "noun", "d": ["Warrants issued from the Irish chancery.", "The dung of a wild animal."], "src": "iwb"}
+{"w": "fiar", "pos": "noun", "d": ["In Scots law, the proprietor of an estate; the owner of the reversion of land."], "src": "iwb"}
+{"w": "fiasco", "pos": "noun", "d": ["A complete and utter failure."], "src": "iwb"}
+{"w": "fiat", "pos": "noun", "d": ["An authoritative command or decree; a peremptory order."], "src": "iwb"}
+{"w": "fiaunt", "pos": "noun", "d": ["A variant spelling of fiant; the dung of a wild animal."], "src": "iwb"}
+{"w": "fib", "pos": "noun", "d": ["A small or trivial lie."], "src": "iwb"}
+{"w": "fiber-faced", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fibre-faced", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "fibriform", "pos": "adjective", "d": ["Having the form of fibers; fibrous."], "src": "iwb"}
+{"w": "fibril", "pos": "noun", "d": ["A very fine fiber or thread; a small fiber."], "src": "iwb"}
+{"w": "fibrilla", "pos": "noun", "d": ["A little fiber; a minute fibril."], "src": "iwb"}
+{"w": "fibrillous", "pos": "adjective", "d": ["Furnished with fibrils; composed of fine fibers."], "src": "iwb"}
+{"w": "fibrin", "pos": "noun", "d": ["A whitish protein in blood that forms the clotting mesh when blood coagulates."], "src": "iwb"}
+{"w": "fibrinogen", "pos": "noun", "d": ["A soluble protein in blood plasma that is converted into fibrin during clotting."], "src": "iwb"}
+{"w": "fibrinoplastic", "pos": "adjective", "d": ["Relating to fibrinoplastin; aiding in the formation of fibrin."], "src": "iwb"}
+{"w": "fibrinoplastin", "pos": "noun", "d": ["A substance in blood that aids in the formation of fibrin."], "src": "iwb"}
+{"w": "fibrocartilage", "pos": "noun", "d": ["Tissue that is partly fibrous and partly cartilaginous, as in the disks between vertebrae."], "src": "iwb"}
+{"w": "fibrochondrosteal", "pos": "adjective", "d": ["Composed of fibrous cartilage and bone."], "src": "iwb"}
+{"w": "fibroid", "pos": "adjective", "d": ["Resembling or composed of fibers or fibrous tissue.", "A benign tumor made of fibrous and muscular tissue, especially of the uterus."], "src": "iwb"}
+{"w": "fibrolite", "pos": "noun", "d": ["A fibrous variety of the mineral sillimanite."], "src": "iwb"}
+{"w": "fibroma", "pos": "noun", "d": ["A benign tumor composed of fibrous tissue."], "src": "iwb"}
+{"w": "fibrospongiae", "pos": "noun", "d": ["A group of sponges having fibrous rather than calcareous skeletons."], "src": "iwb"}
+{"w": "fibrous", "pos": "adjective", "d": ["Consisting of fibers; like or full of fibers."], "src": "iwb"}
+{"w": "fibrovascular", "pos": "adjective", "d": ["Composed of fibrous and vascular tissue; containing woody fibers and vessels."], "src": "iwb"}
+{"w": "fibster", "pos": "noun", "d": ["One who tells fibs; a teller of small lies."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

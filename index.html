@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="The Signature Dictionary (IWB Dictionary): 577,742 entries — original definitions for 102,218 English headwords, JAH deterministic stamps, word programs, and an AI teacher per entry.">
+<meta name="description" content="The Signature Dictionary (IWB Dictionary): 738,298 entries — original definitions for 102,218 English headwords, JAH deterministic stamps, word programs, and an AI teacher per entry.">
 <link rel="canonical" href="https://justinahiggins614-cmyk.github.io/jah-dictionary/">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[{"@type":"Dataset","name":"The Signature Dictionary","creator":{"@type":"Person","name":"Justin Addam Higgins"}},
@@ -147,13 +147,16 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 <section aria-label="Dictionary counts, browse, and data methodology" style="font-family:Arial,sans-serif">
 <div class="wrap" style="padding-top:0">
 <h2 class="sec">Dictionary counts &amp; data</h2>
-<p class="jahstatus">Snapshot as of <b>2026-10-02</b> (source: <a href="data/index/stats.json">data/index/stats.json</a>) — readable without JavaScript. The live counters on this page refresh automatically as the dictionary grows.</p>
+<p class="jahstatus">Snapshot as of <b>2026-10-03</b> (source: <a href="data/index/stats.json">data/index/stats.json</a>) — readable without JavaScript. The live counters on this page refresh automatically as the dictionary grows.</p>
 <details class="statdrawer" open><summary>Dictionary counts</summary>
 <div class="stats" role="list">
-<div class="stat" role="listitem"><div class="n">577,742</div><div class="l">Entries — every searchable item in the index: headwords plus catalog terms.</div></div>
+<div class="stat" role="listitem"><div class="n">738,298</div><div class="l">Entries — every searchable item in the index: headwords plus catalog terms.</div></div>
 <div class="stat" role="listitem"><div class="n">102,218</div><div class="l">Headwords — English words with original IWB definitions and JAH-DICT-W-###### stamps.</div></div>
-<div class="stat" role="listitem"><div class="n">475,524</div><div class="l">Catalog terms — spec and patent titles cross-referenced from the JAH network catalogs (JAH-DICT-T-###### stamps).</div></div>
-</div></details>
+<div class="stat" role="listitem"><div class="n">636,080</div><div class="l">Catalog terms — spec and patent titles cross-referenced from the JAH network catalogs (JAH-DICT-T-###### stamps).</div></div>
+</div>
+<div class="stat" role="listitem" data-stat="defined"><div class="n">76,374</div><div class="l">Defined headwords &mdash; 35,018 authored by IWB editors, 41,356 template-derived. The rest await their authored definition.</div></div>
+<div class="stat" role="listitem" data-stat="pending"><div class="n">25,844</div><div class="l">Headwords pending &mdash; real headwords whose authored definition the IWB editors are still writing. They carry a deterministic JAH reading now.</div></div></details>
+<p class="jahstatus" data-sync="1">Last synchronized: <b>2026-10-03</b> &middot; counts generated from the dataset above, never hand-typed.</p>
 <p class="jahstatus"><b>Word programs:</b> every headword entry carries a runnable Python&nbsp;3 word program (copy/download/run in the browser). <b>Word patents:</b> JAH-WORD-###### word-patent records are filed in the sister Signature Spec Catalog — each dictionary entry links out to its word patent.</p>
 <h3 style="font-family:Arial,sans-serif;color:#1a4d2e;font-size:1.05em;margin:1.2em 0 .4em">Browse every word, A&ndash;Z</h3>
 <nav class="az" role="navigation" aria-label="Browse words by first letter">
@@ -220,6 +223,37 @@ var JAHDict={
 function verifyRecord(){var e=window._e,D=window._D;var r=JAHDict.verify(e,D);var el=document.getElementById("verifyout");
  if(!el)return;
  el.textContent=r.ok?"\u2713 Official JAH dictionary record (official within the Signature/JAH system) \u2014 all checks passed.":"\u2717 Record failed verification: "+r.failed.join("; ");}
+/* ============ Site #3 fix-list (2026-10-03): correction/reporting pipeline.
+   Reports never edit the dictionary: they are stored on the device with a
+   permanent report ID and can be copied/exported for review. Dictionary
+   definitions are versioned (definition version on the entry); a report
+   proposes a change, it never silently replaces a record. */
+function jahdReports(){try{return JSON.parse(localStorage.getItem("jahd_reports")||"[]")}catch(e){return[]}}
+function jahdSaveReports(r){try{localStorage.setItem("jahd_reports",JSON.stringify(r))}catch(e){}}
+function openReport(){
+ var e=window._e,box=document.getElementById("reportbox");if(!box)return;
+ var types=["Wrong definition","Wrong spelling / word form","Wrong part of speech","Broken link","Wrong pronunciation","Wrong related word","Missing definition (word is pending)","Other"];
+ var h='<div role="dialog" aria-label="Report an issue with this entry" style="border:2px solid #1a4d2e;border-radius:8px;padding:12px;margin:10px 0;background:#fffef5;font-family:Arial">';
+ h+='<b>\u26a0 Report an issue</b> <span style="font-size:.85em">with &ldquo;'+esc(e?e.w:"")+'&rdquo;'+(e&&e.st?' ('+esc(e.st)+')':"")+'</span>';
+ h+='<p style="font-size:.85em;margin:.5em 0">Reports do <b>not</b> change the dictionary. Each report gets a permanent ID and is saved on this device; export it and send it for editorial review. Definitions carry version numbers &mdash; corrections arrive as new versions, never silent replacements.</p>';
+ h+='<label style="display:block;margin:.4em 0">Issue type<br><select id="reptype" style="min-height:40px;width:100%;max-width:420px">'+types.map(function(t){return '<option>'+esc(t)+'</option>'}).join("")+'</select></label>';
+ h+='<label style="display:block;margin:.4em 0">Details<br><textarea id="repnotes" rows="3" style="width:100%;max-width:420px" aria-label="Issue details"></textarea></label>';
+ h+='<button onclick="submitReport()">Submit report</button> <button onclick="document.getElementById(\'reportbox\').innerHTML=\'\'">Cancel</button> <span id="repout" style="font-size:.85em"></span></div>';
+ box.innerHTML=h;
+ var esc2=box.querySelector("#repnotes");if(esc2)esc2.focus();
+}
+function submitReport(){
+ var e=window._e;if(!e)return;
+ var type=document.getElementById("reptype").value,notes=document.getElementById("repnotes").value;
+ var reps=jahdReports();
+ var rid="JAH-DICT-R-"+String(reps.length+1).padStart(6,"0");
+ var rep={id:rid,word:e.w,stamp:e.st||"",type:type,notes:notes,at:new Date().toISOString(),status:"submitted"};
+ reps.push(rep);jahdSaveReports(reps);
+ var out=document.getElementById("repout");
+ if(out)out.innerHTML='\u2713 Report <b>'+esc(rid)+'</b> saved on this device. <button onclick="copyReports()">Copy all reports</button> <button onclick="exportReports()">Export JSON</button>';
+}
+function copyReports(){copyText(JSON.stringify(jahdReports(),null,2))}
+function exportReports(){download("jahd-reports.json",JSON.stringify(jahdReports(),null,2),"application/json")}
 function levenshtein(a,b,cap){var la=a.length,lb=b.length;
  if(Math.abs(la-lb)>cap)return cap+1;
  var prev=[],cur=[];for(var j=0;j<=lb;j++)prev[j]=j;
@@ -497,11 +531,34 @@ async function vSearch(app,q){
  var ex=await getEntry(key).catch(function(){return null});
  if(ex&&ex.entry){location.replace("?w="+encodeURIComponent(ex.entry.w));return}
  var matches=rankSearch(key);
+ /* Site #3 fix-list (2026-10-03): "defined" vs "listed" are two distinct
+    statuses. A defined entry is a word with an authored/template definition
+    or a catalog term carrying its catalog description; a pending word is a
+    real headword whose authored definition the editors are still writing. */
+ var defOnly=qp("defined")==="1";
  if(!matches.length){h+=zeroResultsHTML(q,key)}
  else{h+='<h1 class="hw" style="font-size:1.6em">Results for &ldquo;'+esc(q)+'&rdquo;</h1>';
-  h+='<p style="font-family:Arial">'+matches.length+(matches.length>=80?"+":"")+' matching headwords:</p><ul class="pgln">';
+  h+='<p style="font-family:Arial;margin:.4em 0"><label style="cursor:pointer"><input type="checkbox" id="defonly"'+(defOnly?" checked":"")+' aria-label="Show only defined entries"> <b>Defined only</b></label> <span style="font-size:.85em;color:#555">hide headwords the editors are still writing</span></p>';
+  h+='<p style="font-family:Arial" id="rescount">'+matches.length+(matches.length>=80?"+":"")+' matching headwords:</p><ul class="pgln" id="reslist">';
   matches.forEach(function(k){h+='<li data-k="'+esc(k)+'">'+linkW(k)+'</li>'});h+='</ul>'}
  app.innerHTML=h;fillKindBadges(app);
+ /* defined-only filter: async per-item check, honest count update */
+ function isDefinedEntry(e){return !!e&&((e.k==="w"&&!!e.defsrc)||e.k==="t")}
+ async function applyDefOnly(){
+  var list=document.getElementById("reslist");if(!list)return;
+  var items=list.querySelectorAll("li[data-k]"),shown=0,n;
+  for(n=0;n<items.length;n++){
+   var li=items[n],g=await getEntry(li.getAttribute("data-k")).catch(function(){return null});
+   var ok=!defOnly||isDefinedEntry(g&&g.entry);
+   li.style.display=ok?"":"none";if(ok)shown++;
+  }
+  var rc=document.getElementById("rescount");
+  if(rc)rc.textContent=defOnly?(shown+" of "+items.length+" shown — defined entries only:"):(items.length+(items.length>=80?"+":"")+" matching headwords:");
+ }
+ var cb=document.getElementById("defonly");
+ if(cb){cb.addEventListener("change",function(){
+  defOnly=cb.checked;setQ("defined",defOnly?"1":null);applyDefOnly();
+ });if(defOnly)applyDefOnly()}
 }
 async function vBrowse(app,L,pg){
  pg=Math.max(1,parseInt(pg||"1",10)||1);L=String(L||"A").toUpperCase().slice(0,1);
@@ -840,7 +897,7 @@ async function vEntryAt(app,pos,raw,pre){
  '<tr><td class="k">Sense coverage</td><td>The signature above belongs to the word form and applies identically to each of the '+senses.length+' numbered sense'+(senses.length===1?"":"s")+'.</td></tr>'+
  '<tr><td class="k">Entry hash</td><td style="font-family:monospace">'+ehash+'</td></tr></table></div>';
  h+='<h2 class="sec">Official deterministic stamp (official within the Signature/JAH system) &amp; program of the word</h2>';
- h+='<div class="toolbar"><button onclick="verifyRecord()">\u2713 Verify record</button><span id="verifyout" style="font-family:Arial;font-size:.85em"></span></div>';
+ h+='<div class="toolbar"><button onclick="verifyRecord()">\u2713 Verify record</button> <button onclick="openReport()">\u26a0 Report an issue</button><span id="verifyout" style="font-family:Arial;font-size:.85em"></span></div><div id="reportbox"></div>';
  h+='<details class="jahd"><summary>How verification works</summary><p>Every field on this entry is <b>data</b>, recomputed from the word itself by fixed public rules: the stamp format (JAH-DICT-W-######), the FNV-1a and djb2 signatures, and the entry hash over the canonical record. Press &ldquo;Verify record&rdquo; to recompute all four in this browser. The same word always verifies identically, on any machine, in any year. Revisions (if any) carry a definition version; the stamp stays the entry\u2019s permanent ID.</p></details>';
  h+='<details class="jahd"><summary>Word program contract</summary><p>The word program is <b>executable code</b> (Python 3), not a metaphor. Contract: stdlib only (re); no network access; no file writes; a pure function of the word string; identical output on any machine. The in-page &ldquo;Run demo&rdquo; button executes a JavaScript port of the same algorithm. Download the .py to run it locally.</p></details>';
  h+='<details class="jahd"><summary>Download schema (JSON / CSV)</summary><p>Stable fields: entry_id, word, surface, kind, part_of_speech, definition_version, definitions[], pronunciation, word_history, history_source, description[], examples[], related_words[], opposites[], word_forms{}, editor_uncertain, deterministic_definition, deterministic_stamp, entry_hash, word_program{language, executable, contract, demo}, teacher{mode, reads, mutates_entry}, schema_version (1.1), dictionary_version, generated. CSV columns: entry_id,word,kind,part_of_speech,definition_version,definitions,pronunciation,description,examples,related_words,opposites,word_forms,deterministic_definition,stamp,entry_hash,schema_version.</p></details>';

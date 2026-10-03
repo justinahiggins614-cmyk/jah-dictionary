@@ -335,6 +335,23 @@ def refresh_api(stats):
         return
     api["records_approx"] = stats["total"]
     api["records_as_of"] = stats["last_updated"]
+    # Site #3 fix-list (2026-10-03): machine-readable freshness + per-record
+    # lookup recipe, all derived from the same dataset as the website.
+    api["schema_version"] = stats.get("schema_version")
+    api["catalog_revision"] = stats.get("catalog_revision")
+    api["generated_at"] = stats.get("generated_at")
+    api["defined"] = stats.get("defined")
+    api["defined_authored"] = stats.get("defined_authored")
+    api["defined_template"] = stats.get("defined_template")
+    api["pending_definitions"] = stats.get("pending_definitions")
+    if not any("stamp.idx" in str(ep.get("path", "")) for ep in api.get("endpoints", [])):
+        api.setdefault("endpoints", []).append({
+            "path": "data/index/stamp.idx.json.gz",
+            "format": "gzipped json",
+            "desc": "Permanent stamp-ID lookup: {\"W\":{\"JAH-DICT-W-######\":[idxPos...]},\"T\":{...}}. "
+                    "Resolve a stamp to an index position, then read that row of dict.idx.json.gz "
+                    "(word, chunk-file, line) and fetch the record line from data/dict/<chunk>.jsonl.gz. "
+                    "That is the machine-readable per-record endpoint."})
     # the sitemap moved to sitemap-index.xml in polish pass 3 (robots.txt
     # agrees); keep the api.json pointer honest on every rebuild.
     api["sitemap"] = ("https://justinahiggins614-cmyk.github.io/jah-dictionary/"
@@ -372,6 +389,24 @@ def write_stats(n_words, n_terms):
             for blk in iter(lambda: f.read(1 << 20), b""):
                 h.update(blk)
         data_hash = "sha256:" + h.hexdigest()
+    # Site #3 fix-list (2026-10-03): defined/authored/template/pending from
+    # the definitions coverage file, so "defined" vs "listed" are two
+    # distinct machine-readable statuses, never conflated.
+    try:
+        cov = json.load(open(os.path.join(ROOT, "data", "definitions",
+                                          "coverage.json"), encoding="utf-8"))
+    except Exception as e:
+        log("coverage.json unreadable (%s); definition counts zeroed" % e)
+        cov = {"defined": 0, "authored": 0, "templates": 0, "pending": 0}
+    # catalog revision: monotonically increasing build counter.
+    prev_rev = 0
+    if os.path.exists(spath):
+        try:
+            prev_rev = int(json.load(open(spath, encoding="utf-8"))
+                           .get("catalog_revision", 0))
+        except Exception:
+            prev_rev = 0
+    import datetime as _dt
     stats = {
         "dictionary_version": "1.0",
         "schema_version": "1.1",
@@ -379,7 +414,13 @@ def write_stats(n_words, n_terms):
         "words": n_words,
         "terms": n_terms,
         "total": n_words + n_terms,
+        "defined": int(cov.get("defined", 0)),
+        "defined_authored": int(cov.get("authored", 0)),
+        "defined_template": int(cov.get("templates", 0)),
+        "pending_definitions": int(cov.get("pending", 0)),
         "last_updated": datetime.date.today().isoformat(),
+        "generated_at": _dt.datetime.now(_dt.timezone.utc).isoformat(timespec="seconds"),
+        "catalog_revision": prev_rev + 1,
         "data_hash": data_hash,
         "source": "IWB Dictionary (original definitions)",
     }
@@ -503,6 +544,23 @@ def main():
     write_stamp_index(entries)
     stats = write_stats(len(words), len(terms))
     refresh_api(stats)
+    # Site #3 fix-list (2026-10-03): consistency gate — the build FAILS if
+    # the published stats disagree with the actual shipped index/chunks.
+    # Never let a stale or hand-typed number reach the page.
+    assert stats["total"] == len(index), \
+        "COUNT MISMATCH: stats.total=%d but index rows=%d" % (stats["total"], len(index))
+    assert stats["words"] + stats["terms"] == stats["total"], \
+        "COUNT MISMATCH: words+terms != total"
+    log("consistency gate: stats.total == index rows == %d" % stats["total"])
+    # Re-stamp the no-JS static snapshot in index.html from the fresh stats
+    # so crawlers never see a stale hand-typed count. Fail-safe: a stamp
+    # failure is logged loudly, never blocks the data build.
+    try:
+        sys.path.insert(0, os.path.join(ROOT, "code", "dict"))
+        import stamp_static
+        stamp_static.main()
+    except Exception as ex:  # noqa: BLE001
+        log("STAMP_STATIC: FAILED (%r) — will retry next run" % ex)
     verify(index, ipath)
     # Site #3 diagnostic (2026-10-02): rebuild the per-letter lexical JSON
     # shards + static A-Z fallback pages + lexical sitemap on every build so

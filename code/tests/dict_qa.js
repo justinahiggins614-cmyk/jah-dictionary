@@ -17,6 +17,9 @@ class FakeEl {
   set textContent(v) { this._text = String(v); }
   get textContent() { return this._text; }
   appendChild(c) { this.children.push(c); return c; }
+  insertBefore(c) { this.children.push(c); return c; }
+  get parentNode() { const self = this; return { insertBefore(c) { return c; }, appendChild(c) { return c; } }; }
+  get nextSibling() { return null; }
   addEventListener() {}
   remove() {}
   querySelector() { return new FakeEl("div"); }
@@ -41,7 +44,7 @@ function resetStubs() { for (const k of Object.keys(elsById)) delete elsById[k];
 /* ---------- load the real page scripts ---------- */
 const html = fs.readFileSync(path.join(REPO, "index.html"), "utf8");
 const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
-if (blocks.length !== 2) { console.error("expected 2 script blocks"); process.exit(1); }
+if (blocks.length < 2) { console.error("expected at least 2 script blocks"); process.exit(1); }
 eval(blocks[0] + "\n" + blocks[1] + `
 ;globalThis.__api = {
  detWord, normKey, normChanged, normNote, esc, cleanSense, detGloss, entryHash, defVersion,

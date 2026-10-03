@@ -323,6 +323,32 @@ def write_stamp_index(entries):
         (spath, len(out["W"]), len(out["T"])))
 
 
+def write_rid_index(entries):
+    """rid.idx.json.gz: sorted [[RID_UPPER, idxPos], ...] for catalog terms.
+
+    Lets the page resolve a typed/pasted catalog record ID (JAH-SPEC-######,
+    JAH-WORD-######, or a patent pub number like US10992705B2) straight to
+    its entry. Lazy-fetched by the page only on record-ID-shaped queries, so
+    it never slows the normal boot path. Regenerated on every rebuild so
+    positions stay exact."""
+    pairs = []
+    for pos, e in enumerate(entries):  # entries order == dict.idx row order
+        if e.get("k") == "t":
+            rid = str(e.get("rid") or "").strip().upper()
+            if rid:
+                pairs.append([rid, pos])
+    pairs.sort(key=lambda p: p[0])
+    dedup, seen = [], set()
+    for p in pairs:
+        if p[0] not in seen:
+            seen.add(p[0])
+            dedup.append(p)
+    rpath = os.path.join(IDXDIR, "rid.idx.json.gz")
+    with gzip.open(rpath, "wt", encoding="utf-8") as f:
+        json.dump(dedup, f, separators=(",", ":"))
+    log("record-ID index written: %s (%d record IDs)" % (rpath, len(dedup)))
+
+
 def refresh_api(stats):
     """Keep api.json counts honest: derive records_approx/records_as_of from
     the freshly built stats (never hardcoded)."""
@@ -352,6 +378,15 @@ def refresh_api(stats):
                     "Resolve a stamp to an index position, then read that row of dict.idx.json.gz "
                     "(word, chunk-file, line) and fetch the record line from data/dict/<chunk>.jsonl.gz. "
                     "That is the machine-readable per-record endpoint."})
+    if not any("rid.idx" in str(ep.get("path", "")) for ep in api.get("endpoints", [])):
+        api.setdefault("endpoints", []).append({
+            "path": "data/index/rid.idx.json.gz",
+            "format": "gzipped json",
+            "desc": "Catalog record-ID lookup: sorted [[RID_UPPER, idxPos], ...] "
+                    "for catalog terms (record IDs like JAH-SPEC-###### or patent "
+                    "pub numbers). Lazy-fetched by the page only when a search "
+                    "query looks like a record ID. Binary-search the ID, then "
+                    "read that row of dict.idx.json.gz."})
     # the sitemap moved to sitemap-index.xml in polish pass 3 (robots.txt
     # agrees); keep the api.json pointer honest on every rebuild.
     api["sitemap"] = ("https://justinahiggins614-cmyk.github.io/jah-dictionary/"
@@ -367,6 +402,11 @@ def refresh_api(stats):
         api.setdefault("deep_links", []).append({
             "pattern": "?id=<JAH-DICT-W-######|JAH-DICT-T-######>",
             "desc": "Open an entry directly by its permanent stamp ID."})
+    if not any("record ID" in str(d.get("desc", "")) for d in api.get("deep_links", [])):
+        api.setdefault("deep_links", []).append({
+            "pattern": "?q=<record ID>",
+            "desc": "Search by catalog record ID (JAH-SPEC-######, JAH-WORD-######, "
+                    "or a patent publication number) — resolves to the term entry."})
     with open(apath, "w", encoding="utf-8") as f:
         json.dump(api, f, ensure_ascii=False, indent=2)
         f.write("\n")
@@ -542,6 +582,7 @@ def main():
     index, n_chunks = write_chunks(entries)
     ipath = write_index(index)
     write_stamp_index(entries)
+    write_rid_index(entries)
     stats = write_stats(len(words), len(terms))
     refresh_api(stats)
     # Site #3 fix-list (2026-10-03): consistency gate — the build FAILS if

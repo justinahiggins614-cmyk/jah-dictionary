@@ -43,6 +43,12 @@ declaring any polish pass done:
   data. The daily refresh regenerates it via `build_all.py`
   (`write_stamp_index`); this script is for manual regeneration. Verifies
   every stamp resolves back to its own entry.
+- **build_rid_index.py** — one-shot (re)builder for
+  `data/index/rid.idx.json.gz` (catalog record ID -> `dict.idx` row,
+  709,097 IDs, lazy-fetched by the page only on record-ID-shaped queries)
+  from shipped data. Regenerated on every rebuild via `build_all.py`
+  (`write_rid_index`). Verifies 200 random record IDs resolve back to
+  their own entries.
 - `../tests/dict_qa.js` — DOM-level suite for the page scripts (node).
   Extracts the real `<script>` blocks from `index.html` and runs them
   against a DOM stub + real dictionary data.

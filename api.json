@@ -22,6 +22,11 @@
       "path": "data/index/stamp.idx.json.gz",
       "format": "gzipped json",
       "desc": "Permanent stamp-ID lookup: {\"W\":{\"JAH-DICT-W-######\":[idxPos...]},\"T\":{...}}. Resolve a stamp to an index position, then read that row of dict.idx.json.gz (word, chunk-file, line) and fetch the record line from data/dict/<chunk>.jsonl.gz. That is the machine-readable per-record endpoint."
+    },
+    {
+      "path": "data/index/rid.idx.json.gz",
+      "format": "gzipped json",
+      "desc": "Catalog record-ID lookup: sorted [[RID_UPPER, idxPos], ...] for catalog terms (record IDs like JAH-SPEC-###### or patent pub numbers). Lazy-fetched by the page only when a search query looks like a record ID. Binary-search the ID, then read that row of dict.idx.json.gz."
     }
   ],
   "deep_links": [
@@ -36,6 +41,10 @@
     {
       "pattern": "?id=<JAH-DICT-W-######|JAH-DICT-T-######>",
       "desc": "Open an entry directly by its permanent stamp ID."
+    },
+    {
+      "pattern": "?q=<record ID>",
+      "desc": "Search by catalog record ID (JAH-SPEC-######, JAH-WORD-######, or a patent publication number) - resolves to the term entry."
     }
   ],
   "raw_github_base": "https://raw.githubusercontent.com/justinahiggins614-cmyk/jah-dictionary/master/",

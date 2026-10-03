@@ -35199,3 +35199,803 @@
 {"w":"oxalyl","pos":"noun","d":["The chemical group derived from oxalic acid."]}
 {"w":"oxamate","pos":"noun","d":["A salt or ester of oxamic acid."]}
 {"w":"oxamethane","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "oxamethylane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxamic", "pos": "adjective", "d": ["Of or relating to oxamic acid."]}
+{"w": "oxamide", "pos": "noun", "d": ["The diamide of oxalic acid, a white crystalline compound."]}
+{"w": "oxamidine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxanilamide", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxanilate", "pos": "noun", "d": ["A salt or ester of oxanilic acid."]}
+{"w": "oxanilic", "pos": "adjective", "d": ["Of or relating to oxanilic acid, an acid formed from aniline and oxalic acid."]}
+{"w": "oxanilide", "pos": "noun", "d": ["A crystalline compound in which both amide groups of oxamide carry a phenyl ring; diphenyl oxamide."]}
+{"w": "oxanillamide", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxbane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxbird", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxbiter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxbow", "pos": "noun", "d": ["A U-shaped bend in a river, or the crescent-shaped lake left behind when such a bend is cut off from the main stream.", "A curved wooden frame fitted around an ox's neck as part of a yoke."]}
+{"w": "oxeye", "pos": "noun", "d": ["A daisy-like wildflower with white petals around a yellow center."]}
+{"w": "oxfly", "pos": "noun", "d": ["A biting fly that torments oxen and other cattle."]}
+{"w": "oxgang", "pos": "noun", "d": ["An old unit of land, about fifteen acres, reckoned as what a team of oxen could plow in one season."]}
+{"w": "oxgoad", "pos": "noun", "d": ["A sharp-pointed stick used for driving oxen."]}
+{"w": "oxhead", "pos": "noun", "d": ["The head of an ox."]}
+{"w": "oxheal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxheart", "pos": "noun", "d": ["The heart of an ox, used as meat."]}
+{"w": "oxhide", "pos": "noun", "d": ["The skin of an ox, or leather made from it."]}
+{"w": "oxid", "pos": "noun", "d": ["An oxide; a compound of oxygen with another element."]}
+{"w": "oxidator", "pos": "noun", "d": ["A substance that causes oxidation; an oxidizing agent."]}
+{"w": "oxidulated", "pos": "adjective", "d": ["Partly oxidized; converted in part into an oxide."]}
+{"w": "oxime", "pos": "noun", "d": ["A compound containing the C=N-OH group, formed from an aldehyde or ketone with hydroxylamine."]}
+{"w": "oxindol", "pos": "noun", "d": ["An older name for oxindole, a crystalline organic compound used in making dyes."]}
+{"w": "oxiodic", "pos": "adjective", "d": ["Relating to periodic acid, an oxyacid of iodine."]}
+{"w": "oxlike", "pos": "adjective", "d": ["Resembling an ox, especially in strength or heaviness."]}
+{"w": "oxlip", "pos": "noun", "d": ["A hybrid primrose between the cowslip and the true primrose, bearing clusters of pale yellow flowers."]}
+{"w": "oxonate", "pos": "noun", "d": ["A salt of oxonic acid."]}
+{"w": "oxonian", "pos": "noun", "d": ["A student or graduate of Oxford University."]}
+{"w": "oxonic", "pos": "adjective", "d": ["Of or relating to oxonic acid."]}
+{"w": "oxpecker", "pos": "noun", "d": ["A small African bird that feeds on ticks and other parasites picked from the skin of large animals."]}
+{"w": "oxshoe", "pos": "noun", "d": ["A shoe fitted to the cloven hoof of an ox."]}
+{"w": "oxter", "pos": "noun", "d": ["The armpit; the hollow beneath the shoulder."]}
+{"w": "oxtongue", "pos": "noun", "d": ["A rough-leaved plant with tongue-shaped leaves, such as bristly oxtongue."]}
+{"w": "oxy-", "pos": "prefix", "d": ["A prefix meaning oxygen or containing oxygen, as in oxyacid."]}
+{"w": "oxyacetic", "pos": "adjective", "d": ["Of or relating to oxyacetic acid, an acid containing oxygen in addition to the acetic acid structure."]}
+{"w": "oxyacid", "pos": "noun", "d": ["An acid that contains oxygen, hydrogen, and one or more other elements, such as sulfuric acid."]}
+{"w": "oxyammonia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxybenzene", "pos": "noun", "d": ["An older name for phenol, a benzene compound bearing a hydroxyl group."]}
+{"w": "oxybenzoic", "pos": "adjective", "d": ["Relating to the hydroxybenzoic acids, which contain oxygen in addition to the benzoic acid structure."]}
+{"w": "oxybromic", "pos": "adjective", "d": ["Relating to an acid or salt containing bromine and oxygen."]}
+{"w": "oxybutyric", "pos": "adjective", "d": ["Relating to oxybutyric acid, an acid containing oxygen in addition to the butyric acid structure."]}
+{"w": "oxycalcium", "pos": "adjective", "d": ["Relating to a combination of oxygen and calcium, as in the oxycalcium light made by heating lime in an oxyhydrogen flame."]}
+{"w": "oxycaproic", "pos": "adjective", "d": ["Relating to oxycaproic acid, an acid containing oxygen in addition to the caproic acid structure."]}
+{"w": "oxychloric", "pos": "adjective", "d": ["Relating to an acid of oxygen and chlorine; an older name for perchloric acid."]}
+{"w": "oxychloride", "pos": "noun", "d": ["A compound containing both oxygen and chlorine combined with a metal or other element."]}
+{"w": "oxycrate", "pos": "noun", "d": ["A drink made of vinegar and water sweetened with honey."]}
+{"w": "oxycymene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxygenator", "pos": "noun", "d": ["A device that adds oxygen to something, especially blood or water."]}
+{"w": "oxygenium", "pos": "noun", "d": ["The Latin name for oxygen, still used in pharmacy and some languages."]}
+{"w": "oxygon", "pos": "noun", "d": ["A triangle with all acute angles; an acute-angled triangle."]}
+{"w": "oxyhaemacyanin", "pos": "noun", "d": ["The oxygenated form of haemocyanin, the copper-based respiratory pigment of some invertebrates."]}
+{"w": "oxyhaemocyanin", "pos": "noun", "d": ["An alternate spelling of oxyhaemacyanin, the oxygenated form of the copper-based blood pigment haemocyanin."]}
+{"w": "oxyhaemoglobin", "pos": "noun", "d": ["Hemoglobin combined with oxygen, the form that carries oxygen in arterial blood."]}
+{"w": "oxyhemoglobin", "pos": "noun", "d": ["The American spelling of oxyhaemoglobin, hemoglobin combined with oxygen."]}
+{"w": "oxyhydrogen", "pos": "noun", "d": ["A mixture of oxygen and hydrogen, which burns with a very hot flame."]}
+{"w": "oxyhydrogen light", "pos": "phrase", "d": ["An intense light made by heating a block of lime in an oxyhydrogen flame; limelight."]}
+{"w": "oxymel", "pos": "noun", "d": ["A mixture of vinegar and honey, formerly used in medicine."]}
+{"w": "oxymethylene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxymoron", "pos": "noun", "d": ["A figure of speech that joins contradictory terms, such as 'deafening silence'."]}
+{"w": "oxymuriate", "pos": "noun", "d": ["An old name for a salt of an oxyacid of chlorine, as oxymuriate of potash for potassium chlorate."]}
+{"w": "oxymuriatic", "pos": "adjective", "d": ["An old term for compounds of chlorine and oxygen, as in oxymuriatic acid, an early name for chlorine."]}
+{"w": "oxyneurine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxyntic", "pos": "adjective", "d": ["Relating to acid secretion, especially the acid-producing cells of the stomach lining."]}
+{"w": "oxyopia", "pos": "noun", "d": ["Unusually sharp or acute vision."]}
+{"w": "oxyopy", "pos": "noun", "d": ["Acuteness or sharpness of vision."]}
+{"w": "oxyphenic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxyphenol", "pos": "noun", "d": ["A phenolic compound bearing an extra hydroxyl group, such as a dihydroxybenzene."]}
+{"w": "oxyphony", "pos": "noun", "d": ["Acuteness or shrillness of the voice."]}
+{"w": "oxyquinoline", "pos": "noun", "d": ["A quinoline compound bearing a hydroxyl group, used as an antiseptic and analytical reagent."]}
+{"w": "oxyrhyncha", "pos": "noun", "d": ["A group of crabs with pointed beak-like snouts, including the spider crabs."]}
+{"w": "oxyrrhodine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxysalt", "pos": "noun", "d": ["A salt of an oxyacid, having oxygen in its anion."]}
+{"w": "oxysulphide", "pos": "noun", "d": ["A compound containing both oxygen and sulfur combined with a metal or other element."]}
+{"w": "oxysulphuret", "pos": "noun", "d": ["An older spelling of oxysulphide, a compound of oxygen and sulfur with another element."]}
+{"w": "oxytocic", "pos": "adjective", "d": ["Stimulating the uterus to contract, especially to hasten childbirth."]}
+{"w": "oxytoluene", "pos": "noun", "d": ["An older name for cresol, a hydroxylated toluene used as a disinfectant."]}
+{"w": "oxytone", "pos": "adjective", "d": ["Having the stress or accent on the last syllable."]}
+{"w": "oxytonical", "pos": "adjective", "d": ["Relating to or being oxytone; accented on the final syllable."]}
+{"w": "oyer", "pos": "noun", "d": ["A hearing or trial in a court of law.", "In old law, the right to have a document pleaded in court read aloud."]}
+{"w": "oyez", "pos": "interjection", "d": ["Hear ye; a call used by court officers to command attention."]}
+{"w": "oylet", "pos": "noun", "d": ["A small round opening or eyelet, as in clothing or armor."]}
+{"w": "oynoun", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oyster", "pos": "noun", "d": ["A shellfish with a rough hinged shell, often eaten raw.", "A person regarded as withdrawn or uncommunicative."]}
+{"w": "oyster-green", "pos": "adjective", "d": ["Of a pale grayish-green color resembling oyster shells."]}
+{"w": "ozena", "pos": "noun", "d": ["A chronic disease of the nose marked by foul-smelling discharge; atrophic rhinitis."]}
+{"w": "ozocerite", "pos": "noun", "d": ["A naturally occurring waxy mineral, a mixture of hydrocarbons, used in candles and polishes."]}
+{"w": "ozonation", "pos": "noun", "d": ["The process of treating with ozone, as in purifying water."]}
+{"w": "ozone paper", "pos": "phrase", "d": ["Paper treated with potassium iodide and starch, used to detect ozone by turning blue."]}
+{"w": "ozonic", "pos": "adjective", "d": ["Of or relating to ozone; containing or resembling ozone."]}
+{"w": "ozonification", "pos": "noun", "d": ["The act or process of converting into ozone or treating with ozone."]}
+{"w": "ozonization", "pos": "noun", "d": ["The process of treating or impregnating with ozone."]}
+{"w": "ozonize", "pos": "verb", "d": ["To treat or impregnate with ozone."]}
+{"w": "ozonometer", "pos": "noun", "d": ["An instrument for measuring the amount of ozone in the air."]}
+{"w": "ozonometric", "pos": "adjective", "d": ["Relating to the measurement of ozone."]}
+{"w": "ozonometry", "pos": "noun", "d": ["The measurement of atmospheric ozone."]}
+{"w": "ozonoscope", "pos": "noun", "d": ["An instrument for detecting the presence of ozone in the air."]}
+{"w": "ozonoscopic", "pos": "adjective", "d": ["Relating to the detection of ozone with an ozonoscope."]}
+{"w":"ozonous","pos":"adjective","d":["Containing or smelling of ozone."]}
+{"w":"paage","pos":"noun","d":["An archaic spelling of page, a young servant or attendant."]}
+{"w":"paard","pos":"noun","d":["A horse, from the Dutch and Afrikaans word for horse."]}
+{"w":"paas","pos":"noun","d":["Easter, in Dutch and Afrikaans usage."]}
+{"w":"pabular","pos":"adjective","d":["Of or relating to food or nourishment."]}
+{"w":"pabulation","pos":"noun","d":["The act of feeding or grazing.","Food or fodder."]}
+{"w":"pabulous","pos":"adjective","d":["Affording food; fit for nourishment."]}
+{"w":"pabulum","pos":"noun","d":["Food or nourishment, especially food for the mind."]}
+{"w":"paca","pos":"noun","d":["A large spotted rodent of Central and South America."]}
+{"w":"pacane","pos":"noun","d":["An older spelling of pecan, the edible hickory nut of North America."]}
+{"w":"pachacamac","pos":"noun","d":["An Inca creator god, also the name of a major pre-Columbian temple complex near Lima, Peru."]}
+{"w":"pachak","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pachalic","pos":"adjective","d":["Of or relating to a pasha or a pashalic, an Ottoman administrative district."]}
+{"w":"pachisi","pos":"noun","d":["An ancient Indian board game played with cowrie shells, the ancestor of Parcheesi."]}
+{"w":"pachometer","pos":"noun","d":["An instrument for measuring the thickness of a material, such as a paint coating."]}
+{"w":"pachonta","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pachuca tank","pos":"phrase","d":["A tall cylindrical vessel with a conical bottom, used to leach crushed ore with a chemical solution."]}
+{"w":"pachy-","pos":"prefix","d":["A prefix meaning thick, as in pachyderm."]}
+{"w":"pachycarpous","pos":"adjective","d":["Having thick-walled fruit."]}
+{"w":"pachydactyl","pos":"adjective","d":["Having thick fingers or toes."]}
+{"w":"pachyderm","pos":"noun","d":["A thick-skinned mammal, such as an elephant, rhinoceros, or hippopotamus."]}
+{"w":"pachydermata","pos":"noun","d":["A former zoological order of thick-skinned hoofed mammals, including elephants and rhinoceroses."]}
+{"w":"pachydermatous","pos":"adjective","d":["Thick-skinned; resembling a pachyderm."]}
+{"w":"pachydermoid","pos":"adjective","d":["Resembling a pachyderm."]}
+{"w":"pachyglossal","pos":"adjective","d":["Having a thick tongue."]}
+{"w":"pachymeningitis","pos":"noun","d":["Inflammation of the dura mater, the thick outermost membrane covering the brain and spinal cord."]}
+{"w":"pachymeter","pos":"noun","d":["An instrument for measuring the thickness of a material."]}
+{"w":"pachyote","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pacifiable","pos":"adjective","d":["Capable of being pacified or calmed."]}
+{"w":"pacificator","pos":"noun","d":["A person who pacifies; a peacemaker."]}
+{"w":"pacificatory","pos":"adjective","d":["Tending to pacify; conciliatory."]}
+{"w":"pacifico","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pacinian","pos":"adjective","d":["Relating to the Pacinian corpuscles, nerve endings in the skin that sense deep pressure."]}
+{"w":"pack herse","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pack saddle","pos":"phrase","d":["A saddle fitted for carrying loads on the back of a pack animal."]}
+{"w":"pack thread","pos":"phrase","d":["A strong twine used for tying up parcels."]}
+{"w":"packfong","pos":"noun","d":["A silvery Chinese alloy of copper, zinc, and nickel, also called nickel silver."]}
+{"w":"paco","pos":"noun","d":["A South American camelid; another name for the alpaca."]}
+{"w":"pact","pos":"noun","d":["A formal agreement between parties; a treaty."]}
+{"w":"pactitious","pos":"adjective","d":["Settled or agreed upon by a formal pact."]}
+{"w":"pactolian","pos":"adjective","d":["Relating to the Pactolus, an ancient Lydian river famed for its gold; hence, rich in gold."]}
+{"w":"pacu","pos":"noun","d":["A large South American freshwater fish related to the piranha."]}
+{"w":"pad elephant","pos":"phrase","d":["An elephant fitted with a riding pad rather than a howdah."]}
+{"w":"padar","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paddle","pos":"verb","d":["To move a boat through water with a paddle.","To dabble or walk about in shallow water."]}
+{"w":"paddy","pos":"noun","d":["A field where rice is grown.","Unhusked rice."]}
+{"w":"padelion","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"padella","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pademelon","pos":"noun","d":["A small wallaby of Australia and nearby islands."]}
+{"w":"padesoy","pos":"noun","d":["A rich silk fabric popular in the eighteenth century."]}
+{"w":"padge","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"padishah","pos":"noun","d":["A title for a great king, used especially for the Ottoman sultan and the shah of Persia."]}
+{"w":"padow","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"padre","pos":"noun","d":["A Christian priest, especially a military chaplain.","Father, in Spanish and Italian, used as a title for a priest."]}
+{"w":"padrone","pos":"noun","d":["A master or employer, especially one who exploited immigrant workers."]}
+{"w":"paduasoy","pos":"noun","d":["A rich corded silk fabric."]}
+{"w":"paducahs","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paean","pos":"noun","d":["A song or expression of triumph, praise, or thanksgiving."]}
+{"w":"paedobaptism","pos":"noun","d":["The baptism of infants."]}
+{"w":"paedogenesis","pos":"noun","d":["Reproduction by an animal that is still in its larval or otherwise immature stage."]}
+{"w":"paedogenetic","pos":"adjective","d":["Relating to or exhibiting paedogenesis."]}
+{"w":"paeon","pos":"noun","d":["In prosody, a metrical foot of four syllables, one long and three short."]}
+{"w":"paeonine","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paeony","pos":"noun","d":["A variant spelling of peony, a garden plant with large showy flowers."]}
+{"w":"pagan","pos":"noun","d":["A person whose religion is not one of the major world religions, especially a follower of the pre-Christian religions of Europe."]}
+{"w":"pageantry","pos":"noun","d":["Elaborate and colorful ceremony or display."]}
+{"w":"pagina","pos":"noun","d":["A page of a book or manuscript, from the Latin."]}
+{"w":"paginal","pos":"adjective","d":["Of or relating to the pages of a book."]}
+{"w":"pagod","pos":"noun","d":["A variant spelling of pagoda."]}
+{"w":"pagoda","pos":"noun","d":["A tiered tower with many roofs, serving as a temple or memorial in eastern Asia."]}
+{"w":"pagoda sleeve","pos":"phrase","d":["A wide, funnel-shaped sleeve fashionable in the mid-nineteenth century."]}
+{"w":"pagodite","pos":"noun","d":["A soft mineral, a variety of agalmatolite, carved by the Chinese into small figures."]}
+{"w":"paguma","pos":"noun","d":["The masked palm civet, a small nocturnal mammal of Asia."]}
+{"w":"pagurian","pos":"adjective","d":["Relating to hermit crabs of the genus Pagurus."]}
+{"w":"pah","pos":"interjection","d":["An exclamation expressing contempt or disgust."]}
+{"w":"pahi","pos":"noun","d":["A large double-hulled voyaging canoe of Tahiti."]}
+{"w":"pahlevi","pos":"noun","d":["A variant of Pahlavi, the Middle Persian language and its script."]}
+{"w":"pahoehoe","pos":"noun","d":["A type of lava with a smooth, ropy surface."]}
+{"w":"paideutics","pos":"noun","d":["The science or art of teaching; pedagogy."]}
+{"w":"paien","pos":"noun","d":["An archaic form of pagan."]}
+{"w":"paigle","pos":"noun","d":["A dialect name for the cowslip, a yellow-flowered primrose."]}
+{"w":"paijama","pos":"noun","d":["A variant spelling of pyjama."]}
+{"w":"pail","pos":"noun","d":["An open cylindrical vessel with a handle; a bucket."]}
+{"w":"paillon","pos":"noun","d":["A spangle or thin plate of metal used as ornament."]}
+{"w":"painim","pos":"noun","d":["An archaic term for a pagan or infidel, used in medieval romances for a Saracen."]}
+{"w":"painty","pos":"adjective","d":["Resembling or smeared with paint."]}
+{"w":"pais","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paise","pos":"noun","d":["Plural of paisa, a unit of Indian currency worth one-hundredth of a rupee."]}
+{"w":"pajamas","pos":"noun","d":["Loose trousers worn for sleeping, usually with a matching top."]}
+{"w":"pajock","pos":"noun","d":["A peacock, used as a term of contempt in Shakespeare."]}
+{"w":"pakfong","pos":"noun","d":["A variant spelling of packfong, a silvery copper-zinc-nickel alloy."]}
+{"w":"palacious","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paladin","pos":"noun","d":["A heroic champion or knight, originally one of Charlemagne's twelve peers."]}
+{"w":"palaeo-","pos":"prefix","d":["A prefix meaning ancient or prehistoric, a variant of paleo-, as in palaeontology."]}
+{"w":"palaeographer","pos":"noun","d":["A person skilled in palaeography, the study of ancient writing."]}
+{"w":"palaeographic","pos":"adjective","d":["Relating to palaeography, the study of ancient writing."]}
+{"w":"palaeotype","pos":"noun","d":["A specimen of ancient printing type.","A phonetic notation devised by Alexander Ellis."]}
+{"w":"palaestra","pos":"noun","d":["A wrestling school or gymnasium in ancient Greece."]}
+{"w":"palaestric","pos":"adjective","d":["Relating to wrestling or the palaestra."]}
+{"w":"palaetiologist","pos":"noun","d":["A student of palaetiology, the study of ancient things and past conditions."]}
+{"w":"palama","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palamedeae","pos":"noun","d":["An older name for the family of screamers, large long-legged water birds of South America."]}
+{"w":"palampore","pos":"noun","d":["A rich hand-painted or printed cotton cloth from India, often used for bed covers."]}
+{"w":"palanka","pos":"noun","d":["A small wooden fort or stockade, especially on the old Turkish and Hungarian frontiers."]}
+{"w":"palanquin","pos":"noun","d":["A covered seat or couch carried on poles by bearers, used in parts of Asia."]}
+{"w":"palatability","pos":"noun","d":["The quality of being agreeable to the taste; acceptability."]}
+{"w":"palatably","pos":"adverb","d":["In a palatable manner; agreeably to the taste."]}
+{"w":"palatal","pos":"adjective","d":["Of or belonging to the palate.","Made with the tongue against the palate, as some speech sounds."]}
+{"w":"palatial","pos":"adjective","d":["Resembling a palace; grand and splendid."]}
+{"w":"palatic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palatinate","pos":"noun","d":["The territory ruled by a count palatine."]}
+{"w":"palatine","pos":"adjective","d":["Belonging to a palace; royal or imperial."]}
+{"w":"palative","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palatize","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palato-","pos":"prefix","d":["A prefix meaning the palate, as in palatopterygoid."]}
+{"w":"palatonares","pos":"noun","d":["The posterior openings of the nasal passages into the throat."]}
+{"w":"palatopterygoid","pos":"adjective","d":["Relating to the palatine bone and the pterygoid bone."]}
+{"w":"palea","pos":"noun","d":["A small chaffy scale on a flower, especially in grasses."]}
+{"w":"paleaceous","pos":"adjective","d":["Chaffy; resembling chaff."]}
+{"w":"paleichthyes","pos":"noun","d":["An older name for a group of ancient fishes."]}
+{"w":"palempore","pos":"noun","d":["An older spelling of palampore, a hand-painted Indian cotton cloth."]}
+{"w":"palenque","pos":"noun","d":["An ancient Maya city in southern Mexico, famous for its stone temples and carved monuments."]}
+{"w":"paleo-","pos":"prefix","d":["A prefix meaning ancient or prehistoric, as in paleontology."]}
+{"w":"paleobotanist","pos":"noun","d":["A person who studies fossil plants."]}
+{"w":"paleobotany","pos":"noun","d":["The study of fossil plants."]}
+{"w":"paleocarida","pos":"noun","d":["An order of extinct crustaceans."]}
+{"w":"paleocrinoidea","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paleocrystic","pos":"adjective","d":["Of or relating to very old, permanently frozen sea ice."]}
+{"w":"paleogaean","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paleograph","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paleography","pos":"noun","d":["The study of ancient handwriting and manuscripts."]}
+{"w":"paleola","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paleolith","pos":"noun","d":["A stone tool of the Old Stone Age."]}
+{"w":"paleologist","pos":"noun","d":["A student of the science of ancient things; one who studies antiquities."]}
+{"w":"paleontographical","pos":"adjective","d":["Relating to paleontography, the description of fossils."]}
+{"w":"paleontography","pos":"noun","d":["The description of fossils."]}
+{"w":"paleophytologist","pos":"noun","d":["A person who studies fossil plants."]}
+{"w":"paleophytology","pos":"noun","d":["The study of fossil plants."]}
+{"w":"paleotechnic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paleothere","pos":"noun","d":["An extinct hoofed mammal of the Eocene, somewhat like a tapir."]}
+{"w":"paleotherian","pos":"adjective","d":["Relating to the paleothere or the group it belonged to."]}
+{"w":"paleotherium","pos":"noun","d":["A genus of extinct hoofed mammals of the Eocene period."]}
+{"w":"paleotheroid","pos":"adjective","d":["Resembling a paleothere."]}
+{"w":"paleotype","pos":"noun","d":["An early or primitive style of printing type."]}
+{"w":"paleozoic era","pos":"phrase","d":["The geologic era of ancient life, spanning roughly 541 to 252 million years ago."]}
+{"w":"paleozooelogy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paleozoology","pos":"noun","d":["The study of fossil animals."]}
+{"w":"palesie","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palestinean","pos":"noun","d":["A native or inhabitant of Palestine."]}
+{"w":"palestra","pos":"noun","d":["A wrestling school in ancient Greece; also, a place for athletic exercises."]}
+{"w":"palestrian","pos":"adjective","d":["Relating to wrestling or athletic exercises."]}
+{"w":"palestric","pos":"adjective","d":["Relating to wrestling or the palestra."]}
+{"w":"palesy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palet","pos":"noun","d":["An older spelling of palette, an artist's color board."]}
+{"w":"palfrey","pos":"noun","d":["A small horse for ordinary riding, especially in the Middle Ages."]}
+{"w":"pali","pos":"noun","d":["The ancient sacred language of the Buddhist scriptures.","The plural of palus, a stake or small bone."]}
+{"w":"palification","pos":"noun","d":["The driving of piles into the ground to make a foundation."]}
+{"w":"palimpsest","pos":"noun","d":["A manuscript written over older, partly erased writing."]}
+{"w":"palindrome","pos":"noun","d":["A word, phrase, or number that reads the same backward as forward, such as 'madam'."]}
+{"w":"palindromic","pos":"adjective","d":["Forming or relating to a palindrome."]}
+{"w":"palindromist","pos":"noun","d":["A person who makes palindromes."]}
+{"w":"palingenesia","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palingenesis","pos":"noun","d":["Rebirth or regeneration."]}
+{"w":"palingenesy","pos":"noun","d":["A less common form of palingenesis."]}
+{"w":"palingenetic","pos":"adjective","d":["Relating to palingenesis; regenerating."]}
+{"w":"palinody","pos":"noun","d":["A poem or song that takes back what an earlier one said; a formal recantation."]}
+{"w":"palinurus","pos":"noun","d":["A genus of spiny lobsters."]}
+{"w":"palisade","pos":"noun","d":["A fence of pointed stakes set upright in the ground."]}
+{"w":"palisado","pos":"noun","d":["A form of palisade; a fence of pointed stakes."]}
+{"w":"palissander","pos":"noun","d":["A dark, fragrant wood of the rosewood family, used for fine furniture and instruments."]}
+{"w":"palissy","pos":"noun","d":["Bernard Palissy, a French potter of the 1500s known for naturalistic earthenware."]}
+{"w":"pall","pos":"noun","d":["A cloth spread over a coffin, hearse, or tomb."]}
+{"w":"pall-mall","pos":"phrase","d":["An old game played with a mallet and a wooden ball.","A street in London where the game was once played."]}
+{"w":"palla","pos":"noun","d":["A shawl or mantle worn by Roman women."]}
+{"w":"palladic","pos":"adjective","d":["Of or containing palladium."]}
+{"w":"palladious","pos":"adjective","d":["Of or containing palladium in its lower valence."]}
+{"w":"palladium","pos":"noun","d":["A rare silver-white metallic element used in jewelry, catalysts, and electronics.","Anything that affords protection or safety."]}
+{"w":"pallah","pos":"noun","d":["An African antelope; the impala."]}
+{"w":"palliament","pos":"noun","d":["A robe or mantle, especially a ceremonial one."]}
+{"w":"palliasse","pos":"noun","d":["A mattress stuffed with straw."]}
+{"w":"palliate","pos":"verb","d":["To ease pain or distress without curing the cause.","To make an offense seem less serious; to excuse."]}
+{"w":"palliation","pos":"noun","d":["The act of palliating; relief of pain without a cure."]}
+{"w":"palliative","pos":"adjective","d":["Serving to relieve pain or distress without curing.","Tending to excuse or make light of a fault."]}
+{"w":"palliatory","pos":"adjective","d":["Serving to palliate; palliative."]}
+{"w":"palliobranchiata","pos":"noun","d":["An order of brachiopods, small marine animals with two shells."]}
+{"w":"palliobranchiate","pos":"adjective","d":["Belonging to the order Palliobranchiata."]}
+{"w":"pallium","pos":"noun","d":["A woolen cloak worn by ancient Greeks and Romans.","A narrow band of white wool worn by the pope and archbishops as a sign of office.","The soft outer covering or mantle of a mollusk."]}
+{"w":"pallometa","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pallor","pos":"noun","d":["An unhealthy paleness of the face or skin."]}
+{"w":"palm sunday","pos":"phrase","d":["The Sunday before Easter, commemorating Christ's entry into Jerusalem."]}
+{"w":"palma christi","pos":"phrase","d":["A name for the castor-oil plant."]}
+{"w":"palmaceous","pos":"adjective","d":["Relating to palms, the tropical trees."]}
+{"w":"palmacite","pos":"noun","d":["A fossil palm or palm-like plant."]}
+{"w":"palmarium","pos":"noun","d":["A building or greenhouse in which palms are grown."]}
+{"w":"palmatifid","pos":"adjective","d":["Cut into palm-like lobes about halfway to the base, as a leaf."]}
+{"w":"palmatilobed","pos":"adjective","d":["Divided into palm-like lobes, as a leaf."]}
+{"w":"palmatisect","pos":"adjective","d":["Cut in palm-like divisions all the way to the base, as a leaf."]}
+{"w":"palmcrist","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palmetto","pos":"noun","d":["A small fan-leaved palm of the southeastern United States.","The emblem of South Carolina."]}
+{"w":"palmetto flag","pos":"phrase","d":["The flag of South Carolina, bearing a palmetto tree and a crescent."]}
+{"w":"palmetto state","pos":"phrase","d":["A nickname for South Carolina, from the palmetto palm on its flag and seal."]}
+{"w":"palmidactyles","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palmiferous","pos":"adjective","d":["Bearing or producing palm trees."]}
+{"w":"palmigrade","pos":"adjective","d":["Walking on the soles of the feet, with the whole palm of the foot on the ground, as bears do."]}
+{"w":"palmin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palmiped","pos":"adjective","d":["Web-footed; having the toes joined by a web, as ducks and geese."]}
+{"w":"palmistry","pos":"noun","d":["The practice of telling fortunes from the lines and marks on the palm of the hand."]}
+{"w":"palmitate","pos":"noun","d":["A salt or ester of palmitic acid."]}
+{"w":"palmitic","pos":"adjective","d":["Of or relating to palmitic acid, a common fatty acid found in palm oil and animal fats."]}
+{"w":"palmitin","pos":"noun","d":["A hard white fat, the triglyceride of palmitic acid, found in palm oil and many animal fats."]}
+{"w":"palmitolic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palmitone","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palmy","pos":"adjective","d":["Abounding in palm trees.","Prosperous and flourishing, as in 'palmy days'."]}
+{"w":"palmyra","pos":"noun","d":["A tall fan palm of tropical Asia, also called the toddy palm.","The fiber obtained from this palm."]}
+{"w":"palo","pos":"noun","d":["A stick or club of wood."]}
+{"w":"palo blanco","pos":"phrase","d":["A shrub or small tree of the southwestern United States and Mexico with pale whitish bark."]}
+{"w":"palola","pos":"noun","d":["A variant spelling of palolo, the edible marine worm of the South Pacific."]}
+{"w":"palolo","pos":"noun","d":["An edible marine worm of Samoa and nearby Pacific islands, gathered as food during its seasonal spawning swarms."]}
+{"w":"palolo worm","pos":"phrase","d":["The palolo, an edible sea worm of the South Pacific gathered as food during its spawning swarms."]}
+{"w":"palometa","pos":"noun","d":["A small silvery food fish of warm Atlantic waters."]}
+{"w":"palp","pos":"noun","d":["A slender feeler or sensory appendage of an insect or crustacean.","To examine by feeling; to touch gently."]}
+{"w":"palpator","pos":"noun","d":["One who feels or examines by touch.","A tactile organ used for feeling."]}
+{"w":"palpebra","pos":"noun","d":["The eyelid."]}
+{"w":"palpebral","pos":"adjective","d":["Pertaining to the eyelid."]}
+{"w":"palpebrate","pos":"verb","d":["To wink or blink."]}
+{"w":"palpi","pos":"noun","d":["The plural of palpus; the feelers of insects, spiders, and crustaceans."]}
+{"w":"palpiger","pos":"adjective","d":["Bearing palps or feelers."]}
+{"w":"palpitate","pos":"verb","d":["To beat rapidly and irregularly, as the heart does under excitement.","To tremble or quiver."]}
+{"w":"palpitation","pos":"noun","d":["Rapid, irregular throbbing of the heart.","A trembling or quivering motion."]}
+{"w":"palpocil","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palsgrave","pos":"noun","d":["A count palatine; a German count of the Holy Roman Empire who ruled a county palatine."]}
+{"w":"palsgravine","pos":"noun","d":["The wife or widow of a palsgrave."]}
+{"w":"palsical","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palster","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palsy","pos":"noun","d":["Paralysis; loss of the power of muscular motion.","Exaggerated friendliness or intimacy, as in 'palsy-walsy'.","To deprive of muscular power; to paralyze."]}
+{"w":"palter","pos":"verb","d":["To talk or act insincerely; to equivocate or trifle.","To haggle or bargain over terms."]}
+{"w":"paltock","pos":"noun","d":["A short close-fitting coat or doublet worn in medieval times."]}
+{"w":"paltrily","pos":"adverb","d":["In a paltry manner; meanly; insignificantly."]}
+{"w":"paltriness","pos":"noun","d":["The quality of being paltry; meanness; insignificance."]}
+{"w":"paludament","pos":"noun","d":["A military cloak worn by officers and generals in ancient Rome."]}
+{"w":"paludamentum","pos":"noun","d":["The military cloak worn by Roman generals and officers."]}
+{"w":"paludicolae","pos":"noun","d":["Animals or birds that dwell in marshes."]}
+{"w":"paludicole","pos":"adjective","d":["Living or growing in marshes."]}
+{"w":"paludina","pos":"noun","d":["A genus of freshwater snails; the river snails."]}
+{"w":"paludinal","pos":"adjective","d":["Of or relating to marshes; marshy."]}
+{"w":"paludine","pos":"adjective","d":["Pertaining to marshes or marsh fever."]}
+{"w":"paludinous","pos":"adjective","d":["Abounding in marshes; marshy."]}
+{"w":"paludism","pos":"noun","d":["Malaria; marsh fever."]}
+{"w":"paludose","pos":"adjective","d":["Marshy; full of marshes."]}
+{"w":"palulus","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"palus","pos":"noun","d":["A marsh or swamp.","A stake or pale."]}
+{"w":"palustral","pos":"adjective","d":["Of or relating to marshes."]}
+{"w":"paly","pos":"adjective","d":["Pale; wan.","In heraldry, divided vertically into equal stripes."]}
+{"w":"pampano","pos":"noun","d":["A silvery food fish of warm western Atlantic waters, related to the pompano."]}
+{"w":"pampero","pos":"noun","d":["A cold, violent wind sweeping down from the Andes across the pampas of Argentina."]}
+{"w":"pamphlet","pos":"noun","d":["A small unbound booklet, usually treating a current topic or question."]}
+{"w":"pamphleteer","pos":"noun","d":["A writer of pamphlets, especially on political or controversial topics."]}
+{"w":"pampiniform","pos":"adjective","d":["Shaped like a tendril or vine; in anatomy, forming a vine-like network of veins."]}
+{"w":"pampre","pos":"noun","d":["A vine branch with leaves, used as an ornament in architecture and heraldry."]}
+{"w":"pamprodactylous","pos":"adjective","d":["Having all four toes pointing forward, as the foot of certain birds."]}
+{"w":"pan-","pos":"prefix","d":["A prefix meaning all, whole, or entire, as in panorama."]}
+{"w":"pan-american congress","pos":"phrase","d":["A congress of the republics of the Americas, convened to discuss matters of common interest."]}
+{"w":"panacea","pos":"noun","d":["A remedy claimed to cure all diseases; a universal cure."]}
+{"w":"panacean","pos":"adjective","d":["Having the nature of a panacea; curing all ills."]}
+{"w":"panada","pos":"noun","d":["Bread boiled to a soft pulp, served as food for invalids.","A paste of breadcrumbs used to thicken sauces."]}
+{"w":"panade","pos":"noun","d":["Bread boiled to a pulp; a thick paste of breadcrumbs used as food or thickening."]}
+{"w":"panama hat","pos":"phrase","d":["A lightweight brimmed hat woven from the fiber of the toquilla palm."]}
+{"w":"panamanian","pos":"noun","d":["A native or citizen of Panama."]}
+{"w":"panathenaea","pos":"noun","d":["The great national festival of ancient Athens, held in honor of Athena."]}
+{"w":"pance","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"panch","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pancratian","pos":"adjective","d":["Pertaining to the pancratium."]}
+{"w":"pancratiast","pos":"noun","d":["A contestant in the pancratium."]}
+{"w":"pancratic","pos":"adjective","d":["Of or relating to the pancratium."]}
+{"w":"pancratist","pos":"noun","d":["A contestant in the pancratium."]}
+{"w":"pancratium","pos":"noun","d":["An ancient Greek athletic contest combining wrestling and boxing.","A genus of bulbous plants with white fragrant flowers; the sea daffodils."]}
+{"w":"pancreas","pos":"noun","d":["A gland behind the stomach that secretes digestive juice and insulin."]}
+{"w":"pancy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"panda","pos":"noun","d":["A large black-and-white bearlike mammal of China that feeds chiefly on bamboo.","The smaller red panda of the Himalayas."]}
+{"w":"pandanus","pos":"noun","d":["A genus of tropical trees and shrubs with long spiny leaves; the screw pines."]}
+{"w":"pandar","pos":"noun","d":["A go-between in love affairs; a pimp."]}
+{"w":"pandect","pos":"noun","d":["A complete body of laws; especially the digest of Roman law compiled under Justinian.","A complete treatise on a subject."]}
+{"w":"pandemic","pos":"adjective","d":["Spread over a whole country, continent, or the world, as a disease.","A disease epidemic over a very wide area."]}
+{"w":"pandemonium","pos":"noun","d":["Wild uproar and confusion; a scene of noisy disorder.","In Milton's 'Paradise Lost', the capital of hell."]}
+{"w":"pander","pos":"verb","d":["To cater to the baser desires or prejudices of others."]}
+{"w":"pandiculated","pos":"adjective","d":["Stretched out, as the limbs are in yawning."]}
+{"w":"pandiculation","pos":"noun","d":["The act of stretching the limbs and yawning."]}
+{"w":"pandora","pos":"noun","d":["In Greek myth, the first woman, whose opened box released evils into the world.","A pear-shaped stringed instrument of the bandora family."]}
+{"w":"pandore","pos":"noun","d":["A bass stringed instrument of the lute family, related to the bandora."]}
+{"w":"pandurate","pos":"adjective","d":["Fiddle-shaped, as a leaf that is wide at the ends and narrow in the middle."]}
+{"w":"panduriform","pos":"adjective","d":["Fiddle-shaped, as certain leaves."]}
+{"w":"pane","pos":"noun","d":["A single sheet of glass set in a window, door, or frame."]}
+{"w":"panegyric","pos":"noun","d":["A speech or piece of writing in high praise of a person or thing."]}
+{"w":"panegyris","pos":"noun","d":["A general assembly of the people; especially a national festival of ancient Greece."]}
+{"w":"panegyrist","pos":"noun","d":["One who delivers a panegyric; a eulogist."]}
+{"w":"panegyrize","pos":"verb","d":["To praise in a panegyric; to eulogize."]}
+{"w":"panegyry","pos":"noun","d":["A speech or writing praising a person or thing."]}
+{"w":"paneulogism","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pang","pos":"noun","d":["A sudden sharp pain or spasm.","A sharp stab of feeling, as a pang of guilt."]}
+{"w":"pangolin","pos":"noun","d":["A toothless mammal of Africa and Asia covered in horny scales, feeding on ants and termites."]}
+{"w":"panhandle state","pos":"phrase","d":["An informal name for any U.S. state that has a long narrow extension of land, such as Oklahoma or West Virginia."]}
+{"w":"panhellenium","pos":"noun","d":["A council or assembly representing all the Greeks, especially the one founded at Athens by the Roman emperor Hadrian."]}
+{"w":"panic-stricken","pos":"adjective","d":["Seized by sudden intense fear or alarm."]}
+{"w":"panic-struck","pos":"adjective","d":["Struck or overcome with sudden panic."]}
+{"w":"panicle","pos":"noun","d":["A loose, branching cluster of flowers or fruit growing on short individual stalks."]}
+{"w":"paniculate","pos":"adjective","d":["Arranged in or bearing a panicle."]}
+{"w":"panicum","pos":"noun","d":["A large genus of grasses that includes several millets and pasture grasses."]}
+{"w":"panier","pos":"noun","d":["A basket of wicker or similar material, especially a large market basket."]}
+{"w":"panification","pos":"noun","d":["The conversion of grain or flour into bread; bread-making."]}
+{"w":"panim","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"panivorous","pos":"adjective","d":["Feeding on bread; bread-eating."]}
+{"w":"pannade","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pannage","pos":"noun","d":["The right or practice of feeding swine in a forest, especially on acorns and beech nuts."]}
+{"w":"pannary","pos":"adjective","d":["Relating to bread; made from bread."]}
+{"w":"panne","pos":"noun","d":["A velvety fabric with a flattened, glossy pile."]}
+{"w":"pannel","pos":"noun","d":["An obsolete variant spelling of panel, as in a wooden panel or a jury list."]}
+{"w":"pannier","pos":"noun","d":["A basket or bag carried in pairs on either side of a horse, mule, motorcycle, or bicycle."]}
+{"w":"pannikel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pannikin","pos":"noun","d":["A small metal drinking cup or pan."]}
+{"w":"pannus","pos":"noun","d":["A membrane of inflamed tissue that grows across the cornea.","An abnormal layer of tissue that forms over a joint surface in rheumatoid arthritis."]}
+{"w":"panoistic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"panomphean","pos":"adjective","d":["An epithet of Zeus meaning giver of all omens."]}
+{"w":"panoply","pos":"noun","d":["A complete suit of armor.","A splendid or impressive display or collection of things."]}
+{"w":"panopticon","pos":"noun","d":["A prison or building designed so that every cell or room can be watched from a single central point."]}
+{"w":"panorama","pos":"noun","d":["An unbroken wide view of the surrounding region in every direction."]}
+{"w":"panoramic","pos":"adjective","d":["Relating to or giving a wide, unobstructed view in all directions."]}
+{"w":"panorpian","pos":"adjective","d":["Of or relating to scorpionflies of the genus Panorpa."]}
+{"w":"panorpid","pos":"noun","d":["A scorpionfly of the family Panorpidae."]}
+{"w":"pansclavist","pos":"noun","d":["A supporter of the movement for political and cultural unity among Slavic peoples."]}
+{"w":"panshon","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"panslavist","pos":"noun","d":["An advocate of Panslavism, the movement for political and cultural unity among Slavic peoples."]}
+{"w":"pansophy","pos":"noun","d":["Universal knowledge or wisdom; a system claiming to contain all knowledge."]}
+{"w":"panspermatist","pos":"noun","d":["A believer in panspermy, the theory that life arrives on planets from elsewhere in space."]}
+{"w":"panspermy","pos":"noun","d":["The theory that life on earth came from microorganisms or spores carried through space."]}
+{"w":"panstereorama","pos":"noun","d":["A raised relief model showing an entire country or district in miniature."]}
+{"w":"pansy","pos":"noun","d":["A garden flower with flat, velvety petals, commonly in purple, yellow, and white.","A person regarded as weak or timid (a dated slang use)."]}
+{"w":"pant","pos":"verb","d":["To breathe quickly and heavily with an open mouth, as after running or in heat.","To long or yearn eagerly for something."]}
+{"w":"panta-","pos":"prefix","d":["A prefix meaning all or every, as in pantacosm."]}
+{"w":"pantacosm","pos":"noun","d":["The whole universe; the cosmos taken as one complete system."]}
+{"w":"pantagraph","pos":"noun","d":["An older spelling of pantograph, an instrument for copying a drawing at the same or a different scale."]}
+{"w":"pantagruelism","pos":"noun","d":["Coarse, earthy, good-humored mockery in the manner of Rabelais's giant Pantagruel."]}
+{"w":"pantalet","pos":"noun","d":["A woman's or girl's loose undergarment with long legs, worn in the 19th century."]}
+{"w":"pantaloon","pos":"noun","d":["Close-fitting trousers, or one leg of such trousers, as worn in the 18th and 19th centuries.","A stock character of a foolish old man in comedy and pantomime."]}
+{"w":"pantaloonery","pos":"noun","d":["The conduct or antics of a pantaloon; buffoonery."]}
+{"w":"pantamorph","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pantascope","pos":"noun","d":["A camera or optical instrument for taking or viewing panoramic pictures."]}
+{"w":"pantascopic","pos":"adjective","d":["Relating to a pantascope; giving a wide panoramic view."]}
+{"w":"pantastomata","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pantechnicon","pos":"noun","d":["A large warehouse for storing furniture.","A large van used for moving furniture."]}
+{"w":"pantheon","pos":"noun","d":["A temple or building dedicated to all the gods of a people.","The whole body of gods of a people, or the most celebrated figures of a nation or field."]}
+{"w":"pantheress","pos":"noun","d":["A female panther."]}
+{"w":"pantherine","pos":"adjective","d":["Resembling or relating to a panther."]}
+{"w":"pantingly","pos":"adverb","d":["With quick, heavy breathing; in a gasping manner."]}
+{"w":"pantisocracy","pos":"noun","d":["A proposed utopian community in which all members share equally in government."]}
+{"w":"pantisocrat","pos":"noun","d":["A member of a pantisocracy; a supporter of government shared equally by all."]}
+{"w":"pantler","pos":"noun","d":["An officer in charge of the pantry in a great household."]}
+{"w":"pantochronometer","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pantofle","pos":"noun","d":["A slipper."]}
+{"w":"pantograph","pos":"noun","d":["An instrument with jointed arms for copying a drawing or plan at the same or a different scale."]}
+{"w":"pantography","pos":"noun","d":["The use of the pantograph; copying or engraving by means of a pantograph."]}
+{"w":"pantological","pos":"adjective","d":["Relating to pantology, a claimed universal system of all knowledge."]}
+{"w":"pantologist","pos":"noun","d":["A person versed in pantology; one who claims knowledge of all things."]}
+{"w":"pantometer","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pantometry","pos":"noun","d":["The science or art of universal measurement."]}
+{"w":"pantomime","pos":"noun","d":["A play or entertainment told entirely through gestures and movement, without speech.","In Britain, a comic Christmas stage show based on a fairy tale."]}
+{"w":"pantomimic","pos":"adjective","d":["Relating to or performed in pantomime."]}
+{"w":"pantomimist","pos":"noun","d":["A performer of pantomime; a mime."]}
+{"w":"pantophagist","pos":"noun","d":["One who eats all kinds of food; an omnivorous eater."]}
+{"w":"pantophagous","pos":"adjective","d":["Eating all kinds of food; omnivorous."]}
+{"w":"pantophagy","pos":"noun","d":["The practice of eating all kinds of food."]}
+{"w":"pantopoda","pos":"noun","d":["An order of marine arthropods comprising the sea spiders."]}
+{"w":"pantoscopic","pos":"adjective","d":["Giving a view in all directions; relating to a pantoscope."]}
+{"w":"panurgic","pos":"adjective","d":["Skilled in all kinds of work; ready for any undertaking."]}
+{"w":"panurgy","pos":"noun","d":["Skill in all kinds of work; readiness for any undertaking."]}
+{"w":"panym","pos":"noun","d":["In Scots law, a pledge or pawn; something given as security."]}
+{"w":"paolo","pos":"noun","d":["A former silver coin of the Papal States."]}
+{"w":"pap","pos":"noun","d":["Soft, pulpy food, especially for babies or the sick.","A rounded breast or a rounded hill (an archaic use)."]}
+{"w":"papa","pos":"noun","d":["Father, as a child's word for father."]}
+{"w":"papacy","pos":"noun","d":["The office and authority of the pope; the system of papal government."]}
+{"w":"papain","pos":"noun","d":["A protein-digesting enzyme obtained from papaya, used to tenderize meat."]}
+{"w":"papalty","pos":"noun","d":["The papacy; the office, dignity, or system of the pope."]}
+{"w":"papaphobia","pos":"noun","d":["An intense fear or hatred of the pope or the papacy."]}
+{"w":"papaveraceous","pos":"adjective","d":["Belonging to the poppy family."]}
+{"w":"papaw","pos":"noun","d":["A tropical tree and its large melon-like fruit; another spelling of pawpaw."]}
+{"w":"pape","pos":"noun","d":["An obsolete or Scots spelling of pope."]}
+{"w":"papery","pos":"adjective","d":["Like paper in texture; thin and dry."]}
+{"w":"papess","pos":"noun","d":["A female pope, real or legendary; a woman exercising papal-like authority."]}
+{"w":"papeterie","pos":"noun","d":["A box of stationery; a writing case."]}
+{"w":"paphian","pos":"adjective","d":["Relating to Paphos, the Cyprian city sacred to Venus, or to love."]}
+{"w":"papier-mache","pos":"noun","d":["A moldable material made of paper pulp or layered paper with glue, used for crafts and models."]}
+{"w":"papilio","pos":"noun","d":["A genus of large butterflies, the swallowtails."]}
+{"w":"papilionaceous","pos":"adjective","d":["Shaped like a butterfly, as the blossoms of peas and beans."]}
+{"w":"papiliones","pos":"noun","d":["The plural of papilio; swallowtail butterflies."]}
+{"w":"papilionides","pos":"noun","d":["An older name for the swallowtail butterfly family."]}
+{"w":"papilla","pos":"noun","d":["A small nipple-like projection on the body, as on the tongue."]}
+{"w":"papillar","pos":"adjective","d":["Relating to or resembling a papilla."]}
+{"w":"papillary","pos":"adjective","d":["Like a papilla; covered with papillae."]}
+{"w":"papillate","pos":"adjective","d":["Having papillae; covered with small nipple-like projections."]}
+{"w":"papilliform","pos":"adjective","d":["Shaped like a papilla; nipple-shaped."]}
+{"w":"papilloma","pos":"noun","d":["A benign wart-like growth arising from skin or mucous membrane."]}
+{"w":"papillomatous","pos":"adjective","d":["Having or characterized by papillomas, which are wartlike growths of tissue."]}
+{"w":"papillose","pos":"adjective","d":["Covered with papillae, the tiny nipplelike projections found on skin, tongues, and plant surfaces."]}
+{"w":"papillote","pos":"noun","d":["A folded paper wrapper in which food is baked and served.","A small paper frill placed on the bone of a cooked chop or cutlet."]}
+{"w":"papillous","pos":"adjective","d":["Bearing papillae; covered with small rounded projections."]}
+{"w":"papillulate","pos":"verb","d":["To develop small nipplelike projections on a surface."]}
+{"w":"papistry","pos":"noun","d":["A hostile term for the doctrines, rites, and practices of the Roman Catholic Church."]}
+{"w":"papized","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"papoose","pos":"noun","d":["A Native American baby or young child, traditionally carried on the back in a sling or cradleboard.","A baby carrier worn on the back."]}
+{"w":"pappiform","pos":"adjective","d":["Shaped like pappus, the tuft of fine bristles crowning certain seeds."]}
+{"w":"pappoose","pos":"noun","d":["A variant spelling of papoose, a Native American infant carried on the back."]}
+{"w":"pappous","pos":"adjective","d":["Furnished with pappus; tufted with fine downy bristles like a dandelion seed."]}
+{"w":"pappy","pos":"adjective","d":["Soft and mushy like pap, the soft food given to infants.","A child's word for father."]}
+{"w":"paprica","pos":"noun","d":["A variant spelling of paprika, the red spice ground from dried peppers."]}
+{"w":"paprika","pos":"noun","d":["A red spice made from dried and ground sweet or mild peppers.","The pepper plant that yields this spice."]}
+{"w":"papuan","pos":"adjective","d":["Of or relating to Papua, the island of New Guinea, or its peoples.","A native or inhabitant of Papua."]}
+{"w":"papuars","pos":"noun","d":["The plural of Papuar; the native peoples of Papua."]}
+{"w":"papula","pos":"noun","d":["A small pimple or raised spot on the skin; a papule."]}
+{"w":"papular","pos":"adjective","d":["Relating to, or marked by, small pimples or papules."]}
+{"w":"papulose","pos":"adjective","d":["Covered with papules; pimply."]}
+{"w":"papulous","pos":"adjective","d":["Bearing papules; covered with small raised spots."]}
+{"w":"papyraceous","pos":"adjective","d":["Resembling paper in texture or thinness."]}
+{"w":"papyrean","pos":"adjective","d":["Of or resembling papyrus."]}
+{"w":"papyrine","pos":"noun","d":["A tough translucent material made by treating paper with acid, used as an imitation parchment."]}
+{"w":"papyrograph","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"papyrography","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"papyrus","pos":"noun","d":["A tall reedlike plant of the Nile valley.","Writing paper made by the ancient Egyptians from the pith of this plant.","A manuscript written on such paper."]}
+{"w":"paque","pos":"noun","d":["A cold or slighting reception; a snub."]}
+{"w":"para cress","pos":"phrase","d":["A tropical South American herb whose leaves numb the mouth when chewed, also called the toothache plant."]}
+{"w":"para grass","pos":"phrase","d":["A coarse tropical grass grown as pasture fodder for livestock."]}
+{"w":"para nut","pos":"phrase","d":["The Brazil nut, the large oily seed of a tall South American tree."]}
+{"w":"para rubber","pos":"phrase","d":["Natural rubber obtained from the Pará rubber tree of the Amazon region."]}
+{"w":"para-","pos":"prefix","d":["A prefix meaning beside, near, or alongside, as in parathyroid.","A prefix meaning beyond or auxiliary to, as in paranormal."]}
+{"w":"parabanic","pos":"adjective","d":["Of or relating to parabanic acid, a crystalline organic acid derived from urea compounds."]}
+{"w":"parabola","pos":"noun","d":["A U-shaped curve in which every point is equally distant from a fixed point and a fixed line.","A story with a moral lesson; a parable."]}
+{"w":"parabolic","pos":"adjective","d":["Having the shape of a parabola.","Expressed in or of the nature of a parable."]}
+{"w":"paraboliform","pos":"adjective","d":["Shaped like a parabola."]}
+{"w":"parabolism","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parabolist","pos":"noun","d":["A teller or writer of parables."]}
+{"w":"paraboloid","pos":"noun","d":["A three-dimensional curved surface formed by rotating a parabola around its axis."]}
+{"w":"parabronchium","pos":"noun","d":["One of the tiny air tubes in a bird's lung where oxygen passes into the blood."]}
+{"w":"paracelsian","pos":"adjective","d":["Of or relating to Paracelsus, the Swiss physician and alchemist, or his medical doctrines.","A follower of Paracelsus."]}
+{"w":"paracelsist","pos":"noun","d":["A follower of the medical and chemical teachings of Paracelsus."]}
+{"w":"paracentesis","pos":"noun","d":["The surgical puncture of a body cavity to draw off accumulated fluid."]}
+{"w":"parachronism","pos":"noun","d":["An error in dating; the assigning of an event to a wrong, usually later, date."]}
+{"w":"parachrose","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paraclete","pos":"noun","d":["An advocate, comforter, or intercessor.","A title given to the Holy Spirit."]}
+{"w":"paracmastic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paradactylum","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paradigm","pos":"noun","d":["A typical pattern or model of something.","The set of assumptions and methods shared by workers in a field of study."]}
+{"w":"paradigmatic","pos":"adjective","d":["Serving as a typical example or model of something."]}
+{"w":"paradigmatize","pos":"verb","d":["To set up as a model or typical example."]}
+{"w":"paradisaic","pos":"adjective","d":["Like paradise; blissfully delightful."]}
+{"w":"paradisal","pos":"adjective","d":["Of, belonging to, or resembling paradise."]}
+{"w":"paradisean","pos":"adjective","d":["Like paradise; heavenly and blissful."]}
+{"w":"paradisiac","pos":"adjective","d":["Of or like paradise; supremely delightful."]}
+{"w":"paradisial","pos":"adjective","d":["Resembling paradise; blissful."]}
+{"w":"paradisian","pos":"adjective","d":["Like paradise; heavenly.","An inhabitant of paradise."]}
+{"w":"paradisic","pos":"adjective","d":["Of paradise; blissful and heavenly."]}
+{"w":"parados","pos":"noun","d":["A bank of earth thrown up behind a trench to protect soldiers from fire from the rear.","A side entrance to the stage in an ancient Greek theater."]}
+{"w":"paradox","pos":"noun","d":["A statement that seems self-contradictory but may nevertheless be true.","A person or thing that exhibits contradictory qualities."]}
+{"w":"paraffin","pos":"noun","d":["A white waxy substance obtained from petroleum, used for candles and waterproofing.","In British usage, kerosene."]}
+{"w":"paragenic","pos":"adjective","d":["Relating to paragenesis, the order in which associated minerals form together in rock."]}
+{"w":"paragnath","pos":"noun","d":["In crustaceans, one of a pair of small mouthparts lying behind the mandibles."]}
+{"w":"paragnathus","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paragoge","pos":"noun","d":["The addition of a sound or syllable to the end of a word."]}
+{"w":"paragogic","pos":"adjective","d":["Relating to paragoge, the adding of a sound to the end of a word."]}
+{"w":"paragonite","pos":"noun","d":["A pale mica mineral, the sodium-rich counterpart of muscovite."]}
+{"w":"paragrandine","pos":"noun","d":["A screen or canopy set up to protect crops from hail."]}
+{"w":"paragrele","pos":"noun","d":["A device formerly erected in fields in the belief that it would ward off hail."]}
+{"w":"paraguay tea","pos":"phrase","d":["The dried leaves of the yerba maté plant, brewed as a stimulating tea in South America."]}
+{"w":"paraguayan","pos":"adjective","d":["Of or relating to Paraguay or its people.","A native or citizen of Paraguay."]}
+{"w":"parakeet","pos":"noun","d":["A small parrot with a long tail, often kept as a cage bird."]}
+{"w":"paraleipsis","pos":"noun","d":["The rhetorical device of emphasizing something by claiming to pass over it, as in 'not to mention'."]}
+{"w":"paralepsis","pos":"noun","d":["A variant spelling of paralipsis, emphasis by pretended omission."]}
+{"w":"paralgesia","pos":"noun","d":["An abnormal or perverted sense of pain."]}
+{"w":"paralian","pos":"adjective","d":["Living or situated by the sea; coastal.","A dweller on the coast."]}
+{"w":"paralipomenon","pos":"noun","d":["Something omitted from a work and supplied as a supplement.","The title given in the Latin Vulgate to the biblical books of Chronicles."]}
+{"w":"paralipsis","pos":"noun","d":["Emphasizing a point by pretending to omit it, as in 'to say nothing of'."]}
+{"w":"parallactic","pos":"adjective","d":["Relating to parallax, the apparent shift of an object viewed from different positions."]}
+{"w":"parallax","pos":"noun","d":["The apparent change in an object's position against a background when viewed from two different points."]}
+{"w":"parallel standards","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parallel sulcus","pos":"phrase","d":["A groove on the brain's temporal lobe that runs parallel to the lateral fissure."]}
+{"w":"parallel transformer","pos":"phrase","d":["An arrangement of two or more transformers wired to share the same supply and load."]}
+{"w":"parallel vise","pos":"phrase","d":["A vise whose jaws remain parallel to each other as they open and close."]}
+{"w":"parallelistic","pos":"adjective","d":["Characterized by parallelism; running side by side in matching form."]}
+{"w":"parallelogram","pos":"noun","d":["A four-sided flat figure with opposite sides parallel and equal."]}
+{"w":"parallelogrammatic","pos":"adjective","d":["Having the shape of a parallelogram."]}
+{"w":"parallelogrammic","pos":"adjective","d":["Shaped like a parallelogram."]}
+{"w":"parallelopiped","pos":"noun","d":["A solid with six faces, each face a parallelogram."]}
+{"w":"parallelopipedon","pos":"noun","d":["A solid bounded by six faces, each a parallelogram."]}
+{"w":"paralogism","pos":"noun","d":["A piece of faulty reasoning; a fallacious argument."]}
+{"w":"paralogize","pos":"verb","d":["To reason falsely; to draw a conclusion from faulty logic."]}
+{"w":"paralyse","pos":"verb","d":["To take away the power of movement or feeling from a person or part of the body.","The British spelling of paralyze."]}
+{"w":"paralytic","pos":"adjective","d":["Affected with paralysis; unable to move or feel.","A person affected with paralysis."]}
+{"w":"paralyzation","pos":"noun","d":["The act of paralyzing, or the state of being paralyzed."]}
+{"w":"paralyze","pos":"verb","d":["To deprive of the power to move or feel, as by injury or disease.","To render powerless or unable to act."]}
+{"w":"param","pos":"abbreviation","d":["Short for parameter."]}
+{"w":"paramatta","pos":"noun","d":["A light twilled fabric of wool mixed with cotton, formerly used for dresses."]}
+{"w":"paramento","pos":"noun","d":["The dressed outer face of a masonry wall."]}
+{"w":"paramiographer","pos":"noun","d":["A writer or collector of proverbs."]}
+{"w":"paramo","pos":"noun","d":["A high treeless grassland plateau in the Andes, with a cold wet climate."]}
+{"w":"paramorph","pos":"noun","d":["A crystal that has changed its internal structure while keeping the outward form of the mineral it developed from."]}
+{"w":"paramylum","pos":"noun","d":["A starch-like carbohydrate stored as food by certain microscopic algae, such as euglena."]}
+{"w":"paranoia","pos":"noun","d":["A mental condition marked by delusions of being persecuted or by intense irrational suspicion.","An instance of such unreasonable suspicion or fear."]}
+{"w":"paranoiac","pos":"adjective","d":["Relating to or showing paranoia."]}
+{"w":"paraph","pos":"noun","d":["A flourish or extra stroke added to a written signature."]}
+{"w":"parapherna","pos":"noun","d":["Property a married woman held apart from her dowry under Roman and old law."]}
+{"w":"paraphernal","pos":"adjective","d":["Relating to a wife's property held apart from her dowry."]}
+{"w":"paraphernalia","pos":"noun","d":["Miscellaneous articles or equipment needed for a particular activity."]}
+{"w":"paraphragma","pos":"noun","d":["An internal ridge of an insect's thorax that serves as an attachment for muscles."]}
+{"w":"paraphrasian","pos":"noun","d":["A person who paraphrases; a paraphrast."]}
+{"w":"paraphrast","pos":"noun","d":["A person who restates a text in different words."]}
+{"w":"paraphysis","pos":"noun","d":["A sterile hairlike filament growing among the spore-producing cells of fungi, mosses, or algae."]}
+{"w":"paraplegia","pos":"noun","d":["Paralysis of the legs and usually the lower part of the body."]}
+{"w":"paraplegy","pos":"noun","d":["Paralysis of the lower half of the body."]}
+{"w":"parapterum","pos":"noun","d":["A small scale or plate at the base of an insect's wing."]}
+{"w":"paraquito","pos":"noun","d":["A small parrot; a parakeet."]}
+{"w":"parascenium","pos":"noun","d":["One of the side rooms behind the stage in an ancient Roman theater."]}
+{"w":"parasceve","pos":"noun","d":["The day of preparation before a Sabbath or religious festival."]}
+{"w":"paraselene","pos":"noun","d":["A bright spot appearing beside the moon, caused by moonlight passing through ice crystals."]}
+{"w":"parashoth","pos":"noun","d":["The weekly sections of the Torah read in synagogue worship; plural of parasha."]}
+{"w":"parasita","pos":"noun","d":["An organism that lives on or in another organism; a parasite."]}
+{"w":"parasital","pos":"adjective","d":["Relating to or caused by parasites."]}
+{"w":"parasitic","pos":"adjective","d":["Living on or in another organism and drawing nourishment from it.","Depending on others for support, like a parasite."]}
+{"w":"parasitism","pos":"noun","d":["The relationship in which one organism lives on or in another and benefits at the other's expense."]}
+{"w":"parastichy","pos":"noun","d":["The spiral arrangement of leaves or other organs around a plant stem."]}
+{"w":"parathetic","pos":"adjective","d":["Placed side by side, as clauses joined without a connecting word."]}
+{"w":"paratonnerre","pos":"noun","d":["A lightning rod."]}
+{"w":"parauque","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parcae","pos":"noun","d":["The three goddesses of fate in Roman mythology."]}
+{"w":"parcel post","pos":"phrase","d":["A postal service for sending packages and parcels."]}
+{"w":"parcel-mele","pos":"adverb","d":["In parcels or small portions; piecemeal."]}
+{"w":"parcenary","pos":"noun","d":["Joint inheritance of an estate by two or more heirs."]}
+{"w":"parcener","pos":"noun","d":["A person who shares an inheritance jointly with others."]}
+{"w":"parch","pos":"verb","d":["To dry out or shrivel with intense heat.","To become dry and hot."]}
+{"w":"parchedness","pos":"noun","d":["The state of being extremely dry or thirsty."]}
+{"w":"parcheesi","pos":"noun","d":["A board game in which players move pieces around a cross-shaped board according to throws of dice."]}
+{"w":"parchesi","pos":"noun","d":["A variant spelling of parcheesi."]}
+{"w":"parchisi","pos":"noun","d":["A variant spelling of parcheesi."]}
+{"w":"pard","pos":"noun","d":["An old name for the leopard.","A partner or friend; short for pardner."]}
+{"w":"parde","pos":"interjection","d":["An old mild oath meaning 'by God,' from the French par Dieu."]}
+{"w":"pardo","pos":"noun","d":["In colonial Latin America, a person of mixed racial ancestry.","A grayish brown color."]}
+{"w":"pare","pos":"verb","d":["To trim off the outer edge or skin of something with a knife.","To reduce gradually, as expenses."]}
+{"w":"paregoric","pos":"noun","d":["A soothing medicine, formerly a tincture of opium used to relieve coughs and diarrhea."]}
+{"w":"parelcon","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parelectronomic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parelectronomy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parella","pos":"noun","d":["A lichen that yields a red or purple dye."]}
+{"w":"parelle","pos":"noun","d":["A red or purple dye obtained from certain lichens."]}
+{"w":"parembole","pos":"noun","d":["In rhetoric, the insertion of a related remark or clause within a sentence."]}
+{"w":"paremptosis","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parenchymal","pos":"adjective","d":["Relating to the parenchyma, the functional tissue of an organ."]}
+{"w":"parenchymatous","pos":"adjective","d":["Composed of or resembling parenchyma."]}
+{"w":"parenchymous","pos":"adjective","d":["Consisting of parenchyma tissue."]}
+{"w":"parenesis","pos":"noun","d":["Earnest advice or moral exhortation."]}
+{"w":"parenetic","pos":"adjective","d":["Giving earnest advice; exhortatory."]}
+{"w":"parenetioal","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parentele","pos":"noun","d":["Kinship; the body of a person's relatives."]}
+{"w":"parenthesis","pos":"noun","d":["A word, clause, or sentence inserted into a passage as an explanation or aside.","Either of a pair of curved marks ( ) used to enclose such an insertion."]}
+{"w":"parenthesize","pos":"verb","d":["To insert or enclose within parentheses."]}
+{"w":"parenticide","pos":"noun","d":["The killing of one's parent."]}
+{"w":"parergy","pos":"noun","d":["Secondary work done alongside one's main occupation."]}
+{"w":"parforn","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parfourn","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pargasite","pos":"noun","d":["A greenish mineral of the amphibole group, first found near Pargas, Finland."]}
+{"w":"pargeboard","pos":"noun","d":["A board covering the projecting edge of a gable roof; a bargeboard."]}
+{"w":"parhelic","pos":"adjective","d":["Relating to a parhelion, or mock sun."]}
+{"w":"parhelion","pos":"noun","d":["A bright spot appearing beside the sun, caused by sunlight passing through ice crystals; a mock sun."]}
+{"w":"pari-","pos":"prefix","d":["A prefix meaning equal, as in paripinnate."]}
+{"w":"pariah","pos":"noun","d":["A person rejected or despised by society; an outcast.","A member of a low social caste in southern India."]}
+{"w":"parian","pos":"noun","d":["A fine white porcelain resembling Parian marble.","A native or inhabitant of Paros."]}
+{"w":"paridigitata","pos":"noun","d":["Hoofed mammals having an even number of toes on each foot."]}
+{"w":"paridigitate","pos":"adjective","d":["Having an even number of digits or toes on each foot."]}
+{"w":"paries","pos":"noun","d":["The wall of a body cavity or hollow organ."]}
+{"w":"parietal","pos":"adjective","d":["Relating to the wall of a body cavity or hollow organ.","Relating to the parietal bones of the skull.","Attached to the inner wall of an ovary, as certain ovules."]}
+{"w":"parietary","pos":"adjective","d":["Growing on walls, as certain plants; relating to a cavity wall."]}
+{"w":"parietes","pos":"noun","d":["The walls of a body cavity or hollow organ; plural of paries."]}
+{"w":"parietic","pos":"adjective","d":["Relating to or forming the wall of a body cavity."]}
+{"w":"parietine","pos":"noun","d":["An orange-yellow pigment found in certain lichens."]}
+{"w":"parieto-","pos":"prefix","d":["A prefix referring to the parietal bone or the wall of a body cavity, as in parieto-occipital."]}
+{"w":"parigenin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parillin","pos":"noun","d":["A bitter crystalline substance obtained from sarsaparilla root."]}
+{"w":"paripinnate","pos":"adjective","d":["Having leaflets in pairs along the stalk with no single leaflet at the tip."]}
+{"w":"parishional","pos":"adjective","d":["Relating to or belonging to a parish."]}
+{"w":"parishioner","pos":"noun","d":["A member of a parish church congregation."]}
+{"w":"parisian","pos":"adjective","d":["Relating to Paris, France, or its people."]}
+{"w":"parisienne","pos":"noun","d":["A woman of Paris; a female Parisian."]}
+{"w":"parisyllabic","pos":"adjective","d":["Having the same number of syllables in all inflected forms, as certain Latin nouns."]}
+{"w":"paritor","pos":"noun","d":["A minor official who summons people or keeps order, as a university beadle."]}
+{"w":"paritory","pos":"noun","d":["A room for receiving visitors, especially in a convent or college."]}
+{"w":"parka","pos":"noun","d":["A heavy hooded jacket or coat worn in cold weather."]}
+{"w":"parkeria","pos":"noun","d":["A genus of large spherical fossil foraminifera."]}
+{"w":"parkesine","pos":"noun","d":["An early plastic made from nitrocellulose, a forerunner of celluloid."]}
+{"w":"parlando","pos":"adverb","d":["In music, in a style resembling speech rather than full singing."]}
+{"w":"parlante","pos":"adjective","d":["Speaking or expressive, especially of heraldic arms that pun on the bearer's name."]}
+{"w":"parle","pos":"noun","d":["Conversation to arrange terms, especially between enemies; a parley."]}
+{"w":"parliamentarily","pos":"adverb","d":["In a manner conforming to parliamentary procedure."]}
+{"w":"parlor","pos":"noun","d":["A room in a house used for sitting and receiving guests.","A room or establishment for a particular business, as a funeral parlor."]}
+{"w":"parlor match","pos":"phrase","d":["A small match intended for indoor use."]}
+{"w":"parlous","pos":"adjective","d":["Dangerous or risky.","Archaic: clever or shrewd."]}
+{"w":"parmesan","pos":"noun","d":["A hard Italian cheese with a sharp flavor, often grated over food."]}
+{"w":"parnassia","pos":"noun","d":["A genus of small white-flowered marsh plants known as grass of Parnassus."]}
+{"w":"parnassian","pos":"adjective","d":["Relating to Mount Parnassus or to classical poetry.","A follower of the 19th-century Parnassian school of French poets."]}
+{"w":"parnassien","pos":"adjective","d":["A variant form of Parnassian, relating to Mount Parnassus or classical poetry."]}
+{"w":"parnassus","pos":"noun","d":["A mountain in central Greece sacred in myth to Apollo and the Muses, symbolizing poetry and the arts."]}
+{"w":"parnellism","pos":"noun","d":["The political principles of Charles Stewart Parnell, the 19th-century Irish nationalist leader."]}
+{"w":"parnellite","pos":"noun","d":["A supporter of Charles Stewart Parnell or his political principles."]}
+{"w":"parochial","pos":"adjective","d":["Relating to a church parish.","Narrow or limited in outlook, as if confined to one small locality."]}
+{"w":"parochian","pos":"noun","d":["A member of a parish; a parishioner."]}
+{"w":"parody","pos":"noun","d":["A comic or satirical imitation of a serious work.","A poor or feeble imitation of something."]}
+{"w":"paroket","pos":"noun","d":["A variant spelling of parakeet, a small long-tailed parrot."]}
+{"w":"parol","pos":"adjective","d":["Given by word of mouth rather than in writing, especially of legal evidence or agreements."]}
+{"w":"parole","pos":"noun","d":["The conditional release of a prisoner before the full sentence is served.","A word of honor given, especially by a prisoner of war."]}
+{"w":"paromology","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paronomasia","pos":"noun","d":["A play on words; the humorous use of words with similar sounds but different meanings."]}
+{"w":"paronomasy","pos":"noun","d":["A less common form of paronomasia; a play on words."]}
+{"w":"paronym","pos":"noun","d":["A word derived from the same root as another, as English 'father' from Latin 'pater'.","A word easily confused with another similar-sounding word."]}
+{"w":"paronymy","pos":"noun","d":["The relationship between paronyms; derivation of words from a common source."]}
+{"w":"parooephoron","pos":"noun","d":["A small vestigial body near the ovary, a remnant of the embryonic excretory system."]}
+{"w":"paroophoron","pos":"noun","d":["A small vestigial body near the ovary, a remnant of the embryonic excretory system."]}
+{"w":"paroquet","pos":"noun","d":["A variant spelling of parakeet, a small long-tailed parrot."]}
+{"w":"parostotic","pos":"adjective","d":["Situated beside or near a bone."]}
+{"w":"parotid","pos":"noun","d":["The large salivary gland situated in front of and below the ear."]}
+{"w":"parotoid","pos":"adjective","d":["Resembling the parotid gland, especially of the poison glands behind a toad's eyes."]}
+{"w":"parousia","pos":"noun","d":["In Christian theology, the Second Coming of Christ."]}
+{"w":"paroxysm","pos":"noun","d":["A sudden violent outburst of emotion or action.","A sudden fit or spasm, as of coughing or laughter."]}
+{"w":"parquet circle","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parquetry","pos":"noun","d":["Decorative wood flooring made of small pieces fitted together in geometric patterns."]}
+{"w":"parquette","pos":"noun","d":["A small square of parquet flooring."]}
+{"w":"parr","pos":"noun","d":["A young salmon in the stage before it migrates to the sea."]}
+{"w":"parrakeet","pos":"noun","d":["A variant spelling of parakeet, a small long-tailed parrot."]}
+{"w":"parrel","pos":"noun","d":["A band or collar of rope that fastens a sail's yard to the mast while allowing it to slide."]}
+{"w":"parrhesia","pos":"noun","d":["In rhetoric, bold and frank speech; speaking candidly without reserve."]}
+{"w":"parricidal","pos":"adjective","d":["Relating to or guilty of parricide."]}
+{"w":"parricide","pos":"noun","d":["The killing of one's parent or other close relative.","A person who kills a parent or close relative."]}
+{"w":"parricidious","pos":"adjective","d":["Guilty of parricide; relating to the murder of a parent."]}
+{"w":"parrotry","pos":"noun","d":["Mechanical repetition of words without understanding, like a parrot."]}
+{"w":"parry","pos":"verb","d":["To ward off or deflect a blow or attack.","To evade a question or argument with a clever answer."]}
+{"w":"parse","pos":"verb","d":["To analyze a sentence into its grammatical parts.","To break data or code into its component parts for processing."]}
+{"w":"partenope","pos":"noun","d":["In Greek myth, a siren whose name was given to the city of Naples.","An ancient name for the city of Naples, Italy."]}
+{"w":"parterre","pos":"noun","d":["An ornamental garden with flower beds arranged in a decorative pattern.","The ground-floor seating area of a theater."]}
+{"w":"partheniad","pos":"noun","d":["A poem about or in honor of a virgin or maiden."]}
+{"w":"parthenic","pos":"adjective","d":["Relating to a virgin or to maidenhood."]}
+{"w":"parthenogenetic","pos":"adjective","d":["Relating to parthenogenesis, reproduction from an egg without fertilization."]}
+{"w":"parthenogenitive","pos":"adjective","d":["Relating to or producing parthenogenesis."]}
+{"w":"parthenon","pos":"noun","d":["The ancient temple of Athena on the Acropolis at Athens, Greece."]}
+{"w":"parthenope","pos":"noun","d":["A variant spelling of Partenope, the siren of Greek myth who gave her name to Naples."]}
+{"w":"parthian","pos":"adjective","d":["Relating to Parthia, an ancient empire in the Near East.","Delivered while retreating, as in a Parthian shot."]}
+{"w":"parti-colored","pos":"adjective","d":["Colored in patches or different parts with different colors."]}
+{"w":"partibility","pos":"noun","d":["The quality of being partible, or capable of being divided."]}
+{"w":"participable","pos":"adjective","d":["Capable of being shared in or participated in."]}
+{"w":"participative","pos":"adjective","d":["Involving or characterized by participation."]}
+{"w":"participator","pos":"noun","d":["A person who takes part in something; a participant."]}
+{"w":"participial","pos":"adjective","d":["Relating to or formed from a participle."]}
+{"w":"participle","pos":"noun","d":["A verb form used as an adjective or noun, as 'running' in 'running water'."]}
+{"w":"particolored","pos":"adjective","d":["Colored in patches or different parts with different colors."]}
+{"w":"particularization","pos":"noun","d":["The act of making something particular by specifying details."]}
+{"w":"particulate","pos":"adjective","d":["Consisting of minute separate particles."]}
+{"w":"partisan","pos":"noun","d":["A strong and often uncritical supporter of a party, cause, or person.","A member of an armed group fighting secretly against an occupying force."]}
+{"w":"partita","pos":"noun","d":["In music, a set of variations or an instrumental suite, especially for solo violin or keyboard."]}
+{"w":"partite","pos":"adjective","d":["In botany, divided nearly to the base, as of a leaf."]}
+{"w":"partitive","pos":"adjective","d":["In grammar, denoting a part of a whole, as 'some of the apples'."]}
+{"w":"parturiate","pos":"verb","d":["To be in labor; to give birth."]}
+{"w":"parturiency","pos":"noun","d":["The state of being in labor; the process of childbirth."]}
+{"w":"parturient","pos":"adjective","d":["About to give birth; in labor."]}
+{"w":"parturifacient","pos":"adjective","d":["Tending to induce labor or childbirth."]}
+{"w":"parturious","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"parturition","pos":"noun","d":["The act or process of giving birth."]}
+{"w":"parturitive","pos":"adjective","d":["Relating to childbirth or parturition."]}
+{"w":"party-coated","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"party-colored","pos":"adjective","d":["Colored in patches or different parts with different colors."]}
+{"w":"parusia","pos":"noun","d":["A variant spelling of parousia, the Second Coming of Christ."]}
+{"w":"parvanimity","pos":"noun","d":["Smallness of mind; narrowness or pettiness of spirit."]}
+{"w":"parvenu","pos":"noun","d":["A person newly risen to wealth or status.","Such a person regarded as lacking the manners of the established class."]}
+{"w":"parvitude","pos":"noun","d":["Smallness; littleness in size or degree."]}
+{"w":"parvity","pos":"noun","d":["Smallness; the state of being little."]}
+{"w":"parvolin","pos":"noun","d":["A basic organic compound of the pyridine series found in coal tar."]}
+{"w":"parvoline","pos":"noun","d":["A basic organic compound of the pyridine series found in coal tar."]}
+{"w":"pasan","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pasch","pos":"noun","d":["The Jewish Passover or the Christian Easter, especially in early church usage."]}
+{"w":"paseng","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pash","pos":"noun","d":["A romantic infatuation or crush.","In slang, the head."]}
+{"w":"pasha","pos":"noun","d":["A former Turkish title of high civil or military rank."]}
+{"w":"pashalic","pos":"noun","d":["The office or jurisdiction of a pasha."]}
+{"w":"pasigraphic","pos":"adjective","d":["Relating to pasigraphy, a proposed universal system of writing."]}
+{"w":"pasigraphy","pos":"noun","d":["A proposed system of writing using symbols intelligible to all nations regardless of language."]}
+{"w":"pasilaly","pos":"adjective","d":["Relating to the ability to speak or express all languages."]}
+{"w":"pask","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"paspy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"pasquil","pos":"noun","d":["A satirical lampoon or pasquinade posted in a public place."]}
+{"w":"pasquinade","pos":"noun","d":["A satirical writing or caricature posted in a public place to mock someone."]}
+{"w":"pass-key","pos":"noun","d":["A master key that opens many different locks.","A password or code granting access."]}
+{"w":"pass-parole","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"passacaglia","pos":"noun","d":["A slow solemn dance in triple time built on variations over a repeated bass theme."]}
+{"w":"passacaglio","pos":"noun","d":["A variant form of passacaglia, a slow dance with variations over a ground bass."]}
+{"w":"passade","pos":"noun","d":["A forward thrust or lunge in fencing.","A turning movement of a trained horse."]}
+{"w":"passe","pos":"adjective","d":["No longer fashionable or in one's prime; out of date."]}
+{"w":"passe partout","pos":"phrase","d":["A master key that opens many locks.","A mat or border used in framing pictures."]}
+{"w":"passegarde","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"passementerie","pos":"noun","d":["Decorative trimming such as braid, cord, or tassels used on clothing or furnishings."]}

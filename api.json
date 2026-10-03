@@ -42,10 +42,10 @@
   "raw_example": "https://raw.githubusercontent.com/justinahiggins614-cmyk/jah-dictionary/master/data/index/dict.idx.json.gz",
   "sitemap": "https://justinahiggins614-cmyk.github.io/jah-dictionary/sitemap-index.xml",
   "schema_version": "1.1",
-  "catalog_revision": 2,
-  "generated_at": "2026-10-03T08:38:28+00:00",
-  "defined": 77174,
-  "defined_authored": 35818,
+  "catalog_revision": 3,
+  "generated_at": "2026-10-03T08:53:59+00:00",
+  "defined": 77974,
+  "defined_authored": 36618,
   "defined_template": 41356,
-  "pending_definitions": 25044
+  "pending_definitions": 24244
 }

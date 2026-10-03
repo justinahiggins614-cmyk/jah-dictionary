@@ -31199,3 +31199,803 @@
 {"w": "minoress", "pos": "noun", "d": ["A Franciscan nun of the order of Poor Clares."]}
 {"w": "minorite", "pos": "noun", "d": ["A Franciscan friar."]}
 {"w": "minos", "pos": "noun", "d": ["A legendary king of Crete in Greek mythology."]}
+{"w":"minotaur","pos":"noun","d":["A bull-headed monster of Greek legend that lived in the labyrinth of Crete."]}
+{"w":"minow","pos":"noun","d":["A very small freshwater fish."]}
+{"w":"minster","pos":"noun","d":["A large and important church, especially a cathedral."]}
+{"w":"minstrel","pos":"noun","d":["A traveling singer and poet of medieval times."]}
+{"w":"minstrelsy","pos":"noun","d":["The songs, music, and performances of medieval minstrels.","A popular stage entertainment of comic songs and dances performed in blackface."]}
+{"w":"mint sauce","pos":"phrase","d":["A sauce of chopped mint mixed with vinegar, served with lamb."]}
+{"w":"mint-master","pos":"noun","d":["The official in charge of a mint where coins are made."]}
+{"w":"minuend","pos":"noun","d":["The number from which another number is to be subtracted."]}
+{"w":"minuet","pos":"noun","d":["A slow, graceful dance in triple time popular in the 1700s."]}
+{"w":"minum","pos":"noun","d":["An old musical term for a half note."]}
+{"w":"minuscule","pos":"adjective","d":["Extremely small in size."]}
+{"w":"minutary","pos":"adjective","d":["Happening or recorded minute by minute."]}
+{"w":"minute-jack","pos":"noun","d":["A small figure on a clock that strikes to mark the time."]}
+{"w":"minutia","pos":"noun","d":["A very small or unimportant detail."]}
+{"w":"minx","pos":"noun","d":["A bold and playful young woman, often regarded as impudent."]}
+{"w":"miny","pos":"adjective","d":["Full of mines; like a mine."]}
+{"w":"minyan","pos":"noun","d":["The quorum of ten adult men required for Jewish communal worship."]}
+{"w":"miocene","pos":"noun","d":["The geologic epoch from about 23 million to 5 million years ago."]}
+{"w":"miohippus","pos":"noun","d":["An extinct genus of small horse-like mammals of the Oligocene and Miocene epochs."]}
+{"w":"miquelet","pos":"noun","d":["A type of flintlock musket once used in Spain, or a soldier armed with one."]}
+{"w":"mir","pos":"noun","d":["A traditional Russian peasant commune that held land in common."]}
+{"w":"mira","pos":"noun","d":["A famous variable star in the constellation Cetus whose brightness changes over about eleven months."]}
+{"w":"mirabilary","pos":"adjective","d":["Wonderful or marvelous; worthy of admiration."]}
+{"w":"mirabilis","pos":"noun","d":["A genus of flowering plants that includes the four-o'clock."]}
+{"w":"mirabilite","pos":"noun","d":["A soft mineral made of sodium sulfate combined with water."]}
+{"w":"miraculize","pos":"verb","d":["To make miraculous; to work miracles upon."]}
+{"w":"miraculous","pos":"adjective","d":["So extraordinary as to seem like a miracle."]}
+{"w":"mire","pos":"noun","d":["Deep, soft mud that traps whatever steps into it.","A difficult situation that is hard to escape."]}
+{"w":"mirific","pos":"adjective","d":["Causing wonder; marvelous."]}
+{"w":"miriness","pos":"noun","d":["The quality of being miry; muddiness."]}
+{"w":"mirk","pos":"noun","d":["Darkness; gloom."]}
+{"w":"mirky","pos":"adjective","d":["Dark and gloomy."]}
+{"w":"mirliton","pos":"noun","d":["A simple musical toy that buzzes when hummed into."]}
+{"w":"mirth","pos":"noun","d":["Joyful laughter; merriment."]}
+{"w":"miry","pos":"adjective","d":["Full of mire; muddy and soft."]}
+{"w":"miryachit","pos":"noun","d":["A nervous disorder in which a person uncontrollably imitates the movements and speech of others."]}
+{"w":"mirza","pos":"noun","d":["A Persian title of honor given to princes and learned men."]}
+{"w":"mis","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"mis-","pos":"prefix","d":["A prefix meaning 'wrongly,' 'badly,' or 'not,' as in mislead and misfire."]}
+{"w":"misaimed","pos":"adjective","d":["Aimed wrongly; not directed at the right target."]}
+{"w":"misanthrope","pos":"noun","d":["A person who dislikes and distrusts other people."]}
+{"w":"misanthropist","pos":"noun","d":["A person who hates humankind."]}
+{"w":"misanthropos","pos":"noun","d":["A hater of humankind; a misanthrope."]}
+{"w":"misanthropy","pos":"noun","d":["Hatred or distrust of humankind."]}
+{"w":"misappreciated","pos":"adjective","d":["Judged or valued incorrectly; not properly appreciated."]}
+{"w":"misavize","pos":"verb","d":["To give wrong advice to."]}
+{"w":"misbileve","pos":"noun","d":["A false or mistaken belief."]}
+{"w":"misboden","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"miscegenation","pos":"noun","d":["Marriage or sexual relations between people of different races."]}
+{"w":"miscellanarian","pos":"noun","d":["A writer or compiler of miscellaneous pieces."]}
+{"w":"miscellane","pos":"noun","d":["A mixture of various things; a miscellany."]}
+{"w":"miscellanea","pos":"noun","d":["A collection of miscellaneous writings or objects."]}
+{"w":"miscellanist","pos":"noun","d":["A writer of miscellaneous pieces."]}
+{"w":"miscellany","pos":"noun","d":["A collection of various writings or items."]}
+{"w":"mischief-maker","pos":"noun","d":["A person who causes mischief or trouble."]}
+{"w":"mischief-making","pos":"noun","d":["The act of causing mischief; troublemaking."]}
+{"w":"mischievous","pos":"adjective","d":["Causing trouble or harm, often in a playful way."]}
+{"w":"mischna","pos":"noun","d":["A variant spelling of Mishnah, the collection of Jewish oral law."]}
+{"w":"mischnic","pos":"adjective","d":["Relating to the Mishnah."]}
+{"w":"miscibility","pos":"noun","d":["The ability of liquids to mix together."]}
+{"w":"miscible","pos":"adjective","d":["Capable of being mixed together, especially of liquids."]}
+{"w":"miscreancy","pos":"noun","d":["Wicked or villainous conduct."]}
+{"w":"misdempt","pos":"adjective","d":["Judged or believed wrongly; misjudged."]}
+{"w":"misdo","pos":"verb","d":["To do wrong; to commit an offense."]}
+{"w":"mise","pos":"noun","d":["An agreement settling a dispute.","A fixed charge or tax."]}
+{"w":"misericorde","pos":"noun","d":["A slender dagger for giving a final merciful stroke to a fallen foe.","A hinged seat in a church choir that supports a person while standing."]}
+{"w":"misericordia","pos":"noun","d":["Mercy or compassion; in a monastery, a room where the strict rule was relaxed."]}
+{"w":"misery","pos":"noun","d":["Great unhappiness or suffering."]}
+{"w":"misfeasance","pos":"noun","d":["The wrongful or improper doing of a lawful act."]}
+{"w":"misgo","pos":"verb","d":["To go wrong; to go astray."]}
+{"w":"mishcup","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"mishmash","pos":"noun","d":["A confused mixture; a jumble."]}
+{"w":"mishna","pos":"noun","d":["The written collection of Jewish oral law compiled about 1,800 years ago."]}
+{"w":"mishnic","pos":"adjective","d":["Of or relating to the Mishnah."]}
+{"w":"misle","pos":"noun","d":["A very fine rain; a drizzle."]}
+{"w":"mislen","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"misnomer","pos":"noun","d":["A name wrongly or unsuitably applied to something."]}
+{"w":"misogamist","pos":"noun","d":["A person who hates marriage."]}
+{"w":"misogamy","pos":"noun","d":["Hatred of marriage."]}
+{"w":"misogynist","pos":"noun","d":["A person who hates women."]}
+{"w":"misogynous","pos":"adjective","d":["Hating women."]}
+{"w":"misogyny","pos":"noun","d":["Hatred of women."]}
+{"w":"misotheism","pos":"noun","d":["Hatred of God."]}
+{"w":"mispense","pos":"verb","d":["To spend wrongly; to waste."]}
+{"w":"mispickel","pos":"noun","d":["A silvery mineral made of iron, arsenic, and sulfur."]}
+{"w":"misprision","pos":"noun","d":["The failure of a public official to perform a duty.","The concealment of knowledge of a crime."]}
+{"w":"missa","pos":"noun","d":["The Mass, the principal service of the Roman Catholic Church."]}
+{"w":"missel","pos":"noun","d":["A book of the prayers and services of the Mass; a missal.","The missel thrush, a bird that feeds on mistletoe berries."]}
+{"w":"misshapen","pos":"adjective","d":["Badly shaped; deformed."]}
+{"w":"missificate","pos":"verb","d":["To celebrate or perform the Mass."]}
+{"w":"misspense","pos":"verb","d":["To spend wastefully or wrongly."]}
+{"w":"missy","pos":"noun","d":["A young girl; a familiar term of address for a young woman."]}
+{"w":"mist","pos":"noun","d":["A cloud of tiny water droplets suspended in the air near the ground.","A thin film that dims a surface, as on glass."]}
+{"w":"mistery","pos":"noun","d":["A craft, trade, or art.","An old form of the word mystery."]}
+{"w":"mistico","pos":"noun","d":["A small sailing vessel of the Mediterranean with two or three masts."]}
+{"w":"mistigri","pos":"noun","d":["A card game in which the player left holding the jack of clubs loses."]}
+{"w":"mistihead","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"mistily","pos":"adverb","d":["In a misty manner; dimly."]}
+{"w":"mistiness","pos":"noun","d":["The quality of being misty."]}
+{"w":"mistle","pos":"noun","d":["A fine rain; a drizzle."]}
+{"w":"mistonusk","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"mistral","pos":"noun","d":["A strong, cold northwesterly wind of southern France."]}
+{"w":"mistrustingly","pos":"adverb","d":["In a mistrustful manner; with suspicion."]}
+{"w":"mistura","pos":"noun","d":["A mixture, especially of medicinal ingredients."]}
+{"w":"misty","pos":"adjective","d":["Full of mist; dim or blurred."]}
+{"w":"misurato","pos":"adverb","d":["In music, played in strict measured time."]}
+{"w":"misy","pos":"noun","d":["A yellowish mineral made of iron sulfate."]}
+{"w":"mite","pos":"noun","d":["A very small arachnid, often parasitic.","A very small sum or quantity."]}
+{"w":"mithgarthr","pos":"noun","d":["In Norse mythology, the earth as the dwelling place of humans; Midgard."]}
+{"w":"mithic","pos":"adjective","d":["Of or relating to myths; mythical."]}
+{"w":"mithras","pos":"noun","d":["An ancient Persian god of light, later worshiped across the Roman Empire."]}
+{"w":"mithridate","pos":"noun","d":["A supposed universal antidote against poison, named for King Mithridates."]}
+{"w":"mithridatic","pos":"adjective","d":["Relating to mithridate or to King Mithridates."]}
+{"w":"mitigable","pos":"adjective","d":["Capable of being lessened or softened."]}
+{"w":"mitigant","pos":"noun","d":["Something that lessens or softens."]}
+{"w":"mitigate","pos":"verb","d":["To make less severe or painful."]}
+{"w":"mitigation","pos":"noun","d":["The act of making something less severe."]}
+{"w":"mitigative","pos":"adjective","d":["Tending to lessen; softening."]}
+{"w":"mitigator","pos":"noun","d":["One who or that which lessens or softens."]}
+{"w":"mitigatory","pos":"adjective","d":["Tending to lessen; serving to mitigate."]}
+{"w":"mitis casting","pos":"phrase","d":["A casting made of mitis metal, a soft and easily worked iron."]}
+{"w":"mitis metal","pos":"phrase","d":["A soft, malleable form of cast iron."]}
+{"w":"mitome","pos":"noun","d":["In cell biology, the network of fibers in the nucleus of a cell."]}
+{"w":"mitosis","pos":"noun","d":["Cell division in which the nucleus divides into two identical nuclei."]}
+{"w":"mitotic","pos":"adjective","d":["Relating to mitosis."]}
+{"w":"mitraille","pos":"noun","d":["A shower of bullets or small projectiles; grapeshot."]}
+{"w":"mitrailleur","pos":"noun","d":["A soldier who operates a machine gun."]}
+{"w":"mitral","pos":"adjective","d":["Shaped like a bishop's mitre.","Relating to the mitral valve of the heart."]}
+{"w":"mitre","pos":"noun","d":["The tall, pointed ceremonial headdress of a bishop.","A joint made by two pieces cut at an angle, as in a picture frame."]}
+{"w":"mitriform","pos":"adjective","d":["Shaped like a mitre."]}
+{"w":"mitt","pos":"noun","d":["A large padded glove, as used in baseball.","Slang for a hand."]}
+{"w":"mittimus","pos":"noun","d":["A written order from a court sending a person to prison."]}
+{"w":"mitty","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"mitu","pos":"noun","d":["A large South American bird of the curassow family."]}
+{"w":"mity","pos":"adjective","d":["Full of mites; infested with mites."]}
+{"w":"mixogamous","pos":"adjective","d":["Characterized by interbreeding between different groups."]}
+{"w":"mixolydian mode","pos":"phrase","d":["A musical scale like the major scale but with the seventh note lowered."]}
+{"w":"mixtilineal","pos":"adjective","d":["Made up of both straight and curved lines."]}
+{"w":"mixtilinear","pos":"adjective","d":["Partly straight and partly curved, as a figure."]}
+{"w":"mixtly","pos":"adverb","d":["In a mixed manner."]}
+{"w":"mizmaze","pos":"noun","d":["A maze or labyrinth.","A state of confusion."]}
+{"w":"mizzen","pos":"noun","d":["The rearmost mast on a ship with three or more masts.","The sail set on the mizzenmast."]}
+{"w":"mizzle","pos":"verb","d":["To rain in very fine drops; to drizzle.","To slip away quietly; to vanish."]}
+{"w":"mizzy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"mnemonic","pos":"adjective","d":["Designed to help the memory.","Relating to memory."]}
+{"w":"mnemonician","pos":"noun","d":["One skilled in the art of memory; an expert in mnemonics."]}
+{"w":"mnemosyne","pos":"noun","d":["The Greek goddess of memory, mother of the Muses."]}
+{"w":"mnemotechny","pos":"noun","d":["The art of improving the memory; mnemonics."]}
+{"w":"moa","pos":"noun","d":["A large extinct flightless bird of New Zealand."]}
+{"w":"moabite stone","pos":"phrase","d":["A famous inscribed stone from ancient Moab recording the reign of King Mesha."]}
+{"w":"moabitess","pos":"noun","d":["A female native or inhabitant of Moab."]}
+{"w":"moabitish","pos":"adjective","d":["Relating to Moab or the Moabites."]}
+{"w":"moan","pos":"verb","d":["To utter a low sound of pain or grief.","To complain in a low, unhappy tone."]}
+{"w":"moat","pos":"noun","d":["A deep, wide ditch around a castle or town, often filled with water."]}
+{"w":"moate","pos":"verb","d":["To surround with a moat."]}
+{"w":"mob","pos":"noun","d":["A large crowd, especially a disorderly or riotous one.","An organized group of criminals."]}
+{"w":"mobilization","pos":"noun","d":["The act of mobilizing, especially troops for war."]}
+{"w":"mobilize","pos":"verb","d":["To make movable or ready for action.","To assemble troops for active service."]}
+{"w":"moble","pos":"verb","d":["To muffle or wrap up, as the head in a hood."]}
+{"w":"mobocracy","pos":"noun","d":["Rule by a mob; government by the unruly masses."]}
+{"w":"mobocrat","pos":"noun","d":["One who favors or takes part in mob rule."]}
+{"w":"moccasin","pos":"noun","d":["A soft, flat shoe originally worn by Native Americans.","A venomous snake of the southern United States; the cottonmouth."]}
+{"w":"mocha","pos":"noun","d":["A rich, choice variety of coffee from Arabia.","A flavor combining chocolate and coffee."]}
+{"w":"moche","pos":"verb","d":["To mock; to ridicule."]}
+{"w":"mochel","pos":"adjective","d":["Much; great in amount."]}
+{"w":"mochila","pos":"noun","d":["A knapsack or soldier's pack.","A leather saddle cover used in Mexico and the western United States."]}
+{"w":"mock","pos":"verb","d":["To ridicule or make fun of.","To imitate mockingly."]}
+{"w":"mockadour","pos":"noun","d":["A handkerchief or cloth worn about the neck."]}
+{"w":"mockery","pos":"noun","d":["Derisive ridicule.","A poor or insulting imitation."]}
+{"w":"mockle","pos":"adjective","d":["Much; great in size or amount."]}
+{"w":"moco","pos":"noun","d":["A small South American rodent related to the guinea pig; the rock cavy."]}
+{"w":"modal","pos":"adjective","d":["Relating to mode or manner.","In music, relating to a musical mode."]}
+{"w":"modena","pos":"noun","d":["A deep crimson color."]}
+{"w":"moderatism","pos":"noun","d":["The principles of a moderate; moderation in politics or religion."]}
+{"w":"moderato","pos":"adverb","d":["In music, at a moderate speed."]}
+{"w":"moderatress","pos":"noun","d":["A female moderator."]}
+{"w":"moderatrix","pos":"noun","d":["A woman who presides; a female moderator."]}
+{"w":"modernization","pos":"noun","d":["The act of making modern."]}
+{"w":"modest","pos":"adjective","d":["Not boastful about one's abilities.","Moderate in behavior, dress, and manner."]}
+{"w":"modicity","pos":"noun","d":["The quality of being moderate; smallness of amount."]}
+{"w":"modicum","pos":"noun","d":["A small quantity."]}
+{"w":"modifiability","pos":"noun","d":["The quality of being modifiable."]}
+{"w":"modifiable","pos":"adjective","d":["Capable of being modified."]}
+{"w":"modificable","pos":"adjective","d":["Capable of being modified."]}
+{"w":"modificate","pos":"verb","d":["To change in form; to modify."]}
+{"w":"modificative","pos":"adjective","d":["Tending to modify."]}
+{"w":"modificatory","pos":"adjective","d":["Serving to modify."]}
+{"w":"modillion","pos":"noun","d":["A small ornamental bracket supporting a cornice in classical architecture."]}
+{"w":"modiolar","pos":"adjective","d":["Relating to the modiolus of the inner ear."]}
+{"w":"modiolus","pos":"noun","d":["The central conical axis of the cochlea in the inner ear."]}
+{"w":"modish","pos":"adjective","d":["Fashionable; stylish."]}
+{"w":"modist","pos":"noun","d":["One who follows the fashion.","A medieval scholar of grammar and logic."]}
+{"w":"modiste","pos":"noun","d":["A maker of fashionable dresses and hats."]}
+{"w":"modius","pos":"noun","d":["An ancient Roman dry measure of about two gallons."]}
+{"w":"modocs","pos":"noun","d":["A Native American people of northern California and southern Oregon."]}
+{"w":"modulate","pos":"verb","d":["To adjust or regulate to the proper measure.","To vary the tone or pitch, as of the voice."]}
+{"w":"modulation","pos":"noun","d":["The act of modulating; a change in pitch, tone, or key."]}
+{"w":"modulator","pos":"noun","d":["One who or that which modulates."]}
+{"w":"modulus","pos":"noun","d":["In arithmetic, a number by which another is divided to find a remainder.","The absolute value of a complex number."]}
+{"w":"modus","pos":"noun","d":["Manner or method of doing something."]}
+{"w": "modus vivendi", "pos": "phrase", "d": ["A practical working arrangement between people or groups who disagree."]}
+{"w": "mody", "pos": "adjective", "d": ["Fashionable or stylish, in a dated sense of the word."]}
+{"w": "moe", "pos": "adjective", "d": ["An old spelling of the word more."]}
+{"w": "moebles", "pos": "noun", "d": ["Movable household goods; furniture."]}
+{"w": "moelline", "pos": "noun", "d": ["An old-fashioned ointment for the hair."]}
+{"w": "moellon", "pos": "noun", "d": ["Rough stone used for building walls; rubble masonry."]}
+{"w": "moesogothic", "pos": "adjective", "d": ["Relating to the Moesogoths, a branch of the Goths who settled in Moesia.", "Relating to the Gothic language they spoke."]}
+{"w": "moeve", "pos": "verb", "d": ["An old spelling of the verb move."]}
+{"w": "moff", "pos": "noun", "d": ["A thin silk fabric made in the Caucasus."]}
+{"w": "mog", "pos": "verb", "d": ["To move along slowly in a gentle, easy way."]}
+{"w": "mogul", "pos": "noun", "d": ["A powerful or influential person.", "A bump on a ski slope."]}
+{"w": "moha", "pos": "noun", "d": ["Delusion or mental confusion, in Hindu and Buddhist thought."]}
+{"w": "mohair", "pos": "noun", "d": ["A soft, shiny yarn or fabric made from the hair of the Angora goat."]}
+{"w": "mohammedan", "pos": "adjective", "d": ["Relating to the Islamic religion; an older word for Muslim.", "An older name for a Muslim."]}
+{"w": "mohammedan calendar", "pos": "phrase", "d": ["The Islamic lunar calendar, reckoned from A.D. 622."]}
+{"w": "mohammedan era", "pos": "phrase", "d": ["The era beginning in A.D. 622, used in the Islamic calendar."]}
+{"w": "mohammedan year", "pos": "phrase", "d": ["A lunar year of the Islamic calendar, about 354 days long."]}
+{"w": "mohammedism", "pos": "noun", "d": ["The religion of Islam, so named for its prophet Muhammad."]}
+{"w": "mohammedize", "pos": "verb", "d": ["To make a person or thing Muslim; to bring under Islam."]}
+{"w": "mohawk", "pos": "noun", "d": ["A haircut with a strip of upright hair down the middle of the head and the sides shaved.", "A member of the Mohawk people."]}
+{"w": "mohicans", "pos": "noun", "d": ["Members of the Mohican people, an Algonquian tribe of the Hudson River valley."]}
+{"w": "moho", "pos": "noun", "d": ["The boundary between the earth's crust and its mantle."]}
+{"w": "mohock", "pos": "noun", "d": ["A member of a gang of ruffians that terrorized London in the early 1700s."]}
+{"w": "moholi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mohr", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mohur", "pos": "noun", "d": ["A former gold coin of British India."]}
+{"w": "moider", "pos": "verb", "d": ["To labor hard with painful effort; to toil.", "To confuse or perplex."]}
+{"w": "moidore", "pos": "noun", "d": ["A former Portuguese gold coin."]}
+{"w": "moiety", "pos": "noun", "d": ["One of two equal parts; a half.", "A part or share of something."]}
+{"w": "moil", "pos": "verb", "d": ["To work hard in drudgery; to toil."]}
+{"w": "moile", "pos": "noun", "d": ["A kind of high shoe worn in ancient times."]}
+{"w": "moineau", "pos": "noun", "d": ["A small flat bastion set in the middle of an overlong curtain wall."]}
+{"w": "moira", "pos": "noun", "d": ["In Greek mythology, one of the three Fates.", "Fate or destiny."]}
+{"w": "moire", "pos": "noun", "d": ["A fabric, especially silk, with a wavy watered pattern."]}
+{"w": "moire metallique", "pos": "phrase", "d": ["A tin surface with a mottled crystalline pattern, used for decoration."]}
+{"w": "moist", "pos": "adjective", "d": ["Slightly wet; damp."]}
+{"w": "moisty", "pos": "adjective", "d": ["Somewhat moist; damp."]}
+{"w": "moither", "pos": "verb", "d": ["To confuse or bewilder."]}
+{"w": "mojarra", "pos": "noun", "d": ["A small silvery marine fish of warm waters."]}
+{"w": "mokadour", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moke", "pos": "noun", "d": ["A donkey."]}
+{"w": "moky", "pos": "adjective", "d": ["Misty or foggy; murky."]}
+{"w": "mola", "pos": "noun", "d": ["The ocean sunfish, a huge round flat fish."]}
+{"w": "molar", "pos": "noun", "d": ["A broad back tooth used for grinding food."]}
+{"w": "molary", "pos": "adjective", "d": ["Having the power to grind; like a millstone."]}
+{"w": "molasse", "pos": "noun", "d": ["A soft sandstone formed from deposits at the foot of the Alps."]}
+{"w": "moldery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moldiness", "pos": "noun", "d": ["The state of being moldy."]}
+{"w": "moldy", "pos": "adjective", "d": ["Covered with or smelling of mold."]}
+{"w": "mole", "pos": "noun", "d": ["A small burrowing mammal with dark velvety fur.", "A small dark spot on the skin."]}
+{"w": "mole-eyed", "pos": "adjective", "d": ["Having poor eyesight, like a mole."]}
+{"w": "molech", "pos": "noun", "d": ["An ancient Semitic deity to whom children were sacrificed."]}
+{"w": "molecule", "pos": "noun", "d": ["The smallest part of a substance that still keeps its chemical properties, made of two or more atoms."]}
+{"w": "molendinaceous", "pos": "adjective", "d": ["Relating to a mill."]}
+{"w": "molendinarious", "pos": "adjective", "d": ["Belonging to a mill."]}
+{"w": "molest", "pos": "verb", "d": ["To annoy, disturb, or harm someone, especially in a sexual way."]}
+{"w": "molestie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moliminous", "pos": "adjective", "d": ["Requiring great effort; laborious."]}
+{"w": "moline", "pos": "adjective", "d": ["In heraldry, ending in a forked or anchor-like shape, as a cross moline."]}
+{"w": "molinism", "pos": "noun", "d": ["The theological teaching of Luis de Molina on grace and free will."]}
+{"w": "molinist", "pos": "noun", "d": ["A follower of the theological teaching of Luis de Molina."]}
+{"w": "moll", "pos": "noun", "d": ["A woman of low character; the female companion of a criminal."]}
+{"w": "mollah", "pos": "noun", "d": ["A Muslim scholar or religious teacher; usually spelled mullah."]}
+{"w": "molle", "pos": "noun", "d": ["A South American pepper tree of the genus Schinus."]}
+{"w": "mollebart", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mollient", "pos": "adjective", "d": ["Softening; soothing."]}
+{"w": "mollifiable", "pos": "adjective", "d": ["Able to be softened."]}
+{"w": "mollification", "pos": "noun", "d": ["The act of softening or soothing."]}
+{"w": "mollinet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mollipilose", "pos": "adjective", "d": ["Having soft hairs."]}
+{"w": "mollities", "pos": "noun", "d": ["Softness."]}
+{"w": "mollitude", "pos": "noun", "d": ["Softness."]}
+{"w": "mollusc", "pos": "noun", "d": ["A soft-bodied invertebrate such as a snail, clam, or octopus."]}
+{"w": "mollusca", "pos": "noun", "d": ["The group of soft-bodied invertebrates including snails, clams, and octopuses."]}
+{"w": "molluscan", "pos": "adjective", "d": ["Relating to the mollusks."]}
+{"w": "molluscoid", "pos": "adjective", "d": ["Resembling a mollusk."]}
+{"w": "molluscoidea", "pos": "noun", "d": ["A group of invertebrates resembling mollusks, including the brachiopods."]}
+{"w": "molluscum", "pos": "noun", "d": ["A skin disease marked by small soft tumors."]}
+{"w": "mollusk", "pos": "noun", "d": ["A soft-bodied invertebrate such as a snail, clam, or octopus."]}
+{"w": "molly", "pos": "noun", "d": ["A small bright tropical freshwater fish often kept in aquariums."]}
+{"w": "molly-mawk", "pos": "noun", "d": ["A large albatross of the southern oceans."]}
+{"w": "moloch", "pos": "noun", "d": ["An ancient deity to whom children were sacrificed.", "A spiny lizard of Australia."]}
+{"w": "molokane", "pos": "noun", "d": ["A member of a Russian religious sect of dissenters."]}
+{"w": "molokany", "pos": "noun", "d": ["Members of the Molokan sect, a Russian religious group."]}
+{"w": "molosse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "molossine", "pos": "adjective", "d": ["Relating to the Molossi, an ancient people of Epirus."]}
+{"w": "molossus", "pos": "noun", "d": ["A large ancient breed of dog.", "A metrical foot of three long syllables."]}
+{"w": "molt", "pos": "verb", "d": ["To shed old feathers, skin, or shell to make way for new growth."]}
+{"w": "molto", "pos": "adverb", "d": ["In music, very or much."]}
+{"w": "moly", "pos": "noun", "d": ["A magical herb in the Odyssey believed to protect against enchantment."]}
+{"w": "molybdate", "pos": "noun", "d": ["A chemical salt containing molybdenum and oxygen."]}
+{"w": "molybdena", "pos": "noun", "d": ["An old name for molybdenite, the chief ore of molybdenum."]}
+{"w": "molybdenite", "pos": "noun", "d": ["A gray mineral that is the chief ore of molybdenum."]}
+{"w": "molybdenous", "pos": "adjective", "d": ["Containing molybdenum."]}
+{"w": "molybdenum", "pos": "noun", "d": ["A hard gray metallic element used to strengthen steel."]}
+{"w": "molybdic", "pos": "adjective", "d": ["Containing molybdenum."]}
+{"w": "molybdite", "pos": "noun", "d": ["A yellow mineral, an oxide of molybdenum."]}
+{"w": "molybdous", "pos": "adjective", "d": ["Containing molybdenum in a lower chemical form."]}
+{"w": "mome", "pos": "noun", "d": ["A blockhead; a dull fool."]}
+{"w": "momentaneous", "pos": "adjective", "d": ["Lasting only a moment."]}
+{"w": "momentarily", "pos": "adverb", "d": ["In a moment; for a very short time."]}
+{"w": "momentariness", "pos": "noun", "d": ["The quality of lasting only a moment."]}
+{"w": "momier", "pos": "noun", "d": ["A member of a Swiss Protestant revival sect."]}
+{"w": "mommery", "pos": "noun", "d": ["Empty or foolish ceremony; mummery."]}
+{"w": "momot", "pos": "noun", "d": ["A motmot, a brightly colored tropical American bird."]}
+{"w": "momus", "pos": "noun", "d": ["In Greek mythology, the personification of mockery and faultfinding."]}
+{"w": "mon-", "pos": "prefix", "d": ["A form of mono-, meaning one or single."]}
+{"w": "mona", "pos": "noun", "d": ["A small West African monkey with a white forehead."]}
+{"w": "monachal", "pos": "adjective", "d": ["Relating to monks or monastic life."]}
+{"w": "monachism", "pos": "noun", "d": ["The monastic system or way of life."]}
+{"w": "monad", "pos": "noun", "d": ["A single-celled organism.", "In philosophy, an ultimate unit of being."]}
+{"w": "monadelphia", "pos": "noun", "d": ["A botanical group of plants whose stamens are joined into one bundle."]}
+{"w": "monadelphous", "pos": "adjective", "d": ["Having the stamens united in one bundle."]}
+{"w": "monadiform", "pos": "adjective", "d": ["Resembling a monad."]}
+{"w": "monal", "pos": "noun", "d": ["A large Himalayan pheasant with brilliant iridescent plumage."]}
+{"w": "monamide", "pos": "noun", "d": ["A chemical compound containing a single amide group."]}
+{"w": "monander", "pos": "noun", "d": ["A plant having only one stamen."]}
+{"w": "monandria", "pos": "noun", "d": ["A botanical class of plants having one stamen."]}
+{"w": "monandrian", "pos": "adjective", "d": ["Belonging to the botanical class Monandria."]}
+{"w": "monandric", "pos": "adjective", "d": ["Having one stamen."]}
+{"w": "monandrous", "pos": "adjective", "d": ["Having one stamen."]}
+{"w": "monandry", "pos": "noun", "d": ["The practice of having only one husband at a time."]}
+{"w": "monanthous", "pos": "adjective", "d": ["Bearing only one flower."]}
+{"w": "monarch", "pos": "noun", "d": ["A sole ruler, such as a king or queen.", "A large orange-and-black butterfly."]}
+{"w": "monarchess", "pos": "noun", "d": ["A female monarch; a queen."]}
+{"w": "monarchian", "pos": "noun", "d": ["An adherent of the early Christian teaching that God is one undivided person."]}
+{"w": "monarcho", "pos": "noun", "d": ["The nickname of a mad Italian who fancied himself an emperor."]}
+{"w": "monarchy", "pos": "noun", "d": ["Rule by a single person; also, a state ruled by a king or queen."]}
+{"w": "monastery", "pos": "noun", "d": ["A building where monks live and work."]}
+{"w": "monasticon", "pos": "noun", "d": ["A book giving an account of monasteries."]}
+{"w": "monatomic", "pos": "adjective", "d": ["Consisting of a single atom."]}
+{"w": "monaxial", "pos": "adjective", "d": ["Having a single axis."]}
+{"w": "monazite", "pos": "noun", "d": ["A reddish-brown mineral containing rare-earth metals and thorium."]}
+{"w": "monde", "pos": "noun", "d": ["The world; fashionable society."]}
+{"w": "mone", "pos": "noun", "d": ["An old word for money."]}
+{"w": "monecian", "pos": "adjective", "d": ["Having male and female organs in the same individual."]}
+{"w": "monecious", "pos": "adjective", "d": ["Having male and female flowers or organs on the same plant."]}
+{"w": "monembryony", "pos": "noun", "d": ["The production of a single embryo from one seed."]}
+{"w": "monera", "pos": "noun", "d": ["Single-celled organisms without a nucleus, such as bacteria."]}
+{"w": "moneron", "pos": "noun", "d": ["A single-celled organism belonging to the Monera."]}
+{"w": "monerula", "pos": "noun", "d": ["The earliest stage of an embryo, a single cell without a nucleus."]}
+{"w": "monesia", "pos": "noun", "d": ["A medicinal bark obtained from a Brazilian tree."]}
+{"w": "monest", "pos": "verb", "d": ["To warn or admonish."]}
+{"w": "moneth", "pos": "noun", "d": ["An old word for month."]}
+{"w": "monetization", "pos": "noun", "d": ["The act of giving something the character of money; the process of earning revenue from something."]}
+{"w": "monetize", "pos": "verb", "d": ["To convert into money; to earn revenue from."]}
+{"w": "money-maker", "pos": "noun", "d": ["A person or thing that makes money."]}
+{"w": "money-making", "pos": "adjective", "d": ["Bringing in money; profitable."]}
+{"w": "mongcorn", "pos": "noun", "d": ["A mixture of wheat and rye sown together."]}
+{"w": "monger", "pos": "noun", "d": ["A dealer or trader in a specified commodity."]}
+{"w": "mongol", "pos": "noun", "d": ["A member of the Mongol peoples of central Asia."]}
+{"w": "mongolian", "pos": "adjective", "d": ["Relating to Mongolia or the Mongol peoples."]}
+{"w": "mongoloid", "pos": "adjective", "d": ["Resembling the Mongols in physical type."]}
+{"w": "mongoos", "pos": "noun", "d": ["A mongoose."]}
+{"w": "mongoose", "pos": "noun", "d": ["A small slender mammal that hunts snakes and rodents."]}
+{"w": "mongrel", "pos": "noun", "d": ["A dog of mixed breed; also, anything of mixed origin."]}
+{"w": "monied", "pos": "adjective", "d": ["Having money; wealthy."]}
+{"w": "monifier", "pos": "noun", "d": ["One who warns or admonishes."]}
+{"w": "moniliales", "pos": "noun", "d": ["An order of fungi that reproduce by means of conidia."]}
+{"w": "moniliform", "pos": "adjective", "d": ["Shaped like a string of beads."]}
+{"w": "moniment", "pos": "noun", "d": ["An old spelling of monument."]}
+{"w": "monish", "pos": "verb", "d": ["To warn or admonish."]}
+{"w": "monism", "pos": "noun", "d": ["The doctrine that reality is one single unified whole."]}
+{"w": "monist", "pos": "noun", "d": ["One who holds the doctrine of monism."]}
+{"w": "monition", "pos": "noun", "d": ["A warning or admonition."]}
+{"w": "monitive", "pos": "adjective", "d": ["Giving warning; admonitory."]}
+{"w": "monitor nozzle", "pos": "phrase", "d": ["A large swiveling nozzle that directs a powerful stream of water, used in firefighting."]}
+{"w": "monitory", "pos": "adjective", "d": ["Giving warning; admonitory."]}
+{"w": "monitress", "pos": "noun", "d": ["A female monitor; a woman who warns."]}
+{"w": "monitrix", "pos": "noun", "d": ["A female warner or admonisher."]}
+{"w": "monk", "pos": "noun", "d": ["A man who lives in a monastery under religious vows."]}
+{"w": "monkery", "pos": "noun", "d": ["The life, practices, or system of monks."]}
+{"w": "monkey-bread", "pos": "noun", "d": ["The fruit of the baobab tree."]}
+{"w": "monkey-cup", "pos": "noun", "d": ["A pitcher plant of the genus Nepenthes."]}
+{"w": "monkey-pot", "pos": "noun", "d": ["A South American tree with large woody fruits."]}
+{"w": "monkshood", "pos": "noun", "d": ["A poisonous plant with hooded blue flowers; aconite."]}
+{"w": "mono-", "pos": "prefix", "d": ["Meaning one or single, as in monogram."]}
+{"w": "monocardian", "pos": "noun", "d": ["A member of the Monocardia, a group of mollusks with a single-chambered heart."]}
+{"w": "monoceros", "pos": "noun", "d": ["The unicorn.", "A constellation in the northern sky."]}
+{"w": "monochlamydeous", "pos": "adjective", "d": ["Having only a single floral envelope."]}
+{"w": "monochromy", "pos": "noun", "d": ["A painting or picture done in a single color."]}
+{"w": "monocle", "pos": "noun", "d": ["A single eyeglass worn in one eye."]}
+{"w": "monoclinal", "pos": "adjective", "d": ["Dipping in one direction only, as rock strata."]}
+{"w": "monocline", "pos": "noun", "d": ["A rock fold in which the strata dip in one direction only."]}
+{"w": "monoclinous", "pos": "adjective", "d": ["Having stamens and pistils in the same flower."]}
+{"w": "monocondyla", "pos": "noun", "d": ["A division of insects having a single condyle on the mandible."]}
+{"w": "monocotyl", "pos": "noun", "d": ["A plant with a single seed leaf."]}
+{"w": "monocracy", "pos": "noun", "d": ["Government by a single person."]}
+{"w": "monocrat", "pos": "noun", "d": ["One who favors rule by a single person."]}
+{"w": "monocrotic", "pos": "adjective", "d": ["Showing a single beat in the pulse tracing."]}
+{"w": "monocrotism", "pos": "noun", "d": ["The condition of having a single pulse wave."]}
+{"w": "monocular", "pos": "adjective", "d": ["Having or using only one eye."]}
+{"w": "monocule", "pos": "noun", "d": ["A little single thing."]}
+{"w": "monoculous", "pos": "adjective", "d": ["Having one eye only."]}
+{"w": "monodactylous", "pos": "adjective", "d": ["Having a single digit or toe, as the horse."]}
+{"w": "monodelphia", "pos": "noun", "d": ["A division of mammals having a single uterus."]}
+{"w": "monodic", "pos": "adjective", "d": ["Relating to a monody."]}
+{"w": "monodist", "pos": "noun", "d": ["One who sings or performs a monody."]}
+{"w": "monodrame", "pos": "noun", "d": ["A dramatic piece written for a single performer."]}
+{"w": "monody", "pos": "noun", "d": ["A mournful song or poem for one voice; a lament."]}
+{"w": "monoecia", "pos": "noun", "d": ["In the Linnaean system, a class of plants bearing separate male and female flowers on the same individual plant."]}
+{"w": "monoecian", "pos": "adjective", "d": ["Having separate male and female flowers on the same plant.", "A plant with male and female flowers growing on the same individual."]}
+{"w": "monoecious", "pos": "adjective", "d": ["Bearing distinct male and female flowers on the same plant, as corn and oak."]}
+{"w": "monoecism", "pos": "noun", "d": ["The condition of being monoecious, with male and female flowers on one plant."]}
+{"w": "monogamia", "pos": "noun", "d": ["In the Linnaean system, an order of the class Syngenesia whose flowers stand singly instead of in compound heads."]}
+{"w": "monogamian", "pos": "noun", "d": ["A plant belonging to the Linnaean order Monogamia."]}
+{"w": "monogenic", "pos": "adjective", "d": ["Controlled by or involving a single gene.", "Originating from one source or kind."]}
+{"w": "monogenism", "pos": "noun", "d": ["The doctrine that all human beings descend from a single original stock."]}
+{"w": "monogenist", "pos": "noun", "d": ["One who holds the doctrine of monogenism."]}
+{"w": "monogenous", "pos": "adjective", "d": ["Originating from a single cell, tissue, or source."]}
+{"w": "monogeny", "pos": "noun", "d": ["Origin from a single source; the production of offspring of one kind only."]}
+{"w": "monogoneutic", "pos": "adjective", "d": ["Producing only one brood or generation of young in a single season."]}
+{"w": "monogrammal", "pos": "adjective", "d": ["Of or like a monogram; formed into a monogram."]}
+{"w": "monogrammic", "pos": "adjective", "d": ["Relating to monograms; formed as a monogram."]}
+{"w": "monogrammous", "pos": "adjective", "d": ["Consisting of or resembling a monogram."]}
+{"w": "monograph", "pos": "noun", "d": ["A detailed scholarly treatise devoted to a single subject."]}
+{"w": "monography", "pos": "noun", "d": ["The writing of monographs; a monograph."]}
+{"w": "monogynia", "pos": "noun", "d": ["In the Linnaean system, an order of plants having a single pistil or style."]}
+{"w": "monogynian", "pos": "noun", "d": ["A plant belonging to the Linnaean order Monogynia."]}
+{"w": "monogyny", "pos": "noun", "d": ["The condition of having a single pistil in a flower.", "The practice of having only one wife at a time."]}
+{"w": "monohemerous", "pos": "adjective", "d": ["Lasting or living for a single day."]}
+{"w": "monoicous", "pos": "adjective", "d": ["Bearing male and female reproductive organs on the same plant, used especially of mosses and liverworts."]}
+{"w": "monolatry", "pos": "noun", "d": ["The worship of one god without denying the existence of others."]}
+{"w": "monologist", "pos": "noun", "d": ["One who performs or delivers a monologue."]}
+{"w": "monologue", "pos": "noun", "d": ["A long speech by one character in a play, or by one person in conversation.", "A stage entertainment performed by a single speaker."]}
+{"w": "monomachia", "pos": "noun", "d": ["Single combat between two persons; a duel."]}
+{"w": "monomachist", "pos": "noun", "d": ["One who fights in single combat."]}
+{"w": "monomachy", "pos": "noun", "d": ["Combat between two individuals; a duel."]}
+{"w": "monome", "pos": "noun", "d": ["In algebra, an expression consisting of a single term."]}
+{"w": "monomerous", "pos": "adjective", "d": ["Having a single member in each floral whorl, as a flower with one petal in each ring."]}
+{"w": "monometallism", "pos": "noun", "d": ["A monetary system using only one metal, gold or silver, as the standard of value."]}
+{"w": "monomial", "pos": "noun", "d": ["An algebraic expression consisting of a single term, such as 5x."]}
+{"w": "monomorphic", "pos": "adjective", "d": ["Having or keeping a single form; not changing in shape."]}
+{"w": "monomorphous", "pos": "adjective", "d": ["Of one and the same form; monomorphic."]}
+{"w": "monomphalus", "pos": "noun", "d": ["A conjoined-twin malformation in which the bodies are united at a single navel."]}
+{"w": "monomyarian", "pos": "adjective", "d": ["Having a single adductor muscle, as an oyster or scallop.", "A bivalve mollusk with one adductor muscle."]}
+{"w": "monomyary", "pos": "noun", "d": ["The condition of having a single adductor muscle."]}
+{"w": "monoousian", "pos": "noun", "d": ["One who holds that the persons of the Godhead are of a single substance."]}
+{"w": "monoousious", "pos": "adjective", "d": ["Consisting of or having one substance or essence."]}
+{"w": "monopathy", "pos": "noun", "d": ["A disease confined to a single organ or part of the body."]}
+{"w": "monophanous", "pos": "adjective", "d": ["Appearing in only one form; presenting a single visible aspect."]}
+{"w": "monophthong", "pos": "noun", "d": ["A single pure vowel sound, as opposed to a diphthong."]}
+{"w": "monophyletic", "pos": "adjective", "d": ["Descended from a single common ancestor, as a natural taxonomic group."]}
+{"w": "monophyodont", "pos": "adjective", "d": ["Having only one set of teeth during life.", "An animal that grows just one set of teeth."]}
+{"w": "monophysite", "pos": "noun", "d": ["One who holds that Christ has a single divine nature rather than two natures.", "Of or relating to the Monophysites."]}
+{"w": "monophysitical", "pos": "adjective", "d": ["Of or relating to the Monophysites and their doctrine."]}
+{"w": "monoplast", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "monoplegia", "pos": "noun", "d": ["Paralysis affecting a single limb or one part of the body."]}
+{"w": "monopneumona", "pos": "noun", "d": ["A group of air-breathing gastropod mollusks possessing a single lung-like organ."]}
+{"w": "monopode", "pos": "noun", "d": ["A creature with only one foot; a stand supported on a single foot."]}
+{"w": "monopody", "pos": "noun", "d": ["The condition of having a single foot."]}
+{"w": "monopolist", "pos": "noun", "d": ["One who holds or controls a monopoly."]}
+{"w": "monopolize", "pos": "verb", "d": ["To get or keep exclusive control of a trade or market.", "To take up the whole of, as to monopolize a conversation."]}
+{"w": "monopolylogue", "pos": "noun", "d": ["A dramatic entertainment in which one actor plays several different parts."]}
+{"w": "monopteral", "pos": "adjective", "d": ["Having a single row of columns on all sides, as a round temple."]}
+{"w": "monoptote", "pos": "noun", "d": ["In grammar, a noun having only one case form."]}
+{"w": "monopyrenous", "pos": "adjective", "d": ["Having a fruit with a single stone or seed."]}
+{"w": "monorganic", "pos": "adjective", "d": ["Affecting or relating to a single organ of the body."]}
+{"w": "monorhina", "pos": "noun", "d": ["A group of jawless fishes, the lampreys and hagfishes, having a single median nostril."]}
+{"w": "monosaccharid", "pos": "noun", "d": ["A simple sugar that cannot be broken down into simpler sugars; a monosaccharide."]}
+{"w": "monosaccharide", "pos": "noun", "d": ["A simple sugar, such as glucose or fructose, that cannot be split into smaller sugars."]}
+{"w": "monotessaron", "pos": "noun", "d": ["A single continuous narrative combining the accounts of the four Gospels."]}
+{"w": "monothalama", "pos": "noun", "d": ["A group of foraminifera having single-chambered shells."]}
+{"w": "monothalaman", "pos": "noun", "d": ["A foraminifer with a single-chambered shell."]}
+{"w": "monothalamous", "pos": "adjective", "d": ["Having a shell of a single chamber, as certain foraminifera."]}
+{"w": "monothalmic", "pos": "adjective", "d": ["Single-chambered; monothalamous."]}
+{"w": "monothelism", "pos": "noun", "d": ["The doctrine that Christ has only one will."]}
+{"w": "monothelite", "pos": "noun", "d": ["An adherent of monothelism."]}
+{"w": "monothelitic", "pos": "adjective", "d": ["Of or relating to monothelism."]}
+{"w": "monothelitism", "pos": "noun", "d": ["The doctrine of monothelism; belief in a single will of Christ."]}
+{"w": "monotocous", "pos": "adjective", "d": ["Producing only one offspring at a birth."]}
+{"w": "monotomous", "pos": "adjective", "d": ["Capable of being cut or divided in only one direction."]}
+{"w": "monotonist", "pos": "noun", "d": ["One who speaks or sings in a monotone."]}
+{"w": "monotremata", "pos": "noun", "d": ["The order of egg-laying mammals including the platypus and the echidnas."]}
+{"w": "monotrematous", "pos": "adjective", "d": ["Of or relating to the Monotremata."]}
+{"w": "monotreme", "pos": "noun", "d": ["An egg-laying mammal of the order Monotremata, such as the platypus."]}
+{"w": "monotropa", "pos": "noun", "d": ["A genus of leafless parasitic plants, including the Indian pipe, that lack green coloring."]}
+{"w": "monovalent", "pos": "adjective", "d": ["In chemistry, having a valence of one; combining with a single atom of hydrogen."]}
+{"w": "monoxide", "pos": "noun", "d": ["An oxide containing one atom of oxygen in each molecule, as carbon monoxide."]}
+{"w": "monoxylon", "pos": "noun", "d": ["A canoe hollowed out of a single tree trunk; a dugout."]}
+{"w": "monoxylous", "pos": "adjective", "d": ["Made from a single piece of wood; of or like a monoxylon."]}
+{"w": "monozoa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "monroe doctrine", "pos": "phrase", "d": ["The American policy, first stated by President Monroe, opposing European interference in the affairs of the Americas."]}
+{"w": "monseigneur", "pos": "noun", "d": ["A French title of honor given to princes, bishops, and high officials."]}
+{"w": "monsieur", "pos": "noun", "d": ["The French word for mister, used as a title for a man; a Frenchman."]}
+{"w": "monsignore", "pos": "noun", "d": ["An Italian title of honor for bishops and high church officials; a variant of monsignor."]}
+{"w": "monsoon", "pos": "noun", "d": ["A seasonal wind of southern Asia that brings heavy rains in summer.", "The rainy season brought by this wind."]}
+{"w": "monstrance", "pos": "noun", "d": ["The ornamental vessel in which the consecrated Host is exposed for adoration."]}
+{"w": "monstration", "pos": "noun", "d": ["The act of showing or pointing out; a demonstration."]}
+{"w": "monstrosity", "pos": "noun", "d": ["The state of being monstrous; something huge, misshapen, or outrageous.", "A plant or animal grossly malformed."]}
+{"w": "monstrous", "pos": "adjective", "d": ["Enormous and frightening in size or shape.", "Shockingly unnatural or wicked."]}
+{"w": "monstruosity", "pos": "noun", "d": ["The quality of being monstruous; monstrosity."]}
+{"w": "monstruous", "pos": "adjective", "d": ["Monstrous; huge and unnatural."]}
+{"w": "mont", "pos": "noun", "d": ["The French word for mountain, common in place names."]}
+{"w": "mont de piete", "pos": "phrase", "d": ["A public pawnshop that lends money at low interest on pledged goods."]}
+{"w": "montaigne", "pos": "noun", "d": ["Michel de Montaigne, the sixteenth-century French writer regarded as the inventor of the essay."]}
+{"w": "montanic", "pos": "adjective", "d": ["Of, growing in, or belonging to mountainous regions."]}
+{"w": "montanist", "pos": "noun", "d": ["A follower of Montanus, leader of a strict Christian sect of the second century."]}
+{"w": "monte-acid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "monte-jus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "monteith", "pos": "noun", "d": ["A large punch bowl with a scalloped or notched rim."]}
+{"w": "montem", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "montero", "pos": "noun", "d": ["A Spanish huntsman.", "A round cap worn by huntsmen."]}
+{"w": "montessori method", "pos": "phrase", "d": ["A system of education developed by Maria Montessori that stresses self-directed activity and hands-on learning."]}
+{"w": "monteth", "pos": "noun", "d": ["A variant spelling of monteith, a scalloped punch bowl."]}
+{"w": "montgolfier", "pos": "noun", "d": ["A hot-air balloon, named for the Montgolfier brothers who invented it."]}
+{"w": "monticle", "pos": "noun", "d": ["A small hill or mound; a monticule."]}
+{"w": "monticulate", "pos": "adjective", "d": ["Shaped like a small hill; bearing little mounds."]}
+{"w": "monticule", "pos": "noun", "d": ["A little mound or hill."]}
+{"w": "monticulous", "pos": "adjective", "d": ["Full of little hills; hilly."]}
+{"w": "montiform", "pos": "adjective", "d": ["Shaped like a mountain."]}
+{"w": "montigenous", "pos": "adjective", "d": ["Born or produced on mountains."]}
+{"w": "montoir", "pos": "noun", "d": ["A block or step used in mounting a horse."]}
+{"w": "monton", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "montre", "pos": "noun", "d": ["The French word for a watch or timepiece."]}
+{"w": "monument", "pos": "noun", "d": ["A structure erected to commemorate a person or event.", "A lasting memorial or reminder.", "A stone marking a surveyor's boundary."]}
+{"w": "monureid", "pos": "noun", "d": ["A chemical compound containing a single urea group."]}
+{"w": "moo", "pos": "verb", "d": ["To utter the deep lowing sound of a cow.", "To make such a sound."]}
+{"w": "moodily", "pos": "adverb", "d": ["In a moody manner; with gloomy or changeable temper."]}
+{"w": "moodiness", "pos": "noun", "d": ["The state or quality of being moody."]}
+{"w": "moodir", "pos": "noun", "d": ["A director or manager of a department; an Arabic title for a provincial governor."]}
+{"w": "moody", "pos": "adjective", "d": ["Given to gloomy or sullen moods.", "Changeable in temper; subject to sudden shifts of mood."]}
+{"w": "moolah", "pos": "noun", "d": ["Slang for money."]}
+{"w": "moollah", "pos": "noun", "d": ["An older spelling of mullah, a Muslim scholar or teacher."]}
+{"w": "moolley", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moon-culminating", "pos": "adjective", "d": ["Passing the meridian at the same time as the moon, said of stars used with the moon to find longitude."]}
+{"w": "moon-eye", "pos": "noun", "d": ["A silvery North American freshwater fish with large eyes.", "A periodic inflammation of the eyes in horses."]}
+{"w": "moon-faced", "pos": "adjective", "d": ["Having a round, full face like the full moon."]}
+{"w": "moonery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moong", "pos": "noun", "d": ["An East Indian bean, the mung bean, widely used as food."]}
+{"w": "moonie", "pos": "noun", "d": ["A member of the Unification Church founded by Sun Myung Moon."]}
+{"w": "moonshee", "pos": "noun", "d": ["A native clerk, secretary, or language teacher in British India."]}
+{"w": "moony", "pos": "adjective", "d": ["Like the moon in shape or brightness.", "Dreamy and listless in manner."]}
+{"w": "moor", "pos": "noun", "d": ["An open tract of uncultivated land, often heathy or marshy.", "A place where a ship is secured by anchors or lines."]}
+{"w": "mooress", "pos": "noun", "d": ["A woman of the Moorish people of North Africa; an old-fashioned term."]}
+{"w": "mooruk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moory", "pos": "adjective", "d": ["Like a moor; marshy or boggy."]}
+{"w": "moose", "pos": "noun", "d": ["A very large deer of northern regions, the male bearing broad palmate antlers."]}
+{"w": "moot", "pos": "adjective", "d": ["Open to debate; not yet decided."]}
+{"w": "moot-hall", "pos": "noun", "d": ["A hall for public meetings; a town hall."]}
+{"w": "moot-hill", "pos": "noun", "d": ["A hill on which public assemblies or courts were held."]}
+{"w": "moot-house", "pos": "noun", "d": ["A building where a moot or public assembly meets."]}
+{"w": "mop", "pos": "noun", "d": ["A bundle of yarn, cloth, or sponge on a handle, used for cleaning floors."]}
+{"w": "mope", "pos": "verb", "d": ["To be dull and listless from dejection.", "To wander aimlessly in low spirits."]}
+{"w": "mope-eyed", "pos": "adjective", "d": ["Having dull or half-closed eyes, as from drowsiness or dejection."]}
+{"w": "moplah", "pos": "noun", "d": ["A member of the Muslim community of the Malabar coast of India."]}
+{"w": "mopsical", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mopsy", "pos": "noun", "d": ["An old-fashioned affectionate term for a pretty young woman."]}
+{"w": "mopus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moquette", "pos": "noun", "d": ["A thick pile fabric used for carpets and upholstery."]}
+{"w": "mora", "pos": "noun", "d": ["In prosody, the shortest unit of metrical time.", "An Italian game in which players guess the number of fingers shown."]}
+{"w": "moraine", "pos": "noun", "d": ["A ridge or heap of rock debris carried and deposited by a glacier."]}
+{"w": "morainic", "pos": "adjective", "d": ["Of or resembling a moraine."]}
+{"w": "morale", "pos": "noun", "d": ["The confidence, spirit, and willingness of a group facing difficulty."]}
+{"w": "moralization", "pos": "noun", "d": ["The act of moralizing; a moral reflection or lesson."]}
+{"w": "morass", "pos": "noun", "d": ["A marsh or bog; soft, wet, low ground.", "A confusing or entangling situation."]}
+{"w": "morassy", "pos": "adjective", "d": ["Marshy; like a morass."]}
+{"w": "morate", "pos": "verb", "d": ["To delay or linger; an obsolete verb."]}
+{"w": "moratorium", "pos": "noun", "d": ["A legally authorized delay in the payment of debts.", "A temporary suspension of an activity."]}
+{"w": "moravian", "pos": "noun", "d": ["A native or inhabitant of Moravia.", "A member of the Moravian Church."]}
+{"w": "moray", "pos": "noun", "d": ["A voracious tropical eel with a mottled, snake-like body."]}
+{"w": "morbid", "pos": "adjective", "d": ["Relating to disease; unhealthy.", "Unhealthily fascinated by death or gruesome things."]}
+{"w": "morbidezza", "pos": "noun", "d": ["In art, extreme delicacy and softness, especially in rendering flesh."]}
+{"w": "morbific", "pos": "adjective", "d": ["Causing disease; noxious."]}
+{"w": "morbillous", "pos": "adjective", "d": ["Relating to measles; resembling measles."]}
+{"w": "morbose", "pos": "adjective", "d": ["Diseased; unwholesome."]}
+{"w": "morbosity", "pos": "noun", "d": ["A diseased or unwholesome state."]}
+{"w": "morceau", "pos": "noun", "d": ["A short piece of music or literature.", "A morsel or choice bit."]}
+{"w": "mordacious", "pos": "adjective", "d": ["Given to biting; biting.", "Sarcastic and cutting in speech."]}
+{"w": "mordacity", "pos": "noun", "d": ["The quality of being mordacious; biting sarcasm."]}
+{"w": "mordant", "pos": "noun", "d": ["A substance used to fix dyes on cloth or other material.", "A biting, caustic quality in speech or wit."]}
+{"w": "mordente", "pos": "noun", "d": ["In music, a short ornament made by rapid alternation with the note above or below."]}
+{"w": "mordicancy", "pos": "noun", "d": ["The quality of being mordicant; bitingness."]}
+{"w": "mordicant", "pos": "adjective", "d": ["Biting; given to biting."]}
+{"w": "mordication", "pos": "noun", "d": ["The act of biting."]}
+{"w": "mordicative", "pos": "adjective", "d": ["Biting; having the quality of biting."]}
+{"w": "morel", "pos": "noun", "d": ["An edible mushroom with a pitted, honeycombed cap."]}
+{"w": "morelle", "pos": "noun", "d": ["The black nightshade plant, Solanum nigrum."]}
+{"w": "morello", "pos": "noun", "d": ["A dark, sour variety of cherry."]}
+{"w": "morendo", "pos": "adverb", "d": ["In music, dying away; gradually softer and slower."]}
+{"w": "moresk", "pos": "adjective", "d": ["In the Moorish style; decorated with Moorish ornament."]}
+{"w": "morganatic", "pos": "adjective", "d": ["Of a marriage between persons of unequal rank in which the wife and children receive no titles or inheritance rights."]}
+{"w": "morgay", "pos": "noun", "d": ["A small spotted shark of European waters; the dogfish."]}
+{"w": "morglay", "pos": "noun", "d": ["The legendary sword of Sir Bevis of Hampton in medieval romance."]}
+{"w": "morgue", "pos": "noun", "d": ["A place where dead bodies are kept before burial.", "The reference files of old clippings kept by a newspaper."]}
+{"w": "moria", "pos": "noun", "d": ["A mental state marked by foolish joking and euphoria, seen in some brain disorders."]}
+{"w": "morian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moribund", "pos": "adjective", "d": ["Near death; dying.", "On the verge of collapse or extinction."]}
+{"w": "moric", "pos": "adjective", "d": ["Relating to morin, a yellow dye obtained from fustic wood."]}
+{"w": "morice", "pos": "noun", "d": ["An old spelling of morris, as in the morice dance."]}
+{"w": "morigerate", "pos": "verb", "d": ["To obey or comply with; an obsolete verb."]}
+{"w": "morigeration", "pos": "noun", "d": ["Obedience; compliance with authority."]}
+{"w": "morigerous", "pos": "adjective", "d": ["Obedient; dutiful; compliant."]}
+{"w": "moril", "pos": "noun", "d": ["A variant spelling of morel, the edible pitted mushroom."]}
+{"w": "morin", "pos": "noun", "d": ["A yellow dye obtained from the wood of the fustic tree."]}
+{"w": "morinda", "pos": "noun", "d": ["A genus of tropical trees and shrubs, including the noni."]}
+{"w": "morinel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moringa", "pos": "noun", "d": ["A genus of tropical trees with edible pods and leaves, including the drumstick tree."]}
+{"w": "moringic", "pos": "adjective", "d": ["Relating to or derived from the moringa tree."]}
+{"w": "morion", "pos": "noun", "d": ["An open-faced steel helmet worn by soldiers in the sixteenth and seventeenth centuries."]}
+{"w": "morioplasty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "morisco", "pos": "noun", "d": ["A Moor of Spain, especially one of the Moors who remained after the Christian reconquest.", "The Moorish style in art and architecture."]}
+{"w": "morisk", "pos": "noun", "d": ["An old spelling of morris, as in the morris dance."]}
+{"w": "morkin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "morland", "pos": "noun", "d": ["An old word for moorland, open uncultivated ground."]}
+{"w": "morling", "pos": "noun", "d": ["Wool shorn from a dead sheep."]}
+{"w": "mormal", "pos": "noun", "d": ["An old word for a festering sore or ulcer."]}
+{"w": "mormo", "pos": "noun", "d": ["In Greek folklore, a bogey or female spirit used to frighten children.", "A genus of moths."]}
+{"w": "mormon", "pos": "noun", "d": ["A member of the Church of Jesus Christ of Latter-day Saints."]}
+{"w": "mormonite", "pos": "noun", "d": ["A Mormon; a member of the Church of Jesus Christ of Latter-day Saints."]}
+{"w": "morn", "pos": "noun", "d": ["Morning, especially in poetry."]}
+{"w": "morne", "pos": "adjective", "d": ["Gloomy; dreary; dismal."]}
+{"w": "morning-glory", "pos": "noun", "d": ["A climbing vine with trumpet-shaped flowers that open in the morning."]}
+{"w": "moro", "pos": "noun", "d": ["A member of the Muslim peoples of the southern Philippines."]}
+{"w": "moroccan", "pos": "noun", "d": ["A native or inhabitant of Morocco."]}
+{"w": "moron", "pos": "noun", "d": ["A very foolish or stupid person."]}
+{"w": "morone", "pos": "noun", "d": ["A genus of sea basses that includes the striped bass."]}
+{"w": "morosaurus", "pos": "noun", "d": ["A genus of large, plant-eating dinosaurs of the Jurassic period."]}
+{"w": "morose", "pos": "adjective", "d": ["Sullen and gloomy in manner; ill-tempered."]}
+{"w": "moroxite", "pos": "noun", "d": ["A blue or green variety of the mineral apatite."]}
+{"w": "morphean", "pos": "adjective", "d": ["Of or relating to Morpheus; pertaining to sleep or dreams."]}
+{"w": "morpheus", "pos": "noun", "d": ["In Greek mythology, the god of dreams."]}
+{"w": "morphew", "pos": "noun", "d": ["An old word for a scabby eruption on the skin, especially the face."]}
+{"w": "morphia", "pos": "noun", "d": ["An older name for morphine."]}
+{"w": "morphine", "pos": "noun", "d": ["A powerful drug obtained from opium, used to relieve pain."]}
+{"w": "morphinism", "pos": "noun", "d": ["Addiction to or habitual abuse of morphine."]}
+{"w": "morpho", "pos": "noun", "d": ["A genus of large tropical American butterflies with brilliant blue wings."]}
+{"w": "morphogeny", "pos": "noun", "d": ["The study of the development of the forms and structures of organisms."]}
+{"w": "morphologist", "pos": "noun", "d": ["A specialist in morphology, the study of form and structure."]}
+{"w": "morphon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "morphophyly", "pos": "noun", "d": ["Relationship or classification based on similarity of form."]}
+{"w": "morpion", "pos": "noun", "d": ["The crab louse, a parasitic insect."]}
+{"w": "morrice", "pos": "noun", "d": ["A variant of morris, as in the morris dance."]}
+{"w": "morrimal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "morris-chair", "pos": "noun", "d": ["A large armchair with an adjustable back and loose cushions."]}
+{"w": "morris-pike", "pos": "noun", "d": ["A long pike or spear formerly carried by foot soldiers."]}
+{"w": "morro", "pos": "noun", "d": ["A rounded hill or headland, especially near a coast."]}
+{"w": "morrot", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "morrow", "pos": "noun", "d": ["The day after the present day; tomorrow."]}
+{"w": "morse", "pos": "noun", "d": ["An old name for the walrus.", "Samuel F. B. Morse, the American inventor of the telegraph code that bears his name."]}
+{"w": "morse alphabet", "pos": "phrase", "d": ["The system of dots and dashes that represents letters and numbers in telegraphy."]}
+{"w": "morse code", "pos": "phrase", "d": ["A code in which letters and numbers are represented by combinations of dots and dashes."]}
+{"w": "morsel", "pos": "noun", "d": ["A small piece of food; a bite."]}
+{"w": "morsing horn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "morsitation", "pos": "noun", "d": ["The act of biting or nibbling."]}
+{"w": "morsure", "pos": "noun", "d": ["A bite; the act of biting."]}
+{"w": "mort", "pos": "noun", "d": ["In hunting, the notes sounded on the horn at the death of the deer.", "A great deal; a large number."]}
+{"w": "mortar", "pos": "noun", "d": ["A bowl in which substances are pounded with a pestle.", "A mixture of cement, sand, and water used to bind bricks or stones.", "A short cannon for firing shells at a high angle."]}
+{"w": "mortgagee", "pos": "noun", "d": ["The lender in a mortgage; the party to whom property is mortgaged."]}
+{"w": "mortgageor", "pos": "noun", "d": ["A variant spelling of mortgagor."]}
+{"w": "mortgagor", "pos": "noun", "d": ["The borrower in a mortgage; the party who mortgages property."]}
+{"w": "mortiferous", "pos": "adjective", "d": ["Causing death; deadly."]}
+{"w": "mortification", "pos": "noun", "d": ["The death of tissue in a living body; gangrene.", "The practice of denying bodily pleasures for religious discipline.", "A feeling of deep shame or humiliation."]}
+{"w": "mortmal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mortress", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mortuary", "pos": "noun", "d": ["A place where dead bodies are kept before burial."]}
+{"w": "morula", "pos": "noun", "d": ["An early embryo consisting of a solid ball of cells."]}
+{"w": "morus", "pos": "noun", "d": ["A genus of trees that includes the mulberries."]}
+{"w": "morwe", "pos": "noun", "d": ["An old form of morrow, meaning morning or the next day."]}
+{"w": "morwening", "pos": "noun", "d": ["An old spelling of morning."]}
+{"w": "mos", "pos": "noun", "d": ["The Latin word for custom, best known in the plural mores, the customs or morals of a people."]}
+{"w": "mosaic", "pos": "noun", "d": ["A picture or pattern made of small pieces of colored glass, stone, or tile.", "A virus disease of plants that mottles the leaves."]}
+{"w": "mosaism", "pos": "noun", "d": ["The religious system or doctrines taught by Moses."]}
+{"w": "mosasaur", "pos": "noun", "d": ["One of a group of large, extinct marine lizards of the Cretaceous period."]}
+{"w": "mosasauria", "pos": "noun", "d": ["The group of extinct marine reptiles that includes the mosasaurs."]}
+{"w": "mosasaurian", "pos": "adjective", "d": ["Of, like, or belonging to the mosasaurs."]}
+{"w": "mosasaurus", "pos": "noun", "d": ["A genus of giant, extinct marine lizards."]}
+{"w": "moschatel", "pos": "noun", "d": ["A small European plant with pale green flowers, also called town-hall clock."]}
+{"w": "mosel", "pos": "noun", "d": ["A light white wine from the Moselle valley; a variant of moselle."]}
+{"w": "moselle", "pos": "noun", "d": ["A light white wine produced in the valley of the Moselle River."]}
+{"w": "mosey", "pos": "verb", "d": ["To move along in a leisurely, unhurried way."]}
+{"w": "mosk", "pos": "noun", "d": ["A variant spelling of mosque."]}
+{"w": "moslem", "pos": "noun", "d": ["An older spelling of Muslim, a follower of Islam."]}
+{"w": "moslings", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mososaurus", "pos": "noun", "d": ["A variant spelling of mosasaurus."]}
+{"w": "mosquito", "pos": "noun", "d": ["A small flying insect, the female of which bites and sucks blood."]}
+{"w": "moss-grown", "pos": "adjective", "d": ["Covered or overgrown with moss."]}
+{"w": "mossiness", "pos": "noun", "d": ["The quality or state of being mossy."]}
+{"w": "mossy", "pos": "adjective", "d": ["Covered with moss; resembling moss."]}
+{"w": "mostahiba", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moste", "pos": "adverb", "d": ["An old form of most; also an old past tense of must."]}
+{"w": "mostra", "pos": "noun", "d": ["A public show or exhibition."]}
+{"w": "mot", "pos": "noun", "d": ["A brief witty saying; a motto."]}
+{"w": "motacil", "pos": "noun", "d": ["An old name for the wagtail, a small bird."]}
+{"w": "mote", "pos": "noun", "d": ["A tiny particle of dust; a speck."]}
+{"w": "motet", "pos": "noun", "d": ["A short piece of sacred choral music."]}
+{"w": "moth", "pos": "noun", "d": ["A night-flying insect related to the butterfly."]}
+{"w": "moth-eat", "pos": "verb", "d": ["To eat or damage as moths do, especially cloth."]}
+{"w": "mother-in-law", "pos": "noun", "d": ["The mother of one's husband or wife."]}
+{"w": "mother-naked", "pos": "adjective", "d": ["Completely naked; stark naked."]}
+{"w": "mother-of-pearl", "pos": "noun", "d": ["The hard, iridescent inner layer of certain shells, used for ornament."]}
+{"w": "mother-of-thyme", "pos": "noun", "d": ["A low, creeping variety of thyme."]}
+{"w": "motherliness", "pos": "noun", "d": ["The quality of being motherly; maternal tenderness."]}
+{"w": "mothy", "pos": "adjective", "d": ["Infested with moths; resembling a moth."]}
+{"w": "motif", "pos": "noun", "d": ["A recurring theme, subject, or pattern in art, music, or literature."]}
+{"w": "motility", "pos": "noun", "d": ["The power of spontaneous movement."]}
+{"w": "motion picture", "pos": "phrase", "d": ["A series of images projected in rapid succession to create the illusion of movement; a movie."]}
+{"w": "motivate", "pos": "verb", "d": ["To provide with a reason or incentive to act."]}
+{"w": "motivity", "pos": "noun", "d": ["The power of moving or producing motion."]}
+{"w": "motivo", "pos": "noun", "d": ["A motive or leading theme, especially in music."]}
+{"w": "motley-minded", "pos": "adjective", "d": ["Of mixed or varied mind; holding diverse views."]}
+{"w": "moto", "pos": "noun", "d": ["An old spelling of motto.", "An informal short form of motorcycle."]}
+{"w": "motograph", "pos": "noun", "d": ["An early telegraph receiver that recorded signals by chemical action."]}
+{"w": "moton", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "motor car", "pos": "phrase", "d": ["An automobile; a vehicle powered by a motor."]}
+{"w": "motor cycle", "pos": "phrase", "d": ["A two-wheeled vehicle powered by a motor; a motorcycle."]}
+{"w": "motor generator", "pos": "phrase", "d": ["A machine combining a motor and a generator, used to convert electric current from one form to another."]}
+{"w": "motor-driven", "pos": "adjective", "d": ["Driven or powered by a motor."]}
+{"w": "motorpathy", "pos": "noun", "d": ["The treatment of disease by muscular exercise or movement."]}
+{"w": "motte", "pos": "noun", "d": ["The raised earth mound of a medieval motte-and-bailey castle.", "A small grove of trees."]}
+{"w": "mottle", "pos": "verb", "d": ["To mark with spots or patches of different colors."]}
+{"w": "motto", "pos": "noun", "d": ["A short phrase expressing a guiding principle."]}
+{"w": "motty", "pos": "adjective", "d": ["Mottled; marked with spots."]}
+{"w": "mouchoir", "pos": "noun", "d": ["A handkerchief."]}
+{"w": "mouezzin", "pos": "noun", "d": ["A variant of muezzin, the crier who calls Muslims to prayer."]}
+{"w": "mouflon", "pos": "noun", "d": ["A wild sheep of Sardinia and Corsica."]}
+{"w": "mought", "pos": "verb", "d": ["An old past tense of may."]}
+{"w": "mouillation", "pos": "noun", "d": ["In French phonetics, the softening or palatalizing of a consonant."]}
+{"w": "mouille", "pos": "noun", "d": ["A French term for a palatalized or softened consonant sound."]}
+{"w": "mould", "pos": "noun", "d": ["A furry growth of fungus on damp or decaying matter.", "A shaped form in which something is cast; the British spelling of mold."]}
+{"w": "mouldery", "pos": "adjective", "d": ["Crumbly; tending to crumble into dust."]}
+{"w": "mouldiness", "pos": "noun", "d": ["The state of being mouldy."]}
+{"w": "mouldy", "pos": "adjective", "d": ["Covered with mould; musty from decay."]}
+{"w": "moule", "pos": "noun", "d": ["A mussel, especially as served in French cooking.", "A variant of mould."]}
+{"w": "mouline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moulinet", "pos": "noun", "d": ["In fencing, a circular sweep of the sword.", "A small windlass or winch."]}
+{"w": "moult", "pos": "verb", "d": ["The British spelling of molt, to shed feathers, skin, or shell."]}
+{"w": "moun", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mounch", "pos": "verb", "d": ["A dialect form of munch, to chew steadily and noisily."]}
+{"w": "mound", "pos": "noun", "d": ["A heap of earth or stones; a small hill."]}
+{"w": "mountain specter", "pos": "phrase", "d": ["A gigantic, ghostly shadow of the observer cast upon mountain mist."]}
+{"w": "mountain state", "pos": "phrase", "d": ["A nickname for West Virginia, called the Mountain State."]}
+{"w": "mountaineer", "pos": "noun", "d": ["One who climbs mountains.", "A dweller in a mountain region."]}
+{"w": "mountainet", "pos": "noun", "d": ["A small mountain; a hill."]}
+{"w": "mountebank", "pos": "noun", "d": ["A seller of quack medicines from a public platform; a charlatan."]}
+{"w": "mountebankery", "pos": "noun", "d": ["The tricks or practices of a mountebank; quackery."]}
+{"w": "mountenaunce", "pos": "noun", "d": ["An old form of maintenance, meaning support or sustenance."]}
+{"w": "mounty", "pos": "noun", "d": ["A member of the Royal Canadian Mounted Police."]}
+{"w": "mourn", "pos": "verb", "d": ["To grieve over death or loss; to lament."]}
+{"w": "mourne", "pos": "noun", "d": ["The Mourne Mountains, a mountain range in County Down, Northern Ireland."]}
+{"w": "mournival", "pos": "noun", "d": ["Four cards of the same rank; four of a kind."]}
+{"w": "mouse-ear", "pos": "noun", "d": ["A small plant with soft, hairy leaves shaped like a mouse's ear."]}
+{"w": "mousie", "pos": "noun", "d": ["A little mouse; a term of endearment."]}
+{"w": "mousle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mousquetaire", "pos": "noun", "d": ["A musketeer; a French soldier armed with a musket."]}
+{"w": "mousquetaire cuff", "pos": "phrase", "d": ["A wide, turned-back cuff on a coat sleeve, in the style of the musketeers."]}
+{"w": "mousquetaire glove", "pos": "phrase", "d": ["A long glove with a flared, turned-back cuff."]}
+{"w": "mousse", "pos": "noun", "d": ["A light, airy dessert made with whipped cream or egg white.", "A foamy preparation used to style hair."]}
+{"w": "mousseline de soie", "pos": "phrase", "d": ["A fine, sheer silk muslin fabric."]}
+{"w": "moustache", "pos": "noun", "d": ["Hair grown on the upper lip."]}
+{"w": "mousy", "pos": "adjective", "d": ["Like a mouse in color, smell, or timid manner; infested with mice."]}
+{"w": "moutan", "pos": "noun", "d": ["The tree peony of China, grown for its large flowers."]}
+{"w": "mouth-footed", "pos": "adjective", "d": ["Having feet or footlike organs near the mouth."]}
+{"w": "mouth-made", "pos": "adjective", "d": ["Made or shaped by the mouth."]}
+{"w": "movability", "pos": "noun", "d": ["The quality of being movable."]}
+{"w": "movably", "pos": "adverb", "d": ["In a movable manner."]}
+{"w": "movent", "pos": "adjective", "d": ["Moving; causing motion."]}
+{"w": "moving picture", "pos": "phrase", "d": ["A motion picture; a movie."]}
+{"w": "mow", "pos": "verb", "d": ["To cut down grass or grain with a scythe or machine."]}
+{"w": "mowe", "pos": "verb", "d": ["An old form of mow, to cut grass."]}
+{"w": "mown", "pos": "verb", "d": ["Past participle of mow."]}
+{"w": "moxa", "pos": "noun", "d": ["A downy substance burned on the skin as a medical counterirritant."]}
+{"w": "moxie", "pos": "noun", "d": ["Energy, courage, and determination; spirited vigor."]}
+{"w": "moya", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "moyle", "pos": "noun", "d": ["A district in County Antrim, Northern Ireland; also the strait between Ireland and Scotland."]}
+{"w": "mozarab", "pos": "noun", "d": ["A Christian who lived under Moorish rule in medieval Spain."]}
+{"w": "mozetta", "pos": "noun", "d": ["A variant of mozzetta."]}
+{"w": "mozzetta", "pos": "noun", "d": ["A short cape worn over the shoulders by Roman Catholic prelates."]}
+{"w": "mucamide", "pos": "noun", "d": ["A chemical compound derived from mucic acid."]}
+{"w": "mucate", "pos": "noun", "d": ["A salt of mucic acid."]}
+{"w": "muce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "muchel", "pos": "adjective", "d": ["An old form of mickle, meaning much or great."]}
+{"w": "mucic", "pos": "adjective", "d": ["Of or like mucus; designating mucic acid, obtained from plant gums and milk sugar."]}
+{"w": "mucid", "pos": "adjective", "d": ["Musty; moldy; slimy."]}
+{"w": "mucific", "pos": "adjective", "d": ["Producing or secreting mucus."]}
+{"w": "muciform", "pos": "adjective", "d": ["Like mucus in form or consistency."]}
+{"w": "mucigen", "pos": "noun", "d": ["A substance that gives rise to mucin."]}
+{"w": "mucilage", "pos": "noun", "d": ["A thick, sticky substance produced by certain plants that swells in water."]}
+{"w": "mucilaginous", "pos": "adjective", "d": ["Like or containing mucilage; slimy."]}
+{"w": "mucin", "pos": "noun", "d": ["A slimy protein substance secreted by mucous membranes."]}
+{"w": "mucinogen", "pos": "noun", "d": ["A substance from which mucin is formed."]}
+{"w": "muciparous", "pos": "adjective", "d": ["Secreting mucus."]}
+{"w": "mucivore", "pos": "noun", "d": ["An animal that feeds on mucus."]}
+{"w": "muck", "pos": "noun", "d": ["Manure, dirt, or filth."]}
+{"w": "muck rake", "pos": "phrase", "d": ["A rake used for spreading manure; figuratively, the practice of exposing scandal."]}
+{"w": "muck-rake", "pos": "verb", "d": ["To seek out and expose scandal or corruption."]}
+{"w": "muckiness", "pos": "noun", "d": ["The state of being mucky; dirtiness."]}
+{"w": "muckle", "pos": "adjective", "d": ["Large in size; much in quantity."]}
+{"w": "mucksy", "pos": "adjective", "d": ["Dirty; messy; untidy."]}
+{"w": "mucky", "pos": "adjective", "d": ["Soiled with muck; dirty."]}
+{"w": "mucocele", "pos": "noun", "d": ["A swelling caused by trapped mucus."]}
+{"w": "mucoid", "pos": "adjective", "d": ["Resembling mucus or mucin."]}
+{"w": "muconate", "pos": "noun", "d": ["A salt of muconic acid."]}
+{"w": "muconic", "pos": "adjective", "d": ["Designating an acid formed by oxidizing mucic acid."]}
+{"w": "mucopurulent", "pos": "adjective", "d": ["Containing both mucus and pus."]}
+{"w": "mucor", "pos": "noun", "d": ["A genus of molds that includes the common bread mold."]}
+{"w": "mucosity", "pos": "noun", "d": ["The state of being mucous; sliminess."]}
+{"w": "mucous", "pos": "adjective", "d": ["Secreting or resembling mucus; slimy."]}
+{"w": "mucro", "pos": "noun", "d": ["A sharp terminal point, as on a leaf or shell."]}
+{"w": "mucronate", "pos": "adjective", "d": ["Ending abruptly in a sharp point."]}

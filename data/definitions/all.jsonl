@@ -39016,6 +39016,806 @@
 {"w": "opalescence", "pos": "noun", "d": ["A milky iridescence like that of an opal."], "src": "iwb"}
 {"w": "opalescent", "pos": "adjective", "d": ["Showing a milky play of rainbow colors, like an opal."], "src": "iwb"}
 {"w": "opaline", "pos": "adjective", "d": ["Resembling an opal in its milky iridescence."], "src": "iwb"}
+{"w": "opalotype", "pos": "noun", "d": ["A photographic print made on a sheet of milky white glass."], "src": "iwb"}
+{"w": "opaque", "pos": "adjective", "d": ["Not letting light pass through.", "Dull or hard to understand."], "src": "iwb"}
+{"w": "ope", "pos": "adjective", "d": ["Open, in old poetic or literary usage."], "src": "iwb"}
+{"w": "opeidoscope", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "open door", "pos": "phrase", "d": ["An unrestricted opportunity or welcome to enter, apply, or take part."], "src": "iwb"}
+{"w": "open sea", "pos": "phrase", "d": ["The open ocean beyond the coastal waters."], "src": "iwb"}
+{"w": "open verdict", "pos": "phrase", "d": ["A legal verdict in which the cause of death is left undetermined."], "src": "iwb"}
+{"w": "open-air", "pos": "adjective", "d": ["Taking place or located out of doors."], "src": "iwb"}
+{"w": "open-eyed", "pos": "adjective", "d": ["Fully awake and watchful; alert to what is happening."], "src": "iwb"}
+{"w": "open-handed", "pos": "adjective", "d": ["Generous in giving; liberal with gifts or help."], "src": "iwb"}
+{"w": "open-headed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "open-hearted", "pos": "adjective", "d": ["Kind and generous, without reserve or suspicion."], "src": "iwb"}
+{"w": "open-hearth steel", "pos": "phrase", "d": ["Steel made by melting and refining iron on a shallow hearth heated by open flames."], "src": "iwb"}
+{"w": "open-mouthed", "pos": "adjective", "d": ["With the mouth wide open, as in astonishment."], "src": "iwb"}
+{"w": "operable", "pos": "adjective", "d": ["Able to be worked or used.", "Able to be treated by a surgical operation."], "src": "iwb"}
+{"w": "operancy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "operative", "pos": "adjective", "d": ["In force or having effect.", "Working or functioning properly."], "src": "iwb"}
+{"w": "opercle", "pos": "noun", "d": ["One of the bones forming the gill cover of a fish."], "src": "iwb"}
+{"w": "opercula", "pos": "noun", "d": ["The plural of operculum; the small lids or covering plates of various organisms."], "src": "iwb"}
+{"w": "opercular", "pos": "adjective", "d": ["Relating to or serving as a lid or cover, especially a gill cover."], "src": "iwb"}
+{"w": "operculate", "pos": "adjective", "d": ["Provided with a lid or operculum."], "src": "iwb"}
+{"w": "operculiferous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "operculiform", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "operculigenous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "operculum", "pos": "noun", "d": ["A lid or flap covering an opening, such as the gill cover of a fish or the plate closing a snail's shell."], "src": "iwb"}
+{"w": "operetta", "pos": "noun", "d": ["A short light opera with spoken dialogue."], "src": "iwb"}
+{"w": "operosity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "operous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opertaneous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophelic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophicleide", "pos": "noun", "d": ["A keyed brass musical instrument formerly used in bands and orchestras."], "src": "iwb"}
+{"w": "ophidia", "pos": "noun", "d": ["The group of reptiles comprising the snakes."], "src": "iwb"}
+{"w": "ophidian", "pos": "adjective", "d": ["Relating to or resembling a snake."], "src": "iwb"}
+{"w": "ophidioid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophidion", "pos": "noun", "d": ["A genus of slender marine fishes known as cusk-eels."], "src": "iwb"}
+{"w": "ophidious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophiolatry", "pos": "noun", "d": ["The worship of serpents."], "src": "iwb"}
+{"w": "ophiologic", "pos": "adjective", "d": ["Relating to the scientific study of snakes."], "src": "iwb"}
+{"w": "ophiologist", "pos": "noun", "d": ["A person who makes a scientific study of snakes."], "src": "iwb"}
+{"w": "ophiology", "pos": "noun", "d": ["The scientific study of snakes."], "src": "iwb"}
+{"w": "ophiomancy", "pos": "noun", "d": ["Divination by the observation of snakes."], "src": "iwb"}
+{"w": "ophiomorpha", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophiomorphite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophiomorphous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophiophagous", "pos": "adjective", "d": ["Feeding on snakes."], "src": "iwb"}
+{"w": "ophiophagus", "pos": "noun", "d": ["The genus of venomous snakes that includes the king cobra."], "src": "iwb"}
+{"w": "ophism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophiuchus", "pos": "noun", "d": ["A large constellation representing a man holding a serpent."], "src": "iwb"}
+{"w": "ophiura", "pos": "noun", "d": ["A genus of brittle stars."], "src": "iwb"}
+{"w": "ophiuran", "pos": "adjective", "d": ["Relating to the brittle stars."], "src": "iwb"}
+{"w": "ophiurid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophiurida", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophiurioid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophiurioidea", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophiuroidea", "pos": "noun", "d": ["The class of echinoderms containing the brittle stars and basket stars."], "src": "iwb"}
+{"w": "ophryon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophthalmia", "pos": "noun", "d": ["Inflammation of the eye."], "src": "iwb"}
+{"w": "ophthalmic", "pos": "adjective", "d": ["Relating to the eye."], "src": "iwb"}
+{"w": "ophthalmite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ophthalmological", "pos": "adjective", "d": ["Relating to the branch of medicine that deals with the eye."], "src": "iwb"}
+{"w": "ophthalmologist", "pos": "noun", "d": ["A medical doctor who specializes in the care of the eyes."], "src": "iwb"}
+{"w": "ophthalmology", "pos": "noun", "d": ["The branch of medicine concerned with the eye and its diseases."], "src": "iwb"}
+{"w": "ophthalmometer", "pos": "noun", "d": ["An instrument for measuring the curvature of the eye."], "src": "iwb"}
+{"w": "ophthalmoscope", "pos": "noun", "d": ["An instrument for examining the interior of the eye."], "src": "iwb"}
+{"w": "ophthalmoscopy", "pos": "noun", "d": ["The examination of the interior of the eye with an ophthalmoscope."], "src": "iwb"}
+{"w": "ophthalmy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opianic", "pos": "adjective", "d": ["Relating to or derived from opium alkaloids."], "src": "iwb"}
+{"w": "opianine", "pos": "noun", "d": ["A crystalline alkaloid obtained from opium."], "src": "iwb"}
+{"w": "opianyl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opiate", "pos": "noun", "d": ["A drug containing or derived from opium, used to relieve pain.", "Anything that dulls the senses or calms."], "src": "iwb"}
+{"w": "opie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opiferous", "pos": "adjective", "d": ["Bringing aid or relief; helpful."], "src": "iwb"}
+{"w": "opifice", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opination", "pos": "noun", "d": ["The act of forming or expressing an opinion."], "src": "iwb"}
+{"w": "opinative", "pos": "adjective", "d": ["Expressing or inclined to express opinions; opinionated."], "src": "iwb"}
+{"w": "opinator", "pos": "noun", "d": ["One who forms or expresses opinions."], "src": "iwb"}
+{"w": "opine", "pos": "verb", "d": ["To express an opinion."], "src": "iwb"}
+{"w": "opiniaster", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opiniastrous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opiniate", "pos": "adjective", "d": ["Stubbornly holding to one's own opinions."], "src": "iwb"}
+{"w": "opiniative", "pos": "adjective", "d": ["Opinionated; stubborn in holding opinions."], "src": "iwb"}
+{"w": "opiniator", "pos": "noun", "d": ["One who is stubbornly opinionated."], "src": "iwb"}
+{"w": "opiniatre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opiniatrety", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opinicus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opinionatist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opinionative", "pos": "adjective", "d": ["Strongly opinionated; freely expressing opinions."], "src": "iwb"}
+{"w": "opinionator", "pos": "noun", "d": ["One who expresses opinions, especially in a dogmatic way."], "src": "iwb"}
+{"w": "opiparous", "pos": "adjective", "d": ["Sumptuous; richly abundant, as a feast."], "src": "iwb"}
+{"w": "opisometer", "pos": "noun", "d": ["An instrument for measuring curved lines on a map, as with a small tracing wheel."], "src": "iwb"}
+{"w": "opisthion", "pos": "noun", "d": ["The midpoint of the back edge of the foramen magnum, the opening at the base of the skull."], "src": "iwb"}
+{"w": "opisthobranchia", "pos": "noun", "d": ["A group of marine mollusks, including the sea slugs, with gills placed behind the heart."], "src": "iwb"}
+{"w": "opisthobranchiata", "pos": "noun", "d": ["The taxonomic order containing the opisthobranch sea slugs and their relatives."], "src": "iwb"}
+{"w": "opisthobranchiate", "pos": "adjective", "d": ["Belonging to the opisthobranchs."], "src": "iwb"}
+{"w": "opisthocoelian", "pos": "adjective", "d": ["Having vertebrae with a hollow on the rear face."], "src": "iwb"}
+{"w": "opisthocoelous", "pos": "adjective", "d": ["Having vertebrae with a hollow on the rear face."], "src": "iwb"}
+{"w": "opisthodome", "pos": "noun", "d": ["The back room of an ancient Greek temple."], "src": "iwb"}
+{"w": "opisthoglypha", "pos": "noun", "d": ["A group of snakes having grooved fangs set at the back of the mouth."], "src": "iwb"}
+{"w": "opisthography", "pos": "noun", "d": ["Writing on the back of a manuscript or document."], "src": "iwb"}
+{"w": "opisthomi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opisthopulmonate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opisthotic", "pos": "noun", "d": ["A bone forming the rear part of the ear capsule in the skulls of many fishes and early four-footed animals."], "src": "iwb"}
+{"w": "opisthotonos", "pos": "noun", "d": ["A rigid backward arching of the body caused by severe muscle spasm, as in tetanus or meningitis."], "src": "iwb"}
+{"w": "opitulation", "pos": "noun", "d": ["Help or aid given to someone in need (now rare)."], "src": "iwb"}
+{"w": "opium", "pos": "noun", "d": ["A drug prepared from the dried juice of the opium poppy, used as a painkiller and sedative and also abused for its narcotic effects."], "src": "iwb"}
+{"w": "ople tree", "pos": "phrase", "d": ["An old name for the maple tree."], "src": "iwb"}
+{"w": "opobalsam", "pos": "noun", "d": ["A fragrant gum resin obtained from a small tree of Arabia, once prized in medicine and perfumery."], "src": "iwb"}
+{"w": "opobalsamum", "pos": "noun", "d": ["The same fragrant gum resin as opobalsam; the balm of Mecca."], "src": "iwb"}
+{"w": "opodeldoc", "pos": "noun", "d": ["An old-fashioned soap-based liniment once rubbed on bruises and sprains."], "src": "iwb"}
+{"w": "opolchenie", "pos": "noun", "d": ["A Russian popular militia or levy of the people called up in wartime."], "src": "iwb"}
+{"w": "opopanax", "pos": "noun", "d": ["A fragrant gum resin from certain carrot-family plants, used in perfumery and formerly in medicine."], "src": "iwb"}
+{"w": "opossum", "pos": "noun", "d": ["A small American marsupial that carries its young in a pouch and often feigns death when threatened."], "src": "iwb"}
+{"w": "oppidan", "pos": "noun", "d": ["A townsman; at Eton, a student who is not a King's Scholar."], "src": "iwb"}
+{"w": "oppignerate", "pos": "verb", "d": ["To pledge or pawn as security for a loan."], "src": "iwb"}
+{"w": "oppilate", "pos": "verb", "d": ["To obstruct or stop up (a passage in the body)."], "src": "iwb"}
+{"w": "oppilation", "pos": "noun", "d": ["The act of obstructing, or the state of being obstructed."], "src": "iwb"}
+{"w": "oppilative", "pos": "adjective", "d": ["Tending to obstruct or block."], "src": "iwb"}
+{"w": "opplete", "pos": "verb", "d": ["To fill up completely."], "src": "iwb"}
+{"w": "oppletion", "pos": "noun", "d": ["The act or state of being filled up."], "src": "iwb"}
+{"w": "oppone", "pos": "verb", "d": ["To set against; to oppose."], "src": "iwb"}
+{"w": "opponency", "pos": "noun", "d": ["The act of opposing; opposition."], "src": "iwb"}
+{"w": "opportune", "pos": "adjective", "d": ["Happening at a favorable or fitting time; well-timed."], "src": "iwb"}
+{"w": "opportunism", "pos": "noun", "d": ["The practice of taking advantage of circumstances for personal gain, without regard for principles."], "src": "iwb"}
+{"w": "opportunist", "pos": "noun", "d": ["One who takes advantage of opportunities for personal gain regardless of principle."], "src": "iwb"}
+{"w": "opposability", "pos": "noun", "d": ["The quality of being opposable, as a thumb that can be placed against the fingers."], "src": "iwb"}
+{"w": "opposal", "pos": "noun", "d": ["A proposal (an old form of the word)."], "src": "iwb"}
+{"w": "oppose", "pos": "verb", "d": ["To stand or act against; to resist or argue against."], "src": "iwb"}
+{"w": "oppositifolious", "pos": "adjective", "d": ["In botany, having leaves placed opposite the flowers."], "src": "iwb"}
+{"w": "oppositipetalous", "pos": "adjective", "d": ["In botany, placed opposite the petals, as certain stamens."], "src": "iwb"}
+{"w": "oppositisepalous", "pos": "adjective", "d": ["In botany, placed opposite the sepals, as certain stamens or petals."], "src": "iwb"}
+{"w": "oppositive", "pos": "adjective", "d": ["Tending to oppose; expressing opposition."], "src": "iwb"}
+{"w": "oppress", "pos": "verb", "d": ["To keep down by harsh authority; to burden with cruel treatment."], "src": "iwb"}
+{"w": "oppressor", "pos": "noun", "d": ["One who oppresses; a cruel ruler or master."], "src": "iwb"}
+{"w": "opprobrium", "pos": "noun", "d": ["Public disgrace or reproach arising from shameful conduct."], "src": "iwb"}
+{"w": "opprobry", "pos": "noun", "d": ["Reproach; disgrace (an old form of opprobrium)."], "src": "iwb"}
+{"w": "oppugn", "pos": "verb", "d": ["To attack with argument; to oppose or call in question."], "src": "iwb"}
+{"w": "oppugnancy", "pos": "noun", "d": ["The act of opposing; resistance."], "src": "iwb"}
+{"w": "opsimathy", "pos": "noun", "d": ["Learning late in life."], "src": "iwb"}
+{"w": "opsiometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "opsonation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "optable", "pos": "adjective", "d": ["Capable of being chosen; that may be selected."], "src": "iwb"}
+{"w": "optate", "pos": "verb", "d": ["To choose or select; to wish for."], "src": "iwb"}
+{"w": "optation", "pos": "noun", "d": ["The act of choosing; a choice."], "src": "iwb"}
+{"w": "optative", "pos": "adjective", "d": ["Expressing a wish, as the optative mood in grammar."], "src": "iwb"}
+{"w": "optic", "pos": "adjective", "d": ["Of or relating to the eye or to vision."], "src": "iwb"}
+{"w": "optician", "pos": "noun", "d": ["One who makes or sells eyeglasses and other optical goods."], "src": "iwb"}
+{"w": "optigraph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "optimacy", "pos": "noun", "d": ["Government by the best or noblest; aristocracy."], "src": "iwb"}
+{"w": "optimate", "pos": "noun", "d": ["One of the optimates; an aristocrat or noble."], "src": "iwb"}
+{"w": "optime", "pos": "noun", "d": ["At Cambridge, a student placed in the second or third class of honors in mathematics."], "src": "iwb"}
+{"w": "optimism", "pos": "noun", "d": ["The habit of expecting the best possible outcome; hopefulness."], "src": "iwb"}
+{"w": "optimist", "pos": "noun", "d": ["One who habitually expects good outcomes."], "src": "iwb"}
+{"w": "optimity", "pos": "noun", "d": ["The state or quality of being best; excellence."], "src": "iwb"}
+{"w": "optocoele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "optocoelia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "optogram", "pos": "noun", "d": ["An image once supposed to remain fixed on the retina of a dead eye."], "src": "iwb"}
+{"w": "optography", "pos": "noun", "d": ["The supposed process of obtaining an image from the retina of a dead eye."], "src": "iwb"}
+{"w": "optometer", "pos": "noun", "d": ["An instrument for measuring the refractive power of the eye."], "src": "iwb"}
+{"w": "optometrist", "pos": "noun", "d": ["One who examines the eyes and prescribes corrective lenses."], "src": "iwb"}
+{"w": "optometry", "pos": "noun", "d": ["The practice of examining the eyes and fitting corrective lenses."], "src": "iwb"}
+{"w": "opulence", "pos": "noun", "d": ["Great wealth or abundance; luxurious richness."], "src": "iwb"}
+{"w": "opulency", "pos": "noun", "d": ["Wealth; opulence."], "src": "iwb"}
+{"w": "opulent", "pos": "adjective", "d": ["Very wealthy; richly luxurious."], "src": "iwb"}
+{"w": "opuntia", "pos": "noun", "d": ["A genus of cacti including the prickly pears, with flat jointed stems."], "src": "iwb"}
+{"w": "opus", "pos": "noun", "d": ["A work, especially a musical composition numbered among a composer's works."], "src": "iwb"}
+{"w": "opuscle", "pos": "noun", "d": ["A small or minor work, especially a short musical piece."], "src": "iwb"}
+{"w": "opuscule", "pos": "noun", "d": ["A little work; a minor literary or musical composition."], "src": "iwb"}
+{"w": "opusculum", "pos": "noun", "d": ["A little work; the same as an opuscule."], "src": "iwb"}
+{"w": "opye", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oquassa", "pos": "noun", "d": ["A small trout-like fish found in the lakes of Maine."], "src": "iwb"}
+{"w": "ora", "pos": "noun", "d": ["The plural of os; mouths or openings, as in anatomy."], "src": "iwb"}
+{"w": "orabassu", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orach", "pos": "noun", "d": ["A plant of the goosefoot family with spinach-like leaves, grown as a vegetable."], "src": "iwb"}
+{"w": "orache", "pos": "noun", "d": ["The same plant as orach; mountain spinach."], "src": "iwb"}
+{"w": "oracular", "pos": "adjective", "d": ["Of or like an oracle; uttering solemn or mysterious pronouncements."], "src": "iwb"}
+{"w": "oraculous", "pos": "adjective", "d": ["Of the nature of an oracle; oracular."], "src": "iwb"}
+{"w": "oragious", "pos": "adjective", "d": ["Stormy; tempestuous."], "src": "iwb"}
+{"w": "oraison", "pos": "noun", "d": ["A prayer; a spoken address or oration."], "src": "iwb"}
+{"w": "orang", "pos": "noun", "d": ["The orangutan; a large ape of Borneo and Sumatra."], "src": "iwb"}
+{"w": "orang-outang", "pos": "noun", "d": ["An older spelling of orangutan."], "src": "iwb"}
+{"w": "orangeade", "pos": "noun", "d": ["A sweet drink made with orange juice."], "src": "iwb"}
+{"w": "orangery", "pos": "noun", "d": ["A sheltered place, especially a greenhouse, for growing orange trees in cool climates."], "src": "iwb"}
+{"w": "orangite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orarian", "pos": "adjective", "d": ["Of or belonging to a seacoast; dwelling by the sea."], "src": "iwb"}
+{"w": "oratorian", "pos": "noun", "d": ["A member of the Congregation of the Oratory, a Roman Catholic order of priests."], "src": "iwb"}
+{"w": "oratorio", "pos": "noun", "d": ["A long musical work for voices and orchestra, usually on a sacred subject, performed without scenery or acting."], "src": "iwb"}
+{"w": "oratrix", "pos": "noun", "d": ["A female orator."], "src": "iwb"}
+{"w": "orb", "pos": "noun", "d": ["A sphere or globe; also, a golden globe topped with a cross, carried as a symbol of royal power."], "src": "iwb"}
+{"w": "orbicle", "pos": "noun", "d": ["A small orb or sphere."], "src": "iwb"}
+{"w": "orbicula", "pos": "noun", "d": ["A small disk-shaped body; also a genus of disk-shaped brachiopod shellfish."], "src": "iwb"}
+{"w": "orbicular", "pos": "adjective", "d": ["Circular or spherical in form; like an orb."], "src": "iwb"}
+{"w": "orbiculate", "pos": "adjective", "d": ["Rounded like a disk; orbicular."], "src": "iwb"}
+{"w": "orbitar", "pos": "adjective", "d": ["Of or relating to the orbit of the eye; orbital."], "src": "iwb"}
+{"w": "orbitelae", "pos": "noun", "d": ["A group of spiders that spin circular orb webs."], "src": "iwb"}
+{"w": "orbitolites", "pos": "noun", "d": ["A genus of fossil one-celled shellfish with disk-shaped shells."], "src": "iwb"}
+{"w": "orbitonasal", "pos": "adjective", "d": ["Relating to the eye socket and the nose."], "src": "iwb"}
+{"w": "orbitosphenoid", "pos": "noun", "d": ["A bone forming part of the wall of the braincase between the eye socket and the sphenoid region in many vertebrates."], "src": "iwb"}
+{"w": "orbituary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orbitude", "pos": "noun", "d": ["The state of being bereft of children; bereavement."], "src": "iwb"}
+{"w": "orbulina", "pos": "noun", "d": ["A genus of microscopic marine protozoans whose round shells make them useful index fossils in geology."], "src": "iwb"}
+{"w": "orby", "pos": "adjective", "d": ["Rounded like an orb; circular or spherical in shape."], "src": "iwb"}
+{"w": "orc", "pos": "noun", "d": ["A brutish, goblin-like creature of fantasy stories and games.", "An ancient sea monster or whale, as in old literature."], "src": "iwb"}
+{"w": "orcadian", "pos": "adjective", "d": ["Of or relating to the Orkney Islands, an archipelago off the north coast of Scotland.", "As a noun, a native or inhabitant of the Orkney Islands."], "src": "iwb"}
+{"w": "orcein", "pos": "noun", "d": ["A reddish-purple dye obtained from certain lichens, used in microscopy and textile dyeing."], "src": "iwb"}
+{"w": "orchal", "pos": "noun", "d": ["A violet-purple dye made from lichens; a variant spelling of orchil."], "src": "iwb"}
+{"w": "orchanet", "pos": "noun", "d": ["A red dye obtained from the root of the alkanet plant; a variant of alkanet."], "src": "iwb"}
+{"w": "orchel", "pos": "noun", "d": ["A violet or purple dye made from lichens; another spelling of archil."], "src": "iwb"}
+{"w": "orchesography", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orchester", "pos": "noun", "d": ["A large group of instrumental musicians; the German word for orchestra."], "src": "iwb"}
+{"w": "orchestian", "pos": "noun", "d": ["A member of an orchestra; an orchestral musician."], "src": "iwb"}
+{"w": "orchestral", "pos": "adjective", "d": ["Of or relating to an orchestra or its music."], "src": "iwb"}
+{"w": "orchestre", "pos": "noun", "d": ["A band of instrumental musicians; the French word for orchestra."], "src": "iwb"}
+{"w": "orchestric", "pos": "adjective", "d": ["Of or relating to dancing, or to the chorus and dancing place of ancient Greek drama."], "src": "iwb"}
+{"w": "orchestrion", "pos": "noun", "d": ["A large mechanical musical instrument designed to reproduce the sound of a full orchestra."], "src": "iwb"}
+{"w": "orchidaceous", "pos": "adjective", "d": ["Belonging to or characteristic of the orchid family of flowering plants."], "src": "iwb"}
+{"w": "orchidologist", "pos": "noun", "d": ["A person who studies orchids; a specialist in the orchid family."], "src": "iwb"}
+{"w": "orchil", "pos": "noun", "d": ["A violet-purple dye extracted from certain lichens, used for dyeing and as a stain."], "src": "iwb"}
+{"w": "orchilla weed", "pos": "phrase", "d": ["A dye-yielding lichen of the genus Roccella, used to make the purple dye orchil."], "src": "iwb"}
+{"w": "orchitis", "pos": "noun", "d": ["Inflammation of one or both testicles."], "src": "iwb"}
+{"w": "orchotomy", "pos": "noun", "d": ["A surgical operation involving an incision into a testicle."], "src": "iwb"}
+{"w": "orcin", "pos": "noun", "d": ["A colorless crystalline compound obtained from lichens, used in making dyes and chemical indicators."], "src": "iwb"}
+{"w": "ord", "pos": "noun", "d": ["In Scots and northern English dialect, a sharp point or edge.", "A beginning or starting point."], "src": "iwb"}
+{"w": "ordain", "pos": "verb", "d": ["To invest officially with priestly or ministerial authority.", "To decree or establish by authority; to destine or appoint."], "src": "iwb"}
+{"w": "ordalian", "pos": "adjective", "d": ["Of or relating to trial by ordeal."], "src": "iwb"}
+{"w": "ordeal", "pos": "noun", "d": ["A difficult or painful experience that tests endurance or character.", "An ancient method of settling guilt or innocence by a severe physical test."], "src": "iwb"}
+{"w": "orderliness", "pos": "noun", "d": ["The state or quality of being tidy, well-arranged, and obedient to order."], "src": "iwb"}
+{"w": "ordinal", "pos": "adjective", "d": ["Indicating position or order in a series, as first, second, or third.", "Relating to the prescribed order of worship in a church service."], "src": "iwb"}
+{"w": "ordinand", "pos": "noun", "d": ["A person about to be ordained; a candidate for holy orders."], "src": "iwb"}
+{"w": "ordinant", "pos": "noun", "d": ["One who ordains; a person or authority that confers holy orders."], "src": "iwb"}
+{"w": "ordinarily", "pos": "adverb", "d": ["In the usual or normal manner; as a rule; commonly."], "src": "iwb"}
+{"w": "ordinate", "pos": "noun", "d": ["In mathematics, the vertical coordinate of a point; its distance from the horizontal axis."], "src": "iwb"}
+{"w": "ordination", "pos": "noun", "d": ["The act or ceremony of ordaining a person to holy orders."], "src": "iwb"}
+{"w": "ordinative", "pos": "adjective", "d": ["Relating to or having the power of ordination."], "src": "iwb"}
+{"w": "ordinator", "pos": "noun", "d": ["One who ordains, appoints, or sets things in order."], "src": "iwb"}
+{"w": "ordnance", "pos": "noun", "d": ["Artillery, ammunition, and other military supplies collectively.", "The military branch charged with procuring and issuing weapons and ammunition."], "src": "iwb"}
+{"w": "ordonnance", "pos": "noun", "d": ["An authoritative decree or order, especially one issued under French law."], "src": "iwb"}
+{"w": "ordonnant", "pos": "noun", "d": ["One who orders, directs, or prescribes; a person giving commands."], "src": "iwb"}
+{"w": "ordovian", "pos": "adjective", "d": ["Of or relating to the Ordovician period of geologic time."], "src": "iwb"}
+{"w": "ordovician", "pos": "adjective", "d": ["Of or relating to the second period of the Paleozoic era, roughly 485 to 444 million years ago."], "src": "iwb"}
+{"w": "ordurous", "pos": "adjective", "d": ["Filthy, foul, or disgusting, especially in smell."], "src": "iwb"}
+{"w": "ore", "pos": "noun", "d": ["A naturally occurring rock or mineral from which a metal can be profitably extracted."], "src": "iwb"}
+{"w": "oread", "pos": "noun", "d": ["In Greek mythology, a nymph dwelling in the mountains."], "src": "iwb"}
+{"w": "orectic", "pos": "adjective", "d": ["Of or relating to desire or the appetitive faculty."], "src": "iwb"}
+{"w": "oregon grape", "pos": "phrase", "d": ["An evergreen shrub of the Pacific Northwest with yellow flowers and blue, grape-like berries."], "src": "iwb"}
+{"w": "oreodon", "pos": "noun", "d": ["An extinct genus of pig-like herbivorous mammals that lived in North America."], "src": "iwb"}
+{"w": "oreodont", "pos": "noun", "d": ["An extinct hoofed herbivore of the family Merycoidodontidae."], "src": "iwb"}
+{"w": "oreographic", "pos": "adjective", "d": ["Of or relating to oreography, the description and mapping of mountains."], "src": "iwb"}
+{"w": "oreography", "pos": "noun", "d": ["The branch of physical geography concerned with describing mountains and mountain systems."], "src": "iwb"}
+{"w": "oreoselin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oreosoma", "pos": "noun", "d": ["A genus of deep-sea sea urchins."], "src": "iwb"}
+{"w": "orf", "pos": "noun", "d": ["An infectious skin disease of sheep and goats, marked by scabby sores and transmissible to people."], "src": "iwb"}
+{"w": "orfe", "pos": "noun", "d": ["A freshwater fish of the carp family, especially the golden variety kept in ornamental ponds."], "src": "iwb"}
+{"w": "orgal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "organdy", "pos": "noun", "d": ["A fine, stiff, sheer cotton fabric, usually with a plain weave."], "src": "iwb"}
+{"w": "organific", "pos": "adjective", "d": ["Relating to the formation of organs or organized living tissue."], "src": "iwb"}
+{"w": "organista", "pos": "noun", "d": ["An organist; a player of the pipe organ."], "src": "iwb"}
+{"w": "organizability", "pos": "noun", "d": ["The state or quality of being capable of being organized."], "src": "iwb"}
+{"w": "organo-", "pos": "prefix", "d": ["A combining form meaning organ, as in organogenesis, or organic, as in organometallic."], "src": "iwb"}
+{"w": "organogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "organogenesis", "pos": "noun", "d": ["The formation and development of organs in a living organism."], "src": "iwb"}
+{"w": "organogeny", "pos": "noun", "d": ["The study or doctrine of the origin and development of organs."], "src": "iwb"}
+{"w": "organographic", "pos": "adjective", "d": ["Of or relating to organography, the descriptive study of organs."], "src": "iwb"}
+{"w": "organographist", "pos": "noun", "d": ["One who describes or writes about organs; a specialist in organography."], "src": "iwb"}
+{"w": "organography", "pos": "noun", "d": ["The descriptive study of the organs of plants or animals."], "src": "iwb"}
+{"w": "organoleptic", "pos": "adjective", "d": ["Of or relating to the properties of a substance as perceived by the senses, especially taste and smell."], "src": "iwb"}
+{"w": "organological", "pos": "adjective", "d": ["Of or relating to organology, the science of organs."], "src": "iwb"}
+{"w": "organometallic", "pos": "adjective", "d": ["Relating to compounds containing a chemical bond between carbon and a metal atom."], "src": "iwb"}
+{"w": "organon", "pos": "noun", "d": ["A system or instrument of reasoning; a body of logical rules.", "The collected logical treatises of Aristotle."], "src": "iwb"}
+{"w": "organonymy", "pos": "noun", "d": ["The naming or terminology of the organs of the body."], "src": "iwb"}
+{"w": "organophyly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "organoplastic", "pos": "adjective", "d": ["Forming or capable of forming organized bodily tissue or organs."], "src": "iwb"}
+{"w": "organoscopy", "pos": "noun", "d": ["The examination of internal organs, especially by visual inspection with instruments."], "src": "iwb"}
+{"w": "organotrophic", "pos": "adjective", "d": ["Deriving nourishment from organic substances."], "src": "iwb"}
+{"w": "organum", "pos": "noun", "d": ["A medieval form of polyphonic music in which a plainchant melody is accompanied by one or more additional voices."], "src": "iwb"}
+{"w": "organy", "pos": "noun", "d": ["A fine, translucent fabric resembling organdy."], "src": "iwb"}
+{"w": "organzine", "pos": "noun", "d": ["A strong silk thread made by twisting together two or more strands."], "src": "iwb"}
+{"w": "orgasm", "pos": "noun", "d": ["The climax of sexual excitement, marked by intense pleasurable sensation."], "src": "iwb"}
+{"w": "orgeat", "pos": "noun", "d": ["A sweet syrup made from almonds, used to flavor drinks and desserts."], "src": "iwb"}
+{"w": "orgeis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orgiastic", "pos": "adjective", "d": ["Of, relating to, or suggestive of an orgy; wildly unrestrained."], "src": "iwb"}
+{"w": "orgillous", "pos": "adjective", "d": ["Proud, haughty, or disdainful in manner."], "src": "iwb"}
+{"w": "orgue", "pos": "noun", "d": ["A pipe organ; the French word for the musical instrument.", "A battery of small guns mounted to fire together; an organ gun."], "src": "iwb"}
+{"w": "orgulous", "pos": "adjective", "d": ["Proud, haughty, or arrogant in bearing."], "src": "iwb"}
+{"w": "orgy", "pos": "noun", "d": ["A wild gathering marked by excessive indulgence in drink, revelry, or sex.", "An extravagant or unrestrained outburst of activity."], "src": "iwb"}
+{"w": "orgyia", "pos": "noun", "d": ["An ancient Greek unit of length about equal to a fathom."], "src": "iwb"}
+{"w": "oricalche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orichalceous", "pos": "adjective", "d": ["Resembling orichalcum, an ancient golden alloy of copper."], "src": "iwb"}
+{"w": "orichalch", "pos": "noun", "d": ["An ancient copper alloy with a golden luster, prized in antiquity."], "src": "iwb"}
+{"w": "oriel", "pos": "noun", "d": ["A bay window projecting outward from an upper story of a building."], "src": "iwb"}
+{"w": "oriency", "pos": "noun", "d": ["The state of being oriental; the brilliance or luster characteristic of fine pearls."], "src": "iwb"}
+{"w": "orient", "pos": "verb", "d": ["To set or arrange in a definite position relative to the compass points or other landmarks.", "To acquaint or familiarize with a new situation or surroundings."], "src": "iwb"}
+{"w": "orifice", "pos": "noun", "d": ["An opening, mouth, or vent, especially of a bodily organ or passage."], "src": "iwb"}
+{"w": "oriflamb", "pos": "noun", "d": ["A small flag or pennant; a variant spelling of oriflamme."], "src": "iwb"}
+{"w": "oriflamme", "pos": "noun", "d": ["The sacred red silk banner of the medieval kings of France.", "Any inspiring symbol or rallying cause."], "src": "iwb"}
+{"w": "origan", "pos": "noun", "d": ["An aromatic herb of the mint family, including oregano and marjoram."], "src": "iwb"}
+{"w": "origanum", "pos": "noun", "d": ["A genus of aromatic herbs including oregano and marjoram."], "src": "iwb"}
+{"w": "origenism", "pos": "noun", "d": ["The theological doctrines taught by Origen, the third-century Christian theologian of Alexandria."], "src": "iwb"}
+{"w": "origenist", "pos": "noun", "d": ["A follower of Origen; an adherent of Origenism."], "src": "iwb"}
+{"w": "originative", "pos": "adjective", "d": ["Having the power to originate; creative or productive of new things."], "src": "iwb"}
+{"w": "originator", "pos": "noun", "d": ["A person who starts, creates, or first brings something into being."], "src": "iwb"}
+{"w": "orillon", "pos": "noun", "d": ["In old fortifications, the rounded shoulder of a bastion where the face curves back toward the flank."], "src": "iwb"}
+{"w": "oriol", "pos": "noun", "d": ["A spelling variant of oriole, a brightly colored songbird."], "src": "iwb"}
+{"w": "oriole", "pos": "noun", "d": ["A brightly colored songbird, the males typically marked with orange or yellow and black."], "src": "iwb"}
+{"w": "orion", "pos": "noun", "d": ["A prominent constellation named for the hunter of Greek mythology, marked by three bright stars in a row.", "In Greek mythology, a giant hunter placed among the stars."], "src": "iwb"}
+{"w": "oriskany", "pos": "noun", "d": ["A village in central New York, site of a 1777 battle of the American Revolutionary War."], "src": "iwb"}
+{"w": "orismological", "pos": "adjective", "d": ["Relating to orismology, the science of defining technical terms."], "src": "iwb"}
+{"w": "orismology", "pos": "noun", "d": ["The science of defining technical terms; the study of terminology."], "src": "iwb"}
+{"w": "orison", "pos": "noun", "d": ["A prayer, especially a solemn or formal one."], "src": "iwb"}
+{"w": "orisont", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ork", "pos": "noun", "d": ["A variant spelling of orc, a brutish humanoid creature in fantasy stories and games."], "src": "iwb"}
+{"w": "orkneyan", "pos": "adjective", "d": ["Relating to the Orkney Islands, off the northern coast of Scotland."], "src": "iwb"}
+{"w": "orle", "pos": "noun", "d": ["In heraldry, a narrow border following the inner edge of a shield."], "src": "iwb"}
+{"w": "orlo", "pos": "noun", "d": ["An old wind instrument of the oboe kind."], "src": "iwb"}
+{"w": "orlop", "pos": "noun", "d": ["The lowest deck of a sailing ship, just above the hold."], "src": "iwb"}
+{"w": "ormazd", "pos": "noun", "d": ["The supreme god of Zoroastrianism, creator of all that is good."], "src": "iwb"}
+{"w": "ormer", "pos": "noun", "d": ["A large edible sea-ear shellfish of the Channel Islands, a kind of abalone."], "src": "iwb"}
+{"w": "ormolu", "pos": "noun", "d": ["Gold-colored bronze used as decoration on fine furniture and objects."], "src": "iwb"}
+{"w": "ormuzd", "pos": "noun", "d": ["A variant spelling of Ormazd, the supreme god of Zoroastrianism."], "src": "iwb"}
+{"w": "orn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ornature", "pos": "noun", "d": ["Adornment; decorative embellishment."], "src": "iwb"}
+{"w": "ornithic", "pos": "adjective", "d": ["Relating to birds."], "src": "iwb"}
+{"w": "ornithichnite", "pos": "noun", "d": ["A fossilized footprint of a bird or birdlike creature."], "src": "iwb"}
+{"w": "ornithichnology", "pos": "noun", "d": ["The scientific study of fossil bird footprints."], "src": "iwb"}
+{"w": "ornitho-", "pos": "prefix", "d": ["A combining form meaning 'bird' or 'relating to birds', as in ornithology."], "src": "iwb"}
+{"w": "ornithodelphia", "pos": "noun", "d": ["The group of egg-laying mammals, including the platypus and the echidnas."], "src": "iwb"}
+{"w": "ornithoidichnite", "pos": "noun", "d": ["A fossil footprint resembling the track of a bird."], "src": "iwb"}
+{"w": "ornitholite", "pos": "noun", "d": ["A fossil bird or fossil bird remains."], "src": "iwb"}
+{"w": "ornithologic", "pos": "adjective", "d": ["Relating to ornithology, the study of birds."], "src": "iwb"}
+{"w": "ornithologist", "pos": "noun", "d": ["A person who studies birds scientifically."], "src": "iwb"}
+{"w": "ornithology", "pos": "noun", "d": ["The scientific study of birds."], "src": "iwb"}
+{"w": "ornithomancy", "pos": "noun", "d": ["Divination by observing the flight, cries, or behavior of birds."], "src": "iwb"}
+{"w": "ornithon", "pos": "noun", "d": ["An aviary; a building or enclosure for keeping birds."], "src": "iwb"}
+{"w": "ornithopappi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ornithopoda", "pos": "noun", "d": ["A group of plant-eating dinosaurs with birdlike feet, including the duck-billed hadrosaurs."], "src": "iwb"}
+{"w": "ornithorhynchus", "pos": "noun", "d": ["The genus containing the platypus, an egg-laying mammal of Australia."], "src": "iwb"}
+{"w": "ornithosauria", "pos": "noun", "d": ["An order of flying reptiles that lived during the age of dinosaurs."], "src": "iwb"}
+{"w": "ornithoscelida", "pos": "noun", "d": ["A proposed group of dinosaurs uniting the bird-hipped dinosaurs and the theropods."], "src": "iwb"}
+{"w": "ornithoscopy", "pos": "noun", "d": ["The observation of birds, especially for purposes of divination."], "src": "iwb"}
+{"w": "ornithotomical", "pos": "adjective", "d": ["Relating to the dissection of birds."], "src": "iwb"}
+{"w": "ornithotomist", "pos": "noun", "d": ["A person who dissects birds for scientific study."], "src": "iwb"}
+{"w": "ornithotomy", "pos": "noun", "d": ["The dissection of birds for scientific study."], "src": "iwb"}
+{"w": "orograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orography", "pos": "noun", "d": ["The study and description of mountains and mountain ranges."], "src": "iwb"}
+{"w": "oroheliograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orohippus", "pos": "noun", "d": ["A genus of small extinct early horses that lived during the Eocene epoch."], "src": "iwb"}
+{"w": "oroide", "pos": "noun", "d": ["A gold-colored alloy used as an imitation of gold in jewelry."], "src": "iwb"}
+{"w": "orological", "pos": "adjective", "d": ["Relating to orology, the scientific study of mountains."], "src": "iwb"}
+{"w": "orologist", "pos": "noun", "d": ["A person who studies mountains scientifically."], "src": "iwb"}
+{"w": "orology", "pos": "noun", "d": ["The scientific study of mountains."], "src": "iwb"}
+{"w": "orometer", "pos": "noun", "d": ["An instrument for measuring the height of mountains."], "src": "iwb"}
+{"w": "orotund", "pos": "adjective", "d": ["Having a full, rich, resonant voice or manner of speaking."], "src": "iwb"}
+{"w": "orphaline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orphan", "pos": "noun", "d": ["A child whose parents are dead or who has been abandoned by them."], "src": "iwb"}
+{"w": "orphancy", "pos": "noun", "d": ["The state or condition of being an orphan."], "src": "iwb"}
+{"w": "orphanet", "pos": "noun", "d": ["A reference portal cataloging rare diseases and orphan drugs."], "src": "iwb"}
+{"w": "orphanotrophism", "pos": "noun", "d": ["The system or practice of caring for and raising orphans."], "src": "iwb"}
+{"w": "orphanotrophy", "pos": "noun", "d": ["The rearing and care of orphans; also, an orphanage."], "src": "iwb"}
+{"w": "orpharion", "pos": "noun", "d": ["A wire-strung plucked instrument of the Renaissance, resembling a small lute."], "src": "iwb"}
+{"w": "orphean", "pos": "adjective", "d": ["Relating to Orpheus; musical or entrancing like the songs of Orpheus."], "src": "iwb"}
+{"w": "orpheline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orpheus", "pos": "noun", "d": ["In Greek mythology, a legendary musician whose songs charmed all living things."], "src": "iwb"}
+{"w": "orphic", "pos": "adjective", "d": ["Relating to Orpheus; mystical, entrancing, or beyond ordinary understanding."], "src": "iwb"}
+{"w": "orphrey", "pos": "noun", "d": ["A richly embroidered band on an ecclesiastical vestment."], "src": "iwb"}
+{"w": "orpiment", "pos": "noun", "d": ["A bright yellow mineral of arsenic sulfide, once widely used as a pigment."], "src": "iwb"}
+{"w": "orpin", "pos": "noun", "d": ["A variant form of orpiment, a yellow arsenic mineral used as a pigment."], "src": "iwb"}
+{"w": "orpine", "pos": "noun", "d": ["A fleshy-leaved stonecrop plant, also called livelong."], "src": "iwb"}
+{"w": "orrach", "pos": "noun", "d": ["A variant spelling of orach, a leafy plant with edible spinach-like leaves."], "src": "iwb"}
+{"w": "orrery", "pos": "noun", "d": ["A mechanical model showing the motions of the planets around the sun."], "src": "iwb"}
+{"w": "orris", "pos": "noun", "d": ["The dried fragrant root of an iris, used in perfumery."], "src": "iwb"}
+{"w": "orsedew", "pos": "noun", "d": ["A gold-colored alloy of copper and zinc used to imitate gold."], "src": "iwb"}
+{"w": "orsedue", "pos": "noun", "d": ["A variant spelling of orsedew, a gold-colored alloy imitating gold."], "src": "iwb"}
+{"w": "orseille", "pos": "noun", "d": ["A purple-red dye made from certain lichens, also called archil."], "src": "iwb"}
+{"w": "orsellic", "pos": "adjective", "d": ["Relating to orsellic acid, an acid obtained from dye lichens."], "src": "iwb"}
+{"w": "orsellinic", "pos": "adjective", "d": ["Relating to orsellinic acid, an acid obtained from dye lichens."], "src": "iwb"}
+{"w": "ort", "pos": "noun", "d": ["A scrap or leftover bit of food."], "src": "iwb"}
+{"w": "ortalidian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orthite", "pos": "noun", "d": ["A dark mineral rich in rare-earth elements, a variety of allanite."], "src": "iwb"}
+{"w": "ortho-", "pos": "prefix", "d": ["A prefix meaning 'straight', 'right', or 'correct', as in orthodox."], "src": "iwb"}
+{"w": "orthocarbonic", "pos": "adjective", "d": ["Relating to orthocarbonic acid, a hypothetical acid of carbon."], "src": "iwb"}
+{"w": "orthocenter", "pos": "noun", "d": ["The point where the three altitudes of a triangle meet."], "src": "iwb"}
+{"w": "orthoceras", "pos": "noun", "d": ["A genus of extinct straight-shelled marine cephalopods."], "src": "iwb"}
+{"w": "orthoceratite", "pos": "noun", "d": ["A fossil of an orthoceras, an extinct straight-shelled cephalopod."], "src": "iwb"}
+{"w": "orthoclase", "pos": "noun", "d": ["A common feldspar mineral, a major component of granite."], "src": "iwb"}
+{"w": "orthoclastic", "pos": "adjective", "d": ["Relating to orthoclase feldspar; breaking at right angles."], "src": "iwb"}
+{"w": "orthodiagonal", "pos": "adjective", "d": ["Having diagonals that meet at right angles."], "src": "iwb"}
+{"w": "orthodome", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orthodox", "pos": "adjective", "d": ["Conforming to established or traditional beliefs, especially religious doctrine."], "src": "iwb"}
+{"w": "orthodoxastical", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orthodoxy", "pos": "noun", "d": ["The quality or state of being orthodox; conformity to established doctrine."], "src": "iwb"}
+{"w": "orthodromic", "pos": "adjective", "d": ["Relating to the shortest course between two points on the earth, an arc of a great circle."], "src": "iwb"}
+{"w": "orthodromy", "pos": "noun", "d": ["The art of sailing the shortest great-circle course between two points."], "src": "iwb"}
+{"w": "orthoepic", "pos": "adjective", "d": ["Relating to correct or standard pronunciation."], "src": "iwb"}
+{"w": "orthoepist", "pos": "noun", "d": ["A person skilled in correct pronunciation; a teacher of elocution."], "src": "iwb"}
+{"w": "orthoepy", "pos": "noun", "d": ["The study and practice of correct pronunciation."], "src": "iwb"}
+{"w": "orthogamy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orthognathic", "pos": "adjective", "d": ["Having jaws that meet in normal straight alignment."], "src": "iwb"}
+{"w": "orthognathism", "pos": "noun", "d": ["The condition of having straight, normally aligned jaws."], "src": "iwb"}
+{"w": "orthognathous", "pos": "adjective", "d": ["Having straight, normally aligned jaws."], "src": "iwb"}
+{"w": "orthogon", "pos": "noun", "d": ["A right angle."], "src": "iwb"}
+{"w": "orthograph", "pos": "noun", "d": ["A word written with correct spelling."], "src": "iwb"}
+{"w": "orthography", "pos": "noun", "d": ["The correct spelling of words.", "The study of spelling and the rules that govern it."], "src": "iwb"}
+{"w": "orthology", "pos": "noun", "d": ["The study of correct word usage and pronunciation.", "An old term for the study of birds."], "src": "iwb"}
+{"w": "orthometric", "pos": "adjective", "d": ["Relating to measurement of true height above sea level."], "src": "iwb"}
+{"w": "orthometry", "pos": "noun", "d": ["The science of measuring true heights above sea level."], "src": "iwb"}
+{"w": "orthomorphic", "pos": "adjective", "d": ["Having the correct or proper form.", "Preserving true shape without distortion, as a map projection."], "src": "iwb"}
+{"w": "orthopedic", "pos": "adjective", "d": ["Relating to the medical treatment of bones and joints."], "src": "iwb"}
+{"w": "orthopedist", "pos": "noun", "d": ["A doctor who treats disorders of the bones, joints, and muscles."], "src": "iwb"}
+{"w": "orthopedy", "pos": "noun", "d": ["The branch of medicine concerned with bones, joints, and muscles."], "src": "iwb"}
+{"w": "orthophony", "pos": "noun", "d": ["The art of correct and pleasing pronunciation in public speaking."], "src": "iwb"}
+{"w": "orthopinacoid", "pos": "noun", "d": ["An open crystal form made of two parallel faces, each cutting one crystallographic axis."], "src": "iwb"}
+{"w": "orthopnoea", "pos": "noun", "d": ["Difficulty in breathing that is relieved by sitting upright."], "src": "iwb"}
+{"w": "orthopny", "pos": "noun", "d": ["Labored breathing that eases when the person sits upright."], "src": "iwb"}
+{"w": "orthopoda", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orthopraxy", "pos": "noun", "d": ["Correct or proper practice and conduct, especially in religion."], "src": "iwb"}
+{"w": "orthoptera", "pos": "noun", "d": ["An order of insects with straight leathery wings, including grasshoppers and crickets."], "src": "iwb"}
+{"w": "orthopteran", "pos": "noun", "d": ["An insect of the order Orthoptera, such as a grasshopper or cricket."], "src": "iwb"}
+{"w": "orthopterous", "pos": "adjective", "d": ["Belonging to the insect order Orthoptera."], "src": "iwb"}
+{"w": "orthorhombic", "pos": "adjective", "d": ["Relating to a crystal system with three unequal axes meeting at right angles."], "src": "iwb"}
+{"w": "orthoscope", "pos": "noun", "d": ["An optical instrument that shows an object in its true, undistorted shape."], "src": "iwb"}
+{"w": "orthoscopic", "pos": "adjective", "d": ["Giving a true and undistorted view."], "src": "iwb"}
+{"w": "orthosilicic", "pos": "adjective", "d": ["Relating to orthosilicic acid, a compound of silicon, oxygen, and hydrogen."], "src": "iwb"}
+{"w": "orthospermous", "pos": "adjective", "d": ["Having straight seeds."], "src": "iwb"}
+{"w": "orthostade", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orthostichy", "pos": "noun", "d": ["The arrangement of leaves in straight vertical rows on a stem."], "src": "iwb"}
+{"w": "orthotomic", "pos": "adjective", "d": ["Relating to a geometric curve formed by reflecting a fixed point across the tangents of another curve."], "src": "iwb"}
+{"w": "orthotomous", "pos": "adjective", "d": ["Having cleavage planes at right angles, as some minerals."], "src": "iwb"}
+{"w": "orthotomy", "pos": "noun", "d": ["The surgical cutting of a bone or joint to correct a deformity.", "The geometric study of orthotomic curves."], "src": "iwb"}
+{"w": "orthotone", "pos": "adjective", "d": ["Having the normal stress or pitch of a word in speech."], "src": "iwb"}
+{"w": "orthotropal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orthotropic", "pos": "adjective", "d": ["Growing straight upward, as a plant stem.", "Having different physical properties in different directions, as some composite materials."], "src": "iwb"}
+{"w": "orthotropous", "pos": "adjective", "d": ["Growing straight upward, as an ovule with its opening at the top."], "src": "iwb"}
+{"w": "orthoxylene", "pos": "noun", "d": ["A liquid chemical related to xylene, used as a solvent and in making plastics and dyes."], "src": "iwb"}
+{"w": "ortolan", "pos": "noun", "d": ["A small European songbird long prized as a food delicacy."], "src": "iwb"}
+{"w": "ortygan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orval", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orvet", "pos": "noun", "d": ["A small legless lizard, also called the slow worm."], "src": "iwb"}
+{"w": "orvietan", "pos": "noun", "d": ["A historical medicinal mixture once sold in Europe as a universal antidote."], "src": "iwb"}
+{"w": "oryal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oryall", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oryctere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "orycterope", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oryctognosy", "pos": "noun", "d": ["An old term for the study of minerals."], "src": "iwb"}
+{"w": "oryctography", "pos": "noun", "d": ["An old term for the descriptive study of minerals and fossils."], "src": "iwb"}
+{"w": "oryctological", "pos": "adjective", "d": ["Relating to the study of minerals and fossils."], "src": "iwb"}
+{"w": "oryctologist", "pos": "noun", "d": ["One who studies minerals and fossils."], "src": "iwb"}
+{"w": "oryctology", "pos": "noun", "d": ["An old term for the study of fossils and minerals."], "src": "iwb"}
+{"w": "oryx", "pos": "noun", "d": ["A large antelope of Africa and Arabia with long straight horns."], "src": "iwb"}
+{"w": "oryza", "pos": "noun", "d": ["The grass genus that includes rice."], "src": "iwb"}
+{"w": "osage orange", "pos": "phrase", "d": ["A thorny tree of the central United States with hard yellow wood and large green wrinkled fruits."], "src": "iwb"}
+{"w": "osages", "pos": "noun", "d": ["Members of a Native American people of the central plains."], "src": "iwb"}
+{"w": "osanne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "osar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oscan", "pos": "noun", "d": ["An extinct language of ancient southern Italy.", "A member of the ancient people who spoke Oscan."], "src": "iwb"}
+{"w": "oscillancy", "pos": "noun", "d": ["The act or state of oscillating."], "src": "iwb"}
+{"w": "oscillaria", "pos": "noun", "d": ["A genus of blue-green algae."], "src": "iwb"}
+{"w": "oscillate", "pos": "verb", "d": ["To swing back and forth with a steady rhythm.", "To waver back and forth between opinions or choices."], "src": "iwb"}
+{"w": "oscillating current", "pos": "phrase", "d": ["An electric current that regularly reverses its direction of flow."], "src": "iwb"}
+{"w": "oscillation", "pos": "noun", "d": ["The act of swinging back and forth, or a single such swing.", "A fluctuation or wavering between two states or opinions."], "src": "iwb"}
+{"w": "oscillative", "pos": "adjective", "d": ["Tending to oscillate or swing back and forth."], "src": "iwb"}
+{"w": "oscillator", "pos": "noun", "d": ["A device that produces regular oscillations, especially electrical ones."], "src": "iwb"}
+{"w": "oscillatoria", "pos": "noun", "d": ["A genus of blue-green algae that moves with an oscillating motion."], "src": "iwb"}
+{"w": "oscillatory", "pos": "adjective", "d": ["Relating to or marked by oscillation."], "src": "iwb"}
+{"w": "oscillogram", "pos": "noun", "d": ["A visible record of a wave or vibration made by an oscillograph."], "src": "iwb"}
+{"w": "oscillograph", "pos": "noun", "d": ["An instrument that records electrical oscillations as a visible wave."], "src": "iwb"}
+{"w": "oscillometer", "pos": "noun", "d": ["An instrument for measuring vibrations or oscillations."], "src": "iwb"}
+{"w": "oscilloscope", "pos": "noun", "d": ["An instrument that displays electrical waveforms as a glowing trace on a screen."], "src": "iwb"}
+{"w": "oscine", "pos": "noun", "d": ["A songbird with a complex vocal organ, such as a thrush or finch."], "src": "iwb"}
+{"w": "oscinian", "pos": "adjective", "d": ["Relating to the oscine songbirds."], "src": "iwb"}
+{"w": "oscinine", "pos": "adjective", "d": ["Relating to a subfamily of the true songbirds."], "src": "iwb"}
+{"w": "oscitancy", "pos": "noun", "d": ["The act of yawning, or a drowsy state."], "src": "iwb"}
+{"w": "oscitant", "pos": "adjective", "d": ["Yawning from drowsiness.", "Showing dull inattention."], "src": "iwb"}
+{"w": "oscitate", "pos": "verb", "d": ["To yawn."], "src": "iwb"}
+{"w": "oscitation", "pos": "noun", "d": ["The act of yawning."], "src": "iwb"}
+{"w": "osculant", "pos": "adjective", "d": ["Kissing or touching, as two curves that meet at a single point."], "src": "iwb"}
+{"w": "osculate", "pos": "verb", "d": ["To kiss.", "To touch closely at a point or surface."], "src": "iwb"}
+{"w": "osculation", "pos": "noun", "d": ["The act of kissing.", "Close touching or contact between two things."], "src": "iwb"}
+{"w": "osculatory", "pos": "adjective", "d": ["Relating to kissing."], "src": "iwb"}
+{"w": "osculatrix", "pos": "noun", "d": ["A female who kisses."], "src": "iwb"}
+{"w": "oscule", "pos": "noun", "d": ["A small mouthlike opening, especially in a sponge."], "src": "iwb"}
+{"w": "osculum", "pos": "noun", "d": ["The large opening through which a sponge expels water."], "src": "iwb"}
+{"w": "osier", "pos": "noun", "d": ["A willow whose flexible shoots are used in basket making.", "One of the flexible shoots of such a willow."], "src": "iwb"}
+{"w": "osiery", "pos": "noun", "d": ["A plot of ground where basket willows are grown."], "src": "iwb"}
+{"w": "osiris", "pos": "noun", "d": ["An ancient Egyptian god of the dead and the afterlife."], "src": "iwb"}
+{"w": "osmanli", "pos": "noun", "d": ["An Ottoman Turk.", "The Turkish language of the Ottoman Empire."], "src": "iwb"}
+{"w": "osmate", "pos": "noun", "d": ["A chemical salt formed from osmic acid."], "src": "iwb"}
+{"w": "osmaterium", "pos": "noun", "d": ["A forked scent organ that certain caterpillars push out when threatened."], "src": "iwb"}
+{"w": "osmazome", "pos": "noun", "d": ["A savory extract once obtained by boiling meat."], "src": "iwb"}
+{"w": "osmiamate", "pos": "noun", "d": ["A chemical salt derived from osmiamic acid."], "src": "iwb"}
+{"w": "osmiamic", "pos": "adjective", "d": ["Relating to osmiamic acid, a compound of osmium."], "src": "iwb"}
+{"w": "osmic", "pos": "adjective", "d": ["Of or relating to osmium."], "src": "iwb"}
+{"w": "osmidrosis", "pos": "noun", "d": ["An abnormal, foul odor of the sweat."], "src": "iwb"}
+{"w": "osmious", "pos": "adjective", "d": ["Relating to osmium in one of its lower oxidation states."], "src": "iwb"}
+{"w": "osmite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "osmium", "pos": "noun", "d": ["A very dense bluish-white metal, element number 76."], "src": "iwb"}
+{"w": "osmogene", "pos": "noun", "d": ["An apparatus once used to purify sugar solutions by osmosis."], "src": "iwb"}
+{"w": "osmograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "osmometer", "pos": "noun", "d": ["An instrument for measuring osmotic pressure."], "src": "iwb"}
+{"w": "osmometry", "pos": "noun", "d": ["The measurement of osmotic pressure."], "src": "iwb"}
+{"w": "osmose", "pos": "verb", "d": ["To pass through a membrane by osmosis.", "To absorb something gradually, as if by osmosis."], "src": "iwb"}
+{"w": "osmosis", "pos": "noun", "d": ["The passage of a fluid through a semipermeable membrane from a less concentrated to a more concentrated solution.", "The gradual, often unconscious absorption of ideas, knowledge, or influences."], "src": "iwb"}
+{"w": "osmotic", "pos": "adjective", "d": ["Of or relating to osmosis; produced by or involving osmosis."], "src": "iwb"}
+{"w": "osmund", "pos": "noun", "d": ["A large fern of the genus Osmunda; the royal fern."], "src": "iwb"}
+{"w": "osnaburg", "pos": "noun", "d": ["A coarse unbleached fabric of linen or cotton, used for sacks, work clothes, and linings."], "src": "iwb"}
+{"w": "oso-berry", "pos": "noun", "d": ["A shrub of western North America bearing small plumlike fruit, also called Indian plum."], "src": "iwb"}
+{"w": "osphradium", "pos": "noun", "d": ["A sensory organ in the mantle cavity of many mollusks, thought to test the water passing over the gills."], "src": "iwb"}
+{"w": "ospray", "pos": "noun", "d": ["An older spelling of osprey."], "src": "iwb"}
+{"w": "osprey", "pos": "noun", "d": ["A large bird of prey that catches fish by plunging feet-first into the water.", "Also called the fish hawk or sea hawk."], "src": "iwb"}
+{"w": "oss", "pos": "verb", "d": ["To try or attempt to do something.", "To make an effort; to endeavor."], "src": "iwb"}
+{"w": "osse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ossein", "pos": "noun", "d": ["The organic substance forming the framework of bone, which yields gelatin when boiled."], "src": "iwb"}
+{"w": "osseter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ossianic", "pos": "adjective", "d": ["Of or relating to Ossian, the legendary Gaelic bard, or the poems attributed to him."], "src": "iwb"}
+{"w": "ossicle", "pos": "noun", "d": ["A very small bone, especially one of the three tiny bones of the middle ear.", "Any small bony or horny structure in an animal."], "src": "iwb"}
+{"w": "ossiculated", "pos": "adjective", "d": ["Provided with or formed into small bones; ossified."], "src": "iwb"}
+{"w": "ossiculum", "pos": "noun", "d": ["A small bone; an ossicle."], "src": "iwb"}
+{"w": "ossiferous", "pos": "adjective", "d": ["Bearing or containing bones, as a fossil-bearing rock stratum."], "src": "iwb"}
+{"w": "ossific", "pos": "adjective", "d": ["Forming or producing bone; having the power to ossify."], "src": "iwb"}
+{"w": "ossifrage", "pos": "noun", "d": ["The lammergeier, a large Old World vulture that drops bones from a height to break them.", "An old name also applied to the osprey, from which the word osprey is derived."], "src": "iwb"}
+{"w": "ossifragous", "pos": "adjective", "d": ["Breaking or crushing bones."], "src": "iwb"}
+{"w": "ossivorous", "pos": "adjective", "d": ["Feeding on bones; bone-eating."], "src": "iwb"}
+{"w": "osspringer", "pos": "noun", "d": ["An old form of the word osprey."], "src": "iwb"}
+{"w": "ossuarium", "pos": "noun", "d": ["A vault or building in which the bones of the dead are kept; a charnel house."], "src": "iwb"}
+{"w": "ossuary", "pos": "noun", "d": ["A place where the bones of the dead are deposited; a charnel house.", "A container or receptacle for holding skeletal remains."], "src": "iwb"}
+{"w": "ost", "pos": "noun", "d": ["An army or armed host; an old form of host."], "src": "iwb"}
+{"w": "osteal", "pos": "adjective", "d": ["Of or pertaining to bone; osseous."], "src": "iwb"}
+{"w": "ostein", "pos": "noun", "d": ["The organic matter of bone, which yields gelatin on boiling; ossein."], "src": "iwb"}
+{"w": "osteitis", "pos": "noun", "d": ["Inflammation of the substance of a bone."], "src": "iwb"}
+{"w": "osteler", "pos": "noun", "d": ["A variant of ostler; an innkeeper or a man who tends horses at an inn."], "src": "iwb"}
+{"w": "ostensibility", "pos": "noun", "d": ["The quality or state of being ostensible; seeming or professed reality."], "src": "iwb"}
+{"w": "ostensible", "pos": "adjective", "d": ["Apparent; put forward or professed as real, though not necessarily so.", "Intended to be seen or noticed; seeming rather than actual."], "src": "iwb"}
+{"w": "ostensibly", "pos": "adverb", "d": ["In appearance; professedly; as far as can be seen."], "src": "iwb"}
+{"w": "ostension", "pos": "noun", "d": ["The act of showing or exhibiting; a display.", "The public showing of a sacred relic or the Eucharist."], "src": "iwb"}
+{"w": "ostensive", "pos": "adjective", "d": ["Directly showing or pointing out; serving to exhibit.", "Designating by pointing to an example, as an ostensive definition."], "src": "iwb"}
+{"w": "ostensorium", "pos": "noun", "d": ["A vessel in which the consecrated Host is exposed for adoration; a monstrance."], "src": "iwb"}
+{"w": "ostensory", "pos": "noun", "d": ["A vessel for exposing sacred objects to view; an ostensorium or monstrance."], "src": "iwb"}
+{"w": "ostentatious", "pos": "adjective", "d": ["Making an imposing or showy display, as of wealth or knowledge, in order to impress others.", "Characterized by pretentious or vulgar display."], "src": "iwb"}
+{"w": "ostentator", "pos": "noun", "d": ["One who makes an ostentatious display; a boastful exhibitor."], "src": "iwb"}
+{"w": "osteo-", "pos": "prefix", "d": ["A prefix meaning bone, as in osteology."], "src": "iwb"}
+{"w": "osteoblast", "pos": "noun", "d": ["A cell that forms new bone tissue during growth and repair."], "src": "iwb"}
+{"w": "osteoclasis", "pos": "noun", "d": ["The surgical breaking of a bone to correct a deformity."], "src": "iwb"}
+{"w": "osteoclast", "pos": "noun", "d": ["A large cell that breaks down and absorbs bone tissue."], "src": "iwb"}
+{"w": "osteocolla", "pos": "noun", "d": ["A deposit of carbonate of lime forming an incrustation on bones, sticks, and the like in certain springs and caverns.", "A preparation once believed to help knit broken bones."], "src": "iwb"}
+{"w": "osteocomma", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "osteocope", "pos": "noun", "d": ["A violent gnawing pain in the bones, as occurs in syphilis."], "src": "iwb"}
+{"w": "osteocranium", "pos": "noun", "d": ["The skull in its early cartilaginous or membranous condition, before ossification."], "src": "iwb"}
+{"w": "osteodentine", "pos": "noun", "d": ["A hard substance resembling both bone and dentine, found in the teeth of some fishes."], "src": "iwb"}
+{"w": "osteogen", "pos": "noun", "d": ["The inner layer of the periosteum, from which new bone is formed."], "src": "iwb"}
+{"w": "osteogenesis", "pos": "noun", "d": ["The formation and development of bone."], "src": "iwb"}
+{"w": "osteogenetic", "pos": "adjective", "d": ["Of or relating to osteogenesis; producing bone."], "src": "iwb"}
+{"w": "osteogeny", "pos": "noun", "d": ["The formation of bone; osteogenesis."], "src": "iwb"}
+{"w": "osteographer", "pos": "noun", "d": ["One who describes bones; a writer on osteology."], "src": "iwb"}
+{"w": "osteography", "pos": "noun", "d": ["The description of bones; that part of anatomy which treats of bones."], "src": "iwb"}
+{"w": "osteoid", "pos": "adjective", "d": ["Resembling bone in structure or appearance.", "Designating the soft unmineralized matrix in which bone forms."], "src": "iwb"}
+{"w": "osteolite", "pos": "noun", "d": ["A variety of the mineral apatite occurring in compact earthy masses.", "Fossil bone."], "src": "iwb"}
+{"w": "osteologer", "pos": "noun", "d": ["One versed in osteology; an osteologist."], "src": "iwb"}
+{"w": "osteologic", "pos": "adjective", "d": ["Of or pertaining to osteology."], "src": "iwb"}
+{"w": "osteologist", "pos": "noun", "d": ["One skilled in osteology; a student of bones."], "src": "iwb"}
+{"w": "osteology", "pos": "noun", "d": ["The branch of anatomy that treats of bones; the science of bones.", "A treatise or description of the bones."], "src": "iwb"}
+{"w": "osteolysis", "pos": "noun", "d": ["The dissolution or absorption of bone tissue."], "src": "iwb"}
+{"w": "osteoma", "pos": "noun", "d": ["A tumor composed of bony tissue."], "src": "iwb"}
+{"w": "osteomalacia", "pos": "noun", "d": ["A softening of the bones from loss of mineral matter, as from lack of vitamin D."], "src": "iwb"}
+{"w": "osteomanty", "pos": "noun", "d": ["Divination by means of bones."], "src": "iwb"}
+{"w": "osteomere", "pos": "noun", "d": ["One of the bony segments of the vertebral column."], "src": "iwb"}
+{"w": "osteopath", "pos": "noun", "d": ["A practitioner of osteopathy."], "src": "iwb"}
+{"w": "osteopathy", "pos": "noun", "d": ["A system of treating disease by manipulation of the bones, muscles, and joints, without drugs or surgery."], "src": "iwb"}
+{"w": "osteoperiostitis", "pos": "noun", "d": ["Inflammation of a bone and its periosteum."], "src": "iwb"}
+{"w": "osteophone", "pos": "noun", "d": ["An instrument for conveying sounds to the inner ear through the bones of the head."], "src": "iwb"}
+{"w": "osteoplast", "pos": "noun", "d": ["The protoplasmic body of a bone cell; an element of bone tissue."], "src": "iwb"}
+{"w": "osteoplasty", "pos": "noun", "d": ["Plastic surgery upon bone; the repair or grafting of bone tissue."], "src": "iwb"}
+{"w": "osteoporosis", "pos": "noun", "d": ["A condition in which the bones become porous, brittle, and liable to fracture.", "Loss of bone density occurring especially with advancing age."], "src": "iwb"}
+{"w": "osteopterygious", "pos": "adjective", "d": ["Of or relating to the bony fishes; having bony fins."], "src": "iwb"}
+{"w": "osteosarcoma", "pos": "noun", "d": ["A malignant tumor of bone."], "src": "iwb"}
+{"w": "osteosclerosis", "pos": "noun", "d": ["Abnormal hardening or increased density of bone."], "src": "iwb"}
+{"w": "osteotome", "pos": "noun", "d": ["A surgical chisel for cutting bone."], "src": "iwb"}
+{"w": "osteotomist", "pos": "noun", "d": ["One who performs osteotomy."], "src": "iwb"}
+{"w": "osteotomy", "pos": "noun", "d": ["The surgical cutting or dividing of a bone."], "src": "iwb"}
+{"w": "osteozoa", "pos": "noun", "d": ["Animals having a bony skeleton; the vertebrates."], "src": "iwb"}
+{"w": "ostiary", "pos": "noun", "d": ["A doorkeeper, especially of a church; a porter.", "The lowest of the minor orders in the early church, charged with keeping the doors."], "src": "iwb"}
+{"w": "ostiole", "pos": "noun", "d": ["A small opening or pore, as in a plant, a fungus, or an animal body."], "src": "iwb"}
+{"w": "ostitis", "pos": "noun", "d": ["Inflammation of bone."], "src": "iwb"}
+{"w": "ostium", "pos": "noun", "d": ["An opening or entrance, especially a natural one in the body, as of the heart or a blood vessel."], "src": "iwb"}
+{"w": "ostler", "pos": "noun", "d": ["A man who tends horses at an inn or stable; a stableman.", "An innkeeper."], "src": "iwb"}
+{"w": "ostleress", "pos": "noun", "d": ["A woman who tends horses; a female ostler."], "src": "iwb"}
+{"w": "ostlery", "pos": "noun", "d": ["A stable for horses."], "src": "iwb"}
+{"w": "ostosis", "pos": "noun", "d": ["The formation of bone; ossification."], "src": "iwb"}
+{"w": "ostracea", "pos": "noun", "d": ["An order of bivalve mollusks including the oyster and its allies."], "src": "iwb"}
+{"w": "ostracean", "pos": "noun", "d": ["A bivalve mollusk of the order Ostracea."], "src": "iwb"}
+{"w": "ostracion", "pos": "noun", "d": ["A genus of fishes including the boxfishes or trunkfishes, enclosed in a hard bony shell."], "src": "iwb"}
+{"w": "ostraciont", "pos": "noun", "d": ["A boxfish of the genus Ostracion.", "Any fish of the family including the boxfishes."], "src": "iwb"}
+{"w": "ostracism", "pos": "noun", "d": ["Banishment by popular vote, as practiced in ancient Athens.", "Exclusion from society or favor; social rejection."], "src": "iwb"}
+{"w": "ostracite", "pos": "noun", "d": ["A fossil oyster shell."], "src": "iwb"}
+{"w": "ostracize", "pos": "verb", "d": ["To banish by popular vote.", "To exclude from society, favor, or common privileges."], "src": "iwb"}
+{"w": "ostracoda", "pos": "noun", "d": ["An order of minute crustaceans with the body enclosed in a bivalve shell; the seed shrimps."], "src": "iwb"}
+{"w": "ostracodermi", "pos": "noun", "d": ["A group of extinct armored fishes with the head and body covered in bony plates; the ostracoderms."], "src": "iwb"}
+{"w": "ostracoid", "pos": "adjective", "d": ["Resembling an oyster shell in form."], "src": "iwb"}
+{"w": "ostracoidea", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ostrea", "pos": "noun", "d": ["The genus of bivalve mollusks comprising the true oysters."], "src": "iwb"}
+{"w": "ostreaceous", "pos": "adjective", "d": ["Of or pertaining to oysters; oyster-like."], "src": "iwb"}
+{"w": "ostreophagist", "pos": "noun", "d": ["One who eats oysters; a lover of oysters."], "src": "iwb"}
+{"w": "ostriferous", "pos": "adjective", "d": ["Bearing or producing oysters, as a rock layer filled with oyster shells."], "src": "iwb"}
+{"w": "ostrogoth", "pos": "noun", "d": ["A member of the eastern branch of the Goths who settled in Italy in the early Middle Ages.", "By extension, a crude or uncivilized person."], "src": "iwb"}
+{"w": "oswego tea", "pos": "phrase", "d": ["A hot drink brewed from the fragrant leaves of bee balm, named for the Oswego people."], "src": "iwb"}
+{"w": "otacoustic", "pos": "adjective", "d": ["Serving to aid hearing, as a device that gathers sound toward the ear."], "src": "iwb"}
+{"w": "otacousticon", "pos": "noun", "d": ["An instrument shaped to gather sound and help the hard of hearing."], "src": "iwb"}
+{"w": "otaheite apple", "pos": "phrase", "d": ["A sweet, juicy tropical fruit of the South Pacific, also called the Tahitian apple."], "src": "iwb"}
+{"w": "otalgia", "pos": "noun", "d": ["A pain in the ear; an earache."], "src": "iwb"}
+{"w": "otalgic", "pos": "adjective", "d": ["Relating to an earache, or intended to ease it."], "src": "iwb"}
+{"w": "otalgy", "pos": "noun", "d": ["Pain in the ear."], "src": "iwb"}
+{"w": "otary", "pos": "noun", "d": ["A marine mammal of the eared-seal family, such as a sea lion or fur seal."], "src": "iwb"}
+{"w": "otheoscope", "pos": "noun", "d": ["An instrument for looking into the ear to inspect its inner parts."], "src": "iwb"}
+{"w": "othergates", "pos": "adverb", "d": ["In another manner; otherwise."], "src": "iwb"}
+{"w": "otherways", "pos": "adverb", "d": ["In another way or by other means; otherwise."], "src": "iwb"}
+{"w": "othman", "pos": "noun", "d": ["An Ottoman; a member of the Turkish people of the Ottoman Empire."], "src": "iwb"}
+{"w": "otic", "pos": "adjective", "d": ["Relating to the ear."], "src": "iwb"}
+{"w": "otiose", "pos": "adjective", "d": ["Idle and doing nothing useful.", "Lacking a purpose; futile."], "src": "iwb"}
+{"w": "otiosity", "pos": "noun", "d": ["Idleness; the state of being useless."], "src": "iwb"}
+{"w": "otis", "pos": "noun", "d": ["A large ground-dwelling bird of Europe and Asia, the great bustard."], "src": "iwb"}
+{"w": "otitis", "pos": "noun", "d": ["Inflammation of the ear."], "src": "iwb"}
+{"w": "oto-", "pos": "prefix", "d": ["A combining form meaning the ear, as in otology."], "src": "iwb"}
+{"w": "otoba fat", "pos": "phrase", "d": ["A solid vegetable fat pressed from the seeds of otoba trees, once burned for light."], "src": "iwb"}
+{"w": "otoconite", "pos": "noun", "d": ["One of the tiny chalky grains in the inner ear that help sense gravity and motion."], "src": "iwb"}
+{"w": "otocrane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "otocranial", "pos": "adjective", "d": ["Relating to the bony casing that holds the inner ear."], "src": "iwb"}
+{"w": "otocyst", "pos": "noun", "d": ["A fluid-filled sac containing tiny grains, by which many invertebrates sense balance and sound.", "The embryonic pouch from which the inner ear develops."], "src": "iwb"}
+{"w": "otography", "pos": "noun", "d": ["A written description of the ear."], "src": "iwb"}
+{"w": "otolite", "pos": "noun", "d": ["A small stony concretion in the inner ear that aids the sense of balance."], "src": "iwb"}
+{"w": "otolith", "pos": "noun", "d": ["A chalky concretion in the inner ear of vertebrates that helps maintain balance.", "One of the tiny grains in an otocyst."], "src": "iwb"}
+{"w": "otolitic", "pos": "adjective", "d": ["Relating to the otoliths."], "src": "iwb"}
+{"w": "otological", "pos": "adjective", "d": ["Relating to the medical study of the ear."], "src": "iwb"}
+{"w": "otologist", "pos": "noun", "d": ["A physician who specializes in diseases of the ear."], "src": "iwb"}
+{"w": "otology", "pos": "noun", "d": ["The branch of medicine concerned with the ear and its diseases."], "src": "iwb"}
+{"w": "otopathy", "pos": "noun", "d": ["Any disease of the ear."], "src": "iwb"}
+{"w": "otorrhea", "pos": "noun", "d": ["A discharge of fluid from the ear."], "src": "iwb"}
+{"w": "otorrhoea", "pos": "noun", "d": ["A discharge of fluid from the ear."], "src": "iwb"}
+{"w": "otoscope", "pos": "noun", "d": ["An instrument with a light and lens for examining the ear canal and eardrum."], "src": "iwb"}
+{"w": "otoscopy", "pos": "noun", "d": ["Examination of the ear with an otoscope."], "src": "iwb"}
+{"w": "otosteal", "pos": "adjective", "d": ["Relating to the small bones of the ear."], "src": "iwb"}
+{"w": "otozoum", "pos": "noun", "d": ["A fossil track of large footprints thought to have been made by an ancient reptile-like animal."], "src": "iwb"}
+{"w": "ottar", "pos": "noun", "d": ["A fragrant essential oil, especially attar of roses."], "src": "iwb"}
+{"w": "ottava rima", "pos": "phrase", "d": ["An eight-line stanza rhyming ABABABCC, first used in Italian poetry."], "src": "iwb"}
+{"w": "ottawas", "pos": "noun", "d": ["Members of a Native American people of the Great Lakes region."], "src": "iwb"}
+{"w": "otter", "pos": "noun", "d": ["A playful, fish-eating mammal that swims in rivers and seas."], "src": "iwb"}
+{"w": "otto", "pos": "noun", "d": ["A fragrant oil distilled from flowers, especially the attar of roses."], "src": "iwb"}
+{"w": "otto cycle", "pos": "phrase", "d": ["The four-stroke working cycle of a gasoline engine: intake, compression, power, and exhaust."], "src": "iwb"}
+{"w": "otto engine", "pos": "phrase", "d": ["An internal-combustion engine that runs on the four-stroke Otto cycle."], "src": "iwb"}
+{"w": "ottrelite", "pos": "noun", "d": ["A greenish flaky mineral related to chlorite, found in metamorphic rocks."], "src": "iwb"}
+{"w": "ouakari", "pos": "noun", "d": ["A short-tailed South American monkey with a bald, often reddish face."], "src": "iwb"}
+{"w": "ouananiche", "pos": "noun", "d": ["A landlocked salmon of Quebec lakes, prized by anglers."], "src": "iwb"}
+{"w": "ouanderoo", "pos": "noun", "d": ["A dark-coated monkey of Ceylon with a long tail and ruffed face."], "src": "iwb"}
+{"w": "ouarine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oubliette", "pos": "noun", "d": ["A dungeon entered only through a trapdoor in its ceiling, from which prisoners could not escape."], "src": "iwb"}
+{"w": "ouch", "pos": "interjection", "d": ["An exclamation of sudden pain.", "An ornamental clasp or setting for a jewel."], "src": "iwb"}
+{"w": "oughne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oughwhere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ouistiti", "pos": "noun", "d": ["A small South American monkey with tufted ears; a marmoset."], "src": "iwb"}
+{"w": "oul", "pos": "noun", "d": ["A variant spelling of owl."], "src": "iwb"}
+{"w": "oulachan", "pos": "noun", "d": ["A small, oily fish of the Pacific coast, also called the candlefish; the eulachon."], "src": "iwb"}
+{"w": "ounce", "pos": "noun", "d": ["A unit of weight equal to one sixteenth of a pound, about 28.3 grams.", "The snow leopard, a spotted wild cat of central Asia."], "src": "iwb"}
+{"w": "ounded", "pos": "adjective", "d": ["An older spelling of wounded."], "src": "iwb"}
+{"w": "ounding", "pos": "verb", "d": ["An older spelling of wounding."], "src": "iwb"}
+{"w": "oundy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ouphe", "pos": "noun", "d": ["An elf or goblin of folklore."], "src": "iwb"}
+{"w": "ouphen", "pos": "noun", "d": ["A small elf or fairy of folklore."], "src": "iwb"}
+{"w": "ourang", "pos": "noun", "d": ["A variant spelling of orang, the great ape of Borneo and Sumatra."], "src": "iwb"}
+{"w": "ourang-outang", "pos": "noun", "d": ["A variant spelling of orang-outang, the large tree-dwelling ape of Southeast Asia."], "src": "iwb"}
+{"w": "ouranographist", "pos": "noun", "d": ["One who studies or describes the heavens."], "src": "iwb"}
+{"w": "ouranography", "pos": "noun", "d": ["A description of the heavens; descriptive astronomy."], "src": "iwb"}
+{"w": "ourebi", "pos": "noun", "d": ["A small antelope of African grasslands, also spelled oribi."], "src": "iwb"}
+{"w": "ouretic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ouroscopy", "pos": "noun", "d": ["The inspection of urine as a means of judging disease."], "src": "iwb"}
+{"w": "ouse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ousel", "pos": "noun", "d": ["A variant spelling of ouzel, the blackbird."], "src": "iwb"}
+{"w": "oust", "pos": "verb", "d": ["To force out; to expel from a place or office."], "src": "iwb"}
+{"w": "out-herod", "pos": "verb", "d": ["To surpass in cruelty or excess, as Herod was famed for doing."], "src": "iwb"}
+{"w": "out-of-door", "pos": "adjective", "d": ["Taking place in the open air; outdoor."], "src": "iwb"}
+{"w": "out-of-the-way", "pos": "adjective", "d": ["Far from busy places; remote.", "Unusual or not called for."], "src": "iwb"}
+{"w": "out-patient", "pos": "noun", "d": ["A patient who receives treatment at a hospital without being admitted."], "src": "iwb"}
+{"w": "outagamies", "pos": "noun", "d": ["Members of a Native American people of Wisconsin, also called the Fox."], "src": "iwb"}
+{"w": "outcept", "pos": "preposition", "d": ["An obsolete form of except."], "src": "iwb"}
+{"w": "outdated", "pos": "adjective", "d": ["No longer current or in use; old-fashioned."], "src": "iwb"}
+{"w": "outdo", "pos": "verb", "d": ["To do better than; to surpass."], "src": "iwb"}
+{"w": "outfangthef", "pos": "noun", "d": ["An old English-law right of a lord to pursue and seize thieves outside his own jurisdiction."], "src": "iwb"}
+{"w": "outgo", "pos": "noun", "d": ["That which goes out; money spent; expenditure."], "src": "iwb"}
+{"w": "outhess", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "outlawry", "pos": "noun", "d": ["The state of being an outlaw; punishment by being placed outside the law's protection."], "src": "iwb"}
+{"w": "outpace", "pos": "verb", "d": ["To move faster than; to leave behind."], "src": "iwb"}
+{"w": "outraye", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "outre", "pos": "adjective", "d": ["Far outside what is usual; extravagantly unconventional."], "src": "iwb"}
+{"w": "outrecuidance", "pos": "noun", "d": ["Overbearing pride; arrogance."], "src": "iwb"}
+{"w": "outscouring", "pos": "noun", "d": ["Refuse or matter purged out; offscouring."], "src": "iwb"}
+{"w": "ouvarovite", "pos": "noun", "d": ["A bright green variety of garnet, also spelled uvarovite."], "src": "iwb"}
+{"w": "ouze", "pos": "noun", "d": ["An archaic spelling of ooze; soft mud or mire."], "src": "iwb"}
+{"w": "ouzel", "pos": "noun", "d": ["The blackbird, a dark songbird of Europe; also the water ouzel, or dipper."], "src": "iwb"}
+{"w": "ova", "pos": "noun", "d": ["The plural of ovum; egg cells."], "src": "iwb"}
+{"w": "ovalbumen", "pos": "noun", "d": ["A variant spelling of ovalbumin, the main protein of egg white."], "src": "iwb"}
+{"w": "ovalbumin", "pos": "noun", "d": ["The principal protein of egg white."], "src": "iwb"}
+{"w": "ovaliform", "pos": "adjective", "d": ["Shaped like an egg; ovoid."], "src": "iwb"}
+{"w": "ovant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ovarian", "pos": "adjective", "d": ["Relating to the ovary."], "src": "iwb"}
+{"w": "ovariole", "pos": "noun", "d": ["A slender tubule in the ovary of an insect, in which eggs develop."], "src": "iwb"}
+{"w": "ovariotomist", "pos": "noun", "d": ["A surgeon who performs ovariotomy."], "src": "iwb"}
+{"w": "ovariotomy", "pos": "noun", "d": ["The surgical removal of one or both ovaries."], "src": "iwb"}
+{"w": "ovaritis", "pos": "noun", "d": ["Inflammation of an ovary."], "src": "iwb"}
+{"w": "ovarium", "pos": "noun", "d": ["An ovary; the organ that produces eggs."], "src": "iwb"}
+{"w": "ovary", "pos": "noun", "d": ["The female reproductive organ in which eggs are produced."], "src": "iwb"}
+{"w": "ovate", "pos": "adjective", "d": ["Egg-shaped."], "src": "iwb"}
+{"w": "ovate-acuminate", "pos": "adjective", "d": ["Egg-shaped and tapering to a sharp point at the tip."], "src": "iwb"}
+{"w": "ovate-cylindraceous", "pos": "adjective", "d": ["Egg-shaped and somewhat cylindrical in form."], "src": "iwb"}
+{"w": "ovate-lanceolate", "pos": "adjective", "d": ["Between egg-shaped and lance-shaped; egg-shaped but narrowed like a lance head."], "src": "iwb"}
+{"w": "ovate-oblong", "pos": "adjective", "d": ["Egg-shaped and somewhat oblong."], "src": "iwb"}
+{"w": "ovate-rotundate", "pos": "adjective", "d": ["Egg-shaped and rounded."], "src": "iwb"}
+{"w": "ovate-subulate", "pos": "adjective", "d": ["Egg-shaped and tapering to a fine sharp point."], "src": "iwb"}
+{"w": "ovato-acuminate", "pos": "adjective", "d": ["Egg-shaped and tapering to a sharp point at the tip."], "src": "iwb"}
+{"w": "ovato-cylindraceous", "pos": "adjective", "d": ["Egg-shaped and somewhat cylindrical in form."], "src": "iwb"}
+{"w": "ovato-oblong", "pos": "adjective", "d": ["Egg-shaped and somewhat oblong."], "src": "iwb"}
+{"w": "ovato-rotundate", "pos": "adjective", "d": ["Egg-shaped and rounded."], "src": "iwb"}
+{"w": "over-arm", "pos": "adjective", "d": ["Thrown or delivered with the arm raised above the shoulder."], "src": "iwb"}
+{"w": "over-busy", "pos": "adjective", "d": ["Excessively busy; busier than one can well manage."], "src": "iwb"}
+{"w": "over-garment", "pos": "noun", "d": ["A garment worn over other clothing, such as a coat or cloak."], "src": "iwb"}
+{"w": "over-story", "pos": "noun", "d": ["The upper layer of trees in a forest, above the understory.", "The upper story of a building."], "src": "iwb"}
+{"w": "overdo", "pos": "verb", "d": ["To do too much of; to carry to excess.", "To cook too long."], "src": "iwb"}
+{"w": "overgo", "pos": "verb", "d": ["To go beyond; to exceed or surpass."], "src": "iwb"}
+{"w": "overgrassed", "pos": "adjective", "d": ["Covered or overgrown with grass."], "src": "iwb"}
+{"w": "overhead charges", "pos": "phrase", "d": ["Business costs, such as rent and office expenses, that are not directly tied to producing goods or services."], "src": "iwb"}
+{"w": "overhead expenses", "pos": "phrase", "d": ["Operating costs that continue whether or not anything is being produced, such as rent, insurance, and utilities."], "src": "iwb"}
+{"w": "overliness", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "overrigged", "pos": "adjective", "d": ["Fitted with more rigging, masts, or sails than is needed or wise."], "src": "iwb"}
+{"w": "overscented", "pos": "adjective", "d": ["Perfumed or scented too strongly."], "src": "iwb"}
+{"w": "overslaugh", "pos": "noun", "d": ["The act of passing over an officer for promotion in favor of a junior."], "src": "iwb"}
+{"w": "oversman", "pos": "noun", "d": ["A foreman; one who oversees and directs workers, especially in a mine."], "src": "iwb"}
+{"w": "overt", "pos": "adjective", "d": ["Done openly, not in secret."], "src": "iwb"}
+{"w": "overtroubled", "pos": "adjective", "d": ["Troubled excessively."], "src": "iwb"}
+{"w": "overwasted", "pos": "adjective", "d": ["Wasted or worn away excessively."], "src": "iwb"}
+{"w": "ovicapsule", "pos": "noun", "d": ["A capsule that contains an egg or eggs."], "src": "iwb"}
+{"w": "ovicell", "pos": "noun", "d": ["In certain moss animals, a brood chamber that holds developing eggs."], "src": "iwb"}
+{"w": "ovicular", "pos": "adjective", "d": ["Relating to small eggs."], "src": "iwb"}
+{"w": "ovicyst", "pos": "noun", "d": ["A cyst or sac that contains eggs."], "src": "iwb"}
+{"w": "ovidian", "pos": "adjective", "d": ["Of or relating to the Roman poet Ovid or his writings."], "src": "iwb"}
+{"w": "oviducal", "pos": "adjective", "d": ["Pertaining to the oviduct."], "src": "iwb"}
+{"w": "oviduct", "pos": "noun", "d": ["The tube through which eggs pass from the ovary."], "src": "iwb"}
+{"w": "oviferous", "pos": "adjective", "d": ["Producing or bearing eggs."], "src": "iwb"}
+{"w": "oviform", "pos": "adjective", "d": ["Egg-shaped."], "src": "iwb"}
+{"w": "ovigerons", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ovile", "pos": "noun", "d": ["A pen or enclosure for sheep."], "src": "iwb"}
+{"w": "ovine", "pos": "adjective", "d": ["Relating to sheep."], "src": "iwb"}
+{"w": "ovipara", "pos": "noun", "d": ["Animals that lay eggs."], "src": "iwb"}
+{"w": "oviparity", "pos": "noun", "d": ["The state or habit of laying eggs."], "src": "iwb"}
+{"w": "oviparous", "pos": "adjective", "d": ["Laying eggs that hatch outside the body."], "src": "iwb"}
+{"w": "oviposit", "pos": "verb", "d": ["To lay eggs, especially of insects."], "src": "iwb"}
+{"w": "ovipositor", "pos": "noun", "d": ["The egg-laying organ of an insect."], "src": "iwb"}
+{"w": "ovisac", "pos": "noun", "d": ["A sac that contains eggs."], "src": "iwb"}
+{"w": "ovism", "pos": "noun", "d": ["The theory that the embryo exists fully formed in the egg."], "src": "iwb"}
+{"w": "ovist", "pos": "noun", "d": ["A supporter of the theory that the embryo is preformed in the egg."], "src": "iwb"}
+{"w": "ovococcus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ovoid", "pos": "adjective", "d": ["Egg-shaped.", "An egg-shaped body."], "src": "iwb"}
+{"w": "ovolo", "pos": "noun", "d": ["In architecture, a convex rounded molding, like a quarter round."], "src": "iwb"}
+{"w": "ovology", "pos": "noun", "d": ["The study of eggs."], "src": "iwb"}
+{"w": "ovoplasma", "pos": "noun", "d": ["The living substance of an egg cell."], "src": "iwb"}
+{"w": "ovotesttis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ovoviviparous", "pos": "adjective", "d": ["Producing eggs that hatch inside the body so the young are born alive."], "src": "iwb"}
+{"w": "ovular", "pos": "adjective", "d": ["Relating to an ovule."], "src": "iwb"}
+{"w": "ovulary", "pos": "noun", "d": ["The part of a flower that contains the ovules; the ovary."], "src": "iwb"}
+{"w": "ovulate", "pos": "verb", "d": ["To release an egg from the ovary."], "src": "iwb"}
+{"w": "ovulation", "pos": "noun", "d": ["The release of an egg from the ovary."], "src": "iwb"}
+{"w": "ovule", "pos": "noun", "d": ["The part of a flower that develops into a seed after fertilization.", "A small egg."], "src": "iwb"}
+{"w": "ovuliferous", "pos": "adjective", "d": ["Bearing ovules."], "src": "iwb"}
+{"w": "ovulist", "pos": "noun", "d": ["A supporter of the theory that the embryo is preformed in the egg."], "src": "iwb"}
+{"w": "ovulite", "pos": "noun", "d": ["A fossil egg or fossil ovule."], "src": "iwb"}
+{"w": "ovulum", "pos": "noun", "d": ["A little egg; an ovule."], "src": "iwb"}
+{"w": "ovum", "pos": "noun", "d": ["An egg cell."], "src": "iwb"}
+{"w": "owch", "pos": "interjection", "d": ["An exclamation expressing sudden pain."], "src": "iwb"}
+{"w": "owe", "pos": "verb", "d": ["To be obligated to pay or give; to be in debt for."], "src": "iwb"}
+{"w": "owel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "owelty", "pos": "noun", "d": ["A sum of money paid to equalize a division of property."], "src": "iwb"}
+{"w": "owenite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "owher", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "owing", "pos": "adjective", "d": ["Owed; still to be paid."], "src": "iwb"}
+{"w": "owl", "pos": "noun", "d": ["A nocturnal bird of prey with large forward-facing eyes and a hooked beak."], "src": "iwb"}
+{"w": "owl-eyed", "pos": "adjective", "d": ["Having large round staring eyes like an owl."], "src": "iwb"}
+{"w": "owlery", "pos": "noun", "d": ["A place where owls are kept."], "src": "iwb"}
+{"w": "owlet", "pos": "noun", "d": ["A young or small owl."], "src": "iwb"}
+{"w": "owre", "pos": "preposition", "d": ["A Scots form of the word over."], "src": "iwb"}
+{"w": "owse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ox", "pos": "noun", "d": ["A castrated bull used as a draft animal.", "Any bovine animal, such as a bull or cow."], "src": "iwb"}
+{"w": "oxacid", "pos": "noun", "d": ["An acid that contains oxygen in its molecule."], "src": "iwb"}
+{"w": "oxalan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxalate", "pos": "noun", "d": ["A salt or ester of oxalic acid."], "src": "iwb"}
+{"w": "oxaldehyde", "pos": "noun", "d": ["A chemical compound of oxalic acid; an older name for glyoxal."], "src": "iwb"}
+{"w": "oxalethyline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxalic", "pos": "adjective", "d": ["Relating to or derived from oxalic acid."], "src": "iwb"}
+{"w": "oxaline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "oxalis", "pos": "noun", "d": ["Any plant of the genus Oxalis, including wood sorrel."], "src": "iwb"}
+{"w": "oxalite", "pos": "noun", "d": ["A mineral consisting of iron oxalate."], "src": "iwb"}
+{"w": "oxaluramide", "pos": "noun", "d": ["A chemical compound formed from oxaluric acid and ammonia."], "src": "iwb"}
+{"w": "oxalurate", "pos": "noun", "d": ["A salt of oxaluric acid."], "src": "iwb"}
+{"w": "oxaluric", "pos": "adjective", "d": ["Relating to oxaluric acid."], "src": "iwb"}
+{"w": "oxalyl", "pos": "noun", "d": ["The chemical group derived from oxalic acid."], "src": "iwb"}
+{"w": "oxamate", "pos": "noun", "d": ["A salt or ester of oxamic acid."], "src": "iwb"}
+{"w": "oxamethane", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

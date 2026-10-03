@@ -40621,6 +40621,806 @@
 {"w": "USB drive", "pos": "noun", "d": ["A portable data-storage device that connects to a computer through a USB port.", "Used to move files between computers or keep a backup copy off the machine."], "src": "iwb"}
 {"w": "flash drive", "pos": "noun", "d": ["A small portable storage device with no moving parts that keeps its data even with the power off.", "Most flash drives plug into a USB port and are also called thumb drives or USB drives."], "src": "iwb"}
 {"w": "USB stick", "pos": "noun", "d": ["A small stick-shaped portable drive that plugs into a USB port to store and carry files."], "src": "iwb"}
+{"w": "passenger mile", "pos": "phrase", "d": ["A unit measuring one passenger carried one mile, used in transportation statistics."], "src": "iwb"}
+{"w": "passer-by", "pos": "noun", "d": ["A person who happens to be going past a place."], "src": "iwb"}
+{"w": "passeriform", "pos": "adjective", "d": ["Belonging to the order of perching birds, which includes most songbirds."], "src": "iwb"}
+{"w": "passibility", "pos": "noun", "d": ["The capacity to suffer, feel, or be acted upon."], "src": "iwb"}
+{"w": "passiflora", "pos": "noun", "d": ["The genus of passionflowers, climbing plants with showy blossoms."], "src": "iwb"}
+{"w": "passim", "pos": "adverb", "d": ["In many places throughout a book or text, used in citations."], "src": "iwb"}
+{"w": "passive aeroplane", "pos": "phrase", "d": ["An aircraft that flies without engine power, such as a glider."], "src": "iwb"}
+{"w": "passive balloon", "pos": "phrase", "d": ["A balloon that drifts with the wind, with no means of steering."], "src": "iwb"}
+{"w": "passive flight", "pos": "phrase", "d": ["Flight without powered control, as by a glider or a drifting balloon."], "src": "iwb"}
+{"w": "passivity", "pos": "noun", "d": ["The state of accepting what happens without active response or resistance."], "src": "iwb"}
+{"w": "passus", "pos": "noun", "d": ["A section or canto of a long poem, as in medieval literature."], "src": "iwb"}
+{"w": "passymeasure", "pos": "noun", "d": ["A slow, stately Italian dance of the Renaissance, also called passamezzo.", "Music written for this dance."], "src": "iwb"}
+{"w": "pastel", "pos": "noun", "d": ["A soft colored crayon made of powdered pigment.", "A drawing made with such crayons.", "A pale, soft color like those of pastel crayons."], "src": "iwb"}
+{"w": "pasteurian", "pos": "noun", "d": ["A follower or supporter of the scientific methods of Louis Pasteur."], "src": "iwb"}
+{"w": "pasteurism", "pos": "noun", "d": ["The system of preventive medicine and bacteriology founded by Louis Pasteur."], "src": "iwb"}
+{"w": "pasteurization", "pos": "noun", "d": ["The process of heating milk or other liquids to kill harmful germs."], "src": "iwb"}
+{"w": "pasteurize", "pos": "verb", "d": ["To subject milk or another liquid to pasteurization."], "src": "iwb"}
+{"w": "pasticcio", "pos": "noun", "d": ["A medley or mixture of various parts.", "In music, an opera assembled from the works of several composers."], "src": "iwb"}
+{"w": "pastille", "pos": "noun", "d": ["A small flavored tablet or lozenge, often medicinal."], "src": "iwb"}
+{"w": "pastorium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pasturage", "pos": "noun", "d": ["Land used for grazing livestock.", "The grass growing on such land."], "src": "iwb"}
+{"w": "pasty", "pos": "adjective", "d": ["Having the soft, pale look of paste.", "Pale and unhealthy-looking, as from illness."], "src": "iwb"}
+{"w": "pataca", "pos": "noun", "d": ["A former Portuguese silver coin used in colonial trade."], "src": "iwb"}
+{"w": "patacoon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "patagium", "pos": "noun", "d": ["A membrane of skin between the body and limbs that supports flight in bats and gliding animals."], "src": "iwb"}
+{"w": "patagonian", "pos": "adjective", "d": ["Of or relating to Patagonia, the southern region of South America."], "src": "iwb"}
+{"w": "patamar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "patas", "pos": "noun", "d": ["A long-limbed monkey of Africa, also called the patas monkey."], "src": "iwb"}
+{"w": "patavinity", "pos": "noun", "d": ["The provincial style of the Latin writer Livy, named for his native Padua."], "src": "iwb"}
+{"w": "patchery", "pos": "noun", "d": ["Work made of patches.", "The act of patching."], "src": "iwb"}
+{"w": "patchingly", "pos": "adverb", "d": ["In a patchy or irregular manner."], "src": "iwb"}
+{"w": "patchouli", "pos": "noun", "d": ["A fragrant herb of Asia whose oil is used in perfumes."], "src": "iwb"}
+{"w": "patchouly", "pos": "noun", "d": ["A variant spelling of patchouli."], "src": "iwb"}
+{"w": "patchy", "pos": "adjective", "d": ["Occurring in patches; uneven or irregular in coverage or quality."], "src": "iwb"}
+{"w": "pate", "pos": "noun", "d": ["The top of the head.", "A person's head or brains, used humorously."], "src": "iwb"}
+{"w": "patee", "pos": "adjective", "d": ["Having arms that widen toward the ends, as a heraldic cross."], "src": "iwb"}
+{"w": "patela", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "patella", "pos": "noun", "d": ["The kneecap.", "A limpet-shaped shell or shallow dish."], "src": "iwb"}
+{"w": "patellar", "pos": "adjective", "d": ["Relating to the kneecap."], "src": "iwb"}
+{"w": "patelliform", "pos": "adjective", "d": ["Shaped like a kneecap or a limpet shell."], "src": "iwb"}
+{"w": "patellula", "pos": "noun", "d": ["A small patella or kneecap-like structure."], "src": "iwb"}
+{"w": "patena", "pos": "noun", "d": ["A variant of paten, the plate that holds the bread in the Eucharist."], "src": "iwb"}
+{"w": "patency", "pos": "noun", "d": ["The state of being open or unobstructed, as of a passage in the body."], "src": "iwb"}
+{"w": "patent-hammered", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "paterero", "pos": "noun", "d": ["A small obsolete cannon or mortar used in former warfare."], "src": "iwb"}
+{"w": "paterfamilias", "pos": "noun", "d": ["The male head of a household or family, in Roman and formal use."], "src": "iwb"}
+{"w": "paternal", "pos": "adjective", "d": ["Of or like a father.", "Related through one's father."], "src": "iwb"}
+{"w": "paternity", "pos": "noun", "d": ["Fatherhood.", "Legal fatherhood as established by evidence."], "src": "iwb"}
+{"w": "paternoster", "pos": "noun", "d": ["The Lord's Prayer.", "A bead of a rosary marking this prayer."], "src": "iwb"}
+{"w": "patesi", "pos": "noun", "d": ["A priest-ruler of an ancient Mesopotamian city-state."], "src": "iwb"}
+{"w": "pathetic", "pos": "adjective", "d": ["Arousing pity or sympathy.", "Miserably inadequate."], "src": "iwb"}
+{"w": "pathetism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pathogene", "pos": "noun", "d": ["A variant of pathogen, a germ or agent that causes disease."], "src": "iwb"}
+{"w": "pathogenic", "pos": "adjective", "d": ["Capable of causing disease."], "src": "iwb"}
+{"w": "pathogeny", "pos": "noun", "d": ["A variant of pathogenesis, the origin and development of disease."], "src": "iwb"}
+{"w": "pathognomonic", "pos": "adjective", "d": ["Distinctively characteristic of a particular disease."], "src": "iwb"}
+{"w": "pathognomy", "pos": "noun", "d": ["Knowledge of the signs and symptoms by which diseases are recognized."], "src": "iwb"}
+{"w": "pathologic", "pos": "adjective", "d": ["Relating to disease.", "Caused by or indicating disease."], "src": "iwb"}
+{"w": "pathologist", "pos": "noun", "d": ["A physician who studies the nature and causes of disease."], "src": "iwb"}
+{"w": "pathopoela", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pathos", "pos": "noun", "d": ["A quality that arouses pity or tender emotion."], "src": "iwb"}
+{"w": "patibulary", "pos": "adjective", "d": ["Of or relating to the gallows."], "src": "iwb"}
+{"w": "patibulated", "pos": "adjective", "d": ["Hanged upon a gallows."], "src": "iwb"}
+{"w": "patience", "pos": "noun", "d": ["The ability to wait calmly without complaint.", "A card game played alone."], "src": "iwb"}
+{"w": "patin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "patina", "pos": "noun", "d": ["A green or brown film that forms on bronze or copper with age.", "A sheen acquired through age and use."], "src": "iwb"}
+{"w": "patine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "patisserie", "pos": "noun", "d": ["A shop selling French pastries and cakes.", "Such pastries considered together."], "src": "iwb"}
+{"w": "patois", "pos": "noun", "d": ["A regional dialect or nonstandard speech of a place."], "src": "iwb"}
+{"w": "patolli", "pos": "noun", "d": ["An ancient Aztec board game of chance."], "src": "iwb"}
+{"w": "patriarch", "pos": "noun", "d": ["The male head of a family or tribe.", "A high-ranking bishop in Eastern churches."], "src": "iwb"}
+{"w": "patriarchy", "pos": "noun", "d": ["A social system in which men hold primary power.", "Rule by a patriarch."], "src": "iwb"}
+{"w": "patrician", "pos": "noun", "d": ["A member of the ancient Roman aristocracy.", "Any aristocrat."], "src": "iwb"}
+{"w": "patriciate", "pos": "noun", "d": ["The rank or class of patricians; the aristocracy."], "src": "iwb"}
+{"w": "patricidal", "pos": "adjective", "d": ["Relating to the murder of one's father."], "src": "iwb"}
+{"w": "patricide", "pos": "noun", "d": ["The murder of one's father.", "One who murders his father."], "src": "iwb"}
+{"w": "patrimony", "pos": "noun", "d": ["Property inherited from one's father or ancestors.", "A church's endowment."], "src": "iwb"}
+{"w": "patripassian", "pos": "noun", "d": ["One who holds that God the Father suffered in the passion of Christ."], "src": "iwb"}
+{"w": "patrizate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "patrocinate", "pos": "verb", "d": ["To patronize, protect, or support."], "src": "iwb"}
+{"w": "patrocination", "pos": "noun", "d": ["Patronage; the support or protection given by a patron."], "src": "iwb"}
+{"w": "patrociny", "pos": "noun", "d": ["Patronage; protection or support."], "src": "iwb"}
+{"w": "patron", "pos": "noun", "d": ["One who supports or sponsors a person, cause, or institution.", "A regular customer of a business."], "src": "iwb"}
+{"w": "patroness", "pos": "noun", "d": ["A woman who is a patron."], "src": "iwb"}
+{"w": "patronization", "pos": "noun", "d": ["The act of patronizing; support given as a patron."], "src": "iwb"}
+{"w": "patronomayology", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "patronymic", "pos": "noun", "d": ["A name formed from the name of one's father or ancestor."], "src": "iwb"}
+{"w": "patte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "patty", "pos": "noun", "d": ["A small flat cake of food, as of meat or mint.", "A small pie."], "src": "iwb"}
+{"w": "patulous", "pos": "adjective", "d": ["Open or spreading, as the branches of a plant."], "src": "iwb"}
+{"w": "pau", "pos": "adjective", "d": ["Finished; done, from Hawaiian usage."], "src": "iwb"}
+{"w": "pauciloquent", "pos": "adjective", "d": ["Speaking little; using few words."], "src": "iwb"}
+{"w": "pauciloquy", "pos": "noun", "d": ["Brevity in speech; the use of few words."], "src": "iwb"}
+{"w": "paucispiral", "pos": "adjective", "d": ["Having few whorls or coils, as certain shells."], "src": "iwb"}
+{"w": "paugy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pauhaugen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pauldron", "pos": "noun", "d": ["A piece of armor protecting the shoulder."], "src": "iwb"}
+{"w": "paulian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "paulician", "pos": "noun", "d": ["A member of a medieval Christian sect holding dualist beliefs."], "src": "iwb"}
+{"w": "paulownia", "pos": "noun", "d": ["A genus of fast-growing Asian trees with showy violet flowers."], "src": "iwb"}
+{"w": "paum", "pos": "noun", "d": ["An obsolete variant of palm, the inner surface of the hand."], "src": "iwb"}
+{"w": "paunce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "paunch", "pos": "noun", "d": ["A large belly or abdomen."], "src": "iwb"}
+{"w": "paunchy", "pos": "adjective", "d": ["Having a large belly."], "src": "iwb"}
+{"w": "paune", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pauperization", "pos": "noun", "d": ["The act or process of making poor; reduction to poverty."], "src": "iwb"}
+{"w": "pauropoda", "pos": "noun", "d": ["A class of minute, soft-bodied arthropods related to millipedes."], "src": "iwb"}
+{"w": "pause", "pos": "noun", "d": ["A temporary stop or rest.", "A mark or sign indicating a brief stop, as in music."], "src": "iwb"}
+{"w": "pauxi", "pos": "noun", "d": ["A genus of large crested South American birds, the helmeted curassows."], "src": "iwb"}
+{"w": "pavage", "pos": "noun", "d": ["Pavement.", "A toll charged for paving streets."], "src": "iwb"}
+{"w": "pavan", "pos": "noun", "d": ["A slow, stately dance of the 16th and 17th centuries."], "src": "iwb"}
+{"w": "pave", "pos": "verb", "d": ["To cover a road or surface with pavement."], "src": "iwb"}
+{"w": "paven", "pos": "adjective", "d": ["Covered with pavement; paved."], "src": "iwb"}
+{"w": "pavesade", "pos": "noun", "d": ["A large medieval shield; a pavise."], "src": "iwb"}
+{"w": "pavese", "pos": "noun", "d": ["A variant of pavise, a large medieval shield."], "src": "iwb"}
+{"w": "pavesse", "pos": "noun", "d": ["A variant of pavise, a large medieval shield."], "src": "iwb"}
+{"w": "paviage", "pos": "noun", "d": ["A variant of pavage; pavement or a paving toll."], "src": "iwb"}
+{"w": "pavian", "pos": "noun", "d": ["An old word for a baboon."], "src": "iwb"}
+{"w": "pavid", "pos": "adjective", "d": ["Timid; fearful."], "src": "iwb"}
+{"w": "pavier", "pos": "noun", "d": ["A workman who lays pavement."], "src": "iwb"}
+{"w": "paviin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pavin", "pos": "noun", "d": ["A variant of pavan, a stately old dance."], "src": "iwb"}
+{"w": "pavior", "pos": "noun", "d": ["A variant of pavier, one who lays pavement."], "src": "iwb"}
+{"w": "pavise", "pos": "noun", "d": ["A large medieval shield that could shelter an archer."], "src": "iwb"}
+{"w": "pavisor", "pos": "noun", "d": ["A soldier who carried a pavise."], "src": "iwb"}
+{"w": "pavo", "pos": "noun", "d": ["The genus comprising the peacocks."], "src": "iwb"}
+{"w": "pavon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pavone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pavonian", "pos": "adjective", "d": ["Resembling a peacock."], "src": "iwb"}
+{"w": "paw", "pos": "noun", "d": ["The foot of an animal with claws or nails."], "src": "iwb"}
+{"w": "pawk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pawky", "pos": "adjective", "d": ["Shrewd and slyly humorous, in Scottish use."], "src": "iwb"}
+{"w": "pawl", "pos": "noun", "d": ["A pivoted catch that engages the teeth of a ratchet wheel."], "src": "iwb"}
+{"w": "pawn", "pos": "noun", "d": ["Something deposited as security for a loan.", "A person used by others for their own purposes.", "The least powerful piece in chess."], "src": "iwb"}
+{"w": "pax", "pos": "noun", "d": ["Peace, in Latin use.", "The kiss of peace in Christian liturgy."], "src": "iwb"}
+{"w": "paxillose", "pos": "adjective", "d": ["Bearing small peg-like processes, as certain plant or animal structures."], "src": "iwb"}
+{"w": "paxillus", "pos": "noun", "d": ["A small peg or stake.", "A genus of gilled mushrooms."], "src": "iwb"}
+{"w": "paxywaxy", "pos": "noun", "d": ["A variant of paxwax, the strong elastic ligament of an animal's neck."], "src": "iwb"}
+{"w": "pay cerps", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pay dirt", "pos": "phrase", "d": ["Earth or gravel rich enough in ore to pay for working it."], "src": "iwb"}
+{"w": "pay rock", "pos": "phrase", "d": ["Rock containing enough ore to pay for mining it."], "src": "iwb"}
+{"w": "pay streak", "pos": "phrase", "d": ["A streak or vein of pay dirt in a mine."], "src": "iwb"}
+{"w": "payee", "pos": "noun", "d": ["One to whom money is paid."], "src": "iwb"}
+{"w": "paymaster-general", "pos": "noun", "d": ["An officer in charge of disbursing military or government pay."], "src": "iwb"}
+{"w": "payn", "pos": "noun", "d": ["An obsolete spelling of pain."], "src": "iwb"}
+{"w": "payor", "pos": "noun", "d": ["One who pays; a payer."], "src": "iwb"}
+{"w": "payse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pea", "pos": "noun", "d": ["The small round green seed of a climbing plant, eaten as a vegetable."], "src": "iwb"}
+{"w": "pea-jacket", "pos": "noun", "d": ["A short heavy wool coat worn by sailors."], "src": "iwb"}
+{"w": "peabody bird", "pos": "phrase", "d": ["A common name for the white-throated sparrow."], "src": "iwb"}
+{"w": "peach", "pos": "noun", "d": ["A juicy stone fruit with fuzzy skin.", "A person or thing that is excellent."], "src": "iwb"}
+{"w": "peach-colored", "pos": "adjective", "d": ["Having the pale pinkish-orange color of a peach."], "src": "iwb"}
+{"w": "peachy", "pos": "adjective", "d": ["Like a peach.", "Fine or excellent, in informal use."], "src": "iwb"}
+{"w": "peacock throne", "pos": "phrase", "d": ["The jeweled throne of the former shahs of Persia."], "src": "iwb"}
+{"w": "peag", "pos": "noun", "d": ["Shell beads used as money by North American Indians; wampum."], "src": "iwb"}
+{"w": "peage", "pos": "noun", "d": ["Wampum; shell beads used as currency."], "src": "iwb"}
+{"w": "peaky", "pos": "adjective", "d": ["Having a peak or point.", "Looking pale and sickly."], "src": "iwb"}
+{"w": "peal", "pos": "noun", "d": ["A loud prolonged ringing, as of bells.", "Any loud burst of sound."], "src": "iwb"}
+{"w": "pean", "pos": "noun", "d": ["A song of triumph or praise; a paean."], "src": "iwb"}
+{"w": "peanut butter", "pos": "phrase", "d": ["A spread made from ground roasted peanuts."], "src": "iwb"}
+{"w": "pear", "pos": "noun", "d": ["A sweet fruit with a rounded base tapering toward the stem."], "src": "iwb"}
+{"w": "pear-shaped", "pos": "adjective", "d": ["Shaped like a pear.", "Having gone wrong, in informal use."], "src": "iwb"}
+{"w": "pearch", "pos": "noun", "d": ["An obsolete variant of perch."], "src": "iwb"}
+{"w": "pearl-eyed", "pos": "adjective", "d": ["Having a whitish film over the eye, as from a cataract."], "src": "iwb"}
+{"w": "pearlaceous", "pos": "adjective", "d": ["Resembling pearl; pearly."], "src": "iwb"}
+{"w": "pearlings", "pos": "noun", "d": ["Small imitation pearls.", "Tiny pearl-like beads or drops."], "src": "iwb"}
+{"w": "pearlins", "pos": "noun", "d": ["A variant of pearlings."], "src": "iwb"}
+{"w": "peart", "pos": "adjective", "d": ["Brisk; lively; in good spirits."], "src": "iwb"}
+{"w": "peasant", "pos": "noun", "d": ["A poor farmer or farm laborer of low social rank."], "src": "iwb"}
+{"w": "peasantry", "pos": "noun", "d": ["Peasants as a class; the rural poor."], "src": "iwb"}
+{"w": "peascod", "pos": "noun", "d": ["The pod of the pea plant."], "src": "iwb"}
+{"w": "pease", "pos": "noun", "d": ["An archaic singular and plural form of pea."], "src": "iwb"}
+{"w": "peat", "pos": "noun", "d": ["Partially decayed plant matter from bogs, dried and used as fuel."], "src": "iwb"}
+{"w": "peaty", "pos": "adjective", "d": ["Of or like peat; containing peat."], "src": "iwb"}
+{"w": "peavey", "pos": "noun", "d": ["A lumberman's lever with a hinged hook, used to roll logs."], "src": "iwb"}
+{"w": "peavy", "pos": "noun", "d": ["A variant spelling of peavey."], "src": "iwb"}
+{"w": "peba", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pebble", "pos": "noun", "d": ["A small stone worn smooth by water."], "src": "iwb"}
+{"w": "pebbly", "pos": "adjective", "d": ["Full of pebbles; like pebbles."], "src": "iwb"}
+{"w": "pebrine", "pos": "noun", "d": ["A fatal disease of silkworms caused by a microscopic parasite."], "src": "iwb"}
+{"w": "pecan", "pos": "noun", "d": ["A smooth-shelled hickory nut of North America.", "The tree bearing this nut."], "src": "iwb"}
+{"w": "pecary", "pos": "noun", "d": ["A variant of peccary."], "src": "iwb"}
+{"w": "peccability", "pos": "noun", "d": ["Liability to sin; the state of being peccable."], "src": "iwb"}
+{"w": "peccable", "pos": "adjective", "d": ["Liable to sin; capable of sinning."], "src": "iwb"}
+{"w": "peccadillo", "pos": "noun", "d": ["A small sin or fault; a minor offense."], "src": "iwb"}
+{"w": "peccancy", "pos": "noun", "d": ["Sinfulness; the state of being peccant."], "src": "iwb"}
+{"w": "peccant", "pos": "adjective", "d": ["Sinning; guilty of sin.", "Morbid or diseased."], "src": "iwb"}
+{"w": "peccary", "pos": "noun", "d": ["A piglike hoofed mammal of the Americas."], "src": "iwb"}
+{"w": "peccavi", "pos": "phrase", "d": ["Latin for 'I have sinned,' used as a confession of fault."], "src": "iwb"}
+{"w": "pecco", "pos": "verb", "d": ["To sin; an obsolete verb form."], "src": "iwb"}
+{"w": "peck", "pos": "noun", "d": ["A unit of dry measure equal to eight quarts.", "A quick kiss, or a bird's strike with the beak."], "src": "iwb"}
+{"w": "pecopteris", "pos": "noun", "d": ["A genus of fossil ferns of the coal measures."], "src": "iwb"}
+{"w": "pecora", "pos": "noun", "d": ["Ruminant mammals as a group; cud-chewing hoofed animals."], "src": "iwb"}
+{"w": "pectate", "pos": "noun", "d": ["A salt or ester of pectic acid."], "src": "iwb"}
+{"w": "pecten", "pos": "noun", "d": ["A comb-like structure in anatomy.", "The genus of scallops."], "src": "iwb"}
+{"w": "pectic", "pos": "adjective", "d": ["Relating to pectin."], "src": "iwb"}
+{"w": "pectin", "pos": "noun", "d": ["A substance in ripe fruit that causes jellies to set."], "src": "iwb"}
+{"w": "pectineal", "pos": "adjective", "d": ["Relating to the pubic bone."], "src": "iwb"}
+{"w": "pectinibranch", "pos": "adjective", "d": ["Having comb-like gills, as certain gastropod mollusks."], "src": "iwb"}
+{"w": "pectinibranchiata", "pos": "noun", "d": ["A group of gastropod mollusks with comb-like gills."], "src": "iwb"}
+{"w": "pectinibranchiate", "pos": "adjective", "d": ["Having comblike gills, as certain marine snails do."], "src": "iwb"}
+{"w": "pectiniform", "pos": "adjective", "d": ["Shaped like a comb."], "src": "iwb"}
+{"w": "pectize", "pos": "verb", "d": ["To change into pectin, as fruit juice does when it jellies on heating."], "src": "iwb"}
+{"w": "pectolite", "pos": "noun", "d": ["A whitish glassy mineral, a silicate of sodium and calcium, often found in rounded masses."], "src": "iwb"}
+{"w": "pectoral", "pos": "adjective", "d": ["Of, on, or worn on the chest."], "src": "iwb"}
+{"w": "pectoriloquism", "pos": "noun", "d": ["An abnormally clear transmission of the voice through the chest, heard with a stethoscope in lung disease."], "src": "iwb"}
+{"w": "pectoriloquous", "pos": "adjective", "d": ["Relating to or marked by pectoriloquism."], "src": "iwb"}
+{"w": "pectoriloquy", "pos": "noun", "d": ["The hearing of spoken words distinctly through the chest wall."], "src": "iwb"}
+{"w": "pectose", "pos": "noun", "d": ["A substance in unripe fruit that changes into pectin as the fruit ripens."], "src": "iwb"}
+{"w": "pectosic", "pos": "adjective", "d": ["Of or relating to pectose."], "src": "iwb"}
+{"w": "pectostraca", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pectous", "pos": "adjective", "d": ["Containing or resembling pectin."], "src": "iwb"}
+{"w": "pectus", "pos": "noun", "d": ["The chest or breast, especially in anatomical names."], "src": "iwb"}
+{"w": "pecul", "pos": "verb", "d": ["To embezzle; to steal property entrusted to one's care."], "src": "iwb"}
+{"w": "peculator", "pos": "noun", "d": ["One who embezzles money or property entrusted to him."], "src": "iwb"}
+{"w": "peculiar", "pos": "adjective", "d": ["Strange or odd; not usual.", "Belonging particularly to one person, place, or thing."], "src": "iwb"}
+{"w": "peculium", "pos": "noun", "d": ["Property which a Roman father or master allowed his son or slave to hold as his own."], "src": "iwb"}
+{"w": "pecunial", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pecuniarily", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pecuniary", "pos": "adjective", "d": ["Relating to money."], "src": "iwb"}
+{"w": "pecunious", "pos": "adjective", "d": ["Having plenty of money; rich."], "src": "iwb"}
+{"w": "ped", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pedagogue", "pos": "noun", "d": ["A teacher, especially a strict, formal, or pedantic one."], "src": "iwb"}
+{"w": "pedagogy", "pos": "noun", "d": ["The art, science, or profession of teaching."], "src": "iwb"}
+{"w": "pedalian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pedaneous", "pos": "adjective", "d": ["Going on foot; walking."], "src": "iwb"}
+{"w": "pedantocracy", "pos": "noun", "d": ["Government or rule by pedants."], "src": "iwb"}
+{"w": "pedantry", "pos": "noun", "d": ["The manner or conduct of a pedant; a boastful display of learning over trifles."], "src": "iwb"}
+{"w": "pedanty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pedata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pedatifid", "pos": "adjective", "d": ["Palmately divided like a bird's foot, as the leaf of the buttercup."], "src": "iwb"}
+{"w": "peddle", "pos": "verb", "d": ["To travel about selling small wares from place to place.", "To deal out or spread trifling things, as gossip."], "src": "iwb"}
+{"w": "peddlery", "pos": "noun", "d": ["The trade or business of a peddler."], "src": "iwb"}
+{"w": "pederast", "pos": "noun", "d": ["A man who has sexual relations with a boy."], "src": "iwb"}
+{"w": "pederasty", "pos": "noun", "d": ["Sexual relations between a man and a boy."], "src": "iwb"}
+{"w": "pederero", "pos": "noun", "d": ["A small cannon of former times, often mounted on a swivel."], "src": "iwb"}
+{"w": "pedesis", "pos": "noun", "d": ["The irregular dancing motion of tiny particles suspended in a fluid."], "src": "iwb"}
+{"w": "pedestal", "pos": "noun", "d": ["The base or foot that supports a column, statue, or vase.", "A position of high esteem or admiration."], "src": "iwb"}
+{"w": "pedestrial", "pos": "adjective", "d": ["Of walking; done on foot."], "src": "iwb"}
+{"w": "pedestrian", "pos": "noun", "d": ["A person traveling on foot.", "Lacking imagination or distinction; commonplace."], "src": "iwb"}
+{"w": "pedestrious", "pos": "adjective", "d": ["Going on foot; walking."], "src": "iwb"}
+{"w": "pedetentous", "pos": "adjective", "d": ["Advancing step by step; proceeding slowly and cautiously."], "src": "iwb"}
+{"w": "pedi-", "pos": "prefix", "d": ["A prefix meaning 'child', as in pediatrics."], "src": "iwb"}
+{"w": "pedicel", "pos": "noun", "d": ["The stalk of a single flower in a flower cluster."], "src": "iwb"}
+{"w": "pedicellaria", "pos": "noun", "d": ["A tiny pincerlike organ on the skin of starfishes and sea urchins."], "src": "iwb"}
+{"w": "pedicellina", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pedicle", "pos": "noun", "d": ["A small stalk; a pedicel.", "A narrow stemlike part supporting an organ of the body."], "src": "iwb"}
+{"w": "pedicular", "pos": "adjective", "d": ["Of or relating to a pedicle.", "Infested with lice; lousy."], "src": "iwb"}
+{"w": "pediculate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pediculati", "pos": "noun", "d": ["An order of deep-sea fishes with limblike fins, including the anglerfishes."], "src": "iwb"}
+{"w": "pediculation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pedicule", "pos": "noun", "d": ["A little footstalk; a pedicle."], "src": "iwb"}
+{"w": "pediculina", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pediculous", "pos": "adjective", "d": ["Infested with lice; lousy."], "src": "iwb"}
+{"w": "pediculus", "pos": "noun", "d": ["The genus of lice that infest human beings."], "src": "iwb"}
+{"w": "pedicure", "pos": "noun", "d": ["Care and treatment of the feet and toenails."], "src": "iwb"}
+{"w": "pediform", "pos": "adjective", "d": ["Shaped like a foot."], "src": "iwb"}
+{"w": "pedigerous", "pos": "adjective", "d": ["Bearing feet or a foot."], "src": "iwb"}
+{"w": "pedigree", "pos": "noun", "d": ["A written record of the ancestors of a person or animal.", "Ancestry or lineage, especially of distinguished kind."], "src": "iwb"}
+{"w": "pedigree clause", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pediluvy", "pos": "noun", "d": ["The bathing of the feet, especially as a religious rite."], "src": "iwb"}
+{"w": "pedimana", "pos": "noun", "d": ["An order of mammals with handlike feet, including the opossums."], "src": "iwb"}
+{"w": "pedimane", "pos": "noun", "d": ["A mammal of the order Pedimana."], "src": "iwb"}
+{"w": "pedimanous", "pos": "adjective", "d": ["Having feet shaped like hands."], "src": "iwb"}
+{"w": "pediment", "pos": "noun", "d": ["The triangular gable over a portico, door, or window in classical architecture."], "src": "iwb"}
+{"w": "pedipalp", "pos": "noun", "d": ["One of the second pair of appendages of spiders, scorpions, and their kin."], "src": "iwb"}
+{"w": "pedipalpi", "pos": "noun", "d": ["The pedipalps; the plural of pedipalp."], "src": "iwb"}
+{"w": "pedipalpus", "pos": "noun", "d": ["A pedipalp."], "src": "iwb"}
+{"w": "pedireme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pedler", "pos": "noun", "d": ["One who peddles; a traveling seller of small goods."], "src": "iwb"}
+{"w": "pedo-", "pos": "prefix", "d": ["A prefix meaning 'child', as in pedobaptism.", "A prefix meaning 'soil', as in pedology."], "src": "iwb"}
+{"w": "pedobaptism", "pos": "noun", "d": ["The baptism of infants."], "src": "iwb"}
+{"w": "pedobaptist", "pos": "noun", "d": ["One who practices or defends the baptism of infants."], "src": "iwb"}
+{"w": "pedograph", "pos": "noun", "d": ["An instrument that records the shape of the sole of the foot."], "src": "iwb"}
+{"w": "pedomancy", "pos": "noun", "d": ["Divination by examining the soles of the feet."], "src": "iwb"}
+{"w": "pedometer", "pos": "noun", "d": ["An instrument that counts the steps taken by a walker."], "src": "iwb"}
+{"w": "pedometric", "pos": "adjective", "d": ["Relating to the measuring of paces or steps."], "src": "iwb"}
+{"w": "pedomotive", "pos": "adjective", "d": ["Moved or worked by foot power."], "src": "iwb"}
+{"w": "pedotrophy", "pos": "noun", "d": ["The proper feeding and rearing of children."], "src": "iwb"}
+{"w": "pedro", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "peduncular", "pos": "adjective", "d": ["Of, relating to, or shaped like a peduncle."], "src": "iwb"}
+{"w": "pedunculata", "pos": "noun", "d": ["An order of barnacles that grow on stalks."], "src": "iwb"}
+{"w": "pedunculate", "pos": "adjective", "d": ["Borne on a peduncle; having a stalk."], "src": "iwb"}
+{"w": "peece", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "peechi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "peek", "pos": "verb", "d": ["To look quickly or slyly, as through a small opening.", "A quick, furtive look."], "src": "iwb"}
+{"w": "peekaboo", "pos": "noun", "d": ["A game of hiding and suddenly revealing the face, played to amuse a baby."], "src": "iwb"}
+{"w": "peel", "pos": "verb", "d": ["To strip off the skin, rind, or bark of.", "The skin or rind of a fruit."], "src": "iwb"}
+{"w": "peele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "peen", "pos": "noun", "d": ["The wedge-shaped end of a hammer head, opposite the flat face."], "src": "iwb"}
+{"w": "peenge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "peep", "pos": "verb", "d": ["To make the short shrill cry of a young bird.", "To look through a narrow opening or from a hiding place."], "src": "iwb"}
+{"w": "peep sight", "pos": "phrase", "d": ["A rear gun sight with a small hole through which the shooter aligns the target."], "src": "iwb"}
+{"w": "peeping hole", "pos": "phrase", "d": ["A small hole made for looking through secretly."], "src": "iwb"}
+{"w": "peepul tree", "pos": "phrase", "d": ["A sacred fig tree of India, revered by Hindus and Buddhists."], "src": "iwb"}
+{"w": "peeress", "pos": "noun", "d": ["The wife or widow of a peer; a woman holding a peerage in her own right."], "src": "iwb"}
+{"w": "peert", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "peery", "pos": "adjective", "d": ["Inquisitive and watchful; prying."], "src": "iwb"}
+{"w": "peevish", "pos": "adjective", "d": ["Easily annoyed; fretful over trifles."], "src": "iwb"}
+{"w": "peevit", "pos": "noun", "d": ["The lapwing, a crested plover with a wailing cry."], "src": "iwb"}
+{"w": "peg", "pos": "noun", "d": ["A small pin of wood or metal driven into something to fasten or mark it.", "To fasten or mark with a peg."], "src": "iwb"}
+{"w": "pegador", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pegasean", "pos": "adjective", "d": ["Of or relating to Pegasus, the winged horse of myth."], "src": "iwb"}
+{"w": "pegasoid", "pos": "adjective", "d": ["Resembling Pegasus."], "src": "iwb"}
+{"w": "pegasus", "pos": "noun", "d": ["The winged horse of Greek mythology.", "A genus of small armored fishes of the Indo-Pacific."], "src": "iwb"}
+{"w": "pegm", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pegmatite", "pos": "noun", "d": ["A very coarse-grained igneous rock, often rich in rare minerals and gemstones."], "src": "iwb"}
+{"w": "pegmatitic", "pos": "adjective", "d": ["Of, like, or containing pegmatite."], "src": "iwb"}
+{"w": "pegmatoid", "pos": "adjective", "d": ["Resembling pegmatite."], "src": "iwb"}
+{"w": "pegomancy", "pos": "noun", "d": ["Divination by springs or fountains."], "src": "iwb"}
+{"w": "pegroots", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pehlevi", "pos": "noun", "d": ["The Middle Persian language, used in ancient Persia."], "src": "iwb"}
+{"w": "peignoir", "pos": "noun", "d": ["A woman's loose, flowing dressing gown."], "src": "iwb"}
+{"w": "pein", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "peirameter", "pos": "noun", "d": ["An instrument for measuring the resistance of a road to wheeled vehicles."], "src": "iwb"}
+{"w": "peirastic", "pos": "adjective", "d": ["Of or for trial; experimental or tentative."], "src": "iwb"}
+{"w": "peise", "pos": "verb", "d": ["To weigh; to balance in the hand.", "To poise or steady."], "src": "iwb"}
+{"w": "peitrel", "pos": "noun", "d": ["Armor protecting the breast of a horse."], "src": "iwb"}
+{"w": "pejorative", "pos": "adjective", "d": ["Expressing contempt or disapproval; belittling."], "src": "iwb"}
+{"w": "pekan", "pos": "noun", "d": ["The fisher, a dark-furred North American marten."], "src": "iwb"}
+{"w": "pekoe", "pos": "noun", "d": ["A fine grade of black tea made from young leaves."], "src": "iwb"}
+{"w": "pela", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pelage", "pos": "noun", "d": ["The coat of hair, fur, or wool covering a mammal."], "src": "iwb"}
+{"w": "pelagian", "pos": "adjective", "d": ["Of or living in the open sea.", "Relating to Pelagius or his doctrines."], "src": "iwb"}
+{"w": "pelagic", "pos": "adjective", "d": ["Of, relating to, or living in the open sea."], "src": "iwb"}
+{"w": "pelargonic", "pos": "adjective", "d": ["Of or derived from pelargonic acid, a fatty acid found in nature."], "src": "iwb"}
+{"w": "pelargonium", "pos": "noun", "d": ["A large genus of flowering plants including the garden geraniums."], "src": "iwb"}
+{"w": "pelasgian", "pos": "adjective", "d": ["Of the Pelasgians, an ancient prehistoric people of Greece."], "src": "iwb"}
+{"w": "pelasgic", "pos": "adjective", "d": ["Pelasgian; of the earliest known inhabitants of Greece."], "src": "iwb"}
+{"w": "pelecan", "pos": "noun", "d": ["A pelican."], "src": "iwb"}
+{"w": "pelecaniformes", "pos": "noun", "d": ["An order of water birds including pelicans, cormorants, and gannets."], "src": "iwb"}
+{"w": "pelecoid", "pos": "adjective", "d": ["Shaped like a hatchet."], "src": "iwb"}
+{"w": "pelecypoda", "pos": "noun", "d": ["The bivalve mollusks, such as clams, oysters, and mussels."], "src": "iwb"}
+{"w": "pelegrine", "pos": "adjective", "d": ["Wandering; foreign; like a pilgrim."], "src": "iwb"}
+{"w": "pelerine", "pos": "noun", "d": ["A woman's short cape covering the shoulders."], "src": "iwb"}
+{"w": "pelf", "pos": "noun", "d": ["Money or riches, especially when gotten by dishonest means."], "src": "iwb"}
+{"w": "pelfry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pelican", "pos": "noun", "d": ["A large water bird with a long bill and a pouch beneath it for holding fish."], "src": "iwb"}
+{"w": "pelican state", "pos": "phrase", "d": ["A nickname for Louisiana."], "src": "iwb"}
+{"w": "pelick", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pelicoid", "pos": "adjective", "d": ["Like a pelican."], "src": "iwb"}
+{"w": "pelicosauria", "pos": "noun", "d": ["An extinct order of primitive reptiles, the pelycosaurs."], "src": "iwb"}
+{"w": "peliom", "pos": "noun", "d": ["A dark-colored variety of the mineral iolite."], "src": "iwb"}
+{"w": "pelioma", "pos": "noun", "d": ["A livid or purplish spot on the skin."], "src": "iwb"}
+{"w": "pelisse", "pos": "noun", "d": ["A long cloak or mantle, originally one trimmed or lined with fur."], "src": "iwb"}
+{"w": "pell", "pos": "noun", "d": ["A skin, hide, or pelt."], "src": "iwb"}
+{"w": "pell-mell", "pos": "adverb", "d": ["In wild, confused haste; headlong."], "src": "iwb"}
+{"w": "pellack", "pos": "noun", "d": ["A porpoise."], "src": "iwb"}
+{"w": "pellagra", "pos": "noun", "d": ["A disease caused by lack of niacin, marked by skin sores, digestive trouble, and mental disturbance."], "src": "iwb"}
+{"w": "pellagrous", "pos": "adjective", "d": ["Of, relating to, or suffering from pellagra."], "src": "iwb"}
+{"w": "pellet", "pos": "noun", "d": ["A small rounded mass of anything.", "A small ball of lead shot."], "src": "iwb"}
+{"w": "pellibranchiata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pellicle", "pos": "noun", "d": ["A thin skin, film, or membrane."], "src": "iwb"}
+{"w": "pellicular", "pos": "adjective", "d": ["Of or like a pellicle."], "src": "iwb"}
+{"w": "pellitory", "pos": "noun", "d": ["A low herb of the nettle family growing on old walls.", "A pungent-rooted medicinal plant of the daisy family."], "src": "iwb"}
+{"w": "pellucid", "pos": "adjective", "d": ["Perfectly clear; transparent.", "Easy to see through or understand; lucid."], "src": "iwb"}
+{"w": "pelma", "pos": "noun", "d": ["The sole of the foot."], "src": "iwb"}
+{"w": "pelopium", "pos": "noun", "d": ["An early name for the chemical element niobium."], "src": "iwb"}
+{"w": "peloponnesian", "pos": "adjective", "d": ["Of the Peloponnesus, the southern peninsula of Greece."], "src": "iwb"}
+{"w": "peloria", "pos": "noun", "d": ["The abnormal growth of regular form in a flower that is normally irregular."], "src": "iwb"}
+{"w": "peloric", "pos": "adjective", "d": ["Showing or marked by peloria."], "src": "iwb"}
+{"w": "pelorus", "pos": "noun", "d": ["A navigational instrument for taking bearings, like a compass card without magnets."], "src": "iwb"}
+{"w": "pelota", "pos": "noun", "d": ["A Basque ball game played against a wall with a curved wicker basket."], "src": "iwb"}
+{"w": "pelotage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pelt", "pos": "noun", "d": ["An animal skin with the hair or fur still on it.", "To strike with repeated blows or thrown objects.", "To fall heavily and steadily, as rain."], "src": "iwb"}
+{"w": "pelta", "pos": "noun", "d": ["A small light shield used by ancient peoples."], "src": "iwb"}
+{"w": "peltier effect", "pos": "phrase", "d": ["The heating or cooling at the junction of two different metals when an electric current passes through."], "src": "iwb"}
+{"w": "peltiform", "pos": "adjective", "d": ["Shaped like a shield."], "src": "iwb"}
+{"w": "pelton wheel", "pos": "phrase", "d": ["A waterwheel with cup-shaped buckets, turned by a jet of water striking them."], "src": "iwb"}
+{"w": "peltry", "pos": "noun", "d": ["Pelts or skins with fur, taken together."], "src": "iwb"}
+{"w": "peludo", "pos": "noun", "d": ["A large hairy armadillo of South America."], "src": "iwb"}
+{"w": "pelure", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pelusiac", "pos": "adjective", "d": ["Of Pelusium, an ancient city of Egypt at the mouth of the Nile."], "src": "iwb"}
+{"w": "pelvic", "pos": "adjective", "d": ["Of or relating to the pelvis."], "src": "iwb"}
+{"w": "pelvimeter", "pos": "noun", "d": ["An instrument for measuring the dimensions of the pelvis."], "src": "iwb"}
+{"w": "pelvimetry", "pos": "noun", "d": ["The measurement of the pelvis, especially to judge the ease of childbirth."], "src": "iwb"}
+{"w": "pelvis", "pos": "noun", "d": ["The basin-shaped framework of bones at the lower end of the spine."], "src": "iwb"}
+{"w": "pembroke table", "pos": "phrase", "d": ["A small table with hinged drop leaves on the sides."], "src": "iwb"}
+{"w": "pemmican", "pos": "noun", "d": ["Dried pounded meat mixed with fat, a compact and nourishing food."], "src": "iwb"}
+{"w": "pemphigus", "pos": "noun", "d": ["A disease in which large blisters form on the skin."], "src": "iwb"}
+{"w": "penang lawyer", "pos": "phrase", "d": ["A cane or walking stick made from the stem of a Malaysian palm."], "src": "iwb"}
+{"w": "penang nut", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "penates", "pos": "noun", "d": ["The household gods of the ancient Romans."], "src": "iwb"}
+{"w": "pence", "pos": "noun", "d": ["The plural of penny, used of sums of money."], "src": "iwb"}
+{"w": "pencel", "pos": "noun", "d": ["A small narrow flag; a pennon."], "src": "iwb"}
+{"w": "pend", "pos": "verb", "d": ["To hang; to await judgment or decision."], "src": "iwb"}
+{"w": "pendency", "pos": "noun", "d": ["The state of being pending or undecided."], "src": "iwb"}
+{"w": "pendicle", "pos": "noun", "d": ["A small hanging part; a pendant."], "src": "iwb"}
+{"w": "pendular", "pos": "adjective", "d": ["Like a pendulum; swinging to and fro."], "src": "iwb"}
+{"w": "pendulate", "pos": "verb", "d": ["To swing like a pendulum."], "src": "iwb"}
+{"w": "penduline", "pos": "adjective", "d": ["Hanging loosely; pendent.", "A small titmouse that weaves a hanging nest."], "src": "iwb"}
+{"w": "pendulosity", "pos": "noun", "d": ["The state or quality of being pendulous."], "src": "iwb"}
+{"w": "pendulous", "pos": "adjective", "d": ["Hanging down loosely.", "Swinging freely back and forth."], "src": "iwb"}
+{"w": "pendulum", "pos": "noun", "d": ["A weight hung from a fixed point so as to swing freely, used to regulate clocks."], "src": "iwb"}
+{"w": "peneplain", "pos": "noun", "d": ["A broad land surface worn nearly flat by long erosion."], "src": "iwb"}
+{"w": "penetrability", "pos": "noun", "d": ["The quality of being penetrable."], "src": "iwb"}
+{"w": "penetrable", "pos": "adjective", "d": ["Capable of being pierced, entered, or understood."], "src": "iwb"}
+{"w": "penetrail", "pos": "noun", "d": ["The innermost sanctuary of a temple."], "src": "iwb"}
+{"w": "penetralia", "pos": "noun", "d": ["The innermost parts; hidden recesses."], "src": "iwb"}
+{"w": "penetrance", "pos": "noun", "d": ["The proportion of individuals carrying a gene who actually show its trait."], "src": "iwb"}
+{"w": "penetrancy", "pos": "noun", "d": ["The quality of being able to penetrate; the power to enter or pass through."], "src": "iwb"}
+{"w": "penetrant", "pos": "noun", "d": ["Something that penetrates, especially a liquid that enters pores or cracks.", "A dye or fluid used to reveal flaws in a surface."], "src": "iwb"}
+{"w": "penetrate", "pos": "verb", "d": ["To enter or pass into or through something.", "To understand or reach the meaning of something."], "src": "iwb"}
+{"w": "penetrative", "pos": "adjective", "d": ["Able to penetrate; tending to enter deeply.", "Having keen insight."], "src": "iwb"}
+{"w": "pengolin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "penguinery", "pos": "noun", "d": ["A place where penguins are kept, as in a zoo."], "src": "iwb"}
+{"w": "penicil", "pos": "noun", "d": ["A small tuft of hairs or fibers forming a brushlike tip."], "src": "iwb"}
+{"w": "penicilliform", "pos": "adjective", "d": ["Shaped like a small brush or tuft of hairs."], "src": "iwb"}
+{"w": "peninsula state", "pos": "phrase", "d": ["A state located on a peninsula; used as a nickname for Florida or Michigan."], "src": "iwb"}
+{"w": "penis", "pos": "noun", "d": ["The male organ used for reproduction and urination."], "src": "iwb"}
+{"w": "penitence", "pos": "noun", "d": ["Sorrow or regret for sins or wrongdoing."], "src": "iwb"}
+{"w": "penitency", "pos": "noun", "d": ["The state or quality of being penitent."], "src": "iwb"}
+{"w": "penitent", "pos": "adjective", "d": ["Feeling regret or sorrow for one's sins or faults."], "src": "iwb"}
+{"w": "penitentiary", "pos": "noun", "d": ["A prison where serious offenders are confined."], "src": "iwb"}
+{"w": "penk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "penna", "pos": "noun", "d": ["A feather; especially, a stiff outer feather of a bird."], "src": "iwb"}
+{"w": "pennaceous", "pos": "adjective", "d": ["Resembling or consisting of feathers."], "src": "iwb"}
+{"w": "pennach", "pos": "noun", "d": ["A plume of feathers worn as an ornament or crest."], "src": "iwb"}
+{"w": "pennage", "pos": "noun", "d": ["The feathers covering a bird; plumage."], "src": "iwb"}
+{"w": "pennant", "pos": "noun", "d": ["A small narrow flag tapering to a point or swallowtail."], "src": "iwb"}
+{"w": "pennate", "pos": "adjective", "d": ["Shaped like a feather.", "Having parts arranged like the barbs of a feather."], "src": "iwb"}
+{"w": "pennatula", "pos": "noun", "d": ["A genus of sea pens, colonial marine animals resembling quills."], "src": "iwb"}
+{"w": "pennatulacea", "pos": "noun", "d": ["The order of sea pens, colonial marine animals that resemble feathers."], "src": "iwb"}
+{"w": "penniform", "pos": "adjective", "d": ["Shaped like a feather."], "src": "iwb"}
+{"w": "pennigerous", "pos": "adjective", "d": ["Bearing feathers or quills."], "src": "iwb"}
+{"w": "penniless", "pos": "adjective", "d": ["Having no money; destitute."], "src": "iwb"}
+{"w": "penninerved", "pos": "adjective", "d": ["Having veins arranged like the barbs of a feather."], "src": "iwb"}
+{"w": "pennipotent", "pos": "adjective", "d": ["Strong-winged; able to fly powerfully."], "src": "iwb"}
+{"w": "pennoncel", "pos": "noun", "d": ["A small pennon or streamer."], "src": "iwb"}
+{"w": "pennoncelle", "pos": "noun", "d": ["A small pennon; a little flag or streamer."], "src": "iwb"}
+{"w": "penny-a-liner", "pos": "noun", "d": ["A writer paid by the line; a hack who produces cheap writing."], "src": "iwb"}
+{"w": "penock", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "penological", "pos": "adjective", "d": ["Relating to the study of punishment and the management of prisons."], "src": "iwb"}
+{"w": "penologist", "pos": "noun", "d": ["A specialist in penology, the study of punishment and prison management."], "src": "iwb"}
+{"w": "pensel", "pos": "noun", "d": ["A small pointed flag or streamer."], "src": "iwb"}
+{"w": "pent", "pos": "adjective", "d": ["Penned in; shut up or confined."], "src": "iwb"}
+{"w": "penta-", "pos": "prefix", "d": ["A combining form meaning five, as in pentagon."], "src": "iwb"}
+{"w": "pentabasic", "pos": "adjective", "d": ["Denoting an acid that can give up five hydrogen ions."], "src": "iwb"}
+{"w": "pentachloride", "pos": "noun", "d": ["A chemical compound containing five atoms of chlorine in each molecule."], "src": "iwb"}
+{"w": "pentachord", "pos": "noun", "d": ["An ancient musical instrument with five strings.", "A series of five musical tones."], "src": "iwb"}
+{"w": "pentacle", "pos": "noun", "d": ["A five-pointed star drawn with straight lines, used as a magical symbol."], "src": "iwb"}
+{"w": "pentacoccous", "pos": "adjective", "d": ["Having a fruit made up of five carpels or seed cases."], "src": "iwb"}
+{"w": "pentaconter", "pos": "noun", "d": ["An ancient Greek galley rowed by fifty oarsmen."], "src": "iwb"}
+{"w": "pentacrinin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pentacrinite", "pos": "noun", "d": ["A fossil crinoid or sea lily of the genus Pentacrinus."], "src": "iwb"}
+{"w": "pentacrinoid", "pos": "adjective", "d": ["Resembling the fossil crinoid Pentacrinus."], "src": "iwb"}
+{"w": "pentacrinus", "pos": "noun", "d": ["A genus of fossil crinoids, or sea lilies."], "src": "iwb"}
+{"w": "pentacron", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pentad", "pos": "noun", "d": ["A group or series of five things."], "src": "iwb"}
+{"w": "pentadactyle", "pos": "adjective", "d": ["Having five fingers or toes."], "src": "iwb"}
+{"w": "pentadactyloid", "pos": "adjective", "d": ["Resembling a five-fingered form."], "src": "iwb"}
+{"w": "pentadecane", "pos": "noun", "d": ["A colorless hydrocarbon of the alkane series containing fifteen carbon atoms."], "src": "iwb"}
+{"w": "pentadecatoic", "pos": "adjective", "d": ["Relating to a fatty acid containing fifteen carbon atoms."], "src": "iwb"}
+{"w": "pentadecylic", "pos": "adjective", "d": ["Relating to pentadecane; containing a fifteen-carbon chain."], "src": "iwb"}
+{"w": "pentafid", "pos": "adjective", "d": ["Divided into five parts or lobes."], "src": "iwb"}
+{"w": "pentaglot", "pos": "noun", "d": ["A person who speaks five languages."], "src": "iwb"}
+{"w": "pentagram", "pos": "noun", "d": ["A five-pointed star formed by five straight lines."], "src": "iwb"}
+{"w": "pentagynia", "pos": "noun", "d": ["A group of plants having five pistils."], "src": "iwb"}
+{"w": "pentagynian", "pos": "adjective", "d": ["Having five pistils."], "src": "iwb"}
+{"w": "pentahedral", "pos": "adjective", "d": ["Having five faces."], "src": "iwb"}
+{"w": "pentahedrical", "pos": "adjective", "d": ["Relating to a pentahedron."], "src": "iwb"}
+{"w": "pentahedron", "pos": "noun", "d": ["A solid figure having five faces."], "src": "iwb"}
+{"w": "pentahedrous", "pos": "adjective", "d": ["Having five faces."], "src": "iwb"}
+{"w": "pentamera", "pos": "noun", "d": ["A division of beetles in which each foot has five joints."], "src": "iwb"}
+{"w": "pentameran", "pos": "adjective", "d": ["Belonging to the beetle division Pentamera."], "src": "iwb"}
+{"w": "pentamerous", "pos": "adjective", "d": ["Divided into five parts; five-parted."], "src": "iwb"}
+{"w": "pentamerus", "pos": "noun", "d": ["A genus of fossil brachiopods, or lamp shells."], "src": "iwb"}
+{"w": "pentameter", "pos": "noun", "d": ["A line of verse containing five metrical feet."], "src": "iwb"}
+{"w": "pentamethylene", "pos": "noun", "d": ["A hydrocarbon group made of five methylene units joined in a chain."], "src": "iwb"}
+{"w": "pentandria", "pos": "noun", "d": ["A class of plants having five stamens."], "src": "iwb"}
+{"w": "pentandrian", "pos": "adjective", "d": ["Having five stamens."], "src": "iwb"}
+{"w": "pentane", "pos": "noun", "d": ["A colorless flammable hydrocarbon of the alkane series with five carbon atoms."], "src": "iwb"}
+{"w": "pentapody", "pos": "noun", "d": ["A line of verse containing five metrical feet."], "src": "iwb"}
+{"w": "pentaptych", "pos": "noun", "d": ["A set of five panels hinged together, as a five-part altarpiece."], "src": "iwb"}
+{"w": "pentaspast", "pos": "noun", "d": ["An ancient hoisting machine fitted with five pulleys."], "src": "iwb"}
+{"w": "pentastich", "pos": "noun", "d": ["A stanza or poem of five lines."], "src": "iwb"}
+{"w": "pentastomida", "pos": "noun", "d": ["An order of parasitic wormlike arthropods known as tongue worms."], "src": "iwb"}
+{"w": "pentastyle", "pos": "adjective", "d": ["Having a row of five columns."], "src": "iwb"}
+{"w": "pentateuch", "pos": "noun", "d": ["The first five books of the Bible, Genesis through Deuteronomy."], "src": "iwb"}
+{"w": "pentathionic", "pos": "adjective", "d": ["Denoting an acid containing five atoms of sulfur."], "src": "iwb"}
+{"w": "pentathlon", "pos": "noun", "d": ["An athletic contest made up of five events."], "src": "iwb"}
+{"w": "pentavalent", "pos": "adjective", "d": ["Having a chemical valence of five."], "src": "iwb"}
+{"w": "penteconter", "pos": "noun", "d": ["An ancient Greek galley rowed by fifty oarsmen."], "src": "iwb"}
+{"w": "pentecost", "pos": "noun", "d": ["The Christian festival celebrating the descent of the Holy Spirit, seven weeks after Easter."], "src": "iwb"}
+{"w": "pentecosty", "pos": "noun", "d": ["The season of the Christian festival of Pentecost."], "src": "iwb"}
+{"w": "pentelican", "pos": "adjective", "d": ["Relating to Mount Pentelicus in Greece, famed for its fine white marble."], "src": "iwb"}
+{"w": "pentoic", "pos": "adjective", "d": ["Denoting an acid containing five carbon atoms."], "src": "iwb"}
+{"w": "pentosan", "pos": "noun", "d": ["A complex carbohydrate that yields five-carbon sugars when broken down."], "src": "iwb"}
+{"w": "pentosane", "pos": "noun", "d": ["A complex carbohydrate that yields five-carbon sugars when broken down."], "src": "iwb"}
+{"w": "pentremite", "pos": "noun", "d": ["A fossil blastoid, a stalked marine animal related to starfish."], "src": "iwb"}
+{"w": "pentyl", "pos": "noun", "d": ["A univalent hydrocarbon group derived from pentane."], "src": "iwb"}
+{"w": "penuchle", "pos": "noun", "d": ["A card game for two to four players; a variant of pinochle."], "src": "iwb"}
+{"w": "penult", "pos": "noun", "d": ["The next-to-last syllable of a word."], "src": "iwb"}
+{"w": "penumbrala", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "penury", "pos": "noun", "d": ["Extreme poverty; a severe lack of money or resources."], "src": "iwb"}
+{"w": "peon", "pos": "noun", "d": ["An unskilled laborer; especially, one bound to work off a debt."], "src": "iwb"}
+{"w": "peony", "pos": "noun", "d": ["A garden plant grown for its large showy flowers."], "src": "iwb"}
+{"w": "peoplish", "pos": "adjective", "d": ["Full of people; populous."], "src": "iwb"}
+{"w": "peorias", "pos": "noun", "d": ["A North American Indian tribe of the Illinois confederacy."], "src": "iwb"}
+{"w": "pepastic", "pos": "adjective", "d": ["Promoting digestion."], "src": "iwb"}
+{"w": "peperine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "peperino", "pos": "noun", "d": ["A gray volcanic stone used as a building material in Italy."], "src": "iwb"}
+{"w": "peplis", "pos": "noun", "d": ["A genus of small aquatic plants, the water purslanes."], "src": "iwb"}
+{"w": "peplum", "pos": "noun", "d": ["A short flared ruffle or overskirt attached to a bodice.", "An ancient Greek shawl-like outer garment."], "src": "iwb"}
+{"w": "peplus", "pos": "noun", "d": ["An ancient Greek outer garment or robe."], "src": "iwb"}
+{"w": "pepo", "pos": "noun", "d": ["A fleshy fruit with a hard rind, such as a pumpkin, squash, or melon."], "src": "iwb"}
+{"w": "pepper box", "pos": "phrase", "d": ["A small container with a perforated top for sprinkling pepper."], "src": "iwb"}
+{"w": "pepper dulse", "pos": "phrase", "d": ["An edible red seaweed with a peppery flavor."], "src": "iwb"}
+{"w": "pepperidge", "pos": "noun", "d": ["A North American tree, the black gum, noted for its brilliant autumn foliage."], "src": "iwb"}
+{"w": "peppery", "pos": "adjective", "d": ["Tasting of pepper; hot and sharp.", "Irritable or short-tempered."], "src": "iwb"}
+{"w": "pepsin", "pos": "noun", "d": ["A digestive enzyme in the stomach that breaks down proteins."], "src": "iwb"}
+{"w": "pepsinogen", "pos": "noun", "d": ["The inactive substance secreted by the stomach that becomes pepsin."], "src": "iwb"}
+{"w": "peptic", "pos": "adjective", "d": ["Relating to digestion or to pepsin."], "src": "iwb"}
+{"w": "peptogen", "pos": "noun", "d": ["A substance that stimulates the formation of pepsin."], "src": "iwb"}
+{"w": "peptohydrochloric", "pos": "adjective", "d": ["Relating to a mixture of pepsin and hydrochloric acid."], "src": "iwb"}
+{"w": "peptone", "pos": "noun", "d": ["A soluble product formed in the early stage of protein digestion."], "src": "iwb"}
+{"w": "peptonize", "pos": "verb", "d": ["To convert into peptone; to digest with pepsin."], "src": "iwb"}
+{"w": "peptonoid", "pos": "adjective", "d": ["Resembling peptone."], "src": "iwb"}
+{"w": "peptonuria", "pos": "noun", "d": ["The presence of peptone in the urine."], "src": "iwb"}
+{"w": "peptotoxine", "pos": "noun", "d": ["A poisonous substance produced during the digestion of proteins."], "src": "iwb"}
+{"w": "pequots", "pos": "noun", "d": ["A Native American tribe of Connecticut."], "src": "iwb"}
+{"w": "per diem", "pos": "phrase", "d": ["A daily allowance for expenses or wages."], "src": "iwb"}
+{"w": "per-", "pos": "prefix", "d": ["A combining form meaning through, thoroughly, or very, as in perforate."], "src": "iwb"}
+{"w": "peraeopod", "pos": "noun", "d": ["One of the jointed walking legs of a crustacean."], "src": "iwb"}
+{"w": "peragrate", "pos": "verb", "d": ["To travel or wander through."], "src": "iwb"}
+{"w": "peragration", "pos": "noun", "d": ["The act of wandering through; a journey across a region."], "src": "iwb"}
+{"w": "perameles", "pos": "noun", "d": ["A genus of bandicoots, small Australian marsupials."], "src": "iwb"}
+{"w": "perca", "pos": "noun", "d": ["The genus of true perches."], "src": "iwb"}
+{"w": "percale", "pos": "noun", "d": ["A closely woven cotton fabric with a smooth finish."], "src": "iwb"}
+{"w": "perce", "pos": "verb", "d": ["To pierce; to penetrate."], "src": "iwb"}
+{"w": "perceivance", "pos": "noun", "d": ["Perception; the act or power of perceiving."], "src": "iwb"}
+{"w": "percept", "pos": "noun", "d": ["Something perceived; an object of perception."], "src": "iwb"}
+{"w": "perceptibility", "pos": "noun", "d": ["The quality of being perceptible; noticeableness."], "src": "iwb"}
+{"w": "perceptivity", "pos": "noun", "d": ["The ability to perceive; keenness of perception."], "src": "iwb"}
+{"w": "percesoces", "pos": "noun", "d": ["A former order of fishes comprising perches and related spiny-finned fishes."], "src": "iwb"}
+{"w": "perch", "pos": "noun", "d": ["A common freshwater fish of the genus Perca.", "A roost or resting place for a bird; any high resting place."], "src": "iwb"}
+{"w": "percheron", "pos": "noun", "d": ["A breed of large powerful draft horse originating in France."], "src": "iwb"}
+{"w": "perciform", "pos": "adjective", "d": ["Resembling a perch; belonging to the perchlike fishes."], "src": "iwb"}
+{"w": "percipience", "pos": "noun", "d": ["Keen perception; quick discernment."], "src": "iwb"}
+{"w": "percipiency", "pos": "noun", "d": ["The state or quality of being percipient."], "src": "iwb"}
+{"w": "percipient", "pos": "adjective", "d": ["Perceiving; having keen insight or understanding."], "src": "iwb"}
+{"w": "percoid", "pos": "adjective", "d": ["Perchlike; belonging to the perch family."], "src": "iwb"}
+{"w": "percoidea", "pos": "noun", "d": ["A superfamily of perchlike fishes."], "src": "iwb"}
+{"w": "percolate", "pos": "verb", "d": ["To filter through a porous substance; to seep gradually."], "src": "iwb"}
+{"w": "percolator", "pos": "noun", "d": ["A coffeepot that brews by cycling hot water through ground coffee."], "src": "iwb"}
+{"w": "percomorphi", "pos": "noun", "d": ["A group of spiny-finned fishes including the perches."], "src": "iwb"}
+{"w": "perculaced", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "percuss", "pos": "verb", "d": ["To strike or tap sharply, as in medical examination."], "src": "iwb"}
+{"w": "percutient", "pos": "adjective", "d": ["Striking; used in or capable of percussion."], "src": "iwb"}
+{"w": "perdicine", "pos": "adjective", "d": ["Relating to partridges."], "src": "iwb"}
+{"w": "perdifoil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "perdix", "pos": "noun", "d": ["The genus of true partridges."], "src": "iwb"}
+{"w": "perdu", "pos": "adjective", "d": ["Hidden from view; concealed.", "Placed in ambush or on secret duty."], "src": "iwb"}
+{"w": "perduellion", "pos": "noun", "d": ["Treason; a crime against the state."], "src": "iwb"}
+{"w": "perdulous", "pos": "adjective", "d": ["Lost; ruined; doomed."], "src": "iwb"}
+{"w": "perdy", "pos": "interjection", "d": ["An old-fashioned mild oath meaning 'by God'."], "src": "iwb"}
+{"w": "pere", "pos": "noun", "d": ["Father; placed after a surname to mark the elder of the same name, as in Dumas pere."], "src": "iwb"}
+{"w": "peregrinate", "pos": "verb", "d": ["To travel or wander about from place to place."], "src": "iwb"}
+{"w": "peregrination", "pos": "noun", "d": ["A journey or wandering from place to place."], "src": "iwb"}
+{"w": "peregrinator", "pos": "noun", "d": ["One who wanders or travels; a traveler."], "src": "iwb"}
+{"w": "peregrine", "pos": "adjective", "d": ["Wandering; traveling from place to place.", "Foreign; not native to a place."], "src": "iwb"}
+{"w": "peregrinity", "pos": "noun", "d": ["The state of being foreign or of wandering."], "src": "iwb"}
+{"w": "perel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "perempt", "pos": "adjective", "d": ["Decisive; not admitting denial or refusal."], "src": "iwb"}
+{"w": "peremptorily", "pos": "adverb", "d": ["In a peremptory manner; decisively and without appeal."], "src": "iwb"}
+{"w": "peremptoriness", "pos": "noun", "d": ["The quality of being peremptory; dogmatic insistence."], "src": "iwb"}
+{"w": "perennial", "pos": "adjective", "d": ["Lasting through the year or for many years.", "Living more than two years, as of plants that return each season."], "src": "iwb"}
+{"w": "perennibranchiata", "pos": "noun", "d": ["An order of amphibians that keep their gills throughout life."], "src": "iwb"}
+{"w": "perennibranchiate", "pos": "adjective", "d": ["Having gills that persist throughout life."], "src": "iwb"}
+{"w": "perennity", "pos": "noun", "d": ["The state of being perennial; lasting continuance."], "src": "iwb"}
+{"w": "perfectibilian", "pos": "noun", "d": ["One who believes that human nature is capable of perfection."], "src": "iwb"}
+{"w": "perfectibilist", "pos": "noun", "d": ["One who holds the doctrine of human perfectibility."], "src": "iwb"}
+{"w": "perfectibility", "pos": "noun", "d": ["The capacity for becoming perfect; improvability."], "src": "iwb"}
+{"w": "perficient", "pos": "adjective", "d": ["Accomplishing; carrying out to completion."], "src": "iwb"}
+{"w": "perfidy", "pos": "noun", "d": ["Deliberate betrayal of trust; treachery."], "src": "iwb"}
+{"w": "perflable", "pos": "adjective", "d": ["Capable of being blown through."], "src": "iwb"}
+{"w": "perflate", "pos": "verb", "d": ["To blow through."], "src": "iwb"}
+{"w": "perflation", "pos": "noun", "d": ["The act of blowing through."], "src": "iwb"}
+{"w": "perforata", "pos": "noun", "d": ["A group of minute shelled organisms having perforated shells."], "src": "iwb"}
+{"w": "perforate", "pos": "verb", "d": ["To pierce with holes; to bore through."], "src": "iwb"}
+{"w": "perforation", "pos": "noun", "d": ["A hole made by piercing.", "The act of perforating."], "src": "iwb"}
+{"w": "perforative", "pos": "adjective", "d": ["Having the power to perforate."], "src": "iwb"}
+{"w": "perforator", "pos": "noun", "d": ["An instrument for perforating or piercing."], "src": "iwb"}
+{"w": "perfricate", "pos": "verb", "d": ["To rub thoroughly."], "src": "iwb"}
+{"w": "perfumery", "pos": "noun", "d": ["Perfumes collectively; the art of making perfumes.", "A shop where perfumes are sold."], "src": "iwb"}
+{"w": "perfunctorily", "pos": "adverb", "d": ["In a perfunctory manner; with little care or interest."], "src": "iwb"}
+{"w": "perfunctoriness", "pos": "noun", "d": ["The quality of being perfunctory."], "src": "iwb"}
+{"w": "perfunctory", "pos": "adjective", "d": ["Done merely as a duty, without care or real interest."], "src": "iwb"}
+{"w": "perfuncturate", "pos": "verb", "d": ["To perform in a perfunctory manner."], "src": "iwb"}
+{"w": "perfusive", "pos": "adjective", "d": ["Capable of being poured or spread through; permeating."], "src": "iwb"}
+{"w": "pergamenous", "pos": "adjective", "d": ["Like parchment."], "src": "iwb"}
+{"w": "pergamentaceous", "pos": "adjective", "d": ["Having the texture or quality of parchment."], "src": "iwb"}
+{"w": "pergola", "pos": "noun", "d": ["An arbor or covered walk with climbing plants trained over it."], "src": "iwb"}
+{"w": "pergolo", "pos": "noun", "d": ["A garden arbor; a variant form of pergola."], "src": "iwb"}
+{"w": "peri", "pos": "noun", "d": ["A beautiful fairy-like being in Persian mythology."], "src": "iwb"}
+{"w": "peri-", "pos": "prefix", "d": ["A combining form meaning around, about, or near, as in perimeter."], "src": "iwb"}
+{"w": "periagua", "pos": "noun", "d": ["A long narrow canoe made from a hollowed tree trunk."], "src": "iwb"}
+{"w": "perianth", "pos": "noun", "d": ["The outer envelope of a flower, including its petals and sepals."], "src": "iwb"}
+{"w": "perianthium", "pos": "noun", "d": ["The perianth; the envelope of a flower."], "src": "iwb"}
+{"w": "periastron", "pos": "noun", "d": ["The point in an orbit where a body comes nearest its star."], "src": "iwb"}
+{"w": "periblem", "pos": "noun", "d": ["The layer of young plant tissue that develops into the cortex of a root or stem."], "src": "iwb"}
+{"w": "peribolos", "pos": "noun", "d": ["A walled enclosure surrounding an ancient Greek temple or sacred area."], "src": "iwb"}
+{"w": "pericardial", "pos": "adjective", "d": ["Relating to the pericardium, the sac enclosing the heart."], "src": "iwb"}
+{"w": "pericardian", "pos": "adjective", "d": ["Pertaining to the sac that encloses the heart."], "src": "iwb"}
+{"w": "pericardic", "pos": "adjective", "d": ["Of or relating to the membrane surrounding the heart."], "src": "iwb"}
+{"w": "pericarditus", "pos": "noun", "d": ["Inflammation of the sac surrounding the heart."], "src": "iwb"}
+{"w": "pericardium", "pos": "noun", "d": ["The thin sac of tissue that encloses the heart."], "src": "iwb"}
+{"w": "perichaeth", "pos": "noun", "d": ["The ring of small leaves surrounding the reproductive organs of a moss."], "src": "iwb"}
+{"w": "perichaetial", "pos": "adjective", "d": ["Relating to the perichaetium of a moss."], "src": "iwb"}
+{"w": "perichaetium", "pos": "noun", "d": ["The cluster of leaves enclosing the female reproductive organs of a moss."], "src": "iwb"}
+{"w": "perichaetous", "pos": "adjective", "d": ["Having or enclosed by a perichaetium."], "src": "iwb"}
+{"w": "perichete", "pos": "noun", "d": ["A sheath of leaves around the fruiting parts of a moss."], "src": "iwb"}
+{"w": "perichondrial", "pos": "adjective", "d": ["Relating to the membrane that covers cartilage."], "src": "iwb"}
+{"w": "perichondrium", "pos": "noun", "d": ["The dense membrane of connective tissue surrounding cartilage."], "src": "iwb"}
+{"w": "periclase", "pos": "noun", "d": ["A mineral consisting of natural magnesium oxide."], "src": "iwb"}
+{"w": "periclasite", "pos": "noun", "d": ["A mineral form of magnesium oxide, also called periclase."], "src": "iwb"}
+{"w": "periclitate", "pos": "verb", "d": ["To put in danger or expose to peril."], "src": "iwb"}
+{"w": "periclitation", "pos": "noun", "d": ["The act of endangering, or exposure to danger."], "src": "iwb"}
+{"w": "periculous", "pos": "adjective", "d": ["Full of peril; dangerous."], "src": "iwb"}
+{"w": "periculum", "pos": "noun", "d": ["Danger or risk, especially as used in legal phrases about liability."], "src": "iwb"}
+{"w": "peridium", "pos": "noun", "d": ["The outer wall enclosing the spore mass of a fungus such as a puffball."], "src": "iwb"}
+{"w": "peridotite", "pos": "noun", "d": ["A dark, heavy igneous rock rich in the mineral olivine."], "src": "iwb"}
+{"w": "periecians", "pos": "noun", "d": ["People living on the same line of latitude but on opposite sides of the earth."], "src": "iwb"}
+{"w": "periergy", "pos": "noun", "d": ["Work done beyond what is needed; needless extra labor."], "src": "iwb"}
+{"w": "perigeum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "perigonium", "pos": "noun", "d": ["The outer floral covering of a flower that has no separate sepals and petals."], "src": "iwb"}
+{"w": "perigord pie", "pos": "phrase", "d": ["A rich French pie from the Perigord region, traditionally made with truffles."], "src": "iwb"}
+{"w": "perigraph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "perigynium", "pos": "noun", "d": ["The sac-like scale enclosing the seed case of a sedge flower."], "src": "iwb"}
+{"w": "perigynous", "pos": "adjective", "d": ["Having petals and stamens growing from a cup-like rim around the seed case, as in roses."], "src": "iwb"}
+{"w": "perihelion", "pos": "noun", "d": ["The point in a planet's or comet's orbit where it is nearest the sun."], "src": "iwb"}
+{"w": "peril", "pos": "noun", "d": ["Serious and immediate danger."], "src": "iwb"}
+{"w": "perilla", "pos": "noun", "d": ["An Asian herb of the mint family with aromatic leaves used in cooking."], "src": "iwb"}
+{"w": "perimetry", "pos": "noun", "d": ["The measurement of the field of vision, used in eye examinations."], "src": "iwb"}
+{"w": "perimorph", "pos": "noun", "d": ["A mineral crystal that has grown around and enclosed another mineral."], "src": "iwb"}
+{"w": "perimysial", "pos": "adjective", "d": ["Relating to the sheath wrapping a bundle of muscle fibers."], "src": "iwb"}
+{"w": "perimysium", "pos": "noun", "d": ["The connective tissue wrapping a bundle of muscle fibers."], "src": "iwb"}
+{"w": "perinaeum", "pos": "noun", "d": ["The region of the body between the anus and the genitals."], "src": "iwb"}
+{"w": "perineorrhaphy", "pos": "noun", "d": ["Surgical stitching and repair of the perineum."], "src": "iwb"}
+{"w": "perineum", "pos": "noun", "d": ["The area of the body between the anus and the genital organs."], "src": "iwb"}
+{"w": "perineurial", "pos": "adjective", "d": ["Relating to the sheath around a bundle of nerve fibers."], "src": "iwb"}
+{"w": "perineurium", "pos": "noun", "d": ["The protective sheath enclosing a bundle of nerve fibers."], "src": "iwb"}
+{"w": "periodontal", "pos": "adjective", "d": ["Relating to the tissues surrounding and supporting the teeth."], "src": "iwb"}
+{"w": "periodoscope", "pos": "noun", "d": ["An instrument used by dentists to examine the gums and tooth sockets."], "src": "iwb"}
+{"w": "perioeci", "pos": "noun", "d": ["People living on the same parallel of latitude but 180 degrees apart in longitude."], "src": "iwb"}
+{"w": "perioecians", "pos": "noun", "d": ["People dwelling on the same line of latitude on opposite meridians."], "src": "iwb"}
+{"w": "periople", "pos": "noun", "d": ["The soft, waxy band of hoof covering just above a horse's hoof wall."], "src": "iwb"}
+{"w": "perioplic", "pos": "adjective", "d": ["Relating to the periople of a hoof."], "src": "iwb"}
+{"w": "periosteum", "pos": "noun", "d": ["The tough membrane covering the surface of bones."], "src": "iwb"}
+{"w": "periostracum", "pos": "noun", "d": ["The thin outer skin-like layer of a mollusk shell."], "src": "iwb"}
+{"w": "peripatecian", "pos": "adjective", "d": ["Relating to walking about, or to the school of Aristotle."], "src": "iwb"}
+{"w": "peripatetic", "pos": "adjective", "d": ["Traveling from place to place, especially for work.", "Relating to the philosophy of Aristotle, who taught while walking."], "src": "iwb"}
+{"w": "peripatus", "pos": "noun", "d": ["A genus of velvet worms, soft-bodied animals related to both worms and arthropods."], "src": "iwb"}
+{"w": "peripheric", "pos": "adjective", "d": ["Relating to or forming the outer edge of something."], "src": "iwb"}
+{"w": "periphery", "pos": "noun", "d": ["The outer boundary or edge of an area or object."], "src": "iwb"}
+{"w": "periphrasis", "pos": "noun", "d": ["A roundabout way of saying something; the use of many words where few would do."], "src": "iwb"}
+{"w": "periphrastic", "pos": "adjective", "d": ["Expressed in a roundabout or wordy way."], "src": "iwb"}
+{"w": "periplast", "pos": "noun", "d": ["The outer living layer of certain single-celled algae."], "src": "iwb"}
+{"w": "periproct", "pos": "noun", "d": ["The region around the anus in sea urchins and similar animals."], "src": "iwb"}
+{"w": "peripteral", "pos": "adjective", "d": ["Surrounded by a single row of columns, as in a Greek temple."], "src": "iwb"}
+{"w": "peripterous", "pos": "adjective", "d": ["Having a single row of columns around all sides of a building."], "src": "iwb"}
+{"w": "periptery", "pos": "noun", "d": ["The arrangement of a building surrounded by a single row of columns."], "src": "iwb"}
+{"w": "perisarc", "pos": "noun", "d": ["The tough outer covering of the stalked colonies of certain hydroids."], "src": "iwb"}
+{"w": "periscian", "pos": "adjective", "d": ["Living within the polar circles, where shadows circle around in summer."], "src": "iwb"}
+{"w": "periscii", "pos": "noun", "d": ["The inhabitants of the polar regions, where the sun circles without setting in summer."], "src": "iwb"}
+{"w": "periscopic", "pos": "adjective", "d": ["Giving a wide or all-around view, like that of a periscope."], "src": "iwb"}
+{"w": "perispomenon", "pos": "noun", "d": ["A Greek word with a circumflex accent on its last syllable."], "src": "iwb"}
+{"w": "perissad", "pos": "noun", "d": ["A chemical element with an odd combining power, or valence."], "src": "iwb"}
+{"w": "perisse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "perissodactyl", "pos": "noun", "d": ["A hoofed mammal with an odd number of toes, such as a horse or rhinoceros."], "src": "iwb"}
+{"w": "perissodactyla", "pos": "noun", "d": ["The order of mammals with an odd number of toes on each foot, including horses, tapirs, and rhinoceroses."], "src": "iwb"}
+{"w": "perissological", "pos": "adjective", "d": ["Redundant or wordy in speech."], "src": "iwb"}
+{"w": "perissology", "pos": "noun", "d": ["Needless repetition or wordiness in speaking or writing."], "src": "iwb"}
+{"w": "peristalsis", "pos": "noun", "d": ["The wave-like squeezing of muscles that moves food through the digestive tract."], "src": "iwb"}
+{"w": "peristaltic", "pos": "adjective", "d": ["Relating to the wave-like muscle contractions that move food through the gut."], "src": "iwb"}
+{"w": "peristeria", "pos": "noun", "d": ["A genus of tropical orchids whose blossoms resemble doves."], "src": "iwb"}
+{"w": "peristerion", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "peristerite", "pos": "noun", "d": ["A variety of feldspar with a soft bluish or pearly shimmer."], "src": "iwb"}
+{"w": "peristeromorphous", "pos": "adjective", "d": ["Shaped like a dove."], "src": "iwb"}
+{"w": "peristeropodous", "pos": "adjective", "d": ["Having feet shaped like those of a dove."], "src": "iwb"}
+{"w": "peristome", "pos": "noun", "d": ["The ring of tiny teeth around the mouth of a moss capsule, or the thickened rim around a snail shell's opening."], "src": "iwb"}
+{"w": "peristomial", "pos": "adjective", "d": ["Relating to the peristome."], "src": "iwb"}
+{"w": "peristomium", "pos": "noun", "d": ["The body segment just behind the mouth in segmented worms."], "src": "iwb"}
+{"w": "peristrephic", "pos": "adjective", "d": ["Turning round about a center; revolving."], "src": "iwb"}
+{"w": "perite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "perithecium", "pos": "noun", "d": ["A flask-shaped fruiting body in which certain fungi produce their spores."], "src": "iwb"}
+{"w": "peritomous", "pos": "adjective", "d": ["Cut or divided all the way around."], "src": "iwb"}
+{"w": "peritonaeum", "pos": "noun", "d": ["The membrane lining the cavity of the abdomen."], "src": "iwb"}
+{"w": "peritoneal", "pos": "adjective", "d": ["Relating to the membrane lining the abdominal cavity."], "src": "iwb"}
+{"w": "peritoneum", "pos": "noun", "d": ["The smooth membrane that lines the abdominal cavity and covers the organs within it."], "src": "iwb"}
+{"w": "peritonitis", "pos": "noun", "d": ["Inflammation of the membrane lining the abdominal cavity."], "src": "iwb"}
+{"w": "peritreme", "pos": "noun", "d": ["The hardened rim around the breathing pore of an insect."], "src": "iwb"}
+{"w": "peritricha", "pos": "noun", "d": ["A group of stalked, bell-shaped single-celled organisms that feed with a ring of beating hairs."], "src": "iwb"}
+{"w": "peritrochium", "pos": "noun", "d": ["A ring of beating hairs around the body of certain young marine larvae."], "src": "iwb"}
+{"w": "peritropal", "pos": "adjective", "d": ["Turned crosswise, as an ovule lying sideways within the ovary."], "src": "iwb"}
+{"w": "peritropous", "pos": "adjective", "d": ["Lying crosswise; turned at right angles to the axis."], "src": "iwb"}
+{"w": "perjenet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "perjure", "pos": "verb", "d": ["To lie deliberately while under oath."], "src": "iwb"}
+{"w": "perjurous", "pos": "adjective", "d": ["Guilty of lying under oath, or involving such lying."], "src": "iwb"}
+{"w": "perk", "pos": "verb", "d": ["To become more lively, alert, or cheerful."], "src": "iwb"}
+{"w": "perky", "pos": "adjective", "d": ["Cheerful, lively, and full of energy."], "src": "iwb"}
+{"w": "perlaceous", "pos": "adjective", "d": ["Resembling a pearl; pearly."], "src": "iwb"}
+{"w": "perlitic", "pos": "adjective", "d": ["Relating to perlite, a light volcanic glass that puffs up when heated."], "src": "iwb"}
+{"w": "perlous", "pos": "adjective", "d": ["Dangerous; full of peril."], "src": "iwb"}
+{"w": "permanence", "pos": "noun", "d": ["The quality of lasting or remaining unchanged indefinitely."], "src": "iwb"}
+{"w": "permanency", "pos": "noun", "d": ["The state of being permanent; lasting existence."], "src": "iwb"}
+{"w": "permeability", "pos": "noun", "d": ["The ability of a material to let liquids or gases pass through it."], "src": "iwb"}
+{"w": "permeable", "pos": "adjective", "d": ["Allowing liquids or gases to pass through."], "src": "iwb"}
+{"w": "permeably", "pos": "adverb", "d": ["In a manner that allows passage through."], "src": "iwb"}
+{"w": "permeance", "pos": "noun", "d": ["The degree to which a material allows something to pass through it."], "src": "iwb"}
+{"w": "permeate", "pos": "verb", "d": ["To spread through and fill every part of something."], "src": "iwb"}
+{"w": "permeation", "pos": "noun", "d": ["The act or process of spreading through something."], "src": "iwb"}
+{"w": "permian", "pos": "noun", "d": ["The final period of the Paleozoic era, about 299 to 252 million years ago."], "src": "iwb"}
+{"w": "permissibility", "pos": "noun", "d": ["The quality of being allowed or acceptable."], "src": "iwb"}
+{"w": "permittance", "pos": "noun", "d": ["Permission or allowance granted by authority."], "src": "iwb"}
+{"w": "permulator", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pern", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pernancy", "pos": "noun", "d": ["The taking or receiving of rents or profits from land."], "src": "iwb"}
+{"w": "pernel", "pos": "noun", "d": ["A young woman servant; a maid."], "src": "iwb"}
+{"w": "pernicion", "pos": "noun", "d": ["Utter ruin or destruction."], "src": "iwb"}
+{"w": "pernicious", "pos": "adjective", "d": ["Harmful or destructive in a gradual or hidden way."], "src": "iwb"}
+{"w": "pernicity", "pos": "noun", "d": ["Swiftness or nimbleness of movement."], "src": "iwb"}
+{"w": "pernickety pernicketty", "pos": "adjective", "d": ["Fussy about small details; hard to please over trifles."], "src": "iwb"}
+{"w": "pernio", "pos": "noun", "d": ["A painful swelling of the skin caused by exposure to cold; a chilblain."], "src": "iwb"}
+{"w": "pernoctalian", "pos": "adjective", "d": ["Lasting through the night."], "src": "iwb"}
+{"w": "pernoctation", "pos": "noun", "d": ["The act of staying awake or keeping watch through the night."], "src": "iwb"}
+{"w": "pernot furnace", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pernyi moth", "pos": "phrase", "d": ["A large Asian silk moth whose caterpillars feed on oak leaves."], "src": "iwb"}
+{"w": "perofskite", "pos": "noun", "d": ["A mineral of calcium and titanium oxide, more often spelled perovskite."], "src": "iwb"}
+{"w": "perogue", "pos": "noun", "d": ["A small boat or dugout canoe made from a hollowed log."], "src": "iwb"}
+{"w": "peronate", "pos": "adjective", "d": ["Enclosed in a sheath, as the stalk of certain mushrooms."], "src": "iwb"}
+{"w": "peroneal", "pos": "adjective", "d": ["Relating to the fibula, the slender outer bone of the lower leg."], "src": "iwb"}
+{"w": "perorate", "pos": "verb", "d": ["To speak at length, or to bring a speech to its closing words."], "src": "iwb"}
+{"w": "perpend stone", "pos": "phrase", "d": ["A large stone reaching through the whole thickness of a wall, binding its two faces together."], "src": "iwb"}
+{"w": "perpendicular", "pos": "adjective", "d": ["Standing at a right angle to a given line or surface."], "src": "iwb"}
+{"w": "perpensity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "perpent stone", "pos": "phrase", "d": ["A through-stone that spans the full thickness of a wall."], "src": "iwb"}
+{"w": "perpession", "pos": "noun", "d": ["Suffering or enduring; the state of undergoing hardship."], "src": "iwb"}
+{"w": "perpetrable", "pos": "adjective", "d": ["Capable of being committed, as a crime."], "src": "iwb"}
+{"w": "perpetrate", "pos": "verb", "d": ["To carry out or commit a crime or wrongdoing."], "src": "iwb"}
+{"w": "perpetration", "pos": "noun", "d": ["The act of committing a crime or wrong."], "src": "iwb"}
+{"w": "perpetrator", "pos": "noun", "d": ["A person who commits a crime or harmful act."], "src": "iwb"}
+{"w": "perpetuable", "pos": "adjective", "d": ["Capable of being made to continue indefinitely."], "src": "iwb"}
+{"w": "perpetual", "pos": "adjective", "d": ["Never ending; continuing forever."], "src": "iwb"}
+{"w": "perpetual calendar", "pos": "phrase", "d": ["A calendar designed to show the correct dates for any year."], "src": "iwb"}
+{"w": "perpetualty", "pos": "noun", "d": ["Endless duration; the state of being perpetual."], "src": "iwb"}
+{"w": "perpetuance", "pos": "noun", "d": ["The act of perpetuating; continued existence."], "src": "iwb"}
+{"w": "perpetuate", "pos": "verb", "d": ["To cause something to continue indefinitely."], "src": "iwb"}
+{"w": "perpetuation", "pos": "noun", "d": ["The act of making something continue or be remembered."], "src": "iwb"}
+{"w": "perpetuity", "pos": "noun", "d": ["The state of lasting forever; endless time."], "src": "iwb"}
+{"w": "perplex", "pos": "verb", "d": ["To confuse or puzzle someone."], "src": "iwb"}
+{"w": "perplexiveness", "pos": "noun", "d": ["The quality of being perplexing or confusing."], "src": "iwb"}
+{"w": "perquisite", "pos": "noun", "d": ["A benefit or privilege that comes with a job, beyond regular pay."], "src": "iwb"}
+{"w": "perquisition", "pos": "noun", "d": ["A thorough and careful search, especially one ordered by law."], "src": "iwb"}
+{"w": "perron", "pos": "noun", "d": ["An outdoor flight of steps leading up to the entrance of a building."], "src": "iwb"}
+{"w": "perruque", "pos": "noun", "d": ["A wig, especially one of the formal powdered wigs of past centuries."], "src": "iwb"}
+{"w": "perruquier", "pos": "noun", "d": ["A maker or seller of wigs."], "src": "iwb"}
+{"w": "persecot", "pos": "noun", "d": ["A sweet cordial flavored with peach kernels."], "src": "iwb"}
+{"w": "persecute", "pos": "verb", "d": ["To oppress or harass people, especially for their beliefs."], "src": "iwb"}
+{"w": "persecution", "pos": "noun", "d": ["Cruel or unfair treatment, especially because of race, religion, or beliefs."], "src": "iwb"}
+{"w": "persecutor", "pos": "noun", "d": ["A person who oppresses or harasses others for their beliefs."], "src": "iwb"}
+{"w": "persecutrix", "pos": "noun", "d": ["A woman who persecutes others."], "src": "iwb"}
+{"w": "perseus", "pos": "noun", "d": ["A constellation of the northern sky named for the hero of Greek legend."], "src": "iwb"}
+{"w": "persico", "pos": "noun", "d": ["A cordial or liqueur flavored with peaches."], "src": "iwb"}
+{"w": "persicot", "pos": "noun", "d": ["A peach-flavored cordial made from peach pits."], "src": "iwb"}
+{"w": "persienne", "pos": "noun", "d": ["A French window shutter made of adjustable slats."], "src": "iwb"}
+{"w": "persiflage", "pos": "noun", "d": ["Light, mocking talk; playful but slightly scornful banter."], "src": "iwb"}
+{"w": "persifleur", "pos": "noun", "d": ["A person given to light, mocking banter."], "src": "iwb"}
+{"w": "persimmon", "pos": "noun", "d": ["A sweet orange fruit that ripens soft and jelly-like on the tree."], "src": "iwb"}
+{"w": "persistency", "pos": "noun", "d": ["The quality of continuing firmly in a course of action."], "src": "iwb"}
+{"w": "persona", "pos": "noun", "d": ["The public face or character that a person presents to the world."], "src": "iwb"}
+{"w": "personalty", "pos": "noun", "d": ["Personal property, as distinguished from land and buildings."], "src": "iwb"}
+{"w": "personeity", "pos": "noun", "d": ["The state or quality of being a person."], "src": "iwb"}
+{"w": "perspectograph", "pos": "noun", "d": ["An instrument for drawing objects in correct perspective."], "src": "iwb"}
+{"w": "perspectography", "pos": "noun", "d": ["The art or technique of drawing in perspective."], "src": "iwb"}
+{"w": "perspicable", "pos": "adjective", "d": ["Capable of being seen through; transparent."], "src": "iwb"}
+{"w": "perspicacity", "pos": "noun", "d": ["Keen insight and sound judgment; sharpness of understanding."], "src": "iwb"}
+{"w": "perspicacy", "pos": "noun", "d": ["Keenness of mental vision; quick understanding."], "src": "iwb"}
+{"w": "perspicience", "pos": "noun", "d": ["Clear-sightedness; penetrating insight."], "src": "iwb"}
+{"w": "perspicil", "pos": "noun", "d": ["An early name for a telescope or spyglass."], "src": "iwb"}
+{"w": "perspicuity", "pos": "noun", "d": ["Clearness of expression; freedom from obscurity."], "src": "iwb"}
+{"w": "perspicuous", "pos": "adjective", "d": ["Expressed clearly and easy to understand."], "src": "iwb"}
+{"w": "perspirability", "pos": "noun", "d": ["The quality of being able to pass through the pores of the skin."], "src": "iwb"}
+{"w": "perspirative", "pos": "adjective", "d": ["Relating to or causing perspiration."], "src": "iwb"}
+{"w": "perspiratory", "pos": "adjective", "d": ["Pertaining to perspiration or the sweat glands."], "src": "iwb"}
+{"w": "perstringe", "pos": "verb", "d": ["To touch upon briefly in speech; to graze or skim over a subject."], "src": "iwb"}
+{"w": "persuasibility", "pos": "noun", "d": ["The capacity of being persuaded; openness to persuasion."], "src": "iwb"}
+{"w": "pert", "pos": "adjective", "d": ["Lively and bold in a cheeky way."], "src": "iwb"}
+{"w": "perthiocyanogen", "pos": "noun", "d": ["A yellowish compound formed by the joining together of thiocyanogen molecules."], "src": "iwb"}
+{"w": "perthite", "pos": "noun", "d": ["A feldspar mineral made of two intergrown feldspar varieties."], "src": "iwb"}
+{"w": "pertinacity", "pos": "noun", "d": ["Stubborn persistence in holding to a purpose or opinion."], "src": "iwb"}
+{"w": "pertinacy", "pos": "noun", "d": ["Firm and unyielding adherence to a course or belief."], "src": "iwb"}
+{"w": "pertinate", "pos": "adjective", "d": ["Holding firmly; persistent and unyielding."], "src": "iwb"}
+{"w": "pertinence", "pos": "noun", "d": ["The quality of being relevant to the matter at hand."], "src": "iwb"}
+{"w": "pertinency", "pos": "noun", "d": ["Relevance; fitness to the subject under discussion."], "src": "iwb"}
+{"w": "pertinent", "pos": "adjective", "d": ["Directly related to the matter being considered."], "src": "iwb"}
+{"w": "perturb", "pos": "verb", "d": ["To disturb or upset the order or calm of something."], "src": "iwb"}
+{"w": "perturbative", "pos": "adjective", "d": ["Tending to disturb or throw into disorder."], "src": "iwb"}
+{"w": "perturbator", "pos": "noun", "d": ["One who disturbs or causes disorder."], "src": "iwb"}
+{"w": "pertusate", "pos": "adjective", "d": ["Pierced with small holes or openings."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

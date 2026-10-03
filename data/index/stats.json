@@ -1,11 +1,17 @@
 {
  "dictionary_version": "1.0",
  "schema_version": "1.1",
- "entry_count": 738298,
+ "entry_count": 750837,
  "words": 102218,
- "terms": 636080,
- "total": 738298,
+ "terms": 648619,
+ "total": 750837,
+ "defined": 77174,
+ "defined_authored": 35818,
+ "defined_template": 41356,
+ "pending_definitions": 25044,
  "last_updated": "2026-10-03",
- "data_hash": "sha256:ca0e3417aaf51bbcbbfa766a0ff06ce6828ce8b86c818b43c36cb8d68ed81bdf",
+ "generated_at": "2026-10-03T06:54:59+00:00",
+ "catalog_revision": 1,
+ "data_hash": "sha256:fe2ea5df55a15128576c7ab3e5dc75a53d8c23df843f72d7ab863d61fea00e7e",
  "source": "IWB Dictionary (original definitions)"
 }

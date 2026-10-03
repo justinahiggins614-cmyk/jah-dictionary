@@ -35016,6 +35016,806 @@
 {"w": "melasma", "pos": "noun", "d": ["Brownish patches on the skin, often appearing on the face."], "src": "iwb"}
 {"w": "melasses", "pos": "noun", "d": ["A variant of molasses, the thick syrup left after sugar has crystallized."], "src": "iwb"}
 {"w": "melassic", "pos": "adjective", "d": ["Pertaining to melasses; resembling molasses."], "src": "iwb"}
+{"w": "melastoma", "pos": "noun", "d": ["A genus of tropical flowering shrubs in the meadow-beauty family, bearing showy blossoms and prominently veined leaves."], "src": "iwb"}
+{"w": "melastomaceous", "pos": "adjective", "d": ["Of or belonging to the meadow-beauty plant family."], "src": "iwb"}
+{"w": "melchite", "pos": "noun", "d": ["A dark igneous rock rich in dark-colored minerals, a kind of lamprophyre."], "src": "iwb"}
+{"w": "meld", "pos": "verb", "d": ["To blend or merge things together into one."], "src": "iwb"}
+{"w": "meleagrine", "pos": "adjective", "d": ["Of or relating to turkeys of the genus Meleagris."], "src": "iwb"}
+{"w": "meleagris", "pos": "noun", "d": ["The genus of birds that includes the wild and domestic turkey."], "src": "iwb"}
+{"w": "melee", "pos": "noun", "d": ["A confused hand-to-hand fight among many people."], "src": "iwb"}
+{"w": "melena", "pos": "noun", "d": ["Dark, tarry stool containing digested blood, a sign of bleeding in the upper digestive tract."], "src": "iwb"}
+{"w": "melene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "melenite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "meletin", "pos": "noun", "d": ["A yellow crystalline plant pigment found in oak bark and tea, also called quercetin."], "src": "iwb"}
+{"w": "melezitose", "pos": "noun", "d": ["A sweet trisaccharide sugar found in honeydew and in some plant saps."], "src": "iwb"}
+{"w": "meliaceous", "pos": "adjective", "d": ["Of or belonging to the mahogany plant family."], "src": "iwb"}
+{"w": "melibean", "pos": "adjective", "d": ["Pastoral or rustic in style, after the shepherd Meliboeus in the poems of Virgil."], "src": "iwb"}
+{"w": "meliboean", "pos": "adjective", "d": ["Pastoral in style, like the shepherd poetry of Virgil."], "src": "iwb"}
+{"w": "melic", "pos": "adjective", "d": ["Of or relating to grasses of the genus Melica."], "src": "iwb"}
+{"w": "melic grass", "pos": "phrase", "d": ["A perennial grass of the genus Melica, with soft nodding flower clusters."], "src": "iwb"}
+{"w": "melicerous", "pos": "adjective", "d": ["Waxy in texture or appearance."], "src": "iwb"}
+{"w": "melicotoon", "pos": "noun", "d": ["A quince or quince-like fruit."], "src": "iwb"}
+{"w": "melicratory", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "melilite", "pos": "noun", "d": ["A silicate mineral found in volcanic rocks, usually yellowish or brown."], "src": "iwb"}
+{"w": "melilot", "pos": "noun", "d": ["Sweet clover, a fragrant plant of the pea family used as hay and flavoring."], "src": "iwb"}
+{"w": "melinite", "pos": "noun", "d": ["A powerful explosive made from picric acid, used in artillery shells."], "src": "iwb"}
+{"w": "meliorate", "pos": "verb", "d": ["To make better; to improve."], "src": "iwb"}
+{"w": "melioration", "pos": "noun", "d": ["The act or process of making something better."], "src": "iwb"}
+{"w": "meliorator", "pos": "noun", "d": ["One who improves or betters something."], "src": "iwb"}
+{"w": "meliorism", "pos": "noun", "d": ["The belief that the world can be made better through human effort."], "src": "iwb"}
+{"w": "meliority", "pos": "noun", "d": ["The state of being better or improved."], "src": "iwb"}
+{"w": "meliphagan", "pos": "noun", "d": ["A honeyeater, a bird of a group that feeds chiefly on nectar and insects."], "src": "iwb"}
+{"w": "meliphagous", "pos": "adjective", "d": ["Feeding on honey or nectar."], "src": "iwb"}
+{"w": "melisma", "pos": "noun", "d": ["A group of notes sung to a single syllable in vocal music."], "src": "iwb"}
+{"w": "melissic", "pos": "adjective", "d": ["Of or derived from beeswax."], "src": "iwb"}
+{"w": "melissyl", "pos": "noun", "d": ["A long-chain chemical group derived from the alcohols of beeswax."], "src": "iwb"}
+{"w": "melissylene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "melitose", "pos": "noun", "d": ["A trisaccharide sugar found in sugar beets and cottonseed, also called raffinose."], "src": "iwb"}
+{"w": "mell", "pos": "verb", "d": ["To talk or converse, especially in a friendly way."], "src": "iwb"}
+{"w": "mellay", "pos": "noun", "d": ["A confused hand-to-hand fight; a melee."], "src": "iwb"}
+{"w": "melliferous", "pos": "adjective", "d": ["Producing or yielding honey."], "src": "iwb"}
+{"w": "mellific", "pos": "adjective", "d": ["Making or producing honey."], "src": "iwb"}
+{"w": "mellifluence", "pos": "noun", "d": ["A sweet or pleasant flow, as of speech or sound."], "src": "iwb"}
+{"w": "mellifluent", "pos": "adjective", "d": ["Flowing sweetly or smoothly."], "src": "iwb"}
+{"w": "mellifluous", "pos": "adjective", "d": ["Sweet-sounding and pleasant to hear."], "src": "iwb"}
+{"w": "melligenous", "pos": "adjective", "d": ["Producing honey."], "src": "iwb"}
+{"w": "melligo", "pos": "noun", "d": ["The sweet, sticky honeydew found on plants."], "src": "iwb"}
+{"w": "melliloquent", "pos": "adjective", "d": ["Speaking sweetly or smoothly."], "src": "iwb"}
+{"w": "melliphagan", "pos": "noun", "d": ["A honey-eater; one that feeds on honey."], "src": "iwb"}
+{"w": "melliphagous", "pos": "adjective", "d": ["Honey-eating."], "src": "iwb"}
+{"w": "mellitate", "pos": "noun", "d": ["A salt of mellitic acid."], "src": "iwb"}
+{"w": "mellite", "pos": "noun", "d": ["A honey-yellow mineral, a hydrated aluminum salt, also called honeystone."], "src": "iwb"}
+{"w": "mellitic", "pos": "adjective", "d": ["Of or relating to mellitic acid, an acid obtained from honeystone."], "src": "iwb"}
+{"w": "mellonide", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mellow", "pos": "adjective", "d": ["Soft, sweet, and fully ripened, as fruit.", "Gentle and relaxed in manner."], "src": "iwb"}
+{"w": "mellowy", "pos": "adjective", "d": ["Somewhat mellow; soft and pleasant."], "src": "iwb"}
+{"w": "melluco", "pos": "noun", "d": ["An Andean plant grown for its edible colorful tubers, also called ulluco."], "src": "iwb"}
+{"w": "melne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "melocoton", "pos": "noun", "d": ["A peach, especially a large variety; the Spanish word for peach used in English."], "src": "iwb"}
+{"w": "melocotoon", "pos": "noun", "d": ["A quince or quince-like fruit."], "src": "iwb"}
+{"w": "melodeon", "pos": "noun", "d": ["A small reed organ worked by hand bellows or foot treadles."], "src": "iwb"}
+{"w": "melodic", "pos": "adjective", "d": ["Of or relating to melody; tuneful and pleasant."], "src": "iwb"}
+{"w": "melodiograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "melodist", "pos": "noun", "d": ["A composer or singer of melodies."], "src": "iwb"}
+{"w": "melodize", "pos": "verb", "d": ["To make melodious; to set to melody."], "src": "iwb"}
+{"w": "melodrama", "pos": "noun", "d": ["A dramatic play with exaggerated emotion and a simple plot."], "src": "iwb"}
+{"w": "melodramatist", "pos": "noun", "d": ["A writer of melodramas."], "src": "iwb"}
+{"w": "melodrame", "pos": "noun", "d": ["A melodrama."], "src": "iwb"}
+{"w": "melody", "pos": "noun", "d": ["A pleasing sequence of musical notes forming a tune."], "src": "iwb"}
+{"w": "meloe", "pos": "noun", "d": ["A genus of oil beetles whose larvae are parasitic on bees."], "src": "iwb"}
+{"w": "melograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "melolonthidian", "pos": "noun", "d": ["A beetle of the chafer group, including June bugs and cockchafers."], "src": "iwb"}
+{"w": "melon", "pos": "noun", "d": ["A large sweet fruit with a thick rind, such as a watermelon or cantaloupe."], "src": "iwb"}
+{"w": "melopiano", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "meloplastic", "pos": "adjective", "d": ["Of or relating to meloplasty, the surgical repair of the cheek."], "src": "iwb"}
+{"w": "meloplasty", "pos": "noun", "d": ["Plastic surgery to repair or reshape the cheek."], "src": "iwb"}
+{"w": "melopoeia", "pos": "noun", "d": ["The making of melodies; the art of composing melody."], "src": "iwb"}
+{"w": "melotype", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "melpomene", "pos": "noun", "d": ["The Greek Muse of tragedy."], "src": "iwb"}
+{"w": "melrose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "melt", "pos": "verb", "d": ["To change from a solid to a liquid by heat."], "src": "iwb"}
+{"w": "melton", "pos": "noun", "d": ["A heavy woolen cloth with a smooth finish, used for overcoats."], "src": "iwb"}
+{"w": "melungeon", "pos": "noun", "d": ["A member of a mixed-ancestry community of the southern Appalachian region."], "src": "iwb"}
+{"w": "mem-sahib", "pos": "noun", "d": ["A European married woman in colonial India, addressed with respectful formality."], "src": "iwb"}
+{"w": "membral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "membranaceous", "pos": "adjective", "d": ["Like a membrane; thin and pliable."], "src": "iwb"}
+{"w": "membraniferous", "pos": "adjective", "d": ["Bearing or producing membranes."], "src": "iwb"}
+{"w": "membraniform", "pos": "adjective", "d": ["Shaped like a membrane."], "src": "iwb"}
+{"w": "membranology", "pos": "noun", "d": ["The study of membranes."], "src": "iwb"}
+{"w": "membranous", "pos": "adjective", "d": ["Consisting of or resembling a membrane."], "src": "iwb"}
+{"w": "memento", "pos": "noun", "d": ["An object kept to remind one of a person or event."], "src": "iwb"}
+{"w": "memento mori", "pos": "phrase", "d": ["A reminder of death or human mortality, often a symbolic object."], "src": "iwb"}
+{"w": "meminna", "pos": "noun", "d": ["A small deerlike animal of southern Asia, the Indian chevrotain."], "src": "iwb"}
+{"w": "memnon", "pos": "noun", "d": ["In Greek legend, the king of Ethiopia slain at Troy; also the name of a colossal statue in Egypt."], "src": "iwb"}
+{"w": "memoir", "pos": "noun", "d": ["A written account of one's own life or experiences."], "src": "iwb"}
+{"w": "memorability", "pos": "noun", "d": ["The quality of being worth remembering."], "src": "iwb"}
+{"w": "memorable", "pos": "adjective", "d": ["Worth remembering; notable."], "src": "iwb"}
+{"w": "memorandum", "pos": "noun", "d": ["A brief written note or message, especially for business use."], "src": "iwb"}
+{"w": "memorate", "pos": "verb", "d": ["To commemorate; to honor the memory of."], "src": "iwb"}
+{"w": "memorative", "pos": "adjective", "d": ["Serving to preserve memory; commemorative."], "src": "iwb"}
+{"w": "memoria", "pos": "noun", "d": ["Memory; a record kept in remembrance."], "src": "iwb"}
+{"w": "memorial day", "pos": "phrase", "d": ["A United States holiday honoring military members who died in service."], "src": "iwb"}
+{"w": "memorial rose", "pos": "phrase", "d": ["A climbing white rose often planted on graves and memorials."], "src": "iwb"}
+{"w": "memorist", "pos": "noun", "d": ["One with a remarkably good memory."], "src": "iwb"}
+{"w": "memoriter", "pos": "adverb", "d": ["By heart; from memory."], "src": "iwb"}
+{"w": "memorize", "pos": "verb", "d": ["To commit to memory; to learn by heart."], "src": "iwb"}
+{"w": "memphian", "pos": "adjective", "d": ["Of or relating to Memphis in ancient Egypt."], "src": "iwb"}
+{"w": "men-pleaser", "pos": "phrase", "d": ["A man who seeks to please others, especially for favor or approval."], "src": "iwb"}
+{"w": "menaccanite", "pos": "noun", "d": ["A black iron-titanium ore, also called ilmenite."], "src": "iwb"}
+{"w": "menacingly", "pos": "adverb", "d": ["In a threatening or frightening manner."], "src": "iwb"}
+{"w": "menagogue", "pos": "noun", "d": ["A medicine that promotes menstrual flow."], "src": "iwb"}
+{"w": "menaion", "pos": "noun", "d": ["A book of the Eastern Orthodox liturgy containing hymns and lives of saints for each month."], "src": "iwb"}
+{"w": "menald", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mend", "pos": "verb", "d": ["To repair something broken or torn."], "src": "iwb"}
+{"w": "mendacious", "pos": "adjective", "d": ["Given to lying; untruthful."], "src": "iwb"}
+{"w": "mendacity", "pos": "noun", "d": ["The quality of being untruthful; a lie."], "src": "iwb"}
+{"w": "mendelian", "pos": "adjective", "d": ["Of or relating to Gregor Mendel's laws of heredity."], "src": "iwb"}
+{"w": "mendelian character", "pos": "phrase", "d": ["A trait passed down according to Mendel's laws of heredity."], "src": "iwb"}
+{"w": "mendiant", "pos": "noun", "d": ["A beggar, especially a begging friar."], "src": "iwb"}
+{"w": "mendicancy", "pos": "noun", "d": ["The practice or condition of begging."], "src": "iwb"}
+{"w": "mendicant", "pos": "noun", "d": ["A beggar; a member of a religious order that lives by begging."], "src": "iwb"}
+{"w": "mendicate", "pos": "verb", "d": ["To beg; to practice begging."], "src": "iwb"}
+{"w": "mendication", "pos": "noun", "d": ["The act of begging."], "src": "iwb"}
+{"w": "mendicity", "pos": "noun", "d": ["The state of being a beggar."], "src": "iwb"}
+{"w": "mendinant", "pos": "noun", "d": ["A variant spelling of mendicant; a beggar."], "src": "iwb"}
+{"w": "menge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "menhaden", "pos": "noun", "d": ["A small oily fish of the Atlantic coast, used for oil and fertilizer."], "src": "iwb"}
+{"w": "menild", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "menilite", "pos": "noun", "d": ["A grayish variety of opal, often forming rounded nodules."], "src": "iwb"}
+{"w": "meningeal", "pos": "adjective", "d": ["Of or relating to the meninges, the membranes around the brain and spinal cord."], "src": "iwb"}
+{"w": "meninges", "pos": "noun", "d": ["The three membranes that enclose the brain and spinal cord."], "src": "iwb"}
+{"w": "meningitis", "pos": "noun", "d": ["Inflammation of the meninges, often caused by infection."], "src": "iwb"}
+{"w": "meniscal", "pos": "adjective", "d": ["Of or relating to a meniscus, especially of the knee."], "src": "iwb"}
+{"w": "meniscoid", "pos": "adjective", "d": ["Shaped like a meniscus; crescent-shaped."], "src": "iwb"}
+{"w": "meniscus", "pos": "noun", "d": ["The curved upper surface of a liquid in a tube.", "A crescent-shaped cartilage in the knee."], "src": "iwb"}
+{"w": "menispermaceous", "pos": "adjective", "d": ["Of or belonging to the moonseed plant family."], "src": "iwb"}
+{"w": "menispermic", "pos": "adjective", "d": ["Of or derived from moonseed plants."], "src": "iwb"}
+{"w": "menispermine", "pos": "noun", "d": ["A bitter alkaloid obtained from moonseed plants."], "src": "iwb"}
+{"w": "meniver", "pos": "noun", "d": ["A white fur used for robes of state, the belly fur of the ermine; miniver."], "src": "iwb"}
+{"w": "mennonist", "pos": "noun", "d": ["A member of the Mennonite church."], "src": "iwb"}
+{"w": "mennonite", "pos": "noun", "d": ["A member of a Protestant group practicing plain living and nonresistance."], "src": "iwb"}
+{"w": "menobranch", "pos": "noun", "d": ["An aquatic salamander that keeps its external gills through life, such as the mudpuppy."], "src": "iwb"}
+{"w": "menobranchus", "pos": "noun", "d": ["The genus of mudpuppies, gilled aquatic salamanders of North America."], "src": "iwb"}
+{"w": "menologium", "pos": "noun", "d": ["A calendar of saints' days with brief lives; a martyrology."], "src": "iwb"}
+{"w": "menopause", "pos": "noun", "d": ["The time in a woman's life when menstruation permanently stops."], "src": "iwb"}
+{"w": "menopoma", "pos": "noun", "d": ["A genus of large aquatic salamanders, including the hellbender."], "src": "iwb"}
+{"w": "menopome", "pos": "noun", "d": ["A hellbender; a large American aquatic salamander."], "src": "iwb"}
+{"w": "menorrhagia", "pos": "noun", "d": ["Excessively heavy or prolonged menstrual bleeding."], "src": "iwb"}
+{"w": "menostasis", "pos": "noun", "d": ["The stopping of menstrual flow."], "src": "iwb"}
+{"w": "menostation", "pos": "noun", "d": ["Menstruation; the monthly flow."], "src": "iwb"}
+{"w": "menow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mense", "pos": "verb", "d": ["To grace, honor, or do credit to."], "src": "iwb"}
+{"w": "menstrual", "pos": "adjective", "d": ["Of or relating to menstruation."], "src": "iwb"}
+{"w": "menstruant", "pos": "noun", "d": ["A woman who is menstruating."], "src": "iwb"}
+{"w": "menstruate", "pos": "verb", "d": ["To undergo menstruation."], "src": "iwb"}
+{"w": "menstruation", "pos": "noun", "d": ["The monthly discharge of blood from the uterus in women of childbearing age."], "src": "iwb"}
+{"w": "menstrue", "pos": "verb", "d": ["To bring on or undergo menstruation."], "src": "iwb"}
+{"w": "menstruous", "pos": "adjective", "d": ["Relating to menstruation; menstruating."], "src": "iwb"}
+{"w": "menstruum", "pos": "noun", "d": ["A solvent; a liquid in which a substance is dissolved."], "src": "iwb"}
+{"w": "mensurability", "pos": "noun", "d": ["The quality of being measurable."], "src": "iwb"}
+{"w": "mensurable", "pos": "adjective", "d": ["Capable of being measured."], "src": "iwb"}
+{"w": "mensurate", "pos": "verb", "d": ["To measure."], "src": "iwb"}
+{"w": "mensuration", "pos": "noun", "d": ["The act or art of measuring."], "src": "iwb"}
+{"w": "mentagra", "pos": "noun", "d": ["A skin disease of the beard area marked by inflamed pustules, also called sycosis barbae."], "src": "iwb"}
+{"w": "mentha", "pos": "noun", "d": ["The genus of mints, aromatic herbs including peppermint and spearmint."], "src": "iwb"}
+{"w": "menthene", "pos": "noun", "d": ["A hydrocarbon obtained from menthol, a terpene with a minty odor."], "src": "iwb"}
+{"w": "menthyl", "pos": "noun", "d": ["A chemical group derived from menthol."], "src": "iwb"}
+{"w": "menticultural", "pos": "adjective", "d": ["Relating to the cultivation or training of the mind."], "src": "iwb"}
+{"w": "mentomeckelian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mentum", "pos": "noun", "d": ["The chin; in insects, the lower lip forming part of the mouth."], "src": "iwb"}
+{"w": "meow", "pos": "verb", "d": ["To utter the characteristic cry of a cat.", "The cry of a cat."], "src": "iwb"}
+{"w": "mephistophelian", "pos": "adjective", "d": ["Like Mephistopheles; diabolically cunning or mocking."], "src": "iwb"}
+{"w": "mephitic", "pos": "adjective", "d": ["Having a foul, poisonous, or noxious smell."], "src": "iwb"}
+{"w": "mephitis", "pos": "noun", "d": ["A foul or poisonous exhalation.", "The genus of skunks."], "src": "iwb"}
+{"w": "mephitism", "pos": "noun", "d": ["A poisonous or foul exhalation; exposure to noxious vapors."], "src": "iwb"}
+{"w": "meracious", "pos": "adjective", "d": ["Pure and unmixed; unadulterated."], "src": "iwb"}
+{"w": "mercantile", "pos": "adjective", "d": ["Of or relating to trade or merchants."], "src": "iwb"}
+{"w": "mercaptal", "pos": "noun", "d": ["A sulfur compound formed from an aldehyde and a mercaptan, a thioacetal."], "src": "iwb"}
+{"w": "mercaptan", "pos": "noun", "d": ["A sulfur-containing organic compound with a strong odor, a thiol."], "src": "iwb"}
+{"w": "mercaptide", "pos": "noun", "d": ["A salt formed from a mercaptan, a thiolate."], "src": "iwb"}
+{"w": "mercat", "pos": "noun", "d": ["A marketplace, especially in Scotland."], "src": "iwb"}
+{"w": "merce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mercenaria", "pos": "noun", "d": ["The genus of hard clams, including the quahog."], "src": "iwb"}
+{"w": "mercenarian", "pos": "noun", "d": ["A mercenary; one who serves for pay."], "src": "iwb"}
+{"w": "mercenarily", "pos": "adverb", "d": ["In the manner of a mercenary; for pay or reward."], "src": "iwb"}
+{"w": "mercenariness", "pos": "noun", "d": ["The quality of being mercenary; greed for reward."], "src": "iwb"}
+{"w": "mercenary", "pos": "noun", "d": ["A soldier hired to fight for a foreign army.", "Working only for pay or reward."], "src": "iwb"}
+{"w": "mercery", "pos": "noun", "d": ["Goods sold by a mercer; fine fabrics and small wares."], "src": "iwb"}
+{"w": "merchand", "pos": "noun", "d": ["A merchant."], "src": "iwb"}
+{"w": "merchandry", "pos": "noun", "d": ["Merchandise; the business of a merchant."], "src": "iwb"}
+{"w": "merchantry", "pos": "noun", "d": ["The merchant class; merchandise."], "src": "iwb"}
+{"w": "merchet", "pos": "noun", "d": ["A fine paid by a serf to his lord on the marriage of a daughter."], "src": "iwb"}
+{"w": "merciable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "merciful", "pos": "adjective", "d": ["Showing mercy; compassionate and forgiving."], "src": "iwb"}
+{"w": "mercify", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "merciless", "pos": "adjective", "d": ["Showing no mercy; cruel."], "src": "iwb"}
+{"w": "mercurammonium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mercuric", "pos": "adjective", "d": ["Of or containing mercury, especially in its higher valence state."], "src": "iwb"}
+{"w": "mercurification", "pos": "noun", "d": ["The process of combining with mercury."], "src": "iwb"}
+{"w": "mercurify", "pos": "verb", "d": ["To combine or treat with mercury."], "src": "iwb"}
+{"w": "mercurism", "pos": "noun", "d": ["Poisoning by mercury; a diseased condition from mercury exposure."], "src": "iwb"}
+{"w": "mercurous", "pos": "adjective", "d": ["Of or containing mercury in its lower valence state."], "src": "iwb"}
+{"w": "merd", "pos": "noun", "d": ["Excrement; dung."], "src": "iwb"}
+{"w": "merenchyma", "pos": "noun", "d": ["A plant tissue made of rounded cells with air spaces between them."], "src": "iwb"}
+{"w": "meresman", "pos": "noun", "d": ["A person who marks or walks the boundaries of a piece of land (archaic)."], "src": "iwb"}
+{"w": "meretricious", "pos": "adjective", "d": ["Attractive on the surface but lacking real value or sincerity."], "src": "iwb"}
+{"w": "merganser", "pos": "noun", "d": ["A fish-eating duck with a long narrow serrated bill."], "src": "iwb"}
+{"w": "mericarp", "pos": "noun", "d": ["One of the two halves into which the dry fruit of plants like the carrot splits at maturity."], "src": "iwb"}
+{"w": "meride", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "meridian", "pos": "noun", "d": ["An imaginary great circle passing through both poles of the earth, used to measure longitude.", "The highest point of power, success, or development."], "src": "iwb"}
+{"w": "meridional", "pos": "adjective", "d": ["Of or relating to the south or to a meridian."], "src": "iwb"}
+{"w": "merils", "pos": "noun", "d": ["A board game in which each player tries to place three pieces in a straight row."], "src": "iwb"}
+{"w": "meringue", "pos": "noun", "d": ["A light sweet mixture of whipped egg whites and sugar, baked crisp or used as a topping."], "src": "iwb"}
+{"w": "merino", "pos": "noun", "d": ["A breed of sheep raised for its fine soft wool.", "The fine wool of this sheep, or cloth made from it."], "src": "iwb"}
+{"w": "merismatic", "pos": "adjective", "d": ["Of or relating to the dividing cells of a plant meristem."], "src": "iwb"}
+{"w": "meristem", "pos": "noun", "d": ["The growing tissue of a plant, made of cells that keep dividing to form new growth."], "src": "iwb"}
+{"w": "meritedly", "pos": "adverb", "d": ["In a deserved manner; rightly (archaic)."], "src": "iwb"}
+{"w": "merithal", "pos": "noun", "d": ["A segment of a plant stem between two successive nodes."], "src": "iwb"}
+{"w": "merithallus", "pos": "noun", "d": ["A segment of a plant stem lying between two nodes."], "src": "iwb"}
+{"w": "meritot", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "merk", "pos": "noun", "d": ["An old Scottish silver coin."], "src": "iwb"}
+{"w": "merke", "pos": "noun", "d": ["An old Scottish silver coin; a variant of merk.", "Darkness or gloom (archaic)."], "src": "iwb"}
+{"w": "merkin", "pos": "noun", "d": ["A wig worn to cover the pubic area."], "src": "iwb"}
+{"w": "merl", "pos": "noun", "d": ["A blackbird (archaic)."], "src": "iwb"}
+{"w": "merle", "pos": "noun", "d": ["A blackbird.", "A mottled or dappled pattern of coloring in a dog's coat."], "src": "iwb"}
+{"w": "merlin", "pos": "noun", "d": ["The great wizard of Arthurian legend.", "A small swift falcon that hunts other birds."], "src": "iwb"}
+{"w": "merlon", "pos": "noun", "d": ["One of the solid upright blocks of a battlement, between the open gaps."], "src": "iwb"}
+{"w": "merluce", "pos": "noun", "d": ["A hake or similar cod-like sea fish."], "src": "iwb"}
+{"w": "mermaid", "pos": "noun", "d": ["A mythical sea creature with the upper body of a woman and the tail of a fish."], "src": "iwb"}
+{"w": "merman", "pos": "noun", "d": ["A mythical sea creature with the upper body of a man and the tail of a fish."], "src": "iwb"}
+{"w": "mero", "pos": "noun", "d": ["A grouper or similar large sea fish."], "src": "iwb"}
+{"w": "mero cabrolla", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mero de loalto", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "merocele", "pos": "noun", "d": ["A hernia in the region of the thigh; a femoral hernia."], "src": "iwb"}
+{"w": "meroistic", "pos": "adjective", "d": ["Describing an insect ovary in which only some of the cells develop into eggs."], "src": "iwb"}
+{"w": "meropidan", "pos": "adjective", "d": ["Of or relating to the bee-eaters, a family of brightly colored birds."], "src": "iwb"}
+{"w": "meropodite", "pos": "noun", "d": ["A segment of the jointed limb of a crustacean."], "src": "iwb"}
+{"w": "merorganization", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "merostomata", "pos": "noun", "d": ["A group of marine arthropods that includes the horseshoe crabs."], "src": "iwb"}
+{"w": "merou", "pos": "noun", "d": ["A grouper (French)."], "src": "iwb"}
+{"w": "merovingian", "pos": "adjective", "d": ["Of or relating to the Frankish dynasty that ruled Gaul from the fifth to the eighth century."], "src": "iwb"}
+{"w": "merozoite", "pos": "noun", "d": ["A stage of certain parasitic protozoa that invades host cells such as red blood cells."], "src": "iwb"}
+{"w": "merrily", "pos": "adverb", "d": ["In a cheerful and lively way."], "src": "iwb"}
+{"w": "merrimake", "pos": "noun", "d": ["Festive fun and celebration (archaic)."], "src": "iwb"}
+{"w": "merriment", "pos": "noun", "d": ["Cheerful enjoyment expressed in laughter and fun."], "src": "iwb"}
+{"w": "merriness", "pos": "noun", "d": ["The quality of being cheerful and full of fun."], "src": "iwb"}
+{"w": "merry-andrew", "pos": "noun", "d": ["A clown or buffoon who entertains a crowd with jokes and antics."], "src": "iwb"}
+{"w": "merry-go-round", "pos": "noun", "d": ["A revolving amusement ride with seats often shaped like animals.", "A dizzying round of busy or confusing activity."], "src": "iwb"}
+{"w": "mersion", "pos": "noun", "d": ["Immersion, especially in baptism (archaic)."], "src": "iwb"}
+{"w": "merulidan", "pos": "adjective", "d": ["Of or relating to the wood-decaying fungi of the genus Merulius."], "src": "iwb"}
+{"w": "merus", "pos": "noun", "d": ["A segment of the jointed limb of a crustacean."], "src": "iwb"}
+{"w": "mervaille", "pos": "noun", "d": ["A marvel or wonder (archaic)."], "src": "iwb"}
+{"w": "mes-", "pos": "prefix", "d": ["A prefix meaning middle, as in mesoderm."], "src": "iwb"}
+{"w": "mesaconate", "pos": "noun", "d": ["A salt or ester of mesaconic acid."], "src": "iwb"}
+{"w": "mesad", "pos": "adverb", "d": ["Toward the middle line of the body."], "src": "iwb"}
+{"w": "mesal", "pos": "adjective", "d": ["Situated toward the middle or median line of the body."], "src": "iwb"}
+{"w": "mesalliance", "pos": "noun", "d": ["A marriage to a person of lower social rank."], "src": "iwb"}
+{"w": "mesameboid", "pos": "adjective", "d": ["Having the form or movement of an amoeba, as certain embryonic cells; a variant of mesamoeboid."], "src": "iwb"}
+{"w": "mesamoeboid", "pos": "adjective", "d": ["Having an amoeba-like form or movement, as certain cells of the embryonic middle layer."], "src": "iwb"}
+{"w": "mesaraic", "pos": "adjective", "d": ["Of or relating to the mesentery."], "src": "iwb"}
+{"w": "mesaticephalic", "pos": "adjective", "d": ["Having a skull of medium width relative to its length."], "src": "iwb"}
+{"w": "mesaticephalous", "pos": "adjective", "d": ["Having a skull of medium width relative to its length."], "src": "iwb"}
+{"w": "mescal", "pos": "noun", "d": ["A distilled spirit made from the agave plant.", "A small spineless cactus whose dried tops contain a hallucinogenic drug."], "src": "iwb"}
+{"w": "mesdames", "pos": "noun", "d": ["The plural of madame."], "src": "iwb"}
+{"w": "meseems", "pos": "verb", "d": ["It seems to me (archaic)."], "src": "iwb"}
+{"w": "mesel", "pos": "noun", "d": ["A leper (archaic)."], "src": "iwb"}
+{"w": "meselry", "pos": "noun", "d": ["Leprosy (archaic)."], "src": "iwb"}
+{"w": "mesembryanthemum", "pos": "noun", "d": ["A genus of succulent plants with showy daisy-like flowers, including the ice plants."], "src": "iwb"}
+{"w": "mesencephalic", "pos": "adjective", "d": ["Of or relating to the midbrain."], "src": "iwb"}
+{"w": "mesencephalon", "pos": "noun", "d": ["The midbrain; the middle section of the brain."], "src": "iwb"}
+{"w": "mesenchyma", "pos": "noun", "d": ["The embryonic connective tissue from which most body tissues develop."], "src": "iwb"}
+{"w": "mesenteric", "pos": "adjective", "d": ["Of or relating to the mesentery."], "src": "iwb"}
+{"w": "mesenteron", "pos": "noun", "d": ["The middle section of the embryonic gut; the midgut."], "src": "iwb"}
+{"w": "mesentery", "pos": "noun", "d": ["A fold of membrane that attaches the intestines to the wall of the abdomen."], "src": "iwb"}
+{"w": "meseraic", "pos": "adjective", "d": ["Of or relating to the mesentery; a variant of mesaraic."], "src": "iwb"}
+{"w": "mesethmoid", "pos": "noun", "d": ["The middle portion of the ethmoid bone of the skull."], "src": "iwb"}
+{"w": "meshy", "pos": "adjective", "d": ["Like a net; made of or full of interlaced strands with open spaces."], "src": "iwb"}
+{"w": "mesiad", "pos": "adverb", "d": ["Toward the median line of the body."], "src": "iwb"}
+{"w": "mesial", "pos": "adjective", "d": ["Situated in or directed toward the middle."], "src": "iwb"}
+{"w": "mesityl", "pos": "noun", "d": ["A chemical group made of a benzene ring carrying three methyl groups."], "src": "iwb"}
+{"w": "mesitylene", "pos": "noun", "d": ["A colorless liquid hydrocarbon with three methyl groups attached to a benzene ring."], "src": "iwb"}
+{"w": "mesitylol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "meslin", "pos": "noun", "d": ["A mixture of wheat and rye sown or ground together, or the bread made from it."], "src": "iwb"}
+{"w": "mesmeree", "pos": "noun", "d": ["A person put into a mesmeric trance (archaic)."], "src": "iwb"}
+{"w": "mesmeric", "pos": "adjective", "d": ["Of or relating to mesmerism; having a strangely fascinating or hypnotic effect."], "src": "iwb"}
+{"w": "mesmerism", "pos": "noun", "d": ["The practice of putting a person into a trance-like state, an early form of hypnotism."], "src": "iwb"}
+{"w": "mesmerist", "pos": "noun", "d": ["A person who practices mesmerism."], "src": "iwb"}
+{"w": "mesmerization", "pos": "noun", "d": ["The act or process of putting someone into a mesmeric trance."], "src": "iwb"}
+{"w": "mesmerize", "pos": "verb", "d": ["To put into a trance-like state; to hold completely spellbound."], "src": "iwb"}
+{"w": "mesne", "pos": "adjective", "d": ["Middle or intermediate in a series (law)."], "src": "iwb"}
+{"w": "meso-", "pos": "prefix", "d": ["A prefix meaning middle, as in mesoderm."], "src": "iwb"}
+{"w": "mesoarium", "pos": "noun", "d": ["The fold of membrane that supports the ovary."], "src": "iwb"}
+{"w": "mesoblast", "pos": "noun", "d": ["The middle germ layer of an embryo; the mesoderm."], "src": "iwb"}
+{"w": "mesobranchial", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesobronchium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesocaecum", "pos": "noun", "d": ["The fold of membrane that attaches the caecum to the abdominal wall."], "src": "iwb"}
+{"w": "mesocarp", "pos": "noun", "d": ["The middle, usually fleshy layer of a fruit wall, between the skin and the inner stone."], "src": "iwb"}
+{"w": "mesocephalic", "pos": "adjective", "d": ["Having a head of medium length and breadth."], "src": "iwb"}
+{"w": "mesocephalon", "pos": "noun", "d": ["The midbrain."], "src": "iwb"}
+{"w": "mesocephalous", "pos": "adjective", "d": ["Having a head of medium length and breadth."], "src": "iwb"}
+{"w": "mesocoele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesocoelia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesocolon", "pos": "noun", "d": ["The fold of membrane that attaches the colon to the abdominal wall."], "src": "iwb"}
+{"w": "mesocoracoid", "pos": "noun", "d": ["A bone of the shoulder girdle in birds and some other vertebrates."], "src": "iwb"}
+{"w": "mesocuneiform", "pos": "noun", "d": ["The middle one of the three cuneiform bones of the foot."], "src": "iwb"}
+{"w": "mesocuniform", "pos": "noun", "d": ["A variant spelling of mesocuneiform, the middle cuneiform bone of the foot."], "src": "iwb"}
+{"w": "mesoderm", "pos": "noun", "d": ["The middle cell layer of an early embryo, which develops into muscle, bone, and connective tissue."], "src": "iwb"}
+{"w": "mesodont", "pos": "adjective", "d": ["Having teeth of medium size."], "src": "iwb"}
+{"w": "mesogaster", "pos": "noun", "d": ["The fold of membrane that attaches the stomach to the abdominal wall."], "src": "iwb"}
+{"w": "mesogastric", "pos": "adjective", "d": ["Of or relating to the middle region of the abdomen."], "src": "iwb"}
+{"w": "mesogastrium", "pos": "noun", "d": ["The middle region of the abdomen, around the navel."], "src": "iwb"}
+{"w": "mesoglea", "pos": "noun", "d": ["The jelly-like middle layer between the inner and outer layers of a jellyfish or similar animal."], "src": "iwb"}
+{"w": "mesogloea", "pos": "noun", "d": ["A variant spelling of mesoglea."], "src": "iwb"}
+{"w": "mesognathous", "pos": "adjective", "d": ["Having jaws that project to a medium degree."], "src": "iwb"}
+{"w": "mesohepar", "pos": "noun", "d": ["The fold of membrane that attaches the liver to the abdominal wall."], "src": "iwb"}
+{"w": "mesohippus", "pos": "noun", "d": ["An extinct three-toed horse that lived about thirty million years ago."], "src": "iwb"}
+{"w": "mesolabe", "pos": "noun", "d": ["An ancient instrument for finding mean proportionals between two given lines."], "src": "iwb"}
+{"w": "mesole", "pos": "noun", "d": ["A variant of mesolite, a zeolite mineral."], "src": "iwb"}
+{"w": "mesolite", "pos": "noun", "d": ["A mineral of the zeolite group, forming delicate needle-like crystals."], "src": "iwb"}
+{"w": "mesologarithm", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesometrium", "pos": "noun", "d": ["The fold of membrane that supports the uterus."], "src": "iwb"}
+{"w": "mesomycetes", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesomyodian", "pos": "adjective", "d": ["Describing songbirds whose vocal muscles attach in the middle of the syrinx."], "src": "iwb"}
+{"w": "mesomyodous", "pos": "adjective", "d": ["Having the vocal muscles attached in the middle of the syrinx, as certain songbirds."], "src": "iwb"}
+{"w": "meson", "pos": "noun", "d": ["A subatomic particle composed of a quark and an antiquark."], "src": "iwb"}
+{"w": "mesonasal", "pos": "adjective", "d": ["Of or relating to the middle of the nose."], "src": "iwb"}
+{"w": "mesonephric", "pos": "adjective", "d": ["Of or relating to the mesonephros, the middle embryonic kidney."], "src": "iwb"}
+{"w": "mesonephros", "pos": "noun", "d": ["The middle of the three embryonic kidneys, functioning in early development."], "src": "iwb"}
+{"w": "mesonotum", "pos": "noun", "d": ["The middle dorsal plate of an insect's thorax."], "src": "iwb"}
+{"w": "mesophloeum", "pos": "noun", "d": ["The middle layer of the bark of a tree."], "src": "iwb"}
+{"w": "mesophryon", "pos": "noun", "d": ["The middle of the forehead, between the eyebrows."], "src": "iwb"}
+{"w": "mesophyllum", "pos": "noun", "d": ["The soft inner tissue of a leaf, between its upper and lower surfaces."], "src": "iwb"}
+{"w": "mesoplast", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesopodial", "pos": "adjective", "d": ["Of or relating to the middle part of the foot."], "src": "iwb"}
+{"w": "mesopodiale", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesopodium", "pos": "noun", "d": ["The middle section of a limb in certain invertebrates."], "src": "iwb"}
+{"w": "mesopterygium", "pos": "noun", "d": ["The middle supporting cartilage at the base of a fish's fin."], "src": "iwb"}
+{"w": "mesorchium", "pos": "noun", "d": ["The fold of membrane that supports the testis in the embryo."], "src": "iwb"}
+{"w": "mesorectum", "pos": "noun", "d": ["The fold of fatty tissue surrounding the rectum."], "src": "iwb"}
+{"w": "mesorhine", "pos": "adjective", "d": ["Having a nose of medium width relative to its height."], "src": "iwb"}
+{"w": "mesosauria", "pos": "noun", "d": ["An order of extinct early aquatic reptiles."], "src": "iwb"}
+{"w": "mesoscapula", "pos": "noun", "d": ["The raised ridge running across the back of the shoulder blade."], "src": "iwb"}
+{"w": "mesoscapular", "pos": "adjective", "d": ["Of or relating to the ridge across the back of the shoulder blade."], "src": "iwb"}
+{"w": "mesoscutum", "pos": "noun", "d": ["The middle dorsal plate of an insect's thorax."], "src": "iwb"}
+{"w": "mesoseme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesosiderite", "pos": "noun", "d": ["A meteorite made of roughly equal parts of stony matter and iron-nickel metal."], "src": "iwb"}
+{"w": "mesosperm", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesostate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesosternal", "pos": "adjective", "d": ["Of or relating to the middle part of the breastbone."], "src": "iwb"}
+{"w": "mesosternum", "pos": "noun", "d": ["The middle section of the breastbone.", "In insects, the middle ventral plate of the thorax."], "src": "iwb"}
+{"w": "mesotartaric", "pos": "adjective", "d": ["Of or relating to mesotartaric acid, an optically inactive form of tartaric acid."], "src": "iwb"}
+{"w": "mesotheca", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mesothelium", "pos": "noun", "d": ["The thin membrane lining the chest, abdomen, and other body cavities."], "src": "iwb"}
+{"w": "mesothoracic", "pos": "adjective", "d": ["Of or relating to the middle segment of the thorax."], "src": "iwb"}
+{"w": "mesothorax", "pos": "noun", "d": ["The middle segment of an insect's thorax, which bears the forewings."], "src": "iwb"}
+{"w": "mesothorium", "pos": "noun", "d": ["A radioactive substance, an isotope of radium, once used in luminous paints."], "src": "iwb"}
+{"w": "mesotrochal", "pos": "adjective", "d": ["Having a middle band of cilia, as certain marine larvae."], "src": "iwb"}
+{"w": "mesotype", "pos": "noun", "d": ["An old name for natrolite and related zeolite minerals."], "src": "iwb"}
+{"w": "mesovarium", "pos": "noun", "d": ["The fold of membrane that supports the ovary."], "src": "iwb"}
+{"w": "mesoxalate", "pos": "noun", "d": ["A salt or ester of mesoxalic acid."], "src": "iwb"}
+{"w": "mesoxalic", "pos": "adjective", "d": ["Of or relating to mesoxalic acid."], "src": "iwb"}
+{"w": "mesozoa", "pos": "noun", "d": ["A group of minute parasitic animals that live in marine invertebrates."], "src": "iwb"}
+{"w": "mesozoic", "pos": "adjective", "d": ["Of or relating to the geological era between the Paleozoic and Cenozoic, the age of dinosaurs."], "src": "iwb"}
+{"w": "mesprise", "pos": "noun", "d": ["Contempt or scorn (archaic)."], "src": "iwb"}
+{"w": "mesquit", "pos": "noun", "d": ["A variant spelling of mesquite."], "src": "iwb"}
+{"w": "mesquite", "pos": "noun", "d": ["A thorny tree or shrub of arid North America, valued for its hard wood.", "The wood of this tree, burned for grilling and smoking food."], "src": "iwb"}
+{"w": "mesquite bean", "pos": "noun", "d": ["The sweet seed pod of the mesquite tree."], "src": "iwb"}
+{"w": "mess beef", "pos": "noun", "d": ["Salted beef issued as rations."], "src": "iwb"}
+{"w": "message stick", "pos": "noun", "d": ["A carved wooden stick used by Aboriginal Australians to carry messages between groups."], "src": "iwb"}
+{"w": "messet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "messiad", "pos": "noun", "d": ["An epic poem on the life of the Messiah (rare)."], "src": "iwb"}
+{"w": "messiah", "pos": "noun", "d": ["The promised deliverer expected in Jewish belief, identified by Christians with Jesus.", "A great leader regarded as a savior of a people or cause."], "src": "iwb"}
+{"w": "messianic", "pos": "adjective", "d": ["Of or relating to a messiah or promised deliverer."], "src": "iwb"}
+{"w": "messias", "pos": "noun", "d": ["The Messiah (Latin and Greek form)."], "src": "iwb"}
+{"w": "messidor", "pos": "noun", "d": ["The tenth month of the French Revolutionary calendar, falling in June and July."], "src": "iwb"}
+{"w": "messieurs", "pos": "noun", "d": ["The plural of monsieur; gentlemen."], "src": "iwb"}
+{"w": "messinese", "pos": "noun", "d": ["A native or inhabitant of Messina, Sicily."], "src": "iwb"}
+{"w": "messuage", "pos": "noun", "d": ["A dwelling house with its outbuildings and adjoining land (law)."], "src": "iwb"}
+{"w": "mest", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mestee", "pos": "noun", "d": ["A person of mixed racial ancestry (archaic)."], "src": "iwb"}
+{"w": "mestino", "pos": "noun", "d": ["A variant spelling of mestizo."], "src": "iwb"}
+{"w": "mestizo", "pos": "noun", "d": ["A person of mixed European and Indigenous American ancestry."], "src": "iwb"}
+{"w": "mesymnicum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "met-", "pos": "prefix", "d": ["A form of the prefix meta- used before vowels, meaning change or beyond."], "src": "iwb"}
+{"w": "meta-", "pos": "prefix", "d": ["A prefix meaning change, beyond, or after, as in metamorphosis and metaphysics."], "src": "iwb"}
+{"w": "metabasis", "pos": "noun", "d": ["A passing from one subject to another in speech or writing.", "A change in the course of a disease."], "src": "iwb"}
+{"w": "metabola", "pos": "noun", "d": ["Insects that undergo complete metamorphosis."], "src": "iwb"}
+{"w": "metabole", "pos": "noun", "d": ["A change or transition, especially in rhetoric or in the course of a disease."], "src": "iwb"}
+{"w": "metabolia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "metabolian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "metabolic", "pos": "adjective", "d": ["Of or relating to metabolism, the chemical processes that keep living things alive."], "src": "iwb"}
+{"w": "metabolisis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "metabolite", "pos": "noun", "d": ["A substance formed by or taking part in metabolism."], "src": "iwb"}
+{"w": "metabolize", "pos": "verb", "d": ["To change or break down substances by the chemical processes of metabolism."], "src": "iwb"}
+{"w": "metacarpal", "pos": "noun", "d": ["Any of the five long bones of the palm of the hand."], "src": "iwb"}
+{"w": "metacarpus", "pos": "noun", "d": ["The part of the hand between the wrist and the fingers.", "The corresponding part of a quadruped's forefoot."], "src": "iwb"}
+{"w": "metacenter", "pos": "noun", "d": ["The point about which a floating body rocks when tilted."], "src": "iwb"}
+{"w": "metacentre", "pos": "noun", "d": ["The British spelling of metacenter."], "src": "iwb"}
+{"w": "metachloral", "pos": "noun", "d": ["A solid polymer of chloral."], "src": "iwb"}
+{"w": "metachronism", "pos": "noun", "d": ["An error in dating; the placing of an event at the wrong time."], "src": "iwb"}
+{"w": "metachrosis", "pos": "noun", "d": ["The ability of an animal to change its color."], "src": "iwb"}
+{"w": "metacinnabarite", "pos": "noun", "d": ["A black cubic form of mercury sulfide."], "src": "iwb"}
+{"w": "metacism", "pos": "noun", "d": ["The too-frequent use of the letter m in speech or writing."], "src": "iwb"}
+{"w": "metadiscoidal", "pos": "adjective", "d": ["Relating to a type of placenta that begins diffuse and later becomes disc-shaped."], "src": "iwb"}
+{"w": "metagenetic", "pos": "adjective", "d": ["Relating to metagenesis, reproduction by alternating sexual and asexual generations."], "src": "iwb"}
+{"w": "metagenic", "pos": "adjective", "d": ["Of or relating to metagenesis."], "src": "iwb"}
+{"w": "metagnathous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "metagrammatism", "pos": "noun", "d": ["The faulty or careless use of grammatical forms in speech or writing."], "src": "iwb"}
+{"w": "metagraphy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "metalepsis", "pos": "noun", "d": ["A figure of speech in which a word is used figuratively for another through an intermediate idea."], "src": "iwb"}
+{"w": "metalepsy", "pos": "noun", "d": ["A rhetorical figure in which one term is substituted for another by way of an intermediate term."], "src": "iwb"}
+{"w": "metaleptic", "pos": "adjective", "d": ["Relating to or involving metalepsis."], "src": "iwb"}
+{"w": "metallifacture", "pos": "noun", "d": ["The manufacture or working of metals."], "src": "iwb"}
+{"w": "metalliferous", "pos": "adjective", "d": ["Containing or yielding metal, especially in workable amounts."], "src": "iwb"}
+{"w": "metalliform", "pos": "adjective", "d": ["Having the form or outward appearance of a metal."], "src": "iwb"}
+{"w": "metallization", "pos": "noun", "d": ["The process of coating with metal or giving a metallic character."], "src": "iwb"}
+{"w": "metallize", "pos": "verb", "d": ["To coat with metal or make metallic."], "src": "iwb"}
+{"w": "metallochrome", "pos": "noun", "d": ["A color effect produced by a thin deposited film of metal or metallic oxide."], "src": "iwb"}
+{"w": "metallochromy", "pos": "noun", "d": ["The art of producing colors on metal surfaces by chemical deposition."], "src": "iwb"}
+{"w": "metallography", "pos": "noun", "d": ["The study of the structure, composition, and properties of metals and alloys."], "src": "iwb"}
+{"w": "metalloid", "pos": "noun", "d": ["A chemical element, such as silicon or arsenic, with properties between those of metals and nonmetals."], "src": "iwb"}
+{"w": "metallophone", "pos": "noun", "d": ["A percussion instrument of tuned metal bars struck with mallets."], "src": "iwb"}
+{"w": "metallorganic", "pos": "adjective", "d": ["Relating to compounds that contain both a metal and organic groups."], "src": "iwb"}
+{"w": "metallotherapy", "pos": "noun", "d": ["A former medical treatment in which metal plates were applied to the body."], "src": "iwb"}
+{"w": "metallurgic", "pos": "adjective", "d": ["Relating to metallurgy."], "src": "iwb"}
+{"w": "metallurgist", "pos": "noun", "d": ["A person skilled in the science of metals and their working."], "src": "iwb"}
+{"w": "metallurgy", "pos": "noun", "d": ["The science and technology of extracting metals from ores and working them into useful forms."], "src": "iwb"}
+{"w": "metalogical", "pos": "adjective", "d": ["Relating to metalogic, the study of the properties of formal logical systems."], "src": "iwb"}
+{"w": "metamer", "pos": "noun", "d": ["Any of two or more compounds with the same composition but different structure.", "A repeated segment of an animal body, such as in worms or arthropods."], "src": "iwb"}
+{"w": "metamere", "pos": "noun", "d": ["One of the serially repeated segments of an animal's body."], "src": "iwb"}
+{"w": "metamorphic", "pos": "adjective", "d": ["Changed in form or structure.", "In geology, relating to rock altered by heat, pressure, or chemical action."], "src": "iwb"}
+{"w": "metamorphist", "pos": "noun", "d": ["One who brings about or believes in transformation."], "src": "iwb"}
+{"w": "metamorphize", "pos": "verb", "d": ["To change in form; to transform."], "src": "iwb"}
+{"w": "metamorphose", "pos": "verb", "d": ["To change in form or nature; to undergo or cause metamorphosis."], "src": "iwb"}
+{"w": "metamorphosic", "pos": "adjective", "d": ["Relating to or characterized by metamorphosis."], "src": "iwb"}
+{"w": "metamorphosis", "pos": "noun", "d": ["A complete change of form, as from caterpillar to butterfly.", "Any profound transformation."], "src": "iwb"}
+{"w": "metanauplius", "pos": "noun", "d": ["The larval stage of a crustacean that follows the nauplius stage."], "src": "iwb"}
+{"w": "metanephritic", "pos": "adjective", "d": ["Relating to the metanephros."], "src": "iwb"}
+{"w": "metanephros", "pos": "noun", "d": ["The permanent kidney of higher vertebrates, developing after the mesonephros."], "src": "iwb"}
+{"w": "metanotum", "pos": "noun", "d": ["The dorsal plate of the metathorax of an insect."], "src": "iwb"}
+{"w": "metapectic", "pos": "adjective", "d": ["Relating to metapectin."], "src": "iwb"}
+{"w": "metapectin", "pos": "noun", "d": ["A substance derived from pectin by the action of acids."], "src": "iwb"}
+{"w": "metapeptone", "pos": "noun", "d": ["A product formed in the early stages of protein digestion by pepsin."], "src": "iwb"}
+{"w": "metaphor", "pos": "noun", "d": ["A figure of speech in which something is described as what it only resembles, as calling a brave person a lion."], "src": "iwb"}
+{"w": "metaphosphate", "pos": "noun", "d": ["A salt or ester of metaphosphoric acid."], "src": "iwb"}
+{"w": "metaphosphoric", "pos": "adjective", "d": ["Relating to or denoting metaphosphoric acid."], "src": "iwb"}
+{"w": "metaphrase", "pos": "noun", "d": ["A literal, word-for-word translation."], "src": "iwb"}
+{"w": "metaphrasis", "pos": "noun", "d": ["The act or result of translating literally."], "src": "iwb"}
+{"w": "metaphrast", "pos": "noun", "d": ["A person who translates literally."], "src": "iwb"}
+{"w": "metaphysic", "pos": "noun", "d": ["The branch of philosophy that studies the nature of being and reality."], "src": "iwb"}
+{"w": "metaphysician", "pos": "noun", "d": ["A person skilled in metaphysics."], "src": "iwb"}
+{"w": "metaphysis", "pos": "noun", "d": ["The growing region of a long bone between the epiphysis and the shaft."], "src": "iwb"}
+{"w": "metaplasm", "pos": "noun", "d": ["The nonliving matter stored or produced within a cell, such as starch or pigment.", "In rhetoric, a change in a word made by adding, dropping, or altering letters."], "src": "iwb"}
+{"w": "metaplast", "pos": "noun", "d": ["A cell produced by metaplasia, the transformation of one tissue type into another."], "src": "iwb"}
+{"w": "metapodial", "pos": "adjective", "d": ["Relating to the metapodium."], "src": "iwb"}
+{"w": "metapodiale", "pos": "noun", "d": ["Any one of the bones of the metapodium."], "src": "iwb"}
+{"w": "metapodium", "pos": "noun", "d": ["The hind part of the foot of a gastropod mollusk."], "src": "iwb"}
+{"w": "metapterygium", "pos": "noun", "d": ["The posterior basal cartilage supporting a fish's fin."], "src": "iwb"}
+{"w": "metasilicate", "pos": "noun", "d": ["A salt of metasilicic acid."], "src": "iwb"}
+{"w": "metasilicic", "pos": "adjective", "d": ["Relating to or denoting metasilicic acid."], "src": "iwb"}
+{"w": "metasomatism", "pos": "noun", "d": ["The chemical alteration of rock by fluids that introduce new material from outside."], "src": "iwb"}
+{"w": "metasome", "pos": "noun", "d": ["The posterior division of the body of an arthropod."], "src": "iwb"}
+{"w": "metastannate", "pos": "noun", "d": ["A salt of metastannic acid."], "src": "iwb"}
+{"w": "metastannic", "pos": "adjective", "d": ["Relating to or denoting metastannic acid."], "src": "iwb"}
+{"w": "metastasis", "pos": "noun", "d": ["The spread of a disease, especially cancer, from one part of the body to another."], "src": "iwb"}
+{"w": "metasternum", "pos": "noun", "d": ["The ventral plate of the metathorax of an insect."], "src": "iwb"}
+{"w": "metastoma", "pos": "noun", "d": ["A ventral plate covering the mouth region of certain arthropods."], "src": "iwb"}
+{"w": "metastome", "pos": "noun", "d": ["A plate covering the mouth of certain arthropods."], "src": "iwb"}
+{"w": "metatarsal", "pos": "noun", "d": ["Any of the five long bones of the foot between the ankle and the toes."], "src": "iwb"}
+{"w": "metatarse", "pos": "noun", "d": ["The metatarsus; the part of the foot between the ankle and the toes."], "src": "iwb"}
+{"w": "metatarsus", "pos": "noun", "d": ["The part of the foot between the tarsus and the toes.", "In insects, the basal segment of the tarsus."], "src": "iwb"}
+{"w": "metathesis", "pos": "noun", "d": ["The transposition of sounds or letters in a word, as in saying aks for ask.", "In chemistry, the exchange of parts between two compounds."], "src": "iwb"}
+{"w": "metathetic", "pos": "adjective", "d": ["Relating to or produced by metathesis."], "src": "iwb"}
+{"w": "metathoracic", "pos": "adjective", "d": ["Relating to the metathorax."], "src": "iwb"}
+{"w": "metathorax", "pos": "noun", "d": ["The hindmost segment of an insect's thorax, bearing the hind wings and hind legs."], "src": "iwb"}
+{"w": "metatitanic", "pos": "adjective", "d": ["Relating to or denoting metatitanic acid."], "src": "iwb"}
+{"w": "metatungstate", "pos": "noun", "d": ["A salt of metatungstic acid."], "src": "iwb"}
+{"w": "metatungstic", "pos": "adjective", "d": ["Relating to or denoting metatungstic acid."], "src": "iwb"}
+{"w": "metavanadate", "pos": "noun", "d": ["A salt of metavanadic acid."], "src": "iwb"}
+{"w": "metavanadic", "pos": "adjective", "d": ["Relating to or denoting metavanadic acid."], "src": "iwb"}
+{"w": "metaxylene", "pos": "noun", "d": ["A colorless hydrocarbon isomeric with xylene, used as a solvent and in chemical manufacturing."], "src": "iwb"}
+{"w": "metayage", "pos": "noun", "d": ["A system of farming in which the tenant pays rent with a share of the crop."], "src": "iwb"}
+{"w": "metayer", "pos": "noun", "d": ["A tenant farmer who pays rent with a share of the produce."], "src": "iwb"}
+{"w": "metazoa", "pos": "noun", "d": ["The multicellular animals, whose bodies are made of many differentiated cells."], "src": "iwb"}
+{"w": "metazoan", "pos": "noun", "d": ["An individual multicellular animal."], "src": "iwb"}
+{"w": "metazooen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "metazoon", "pos": "noun", "d": ["An individual metazoan; a multicellular animal."], "src": "iwb"}
+{"w": "mete", "pos": "verb", "d": ["To measure out or distribute in fixed portions."], "src": "iwb"}
+{"w": "metempsychose", "pos": "verb", "d": ["To cause to undergo metempsychosis; to pass through transmigration."], "src": "iwb"}
+{"w": "metempsychosis", "pos": "noun", "d": ["The passing of the soul after death into another body; transmigration of souls."], "src": "iwb"}
+{"w": "metemptosis", "pos": "noun", "d": ["The omission of a day in the lunar calendar to correct the moon's motion."], "src": "iwb"}
+{"w": "metensomatosis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "meteor", "pos": "noun", "d": ["A streak of light caused by a meteoroid burning up in the earth's atmosphere; a shooting star."], "src": "iwb"}
+{"w": "meteorite", "pos": "noun", "d": ["A stony or metallic mass that has fallen to the earth from space."], "src": "iwb"}
+{"w": "meteoroid", "pos": "noun", "d": ["A small rocky or metallic body traveling through space."], "src": "iwb"}
+{"w": "meteorolite", "pos": "noun", "d": ["A meteorite; a stone fallen from the sky."], "src": "iwb"}
+{"w": "meteorologic", "pos": "adjective", "d": ["Relating to meteorology, the science of the atmosphere and weather."], "src": "iwb"}
+{"w": "meteoromancy", "pos": "noun", "d": ["Divination by observing meteors or other atmospheric phenomena."], "src": "iwb"}
+{"w": "meteoroscope", "pos": "noun", "d": ["An instrument for observing or measuring atmospheric phenomena."], "src": "iwb"}
+{"w": "meth", "pos": "noun", "d": ["Methamphetamine, a powerful and addictive stimulant drug."], "src": "iwb"}
+{"w": "methane", "pos": "noun", "d": ["A colorless flammable gas, the simplest hydrocarbon and the main part of natural gas."], "src": "iwb"}
+{"w": "methanometer", "pos": "noun", "d": ["An instrument for measuring the proportion of methane in mine air."], "src": "iwb"}
+{"w": "metheglin", "pos": "noun", "d": ["A spiced or medicinal variety of mead."], "src": "iwb"}
+{"w": "methene", "pos": "noun", "d": ["A divalent hydrocarbon group with the formula CH2."], "src": "iwb"}
+{"w": "methenyl", "pos": "noun", "d": ["A univalent hydrocarbon group with the formula CH."], "src": "iwb"}
+{"w": "methinks", "pos": "verb", "d": ["It seems to me; I think."], "src": "iwb"}
+{"w": "methionate", "pos": "noun", "d": ["A salt or ester of methionic acid."], "src": "iwb"}
+{"w": "methodios", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "methodization", "pos": "noun", "d": ["The act of reducing to method or arranging in systematic order."], "src": "iwb"}
+{"w": "methodological", "pos": "adjective", "d": ["Relating to method or to the study of methods."], "src": "iwb"}
+{"w": "methoxyl", "pos": "noun", "d": ["The univalent chemical group OCH3."], "src": "iwb"}
+{"w": "methyl", "pos": "noun", "d": ["The univalent hydrocarbon group CH3."], "src": "iwb"}
+{"w": "methylene", "pos": "noun", "d": ["The divalent hydrocarbon group CH2.", "A former name for ethylene."], "src": "iwb"}
+{"w": "methysticin", "pos": "noun", "d": ["A crystalline compound obtained from the kava plant."], "src": "iwb"}
+{"w": "meticulous", "pos": "adjective", "d": ["Showing great care and precision about small details."], "src": "iwb"}
+{"w": "metier", "pos": "noun", "d": ["A field of work in which a person excels; a specialty."], "src": "iwb"}
+{"w": "metif", "pos": "noun", "d": ["An archaic term for a person of mixed European and African ancestry."], "src": "iwb"}
+{"w": "metis", "pos": "noun", "d": ["A member of a people of mixed Indigenous and European ancestry in Canada."], "src": "iwb"}
+{"w": "metisse", "pos": "noun", "d": ["An archaic term for a woman or girl of mixed ancestry."], "src": "iwb"}
+{"w": "metoche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "metol", "pos": "noun", "d": ["A chemical compound widely used as a photographic developer."], "src": "iwb"}
+{"w": "metonic", "pos": "adjective", "d": ["Relating to the Metonic cycle, a period of nineteen years after which the phases of the moon repeat on the same dates."], "src": "iwb"}
+{"w": "metonymic", "pos": "adjective", "d": ["Relating to or characterized by metonymy."], "src": "iwb"}
+{"w": "metonymy", "pos": "noun", "d": ["A figure of speech in which a thing is named by something closely associated with it, as the crown for royalty."], "src": "iwb"}
+{"w": "metopic", "pos": "adjective", "d": ["Relating to the forehead or the suture between its two bones."], "src": "iwb"}
+{"w": "metopomancy", "pos": "noun", "d": ["Divination by reading the lines and features of the forehead."], "src": "iwb"}
+{"w": "metoposcopic", "pos": "adjective", "d": ["Relating to metoposcopy."], "src": "iwb"}
+{"w": "metoposcopist", "pos": "noun", "d": ["A practitioner of metoposcopy."], "src": "iwb"}
+{"w": "metoposcopy", "pos": "noun", "d": ["The supposed art of judging character from the appearance of the forehead."], "src": "iwb"}
+{"w": "metosteon", "pos": "noun", "d": ["The posterior segment of the sternum; the xiphoid process."], "src": "iwb"}
+{"w": "metre", "pos": "noun", "d": ["The basic unit of length in the metric system, equal to about 39.37 inches.", "The rhythmic pattern of stressed and unstressed syllables in verse."], "src": "iwb"}
+{"w": "metric system", "pos": "phrase", "d": ["A decimal system of weights and measures based on the meter and the gram."], "src": "iwb"}
+{"w": "metric ton", "pos": "phrase", "d": ["A unit of mass equal to one thousand kilograms."], "src": "iwb"}
+{"w": "metrician", "pos": "noun", "d": ["A person skilled in poetic meter or versification."], "src": "iwb"}
+{"w": "metrification", "pos": "noun", "d": ["Conversion to the metric system.", "Composition in poetic meter."], "src": "iwb"}
+{"w": "metrify", "pos": "verb", "d": ["To convert to the metric system.", "To compose in poetic meter."], "src": "iwb"}
+{"w": "metritis", "pos": "noun", "d": ["Inflammation of the uterus."], "src": "iwb"}
+{"w": "metrochrome", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "metrograph", "pos": "noun", "d": ["An instrument that automatically records measurements."], "src": "iwb"}
+{"w": "metrological", "pos": "adjective", "d": ["Relating to metrology, the science of measurement."], "src": "iwb"}
+{"w": "metrology", "pos": "noun", "d": ["The science of measurement."], "src": "iwb"}
+{"w": "metromania", "pos": "noun", "d": ["An excessive fondness for writing verse."], "src": "iwb"}
+{"w": "metromaniac", "pos": "noun", "d": ["A person with a mania for writing verse."], "src": "iwb"}
+{"w": "metrometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "metronome", "pos": "noun", "d": ["A device that marks musical time with regular audible ticks."], "src": "iwb"}
+{"w": "metronomy", "pos": "noun", "d": ["Measurement by means of a metronome."], "src": "iwb"}
+{"w": "metronymic", "pos": "adjective", "d": ["Derived from the name of one's mother, as a surname."], "src": "iwb"}
+{"w": "metropole", "pos": "noun", "d": ["The parent state of a colony; a mother country.", "A chief city."], "src": "iwb"}
+{"w": "metropolis", "pos": "noun", "d": ["A large and important city; the chief city of a country or region."], "src": "iwb"}
+{"w": "metropolite", "pos": "noun", "d": ["A metropolitan bishop, the head of an ecclesiastical province."], "src": "iwb"}
+{"w": "metropolitical", "pos": "adjective", "d": ["Relating to a metropolis or a metropolitan."], "src": "iwb"}
+{"w": "metrorrhagia", "pos": "noun", "d": ["Abnormal bleeding from the uterus between menstrual periods."], "src": "iwb"}
+{"w": "metroscope", "pos": "noun", "d": ["An instrument for examining the interior of the uterus."], "src": "iwb"}
+{"w": "metrosideros", "pos": "noun", "d": ["A genus of trees and shrubs of the myrtle family, including the New Zealand pohutukawa."], "src": "iwb"}
+{"w": "metrotome", "pos": "noun", "d": ["A surgical instrument for cutting into the uterus."], "src": "iwb"}
+{"w": "metrotomy", "pos": "noun", "d": ["Surgical incision of the uterus."], "src": "iwb"}
+{"w": "mette", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mettle", "pos": "noun", "d": ["Courage and spirit; quality of temperament."], "src": "iwb"}
+{"w": "meum", "pos": "noun", "d": ["A genus of plants of the parsley family, including baldmoney."], "src": "iwb"}
+{"w": "meute", "pos": "noun", "d": ["A pack of hunting hounds."], "src": "iwb"}
+{"w": "meve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mew", "pos": "verb", "d": ["To utter the cry of a cat."], "src": "iwb"}
+{"w": "mewl", "pos": "verb", "d": ["To cry feebly like a baby; to whimper."], "src": "iwb"}
+{"w": "mexal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mexical", "pos": "adjective", "d": ["Relating to Mexico; Mexican."], "src": "iwb"}
+{"w": "meyne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mezcal", "pos": "noun", "d": ["A Mexican distilled spirit made from the agave plant."], "src": "iwb"}
+{"w": "mezereon", "pos": "noun", "d": ["A shrub with fragrant pink flowers and poisonous red berries, whose bark was used in medicine."], "src": "iwb"}
+{"w": "mezquita", "pos": "noun", "d": ["A mosque, especially the great mosque of Cordoba, Spain."], "src": "iwb"}
+{"w": "mezuzoth", "pos": "noun", "d": ["Plural of mezuzah: small cases holding a parchment scroll, affixed to the doorposts of Jewish homes."], "src": "iwb"}
+{"w": "mezza majolica", "pos": "phrase", "d": ["A kind of Italian earthenware with a partially glazed surface."], "src": "iwb"}
+{"w": "mezza voce", "pos": "phrase", "d": ["In a low or subdued voice; with restrained volume."], "src": "iwb"}
+{"w": "mezzanine", "pos": "noun", "d": ["A low story set between two main stories of a building."], "src": "iwb"}
+{"w": "mezzo", "pos": "noun", "d": ["A mezzo-soprano voice or singer."], "src": "iwb"}
+{"w": "mezzo-relievo", "pos": "phrase", "d": ["Sculpture in which the figures project halfway from the background; half relief."], "src": "iwb"}
+{"w": "mezzo-rilievo", "pos": "phrase", "d": ["Sculpture in half relief, with figures projecting halfway from the background."], "src": "iwb"}
+{"w": "mezzo-soprano", "pos": "noun", "d": ["A female singing voice between soprano and contralto."], "src": "iwb"}
+{"w": "mho", "pos": "noun", "d": ["A unit of electrical conductance, the reciprocal of the ohm."], "src": "iwb"}
+{"w": "mhorr", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "miamis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "miargyrite", "pos": "noun", "d": ["A mineral consisting of silver antimony sulfide."], "src": "iwb"}
+{"w": "mias", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "miasm", "pos": "noun", "d": ["A noxious exhalation; a miasma."], "src": "iwb"}
+{"w": "miasma", "pos": "noun", "d": ["A poisonous vapor once thought to cause disease; any foul or unhealthy atmosphere."], "src": "iwb"}
+{"w": "miasmatist", "pos": "noun", "d": ["One who holds that disease is caused by miasmas."], "src": "iwb"}
+{"w": "miaul", "pos": "verb", "d": ["To cry like a cat; to meow."], "src": "iwb"}
+{"w": "mica", "pos": "noun", "d": ["A group of silicate minerals that split easily into thin flexible sheets."], "src": "iwb"}
+{"w": "micaceo-calcareous", "pos": "adjective", "d": ["Composed of mica and limestone."], "src": "iwb"}
+{"w": "micaceous", "pos": "adjective", "d": ["Relating to, containing, or resembling mica."], "src": "iwb"}
+{"w": "micella", "pos": "noun", "d": ["A tiny aggregate of molecules, as in a colloid."], "src": "iwb"}
+{"w": "mich", "pos": "verb", "d": ["To skulk or hide; to play truant."], "src": "iwb"}
+{"w": "michaelmas", "pos": "noun", "d": ["The feast of St. Michael, observed on September 29."], "src": "iwb"}
+{"w": "miche", "pos": "noun", "d": ["A round loaf of bread."], "src": "iwb"}
+{"w": "michery", "pos": "noun", "d": ["Theft or pilfering; skulking, sneaking behavior."], "src": "iwb"}
+{"w": "mickle", "pos": "adjective", "d": ["Much; great in size or amount."], "src": "iwb"}
+{"w": "micmacs", "pos": "noun", "d": ["The Micmac people, an Indigenous people of eastern Canada.", "Their Algonquian language."], "src": "iwb"}
+{"w": "mico", "pos": "noun", "d": ["A small South American monkey; a marmoset."], "src": "iwb"}
+{"w": "micr-", "pos": "prefix", "d": ["A combining form meaning small."], "src": "iwb"}
+{"w": "micracoustic", "pos": "adjective", "d": ["Relating to very faint sounds."], "src": "iwb"}
+{"w": "micraster", "pos": "noun", "d": ["A genus of fossil sea urchins."], "src": "iwb"}
+{"w": "micrencephalous", "pos": "adjective", "d": ["Having an abnormally small brain or head."], "src": "iwb"}
+{"w": "micro-", "pos": "prefix", "d": ["A combining form meaning small.", "Denoting one-millionth of a unit, as in microgram."], "src": "iwb"}
+{"w": "microbe", "pos": "noun", "d": ["A microscopic living organism, especially one that causes disease."], "src": "iwb"}
+{"w": "microbian", "pos": "adjective", "d": ["Relating to microbes."], "src": "iwb"}
+{"w": "microbic", "pos": "adjective", "d": ["Relating to or caused by microbes."], "src": "iwb"}
+{"w": "microcline", "pos": "noun", "d": ["A usually greenish feldspar mineral rich in potassium."], "src": "iwb"}
+{"w": "micrococcal", "pos": "adjective", "d": ["Relating to micrococci, a group of spherical bacteria."], "src": "iwb"}
+{"w": "microcosm", "pos": "noun", "d": ["A miniature world that reflects a larger whole.", "A small community or system seen as a model of something larger."], "src": "iwb"}
+{"w": "microcoustic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "microcyte", "pos": "noun", "d": ["An abnormally small red blood cell."], "src": "iwb"}
+{"w": "microdont", "pos": "adjective", "d": ["Having unusually small teeth."], "src": "iwb"}
+{"w": "micrograph", "pos": "noun", "d": ["A photograph or drawing of an object as seen through a microscope."], "src": "iwb"}
+{"w": "micrography", "pos": "noun", "d": ["The study and description of objects seen under a microscope."], "src": "iwb"}
+{"w": "microhm", "pos": "noun", "d": ["A unit of electrical resistance equal to one millionth of an ohm."], "src": "iwb"}
+{"w": "microlestes", "pos": "noun", "d": ["An extinct genus of tiny mammal-like animals of the Triassic period."], "src": "iwb"}
+{"w": "micrometry", "pos": "noun", "d": ["The measurement of minute distances or objects with a micrometer."], "src": "iwb"}
+{"w": "micron", "pos": "noun", "d": ["A unit of length equal to one millionth of a meter."], "src": "iwb"}
+{"w": "micronesian", "pos": "adjective", "d": ["Relating to Micronesia or its peoples.", "Relating to a native or inhabitant of Micronesia."], "src": "iwb"}
+{"w": "micronometer", "pos": "noun", "d": ["An instrument for measuring very small distances."], "src": "iwb"}
+{"w": "microphonous", "pos": "adjective", "d": ["Having a very faint or weak voice."], "src": "iwb"}
+{"w": "microphthalmia", "pos": "noun", "d": ["Abnormal smallness of the eyeball."], "src": "iwb"}
+{"w": "microphthalmy", "pos": "noun", "d": ["The condition of having abnormally small eyes."], "src": "iwb"}
+{"w": "microphytal", "pos": "adjective", "d": ["Relating to microphytes."], "src": "iwb"}
+{"w": "microphyte", "pos": "noun", "d": ["A microscopic plant."], "src": "iwb"}
+{"w": "micropyle", "pos": "noun", "d": ["A small opening in a seed coat or egg through which the pollen tube or sperm enters."], "src": "iwb"}
+{"w": "microscopal", "pos": "adjective", "d": ["Relating to the microscope or to microscopy."], "src": "iwb"}
+{"w": "microscopic", "pos": "adjective", "d": ["Too small to be seen without a microscope.", "Extremely small; minute."], "src": "iwb"}
+{"w": "microscopist", "pos": "noun", "d": ["A person skilled in the use of the microscope."], "src": "iwb"}
+{"w": "microscopy", "pos": "noun", "d": ["The science or practice of using microscopes."], "src": "iwb"}
+{"w": "microseism", "pos": "noun", "d": ["A faint, small-scale trembling of the earth."], "src": "iwb"}
+{"w": "microsporic", "pos": "adjective", "d": ["Relating to microspores."], "src": "iwb"}
+{"w": "microsthene", "pos": "noun", "d": ["An instrument for measuring slight degrees of muscular strength."], "src": "iwb"}
+{"w": "microtasimeter", "pos": "noun", "d": ["An instrument for measuring minute changes of temperature."], "src": "iwb"}
+{"w": "microtomic", "pos": "adjective", "d": ["Relating to microtomy."], "src": "iwb"}
+{"w": "microtomist", "pos": "noun", "d": ["A person skilled in cutting thin sections for microscopic study."], "src": "iwb"}
+{"w": "microtomy", "pos": "noun", "d": ["The preparation of thin slices of tissue for study under the microscope."], "src": "iwb"}
+{"w": "microzoa", "pos": "noun", "d": ["Microscopic animals, especially protozoa."], "src": "iwb"}
+{"w": "micturition", "pos": "noun", "d": ["The act of passing urine."], "src": "iwb"}
+{"w": "mid sea", "pos": "phrase", "d": ["The middle of the sea."], "src": "iwb"}
+{"w": "mid-sea", "pos": "phrase", "d": ["In or on the middle of the sea."], "src": "iwb"}
+{"w": "mida", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "midden crow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "middest", "pos": "adjective", "d": ["Most mid; nearest to the middle."], "src": "iwb"}
+{"w": "middle-age", "pos": "phrase", "d": ["The Middle Ages; the medieval period.", "The middle period of human life."], "src": "iwb"}
+{"w": "middle-earth", "pos": "noun", "d": ["The inhabited world of mortals in early Germanic mythology."], "src": "iwb"}
+{"w": "middle-ground", "pos": "noun", "d": ["A position of compromise between opposing views."], "src": "iwb"}
+{"w": "middy", "pos": "noun", "d": ["A loose blouse with a sailor collar.", "A midshipman."], "src": "iwb"}
+{"w": "midge", "pos": "noun", "d": ["A very small flying insect."], "src": "iwb"}
+{"w": "midnight sun", "pos": "phrase", "d": ["The sun seen at midnight in polar regions during the summer."], "src": "iwb"}
+{"w": "midriff", "pos": "noun", "d": ["The middle of the body, between the chest and the waist."], "src": "iwb"}
+{"w": "midst", "pos": "noun", "d": ["The middle of something."], "src": "iwb"}
+{"w": "midwifery", "pos": "noun", "d": ["The practice of assisting women in childbirth."], "src": "iwb"}
+{"w": "mien", "pos": "noun", "d": ["A person's appearance, bearing, or manner."], "src": "iwb"}
+{"w": "miff", "pos": "noun", "d": ["A slight feeling of offense; a petty quarrel."], "src": "iwb"}
+{"w": "mightily", "pos": "adverb", "d": ["With great power or force; very much."], "src": "iwb"}
+{"w": "mightiness", "pos": "noun", "d": ["The quality of being mighty; great power."], "src": "iwb"}
+{"w": "migniard", "pos": "adjective", "d": ["Delicately dainty; affectedly tender."], "src": "iwb"}
+{"w": "mignon", "pos": "adjective", "d": ["Small, delicate, and pretty."], "src": "iwb"}
+{"w": "migraine", "pos": "noun", "d": ["A severe, recurring headache, often with nausea."], "src": "iwb"}
+{"w": "migrant", "pos": "noun", "d": ["A person or animal that moves from one place to another."], "src": "iwb"}
+{"w": "migrate", "pos": "verb", "d": ["To move from one region to another, especially with the seasons."], "src": "iwb"}
+{"w": "migratory", "pos": "adjective", "d": ["Moving from place to place, especially with the seasons."], "src": "iwb"}
+{"w": "mikado", "pos": "noun", "d": ["A title for the emperor of Japan."], "src": "iwb"}
+{"w": "mikmaks", "pos": "noun", "d": ["Members of the Mi'kmaq people of northeastern North America."], "src": "iwb"}
+{"w": "milady", "pos": "noun", "d": ["A term of polite address meaning my lady."], "src": "iwb"}
+{"w": "milage", "pos": "noun", "d": ["Distance traveled or measured in miles; a variant spelling of mileage."], "src": "iwb"}
+{"w": "milanese", "pos": "adjective", "d": ["Relating to Milan, Italy.", "Relating to a fine silk fabric made in Milan."], "src": "iwb"}
+{"w": "milch", "pos": "adjective", "d": ["Giving milk, as a milch cow."], "src": "iwb"}
+{"w": "mildew", "pos": "noun", "d": ["A whitish fungal growth on plants or damp surfaces."], "src": "iwb"}
+{"w": "milesian", "pos": "noun", "d": ["A native of ancient Miletus.", "A native of Ireland, in legendary descent from Milesius."], "src": "iwb"}
+{"w": "milfoil", "pos": "noun", "d": ["The yarrow plant, with finely divided leaves."], "src": "iwb"}
+{"w": "miliaria", "pos": "noun", "d": ["A skin rash with tiny blisters caused by blocked sweat glands; prickly heat."], "src": "iwb"}
+{"w": "miliary", "pos": "adjective", "d": ["Resembling millet seeds in size or appearance."], "src": "iwb"}
+{"w": "milice", "pos": "noun", "d": ["A body of citizen soldiers; a militia."], "src": "iwb"}
+{"w": "milieu", "pos": "noun", "d": ["The surroundings or environment in which a person lives."], "src": "iwb"}
+{"w": "miliola", "pos": "noun", "d": ["A genus of tiny shelled single-celled marine organisms."], "src": "iwb"}
+{"w": "miliolite", "pos": "noun", "d": ["A limestone made up largely of miliola shells."], "src": "iwb"}
+{"w": "miliolitic", "pos": "adjective", "d": ["Composed of or containing miliolite."], "src": "iwb"}
+{"w": "militancy", "pos": "noun", "d": ["The quality or state of being militant."], "src": "iwb"}
+{"w": "militant", "pos": "adjective", "d": ["Aggressively active in support of a cause."], "src": "iwb"}
+{"w": "militar", "pos": "adjective", "d": ["Relating to soldiers or warfare."], "src": "iwb"}
+{"w": "militarily", "pos": "adverb", "d": ["In a military manner, or by military force."], "src": "iwb"}
+{"w": "militate", "pos": "verb", "d": ["To have weight or influence, as evidence militating against a claim."], "src": "iwb"}
+{"w": "militia", "pos": "noun", "d": ["A body of citizen soldiers called to service in emergencies."], "src": "iwb"}
+{"w": "militiate", "pos": "verb", "d": ["To serve as a member of a militia."], "src": "iwb"}
+{"w": "milk sickness", "pos": "phrase", "d": ["A poisoning caused by drinking milk from cows that have eaten white snakeroot."], "src": "iwb"}
+{"w": "milk vetch", "pos": "phrase", "d": ["Any of various leguminous plants of the genus Astragalus."], "src": "iwb"}
+{"w": "milk-livered", "pos": "adjective", "d": ["Cowardly or timid."], "src": "iwb"}
+{"w": "milkily", "pos": "adverb", "d": ["In a milky manner."], "src": "iwb"}
+{"w": "milkiness", "pos": "noun", "d": ["The quality of being milky."], "src": "iwb"}
+{"w": "milky", "pos": "adjective", "d": ["Resembling milk in color or cloudiness."], "src": "iwb"}
+{"w": "mill-cake", "pos": "noun", "d": ["The pressed residue of seeds after oil has been extracted."], "src": "iwb"}
+{"w": "mill-sixpence", "pos": "noun", "d": ["An early machine-struck English sixpence with a milled edge."], "src": "iwb"}
+{"w": "millefiore glass", "pos": "phrase", "d": ["Glass decorated with multicolored flower-like patterns fused into it."], "src": "iwb"}
+{"w": "millenarian", "pos": "noun", "d": ["A person who believes in the coming of a thousand-year reign of peace."], "src": "iwb"}
+{"w": "millenarism", "pos": "noun", "d": ["Belief in a future thousand-year period of righteousness on earth."], "src": "iwb"}
+{"w": "millenary", "pos": "adjective", "d": ["Consisting of a thousand; lasting a thousand years."], "src": "iwb"}
+{"w": "millennial", "pos": "adjective", "d": ["Relating to a thousand years.", "Relating to the generation reaching adulthood around the year 2000."], "src": "iwb"}
+{"w": "millenniarism", "pos": "noun", "d": ["Belief in the millennium; millenarianism."], "src": "iwb"}
+{"w": "millennist", "pos": "noun", "d": ["One who believes in the millennium."], "src": "iwb"}
+{"w": "milleped", "pos": "noun", "d": ["A millipede; a many-legged arthropod."], "src": "iwb"}
+{"w": "millepora", "pos": "noun", "d": ["A genus of stinging reef-building hydrocorals; fire corals."], "src": "iwb"}
+{"w": "millepore", "pos": "noun", "d": ["A coral of the genus Millepora, full of tiny pores."], "src": "iwb"}
+{"w": "milleporite", "pos": "noun", "d": ["A fossil millepore coral."], "src": "iwb"}
+{"w": "millerite", "pos": "noun", "d": ["A brassy yellow nickel sulfide mineral."], "src": "iwb"}
+{"w": "millesimal", "pos": "adjective", "d": ["Relating to a thousandth part."], "src": "iwb"}
+{"w": "millet", "pos": "noun", "d": ["A small-seeded cereal grass grown for grain and fodder."], "src": "iwb"}
+{"w": "milli-", "pos": "prefix", "d": ["A prefix meaning one-thousandth, as in millimeter."], "src": "iwb"}
+{"w": "milliampere", "pos": "noun", "d": ["A unit of electric current equal to one-thousandth of an ampere."], "src": "iwb"}
+{"w": "milliard", "pos": "noun", "d": ["One thousand million."], "src": "iwb"}
+{"w": "milliary", "pos": "adjective", "d": ["Relating to a mile; marking miles, as a Roman milestone."], "src": "iwb"}
+{"w": "millier", "pos": "noun", "d": ["A metric ton; one thousand kilograms."], "src": "iwb"}
+{"w": "millifold", "pos": "adjective", "d": ["Thousandfold; multiplied by a thousand."], "src": "iwb"}
+{"w": "milligram", "pos": "noun", "d": ["A unit of mass equal to one-thousandth of a gram."], "src": "iwb"}
+{"w": "milligramme", "pos": "noun", "d": ["A variant spelling of milligram."], "src": "iwb"}
+{"w": "milliliter", "pos": "noun", "d": ["A unit of volume equal to one-thousandth of a liter."], "src": "iwb"}
+{"w": "millilitre", "pos": "noun", "d": ["A variant spelling of milliliter."], "src": "iwb"}
+{"w": "millimeter", "pos": "noun", "d": ["A unit of length equal to one-thousandth of a meter."], "src": "iwb"}
+{"w": "millimetre", "pos": "noun", "d": ["A variant spelling of millimeter."], "src": "iwb"}
+{"w": "millimicron", "pos": "noun", "d": ["One millionth of a millimeter; a nanometer."], "src": "iwb"}
+{"w": "milliner", "pos": "noun", "d": ["A maker or seller of hats, especially women's hats."], "src": "iwb"}
+{"w": "millinery", "pos": "noun", "d": ["Women's hats; the business of making or selling hats."], "src": "iwb"}
+{"w": "millinet", "pos": "noun", "d": ["A stiff, coarse net fabric used in hat-making."], "src": "iwb"}
+{"w": "millionaire", "pos": "noun", "d": ["A person whose wealth amounts to a million or more."], "src": "iwb"}
+{"w": "millionairess", "pos": "noun", "d": ["A woman whose wealth amounts to a million or more."], "src": "iwb"}
+{"w": "millionnaire", "pos": "noun", "d": ["A variant spelling of millionaire."], "src": "iwb"}
+{"w": "millionth", "pos": "adjective", "d": ["Occupying the millionth place in a series."], "src": "iwb"}
+{"w": "milliped", "pos": "noun", "d": ["A millipede."], "src": "iwb"}
+{"w": "millistere", "pos": "noun", "d": ["A unit of volume equal to one-thousandth of a cubic meter."], "src": "iwb"}
+{"w": "milliweber", "pos": "noun", "d": ["A unit of magnetic flux equal to one-thousandth of a weber."], "src": "iwb"}
+{"w": "millrea", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "milord", "pos": "noun", "d": ["A term of address meaning my lord."], "src": "iwb"}
+{"w": "milreis", "pos": "noun", "d": ["A former Portuguese and Brazilian coin worth a thousand reis."], "src": "iwb"}
+{"w": "milt", "pos": "noun", "d": ["The sperm-containing fluid of male fish.", "The spleen."], "src": "iwb"}
+{"w": "miltonian", "pos": "adjective", "d": ["Relating to the poet John Milton or his works."], "src": "iwb"}
+{"w": "miltonic", "pos": "adjective", "d": ["Relating to Milton; in Milton's style."], "src": "iwb"}
+{"w": "milvine", "pos": "adjective", "d": ["Relating to kites of the genus Milvus."], "src": "iwb"}
+{"w": "milvus", "pos": "noun", "d": ["A genus of birds of prey; the kites."], "src": "iwb"}
+{"w": "mimeograph", "pos": "noun", "d": ["A machine for making copies from a stencil."], "src": "iwb"}
+{"w": "mimetism", "pos": "noun", "d": ["Mimicry, especially in nature."], "src": "iwb"}
+{"w": "mimetite", "pos": "noun", "d": ["A yellowish lead chloroarsenate mineral."], "src": "iwb"}
+{"w": "mimic", "pos": "verb", "d": ["To imitate closely in action, speech, or manner."], "src": "iwb"}
+{"w": "mimicker", "pos": "noun", "d": ["One who mimics."], "src": "iwb"}
+{"w": "mimicry", "pos": "noun", "d": ["The act or art of imitating."], "src": "iwb"}
+{"w": "mimographer", "pos": "noun", "d": ["A writer of mimes or farces."], "src": "iwb"}
+{"w": "mimosa", "pos": "noun", "d": ["A genus of tropical plants with feathery, sensitive leaves."], "src": "iwb"}
+{"w": "mimotannic", "pos": "adjective", "d": ["Relating to a tannin obtained from mimosa bark."], "src": "iwb"}
+{"w": "mina", "pos": "noun", "d": ["An ancient unit of weight and money used in Greece and the Near East."], "src": "iwb"}
+{"w": "minaceous", "pos": "adjective", "d": ["Threatening; menacing."], "src": "iwb"}
+{"w": "minacious", "pos": "adjective", "d": ["Threatening; menacing."], "src": "iwb"}
+{"w": "minargent", "pos": "noun", "d": ["A silvery white metallic alloy used for tableware and ornaments."], "src": "iwb"}
+{"w": "minatorially", "pos": "adverb", "d": ["In a threatening manner."], "src": "iwb"}
+{"w": "minatorily", "pos": "adverb", "d": ["In a threatening manner."], "src": "iwb"}
+{"w": "minaul", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mince", "pos": "verb", "d": ["To chop into very small pieces.", "To walk with short, affected steps."], "src": "iwb"}
+{"w": "mince pie", "pos": "phrase", "d": ["A pie filled with mincemeat."], "src": "iwb"}
+{"w": "mince-meat", "pos": "noun", "d": ["A mixture of chopped fruit, spices, and sometimes meat used as a pie filling."], "src": "iwb"}
+{"w": "mineralization", "pos": "noun", "d": ["The process of converting into a mineral substance."], "src": "iwb"}
+{"w": "mineralogical", "pos": "adjective", "d": ["Relating to mineralogy."], "src": "iwb"}
+{"w": "mineralogist", "pos": "noun", "d": ["A person who studies minerals."], "src": "iwb"}
+{"w": "mineralogize", "pos": "verb", "d": ["To impregnate or convert into mineral matter."], "src": "iwb"}
+{"w": "minerva", "pos": "noun", "d": ["The Roman goddess of wisdom and the arts."], "src": "iwb"}
+{"w": "minette", "pos": "noun", "d": ["A dark, fine-grained igneous rock."], "src": "iwb"}
+{"w": "minever", "pos": "noun", "d": ["A white fur, especially ermine as used in heraldry."], "src": "iwb"}
+{"w": "minge", "pos": "noun", "d": ["Vulgar slang for the female genitals."], "src": "iwb"}
+{"w": "mingle", "pos": "verb", "d": ["To mix or blend together."], "src": "iwb"}
+{"w": "mingle-mangle", "pos": "noun", "d": ["A confused mixture; a jumble."], "src": "iwb"}
+{"w": "mingledly", "pos": "adverb", "d": ["In a mingled manner."], "src": "iwb"}
+{"w": "minglingly", "pos": "adverb", "d": ["In a mingling manner."], "src": "iwb"}
+{"w": "miniaceous", "pos": "adjective", "d": ["Of the red color of red lead; vermilion."], "src": "iwb"}
+{"w": "miniard", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "miniate", "pos": "verb", "d": ["To decorate or paint with vermilion; to illuminate a manuscript."], "src": "iwb"}
+{"w": "miniaturist", "pos": "noun", "d": ["An artist who paints miniatures."], "src": "iwb"}
+{"w": "minibus", "pos": "noun", "d": ["A small bus seating fewer passengers than a full-size bus."], "src": "iwb"}
+{"w": "minie ball", "pos": "phrase", "d": ["A conical rifle bullet that expands to fit the barrel when fired."], "src": "iwb"}
+{"w": "minie rifle", "pos": "phrase", "d": ["A muzzle-loading rifle designed to fire the Minie ball."], "src": "iwb"}
+{"w": "minify", "pos": "verb", "d": ["To make smaller; to reduce in size.", "To speak slightingly of."], "src": "iwb"}
+{"w": "minikin", "pos": "adjective", "d": ["Very small; diminutive."], "src": "iwb"}
+{"w": "minim", "pos": "noun", "d": ["A very small thing or creature.", "A musical note equal to half a whole note."], "src": "iwb"}
+{"w": "minimization", "pos": "noun", "d": ["The act of reducing to the least possible amount."], "src": "iwb"}
+{"w": "minimum thermometer", "pos": "phrase", "d": ["A thermometer that records the lowest temperature reached."], "src": "iwb"}
+{"w": "minimus", "pos": "noun", "d": ["The smallest finger or toe."], "src": "iwb"}
+{"w": "minion", "pos": "noun", "d": ["A servile follower or favorite."], "src": "iwb"}
+{"w": "minish", "pos": "verb", "d": ["To make less; to diminish."], "src": "iwb"}
+{"w": "ministery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ministracy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ministral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ministrant", "pos": "noun", "d": ["One who ministers; an attendant, especially at religious services."], "src": "iwb"}
+{"w": "ministration", "pos": "noun", "d": ["The act of ministering; service or aid."], "src": "iwb"}
+{"w": "ministrative", "pos": "adjective", "d": ["Serving or tending to minister."], "src": "iwb"}
+{"w": "ministress", "pos": "noun", "d": ["A female minister."], "src": "iwb"}
+{"w": "minium", "pos": "noun", "d": ["Red lead, a bright red pigment of lead oxide."], "src": "iwb"}
+{"w": "miniver", "pos": "noun", "d": ["A variant spelling of minever; white fur."], "src": "iwb"}
+{"w": "minivet", "pos": "noun", "d": ["A small, brightly colored songbird of Asia."], "src": "iwb"}
+{"w": "mink", "pos": "noun", "d": ["A small semiaquatic mammal valued for its soft fur."], "src": "iwb"}
+{"w": "minnesinger", "pos": "noun", "d": ["A German medieval poet who composed and sang love songs."], "src": "iwb"}
+{"w": "minnow", "pos": "noun", "d": ["A very small freshwater fish."], "src": "iwb"}
+{"w": "minny", "pos": "noun", "d": ["A minnow."], "src": "iwb"}
+{"w": "mino bird", "pos": "phrase", "d": ["A myna bird; a talking starling of Asia."], "src": "iwb"}
+{"w": "minorat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "minoress", "pos": "noun", "d": ["A Franciscan nun of the order of Poor Clares."], "src": "iwb"}
+{"w": "minorite", "pos": "noun", "d": ["A Franciscan friar."], "src": "iwb"}
+{"w": "minos", "pos": "noun", "d": ["A legendary king of Crete in Greek mythology."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

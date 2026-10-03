@@ -36616,6 +36616,806 @@
 {"w": "mucous", "pos": "adjective", "d": ["Secreting or resembling mucus; slimy."], "src": "iwb"}
 {"w": "mucro", "pos": "noun", "d": ["A sharp terminal point, as on a leaf or shell."], "src": "iwb"}
 {"w": "mucronate", "pos": "adjective", "d": ["Ending abruptly in a sharp point."], "src": "iwb"}
+{"w": "mucronulate", "pos": "adjective", "d": ["Tipped with a small sharp point, as of a leaf or petal."], "src": "iwb"}
+{"w": "muculent", "pos": "adjective", "d": ["Slimy or mucus-like in texture."], "src": "iwb"}
+{"w": "mucus", "pos": "noun", "d": ["The slippery fluid that moistens and protects the linings of the nose, throat, and other body passages."], "src": "iwb"}
+{"w": "mucusin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mudar", "pos": "noun", "d": ["A tropical shrub of India whose bark and fibers have been used in medicine and textiles."], "src": "iwb"}
+{"w": "mudarin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "muddily", "pos": "adverb", "d": ["In a muddy or unclear manner."], "src": "iwb"}
+{"w": "muddiness", "pos": "noun", "d": ["The state of being muddy or unclear."], "src": "iwb"}
+{"w": "muddle", "pos": "verb", "d": ["To mix up in a confused or disorderly way.", "To make muddy or turbid."], "src": "iwb"}
+{"w": "muddy", "pos": "adjective", "d": ["Covered or filled with mud.", "Not clear; confused or vague."], "src": "iwb"}
+{"w": "muddy-headed", "pos": "adjective", "d": ["Dull-witted; slow to understand."], "src": "iwb"}
+{"w": "muddy-mettled", "pos": "adjective", "d": ["Heavy-spirited; lacking liveliness or courage."], "src": "iwb"}
+{"w": "mudir", "pos": "noun", "d": ["The governor of a district in the former Ottoman Empire and in some Arab administrations."], "src": "iwb"}
+{"w": "mue", "pos": "noun", "d": ["An obsolete spelling of mew, a cage or enclosure for hawks."], "src": "iwb"}
+{"w": "muellerian", "pos": "adjective", "d": ["Relating to the naturalist Fritz Müller, especially his theory of mimicry among butterflies."], "src": "iwb"}
+{"w": "muezzin", "pos": "noun", "d": ["The Muslim official who calls the faithful to prayer from a mosque."], "src": "iwb"}
+{"w": "muff", "pos": "noun", "d": ["A warm tubular covering into which both hands are slipped from opposite ends.", "A clumsy failure or bungled attempt."], "src": "iwb"}
+{"w": "muffetee", "pos": "noun", "d": ["A small warm covering for the wrist, like a short muff without fingers."], "src": "iwb"}
+{"w": "muffin", "pos": "noun", "d": ["A small round quick bread baked in a cup-shaped pan."], "src": "iwb"}
+{"w": "muffineer", "pos": "noun", "d": ["A small shaker with a perforated top for sprinkling sugar or spice."], "src": "iwb"}
+{"w": "muffle", "pos": "verb", "d": ["To wrap up for warmth or protection.", "To deaden the sound of."], "src": "iwb"}
+{"w": "muflon", "pos": "noun", "d": ["A wild sheep of the Mediterranean islands, a variant spelling of mouflon."], "src": "iwb"}
+{"w": "mufti", "pos": "noun", "d": ["Ordinary civilian dress as opposed to a uniform.", "A Muslim scholar who interprets Islamic law."], "src": "iwb"}
+{"w": "mugginess", "pos": "noun", "d": ["The quality of being muggy; warm humid closeness in the air."], "src": "iwb"}
+{"w": "muggins", "pos": "noun", "d": ["A fool or simpleton; a person easily imposed upon."], "src": "iwb"}
+{"w": "muggish", "pos": "adjective", "d": ["Somewhat muggy; warm and damp."], "src": "iwb"}
+{"w": "muggletonian", "pos": "noun", "d": ["A follower of Lodowick Muggleton, a 17th-century English religious sectary."], "src": "iwb"}
+{"w": "muggur", "pos": "noun", "d": ["The mugger crocodile of India, a variant spelling of mugger."], "src": "iwb"}
+{"w": "muggy", "pos": "adjective", "d": ["Warm and damp; oppressively humid."], "src": "iwb"}
+{"w": "mugiency", "pos": "noun", "d": ["The act of lowing or bellowing like cattle."], "src": "iwb"}
+{"w": "mugient", "pos": "adjective", "d": ["Lowing or bellowing like cattle."], "src": "iwb"}
+{"w": "mugil", "pos": "noun", "d": ["The genus of fishes that includes the gray mullets."], "src": "iwb"}
+{"w": "mugiloid", "pos": "adjective", "d": ["Resembling or related to the mullet fishes of the genus Mugil."], "src": "iwb"}
+{"w": "mugwump", "pos": "noun", "d": ["A voter who acts independently of party, especially a Republican who bolted the party in 1884.", "A person who stays neutral or aloof in a dispute."], "src": "iwb"}
+{"w": "mugwumpery", "pos": "noun", "d": ["The practices or principles of mugwumps; political independence."], "src": "iwb"}
+{"w": "muhammadan", "pos": "noun", "d": ["A dated and now often disfavored term for a follower of Islam; a Muslim."], "src": "iwb"}
+{"w": "muhammedan", "pos": "noun", "d": ["A variant and dated spelling of Muhammadan, meaning a Muslim."], "src": "iwb"}
+{"w": "muharram", "pos": "noun", "d": ["The first month of the Islamic lunar calendar."], "src": "iwb"}
+{"w": "mulada", "pos": "noun", "d": ["A drove or herd of mules."], "src": "iwb"}
+{"w": "mulatto", "pos": "noun", "d": ["A dated and now often offensive term for a person of mixed Black and white ancestry."], "src": "iwb"}
+{"w": "mulattress", "pos": "noun", "d": ["A dated and now offensive term for a woman of mixed Black and white ancestry."], "src": "iwb"}
+{"w": "mulberry", "pos": "noun", "d": ["A tree bearing sweet purplish-black berries, whose leaves feed silkworms.", "The berry of this tree."], "src": "iwb"}
+{"w": "mulberry-faced", "pos": "adjective", "d": ["Having a reddish-purple face, as from drink or cold."], "src": "iwb"}
+{"w": "mulch", "pos": "noun", "d": ["A protective layer of straw, leaves, or bark spread over soil to hold moisture and check weeds."], "src": "iwb"}
+{"w": "mulct", "pos": "noun", "d": ["A fine or penalty exacted for an offense."], "src": "iwb"}
+{"w": "mulctuary", "pos": "noun", "d": ["A person who has been fined or mulcted."], "src": "iwb"}
+{"w": "mule", "pos": "noun", "d": ["The sterile hybrid offspring of a male donkey and a female horse, valued as a hardy beast of burden.", "A stubborn person."], "src": "iwb"}
+{"w": "mule killer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mule-jenny", "pos": "noun", "d": ["A variant name for the spinning mule, a machine that spins textile fibers into yarn."], "src": "iwb"}
+{"w": "muleteer", "pos": "noun", "d": ["A driver of mules."], "src": "iwb"}
+{"w": "muley", "pos": "adjective", "d": ["Hornless, as of cattle."], "src": "iwb"}
+{"w": "muliebrity", "pos": "noun", "d": ["Womanhood; the qualities distinctive of women."], "src": "iwb"}
+{"w": "mulier", "pos": "noun", "d": ["A woman; a wife in old legal use."], "src": "iwb"}
+{"w": "mulierose", "pos": "adjective", "d": ["Womanish; fond of women."], "src": "iwb"}
+{"w": "mulierosity", "pos": "noun", "d": ["Womanliness; fondness for the company of women."], "src": "iwb"}
+{"w": "mulierty", "pos": "noun", "d": ["Womanhood; the state of being a woman."], "src": "iwb"}
+{"w": "mulish", "pos": "adjective", "d": ["Stubborn like a mule; obstinately unyielding."], "src": "iwb"}
+{"w": "mull", "pos": "verb", "d": ["To think over deeply; to ponder.", "To heat and spice wine or ale."], "src": "iwb"}
+{"w": "mulla", "pos": "noun", "d": ["A variant spelling of mullah, a Muslim teacher or scholar."], "src": "iwb"}
+{"w": "mullagatawny", "pos": "noun", "d": ["A rich East Indian soup flavored with curry."], "src": "iwb"}
+{"w": "mullah", "pos": "noun", "d": ["A Muslim teacher or scholar of Islamic law."], "src": "iwb"}
+{"w": "mullar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mullein", "pos": "noun", "d": ["A tall herb with woolly leaves and a spike of yellow flowers."], "src": "iwb"}
+{"w": "mullerian", "pos": "adjective", "d": ["Relating to the anatomist Johannes Müller, especially the Müllerian ducts of the embryo."], "src": "iwb"}
+{"w": "mullet", "pos": "noun", "d": ["Any of several chiefly marine food fishes with blunt heads.", "A hairstyle short in front and long in back."], "src": "iwb"}
+{"w": "mulley", "pos": "adjective", "d": ["A variant spelling of muley; hornless."], "src": "iwb"}
+{"w": "mulligatawny", "pos": "noun", "d": ["A variant spelling of mullagatawny, a curried East Indian soup."], "src": "iwb"}
+{"w": "mulligrubs", "pos": "noun", "d": ["Colic or a stomachache.", "A fit of low spirits; the blues."], "src": "iwb"}
+{"w": "mullingong", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mullock", "pos": "noun", "d": ["Waste rock or rubbish from a mine."], "src": "iwb"}
+{"w": "mulloid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mulmul", "pos": "noun", "d": ["A fine soft muslin fabric made in India."], "src": "iwb"}
+{"w": "mulse", "pos": "noun", "d": ["Mulled wine; wine heated with spices."], "src": "iwb"}
+{"w": "mult-", "pos": "prefix", "d": ["A prefix meaning many or much, as in multitude."], "src": "iwb"}
+{"w": "multangular", "pos": "adjective", "d": ["Having many angles."], "src": "iwb"}
+{"w": "multanimous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "multarticulate", "pos": "adjective", "d": ["Having many joints or segments."], "src": "iwb"}
+{"w": "multeity", "pos": "noun", "d": ["Manyness; the state of being many."], "src": "iwb"}
+{"w": "multi-", "pos": "prefix", "d": ["A prefix meaning many or much, as in multicolor."], "src": "iwb"}
+{"w": "multicavous", "pos": "adjective", "d": ["Having many cavities or hollows."], "src": "iwb"}
+{"w": "multicipital", "pos": "adjective", "d": ["Having many heads."], "src": "iwb"}
+{"w": "multifarious", "pos": "adjective", "d": ["Having many different parts or aspects; diverse."], "src": "iwb"}
+{"w": "multiflorous", "pos": "adjective", "d": ["Bearing many flowers."], "src": "iwb"}
+{"w": "multigraph", "pos": "noun", "d": ["A duplicating machine that prints many copies from a revolving type drum."], "src": "iwb"}
+{"w": "multijugate", "pos": "adjective", "d": ["Having many pairs, as of leaflets along a leafstalk."], "src": "iwb"}
+{"w": "multijugous", "pos": "adjective", "d": ["The same as multijugate; having many pairs of leaflets."], "src": "iwb"}
+{"w": "multiloquence", "pos": "noun", "d": ["Talkativeness; much or fluent speaking."], "src": "iwb"}
+{"w": "multiloquent", "pos": "adjective", "d": ["Talking much; loquacious."], "src": "iwb"}
+{"w": "multiloquous", "pos": "adjective", "d": ["Given to much talking; talkative."], "src": "iwb"}
+{"w": "multiloquy", "pos": "noun", "d": ["Much speaking; talkativeness."], "src": "iwb"}
+{"w": "multinodate", "pos": "adjective", "d": ["Having many nodes or knots, as a plant stem."], "src": "iwb"}
+{"w": "multinominous", "pos": "adjective", "d": ["Having many names or terms."], "src": "iwb"}
+{"w": "multiparous", "pos": "adjective", "d": ["Bearing many young at a single birth.", "Having given birth more than once."], "src": "iwb"}
+{"w": "multiplex", "pos": "adjective", "d": ["Having many parts or aspects; manifold."], "src": "iwb"}
+{"w": "multiplicable", "pos": "adjective", "d": ["Capable of being multiplied."], "src": "iwb"}
+{"w": "multiplicand", "pos": "noun", "d": ["The number to be multiplied by another in a multiplication."], "src": "iwb"}
+{"w": "multiplicative", "pos": "adjective", "d": ["Tending or serving to multiply."], "src": "iwb"}
+{"w": "multiplicator", "pos": "noun", "d": ["One who or that which multiplies; the multiplier in an operation."], "src": "iwb"}
+{"w": "multiplicious", "pos": "adjective", "d": ["Manifold; having many parts or aspects."], "src": "iwb"}
+{"w": "multiplicity", "pos": "noun", "d": ["A great number or variety; the state of being many."], "src": "iwb"}
+{"w": "multiramified", "pos": "adjective", "d": ["Having many branches."], "src": "iwb"}
+{"w": "multisonous", "pos": "adjective", "d": ["Making many sounds; sounding much."], "src": "iwb"}
+{"w": "multitude", "pos": "noun", "d": ["A great number of people or things; a crowd."], "src": "iwb"}
+{"w": "multitudinary", "pos": "adjective", "d": ["Belonging to or consisting of a multitude."], "src": "iwb"}
+{"w": "multitudinous", "pos": "adjective", "d": ["Existing in great numbers; very numerous."], "src": "iwb"}
+{"w": "multivagant", "pos": "adjective", "d": ["Wandering much; roaming widely."], "src": "iwb"}
+{"w": "multivalent", "pos": "adjective", "d": ["Having a valence greater than two in chemistry.", "Effective against several diseases or strains, as of a vaccine."], "src": "iwb"}
+{"w": "multivious", "pos": "adjective", "d": ["Going in many directions; manifold."], "src": "iwb"}
+{"w": "multocular", "pos": "adjective", "d": ["Having many eyes or eye-like spots."], "src": "iwb"}
+{"w": "multum", "pos": "noun", "d": ["Much; a great quantity, used chiefly in the phrase multum in parvo, much in little."], "src": "iwb"}
+{"w": "multungulate", "pos": "adjective", "d": ["Having many hoofs."], "src": "iwb"}
+{"w": "multure", "pos": "noun", "d": ["A toll of grain paid to a miller for grinding, in old Scots law."], "src": "iwb"}
+{"w": "mum", "pos": "noun", "d": ["An informal word for mother.", "A chrysanthemum."], "src": "iwb"}
+{"w": "mum-chance", "pos": "noun", "d": ["An old game of chance played in silence."], "src": "iwb"}
+{"w": "mumble", "pos": "verb", "d": ["To speak indistinctly with the lips partly closed."], "src": "iwb"}
+{"w": "mumbo jumbo", "pos": "noun", "d": ["Unintelligible or pretentious language; meaningless ritual."], "src": "iwb"}
+{"w": "mumm", "pos": "verb", "d": ["To masquerade in disguise, especially at Christmas or festivals."], "src": "iwb"}
+{"w": "mummery", "pos": "noun", "d": ["A performance by mummers in mask or costume.", "Hypocritical or pretentious ceremony."], "src": "iwb"}
+{"w": "mummichog", "pos": "noun", "d": ["A small killifish of Atlantic coastal waters, often used as bait."], "src": "iwb"}
+{"w": "mummification", "pos": "noun", "d": ["The process of preserving a body as a mummy."], "src": "iwb"}
+{"w": "mummiform", "pos": "adjective", "d": ["Shaped like a mummy."], "src": "iwb"}
+{"w": "mummy", "pos": "noun", "d": ["A body preserved by embalming, as in ancient Egypt.", "An informal word for mother, chiefly British."], "src": "iwb"}
+{"w": "mummychog", "pos": "noun", "d": ["A variant spelling of mummichog, a small coastal killifish."], "src": "iwb"}
+{"w": "mump", "pos": "verb", "d": ["To beg or whine for charity.", "To grimace or sulk."], "src": "iwb"}
+{"w": "mun", "pos": "verb", "d": ["Must; have to, a dialectal form used in northern England and Scotland."], "src": "iwb"}
+{"w": "munch", "pos": "verb", "d": ["To chew steadily with a crunching sound."], "src": "iwb"}
+{"w": "munchausenism", "pos": "noun", "d": ["The telling of extravagant tall tales, after Baron Munchausen."], "src": "iwb"}
+{"w": "mund", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mundanity", "pos": "noun", "d": ["Worldliness; concern with ordinary earthly matters."], "src": "iwb"}
+{"w": "mundatory", "pos": "adjective", "d": ["Cleansing; serving to cleanse."], "src": "iwb"}
+{"w": "mundificant", "pos": "adjective", "d": ["Cleansing; purifying."], "src": "iwb"}
+{"w": "mundification", "pos": "noun", "d": ["The act of cleansing or purifying."], "src": "iwb"}
+{"w": "mundificative", "pos": "adjective", "d": ["Tending to cleanse or purify."], "src": "iwb"}
+{"w": "mundil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mundivagant", "pos": "adjective", "d": ["Wandering over the world."], "src": "iwb"}
+{"w": "mundungus", "pos": "noun", "d": ["Stinking or inferior tobacco."], "src": "iwb"}
+{"w": "munerary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "munerate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "muneration", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mung", "pos": "noun", "d": ["The mung bean, a small green legume widely used in Asian cooking, especially as bean sprouts."], "src": "iwb"}
+{"w": "munga", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mungo", "pos": "noun", "d": ["Cloth made from reworked woolen waste; shoddy."], "src": "iwb"}
+{"w": "mungoos", "pos": "noun", "d": ["A variant spelling of mongoose, a small carnivorous mammal."], "src": "iwb"}
+{"w": "mungrel", "pos": "noun", "d": ["A variant spelling of mongrel, a dog of mixed breed."], "src": "iwb"}
+{"w": "munific", "pos": "adjective", "d": ["Liberal in giving; generous."], "src": "iwb"}
+{"w": "muniment", "pos": "noun", "d": ["A legal document, such as a title deed, defending a right or claim."], "src": "iwb"}
+{"w": "munite", "pos": "verb", "d": ["To fortify; to strengthen against attack."], "src": "iwb"}
+{"w": "munition", "pos": "noun", "d": ["Military supplies, especially weapons and ammunition."], "src": "iwb"}
+{"w": "munjeet", "pos": "noun", "d": ["The root of an Indian plant used as a red dye; Indian madder."], "src": "iwb"}
+{"w": "munjistin", "pos": "noun", "d": ["The red coloring matter obtained from munjeet root."], "src": "iwb"}
+{"w": "munnion", "pos": "noun", "d": ["A variant spelling of mullion, a vertical bar between windowpanes."], "src": "iwb"}
+{"w": "muntjac", "pos": "noun", "d": ["A small barking deer of southern Asia."], "src": "iwb"}
+{"w": "muntz metal", "pos": "noun", "d": ["A brass alloy of about three parts copper to two parts zinc, used for sheathing ships."], "src": "iwb"}
+{"w": "muraena", "pos": "noun", "d": ["The genus of fishes that includes the moray eels."], "src": "iwb"}
+{"w": "muraenoid", "pos": "adjective", "d": ["Resembling or related to the moray eels."], "src": "iwb"}
+{"w": "murage", "pos": "noun", "d": ["A medieval tax levied for building or repairing town walls."], "src": "iwb"}
+{"w": "mural", "pos": "adjective", "d": ["Relating to or placed on a wall."], "src": "iwb"}
+{"w": "murderess", "pos": "noun", "d": ["A dated term for a woman who commits murder."], "src": "iwb"}
+{"w": "murdress", "pos": "noun", "d": ["A variant spelling of murderess."], "src": "iwb"}
+{"w": "mure", "pos": "noun", "d": ["A wall."], "src": "iwb"}
+{"w": "murenger", "pos": "noun", "d": ["A builder of walls; an officer who collected the murage tax."], "src": "iwb"}
+{"w": "murenoid", "pos": "adjective", "d": ["A variant of muraenoid; resembling a moray eel."], "src": "iwb"}
+{"w": "murex", "pos": "noun", "d": ["A genus of spiny sea snails, one species of which yielded the Tyrian purple dye."], "src": "iwb"}
+{"w": "murexan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "murexoin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "muriate", "pos": "noun", "d": ["A salt of muriatic acid; a chloride."], "src": "iwb"}
+{"w": "muriatic", "pos": "adjective", "d": ["Relating to muriatic acid, the common name for hydrochloric acid."], "src": "iwb"}
+{"w": "muriatiferous", "pos": "adjective", "d": ["Yielding or producing muriates."], "src": "iwb"}
+{"w": "muricate", "pos": "adjective", "d": ["Rough with short sharp points, as a plant surface."], "src": "iwb"}
+{"w": "muricoid", "pos": "adjective", "d": ["Resembling a murex shell."], "src": "iwb"}
+{"w": "muriculate", "pos": "adjective", "d": ["Minutely muricate; finely roughened with tiny points."], "src": "iwb"}
+{"w": "muride", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "muriform", "pos": "adjective", "d": ["Resembling a wall in arrangement, as brick-like plant cells."], "src": "iwb"}
+{"w": "murine", "pos": "adjective", "d": ["Of or relating to mice or rats."], "src": "iwb"}
+{"w": "muringer", "pos": "noun", "d": ["A variant spelling of murenger, a wall-builder."], "src": "iwb"}
+{"w": "murk", "pos": "noun", "d": ["Darkness; thick gloom."], "src": "iwb"}
+{"w": "murkily", "pos": "adverb", "d": ["In a murky manner; darkly and gloomily."], "src": "iwb"}
+{"w": "murkiness", "pos": "noun", "d": ["The quality of being murky; darkness and gloom."], "src": "iwb"}
+{"w": "murky", "pos": "adjective", "d": ["Dark and gloomy; thick with mist or smoke."], "src": "iwb"}
+{"w": "murlins", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "murmur", "pos": "verb", "d": ["To make a low continuous sound.", "To complain in a low muttering voice."], "src": "iwb"}
+{"w": "murnival", "pos": "noun", "d": ["Four of a kind in a card game; a set of four."], "src": "iwb"}
+{"w": "murr", "pos": "verb", "d": ["To purr like a cat."], "src": "iwb"}
+{"w": "murrain", "pos": "noun", "d": ["A plague or disease among cattle.", "A curse or blight."], "src": "iwb"}
+{"w": "murrayin", "pos": "noun", "d": ["A crystalline substance obtained from the curry-leaf tree."], "src": "iwb"}
+{"w": "murre", "pos": "noun", "d": ["A black-and-white diving seabird of northern coasts; a guillemot."], "src": "iwb"}
+{"w": "murrey", "pos": "noun", "d": ["A dark reddish-purple color."], "src": "iwb"}
+{"w": "murry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "murth", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "murza", "pos": "noun", "d": ["A Tatar or Persian title of nobility; a variant of mirza."], "src": "iwb"}
+{"w": "mus", "pos": "noun", "d": ["The genus of small rodents that includes the common house mouse."], "src": "iwb"}
+{"w": "musa", "pos": "noun", "d": ["The genus of plants that includes the bananas and plantains."], "src": "iwb"}
+{"w": "musaceous", "pos": "adjective", "d": ["Relating to or resembling the banana plants."], "src": "iwb"}
+{"w": "musang", "pos": "noun", "d": ["A civet cat of Southeast Asia."], "src": "iwb"}
+{"w": "musar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "musard", "pos": "noun", "d": ["A dreamer; one who idles or loiters."], "src": "iwb"}
+{"w": "musca", "pos": "noun", "d": ["Latin for a fly; the southern constellation called the Fly."], "src": "iwb"}
+{"w": "muscallonge", "pos": "noun", "d": ["A variant spelling of muskellunge, a large North American pike."], "src": "iwb"}
+{"w": "muscardin", "pos": "noun", "d": ["The hazel dormouse of Europe."], "src": "iwb"}
+{"w": "muscardine", "pos": "noun", "d": ["A fungal disease of silkworms."], "src": "iwb"}
+{"w": "muscariform", "pos": "adjective", "d": ["Shaped like a fly."], "src": "iwb"}
+{"w": "muscarin", "pos": "noun", "d": ["A poisonous alkaloid found in certain mushrooms."], "src": "iwb"}
+{"w": "muschelkalk", "pos": "noun", "d": ["A shell-bearing limestone of the Middle Triassic period, common in central Europe."], "src": "iwb"}
+{"w": "musci", "pos": "noun", "d": ["Mosses, taken as a group in plant classification."], "src": "iwb"}
+{"w": "muscicapine", "pos": "adjective", "d": ["Of or relating to flycatchers, a family of small insect-eating birds."], "src": "iwb"}
+{"w": "muscle reading", "pos": "phrase", "d": ["The apparent reading of another person's thoughts by sensing the involuntary movements of their muscles."], "src": "iwb"}
+{"w": "muscogees", "pos": "noun", "d": ["Members of the Muscogee (Creek) Indigenous people of the southeastern United States."], "src": "iwb"}
+{"w": "muscoid", "pos": "adjective", "d": ["Resembling a fly in shape or structure."], "src": "iwb"}
+{"w": "muscology", "pos": "noun", "d": ["The scientific study of mosses."], "src": "iwb"}
+{"w": "muscosity", "pos": "noun", "d": ["The state or quality of being mossy."], "src": "iwb"}
+{"w": "muscovado", "pos": "noun", "d": ["An unrefined brown sugar with a strong molasses taste."], "src": "iwb"}
+{"w": "muscovite", "pos": "noun", "d": ["A pale, easily split mineral of the mica group.", "A native or inhabitant of Muscovy, the old Russian state centered on Moscow."], "src": "iwb"}
+{"w": "muscovy duck", "pos": "noun", "d": ["A large domestic duck of the Americas, with red warty skin around the bill."], "src": "iwb"}
+{"w": "muscovy glass", "pos": "noun", "d": ["Sheets of mica formerly used as windowpanes, especially in old Russia."], "src": "iwb"}
+{"w": "muscular", "pos": "adjective", "d": ["Having well-developed muscles.", "Relating to or performed by the muscles."], "src": "iwb"}
+{"w": "musculation", "pos": "noun", "d": ["The action of muscles in producing movement."], "src": "iwb"}
+{"w": "musculature", "pos": "noun", "d": ["The arrangement and system of muscles in a body or body part."], "src": "iwb"}
+{"w": "muscule", "pos": "noun", "d": ["A small muscle."], "src": "iwb"}
+{"w": "musculin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "musculocutaneous", "pos": "adjective", "d": ["Relating to or supplying both muscle and skin, as certain nerves."], "src": "iwb"}
+{"w": "musculophrenic", "pos": "adjective", "d": ["Relating to the muscles of the chest wall and the diaphragm."], "src": "iwb"}
+{"w": "musculosity", "pos": "noun", "d": ["The state of being muscular; well-developed muscles."], "src": "iwb"}
+{"w": "musculospiral", "pos": "adjective", "d": ["Winding in a spiral, as the nerve of the arm that follows the humerus."], "src": "iwb"}
+{"w": "musculous", "pos": "adjective", "d": ["Muscular; having strong, well-developed muscles."], "src": "iwb"}
+{"w": "muse", "pos": "verb", "d": ["To think about something quietly and at length.", "To say something in a thoughtful or dreamy way."], "src": "iwb"}
+{"w": "muset", "pos": "noun", "d": ["A gap in a hedge or fence used as a passageway by hares and other game."], "src": "iwb"}
+{"w": "mush", "pos": "noun", "d": ["A thick porridge made by boiling cornmeal or other grain in water or milk.", "A soft pulpy mass."], "src": "iwb"}
+{"w": "mushroom-headed", "pos": "adjective", "d": ["Having a broad rounded head shaped like a mushroom, as some nails and pins."], "src": "iwb"}
+{"w": "mushy", "pos": "adjective", "d": ["Soft and pulpy like mush.", "Overly sentimental."], "src": "iwb"}
+{"w": "music drama", "pos": "noun", "d": ["A stage work in which music and drama are fully united, especially an opera of Wagner."], "src": "iwb"}
+{"w": "music hall", "pos": "noun", "d": ["A theater presenting variety entertainment of songs, dances, and comic acts."], "src": "iwb"}
+{"w": "musicomania", "pos": "noun", "d": ["An excessive or obsessive passion for music."], "src": "iwb"}
+{"w": "musimon", "pos": "noun", "d": ["The mouflon, a wild sheep of Sardinia and Corsica."], "src": "iwb"}
+{"w": "musingly", "pos": "adverb", "d": ["In a thoughtful or dreamy manner."], "src": "iwb"}
+{"w": "musit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "musk", "pos": "noun", "d": ["A strong-smelling substance from the musk deer, used in making perfumes.", "The scent itself, or any perfume ingredient with a similar smell."], "src": "iwb"}
+{"w": "muskadel", "pos": "noun", "d": ["A sweet wine made from muscat grapes."], "src": "iwb"}
+{"w": "muskellunge", "pos": "noun", "d": ["A very large North American freshwater fish of the pike family, prized by anglers."], "src": "iwb"}
+{"w": "musketeer", "pos": "noun", "d": ["A soldier armed with a musket."], "src": "iwb"}
+{"w": "musketo", "pos": "noun", "d": ["An old variant spelling of mosquito."], "src": "iwb"}
+{"w": "musketry", "pos": "noun", "d": ["The art and practice of firing muskets and other small arms."], "src": "iwb"}
+{"w": "muskiness", "pos": "noun", "d": ["The quality of having the scent of musk."], "src": "iwb"}
+{"w": "muskogees", "pos": "noun", "d": ["A variant spelling of Muscogees."], "src": "iwb"}
+{"w": "musky", "pos": "adjective", "d": ["Having the scent of musk."], "src": "iwb"}
+{"w": "muslinet", "pos": "noun", "d": ["A light thin fabric resembling fine muslin."], "src": "iwb"}
+{"w": "musmon", "pos": "noun", "d": ["The mouflon, a wild sheep of Sardinia and Corsica."], "src": "iwb"}
+{"w": "musomania", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "musquaw", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "musquito", "pos": "noun", "d": ["An old variant spelling of mosquito."], "src": "iwb"}
+{"w": "musrol", "pos": "noun", "d": ["The noseband of a horse's bridle."], "src": "iwb"}
+{"w": "muss", "pos": "verb", "d": ["To make untidy or disarranged; to mess up.", "A state of disorder; a mess."], "src": "iwb"}
+{"w": "mussel", "pos": "noun", "d": ["An edible shellfish with a dark elongated two-part shell."], "src": "iwb"}
+{"w": "mussitation", "pos": "noun", "d": ["The act of mumbling; low indistinct speech."], "src": "iwb"}
+{"w": "mussulman", "pos": "noun", "d": ["An old word for a follower of Islam."], "src": "iwb"}
+{"w": "mussy", "pos": "adjective", "d": ["Messy or untidy."], "src": "iwb"}
+{"w": "mustacho", "pos": "noun", "d": ["An old variant spelling of mustache."], "src": "iwb"}
+{"w": "mustahfiz", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mustaiba", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mustard", "pos": "noun", "d": ["A sharp-tasting yellow condiment made from ground mustard seeds.", "The plant whose seeds are ground to make this condiment."], "src": "iwb"}
+{"w": "musteline", "pos": "adjective", "d": ["Resembling or relating to weasels and their kin, such as minks and ferrets."], "src": "iwb"}
+{"w": "mustily", "pos": "adverb", "d": ["In a musty manner; with a stale moldy smell."], "src": "iwb"}
+{"w": "mustiness", "pos": "noun", "d": ["The quality of being musty; a stale moldy smell."], "src": "iwb"}
+{"w": "musty", "pos": "adjective", "d": ["Smelling stale and moldy from damp and lack of air.", "Old-fashioned; out of date."], "src": "iwb"}
+{"w": "mutability", "pos": "noun", "d": ["The quality of being changeable; liability to change."], "src": "iwb"}
+{"w": "mutably", "pos": "adverb", "d": ["In a changeable manner."], "src": "iwb"}
+{"w": "mutacism", "pos": "noun", "d": ["A speech fault marked by the too-frequent or faulty use of the letter m."], "src": "iwb"}
+{"w": "mutage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mutandum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mutation", "pos": "noun", "d": ["A change or alteration.", "A change in the genes of a living thing that can be passed to its offspring."], "src": "iwb"}
+{"w": "mutch", "pos": "noun", "d": ["A close-fitting linen cap formerly worn by women and young children, especially in Scotland."], "src": "iwb"}
+{"w": "mute", "pos": "adjective", "d": ["Silent; uttering no sound.", "To deaden or soften the sound of, as an instrument.", "A person unable to speak."], "src": "iwb"}
+{"w": "mute-hill", "pos": "noun", "d": ["An old term for a moot hill, a mound where courts or public assemblies were held."], "src": "iwb"}
+{"w": "mutessarif", "pos": "noun", "d": ["A district governor under the former Ottoman administration."], "src": "iwb"}
+{"w": "mutessarifat", "pos": "noun", "d": ["A district governed by a mutessarif in the former Ottoman Empire."], "src": "iwb"}
+{"w": "mutic", "pos": "adjective", "d": ["Blunt; lacking a point or awn, as certain plant parts."], "src": "iwb"}
+{"w": "mutilate", "pos": "verb", "d": ["To injure severely, especially by cutting off a part of the body."], "src": "iwb"}
+{"w": "mutilation", "pos": "noun", "d": ["The act of mutilating; severe injury or disfigurement."], "src": "iwb"}
+{"w": "mutilator", "pos": "noun", "d": ["One who mutilates."], "src": "iwb"}
+{"w": "mutilous", "pos": "adjective", "d": ["Mutilated; maimed."], "src": "iwb"}
+{"w": "mutine", "pos": "noun", "d": ["An old word for a mutineer; one who rebels against authority."], "src": "iwb"}
+{"w": "mutinous", "pos": "adjective", "d": ["Given to rebellion against authority; rebellious."], "src": "iwb"}
+{"w": "mutiny", "pos": "noun", "d": ["Open rebellion against authority, especially by soldiers or sailors.", "To rebel openly against those in command."], "src": "iwb"}
+{"w": "mutism", "pos": "noun", "d": ["The condition of being unable to speak."], "src": "iwb"}
+{"w": "mutoscope", "pos": "noun", "d": ["An early motion-picture viewer in which a series of pictures on a rotating drum was watched through a peephole."], "src": "iwb"}
+{"w": "mutter", "pos": "verb", "d": ["To speak in a low unclear voice, often in complaint.", "Low indistinct speech."], "src": "iwb"}
+{"w": "mutteringly", "pos": "adverb", "d": ["In a muttering manner; while muttering."], "src": "iwb"}
+{"w": "mutton", "pos": "noun", "d": ["The flesh of a grown sheep used as food."], "src": "iwb"}
+{"w": "muttony", "pos": "adjective", "d": ["Tasting or smelling of mutton."], "src": "iwb"}
+{"w": "mutuary", "pos": "noun", "d": ["In law, one who borrows something to be used up and replaced, as money or grain."], "src": "iwb"}
+{"w": "mutuation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mutule", "pos": "noun", "d": ["In classical architecture, one of the flat blocks set under the cornice of the Doric order."], "src": "iwb"}
+{"w": "mux", "pos": "noun", "d": ["A device that combines several signals into one for transmission.", "To combine signals through a multiplexer."], "src": "iwb"}
+{"w": "muxy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "muzarab", "pos": "noun", "d": ["A Christian who lived under Muslim rule in medieval Spain; a Mozarab."], "src": "iwb"}
+{"w": "muzziness", "pos": "noun", "d": ["The state of being muzzy; hazy confusion of mind."], "src": "iwb"}
+{"w": "muzzle", "pos": "noun", "d": ["The projecting nose and jaws of an animal.", "A device fitted over an animal's mouth to keep it from biting.", "To restrain from free speech or action."], "src": "iwb"}
+{"w": "muzzle-loader", "pos": "noun", "d": ["A firearm that is loaded through the muzzle."], "src": "iwb"}
+{"w": "muzzle-loading", "pos": "adjective", "d": ["Loaded through the muzzle, as early firearms were."], "src": "iwb"}
+{"w": "muzzy", "pos": "adjective", "d": ["Hazy or confused in mind; dazed.", "Blurred; indistinct."], "src": "iwb"}
+{"w": "mya", "pos": "noun", "d": ["A genus of burrowing clams, including the edible soft-shell clam."], "src": "iwb"}
+{"w": "myalgia", "pos": "noun", "d": ["Pain in the muscles."], "src": "iwb"}
+{"w": "myall wood", "pos": "noun", "d": ["A fragrant hard Australian wood, from certain acacias, used for carving."], "src": "iwb"}
+{"w": "myaria", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mycelium", "pos": "noun", "d": ["The mass of threadlike filaments that forms the main growing body of a fungus."], "src": "iwb"}
+{"w": "myceloid", "pos": "adjective", "d": ["Resembling mycelium."], "src": "iwb"}
+{"w": "mycetes", "pos": "noun", "d": ["A genus of South American howler monkeys."], "src": "iwb"}
+{"w": "mycetoid", "pos": "adjective", "d": ["Resembling a fungus."], "src": "iwb"}
+{"w": "mycetozoa", "pos": "noun", "d": ["The slime molds, organisms once classed with the fungi."], "src": "iwb"}
+{"w": "mycoderma", "pos": "noun", "d": ["A film-forming yeast that grows on the surface of fermenting liquids."], "src": "iwb"}
+{"w": "mycologic", "pos": "adjective", "d": ["Of or relating to the study of fungi."], "src": "iwb"}
+{"w": "mycologist", "pos": "noun", "d": ["A specialist in the study of fungi."], "src": "iwb"}
+{"w": "mycology", "pos": "noun", "d": ["The scientific study of fungi."], "src": "iwb"}
+{"w": "mycomelic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mycoprotein", "pos": "noun", "d": ["Protein obtained from fungi, used as a meat substitute in foods."], "src": "iwb"}
+{"w": "mycose", "pos": "noun", "d": ["A sugar found in fungi and yeasts, also called trehalose."], "src": "iwb"}
+{"w": "mycothrix", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mydaleine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mydatoxin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mydaus", "pos": "noun", "d": ["A genus of stink badgers of Southeast Asia."], "src": "iwb"}
+{"w": "mydriasis", "pos": "noun", "d": ["Abnormal widening of the pupil of the eye."], "src": "iwb"}
+{"w": "mydriatic", "pos": "adjective", "d": ["Causing widening of the pupil of the eye.", "A drug that widens the pupil."], "src": "iwb"}
+{"w": "myelencephala", "pos": "noun", "d": ["In an old system of classification, the true vertebrates, possessing a brain and spinal cord."], "src": "iwb"}
+{"w": "myelencephalic", "pos": "adjective", "d": ["Relating to the medulla oblongata, the hindmost part of the brain."], "src": "iwb"}
+{"w": "myelencephalon", "pos": "noun", "d": ["The hindmost division of the brain; the medulla oblongata."], "src": "iwb"}
+{"w": "myelencephalous", "pos": "adjective", "d": ["Relating to or possessing a myelencephalon."], "src": "iwb"}
+{"w": "myelin", "pos": "noun", "d": ["The fatty substance forming a sheath around certain nerve fibers."], "src": "iwb"}
+{"w": "myelitis", "pos": "noun", "d": ["Inflammation of the spinal cord."], "src": "iwb"}
+{"w": "myelocoele", "pos": "noun", "d": ["The central canal running through the spinal cord."], "src": "iwb"}
+{"w": "myelogenic", "pos": "adjective", "d": ["Originating in or produced by the bone marrow."], "src": "iwb"}
+{"w": "myeloid", "pos": "adjective", "d": ["Resembling or relating to bone marrow."], "src": "iwb"}
+{"w": "myeloidin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myelon", "pos": "noun", "d": ["The spinal cord."], "src": "iwb"}
+{"w": "myeloneura", "pos": "noun", "d": ["In old classifications, invertebrate animals possessing a ventral nerve cord."], "src": "iwb"}
+{"w": "myeloplax", "pos": "noun", "d": ["A large multinucleated cell that breaks down bone tissue."], "src": "iwb"}
+{"w": "mygale", "pos": "noun", "d": ["A genus of large hairy spiders, including the bird spiders and tarantulas."], "src": "iwb"}
+{"w": "mykiss", "pos": "noun", "d": ["The rainbow trout, a fish of the fresh and coastal waters of western North America."], "src": "iwb"}
+{"w": "mylodon", "pos": "noun", "d": ["An extinct giant ground sloth of South America."], "src": "iwb"}
+{"w": "mylohyoid", "pos": "adjective", "d": ["Relating to the flat muscle that forms the floor of the mouth."], "src": "iwb"}
+{"w": "myna", "pos": "noun", "d": ["A dark-colored Asian bird of the starling family, some kinds of which can mimic speech."], "src": "iwb"}
+{"w": "mynchen", "pos": "noun", "d": ["An old word for a nun."], "src": "iwb"}
+{"w": "mynchery", "pos": "noun", "d": ["An old word for a nunnery."], "src": "iwb"}
+{"w": "mynheer", "pos": "noun", "d": ["A Dutch title of respect for a man, equivalent to sir or mister."], "src": "iwb"}
+{"w": "myo-", "pos": "prefix", "d": ["A prefix meaning 'muscle', as in myocardium."], "src": "iwb"}
+{"w": "myocarditis", "pos": "noun", "d": ["Inflammation of the muscular wall of the heart."], "src": "iwb"}
+{"w": "myocardium", "pos": "noun", "d": ["The muscular wall of the heart."], "src": "iwb"}
+{"w": "myochrome", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myocomma", "pos": "noun", "d": ["A partition of connective tissue between the muscle segments of a fish."], "src": "iwb"}
+{"w": "myodynamics", "pos": "noun", "d": ["The science of the forces and movements of muscles."], "src": "iwb"}
+{"w": "myodynamiometer", "pos": "noun", "d": ["An instrument for measuring the strength of muscular contraction."], "src": "iwb"}
+{"w": "myodynamometer", "pos": "noun", "d": ["An instrument for measuring the strength of muscular contraction."], "src": "iwb"}
+{"w": "myoepithelial", "pos": "adjective", "d": ["Relating to the contractile cells found in certain glands."], "src": "iwb"}
+{"w": "myogalid", "pos": "noun", "d": ["A desman, a small aquatic mole-like mammal of Europe and western Asia."], "src": "iwb"}
+{"w": "myogram", "pos": "noun", "d": ["A tracing or record of a muscular contraction."], "src": "iwb"}
+{"w": "myograph", "pos": "noun", "d": ["An instrument for recording muscular contractions."], "src": "iwb"}
+{"w": "myography", "pos": "noun", "d": ["The description of muscles; the recording of muscular movement."], "src": "iwb"}
+{"w": "myohaematin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myoid", "pos": "adjective", "d": ["Resembling muscle; muscle-like."], "src": "iwb"}
+{"w": "myolemma", "pos": "noun", "d": ["The thin sheath enclosing a muscle fiber."], "src": "iwb"}
+{"w": "myolin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myologic", "pos": "adjective", "d": ["Relating to the study of muscles."], "src": "iwb"}
+{"w": "myologist", "pos": "noun", "d": ["One who studies muscles; a specialist in myology."], "src": "iwb"}
+{"w": "myology", "pos": "noun", "d": ["The scientific study of muscles."], "src": "iwb"}
+{"w": "myoma", "pos": "noun", "d": ["A tumor composed of muscle tissue."], "src": "iwb"}
+{"w": "myomancy", "pos": "noun", "d": ["Divination by the movements or behavior of mice."], "src": "iwb"}
+{"w": "myomorph", "pos": "adjective", "d": ["Mouse-like in form."], "src": "iwb"}
+{"w": "myomorpha", "pos": "noun", "d": ["The mouse-like rodents, a group including mice, rats, and hamsters."], "src": "iwb"}
+{"w": "myopathia", "pos": "noun", "d": ["An old term for disease of muscle tissue."], "src": "iwb"}
+{"w": "myopathic", "pos": "adjective", "d": ["Relating to or affected by disease of the muscles."], "src": "iwb"}
+{"w": "myopathy", "pos": "noun", "d": ["Any disease of muscle tissue."], "src": "iwb"}
+{"w": "myope", "pos": "noun", "d": ["A nearsighted person."], "src": "iwb"}
+{"w": "myophan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myopia", "pos": "noun", "d": ["Nearsightedness; poor vision for distant objects."], "src": "iwb"}
+{"w": "myopic", "pos": "adjective", "d": ["Nearsighted."], "src": "iwb"}
+{"w": "myops", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myopsis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myopy", "pos": "noun", "d": ["Nearsightedness; myopia."], "src": "iwb"}
+{"w": "myosin", "pos": "noun", "d": ["A protein in muscle fibers that works with actin to produce contraction."], "src": "iwb"}
+{"w": "myosis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myositic", "pos": "adjective", "d": ["Relating to inflammation of muscle."], "src": "iwb"}
+{"w": "myositis", "pos": "noun", "d": ["Inflammation of muscle tissue."], "src": "iwb"}
+{"w": "myosotis", "pos": "noun", "d": ["A genus of small blue-flowered plants; the forget-me-nots."], "src": "iwb"}
+{"w": "myotic", "pos": "adjective", "d": ["Causing the pupil of the eye to contract."], "src": "iwb"}
+{"w": "myotome", "pos": "noun", "d": ["A segment of muscle in the body wall, as of a fish or an embryo."], "src": "iwb"}
+{"w": "myotomic", "pos": "adjective", "d": ["Relating to a myotome."], "src": "iwb"}
+{"w": "myotomy", "pos": "noun", "d": ["The surgical cutting of a muscle."], "src": "iwb"}
+{"w": "myrcia", "pos": "noun", "d": ["A genus of tropical American shrubs and trees of the myrtle family."], "src": "iwb"}
+{"w": "myria-", "pos": "prefix", "d": ["A prefix meaning 'ten thousand', as in myriameter."], "src": "iwb"}
+{"w": "myriacanthous", "pos": "adjective", "d": ["Having many spines or prickles."], "src": "iwb"}
+{"w": "myriad", "pos": "noun", "d": ["A very large or indefinite number; literally, ten thousand.", "Countless; innumerable."], "src": "iwb"}
+{"w": "myriagram", "pos": "noun", "d": ["A metric weight of ten thousand grams."], "src": "iwb"}
+{"w": "myriagramme", "pos": "noun", "d": ["A variant spelling of myriagram."], "src": "iwb"}
+{"w": "myrialiter", "pos": "noun", "d": ["A metric measure of capacity equal to ten thousand liters."], "src": "iwb"}
+{"w": "myrialitre", "pos": "noun", "d": ["A variant spelling of myrialiter."], "src": "iwb"}
+{"w": "myriameter", "pos": "noun", "d": ["A metric measure of length equal to ten thousand meters."], "src": "iwb"}
+{"w": "myriametre", "pos": "noun", "d": ["A variant spelling of myriameter."], "src": "iwb"}
+{"w": "myriapod", "pos": "noun", "d": ["A many-legged arthropod, such as a centipede or millipede."], "src": "iwb"}
+{"w": "myriapoda", "pos": "noun", "d": ["The group of many-legged arthropods, including centipedes and millipedes."], "src": "iwb"}
+{"w": "myriarch", "pos": "noun", "d": ["A commander of ten thousand men, especially in ancient Persia."], "src": "iwb"}
+{"w": "myriare", "pos": "noun", "d": ["A metric unit of area equal to ten thousand square meters."], "src": "iwb"}
+{"w": "myrica", "pos": "noun", "d": ["A genus of shrubs including the bayberry and the sweet gale."], "src": "iwb"}
+{"w": "myricin", "pos": "noun", "d": ["A hard yellowish wax obtained from the berries of the bayberry shrub, once much used for candles."], "src": "iwb"}
+{"w": "myricyl", "pos": "noun", "d": ["A long-chain hydrocarbon radical, C30H61, found in certain plant waxes such as myricyl alcohol."], "src": "iwb"}
+{"w": "myriological", "pos": "adjective", "d": ["Relating to myriology, the study or counting of myriads."], "src": "iwb"}
+{"w": "myriologist", "pos": "noun", "d": ["One who studies or writes about myriads, or things numbered by tens of thousands."], "src": "iwb"}
+{"w": "myriologue", "pos": "noun", "d": ["A treatise or discourse dealing with myriads or countless things."], "src": "iwb"}
+{"w": "myriophyllous", "pos": "adjective", "d": ["Having a great number of very small leaves, as the water milfoil."], "src": "iwb"}
+{"w": "myriopoda", "pos": "noun", "d": ["A class of jointed-legged animals including centipedes and millipedes, with many body segments."], "src": "iwb"}
+{"w": "myriorama", "pos": "noun", "d": ["A set of interchangeable picture cards that can be combined to form many different panoramic scenes."], "src": "iwb"}
+{"w": "myrioscope", "pos": "noun", "d": ["A device for viewing the shifting scenes of a myriorama."], "src": "iwb"}
+{"w": "myristate", "pos": "noun", "d": ["A salt or ester of myristic acid."], "src": "iwb"}
+{"w": "myristic", "pos": "adjective", "d": ["Pertaining to myristic acid, a fatty acid found in nutmeg, coconut oil, and animal fats."], "src": "iwb"}
+{"w": "myristin", "pos": "noun", "d": ["A fatty substance obtained from nutmeg, the chief triglyceride of myristic acid."], "src": "iwb"}
+{"w": "myristone", "pos": "noun", "d": ["A ketone derived from myristic acid."], "src": "iwb"}
+{"w": "myrmecophyte", "pos": "noun", "d": ["A plant that lives in close association with ants, often sheltering them in hollow stems or thorns."], "src": "iwb"}
+{"w": "myrmicine", "pos": "adjective", "d": ["Belonging to the ant subfamily Myrmicinae."], "src": "iwb"}
+{"w": "myrmidon", "pos": "noun", "d": ["One of the soldiers of Achilles in Greek legend.", "A devoted and unquestioning follower or henchman."], "src": "iwb"}
+{"w": "myrmidonian", "pos": "adjective", "d": ["Of or like a myrmidon; blindly loyal and obedient."], "src": "iwb"}
+{"w": "myrmotherine", "pos": "adjective", "d": ["Pertaining to the antbirds of the subfamily Myrmotherinae."], "src": "iwb"}
+{"w": "myrobalan", "pos": "noun", "d": ["An astringent plumlike fruit of several tropical trees, much used in tanning and dyeing."], "src": "iwb"}
+{"w": "myrobolan", "pos": "noun", "d": ["A variant spelling of myrobalan, the astringent fruit used in tanning."], "src": "iwb"}
+{"w": "myronic", "pos": "adjective", "d": ["Pertaining to myron, an ancient fragrant ointment; of or like perfumed unguents."], "src": "iwb"}
+{"w": "myropolist", "pos": "noun", "d": ["A seller of perfumes, ointments, or unguents."], "src": "iwb"}
+{"w": "myrosin", "pos": "noun", "d": ["An enzyme in mustard and related seeds that turns glucosinolates into pungent oils."], "src": "iwb"}
+{"w": "myroxylon", "pos": "noun", "d": ["A genus of tropical American trees yielding balsam of Peru and balsam of Tolu."], "src": "iwb"}
+{"w": "myrrh", "pos": "noun", "d": ["An aromatic gum resin from trees of Arabia and Africa, used in perfumes, incense, and medicines."], "src": "iwb"}
+{"w": "myrrhine", "pos": "adjective", "d": ["Of or resembling myrrh; made of myrrh."], "src": "iwb"}
+{"w": "myrtaceous", "pos": "adjective", "d": ["Belonging to the myrtle family of plants, the Myrtaceae."], "src": "iwb"}
+{"w": "myrtiform", "pos": "adjective", "d": ["Shaped like a myrtle leaf or berry."], "src": "iwb"}
+{"w": "myselven", "pos": "pronoun", "d": ["An obsolete form of myself."], "src": "iwb"}
+{"w": "mysis", "pos": "noun", "d": ["A genus of small shrimplike crustaceans, the opossum shrimps.", "The late larval stage of certain shrimps and prawns."], "src": "iwb"}
+{"w": "mystacal", "pos": "adjective", "d": ["Pertaining to the mystax, the upper lip or mustache region of a mammal."], "src": "iwb"}
+{"w": "mystagogic", "pos": "adjective", "d": ["Relating to a mystagogue or to initiation into sacred mysteries."], "src": "iwb"}
+{"w": "mystagogue", "pos": "noun", "d": ["One who initiates others into sacred mysteries; a spiritual guide in hidden doctrines."], "src": "iwb"}
+{"w": "mystagogy", "pos": "noun", "d": ["Instruction in the sacred mysteries; the mystical interpretation of religious rites."], "src": "iwb"}
+{"w": "mysteriarch", "pos": "noun", "d": ["A chief ruler or high officer of sacred mysteries."], "src": "iwb"}
+{"w": "mysterize", "pos": "verb", "d": ["To make mysterious; to wrap in mystery."], "src": "iwb"}
+{"w": "mystic", "pos": "noun", "d": ["A person devoted to seeking direct spiritual union with the divine through contemplation."], "src": "iwb"}
+{"w": "mysticete", "pos": "noun", "d": ["A baleen whale; any member of the suborder Mysticeti."], "src": "iwb"}
+{"w": "mystification", "pos": "noun", "d": ["The act of mystifying; deliberate obscuring or puzzling.", "A state of bewilderment or perplexity."], "src": "iwb"}
+{"w": "mystificator", "pos": "noun", "d": ["One who mystifies; a person who deliberately confounds or obscures."], "src": "iwb"}
+{"w": "mystify", "pos": "verb", "d": ["To puzzle or bewilder; to make obscure or hard to understand."], "src": "iwb"}
+{"w": "mytacism", "pos": "noun", "d": ["An excessive or faulty use of the sound of the letter m in speech."], "src": "iwb"}
+{"w": "mythe", "pos": "noun", "d": ["An obsolete spelling of myth."], "src": "iwb"}
+{"w": "mythographer", "pos": "noun", "d": ["A writer about myths; one who collects or explains myths."], "src": "iwb"}
+{"w": "mythologer", "pos": "noun", "d": ["One versed in mythology; a student of myths."], "src": "iwb"}
+{"w": "mythologian", "pos": "noun", "d": ["A writer on or student of mythology."], "src": "iwb"}
+{"w": "mythologic", "pos": "adjective", "d": ["Pertaining to mythology; mythological."], "src": "iwb"}
+{"w": "mythologist", "pos": "noun", "d": ["One who studies myths; an expert in mythology."], "src": "iwb"}
+{"w": "mythologize", "pos": "verb", "d": ["To turn into myth; to treat or explain by means of mythology."], "src": "iwb"}
+{"w": "mythologue", "pos": "noun", "d": ["A discourse upon myths; a collection of myths."], "src": "iwb"}
+{"w": "mythoplasm", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "mythopoeic", "pos": "adjective", "d": ["Making or producing myths; myth-making."], "src": "iwb"}
+{"w": "mythopoetic", "pos": "adjective", "d": ["Of or relating to the making of myths."], "src": "iwb"}
+{"w": "mytiloid", "pos": "adjective", "d": ["Resembling a mussel of the genus Mytilus."], "src": "iwb"}
+{"w": "mytilotoxine", "pos": "noun", "d": ["A poisonous substance sometimes present in mussels."], "src": "iwb"}
+{"w": "mytilus", "pos": "noun", "d": ["A genus of marine bivalve mollusks including the common edible mussel."], "src": "iwb"}
+{"w": "myxa", "pos": "noun", "d": ["Mucus, especially nasal mucus."], "src": "iwb"}
+{"w": "myxine", "pos": "noun", "d": ["A genus of hagfishes, the slime eels."], "src": "iwb"}
+{"w": "myxinoid", "pos": "adjective", "d": ["Resembling a hagfish; belonging to the hagfish group."], "src": "iwb"}
+{"w": "myxocystodea", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myxoedema", "pos": "noun", "d": ["A condition of thickened, dry, waxy skin caused by an underactive thyroid gland."], "src": "iwb"}
+{"w": "myxoma", "pos": "noun", "d": ["A benign tumor made of mucous or gelatinous connective tissue."], "src": "iwb"}
+{"w": "myxomycetes", "pos": "noun", "d": ["The slime molds; a group of funguslike organisms that creep as plasmodia."], "src": "iwb"}
+{"w": "myxophyta", "pos": "noun", "d": ["A division of algae including the blue-green algae."], "src": "iwb"}
+{"w": "myxopod", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "myzontes", "pos": "noun", "d": ["An old zoological name for the suctorial fishes, the lampreys and hagfishes."], "src": "iwb"}
+{"w": "myzostomata", "pos": "noun", "d": ["An order of small parasitic worms that live on feather stars and other crinoids."], "src": "iwb"}
+{"w": "nab", "pos": "verb", "d": ["To seize or catch suddenly; to arrest."], "src": "iwb"}
+{"w": "nabit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nabk", "pos": "noun", "d": ["A thorny African shrub of the genus Ziziphus; also its small edible fruit."], "src": "iwb"}
+{"w": "nabob", "pos": "noun", "d": ["A very wealthy or powerful person, especially one returned from the East Indies with a fortune."], "src": "iwb"}
+{"w": "nacarat", "pos": "noun", "d": ["A bright orange-red color; also a fabric of that color."], "src": "iwb"}
+{"w": "nacelle", "pos": "noun", "d": ["The streamlined housing of an aircraft engine; also the gondola of a balloon or airship."], "src": "iwb"}
+{"w": "nacker", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nacre", "pos": "noun", "d": ["Mother-of-pearl; the hard iridescent inner layer of certain shells."], "src": "iwb"}
+{"w": "nad", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nadde", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nadir", "pos": "noun", "d": ["The point of the sky directly beneath the observer, opposite the zenith.", "The lowest point of anything."], "src": "iwb"}
+{"w": "naenia", "pos": "noun", "d": ["A Roman funeral dirge or lament."], "src": "iwb"}
+{"w": "naeve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "naevoid", "pos": "adjective", "d": ["Resembling a naevus; like a birthmark or mole."], "src": "iwb"}
+{"w": "naevose", "pos": "adjective", "d": ["Marked with naevi; full of moles or birthmarks."], "src": "iwb"}
+{"w": "naevus", "pos": "noun", "d": ["A birthmark or mole; a congenital spot or discoloration of the skin."], "src": "iwb"}
+{"w": "nag", "pos": "verb", "d": ["To scold or find fault with persistently."], "src": "iwb"}
+{"w": "naggy", "pos": "adjective", "d": ["Given to nagging; constantly scolding."], "src": "iwb"}
+{"w": "nagor", "pos": "noun", "d": ["An African antelope of the reedbuck group."], "src": "iwb"}
+{"w": "nagyagite", "pos": "noun", "d": ["A rare mineral composed of lead, gold, and tellurium."], "src": "iwb"}
+{"w": "naiad", "pos": "noun", "d": ["A water nymph in Greek mythology.", "The aquatic larva of certain insects such as dragonflies."], "src": "iwb"}
+{"w": "naiant", "pos": "adjective", "d": ["Swimming, as a fish shown swimming in heraldry."], "src": "iwb"}
+{"w": "naid", "pos": "noun", "d": ["A minute freshwater worm of the family Naididae."], "src": "iwb"}
+{"w": "naif", "pos": "adjective", "d": ["Showing artless simplicity; naive."], "src": "iwb"}
+{"w": "naik", "pos": "noun", "d": ["A corporal in the armies of India; a leader of ten men."], "src": "iwb"}
+{"w": "nail-headed", "pos": "adjective", "d": ["Shaped like the head of a nail."], "src": "iwb"}
+{"w": "naileress", "pos": "noun", "d": ["A woman who makes nails."], "src": "iwb"}
+{"w": "nailery", "pos": "noun", "d": ["A workshop or factory where nails are made."], "src": "iwb"}
+{"w": "nainsook", "pos": "noun", "d": ["A fine, soft, plain-woven cotton muslin."], "src": "iwb"}
+{"w": "nais", "pos": "noun", "d": ["A genus of minute freshwater worms, the type genus of the Naididae."], "src": "iwb"}
+{"w": "naissant", "pos": "adjective", "d": ["Coming into being; just beginning to exist; nascent."], "src": "iwb"}
+{"w": "naive", "pos": "adjective", "d": ["Lacking worldly experience or sophistication; innocently simple."], "src": "iwb"}
+{"w": "naivete", "pos": "noun", "d": ["The quality of being naive; artless simplicity."], "src": "iwb"}
+{"w": "naivety", "pos": "noun", "d": ["The state or quality of being naive."], "src": "iwb"}
+{"w": "nake", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nakoo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nale", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nall", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "namaycush", "pos": "noun", "d": ["The lake trout of North America."], "src": "iwb"}
+{"w": "namby-pamby", "pos": "adjective", "d": ["Weakly sentimental; feebly pretty and insipid."], "src": "iwb"}
+{"w": "namo", "pos": "noun", "d": ["A Sanskrit word of reverence meaning homage or obeisance, used in sacred formulas."], "src": "iwb"}
+{"w": "nan", "pos": "noun", "d": ["A grandmother.", "A leavened flatbread of South and Central Asia."], "src": "iwb"}
+{"w": "nandou", "pos": "noun", "d": ["The rhea, a large flightless South American bird."], "src": "iwb"}
+{"w": "nandu", "pos": "noun", "d": ["A large flightless South American bird, the rhea."], "src": "iwb"}
+{"w": "nanny", "pos": "noun", "d": ["A woman employed to care for young children."], "src": "iwb"}
+{"w": "naos", "pos": "noun", "d": ["The inner sanctuary of a Greek temple.", "The main body or nave of a church."], "src": "iwb"}
+{"w": "nap", "pos": "noun", "d": ["A short sleep, usually taken in the daytime.", "The soft fuzzy surface of cloth or leather."], "src": "iwb"}
+{"w": "nap-taking", "pos": "noun", "d": ["The act or habit of taking naps."], "src": "iwb"}
+{"w": "nape", "pos": "noun", "d": ["The back of the neck."], "src": "iwb"}
+{"w": "nape-crest", "pos": "noun", "d": ["A crest of feathers growing on the nape, or back of the neck, of a bird."], "src": "iwb"}
+{"w": "naperian", "pos": "adjective", "d": ["Pertaining to John Napier, the inventor of logarithms; Napierian."], "src": "iwb"}
+{"w": "napery", "pos": "noun", "d": ["Table linen; linen cloths for the table."], "src": "iwb"}
+{"w": "napha water", "pos": "noun", "d": ["Orange-flower water; a fragrant water distilled from orange blossoms."], "src": "iwb"}
+{"w": "naphtha", "pos": "noun", "d": ["A volatile, flammable liquid distilled from petroleum, coal tar, or shale."], "src": "iwb"}
+{"w": "naphthalenic", "pos": "adjective", "d": ["Pertaining to naphthalene."], "src": "iwb"}
+{"w": "naphthalic", "pos": "adjective", "d": ["Of or derived from naphthalic acid."], "src": "iwb"}
+{"w": "naphthalidine", "pos": "noun", "d": ["A crystalline amine obtained from naphthalene."], "src": "iwb"}
+{"w": "naphthalize", "pos": "verb", "d": ["To treat or impregnate with naphthalene."], "src": "iwb"}
+{"w": "naphthazarin", "pos": "noun", "d": ["A crystalline compound derived from naphthalene, used in making dyes."], "src": "iwb"}
+{"w": "naphthene", "pos": "noun", "d": ["Any of a class of cyclic saturated hydrocarbons occurring in petroleum."], "src": "iwb"}
+{"w": "naphthide", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "naphthoic", "pos": "adjective", "d": ["Pertaining to naphthoic acid."], "src": "iwb"}
+{"w": "naphthol", "pos": "noun", "d": ["A phenolic compound derived from naphthalene, much used in making dyes."], "src": "iwb"}
+{"w": "naphthoquinone", "pos": "noun", "d": ["A quinone derived from naphthalene; the chemical basis of vitamin K compounds."], "src": "iwb"}
+{"w": "naphthyl", "pos": "noun", "d": ["A univalent chemical radical derived from naphthalene."], "src": "iwb"}
+{"w": "napierian", "pos": "adjective", "d": ["Pertaining to John Napier; relating to Napierian logarithms."], "src": "iwb"}
+{"w": "napiform", "pos": "adjective", "d": ["Turnip-shaped; round and tapering like a turnip."], "src": "iwb"}
+{"w": "naples yellow", "pos": "noun", "d": ["A bright opaque yellow pigment made of lead antimonate."], "src": "iwb"}
+{"w": "napoleon", "pos": "noun", "d": ["A former French gold coin.", "A card game for two or more players.", "A rich layered pastry with cream filling."], "src": "iwb"}
+{"w": "nappe", "pos": "noun", "d": ["In geology, a great sheet of rock thrust sideways over other rocks.", "A tablecloth."], "src": "iwb"}
+{"w": "nappiness", "pos": "noun", "d": ["The quality of being nappy; fuzziness."], "src": "iwb"}
+{"w": "nappy", "pos": "adjective", "d": ["Having a fuzzy or downy surface."], "src": "iwb"}
+{"w": "napu", "pos": "noun", "d": ["A small deerlike animal of Southeast Asia; the larger chevrotain or mouse-deer."], "src": "iwb"}
+{"w": "narceine", "pos": "noun", "d": ["A bitter crystalline alkaloid found in opium."], "src": "iwb"}
+{"w": "narcissine", "pos": "noun", "d": ["A poisonous alkaloid obtained from the bulbs of the narcissus."], "src": "iwb"}
+{"w": "narcissus", "pos": "noun", "d": ["A genus of spring-flowering bulbs including daffodils and jonquils.", "In Greek myth, a youth who fell in love with his own reflection."], "src": "iwb"}
+{"w": "narcosis", "pos": "noun", "d": ["A state of stupor or unconsciousness produced by a narcotic drug."], "src": "iwb"}
+{"w": "narcotic", "pos": "noun", "d": ["A drug that dulls pain and induces sleep, stupor, or insensibility."], "src": "iwb"}
+{"w": "narcotine", "pos": "noun", "d": ["A crystalline alkaloid of opium, also called noscapine."], "src": "iwb"}
+{"w": "narcotinic", "pos": "adjective", "d": ["Pertaining to narcotine."], "src": "iwb"}
+{"w": "narcotism", "pos": "noun", "d": ["The effect of narcotics; a state of narcotic stupor or the habit of using narcotics."], "src": "iwb"}
+{"w": "narcotize", "pos": "verb", "d": ["To put under the influence of a narcotic; to stupefy with a drug."], "src": "iwb"}
+{"w": "nard", "pos": "noun", "d": ["An aromatic Himalayan plant; also its fragrant oil, spikenard."], "src": "iwb"}
+{"w": "nardine", "pos": "adjective", "d": ["Of or like nard; made of spikenard."], "src": "iwb"}
+{"w": "nardoo", "pos": "noun", "d": ["An Australian water fern whose seedlike fruits are ground into food."], "src": "iwb"}
+{"w": "nare", "pos": "noun", "d": ["A nostril."], "src": "iwb"}
+{"w": "nargile", "pos": "noun", "d": ["An Oriental water pipe, the hookah, in which smoke passes through water."], "src": "iwb"}
+{"w": "nargileh", "pos": "noun", "d": ["A variant spelling of nargile; a hookah or water pipe."], "src": "iwb"}
+{"w": "narica", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nariform", "pos": "adjective", "d": ["Shaped like a nostril."], "src": "iwb"}
+{"w": "narine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "narragansetts", "pos": "noun", "d": ["A historic Indigenous people of Rhode Island.", "A breed of pacing horse developed in colonial New England."], "src": "iwb"}
+{"w": "narrate", "pos": "verb", "d": ["To tell a story; to give a spoken or written account of events."], "src": "iwb"}
+{"w": "narration", "pos": "noun", "d": ["The act of narrating; the telling of a story.", "A narrative account or story."], "src": "iwb"}
+{"w": "narrator", "pos": "noun", "d": ["One who narrates; the teller of a story."], "src": "iwb"}
+{"w": "narratory", "pos": "adjective", "d": ["Pertaining to narration; narrative in character."], "src": "iwb"}
+{"w": "narre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "narrow-minded", "pos": "adjective", "d": ["Unwilling to consider new or different ideas; prejudiced and intolerant."], "src": "iwb"}
+{"w": "nart", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "narthex", "pos": "noun", "d": ["The vestibule or entrance hall at the west end of a church."], "src": "iwb"}
+{"w": "narwal", "pos": "noun", "d": ["A variant spelling of narwhal, the Arctic tusked whale."], "src": "iwb"}
+{"w": "narwe", "pos": "adjective", "d": ["An obsolete spelling of narrow."], "src": "iwb"}
+{"w": "narwhal", "pos": "noun", "d": ["An Arctic whale whose male bears a long spiral tusk."], "src": "iwb"}
+{"w": "nas", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nasalization", "pos": "noun", "d": ["The act of making nasal; pronunciation of a sound through the nose."], "src": "iwb"}
+{"w": "nascency", "pos": "noun", "d": ["The state of being nascent; the time of birth or origin."], "src": "iwb"}
+{"w": "naseberry", "pos": "noun", "d": ["A sweet tropical fruit; the sapodilla."], "src": "iwb"}
+{"w": "nash", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nasicornous", "pos": "adjective", "d": ["Bearing a horn on the nose, as the rhinoceros."], "src": "iwb"}
+{"w": "nasiform", "pos": "adjective", "d": ["Shaped like a nose."], "src": "iwb"}
+{"w": "naso-", "pos": "prefix", "d": ["A prefix meaning nose or of the nose, as in nasal."], "src": "iwb"}
+{"w": "nasobuccal", "pos": "adjective", "d": ["Pertaining to the nose and the mouth."], "src": "iwb"}
+{"w": "nasofrontal", "pos": "adjective", "d": ["Pertaining to the nose and the forehead."], "src": "iwb"}
+{"w": "nasolachrymal", "pos": "adjective", "d": ["Pertaining to the nose and the tear ducts."], "src": "iwb"}
+{"w": "nasopalatal", "pos": "adjective", "d": ["Pertaining to the nose and the palate."], "src": "iwb"}
+{"w": "nasopalatine", "pos": "adjective", "d": ["Pertaining to the nose and the palate."], "src": "iwb"}
+{"w": "nasopharyngeal", "pos": "adjective", "d": ["Pertaining to the nose and the pharynx."], "src": "iwb"}
+{"w": "nasoseptal", "pos": "adjective", "d": ["Pertaining to the nasal septum."], "src": "iwb"}
+{"w": "nasoturbinal", "pos": "adjective", "d": ["Pertaining to the nasal turbinate bones."], "src": "iwb"}
+{"w": "nassa", "pos": "noun", "d": ["A genus of small marine snails, the basket or dog whelks."], "src": "iwb"}
+{"w": "nastily", "pos": "adverb", "d": ["In a nasty manner; unpleasantly or spitefully."], "src": "iwb"}
+{"w": "nastiness", "pos": "noun", "d": ["The quality or state of being nasty."], "src": "iwb"}
+{"w": "nasturtion", "pos": "noun", "d": ["An old botanical name for watercress and related plants."], "src": "iwb"}
+{"w": "nasturtium", "pos": "noun", "d": ["A garden plant with round leaves and bright trumpet-shaped flowers."], "src": "iwb"}
+{"w": "nasute", "pos": "adjective", "d": ["Having a large or long nose."], "src": "iwb"}
+{"w": "nasutness", "pos": "noun", "d": ["The quality of being nasute; largeness or length of nose."], "src": "iwb"}
+{"w": "natal boil", "pos": "phrase", "d": ["A painful tropical boil or skin sore occurring in hot climates."], "src": "iwb"}
+{"w": "natal plum", "pos": "noun", "d": ["An evergreen South African shrub with fragrant white flowers and edible red fruit; also the fruit itself."], "src": "iwb"}
+{"w": "natalitial", "pos": "adjective", "d": ["Of or relating to birth or a birthday."], "src": "iwb"}
+{"w": "natalitious", "pos": "adjective", "d": ["Of or pertaining to birth; natal."], "src": "iwb"}
+{"w": "natatores", "pos": "noun", "d": ["Swimming birds; an old zoological order of aquatic birds."], "src": "iwb"}
+{"w": "natatorium", "pos": "noun", "d": ["An indoor swimming pool; a building containing a swimming pool."], "src": "iwb"}
+{"w": "natatory", "pos": "adjective", "d": ["Adapted for swimming; pertaining to swimming."], "src": "iwb"}
+{"w": "natch", "pos": "verb", "d": ["To cut small V-shaped notches into something."], "src": "iwb"}
+{"w": "natchez", "pos": "noun", "d": ["A Native American people who lived along the lower Mississippi River in what is now Mississippi.", "A city on the Mississippi River in western Mississippi."], "src": "iwb"}
+{"w": "nath", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "natica", "pos": "noun", "d": ["A genus of sea snails known as moon snails, with smooth rounded shells."], "src": "iwb"}
+{"w": "naticoid", "pos": "adjective", "d": ["Resembling or related to moon snails of the genus Natica."], "src": "iwb"}
+{"w": "nationalization", "pos": "noun", "d": ["The act of placing a business or industry under government ownership and control.", "The granting of citizenship to a foreigner; naturalization."], "src": "iwb"}
+{"w": "native steel", "pos": "noun", "d": ["Steel made directly in a single heating from iron, rather than converted from iron afterward."], "src": "iwb"}
+{"w": "nativism", "pos": "noun", "d": ["A policy of favoring native-born inhabitants over immigrants.", "The theory that some ideas or abilities are inborn rather than learned."], "src": "iwb"}
+{"w": "nativist", "pos": "noun", "d": ["One who favors the interests of native-born people over immigrants."], "src": "iwb"}
+{"w": "nativity", "pos": "noun", "d": ["The birth of a person, especially one celebrated or notable.", "The birth of Jesus Christ, celebrated at Christmas."], "src": "iwb"}
+{"w": "natka", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "natrium", "pos": "noun", "d": ["Sodium, the soft metallic chemical element with symbol Na."], "src": "iwb"}
+{"w": "natrolite", "pos": "noun", "d": ["A white or colorless zeolite mineral often found in slender needle-like crystals."], "src": "iwb"}
+{"w": "natron", "pos": "noun", "d": ["A natural mineral salt made mostly of hydrated sodium carbonate, once used in mummification and glassmaking."], "src": "iwb"}
+{"w": "natty", "pos": "adjective", "d": ["Neat, tidy, and smartly dressed."], "src": "iwb"}
+{"w": "natural steel", "pos": "noun", "d": ["Steel made directly from iron in a single process, without a separate conversion step."], "src": "iwb"}
+{"w": "naturalization", "pos": "noun", "d": ["The legal process by which a foreign citizen becomes a citizen of a country."], "src": "iwb"}
+{"w": "naturism", "pos": "noun", "d": ["The practice of going nude in social settings, especially at beaches and resorts.", "The doctrine that nature is all that exists."], "src": "iwb"}
+{"w": "naturist", "pos": "noun", "d": ["One who practices naturism; a nudist."], "src": "iwb"}
+{"w": "naturity", "pos": "noun", "d": ["The quality or state of being produced by nature; naturalness."], "src": "iwb"}
+{"w": "naturize", "pos": "verb", "d": ["To grant the rights of a native to; to naturalize."], "src": "iwb"}
+{"w": "naufrage", "pos": "noun", "d": ["A shipwreck; ruin by wreck at sea."], "src": "iwb"}
+{"w": "naufragous", "pos": "adjective", "d": ["Causing shipwreck; wreck-producing."], "src": "iwb"}
+{"w": "naught", "pos": "noun", "d": ["Nothing; zero.", "Ruin or failure, as in to come to naught."], "src": "iwb"}
+{"w": "naughtily", "pos": "adverb", "d": ["In a mischievous or disobedient way."], "src": "iwb"}
+{"w": "naughtiness", "pos": "noun", "d": ["The quality or behavior of being naughty; mischievous disobedience."], "src": "iwb"}
+{"w": "nauheim bath", "pos": "noun", "d": ["A therapeutic bath in warm carbonated mineral water, first used at Bad Nauheim, Germany, for heart conditions."], "src": "iwb"}
+{"w": "nauheim treatment", "pos": "noun", "d": ["A heart treatment combining carbonated mineral baths with graded exercise, developed at Bad Nauheim, Germany."], "src": "iwb"}
+{"w": "naumachy", "pos": "noun", "d": ["A mock naval battle staged as a public spectacle in ancient Rome.", "The basin or place where such a spectacle was held."], "src": "iwb"}
+{"w": "nauplius", "pos": "noun", "d": ["The first free-swimming larval stage of many crustaceans, with one simple eye and three pairs of limbs."], "src": "iwb"}
+{"w": "nauropometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nauscopy", "pos": "noun", "d": ["The art of sighting or discovering ships at great distances."], "src": "iwb"}
+{"w": "nausea", "pos": "noun", "d": ["A sick feeling in the stomach with an urge to vomit.", "A feeling of disgust or revulsion."], "src": "iwb"}
+{"w": "nauseant", "pos": "noun", "d": ["A substance that causes nausea."], "src": "iwb"}
+{"w": "nauseate", "pos": "verb", "d": ["To cause nausea or a sick feeling in.", "To feel disgust; to be sickened."], "src": "iwb"}
+{"w": "nauseative", "pos": "adjective", "d": ["Causing nausea; sickening."], "src": "iwb"}
+{"w": "nauseous", "pos": "adjective", "d": ["Feeling sick to the stomach.", "Causing nausea; disgusting."], "src": "iwb"}
+{"w": "nautch", "pos": "noun", "d": ["A dance performance by professional dancing girls in India.", "A professional dancing girl in India."], "src": "iwb"}
+{"w": "nautic", "pos": "adjective", "d": ["Of or relating to ships or sailing; nautical."], "src": "iwb"}
+{"w": "nautiform", "pos": "adjective", "d": ["Shaped like a boat."], "src": "iwb"}
+{"w": "nautilite", "pos": "noun", "d": ["A fossil nautilus or related coiled cephalopod shell."], "src": "iwb"}
+{"w": "nautiloid", "pos": "noun", "d": ["A cephalopod mollusk related to the nautilus, especially a fossil one."], "src": "iwb"}
+{"w": "nautilus", "pos": "noun", "d": ["A marine cephalopod with a coiled, chambered shell."], "src": "iwb"}
+{"w": "navajoes", "pos": "noun", "d": ["Plural of Navajo; the Navajo people."], "src": "iwb"}
+{"w": "navarch", "pos": "noun", "d": ["The commander of a fleet, especially in ancient Greece."], "src": "iwb"}
+{"w": "navarchy", "pos": "noun", "d": ["The office or command of a navarch; command of a fleet."], "src": "iwb"}
+{"w": "navarrese", "pos": "adjective", "d": ["Of or relating to Navarre, a region of northern Spain."], "src": "iwb"}
+{"w": "nave", "pos": "noun", "d": ["The long central part of a church where the congregation sits.", "The hub of a wheel."], "src": "iwb"}
+{"w": "navel", "pos": "noun", "d": ["The small pit in the middle of the belly where the umbilical cord was attached.", "The central point of something."], "src": "iwb"}
+{"w": "navel orange", "pos": "noun", "d": ["A seedless variety of sweet orange with a navel-like formation at the blossom end."], "src": "iwb"}
+{"w": "navel-string", "pos": "noun", "d": ["The umbilical cord."], "src": "iwb"}
+{"w": "navew", "pos": "noun", "d": ["A variety of turnip with a flattened root."], "src": "iwb"}
+{"w": "navicular", "pos": "adjective", "d": ["Boat-shaped, as certain bones of the wrist and foot."], "src": "iwb"}
+{"w": "navigability", "pos": "noun", "d": ["The quality of being navigable; fitness for travel by ships or boats."], "src": "iwb"}
+{"w": "navigable", "pos": "adjective", "d": ["Deep and wide enough for ships or boats to travel on.", "Able to be steered or guided."], "src": "iwb"}
+{"w": "navigerous", "pos": "adjective", "d": ["Bearing ships; capable of carrying vessels."], "src": "iwb"}
+{"w": "navvy", "pos": "noun", "d": ["A laborer on large construction works such as railways and canals, especially in Britain."], "src": "iwb"}
+{"w": "navy blue", "pos": "noun", "d": ["A very dark blue, like the color of naval uniforms."], "src": "iwb"}
+{"w": "nawab", "pos": "noun", "d": ["A title of a Muslim prince or governor in India, ranking below a nizam."], "src": "iwb"}
+{"w": "nawl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nay", "pos": "adverb", "d": ["No; a word expressing denial or refusal.", "Not only that but even, as in difficult, nay impossible."], "src": "iwb"}
+{"w": "nayaur", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nayt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nazarene", "pos": "noun", "d": ["A native or inhabitant of Nazareth.", "A follower of Jesus of Nazareth; a Christian."], "src": "iwb"}
+{"w": "nazarite", "pos": "noun", "d": ["An Israelite who took a vow of consecration, abstaining from wine and never cutting the hair."], "src": "iwb"}
+{"w": "nazaritic", "pos": "adjective", "d": ["Of or relating to the Nazarites or their vows."], "src": "iwb"}
+{"w": "nazaritism", "pos": "noun", "d": ["The vow or practice of a Nazarite; the Nazarite system."], "src": "iwb"}
+{"w": "naze", "pos": "noun", "d": ["A headland or promontory; a cape."], "src": "iwb"}
+{"w": "nazirite", "pos": "noun", "d": ["A variant spelling of Nazarite."], "src": "iwb"}
+{"w": "ne exeat", "pos": "phrase", "d": ["A writ of equity restraining a person from leaving the jurisdiction of the court."], "src": "iwb"}
+{"w": "ne plus ultra", "pos": "phrase", "d": ["The highest point of excellence; something that cannot be surpassed."], "src": "iwb"}
+{"w": "ne temere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neaf", "pos": "noun", "d": ["The fist; a clenched hand."], "src": "iwb"}
+{"w": "neal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neanderthal", "pos": "noun", "d": ["An extinct early human species that lived in Europe and Asia before modern humans.", "A crude or brutish person."], "src": "iwb"}
+{"w": "neanderthal man", "pos": "noun", "d": ["The Neanderthal species of early human."], "src": "iwb"}
+{"w": "neanderthal race", "pos": "noun", "d": ["The Neanderthal people as a group; the Neanderthal species."], "src": "iwb"}
+{"w": "neanderthaloid", "pos": "adjective", "d": ["Resembling a Neanderthal; having Neanderthal characteristics."], "src": "iwb"}
+{"w": "neap", "pos": "noun", "d": ["A neap tide; the tide of smallest range, occurring near the first and third quarters of the moon."], "src": "iwb"}
+{"w": "neapolitan", "pos": "adjective", "d": ["Of or relating to Naples, Italy."], "src": "iwb"}
+{"w": "neapolitan ice", "pos": "noun", "d": ["A brick of ice cream made of layers of different flavors."], "src": "iwb"}
+{"w": "neapolitan ice cream", "pos": "noun", "d": ["Ice cream made of three or more flavors in distinct layers."], "src": "iwb"}
+{"w": "near beer", "pos": "noun", "d": ["A malt beverage resembling beer but containing little or no alcohol."], "src": "iwb"}
+{"w": "near-legged", "pos": "adjective", "d": ["Having the legs so close together that the feet interfere in walking, as of a horse."], "src": "iwb"}
+{"w": "nearctic", "pos": "adjective", "d": ["Of the zoogeographic region comprising North America and Greenland."], "src": "iwb"}
+{"w": "neat", "pos": "adjective", "d": ["Tidy, clean, and orderly.", "Skillfully done; clever."], "src": "iwb"}
+{"w": "neatress", "pos": "noun", "d": ["A female bovine; a cow."], "src": "iwb"}
+{"w": "neb", "pos": "noun", "d": ["The beak or bill of a bird.", "The nib of a pen."], "src": "iwb"}
+{"w": "neb-neb", "pos": "noun", "d": ["The seed pods of the Egyptian acacia, used in tanning leather."], "src": "iwb"}
+{"w": "nebalia", "pos": "noun", "d": ["A genus of small marine crustaceans with a shell like two valves."], "src": "iwb"}
+{"w": "nebula", "pos": "noun", "d": ["A cloud of gas and dust in space, sometimes seen as a glowing patch.", "A cloudy spot, as on the cornea of the eye."], "src": "iwb"}
+{"w": "nebular", "pos": "adjective", "d": ["Of or relating to nebulae; like a nebula."], "src": "iwb"}
+{"w": "nebulization", "pos": "noun", "d": ["The process of converting a liquid into a fine spray or mist."], "src": "iwb"}
+{"w": "nebulize", "pos": "verb", "d": ["To reduce to a fine spray; to atomize."], "src": "iwb"}
+{"w": "nebulose", "pos": "adjective", "d": ["Cloudy or misty; like a nebula."], "src": "iwb"}
+{"w": "nebulosity", "pos": "noun", "d": ["The state of being nebulous; cloudiness.", "A nebula; a nebulous mass."], "src": "iwb"}
+{"w": "nebulous", "pos": "adjective", "d": ["Cloudy or hazy; indistinct.", "Vague and unclear."], "src": "iwb"}
+{"w": "nebuly", "pos": "adjective", "d": ["Wavy or cloud-like, as a heraldic line of division."], "src": "iwb"}
+{"w": "necessarian", "pos": "noun", "d": ["One who holds that human actions are determined by necessity."], "src": "iwb"}
+{"w": "necessariness", "pos": "noun", "d": ["The quality or state of being necessary."], "src": "iwb"}
+{"w": "necessitarian", "pos": "noun", "d": ["One who holds the philosophical doctrine that all events happen by necessity."], "src": "iwb"}
+{"w": "necessitate", "pos": "verb", "d": ["To make necessary; to require as unavoidable."], "src": "iwb"}
+{"w": "necessitattion", "pos": "noun", "d": ["An obsolete variant spelling of necessitation; the act of making necessary."], "src": "iwb"}
+{"w": "necessitous", "pos": "adjective", "d": ["In need; very poor; destitute."], "src": "iwb"}
+{"w": "necessitude", "pos": "noun", "d": ["The state of being in need; want; poverty."], "src": "iwb"}
+{"w": "neckar nut", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neckerchief", "pos": "noun", "d": ["A square of cloth worn around the neck."], "src": "iwb"}
+{"w": "necrobiosis", "pos": "noun", "d": ["The death of cells or tissues within a living organism."], "src": "iwb"}
+{"w": "necrobiotic", "pos": "adjective", "d": ["Of or relating to necrobiosis."], "src": "iwb"}
+{"w": "necrolatry", "pos": "noun", "d": ["The worship of the dead."], "src": "iwb"}
+{"w": "necrolite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "necrologic", "pos": "adjective", "d": ["Of or relating to necrology; recording deaths."], "src": "iwb"}
+{"w": "necrologist", "pos": "noun", "d": ["One who writes obituaries or a necrology."], "src": "iwb"}
+{"w": "necrology", "pos": "noun", "d": ["A list or record of people who have died; obituaries collectively."], "src": "iwb"}
+{"w": "necromancer", "pos": "noun", "d": ["One who practices necromancy; a sorcerer."], "src": "iwb"}
+{"w": "necromancy", "pos": "noun", "d": ["The supposed art of communicating with the dead to foretell the future.", "Magic or sorcery in general."], "src": "iwb"}
+{"w": "necromantic", "pos": "adjective", "d": ["Of or relating to necromancy."], "src": "iwb"}
+{"w": "necronite", "pos": "noun", "d": ["A variety of orthoclase feldspar, a mineral."], "src": "iwb"}
+{"w": "necrophagan", "pos": "noun", "d": ["An animal or person that feeds on dead bodies; a carrion feeder."], "src": "iwb"}
+{"w": "necrophagous", "pos": "adjective", "d": ["Feeding on carrion or dead bodies."], "src": "iwb"}
+{"w": "necrophobia", "pos": "noun", "d": ["An abnormal fear of corpses or death."], "src": "iwb"}
+{"w": "necrophore", "pos": "noun", "d": ["A burying beetle that inters small dead animals to feed its young."], "src": "iwb"}
+{"w": "necropolis", "pos": "noun", "d": ["A large cemetery or burial ground, especially of an ancient city."], "src": "iwb"}
+{"w": "necropsy", "pos": "noun", "d": ["The examination of a dead body to determine the cause of death; an autopsy."], "src": "iwb"}
+{"w": "necroscopic", "pos": "adjective", "d": ["Of or relating to a necropsy."], "src": "iwb"}
+{"w": "necrose", "pos": "verb", "d": ["To undergo necrosis; to die off while part of a living body."], "src": "iwb"}
+{"w": "necrosis", "pos": "noun", "d": ["The death of cells or tissue in a living organism."], "src": "iwb"}
+{"w": "necrotic", "pos": "adjective", "d": ["Affected by or relating to necrosis; dead or dying tissue."], "src": "iwb"}
+{"w": "necrotomy", "pos": "noun", "d": ["The dissection of a dead body; a post-mortem examination."], "src": "iwb"}
+{"w": "nectar", "pos": "noun", "d": ["The sweet liquid secreted by flowers to attract pollinators.", "The drink of the gods in Greek mythology."], "src": "iwb"}
+{"w": "nectareal", "pos": "adjective", "d": ["Of or resembling nectar; sweet as nectar."], "src": "iwb"}
+{"w": "nectareous", "pos": "adjective", "d": ["Sweet like nectar; very sweet."], "src": "iwb"}
+{"w": "nectariferous", "pos": "adjective", "d": ["Bearing or producing nectar."], "src": "iwb"}
+{"w": "nectarine", "pos": "noun", "d": ["A smooth-skinned variety of peach."], "src": "iwb"}
+{"w": "nectary", "pos": "noun", "d": ["The part of a flower that secretes nectar."], "src": "iwb"}
+{"w": "nectocalyx", "pos": "noun", "d": ["The swimming bell of certain colonial jellyfish-like marine animals."], "src": "iwb"}
+{"w": "nectosac", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nectosack", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nectostem", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nedder", "pos": "noun", "d": ["A dialectal form of adder; a venomous snake."], "src": "iwb"}
+{"w": "neddy", "pos": "noun", "d": ["A donkey; an ass."], "src": "iwb"}
+{"w": "nee", "pos": "adjective", "d": ["Born with the surname of; used for a married woman's maiden name."], "src": "iwb"}
+{"w": "needily", "pos": "adverb", "d": ["In a needy manner; with great need."], "src": "iwb"}
+{"w": "neediness", "pos": "noun", "d": ["The state of being needy; great need or poverty."], "src": "iwb"}
+{"w": "needle-pointed", "pos": "adjective", "d": ["Having a sharp point like a needle."], "src": "iwb"}
+{"w": "needy", "pos": "adjective", "d": ["Very poor; in great need.", "Overly dependent on attention or affection."], "src": "iwb"}
+{"w": "neeld", "pos": "noun", "d": ["An archaic spelling of needle."], "src": "iwb"}
+{"w": "neele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neelghau", "pos": "noun", "d": ["A variant spelling of nilgai, a large gray antelope of India."], "src": "iwb"}
+{"w": "neem tree", "pos": "noun", "d": ["A fast-growing evergreen tree of India whose leaves and oil are used in medicine and insecticides."], "src": "iwb"}
+{"w": "neer", "pos": "adverb", "d": ["An archaic or poetic contraction of never."], "src": "iwb"}
+{"w": "neese", "pos": "verb", "d": ["To sneeze."], "src": "iwb"}
+{"w": "nef", "pos": "noun", "d": ["A ship-shaped table vessel or ornament used to hold salt or drinking vessels."], "src": "iwb"}
+{"w": "nefarious", "pos": "adjective", "d": ["Wicked, villainous, or criminal."], "src": "iwb"}
+{"w": "nefasch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nefast", "pos": "adjective", "d": ["In ancient Rome, designating days on which no public business could be done; unlucky."], "src": "iwb"}
+{"w": "negation", "pos": "noun", "d": ["The act of denying or contradicting; denial.", "The absence or opposite of something."], "src": "iwb"}
+{"w": "negativity", "pos": "noun", "d": ["The quality or state of being negative; pessimism or hostility.", "The presence of negative electric charge."], "src": "iwb"}
+{"w": "negatory", "pos": "adjective", "d": ["Expressing negation or denial."], "src": "iwb"}
+{"w": "neginoth", "pos": "noun", "d": ["In the titles of certain psalms, a direction to accompany the singing with stringed instruments."], "src": "iwb"}
+{"w": "neglect", "pos": "verb", "d": ["To fail to care for or give attention to.", "To fail to do something required; to omit."], "src": "iwb"}
+{"w": "neglectedness", "pos": "noun", "d": ["The state of being neglected."], "src": "iwb"}
+{"w": "neglectingly", "pos": "adverb", "d": ["In a neglectful manner; carelessly."], "src": "iwb"}
+{"w": "negligee", "pos": "noun", "d": ["A woman's light, sheer nightgown or robe."], "src": "iwb"}
+{"w": "negligence", "pos": "noun", "d": ["Failure to exercise proper care; carelessness.", "In law, the breach of a duty of care that causes harm."], "src": "iwb"}
+{"w": "negligent", "pos": "adjective", "d": ["Failing to take proper care; careless."], "src": "iwb"}
+{"w": "negligible", "pos": "adjective", "d": ["So small or unimportant as to be not worth considering."], "src": "iwb"}
+{"w": "negoce", "pos": "noun", "d": ["Trade or commerce; business."], "src": "iwb"}
+{"w": "negotiability", "pos": "noun", "d": ["The quality of being negotiable; transferability by endorsement or delivery."], "src": "iwb"}
+{"w": "negotiable", "pos": "adjective", "d": ["Able to be transferred to another by endorsement, as a check.", "Open to discussion or settlement."], "src": "iwb"}
+{"w": "negotiant", "pos": "noun", "d": ["One engaged in trade; a merchant."], "src": "iwb"}
+{"w": "negotiate", "pos": "verb", "d": ["To discuss terms in order to reach an agreement.", "To get past or around, as an obstacle."], "src": "iwb"}
+{"w": "negotiator", "pos": "noun", "d": ["One who negotiates; a person who arranges terms."], "src": "iwb"}
+{"w": "negotiatory", "pos": "adjective", "d": ["Of or relating to negotiation."], "src": "iwb"}
+{"w": "negotiatrix", "pos": "noun", "d": ["A woman who negotiates."], "src": "iwb"}
+{"w": "negotiosity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "negotious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "negress", "pos": "noun", "d": ["An outdated and offensive term for a Black woman."], "src": "iwb"}
+{"w": "negrita", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "negritic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "negritos", "pos": "noun", "d": ["The short-statured dark-skinned peoples native to parts of Southeast Asia and the Philippines."], "src": "iwb"}
+{"w": "negro", "pos": "noun", "d": ["An outdated term for a Black person, now generally regarded as offensive."], "src": "iwb"}
+{"w": "negroid", "pos": "adjective", "d": ["Of or relating to the dark-skinned peoples of sub-Saharan Africa, in older anthropological use."], "src": "iwb"}
+{"w": "negroloid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "negus", "pos": "noun", "d": ["A title of the kings of Ethiopia.", "A hot drink of wine, water, sugar, and spices."], "src": "iwb"}
+{"w": "nehiloth", "pos": "noun", "d": ["In the title of Psalm 5, a direction to perform it with wind instruments."], "src": "iwb"}
+{"w": "nehushtan", "pos": "noun", "d": ["The bronze serpent made by Moses, later destroyed as an idol."], "src": "iwb"}
+{"w": "neif", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neife", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neigh", "pos": "verb", "d": ["To utter the loud, high-pitched cry of a horse."], "src": "iwb"}
+{"w": "neighborliness", "pos": "noun", "d": ["The quality of being a good neighbor; friendliness to those nearby."], "src": "iwb"}
+{"w": "neishout", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nelumbo", "pos": "noun", "d": ["A genus of aquatic plants including the sacred lotus."], "src": "iwb"}
+{"w": "nemaline", "pos": "adjective", "d": ["Threadlike; slender as a thread."], "src": "iwb"}
+{"w": "nemalite", "pos": "noun", "d": ["A fibrous variety of the mineral brucite."], "src": "iwb"}
+{"w": "nematelmia", "pos": "noun", "d": ["An older name for the group of roundworm-like animals; the nemathelminths."], "src": "iwb"}
+{"w": "nematelminthes", "pos": "noun", "d": ["A variant spelling of nemathelminthes."], "src": "iwb"}
+{"w": "nemathecium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nemathelminthes", "pos": "noun", "d": ["A group of wormlike invertebrates including the roundworms."], "src": "iwb"}
+{"w": "nemato-", "pos": "prefix", "d": ["A prefix meaning thread or threadlike, as in nematode."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

@@ -37416,6 +37416,806 @@
 {"w": "nemathecium", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "nemathelminthes", "pos": "noun", "d": ["A group of wormlike invertebrates including the roundworms."], "src": "iwb"}
 {"w": "nemato-", "pos": "prefix", "d": ["A prefix meaning thread or threadlike, as in nematode."], "src": "iwb"}
+{"w": "nematoblast", "pos": "noun", "d": ["A young cell in a jellyfish, coral, or sea anemone that grows into a stinging cell."], "src": "iwb"}
+{"w": "nematocalyx", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nematocera", "pos": "noun", "d": ["A group of flies with long, threadlike, many-jointed antennae, including mosquitoes, gnats, and crane flies."], "src": "iwb"}
+{"w": "nematocyst", "pos": "noun", "d": ["The tiny stinging capsule inside a jellyfish or sea anemone cell, which fires a coiled thread when touched."], "src": "iwb"}
+{"w": "nematode", "pos": "noun", "d": ["A roundworm, an unsegmented worm with a smooth cylindrical body.", "Many nematodes live as parasites of plants and animals."], "src": "iwb"}
+{"w": "nematogene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nematognath", "pos": "noun", "d": ["A catfish, a member of the group Nematognathi whose fishes bear slender threadlike barbels about the mouth."], "src": "iwb"}
+{"w": "nematognathi", "pos": "noun", "d": ["An order of fishes comprising the catfishes, named for their threadlike mouth barbels."], "src": "iwb"}
+{"w": "nematoid", "pos": "adjective", "d": ["Threadlike in form; resembling a roundworm."], "src": "iwb"}
+{"w": "nematoidea", "pos": "noun", "d": ["The roundworms considered as a class of animals."], "src": "iwb"}
+{"w": "nematophora", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nemean", "pos": "adjective", "d": ["Of Nemea, a valley of ancient Greece famous for its games and for the lion slain by Hercules."], "src": "iwb"}
+{"w": "nemertean", "pos": "noun", "d": ["A ribbon worm, a soft marine worm with a long tube-like proboscis it shoots out to catch prey."], "src": "iwb"}
+{"w": "nemertes", "pos": "noun", "d": ["A genus of ribbon worms taken as a typical example of the nemerteans."], "src": "iwb"}
+{"w": "nemertian", "pos": "adjective", "d": ["Relating to the ribbon worms."], "src": "iwb"}
+{"w": "nemertid", "pos": "noun", "d": ["A ribbon worm of the family Nemertidae."], "src": "iwb"}
+{"w": "nemertida", "pos": "noun", "d": ["An order of ribbon worms."], "src": "iwb"}
+{"w": "nemertina", "pos": "noun", "d": ["A class of worms comprising the nemerteans or ribbon worms."], "src": "iwb"}
+{"w": "nemesis", "pos": "noun", "d": ["The just punishment that follows wrongdoing.", "A long-standing rival who repeatedly defeats one."], "src": "iwb"}
+{"w": "nemophilist", "pos": "noun", "d": ["A lover of groves and woodlands."], "src": "iwb"}
+{"w": "nemophily", "pos": "noun", "d": ["Love of groves and woodland."], "src": "iwb"}
+{"w": "nemoral", "pos": "adjective", "d": ["Of or belonging to a grove or woodland; growing or living in woods."], "src": "iwb"}
+{"w": "nemorous", "pos": "adjective", "d": ["Full of groves; wooded."], "src": "iwb"}
+{"w": "nempne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nempt", "pos": "verb", "d": ["An old form of the verb meaning named; called by name."], "src": "iwb"}
+{"w": "nems", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nenia", "pos": "noun", "d": ["A funeral dirge sung in ancient Rome."], "src": "iwb"}
+{"w": "nenuphar", "pos": "noun", "d": ["A water lily, especially the white water lily."], "src": "iwb"}
+{"w": "neo-", "pos": "prefix", "d": ["A prefix meaning new or recent, as in neolithic."], "src": "iwb"}
+{"w": "neocarida", "pos": "noun", "d": ["A superorder of crustaceans that includes the shrimp, crabs, and lobsters."], "src": "iwb"}
+{"w": "neocene", "pos": "noun", "d": ["The later part of the Tertiary period in geology, covering the Miocene and Pliocene epochs."], "src": "iwb"}
+{"w": "neoclassic", "pos": "adjective", "d": ["In the style that revives the art and architecture of ancient Greece and Rome."], "src": "iwb"}
+{"w": "neoclassic architecture", "pos": "phrase", "d": ["A style of building that copies the temples and forms of ancient Greece and Rome, popular in the eighteenth and nineteenth centuries."], "src": "iwb"}
+{"w": "neocomian", "pos": "adjective", "d": ["Relating to the earliest part of the Cretaceous period."], "src": "iwb"}
+{"w": "neocosmic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neocracy", "pos": "noun", "d": ["Rule by newly risen or inexperienced leaders."], "src": "iwb"}
+{"w": "neocriticism", "pos": "noun", "d": ["A nineteenth-century revival of the critical philosophy of Kant."], "src": "iwb"}
+{"w": "neodamode", "pos": "noun", "d": ["In ancient Sparta, a Helot freed from slavery in return for military service."], "src": "iwb"}
+{"w": "neodymium", "pos": "noun", "d": ["A silvery metallic element used in very strong magnets and in lasers."], "src": "iwb"}
+{"w": "neogaean", "pos": "adjective", "d": ["Belonging to the animal life of the Americas."], "src": "iwb"}
+{"w": "neogamist", "pos": "noun", "d": ["A person recently married."], "src": "iwb"}
+{"w": "neogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neogrammarian", "pos": "noun", "d": ["A linguist of the nineteenth-century German school holding that sound changes follow strict laws without exception."], "src": "iwb"}
+{"w": "neography", "pos": "noun", "d": ["A new or reformed system of writing or spelling."], "src": "iwb"}
+{"w": "neoimpressionism", "pos": "noun", "d": ["A late nineteenth-century painting style that builds pictures from small dots of pure color."], "src": "iwb"}
+{"w": "neolithic", "pos": "adjective", "d": ["Of the later Stone Age, when people used polished stone tools and began to farm."], "src": "iwb"}
+{"w": "neologian", "pos": "noun", "d": ["A coiner of new words; an innovator in language."], "src": "iwb"}
+{"w": "neologic", "pos": "adjective", "d": ["Relating to new words or new forms of speech."], "src": "iwb"}
+{"w": "neologism", "pos": "noun", "d": ["A newly coined word or expression.", "The practice of coining new words."], "src": "iwb"}
+{"w": "neologist", "pos": "noun", "d": ["One who coins new words; an innovator in speech."], "src": "iwb"}
+{"w": "neologization", "pos": "noun", "d": ["The process of coining new words."], "src": "iwb"}
+{"w": "neologize", "pos": "verb", "d": ["To coin new words or expressions."], "src": "iwb"}
+{"w": "neology", "pos": "noun", "d": ["The coining or use of new words; new words taken together."], "src": "iwb"}
+{"w": "neomenia", "pos": "noun", "d": ["A genus of small wormlike mollusks that live in the sea."], "src": "iwb"}
+{"w": "neomenoidea", "pos": "noun", "d": ["An order of wormlike marine mollusks that includes Neomenia."], "src": "iwb"}
+{"w": "neomorph", "pos": "noun", "d": ["A newly evolved structure or feature of an organism."], "src": "iwb"}
+{"w": "neonism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neonomian", "pos": "noun", "d": ["An adherent of neonomianism, the doctrine that the gospel is a new law."], "src": "iwb"}
+{"w": "neopaganism", "pos": "noun", "d": ["A modern religious movement that revives pre-Christian pagan beliefs and rites."], "src": "iwb"}
+{"w": "neophyte", "pos": "noun", "d": ["A new convert to a religion.", "A beginner in any pursuit."], "src": "iwb"}
+{"w": "neoplasia", "pos": "noun", "d": ["The abnormal formation of new tissue in the body; the process by which tumors grow."], "src": "iwb"}
+{"w": "neoplasm", "pos": "noun", "d": ["An abnormal new growth of tissue; a tumor."], "src": "iwb"}
+{"w": "neoplastic", "pos": "adjective", "d": ["Relating to or marked by abnormal new growth of tissue."], "src": "iwb"}
+{"w": "neoplasty", "pos": "noun", "d": ["A surgical operation that restores lost tissue by grafting new tissue."], "src": "iwb"}
+{"w": "neoplatonic", "pos": "adjective", "d": ["Relating to Neoplatonism, a philosophy based on the ideas of Plato that arose in the third century."], "src": "iwb"}
+{"w": "neoplatonician", "pos": "noun", "d": ["A follower of Neoplatonism."], "src": "iwb"}
+{"w": "neoplatonism", "pos": "noun", "d": ["A philosophical system of the third century, founded by Plotinus, that builds on Plato's doctrine of forms."], "src": "iwb"}
+{"w": "neoplatonist", "pos": "noun", "d": ["A follower of Neoplatonism."], "src": "iwb"}
+{"w": "neorama", "pos": "noun", "d": ["A panoramic exhibition of the interiors of buildings shown in a revolving display."], "src": "iwb"}
+{"w": "neossine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neossology", "pos": "noun", "d": ["The study of young birds and nestlings."], "src": "iwb"}
+{"w": "neoteric", "pos": "adjective", "d": ["New; recent in origin; modern."], "src": "iwb"}
+{"w": "neoterism", "pos": "noun", "d": ["The use of new words; novelty in language or thought."], "src": "iwb"}
+{"w": "neoterist", "pos": "noun", "d": ["One who favors what is new; an innovator."], "src": "iwb"}
+{"w": "neoterize", "pos": "verb", "d": ["To make new; to innovate."], "src": "iwb"}
+{"w": "neotropical", "pos": "adjective", "d": ["Relating to the tropical lands of the Americas."], "src": "iwb"}
+{"w": "neozoic", "pos": "adjective", "d": ["Relating to the latest geologic time, in which modern forms of life appear."], "src": "iwb"}
+{"w": "nep", "pos": "abbreviation", "d": ["An abbreviation for the planet Neptune."], "src": "iwb"}
+{"w": "nepa", "pos": "noun", "d": ["A genus of water scorpions, insects that live in water and breathe through a long tail-like tube."], "src": "iwb"}
+{"w": "nepaulese", "pos": "adjective", "d": ["Of or relating to Nepal; a former spelling of Nepalese."], "src": "iwb"}
+{"w": "nepenthe", "pos": "noun", "d": ["A drug or drink of ancient story that banishes grief and sorrow.", "A genus of tropical pitcher plants."], "src": "iwb"}
+{"w": "nepeta", "pos": "noun", "d": ["A genus of mint-family herbs that includes catnip."], "src": "iwb"}
+{"w": "nephalism", "pos": "noun", "d": ["Total abstinence from alcoholic drink."], "src": "iwb"}
+{"w": "nephalist", "pos": "noun", "d": ["One who abstains entirely from alcoholic liquor."], "src": "iwb"}
+{"w": "nepheline", "pos": "noun", "d": ["A glassy mineral of aluminum, sodium, and potassium found in some igneous rocks."], "src": "iwb"}
+{"w": "nephelite", "pos": "noun", "d": ["A rock-forming mineral identical with nepheline."], "src": "iwb"}
+{"w": "nephelodometer", "pos": "noun", "d": ["An instrument for measuring cloudiness, as of the sky or of a liquid."], "src": "iwb"}
+{"w": "nephelometer", "pos": "noun", "d": ["An instrument that measures the cloudiness of a liquid or gas by the light it scatters."], "src": "iwb"}
+{"w": "nephilim", "pos": "noun", "d": ["Giants mentioned in the biblical book of Genesis."], "src": "iwb"}
+{"w": "nephoscope", "pos": "noun", "d": ["An instrument for observing the direction and speed of moving clouds."], "src": "iwb"}
+{"w": "nephralgia", "pos": "noun", "d": ["Pain in the kidneys."], "src": "iwb"}
+{"w": "nephralgy", "pos": "noun", "d": ["Pain in the kidneys; the same as nephralgia."], "src": "iwb"}
+{"w": "nephridial", "pos": "adjective", "d": ["Relating to the nephridia, the excretory organs of many invertebrate animals."], "src": "iwb"}
+{"w": "nephridium", "pos": "noun", "d": ["An excretory organ of many invertebrate animals, such as the earthworm."], "src": "iwb"}
+{"w": "nephrite", "pos": "noun", "d": ["A tough, compact form of jade used for carvings and tools."], "src": "iwb"}
+{"w": "nephritic", "pos": "adjective", "d": ["Relating to the kidneys.", "Affected with inflammation of the kidneys."], "src": "iwb"}
+{"w": "nephritis", "pos": "noun", "d": ["Inflammation of the kidneys."], "src": "iwb"}
+{"w": "nephrolithic", "pos": "adjective", "d": ["Relating to stones or calculi in the kidneys."], "src": "iwb"}
+{"w": "nephrology", "pos": "noun", "d": ["The branch of medicine concerned with the kidneys and their diseases."], "src": "iwb"}
+{"w": "nephrostome", "pos": "noun", "d": ["The funnel-shaped opening by which a nephridium drains into the body cavity."], "src": "iwb"}
+{"w": "nephrotomy", "pos": "noun", "d": ["Surgical incision into the kidney."], "src": "iwb"}
+{"w": "nepotal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nepotism", "pos": "noun", "d": ["Favoritism shown to relatives, especially in giving them jobs or appointments."], "src": "iwb"}
+{"w": "nepotist", "pos": "noun", "d": ["A person who practices nepotism."], "src": "iwb"}
+{"w": "neptunian", "pos": "adjective", "d": ["Of or relating to the planet Neptune.", "In early geology, formed by the action of water."], "src": "iwb"}
+{"w": "neptunicentric", "pos": "adjective", "d": ["Having Neptune as the center, as of an orbit."], "src": "iwb"}
+{"w": "neptunist", "pos": "noun", "d": ["A supporter of the theory that rocks were formed by water."], "src": "iwb"}
+{"w": "neptunium", "pos": "noun", "d": ["A radioactive chemical element with atomic number 93."], "src": "iwb"}
+{"w": "ner", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nereid", "pos": "noun", "d": ["A sea nymph in Greek mythology."], "src": "iwb"}
+{"w": "nereidian", "pos": "adjective", "d": ["Of or relating to the Nereids."], "src": "iwb"}
+{"w": "nereis", "pos": "noun", "d": ["A genus of marine worms, including the common ragworms."], "src": "iwb"}
+{"w": "nereites", "pos": "noun", "d": ["A genus of fossil trails left by marine worms in sedimentary rock."], "src": "iwb"}
+{"w": "nereocystis", "pos": "noun", "d": ["A genus of large brown kelp, including the bull kelp of the Pacific coast."], "src": "iwb"}
+{"w": "nerita", "pos": "noun", "d": ["A genus of marine snails with thick rounded shells."], "src": "iwb"}
+{"w": "nerite", "pos": "noun", "d": ["A snail of the family Neritidae, living in sea or fresh water."], "src": "iwb"}
+{"w": "neritina", "pos": "noun", "d": ["A genus of small freshwater snails."], "src": "iwb"}
+{"w": "nerka", "pos": "noun", "d": ["The sockeye salmon, Oncorhynchus nerka, of the northern Pacific."], "src": "iwb"}
+{"w": "nero", "pos": "noun", "d": ["A Roman emperor of the first century, remembered for his tyranny."], "src": "iwb"}
+{"w": "nero-antico", "pos": "noun", "d": ["An ancient black marble prized by the Romans."], "src": "iwb"}
+{"w": "neroli", "pos": "noun", "d": ["A fragrant oil distilled from orange blossoms, used in perfume."], "src": "iwb"}
+{"w": "nerre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nervate", "pos": "adjective", "d": ["Having veins or nerves, as a leaf."], "src": "iwb"}
+{"w": "nervation", "pos": "noun", "d": ["The arrangement of veins in a leaf or an insect wing."], "src": "iwb"}
+{"w": "nerve-shaken", "pos": "adjective", "d": ["Having the nerves shaken by fright, illness, or shock."], "src": "iwb"}
+{"w": "nervimotion", "pos": "noun", "d": ["Motion produced through the action of the nerves."], "src": "iwb"}
+{"w": "nervimotor", "pos": "adjective", "d": ["Of or relating to nerve impulses that produce muscular movement."], "src": "iwb"}
+{"w": "nervomuscular", "pos": "adjective", "d": ["Of or relating to both nerves and muscles."], "src": "iwb"}
+{"w": "nervose", "pos": "adjective", "d": ["Having prominent veins, as a leaf."], "src": "iwb"}
+{"w": "nervosity", "pos": "noun", "d": ["Nervousness; a state of being easily agitated."], "src": "iwb"}
+{"w": "nervure", "pos": "noun", "d": ["A vein, especially one of the veins in an insect wing."], "src": "iwb"}
+{"w": "nervy", "pos": "adjective", "d": ["Bold or impudent; showing a lack of proper respect.", "Easily made nervous; jittery."], "src": "iwb"}
+{"w": "nescience", "pos": "noun", "d": ["Lack of knowledge; ignorance."], "src": "iwb"}
+{"w": "nese", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nesh", "pos": "adjective", "d": ["Soft or tender to the touch; sensitive to cold weather."], "src": "iwb"}
+{"w": "ness", "pos": "noun", "d": ["A headland or promontory, as in the place name Sheerness."], "src": "iwb"}
+{"w": "nesslerize", "pos": "verb", "d": ["To test for ammonia by means of Nessler reagent."], "src": "iwb"}
+{"w": "nestle", "pos": "verb", "d": ["To settle or lie snugly in a warm, sheltered spot.", "To press close in an affectionate way."], "src": "iwb"}
+{"w": "nestor", "pos": "noun", "d": ["An aged and wise counselor.", "A genus of large New Zealand parrots, including the kea and kaka."], "src": "iwb"}
+{"w": "nestorian", "pos": "adjective", "d": ["Of or relating to Nestorius or the doctrine associated with him."], "src": "iwb"}
+{"w": "net-veined", "pos": "adjective", "d": ["Having veins arranged in a network, as many leaves."], "src": "iwb"}
+{"w": "nethinim", "pos": "noun", "d": ["Temple servants who assisted the priests and Levites in ancient Israel."], "src": "iwb"}
+{"w": "netsuke", "pos": "noun", "d": ["A small carved toggle of wood or ivory used on Japanese clothing cords."], "src": "iwb"}
+{"w": "nettle", "pos": "noun", "d": ["A wild plant whose leaves bear hairs that sting the skin.", "To sting or provoke; to make angry."], "src": "iwb"}
+{"w": "netty", "pos": "adjective", "d": ["Resembling a net; marked with a netlike pattern."], "src": "iwb"}
+{"w": "neufchatel", "pos": "noun", "d": ["A soft white cheese originally made in Neufchatel, France."], "src": "iwb"}
+{"w": "neurad", "pos": "adverb", "d": ["Toward the neural axis or central nervous system."], "src": "iwb"}
+{"w": "neuralgia", "pos": "noun", "d": ["Sharp pain along the course of a nerve."], "src": "iwb"}
+{"w": "neuralgic", "pos": "adjective", "d": ["Of or relating to neuralgia."], "src": "iwb"}
+{"w": "neuralgy", "pos": "noun", "d": ["Pain in a nerve; neuralgia."], "src": "iwb"}
+{"w": "neurapophysial", "pos": "adjective", "d": ["Of or relating to a neurapophysis."], "src": "iwb"}
+{"w": "neurapophysis", "pos": "noun", "d": ["A neural spine; a bony process rising from a vertebra."], "src": "iwb"}
+{"w": "neurasthenia", "pos": "noun", "d": ["A historical medical term for nervous exhaustion and fatigue."], "src": "iwb"}
+{"w": "neuration", "pos": "noun", "d": ["The arrangement of veins in a wing or leaf."], "src": "iwb"}
+{"w": "neuraxis", "pos": "noun", "d": ["The central axis of the nervous system, made up of the brain and spinal cord."], "src": "iwb"}
+{"w": "neurenteric", "pos": "adjective", "d": ["Of or relating to the embryonic passage connecting the neural tube with the gut."], "src": "iwb"}
+{"w": "neuridin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neurilemma", "pos": "noun", "d": ["The thin outer sheath enclosing a nerve fiber."], "src": "iwb"}
+{"w": "neurility", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neurine", "pos": "noun", "d": ["A poisonous substance formed in decaying animal tissue."], "src": "iwb"}
+{"w": "neurism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neuritis", "pos": "noun", "d": ["Inflammation of a nerve."], "src": "iwb"}
+{"w": "neuro-", "pos": "prefix", "d": ["A prefix meaning nerve or nervous system, as in neurology."], "src": "iwb"}
+{"w": "neurocele", "pos": "noun", "d": ["A cavity of the central nervous system, such as a ventricle of the brain."], "src": "iwb"}
+{"w": "neurochord", "pos": "noun", "d": ["A cord of nervous tissue; the embryonic nerve cord."], "src": "iwb"}
+{"w": "neurocity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neurocoele", "pos": "noun", "d": ["The central canal of the spinal cord and the ventricles of the brain."], "src": "iwb"}
+{"w": "neurocord", "pos": "noun", "d": ["A cord or bundle of nerve tissue."], "src": "iwb"}
+{"w": "neuroglia", "pos": "noun", "d": ["The supporting tissue of the nervous system, made of glial cells."], "src": "iwb"}
+{"w": "neurography", "pos": "noun", "d": ["The anatomical description of the nerves."], "src": "iwb"}
+{"w": "neurokeratin", "pos": "noun", "d": ["A protein substance found in nerve fibers."], "src": "iwb"}
+{"w": "neurological", "pos": "adjective", "d": ["Of or relating to neurology or the nervous system."], "src": "iwb"}
+{"w": "neurologist", "pos": "noun", "d": ["A physician who specializes in disorders of the nervous system."], "src": "iwb"}
+{"w": "neurology", "pos": "noun", "d": ["The branch of medicine dealing with the nervous system and its disorders."], "src": "iwb"}
+{"w": "neuroma", "pos": "noun", "d": ["A tumor made up of nerve tissue."], "src": "iwb"}
+{"w": "neuromere", "pos": "noun", "d": ["One of the serial segments of the embryonic brain and spinal cord."], "src": "iwb"}
+{"w": "neuromuscular", "pos": "adjective", "d": ["Of or relating to nerves and muscles together."], "src": "iwb"}
+{"w": "neuron", "pos": "noun", "d": ["A nerve cell, the basic unit of the nervous system."], "src": "iwb"}
+{"w": "neuropathic", "pos": "adjective", "d": ["Of or relating to neuropathy."], "src": "iwb"}
+{"w": "neuropathy", "pos": "noun", "d": ["Disease or abnormal function of the nerves."], "src": "iwb"}
+{"w": "neuropod", "pos": "noun", "d": ["The lower branch of the paired swimming appendage of a marine worm."], "src": "iwb"}
+{"w": "neuropodium", "pos": "noun", "d": ["The ventral lobe of a parapodium in a marine worm."], "src": "iwb"}
+{"w": "neuropore", "pos": "noun", "d": ["An opening at either end of the embryonic neural tube."], "src": "iwb"}
+{"w": "neuropter", "pos": "noun", "d": ["An insect of the order Neuroptera."], "src": "iwb"}
+{"w": "neuroptera", "pos": "noun", "d": ["An order of insects with net-veined wings, including the lacewings."], "src": "iwb"}
+{"w": "neuropteran", "pos": "adjective", "d": ["Of or relating to the insect order Neuroptera."], "src": "iwb"}
+{"w": "neuropteris", "pos": "noun", "d": ["A genus of fossil seed ferns of the Carboniferous period."], "src": "iwb"}
+{"w": "neurosensiferous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neurosis", "pos": "noun", "d": ["A mild mental disorder marked by anxiety or distress."], "src": "iwb"}
+{"w": "neuroskeletal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neuroskeleton", "pos": "noun", "d": ["The part of the skeleton that encloses the brain and spinal cord."], "src": "iwb"}
+{"w": "neurospast", "pos": "noun", "d": ["A puppet worked by strings; a marionette."], "src": "iwb"}
+{"w": "neurotic", "pos": "adjective", "d": ["Of or relating to neurosis; marked by nervous anxiety.", "A person affected by neurosis."], "src": "iwb"}
+{"w": "neurotome", "pos": "noun", "d": ["An instrument for cutting or dissecting nerves."], "src": "iwb"}
+{"w": "neurotomical", "pos": "adjective", "d": ["Of or relating to neurotomy."], "src": "iwb"}
+{"w": "neurotomist", "pos": "noun", "d": ["A surgeon who cuts or dissects nerves."], "src": "iwb"}
+{"w": "neurotomy", "pos": "noun", "d": ["The surgical cutting of a nerve."], "src": "iwb"}
+{"w": "neurula", "pos": "noun", "d": ["The embryonic stage at which the neural tube is formed."], "src": "iwb"}
+{"w": "neuter", "pos": "adjective", "d": ["Neither male nor female; of no sex.", "In grammar, neither masculine nor feminine.", "To remove the reproductive organs of; to castrate or spay."], "src": "iwb"}
+{"w": "neutralization", "pos": "noun", "d": ["The act of making something neutral, as when an acid and a base counteract each other.", "The act of rendering something harmless or ineffective."], "src": "iwb"}
+{"w": "neutrophil", "pos": "noun", "d": ["A type of white blood cell that attacks and destroys germs in the body."], "src": "iwb"}
+{"w": "neutrophile", "pos": "noun", "d": ["An organism that grows best in neutral conditions, neither acidic nor alkaline.", "A white blood cell that takes up neutral stains, the same as a neutrophil."], "src": "iwb"}
+{"w": "neuvaines", "pos": "noun", "d": ["The plural of neuvaine, a nine-day period of special devotion or prayer."], "src": "iwb"}
+{"w": "nevadite", "pos": "noun", "d": ["A granitic rock of the Sierra Nevada, partway between granite and rhyolite in character."], "src": "iwb"}
+{"w": "neve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neven", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "neverthelater", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nevew", "pos": "noun", "d": ["An old spelling of nephew."], "src": "iwb"}
+{"w": "new thought", "pos": "noun", "d": ["A spiritual movement teaching that positive thinking and the power of the mind can bring health and well-being."], "src": "iwb"}
+{"w": "new zealand", "pos": "noun", "d": ["An island country in the southwestern Pacific Ocean, southeast of Australia."], "src": "iwb"}
+{"w": "new-model", "pos": "noun", "d": ["A recently introduced design or version of a product.", "A thing presented as the latest pattern to follow."], "src": "iwb"}
+{"w": "new-year", "pos": "noun", "d": ["The first day or days of a new calendar year."], "src": "iwb"}
+{"w": "newel", "pos": "noun", "d": ["The central post around which a winding staircase turns.", "The post at the foot or top of a stair railing."], "src": "iwb"}
+{"w": "newfanglist", "pos": "noun", "d": ["A person who is very fond of new things and novelties."], "src": "iwb"}
+{"w": "newfangly", "pos": "adverb", "d": ["In a newfangled way; like one who loves novelty."], "src": "iwb"}
+{"w": "news-book", "pos": "noun", "d": ["An early printed pamphlet of news; a forerunner of the newspaper."], "src": "iwb"}
+{"w": "news-letter", "pos": "noun", "d": ["A printed report of news sent regularly to members or subscribers."], "src": "iwb"}
+{"w": "news-vnder", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "news-writer", "pos": "noun", "d": ["A person who writes news articles for publication."], "src": "iwb"}
+{"w": "newsy", "pos": "adjective", "d": ["Full of news or gossip.", "Chatty and informative."], "src": "iwb"}
+{"w": "newt", "pos": "noun", "d": ["A small salamander-like amphibian that lives in damp places."], "src": "iwb"}
+{"w": "newtonian", "pos": "adjective", "d": ["Relating to Isaac Newton or to his laws of motion and gravitation."], "src": "iwb"}
+{"w": "nexible", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nexus", "pos": "noun", "d": ["A connection or link joining things together.", "A central point where things meet or are focused."], "src": "iwb"}
+{"w": "nez perces", "pos": "noun", "d": ["A Native American people of the Pacific Northwest, famed for their horsemanship."], "src": "iwb"}
+{"w": "ngina", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "niagara period", "pos": "noun", "d": ["A division of the Silurian period in geology, named for exposures near Niagara Falls."], "src": "iwb"}
+{"w": "nias", "pos": "noun", "d": ["An island off the western coast of Sumatra in Indonesia."], "src": "iwb"}
+{"w": "nib", "pos": "noun", "d": ["The pointed writing tip of a pen.", "A small point or projecting bit."], "src": "iwb"}
+{"w": "nibble", "pos": "verb", "d": ["To eat with small, quick bites.", "A small bite taken from food."], "src": "iwb"}
+{"w": "nibblingly", "pos": "adverb", "d": ["In a nibbling manner; with small, quick bites."], "src": "iwb"}
+{"w": "nibelungenlied", "pos": "noun", "d": ["A great medieval German epic poem about the Nibelung heroes."], "src": "iwb"}
+{"w": "nibelungs", "pos": "noun", "d": ["In Germanic legend, a race of dwarfs and the name of the Burgundian royal house in the epic."], "src": "iwb"}
+{"w": "nicagua", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nicaragua wood", "pos": "noun", "d": ["A tropical Central American wood used to make a red dye and in fine woodwork."], "src": "iwb"}
+{"w": "niccolite", "pos": "noun", "d": ["A reddish nickel ore; the same mineral as nickeline."], "src": "iwb"}
+{"w": "nicene", "pos": "adjective", "d": ["Relating to the ancient city of Nicaea or to the creed adopted by its church council."], "src": "iwb"}
+{"w": "nicery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nicety", "pos": "noun", "d": ["A fine or exact detail; a subtle point of difference.", "Precision and care in small matters."], "src": "iwb"}
+{"w": "niche", "pos": "noun", "d": ["A recess in a wall for holding a statue or ornament.", "A place or role well suited to a person's abilities."], "src": "iwb"}
+{"w": "nickar nut", "pos": "noun", "d": ["The hard, round seed of the nickar tree."], "src": "iwb"}
+{"w": "nickar tree", "pos": "noun", "d": ["A tropical shrub or tree bearing hard round seeds known as nickar nuts."], "src": "iwb"}
+{"w": "nickel steel", "pos": "noun", "d": ["A tough alloy of iron with nickel added for strength."], "src": "iwb"}
+{"w": "nickeliferous", "pos": "adjective", "d": ["Containing or yielding nickel."], "src": "iwb"}
+{"w": "nickeline", "pos": "noun", "d": ["A reddish mineral ore from which nickel is obtained."], "src": "iwb"}
+{"w": "nicker nut", "pos": "noun", "d": ["A hard, round seed of a tropical shrub, sometimes used as a marble."], "src": "iwb"}
+{"w": "nicker tree", "pos": "noun", "d": ["A tropical shrub or tree whose hard round seeds are called nicker nuts."], "src": "iwb"}
+{"w": "nickle", "pos": "noun", "d": ["A variant spelling of nickel, the five-cent coin."], "src": "iwb"}
+{"w": "nicknack", "pos": "noun", "d": ["A small, pretty ornament or trinket."], "src": "iwb"}
+{"w": "nicknackery", "pos": "noun", "d": ["A collection of small ornamental trinkets."], "src": "iwb"}
+{"w": "nicolaitan", "pos": "noun", "d": ["A member of the Nicolaitans, an early Christian sect condemned in the book of Revelation."], "src": "iwb"}
+{"w": "nicotian", "pos": "adjective", "d": ["Of or relating to tobacco."], "src": "iwb"}
+{"w": "nicotiana", "pos": "noun", "d": ["The genus of plants that includes tobacco."], "src": "iwb"}
+{"w": "nicotianine", "pos": "noun", "d": ["A chemical compound found in tobacco."], "src": "iwb"}
+{"w": "nicotic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nicotidine", "pos": "noun", "d": ["An alkaloid found in tobacco, closely related to nicotine."], "src": "iwb"}
+{"w": "nicotine", "pos": "noun", "d": ["A poisonous, addictive alkaloid found in tobacco that stimulates the nervous system."], "src": "iwb"}
+{"w": "nicotinic", "pos": "adjective", "d": ["Of or relating to nicotine."], "src": "iwb"}
+{"w": "nicotinism", "pos": "noun", "d": ["Illness or poisoning caused by too much nicotine, as from heavy tobacco use."], "src": "iwb"}
+{"w": "nictate", "pos": "verb", "d": ["To wink the eye; to blink."], "src": "iwb"}
+{"w": "nictation", "pos": "noun", "d": ["The act of winking or blinking."], "src": "iwb"}
+{"w": "nictitate", "pos": "verb", "d": ["To wink repeatedly; to blink."], "src": "iwb"}
+{"w": "nictitation", "pos": "noun", "d": ["The act of winking; a wink."], "src": "iwb"}
+{"w": "nidamental", "pos": "adjective", "d": ["Of or relating to the egg-laying structures of mollusks."], "src": "iwb"}
+{"w": "nidary", "pos": "adjective", "d": ["Of or pertaining to a nest."], "src": "iwb"}
+{"w": "nide", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nidgery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nidget", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nidificate", "pos": "verb", "d": ["To build a nest."], "src": "iwb"}
+{"w": "nidification", "pos": "noun", "d": ["The act of building a nest; nesting."], "src": "iwb"}
+{"w": "nidor", "pos": "noun", "d": ["A strong, unpleasant smell, especially from cooking or burning food."], "src": "iwb"}
+{"w": "nidorose", "pos": "adjective", "d": ["Having the smell of nidor; rank or strong-smelling."], "src": "iwb"}
+{"w": "nidulant", "pos": "adjective", "d": ["Growing in a nest-like or cup-shaped structure, as certain fungi do."], "src": "iwb"}
+{"w": "nidulate", "pos": "verb", "d": ["To build or rest in a nest."], "src": "iwb"}
+{"w": "nidulation", "pos": "noun", "d": ["The building of a nest; the state of nesting."], "src": "iwb"}
+{"w": "nidulite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nidus", "pos": "noun", "d": ["A nest, especially for the eggs or young of an animal.", "A place where something develops or originates."], "src": "iwb"}
+{"w": "niece", "pos": "noun", "d": ["The daughter of one's brother or sister."], "src": "iwb"}
+{"w": "nief", "pos": "noun", "d": ["A serf or villein bound to a lord's land."], "src": "iwb"}
+{"w": "niellist", "pos": "noun", "d": ["A craftworker who decorates metal with niello inlay."], "src": "iwb"}
+{"w": "niello", "pos": "noun", "d": ["A black alloy used to fill engraved designs on metal.", "The art of decorating metal with such inlay."], "src": "iwb"}
+{"w": "nifle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "niggard", "pos": "noun", "d": ["A stingy or miserly person.", "A person who is unwilling to spend or share."], "src": "iwb"}
+{"w": "niggardliness", "pos": "noun", "d": ["The quality of being stingy; miserliness."], "src": "iwb"}
+{"w": "niggardy", "pos": "adjective", "d": ["Stingy; miserly."], "src": "iwb"}
+{"w": "nigged", "pos": "adjective", "d": ["Stingy; miserly."], "src": "iwb"}
+{"w": "nigger", "pos": "noun", "d": ["An offensive slur used against Black people."], "src": "iwb"}
+{"w": "niggish", "pos": "adjective", "d": ["Stingy; miserly."], "src": "iwb"}
+{"w": "niggle", "pos": "verb", "d": ["To fuss or complain over small, unimportant details.", "To work in a fussy, trifling way."], "src": "iwb"}
+{"w": "nigh", "pos": "adverb", "d": ["Near in place or time; close by.", "Almost; nearly."], "src": "iwb"}
+{"w": "night letter", "pos": "noun", "d": ["A telegram sent overnight at a reduced rate."], "src": "iwb"}
+{"w": "night terrors", "pos": "noun", "d": ["Episodes of sudden intense fear and screaming during sleep, most common in children."], "src": "iwb"}
+{"w": "night-blooming", "pos": "adjective", "d": ["Opening its flowers at night."], "src": "iwb"}
+{"w": "night-eyed", "pos": "adjective", "d": ["Having eyes that see well in the dark."], "src": "iwb"}
+{"w": "night-faring", "pos": "adjective", "d": ["Traveling or journeying by night."], "src": "iwb"}
+{"w": "nightertale", "pos": "noun", "d": ["An old variant form of nightingale."], "src": "iwb"}
+{"w": "nightingale", "pos": "noun", "d": ["A small European songbird famed for its sweet song, often sung at night."], "src": "iwb"}
+{"w": "nigraniline", "pos": "noun", "d": ["A black dye substance derived from aniline."], "src": "iwb"}
+{"w": "nigrescent", "pos": "adjective", "d": ["Turning black; growing dark."], "src": "iwb"}
+{"w": "nigrification", "pos": "noun", "d": ["The process of making something black; blackening."], "src": "iwb"}
+{"w": "nigrine", "pos": "noun", "d": ["A black variety of the mineral rutile containing titanium."], "src": "iwb"}
+{"w": "nigritic", "pos": "adjective", "d": ["Of or relating to Black people; a term used in older racial classifications."], "src": "iwb"}
+{"w": "nigritude", "pos": "noun", "d": ["The quality or state of being black; blackness."], "src": "iwb"}
+{"w": "nigromancie", "pos": "noun", "d": ["An archaic spelling of necromancy; the practice of claiming to foretell the future by supposed communication with the dead."], "src": "iwb"}
+{"w": "nigromancien", "pos": "noun", "d": ["One who practices nigromancie; a sorcerer or wizard."], "src": "iwb"}
+{"w": "nigrosine", "pos": "noun", "d": ["A black synthetic dye used in inks, shoe polish, and textiles."], "src": "iwb"}
+{"w": "nigua", "pos": "noun", "d": ["A tiny tropical flea that burrows into the skin of people and animals; the chigoe."], "src": "iwb"}
+{"w": "nihil", "pos": "noun", "d": ["Nothing; utter nonexistence."], "src": "iwb"}
+{"w": "nile", "pos": "noun", "d": ["A great river of northeastern Africa flowing north through Egypt to the Mediterranean Sea."], "src": "iwb"}
+{"w": "nilgau", "pos": "noun", "d": ["A large bluish-gray antelope of India, the males bearing short straight horns."], "src": "iwb"}
+{"w": "nill", "pos": "verb", "d": ["To be unwilling; to refuse to do something."], "src": "iwb"}
+{"w": "nilometer", "pos": "noun", "d": ["A device or graduated pillar for measuring the height of the Nile's annual flood."], "src": "iwb"}
+{"w": "niloscope", "pos": "noun", "d": ["An instrument for measuring the level of the Nile River."], "src": "iwb"}
+{"w": "nilt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nim", "pos": "verb", "d": ["To take quickly and quietly; to steal."], "src": "iwb"}
+{"w": "nimble", "pos": "adjective", "d": ["Quick and light in movement or action.", "Quick to understand or act."], "src": "iwb"}
+{"w": "nimbly", "pos": "adverb", "d": ["In a nimble manner; with quick light movements."], "src": "iwb"}
+{"w": "nimbose", "pos": "adjective", "d": ["Rainy; full of rain clouds."], "src": "iwb"}
+{"w": "nimiety", "pos": "noun", "d": ["An excess or overabundance of something."], "src": "iwb"}
+{"w": "nimious", "pos": "adjective", "d": ["Excessive; going beyond what is needed or proper."], "src": "iwb"}
+{"w": "nin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nincompoop", "pos": "noun", "d": ["A foolish or stupid person."], "src": "iwb"}
+{"w": "nine-bark", "pos": "noun", "d": ["A North American shrub whose bark peels off in thin strips."], "src": "iwb"}
+{"w": "nine-eyes", "pos": "noun", "d": ["The lamprey, an eel-like fish with a ring of round openings along its head."], "src": "iwb"}
+{"w": "nine-killer", "pos": "noun", "d": ["The shrike, a bird named for its habit of killing many small animals."], "src": "iwb"}
+{"w": "nineholes", "pos": "noun", "d": ["A traditional game played with balls or marbles on a ground with nine holes."], "src": "iwb"}
+{"w": "ninepins", "pos": "noun", "d": ["A bowling game played with nine wooden pins set up in a diamond."], "src": "iwb"}
+{"w": "nineteenth", "pos": "adjective", "d": ["Coming next after the eighteenth; nineteenth in a series."], "src": "iwb"}
+{"w": "ninetieth", "pos": "adjective", "d": ["Coming next after the eighty-ninth; ninetieth in a series."], "src": "iwb"}
+{"w": "ninety", "pos": "adjective", "d": ["Amounting to nine times ten; 90."], "src": "iwb"}
+{"w": "ninny", "pos": "noun", "d": ["A silly or foolish person."], "src": "iwb"}
+{"w": "ninth", "pos": "adjective", "d": ["Coming next after the eighth; ninth in a series."], "src": "iwb"}
+{"w": "ninut", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "niobate", "pos": "noun", "d": ["A salt or ester of niobic acid."], "src": "iwb"}
+{"w": "niobe", "pos": "noun", "d": ["In Greek mythology, the daughter of Tantalus who was turned to stone while weeping for her slain children."], "src": "iwb"}
+{"w": "niobic", "pos": "adjective", "d": ["Of or relating to niobium or niobic acid."], "src": "iwb"}
+{"w": "niobite", "pos": "noun", "d": ["A black mineral ore of niobium; columbite."], "src": "iwb"}
+{"w": "niobium", "pos": "noun", "d": ["A lustrous gray metallic chemical element, symbol Nb, used in strong alloys and superconducting magnets."], "src": "iwb"}
+{"w": "niopo", "pos": "noun", "d": ["A snuff prepared from the seeds of a South American tree, used for its intoxicating effects."], "src": "iwb"}
+{"w": "nip", "pos": "verb", "d": ["To bite, pinch, or squeeze lightly and quickly.", "To check or slow growth, as frost does to young buds."], "src": "iwb"}
+{"w": "nippitate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nippitato", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nipple", "pos": "noun", "d": ["The small raised part at the center of the breast from which milk can flow.", "A short piece of pipe threaded at both ends for joining fittings."], "src": "iwb"}
+{"w": "nis", "pos": "verb", "d": ["An old negative form of the verb is; is not."], "src": "iwb"}
+{"w": "nisan", "pos": "noun", "d": ["The first month of the Jewish religious year, falling roughly in March and April."], "src": "iwb"}
+{"w": "nisey", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nisi", "pos": "conjunction", "d": ["Unless; used in law to mark an order or decree as conditional."], "src": "iwb"}
+{"w": "niste", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nisus", "pos": "noun", "d": ["An effort or striving toward something; a mental or physical exertion."], "src": "iwb"}
+{"w": "nit", "pos": "noun", "d": ["The tiny egg of a louse or other parasitic insect.", "A small or trivial point of criticism."], "src": "iwb"}
+{"w": "nitency", "pos": "noun", "d": ["Brightness; a shining or lustrous quality."], "src": "iwb"}
+{"w": "nithing", "pos": "noun", "d": ["A cowardly or contemptible person; a villain."], "src": "iwb"}
+{"w": "nitid", "pos": "adjective", "d": ["Shining; bright and glossy."], "src": "iwb"}
+{"w": "nitranilic", "pos": "adjective", "d": ["Of or derived from nitranilic acid."], "src": "iwb"}
+{"w": "nitraniline", "pos": "noun", "d": ["A yellow crystalline compound made from aniline, used in producing dyes."], "src": "iwb"}
+{"w": "nitratine", "pos": "noun", "d": ["A mineral form of sodium nitrate; Chile saltpeter."], "src": "iwb"}
+{"w": "nitre", "pos": "noun", "d": ["Potassium nitrate; saltpeter, used in gunpowder and fertilizers."], "src": "iwb"}
+{"w": "nitriary", "pos": "noun", "d": ["A place where saltpeter is made or refined."], "src": "iwb"}
+{"w": "nitric", "pos": "adjective", "d": ["Of or containing nitrogen; relating to nitre.", "Containing nitrogen with a higher valence, as in nitric acid."], "src": "iwb"}
+{"w": "nitriferous", "pos": "adjective", "d": ["Bearing or containing nitre; yielding nitrates."], "src": "iwb"}
+{"w": "nitrification", "pos": "noun", "d": ["The process by which bacteria in soil convert nitrogen compounds into nitrates."], "src": "iwb"}
+{"w": "nitrify", "pos": "verb", "d": ["To convert into nitrates, as soil bacteria do with nitrogen compounds."], "src": "iwb"}
+{"w": "nitro-", "pos": "prefix", "d": ["A prefix meaning nitrogen or containing nitric acid, as in nitrocellulose."], "src": "iwb"}
+{"w": "nitrobenzene", "pos": "noun", "d": ["A poisonous yellowish oily liquid made from benzene, used in making dyes and aniline."], "src": "iwb"}
+{"w": "nitrobenzol", "pos": "noun", "d": ["An older name for nitrobenzene."], "src": "iwb"}
+{"w": "nitrobenzole", "pos": "noun", "d": ["A variant spelling of nitrobenzene."], "src": "iwb"}
+{"w": "nitrocalcite", "pos": "noun", "d": ["A mineral form of calcium nitrate."], "src": "iwb"}
+{"w": "nitrocarbol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nitrocellulose", "pos": "noun", "d": ["A highly flammable compound made by treating cellulose with nitric acid, used in explosives, lacquers, and early photographic film."], "src": "iwb"}
+{"w": "nitroform", "pos": "noun", "d": ["A yellow crystalline explosive compound; trinitromethane."], "src": "iwb"}
+{"w": "nitrogelatin", "pos": "noun", "d": ["An explosive made by soaking nitrocellulose in nitroglycerin; blasting gelatin."], "src": "iwb"}
+{"w": "nitroglycerin", "pos": "noun", "d": ["A heavy oily explosive liquid that is also used in medicine to ease chest pain."], "src": "iwb"}
+{"w": "nitrohydrochloric", "pos": "adjective", "d": ["Of or relating to a mixture of nitric and hydrochloric acids; aqua regia."], "src": "iwb"}
+{"w": "nitrol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nitroleum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nitromagnesite", "pos": "noun", "d": ["A mineral form of magnesium nitrate."], "src": "iwb"}
+{"w": "nitrometer", "pos": "noun", "d": ["An instrument for measuring the amount of nitrogen in a substance."], "src": "iwb"}
+{"w": "nitromethane", "pos": "noun", "d": ["A colorless liquid nitrogen compound used as a fuel additive and industrial solvent."], "src": "iwb"}
+{"w": "nitromuriatic", "pos": "adjective", "d": ["An older term for aqua regia; of or relating to nitrohydrochloric acid."], "src": "iwb"}
+{"w": "nitrophnol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nitroprussic", "pos": "adjective", "d": ["Of or derived from nitroprussic acid."], "src": "iwb"}
+{"w": "nitroprusside", "pos": "noun", "d": ["A salt of nitroprussic acid; the sodium salt is used in medicine to lower blood pressure."], "src": "iwb"}
+{"w": "nitroquinol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nitrosaccharin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nitrosalicylic", "pos": "adjective", "d": ["Of or derived from nitrosalicylic acid."], "src": "iwb"}
+{"w": "nitroso-", "pos": "prefix", "d": ["A prefix denoting the nitroso group, NO, attached to a compound."], "src": "iwb"}
+{"w": "nitrosyl", "pos": "noun", "d": ["The univalent radical NO, found in nitrosyl compounds."], "src": "iwb"}
+{"w": "nitrous", "pos": "adjective", "d": ["Of or containing nitrogen, especially in a lower valence than nitric compounds."], "src": "iwb"}
+{"w": "nitroxyl", "pos": "noun", "d": ["An unstable compound of hydrogen, nitrogen, and oxygen with the formula HNO."], "src": "iwb"}
+{"w": "nitry", "pos": "adjective", "d": ["Of or containing nitre."], "src": "iwb"}
+{"w": "nitryl", "pos": "noun", "d": ["The univalent radical NO2, found in nitro compounds."], "src": "iwb"}
+{"w": "nittily", "pos": "adverb", "d": ["In a nitty-gritty way; with close attention to practical details."], "src": "iwb"}
+{"w": "nittings", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nitty", "pos": "adjective", "d": ["Full of nits; lousy.", "Detailed and practical, as in nitty-gritty."], "src": "iwb"}
+{"w": "nival", "pos": "adjective", "d": ["Of or relating to snow; growing in or near snow."], "src": "iwb"}
+{"w": "niveous", "pos": "adjective", "d": ["Snowy; resembling snow in whiteness."], "src": "iwb"}
+{"w": "nivose", "pos": "noun", "d": ["The fourth month of the French revolutionary calendar, falling roughly from late December to late January."], "src": "iwb"}
+{"w": "nix", "pos": "interjection", "d": ["An exclamation meaning no or nothing.", "As a verb, to veto or cancel something."], "src": "iwb"}
+{"w": "nixie", "pos": "noun", "d": ["In German folklore, a female water spirit.", "A piece of mail that cannot be delivered."], "src": "iwb"}
+{"w": "nixie clerk", "pos": "phrase", "d": ["A postal clerk who handles mail that cannot be delivered to its addressee."], "src": "iwb"}
+{"w": "nizam", "pos": "noun", "d": ["The title of the former hereditary rulers of Hyderabad in India."], "src": "iwb"}
+{"w": "noachian", "pos": "adjective", "d": ["Relating to Noah or to the biblical story of the flood."], "src": "iwb"}
+{"w": "noah", "pos": "noun", "d": ["The biblical patriarch who, according to Genesis, built the ark that survived the flood.", "A male given name."], "src": "iwb"}
+{"w": "nob", "pos": "noun", "d": ["A person of wealth or high social standing.", "The head, in informal slang."], "src": "iwb"}
+{"w": "nobbily", "pos": "adverb", "d": ["In a stylish or fashionable manner."], "src": "iwb"}
+{"w": "nobbler", "pos": "noun", "d": ["A person who nobbles, especially by secretly interfering with a racehorse.", "In Australia, a small glass of liquor."], "src": "iwb"}
+{"w": "nobby", "pos": "adjective", "d": ["Smart or stylish in dress or appearance."], "src": "iwb"}
+{"w": "nobel prizes", "pos": "phrase", "d": ["The annual international awards established by Alfred Nobel for achievements in physics, chemistry, medicine, literature, peace, and economics."], "src": "iwb"}
+{"w": "nobiliary", "pos": "adjective", "d": ["Relating to the nobility or to noble rank."], "src": "iwb"}
+{"w": "nobilify", "pos": "verb", "d": ["To raise to noble rank; to ennoble."], "src": "iwb"}
+{"w": "nobilitate", "pos": "verb", "d": ["To make noble; to ennoble."], "src": "iwb"}
+{"w": "nobilitation", "pos": "noun", "d": ["The act of raising to noble rank; ennoblement."], "src": "iwb"}
+{"w": "nobility", "pos": "noun", "d": ["The quality of being noble in character or conduct.", "The class of people holding noble rank; the aristocracy."], "src": "iwb"}
+{"w": "noble-minded", "pos": "adjective", "d": ["Having an honorable and generous character; high-minded."], "src": "iwb"}
+{"w": "noblesse", "pos": "noun", "d": ["The nobility; the aristocratic class."], "src": "iwb"}
+{"w": "nocake", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nocent", "pos": "adjective", "d": ["Guilty of wrongdoing; harmful or injurious."], "src": "iwb"}
+{"w": "nocive", "pos": "adjective", "d": ["Harmful or injurious; noxious."], "src": "iwb"}
+{"w": "nock", "pos": "noun", "d": ["The notch at the end of an arrow that fits against the bowstring."], "src": "iwb"}
+{"w": "noctambulation", "pos": "noun", "d": ["The act of walking in one's sleep at night."], "src": "iwb"}
+{"w": "noctambulism", "pos": "noun", "d": ["The habit or condition of walking in one's sleep at night."], "src": "iwb"}
+{"w": "noctambulist", "pos": "noun", "d": ["A person who walks in their sleep at night."], "src": "iwb"}
+{"w": "noctambulo", "pos": "noun", "d": ["A person who stays awake and wanders about at night; a night owl."], "src": "iwb"}
+{"w": "noctidial", "pos": "adjective", "d": ["Comprising a night and a day; lasting twenty-four hours."], "src": "iwb"}
+{"w": "noctiferous", "pos": "adjective", "d": ["Bringing or producing night."], "src": "iwb"}
+{"w": "noctilionid", "pos": "noun", "d": ["Any bat of the family Noctilionidae, a group of fish-eating bats of tropical America."], "src": "iwb"}
+{"w": "noctiluca", "pos": "noun", "d": ["A genus of marine microorganisms whose glow makes the sea phosphorescent at night."], "src": "iwb"}
+{"w": "noctilucin", "pos": "noun", "d": ["The supposed substance in noctiluca to which its phosphorescence was attributed."], "src": "iwb"}
+{"w": "noctilucine", "pos": "noun", "d": ["The same as noctilucin; the supposed light-giving substance of noctiluca."], "src": "iwb"}
+{"w": "noctilucous", "pos": "adjective", "d": ["Shining or glowing at night."], "src": "iwb"}
+{"w": "noctivagant", "pos": "adjective", "d": ["Wandering or roaming about at night."], "src": "iwb"}
+{"w": "noctivagation", "pos": "noun", "d": ["The act of wandering about at night."], "src": "iwb"}
+{"w": "noctivagous", "pos": "adjective", "d": ["Wandering about at night; active after dark."], "src": "iwb"}
+{"w": "noctograph", "pos": "noun", "d": ["An instrument or frame that enables a person to write in the dark, used especially by blind people."], "src": "iwb"}
+{"w": "noctuary", "pos": "noun", "d": ["A record of the events of a night; a nightly journal."], "src": "iwb"}
+{"w": "noctuid", "pos": "noun", "d": ["Any moth of the family Noctuidae, a large group of chiefly night-flying moths."], "src": "iwb"}
+{"w": "noctule", "pos": "noun", "d": ["A large European bat that flies early in the evening."], "src": "iwb"}
+{"w": "nocturn", "pos": "noun", "d": ["One of the divisions of the night office of prayer, or matins, in the Roman Catholic Church."], "src": "iwb"}
+{"w": "nocturne", "pos": "noun", "d": ["A short musical piece of a dreamy, nightlike character.", "A painting representing a night scene."], "src": "iwb"}
+{"w": "nocument", "pos": "noun", "d": ["Harm or damage; injury."], "src": "iwb"}
+{"w": "nocuous", "pos": "adjective", "d": ["Hurtful or injurious; noxious."], "src": "iwb"}
+{"w": "nod", "pos": "noun", "d": ["A quick downward movement of the head, as in assent or greeting.", "A brief sleep; a doze."], "src": "iwb"}
+{"w": "nodated", "pos": "adjective", "d": ["Having knots; knotted."], "src": "iwb"}
+{"w": "noddle", "pos": "noun", "d": ["The head, in informal or joking use."], "src": "iwb"}
+{"w": "noddy", "pos": "noun", "d": ["A tropical seabird of the tern family.", "A simpleton; a fool."], "src": "iwb"}
+{"w": "nodosarine", "pos": "adjective", "d": ["Relating to or resembling the foraminifer genus Nodosaria."], "src": "iwb"}
+{"w": "nodose", "pos": "adjective", "d": ["Having or bearing nodes, knots, or swellings; knotty."], "src": "iwb"}
+{"w": "nodosity", "pos": "noun", "d": ["The state or quality of being nodose; a knotty swelling."], "src": "iwb"}
+{"w": "nodosous", "pos": "adjective", "d": ["Full of nodes or knots; nodose."], "src": "iwb"}
+{"w": "nodular", "pos": "adjective", "d": ["Relating to or having nodules; occurring in the form of nodules."], "src": "iwb"}
+{"w": "nodulose", "pos": "adjective", "d": ["Having small nodes or nodules; finely knotty."], "src": "iwb"}
+{"w": "nodulous", "pos": "adjective", "d": ["Having nodes or small knots; nodulose."], "src": "iwb"}
+{"w": "noel", "pos": "noun", "d": ["A Christmas carol.", "Christmas itself."], "src": "iwb"}
+{"w": "noematachograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "noematic", "pos": "adjective", "d": ["Relating to the act of thinking; having to do with thought."], "src": "iwb"}
+{"w": "noemics", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "noetian", "pos": "adjective", "d": ["Relating to the intellect or to pure thought."], "src": "iwb"}
+{"w": "noetic", "pos": "adjective", "d": ["Relating to the intellect or to intellectual activity."], "src": "iwb"}
+{"w": "nof", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nog", "pos": "noun", "d": ["A short wooden block or peg used in construction.", "A small drink or cup of liquor."], "src": "iwb"}
+{"w": "noggen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "noght", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "noiance", "pos": "noun", "d": ["Annoyance; trouble or harm."], "src": "iwb"}
+{"w": "noie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "noil", "pos": "noun", "d": ["The short fibers of wool combed out during processing."], "src": "iwb"}
+{"w": "noint", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "noisette", "pos": "noun", "d": ["A small round cut of meat, especially lamb or veal.", "A hazelnut."], "src": "iwb"}
+{"w": "noisily", "pos": "adverb", "d": ["In a noisy manner; with much noise."], "src": "iwb"}
+{"w": "noisiness", "pos": "noun", "d": ["The quality or state of being noisy."], "src": "iwb"}
+{"w": "noisome", "pos": "adjective", "d": ["Offensive to the senses, especially to smell; foul or noxious."], "src": "iwb"}
+{"w": "noisy", "pos": "adjective", "d": ["Making or accompanied by much noise; loud and disruptive."], "src": "iwb"}
+{"w": "nol-pros", "pos": "verb", "d": ["To discontinue a prosecution by entering a nolle prosequi."], "src": "iwb"}
+{"w": "nolde", "pos": "verb", "d": ["The old past tense of nill, meaning would not."], "src": "iwb"}
+{"w": "nole", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "noli-me-tangere", "pos": "phrase", "d": ["A plant of the touch-me-not kind whose ripe seed pods burst open at a touch.", "An old name for various ulcerous skin diseases."], "src": "iwb"}
+{"w": "nolition", "pos": "noun", "d": ["Unwillingness; an adverse act of the will."], "src": "iwb"}
+{"w": "noll", "pos": "noun", "d": ["The head; the top of the head."], "src": "iwb"}
+{"w": "nolle prosequi", "pos": "phrase", "d": ["A formal declaration by a prosecutor that a criminal case will not be pursued further."], "src": "iwb"}
+{"w": "nolleity", "pos": "noun", "d": ["The state of being unwilling; unwillingness."], "src": "iwb"}
+{"w": "nolo contendere", "pos": "phrase", "d": ["A plea in a criminal case in which the defendant neither admits nor denies the charges."], "src": "iwb"}
+{"w": "nolt", "pos": "noun", "d": ["Cattle; neat cattle."], "src": "iwb"}
+{"w": "nom", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "noma", "pos": "noun", "d": ["A severe gangrenous disease of the mouth and face, occurring chiefly in malnourished children; cancrum oris."], "src": "iwb"}
+{"w": "nomad", "pos": "noun", "d": ["A member of a people that moves from place to place rather than settling permanently.", "A person who wanders; a rover."], "src": "iwb"}
+{"w": "nomade", "pos": "noun", "d": ["A nomad; a wanderer."], "src": "iwb"}
+{"w": "nomancy", "pos": "noun", "d": ["Divination by means of the letters forming a person's name."], "src": "iwb"}
+{"w": "nombles", "pos": "noun", "d": ["The entrails of a deer, especially as dressed by hunters."], "src": "iwb"}
+{"w": "nombril", "pos": "noun", "d": ["In heraldry, the center point of a shield; the navel point."], "src": "iwb"}
+{"w": "nome", "pos": "noun", "d": ["A province or district, especially in ancient Egypt or modern Greece."], "src": "iwb"}
+{"w": "nomenclator", "pos": "noun", "d": ["A person who calls persons or things by their names; in ancient Rome, a slave who announced visitors.", "One who gives or invents names for things."], "src": "iwb"}
+{"w": "nomenclatress", "pos": "noun", "d": ["A woman who calls persons or things by their names."], "src": "iwb"}
+{"w": "nomenclatural", "pos": "adjective", "d": ["Relating to nomenclature; concerning the system of names."], "src": "iwb"}
+{"w": "nomenclature", "pos": "noun", "d": ["A system or set of names used in a particular field or science."], "src": "iwb"}
+{"w": "nominal", "pos": "adjective", "d": ["Existing in name only, not in reality.", "Relating to or functioning as a noun."], "src": "iwb"}
+{"w": "nominate", "pos": "verb", "d": ["To propose or name as a candidate for office or an honor."], "src": "iwb"}
+{"w": "nominatival", "pos": "adjective", "d": ["Relating to the nominative case in grammar."], "src": "iwb"}
+{"w": "nominative", "pos": "adjective", "d": ["Designating the grammatical case used for the subject of a verb."], "src": "iwb"}
+{"w": "nominator", "pos": "noun", "d": ["A person who nominates; one who names a candidate for office."], "src": "iwb"}
+{"w": "nominor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nomocracy", "pos": "noun", "d": ["A system of government based on the rule of law."], "src": "iwb"}
+{"w": "nomography", "pos": "noun", "d": ["The study of the form and style in which laws are written.", "The art of expressing mathematical relations in graphic form."], "src": "iwb"}
+{"w": "nomopelmous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nomothete", "pos": "noun", "d": ["A person who frames or enacts laws.", "A lawgiver."], "src": "iwb"}
+{"w": "nomothetic", "pos": "adjective", "d": ["Relating to the search for general laws, as in the sciences."], "src": "iwb"}
+{"w": "non assumpsit", "pos": "phrase", "d": ["A legal plea denying that the defendant made the promise alleged."], "src": "iwb"}
+{"w": "non compos", "pos": "adjective", "d": ["Not of sound mind."], "src": "iwb"}
+{"w": "non compos mentis", "pos": "phrase", "d": ["Not of sound mind or legally competent."], "src": "iwb"}
+{"w": "non est factum", "pos": "noun", "d": ["A legal plea that a signed document is not the signer's act because of a fundamental mistake about its nature."], "src": "iwb"}
+{"w": "non est inventus", "pos": "phrase", "d": ["A sheriff's return stating that the person sought was not found."], "src": "iwb"}
+{"w": "non liquet", "pos": "phrase", "d": ["A finding in a legal case that the matter is not clear or proven."], "src": "iwb"}
+{"w": "non obstante", "pos": "phrase", "d": ["A clause in a law or document meaning notwithstanding, used to override other provisions."], "src": "iwb"}
+{"w": "non prosequitur", "pos": "noun", "d": ["A legal entry ending a lawsuit when the plaintiff fails to keep it going."], "src": "iwb"}
+{"w": "non sequitur", "pos": "noun", "d": ["A conclusion or remark that does not logically follow from what came before."], "src": "iwb"}
+{"w": "non-", "pos": "prefix", "d": ["A prefix meaning not, as in nonpartisan."], "src": "iwb"}
+{"w": "non-feasance", "pos": "noun", "d": ["The failure to perform an act that one is legally required to perform."], "src": "iwb"}
+{"w": "non-pros", "pos": "abbreviation", "d": ["Short for non prosequitur, a legal entry ending a suit the plaintiff fails to continue."], "src": "iwb"}
+{"w": "nonagenarian", "pos": "noun", "d": ["A person who is between ninety and one hundred years old."], "src": "iwb"}
+{"w": "nonagesimal", "pos": "adjective", "d": ["Relating to the ninetieth degree of the ecliptic in astronomy."], "src": "iwb"}
+{"w": "nonagrian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nonane", "pos": "noun", "d": ["A hydrocarbon molecule containing nine carbon atoms."], "src": "iwb"}
+{"w": "nonce", "pos": "noun", "d": ["The present occasion or moment.", "A word or expression made up for a single occasion."], "src": "iwb"}
+{"w": "nonchalance", "pos": "noun", "d": ["A calm and casual lack of worry or excitement."], "src": "iwb"}
+{"w": "nonchalant", "pos": "adjective", "d": ["Calmly casual and unconcerned."], "src": "iwb"}
+{"w": "noncommissioned", "pos": "adjective", "d": ["Not holding a military commission, as a noncommissioned officer."], "src": "iwb"}
+{"w": "noncomplying", "pos": "adjective", "d": ["Failing to act in agreement with rules or requests."], "src": "iwb"}
+{"w": "nonconcluding", "pos": "adjective", "d": ["Not reaching or forming a conclusion."], "src": "iwb"}
+{"w": "noncondensing", "pos": "adjective", "d": ["Not cooling exhaust steam in a condenser, in an engine."], "src": "iwb"}
+{"w": "nonconducting", "pos": "adjective", "d": ["Not able to carry heat or electricity."], "src": "iwb"}
+{"w": "nonconforming", "pos": "adjective", "d": ["Not following the usual rules, standards, or customs."], "src": "iwb"}
+{"w": "noncontributing", "pos": "adjective", "d": ["Not giving or adding anything."], "src": "iwb"}
+{"w": "nonda", "pos": "noun", "d": ["A tropical Australian tree that bears edible yellow plums."], "src": "iwb"}
+{"w": "nondescript", "pos": "adjective", "d": ["Plain and ordinary, without distinctive or interesting features."], "src": "iwb"}
+{"w": "nondo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nonet", "pos": "noun", "d": ["A musical composition written for nine performers.", "A group of nine people or things."], "src": "iwb"}
+{"w": "nonett", "pos": "noun", "d": ["A musical composition for nine performers."], "src": "iwb"}
+{"w": "nonetto", "pos": "noun", "d": ["A musical composition written for nine performers."], "src": "iwb"}
+{"w": "nonillion", "pos": "noun", "d": ["The number one followed by thirty zeros."], "src": "iwb"}
+{"w": "nonius", "pos": "noun", "d": ["A small auxiliary scale used to make fine measurements on an instrument."], "src": "iwb"}
+{"w": "nonjurant", "pos": "noun", "d": ["A person who refuses to swear a required oath."], "src": "iwb"}
+{"w": "nonjuring", "pos": "adjective", "d": ["Refusing to take a required oath of allegiance."], "src": "iwb"}
+{"w": "nonne", "pos": "noun", "d": ["A Latin word used to ask a question that expects yes as the answer, meaning is it not."], "src": "iwb"}
+{"w": "nonnitrognous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nonny", "pos": "noun", "d": ["A nonsense syllable used as a refrain in old songs."], "src": "iwb"}
+{"w": "nonoic", "pos": "adjective", "d": ["Relating to a chemical compound containing nine carbon atoms."], "src": "iwb"}
+{"w": "nonpareil", "pos": "noun", "d": ["A person or thing that has no equal.", "Small colored sugar pellets used to decorate candy."], "src": "iwb"}
+{"w": "nonrecurring", "pos": "adjective", "d": ["Happening only once and not repeated."], "src": "iwb"}
+{"w": "nonregardance", "pos": "noun", "d": ["Lack of attention or respect."], "src": "iwb"}
+{"w": "nonsensical", "pos": "adjective", "d": ["Having no meaning or making no sense."], "src": "iwb"}
+{"w": "nontronite", "pos": "noun", "d": ["A greenish clay mineral rich in iron."], "src": "iwb"}
+{"w": "nonuniformist", "pos": "noun", "d": ["One who holds that natural processes have not always acted in the same way."], "src": "iwb"}
+{"w": "nonyl", "pos": "noun", "d": ["A chemical group containing nine carbon atoms."], "src": "iwb"}
+{"w": "nonylene", "pos": "noun", "d": ["A hydrocarbon with nine carbon atoms and one double bond."], "src": "iwb"}
+{"w": "nonylenic", "pos": "adjective", "d": ["Relating to nonylene."], "src": "iwb"}
+{"w": "noodle", "pos": "noun", "d": ["A thin strip of dough eaten as pasta.", "A person's head, in slang."], "src": "iwb"}
+{"w": "nooelogical", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nooelogist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nooelogy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nook", "pos": "noun", "d": ["A small, quiet corner or recess."], "src": "iwb"}
+{"w": "nook-shotten", "pos": "adjective", "d": ["Having corners or angles that jut out."], "src": "iwb"}
+{"w": "noological", "pos": "adjective", "d": ["Relating to the study of the mind or intellect."], "src": "iwb"}
+{"w": "noologist", "pos": "noun", "d": ["One who studies the mind or intellect."], "src": "iwb"}
+{"w": "noology", "pos": "noun", "d": ["The study of the mind or intellect."], "src": "iwb"}
+{"w": "noon-flower", "pos": "noun", "d": ["A flower that opens around midday."], "src": "iwb"}
+{"w": "noose", "pos": "noun", "d": ["A loop of rope with a slipknot that tightens when pulled."], "src": "iwb"}
+{"w": "noot", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nopal", "pos": "noun", "d": ["A prickly pear cactus of Mexico and the southwestern United States."], "src": "iwb"}
+{"w": "nopalry", "pos": "noun", "d": ["A place where prickly pear cacti are grown."], "src": "iwb"}
+{"w": "nope", "pos": "interjection", "d": ["A casual way of saying no."], "src": "iwb"}
+{"w": "norbertine", "pos": "noun", "d": ["A member of a Roman Catholic religious order founded by Saint Norbert."], "src": "iwb"}
+{"w": "norfolk dumpling", "pos": "noun", "d": ["A plain boiled dumpling from Norfolk, England."], "src": "iwb"}
+{"w": "norfolk jacket", "pos": "noun", "d": ["A loose, belted jacket with pleats and patch pockets."], "src": "iwb"}
+{"w": "norfolk plover", "pos": "noun", "d": ["A large wading bird of Europe and Asia, also called the stone-curlew."], "src": "iwb"}
+{"w": "norfolk spaniel", "pos": "noun", "d": ["An extinct breed of spaniel once found in Norfolk, England."], "src": "iwb"}
+{"w": "noria", "pos": "noun", "d": ["A large wheel with buckets used to lift water from a stream."], "src": "iwb"}
+{"w": "norian", "pos": "adjective", "d": ["Relating to a late Triassic period of geological time."], "src": "iwb"}
+{"w": "norie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "norimon", "pos": "noun", "d": ["A covered litter carried on poles, used in old Japan."], "src": "iwb"}
+{"w": "norite", "pos": "noun", "d": ["A dark, coarse-grained igneous rock."], "src": "iwb"}
+{"w": "norium", "pos": "noun", "d": ["A supposed chemical element later shown not to exist."], "src": "iwb"}
+{"w": "norma", "pos": "noun", "d": ["A carpenter's square.", "A standard or pattern."], "src": "iwb"}
+{"w": "normalcy", "pos": "noun", "d": ["The condition of being normal or usual."], "src": "iwb"}
+{"w": "normalization", "pos": "noun", "d": ["The act or process of making something normal or standard."], "src": "iwb"}
+{"w": "norn", "pos": "noun", "d": ["One of the three goddesses of fate in Norse mythology."], "src": "iwb"}
+{"w": "norna", "pos": "noun", "d": ["One of the Norse goddesses of fate."], "src": "iwb"}
+{"w": "norse", "pos": "adjective", "d": ["Relating to Norway or the old Scandinavian peoples.", "The old Scandinavian language."], "src": "iwb"}
+{"w": "nortelry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "north star state", "pos": "noun", "d": ["A nickname for the state of Minnesota."], "src": "iwb"}
+{"w": "northerliness", "pos": "noun", "d": ["The quality of being toward or coming from the north."], "src": "iwb"}
+{"w": "northumbrian", "pos": "adjective", "d": ["Relating to Northumbria, a region of northern England.", "A native or inhabitant of Northumbria."], "src": "iwb"}
+{"w": "norwegium", "pos": "noun", "d": ["A supposed chemical element announced from Norway and later disproved."], "src": "iwb"}
+{"w": "norweyan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nosel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nosethril", "pos": "noun", "d": ["An old spelling of nostril."], "src": "iwb"}
+{"w": "nosle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nosocomial", "pos": "adjective", "d": ["Arising or originating in a hospital, as a nosocomial infection."], "src": "iwb"}
+{"w": "nosography", "pos": "noun", "d": ["The systematic description of diseases."], "src": "iwb"}
+{"w": "nosological", "pos": "adjective", "d": ["Relating to the classification of diseases."], "src": "iwb"}
+{"w": "nosologist", "pos": "noun", "d": ["A person who classifies diseases."], "src": "iwb"}
+{"w": "nosology", "pos": "noun", "d": ["The branch of medicine dealing with the classification of diseases."], "src": "iwb"}
+{"w": "nosophen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nosophobia", "pos": "noun", "d": ["An abnormal and persistent fear of disease or of becoming ill."], "src": "iwb"}
+{"w": "nosopoetic", "pos": "adjective", "d": ["Producing or tending to produce disease."], "src": "iwb"}
+{"w": "nost", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nostalgia", "pos": "noun", "d": ["A wistful longing for the past, especially for a home or time one can no longer return to."], "src": "iwb"}
+{"w": "nostalgic", "pos": "adjective", "d": ["Feeling or expressing nostalgia; longing for the past."], "src": "iwb"}
+{"w": "nostalgy", "pos": "noun", "d": ["An older form of nostalgia; a longing for home or for the past."], "src": "iwb"}
+{"w": "nostoc", "pos": "noun", "d": ["A genus of blue-green algae that grows in jellylike colonies on damp ground and rocks."], "src": "iwb"}
+{"w": "nostril", "pos": "noun", "d": ["Either of the two outer openings of the nose through which air is breathed in and out."], "src": "iwb"}
+{"w": "not-pated", "pos": "adjective", "d": ["Having closely cropped or shaven hair (archaic)."], "src": "iwb"}
+{"w": "notabilia", "pos": "noun", "d": ["Things worthy of note; matters deserving attention or record."], "src": "iwb"}
+{"w": "notaeum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "notandum", "pos": "noun", "d": ["A thing to be noted; a matter deserving particular attention."], "src": "iwb"}
+{"w": "notch", "pos": "noun", "d": ["A V-shaped cut or indentation in an edge or surface.", "A narrow pass between hills or mountains."], "src": "iwb"}
+{"w": "note paper", "pos": "phrase", "d": ["Paper cut and finished for writing notes and short letters."], "src": "iwb"}
+{"w": "notidanian", "pos": "adjective", "d": ["Of or relating to Notidanus, a genus of large deep-water sharks."], "src": "iwb"}
+{"w": "notobranchiata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "notobranchiate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "notochord", "pos": "noun", "d": ["A flexible rod of tissue running along the back of a chordate embryo, the forerunner of the backbone."], "src": "iwb"}
+{"w": "notodontian", "pos": "noun", "d": ["A moth of the family Notodontidae, the prominent moths."], "src": "iwb"}
+{"w": "notopodium", "pos": "noun", "d": ["The upper branch of the paired swimming appendage of a marine annelid worm."], "src": "iwb"}
+{"w": "notorhizal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "notoriety", "pos": "noun", "d": ["The state of being widely known, especially for something bad."], "src": "iwb"}
+{"w": "notorious", "pos": "adjective", "d": ["Widely known, especially for something bad or undesirable."], "src": "iwb"}
+{"w": "notornis", "pos": "noun", "d": ["A large flightless bird of New Zealand, the takahe."], "src": "iwb"}
+{"w": "nototherium", "pos": "noun", "d": ["An extinct giant marsupial of Australia, resembling a huge wombat."], "src": "iwb"}
+{"w": "nototrema", "pos": "noun", "d": ["A genus of South American marsupial frogs that carry their eggs in a pouch on the back."], "src": "iwb"}
+{"w": "nott", "pos": "adjective", "d": ["Shorn; closely cropped (archaic)."], "src": "iwb"}
+{"w": "nott-headed", "pos": "adjective", "d": ["Shaven-headed (archaic)."], "src": "iwb"}
+{"w": "nott-pated", "pos": "adjective", "d": ["Shaven-headed (archaic)."], "src": "iwb"}
+{"w": "notturno", "pos": "noun", "d": ["A nocturne; a musical piece suited to the night (Italian)."], "src": "iwb"}
+{"w": "notum", "pos": "noun", "d": ["The dorsal plate of one of the thoracic segments of an insect."], "src": "iwb"}
+{"w": "notus", "pos": "noun", "d": ["The south wind, personified in classical mythology."], "src": "iwb"}
+{"w": "notwithstanding", "pos": "preposition", "d": ["In spite of; despite.", "Although; nevertheless (used as a conjunction or adverb)."], "src": "iwb"}
+{"w": "nouch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nougat", "pos": "noun", "d": ["A sweet candy made of sugar or honey mixed with nuts, often chewy or crisp."], "src": "iwb"}
+{"w": "nought", "pos": "noun", "d": ["Nothing; zero.", "The figure 0."], "src": "iwb"}
+{"w": "nould", "pos": "verb", "d": ["An obsolete contraction meaning would not."], "src": "iwb"}
+{"w": "noule", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "noumenal", "pos": "adjective", "d": ["Pertaining to the noumenon; relating to things as they are in themselves."], "src": "iwb"}
+{"w": "noumenon", "pos": "noun", "d": ["A thing as it is in itself, apart from how it is perceived (in Kantian philosophy)."], "src": "iwb"}
+{"w": "noun", "pos": "noun", "d": ["A word that names a person, place, thing, or idea."], "src": "iwb"}
+{"w": "nourice", "pos": "noun", "d": ["An obsolete spelling of nurse, especially a woman hired to suckle a child."], "src": "iwb"}
+{"w": "nourish", "pos": "verb", "d": ["To feed and sustain; to promote the growth and health of."], "src": "iwb"}
+{"w": "nouriture", "pos": "noun", "d": ["An obsolete form of nurture; nourishment."], "src": "iwb"}
+{"w": "noursle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nous", "pos": "noun", "d": ["Practical intelligence and good sense (chiefly British informal).", "Mind or reason, as distinct from the senses (in philosophy)."], "src": "iwb"}
+{"w": "nousel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nousle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nouthe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nouveau riche", "pos": "phrase", "d": ["A person who has newly acquired wealth, especially one regarded as lacking established social standing."], "src": "iwb"}
+{"w": "nouvelle riche", "pos": "phrase", "d": ["A woman who has newly acquired wealth."], "src": "iwb"}
+{"w": "novaculite", "pos": "noun", "d": ["A very fine-grained siliceous rock used for making whetstones."], "src": "iwb"}
+{"w": "novatian", "pos": "noun", "d": ["A follower of Novatian, the third-century schismatic who opposed readmitting lapsed Christians to the church."], "src": "iwb"}
+{"w": "novelry", "pos": "noun", "d": ["Novelty; newness (obsolete)."], "src": "iwb"}
+{"w": "novenary", "pos": "adjective", "d": ["Relating to or based on the number nine."], "src": "iwb"}
+{"w": "novene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "novennial", "pos": "adjective", "d": ["Occurring or done every nine years."], "src": "iwb"}
+{"w": "novercal", "pos": "adjective", "d": ["Of or relating to a stepmother; characteristic of a stepmother."], "src": "iwb"}
+{"w": "novice", "pos": "noun", "d": ["A person new to a field, activity, or way of life; a beginner."], "src": "iwb"}
+{"w": "novilunar", "pos": "adjective", "d": ["Relating to the new moon."], "src": "iwb"}
+{"w": "novitiate", "pos": "noun", "d": ["The period of probation during which one is a novice, especially in a religious order.", "A novice."], "src": "iwb"}
+{"w": "novity", "pos": "noun", "d": ["Newness; novelty (obsolete)."], "src": "iwb"}
+{"w": "novum", "pos": "noun", "d": ["A new thing."], "src": "iwb"}
+{"w": "noway", "pos": "adverb", "d": ["In no way; not at all (archaic)."], "src": "iwb"}
+{"w": "nowch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nowd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nowel", "pos": "noun", "d": ["An obsolete word for Christmas; also, a shout of joy at Christmastime."], "src": "iwb"}
+{"w": "nowt", "pos": "noun", "d": ["Nothing (Northern English dialect)."], "src": "iwb"}
+{"w": "noxious", "pos": "adjective", "d": ["Harmful or poisonous, especially to health or well-being."], "src": "iwb"}
+{"w": "noy", "pos": "verb", "d": ["To annoy or vex (obsolete)."], "src": "iwb"}
+{"w": "noyade", "pos": "noun", "d": ["Death by drowning, especially as a method of execution used during the French Revolution."], "src": "iwb"}
+{"w": "noyau", "pos": "noun", "d": ["A liqueur flavored with the kernels of bitter almonds or stone fruits.", "The kernel of a nut or fruit stone."], "src": "iwb"}
+{"w": "noyls", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nozle", "pos": "noun", "d": ["An obsolete spelling of nozzle."], "src": "iwb"}
+{"w": "nozzle", "pos": "noun", "d": ["A spout or tube at the end of a hose or pipe that shapes and directs the outflow."], "src": "iwb"}
+{"w": "nuance", "pos": "noun", "d": ["A subtle difference or delicate shade of meaning, tone, or expression."], "src": "iwb"}
+{"w": "nub", "pos": "noun", "d": ["A small lump or knob.", "The central point or gist of a matter."], "src": "iwb"}
+{"w": "nubble", "pos": "noun", "d": ["A small rounded lump or knob."], "src": "iwb"}
+{"w": "nubecula", "pos": "noun", "d": ["A small cloud; especially, either of the two Magellanic Clouds in the southern sky."], "src": "iwb"}
+{"w": "nubia", "pos": "noun", "d": ["An ancient region of northeastern Africa along the Nile, in what is now southern Egypt and northern Sudan."], "src": "iwb"}
+{"w": "nubian", "pos": "adjective", "d": ["Of or relating to Nubia or its people."], "src": "iwb"}
+{"w": "nubiferous", "pos": "adjective", "d": ["Bringing or producing clouds."], "src": "iwb"}
+{"w": "nubigenous", "pos": "adjective", "d": ["Born or produced in the clouds."], "src": "iwb"}
+{"w": "nubilate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nubility", "pos": "noun", "d": ["The state of being of marriageable age; marriageableness."], "src": "iwb"}
+{"w": "nubilose", "pos": "adjective", "d": ["Cloudy; overcast."], "src": "iwb"}
+{"w": "nubilous", "pos": "adjective", "d": ["Cloudy; overcast."], "src": "iwb"}
+{"w": "nucament", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nucamentaceous", "pos": "adjective", "d": ["Resembling a nut; nutlike (in botany)."], "src": "iwb"}
+{"w": "nucellus", "pos": "noun", "d": ["The central tissue of a plant ovule, enclosing the embryo sac."], "src": "iwb"}
+{"w": "nucha", "pos": "noun", "d": ["The nape of the neck (in anatomy)."], "src": "iwb"}
+{"w": "nuchal", "pos": "adjective", "d": ["Pertaining to the nape of the neck."], "src": "iwb"}
+{"w": "nuciferous", "pos": "adjective", "d": ["Bearing or producing nuts."], "src": "iwb"}
+{"w": "nuciform", "pos": "adjective", "d": ["Shaped like a nut."], "src": "iwb"}
+{"w": "nucin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nucleal", "pos": "adjective", "d": ["Of or pertaining to a nucleus; nuclear."], "src": "iwb"}
+{"w": "nucleate", "pos": "adjective", "d": ["Having a nucleus."], "src": "iwb"}
+{"w": "nucleiform", "pos": "adjective", "d": ["Shaped like a nucleus."], "src": "iwb"}
+{"w": "nuclein", "pos": "noun", "d": ["A phosphorus-containing protein of cell nuclei; an early term for nucleoprotein."], "src": "iwb"}
+{"w": "nucleobranch", "pos": "noun", "d": ["A marine mollusk of the obsolete class Nucleobranchiata, a swimming sea snail with a fin-like foot."], "src": "iwb"}
+{"w": "nucleobranchiata", "pos": "noun", "d": ["A former class of sea snails that swim in open water with a modified foot used as a fin."], "src": "iwb"}
+{"w": "nucleoidioplasma", "pos": "noun", "d": ["The living protoplasmic substance of a cell nucleus."], "src": "iwb"}
+{"w": "nucleolar", "pos": "adjective", "d": ["Relating to a nucleolus.", "Having a nucleolus."], "src": "iwb"}
+{"w": "nucleolated", "pos": "adjective", "d": ["Furnished with a nucleolus."], "src": "iwb"}
+{"w": "nucleole", "pos": "noun", "d": ["A very small nucleus; a nucleolus."], "src": "iwb"}
+{"w": "nucleolus", "pos": "noun", "d": ["A small dense body inside a cell nucleus where ribosomal material is produced."], "src": "iwb"}
+{"w": "nucleoplasm", "pos": "noun", "d": ["The semifluid substance that fills the nucleus of a cell."], "src": "iwb"}
+{"w": "nucleus", "pos": "noun", "d": ["The central dense core of an atom, cell, or other body.", "The part around which the rest of a thing is grouped."], "src": "iwb"}
+{"w": "nucula", "pos": "noun", "d": ["A small nut or nutlet.", "A genus of small marine bivalves with nut-like shells."], "src": "iwb"}
+{"w": "nucule", "pos": "noun", "d": ["A little nut."], "src": "iwb"}
+{"w": "nucumentaceous", "pos": "adjective", "d": ["Resembling a nut in form or character."], "src": "iwb"}
+{"w": "nudation", "pos": "noun", "d": ["The act of stripping bare; a laying bare."], "src": "iwb"}
+{"w": "nuddle", "pos": "verb", "d": ["To push or jog gently with the elbow; to nudge."], "src": "iwb"}
+{"w": "nude", "pos": "adjective", "d": ["Without clothing; bare."], "src": "iwb"}
+{"d": ["To push slightly, usually with the elbow, to get attention.", "To give a gentle hint or reminder."], "pos": "verb", "w": "nudge", "src": "iwb"}
+{"w": "nudibrachiate", "pos": "adjective", "d": ["Having bare or unprotected arms or appendages."], "src": "iwb"}
+{"w": "nudibranch", "pos": "noun", "d": ["A brightly colored, shell-less sea slug with exposed feathery gills."], "src": "iwb"}
+{"w": "nudibranchiata", "pos": "noun", "d": ["An order of shell-less marine gastropod mollusks with naked gills; the sea slugs."], "src": "iwb"}
+{"w": "nudibranchiate", "pos": "adjective", "d": ["Having the characters of a nudibranch; shell-less with exposed gills."], "src": "iwb"}
+{"w": "nudicaul", "pos": "adjective", "d": ["Having a bare, leafless stem."], "src": "iwb"}
+{"w": "nudification", "pos": "noun", "d": ["The act of making nude or bare."], "src": "iwb"}
+{"w": "nudity", "pos": "noun", "d": ["The state of being without clothing."], "src": "iwb"}
+{"w": "nudum pactum", "pos": "phrase", "d": ["A legal term for a bare promise made without consideration, and therefore not enforceable as a contract."], "src": "iwb"}
+{"w": "nugacity", "pos": "noun", "d": ["The quality of being trifling or worthless; frivolity."], "src": "iwb"}
+{"w": "nugae", "pos": "noun", "d": ["Trifles; things of little or no value."], "src": "iwb"}
+{"w": "nugation", "pos": "noun", "d": ["Idle trifling; frivolous behavior."], "src": "iwb"}
+{"w": "nugatory", "pos": "adjective", "d": ["Of no force or value; futile.", "Trifling; of little importance."], "src": "iwb"}
+{"w": "nugget", "pos": "noun", "d": ["A small solid lump, especially of a precious metal such as gold.", "A small valuable piece or morsel, as of information."], "src": "iwb"}
+{"w": "nugify", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nuisance", "pos": "noun", "d": ["A person or thing that causes annoyance, inconvenience, or harm."], "src": "iwb"}
+{"w": "nul", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nullah", "pos": "noun", "d": ["A dry ravine or watercourse in India, liable to flood in the rainy season."], "src": "iwb"}
+{"w": "nullibiety", "pos": "noun", "d": ["The state of being nowhere; absence from any place."], "src": "iwb"}
+{"w": "nullification", "pos": "noun", "d": ["The act of making void or of no effect; an annulling."], "src": "iwb"}
+{"w": "nullifidian", "pos": "noun", "d": ["A person of no religious faith; an unbeliever."], "src": "iwb"}
+{"w": "nullipore", "pos": "noun", "d": ["A former name for certain coral-like marine algae."], "src": "iwb"}
+{"w": "numb", "pos": "adjective", "d": ["Having lost the power of feeling; unable to feel touch or pain."], "src": "iwb"}
+{"w": "numbedness", "pos": "noun", "d": ["The state of being numb; loss of sensation."], "src": "iwb"}
+{"w": "numerable", "pos": "adjective", "d": ["Able to be counted or numbered."], "src": "iwb"}
+{"w": "numeral", "pos": "noun", "d": ["A symbol or figure expressing a number, such as 5 or V."], "src": "iwb"}
+{"w": "numerary", "pos": "adjective", "d": ["Of or relating to a number."], "src": "iwb"}
+{"w": "numerate", "pos": "verb", "d": ["To count or number."], "src": "iwb"}
+{"w": "numeration", "pos": "noun", "d": ["The act or method of counting or numbering."], "src": "iwb"}
+{"w": "numerative", "pos": "adjective", "d": ["Relating to counting or numbering."], "src": "iwb"}
+{"w": "numerator", "pos": "noun", "d": ["The upper number of a fraction, showing how many parts are taken."], "src": "iwb"}
+{"w": "numerist", "pos": "noun", "d": ["A person skilled in the use of numbers or in arithmetic."], "src": "iwb"}
+{"w": "numero", "pos": "noun", "d": ["The Italian and French word for number.", "In slang, the most important person, as in 'numero uno'."], "src": "iwb"}
+{"w": "numerosity", "pos": "noun", "d": ["The quality of being numerous; multitude."], "src": "iwb"}
+{"w": "numidian", "pos": "adjective", "d": ["Of or relating to ancient Numidia in North Africa."], "src": "iwb"}
+{"w": "numismatic", "pos": "adjective", "d": ["Relating to coins, medals, or currency."], "src": "iwb"}
+{"w": "numismatist", "pos": "noun", "d": ["One who studies or collects coins and medals."], "src": "iwb"}
+{"w": "numismatography", "pos": "noun", "d": ["The descriptive study or cataloging of coins and medals."], "src": "iwb"}
+{"w": "numismatologist", "pos": "noun", "d": ["A student of coins and medals; a numismatist."], "src": "iwb"}
+{"w": "numismatology", "pos": "noun", "d": ["The study of coins, medals, and currency."], "src": "iwb"}
+{"w": "nummary", "pos": "adjective", "d": ["Relating to coins or money."], "src": "iwb"}
+{"w": "nummular", "pos": "adjective", "d": ["Shaped like a coin; round and flat."], "src": "iwb"}
+{"w": "nummulary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nummulation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nummulite", "pos": "noun", "d": ["A coin-shaped fossil shell of a one-celled marine organism, common in limestone."], "src": "iwb"}
+{"w": "nummulitic", "pos": "adjective", "d": ["Composed of or containing nummulites."], "src": "iwb"}
+{"w": "numps", "pos": "noun", "d": ["A dull or stupid person; a fool."], "src": "iwb"}
+{"w": "numskull", "pos": "noun", "d": ["A very stupid person; a blockhead."], "src": "iwb"}
+{"w": "nun", "pos": "noun", "d": ["A woman belonging to a religious order, living under vows of poverty, chastity, and obedience."], "src": "iwb"}
+{"w": "nunatak", "pos": "noun", "d": ["A mountain peak rising above surrounding glacial ice."], "src": "iwb"}
+{"w": "nunc dimittis", "pos": "phrase", "d": ["A Christian canticle, the Song of Simeon, sung at evening prayer."], "src": "iwb"}
+{"w": "nunchion", "pos": "noun", "d": ["A light meal taken about noon; a luncheon."], "src": "iwb"}
+{"w": "nunciate", "pos": "verb", "d": ["To announce or proclaim; to declare."], "src": "iwb"}
+{"w": "nunciature", "pos": "noun", "d": ["The office or term of service of a papal nuncio."], "src": "iwb"}
+{"w": "nuncio", "pos": "noun", "d": ["An ambassador or representative of the Pope to a foreign court or government."], "src": "iwb"}
+{"w": "nuncius", "pos": "noun", "d": ["A messenger or envoy."], "src": "iwb"}
+{"w": "nuncupate", "pos": "verb", "d": ["To declare or name by word of mouth, as an oral will."], "src": "iwb"}
+{"w": "nuncupation", "pos": "noun", "d": ["The act of declaring orally; a naming by word of mouth."], "src": "iwb"}
+{"w": "nuncupative", "pos": "adjective", "d": ["Declared or expressed by word of mouth rather than in writing."], "src": "iwb"}
+{"w": "nuncupatory", "pos": "adjective", "d": ["Having the nature of an oral declaration."], "src": "iwb"}
+{"w": "nundinal", "pos": "adjective", "d": ["Relating to a market day or fair."], "src": "iwb"}
+{"w": "nundinary", "pos": "adjective", "d": ["Of or relating to market days."], "src": "iwb"}
+{"w": "nundinate", "pos": "verb", "d": ["To traffic or trade at a fair or market."], "src": "iwb"}
+{"w": "nundination", "pos": "noun", "d": ["The business of buying and selling at markets or fairs."], "src": "iwb"}
+{"w": "nunnery", "pos": "noun", "d": ["A religious house where nuns live; a convent."], "src": "iwb"}
+{"w": "nunnish", "pos": "adjective", "d": ["Resembling or characteristic of a nun; demure or secluded."], "src": "iwb"}
+{"w": "nup", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nuphar", "pos": "noun", "d": ["A genus of water lilies with yellow cup-shaped flowers; the yellow pond lily."], "src": "iwb"}
+{"w": "nuptial", "pos": "adjective", "d": ["Of or relating to marriage or a wedding."], "src": "iwb"}
+{"w": "nur", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nuragh", "pos": "noun", "d": ["A variant spelling of nuraghe."], "src": "iwb"}
+{"w": "nuraghe", "pos": "noun", "d": ["An ancient conical stone tower built in Sardinia in prehistoric times."], "src": "iwb"}
+{"w": "nurl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nurstle", "pos": "verb", "d": ["To nurse, cherish, or fondle tenderly."], "src": "iwb"}
+{"w": "nurture", "pos": "verb", "d": ["To feed, raise, and care for; to foster growth and development."], "src": "iwb"}
+{"w": "nustle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nut-brown", "pos": "adjective", "d": ["Brown in color like a ripe hazelnut."], "src": "iwb"}
+{"w": "nutmeg", "pos": "noun", "d": ["A fragrant spice ground from the seed of a tropical tree, used in cooking and baking."], "src": "iwb"}
+{"w": "nutria", "pos": "noun", "d": ["A large South American rodent that lives in and around water, valued for its fur."], "src": "iwb"}
+{"w": "nutrication", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "nutrient", "pos": "noun", "d": ["A substance in food that nourishes the body and supports growth."], "src": "iwb"}
+{"w": "nutriment", "pos": "noun", "d": ["Food or nourishment; that which feeds and sustains."], "src": "iwb"}
+{"w": "nutritial", "pos": "adjective", "d": ["Relating to nourishment or nutrition."], "src": "iwb"}
+{"w": "nutritious", "pos": "adjective", "d": ["Providing nourishment; wholesome and healthful as food."], "src": "iwb"}
+{"w": "nutritive", "pos": "adjective", "d": ["Pertaining to nutrition; having nourishing value."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

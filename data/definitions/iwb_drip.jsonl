@@ -27999,3 +27999,803 @@
 {"w":"lazzaroni","pos":"noun","d":["The street beggars of Naples; lazzaroni."]}
 {"w":"lea","pos":"noun","d":["A meadow; also, a measure of yarn."]}
 {"w":"leach","pos":"verb","d":["To drain a liquid through a substance; to percolate."]}
+{"w": "leachy", "pos": "adjective", "d": ["Tending to leak or let liquid pass through.", "Full of leaks; not watertight."]}
+{"w": "leadhillite", "pos": "noun", "d": ["A rare mineral composed of lead sulfate, lead carbonate, and lead hydroxide."]}
+{"w": "leading edge", "pos": "phrase", "d": ["The front edge of an aircraft wing, sail, or blade that meets the air or water first.", "The foremost or most advanced part of something, such as a field of technology."]}
+{"w": "leadsman", "pos": "noun", "d": ["A sailor who uses a sounding line to measure the depth of water under a ship."]}
+{"w": "leady", "pos": "adjective", "d": ["Heavy or dull like lead, especially in color.", "Slow and heavy in movement or mood."]}
+{"w": "leaf-footed", "pos": "adjective", "d": ["Having flattened, leaf-shaped expansions on the legs, as in some insects such as the leaf-footed bug."]}
+{"w": "leaf-nosed", "pos": "adjective", "d": ["Having a nose or nasal structure shaped like a leaf, as certain bats do."]}
+{"w": "leafiness", "pos": "noun", "d": ["The quality or state of being covered with leaves."]}
+{"w": "leafy", "pos": "adjective", "d": ["Covered with leaves or full of leaves.", "Resembling a leaf in shape or texture."]}
+{"w": "leak", "pos": "verb", "d": ["To let liquid or gas escape through a crack or hole.", "To reveal secret information without permission."]}
+{"w": "leakiness", "pos": "noun", "d": ["The condition of leaking or tending to leak.", "The extent to which a container lets liquid or gas escape."]}
+{"w": "leaky", "pos": "adjective", "d": ["Allowing liquid or gas to escape through cracks or holes.", "Prone to giving away secret information."]}
+{"w": "leal", "pos": "adjective", "d": ["Loyal and true; faithful."]}
+{"w": "leam", "pos": "noun", "d": ["A gleam or flash of light, especially a flame."]}
+{"w": "lean-faced", "pos": "adjective", "d": ["Having a thin, narrow face."]}
+{"w": "lean-to", "pos": "noun", "d": ["A simple shelter with a single sloping roof, often built against a wall or another structure."]}
+{"w": "lean-witted", "pos": "adjective", "d": ["Having a sharp, quick mind; shrewd."]}
+{"w": "leany", "pos": "adjective", "d": ["Lean in appearance; thin or meager."]}
+{"w": "leap", "pos": "verb", "d": ["To jump with force from one place to another.", "To move or pass suddenly and quickly."]}
+{"w": "leap year", "pos": "phrase", "d": ["A year of 366 days, with February 29 added, occurring every four years to keep the calendar aligned with the seasons."]}
+{"w": "lear", "pos": "noun", "d": ["A leather strap or thong."]}
+{"w": "leash", "pos": "noun", "d": ["A strap, cord, or chain used to hold and guide a dog or other animal.", "Restraint or control over someone or something, as in keeping someone on a short leash."]}
+{"w": "leastways", "pos": "adverb", "d": ["At least; in any case."]}
+{"w": "leasy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leat", "pos": "noun", "d": ["An open channel that carries water to a mill or mine."]}
+{"w": "leatheret", "pos": "noun", "d": ["An imitation material made to look like leather."]}
+{"w": "leave-taking", "pos": "noun", "d": ["The act of saying goodbye when departing from a place or person."]}
+{"w": "leaven", "pos": "noun", "d": ["A substance, such as yeast, that makes dough rise.", "Something that lightens or enlivens a serious matter."]}
+{"w": "leaviness", "pos": "noun", "d": ["The state of being full of leaves."]}
+{"w": "leavings", "pos": "noun", "d": ["Things left over or remaining; remnants."]}
+{"w": "leavy", "pos": "adjective", "d": ["Covered with or full of leaves."]}
+{"w": "leban", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lebban", "pos": "noun", "d": ["A fermented milk drink of the Middle East, similar to thin yogurt."]}
+{"w": "lecama", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lecanomancy", "pos": "noun", "d": ["The practice of foretelling the future by observing water in a dish or basin."]}
+{"w": "lecanoric", "pos": "adjective", "d": ["Of or relating to lecanorin, a crystalline substance found in certain lichens."]}
+{"w": "lecanorin", "pos": "noun", "d": ["A crystalline compound found in certain lichens."]}
+{"w": "lech", "pos": "verb", "d": ["To behave or look with crude sexual desire."]}
+{"w": "leche", "pos": "noun", "d": ["Milk, especially as used in the names of Latin American and Filipino desserts such as leche flan."]}
+{"w": "lechery", "pos": "noun", "d": ["Excessive or unrestrained indulgence in sexual desire."]}
+{"w": "lecithin", "pos": "noun", "d": ["A fatty substance found in egg yolks and soybeans, used as an emulsifier in foods and cosmetics."]}
+{"w": "lectern", "pos": "noun", "d": ["A tall stand with a sloped top for holding a book, notes, or a manuscript for a speaker or reader."]}
+{"w": "lectica", "pos": "noun", "d": ["An ancient Roman covered litter carried on poles by bearers."]}
+{"w": "lection", "pos": "noun", "d": ["A reading, especially a passage of Scripture read aloud in a church service."]}
+{"w": "lector", "pos": "noun", "d": ["A person appointed to read aloud, especially Scripture in a church service.", "A lecturer or instructor at some European universities."]}
+{"w": "lectual", "pos": "adjective", "d": ["Of or relating to a lector or to reading."]}
+{"w": "lecturn", "pos": "noun", "d": ["An old form of the word lectern."]}
+{"w": "lecythis", "pos": "noun", "d": ["A genus of tropical American trees that produce large woody fruits."]}
+{"w": "ledge", "pos": "noun", "d": ["A narrow horizontal shelf of rock or other surface projecting from a wall, cliff, or building."]}
+{"w": "ledgment", "pos": "noun", "d": ["A ledge; a projecting horizontal part of a structure."]}
+{"w": "ledgy", "pos": "adjective", "d": ["Having ledges; full of rocky shelves or projections."]}
+{"w": "leech", "pos": "noun", "d": ["A worm that attaches to skin and sucks blood, once used in medicine.", "A person who clings to another and lives off them; a parasite."]}
+{"w": "leed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leede", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leef", "pos": "adjective", "d": ["Dear or beloved; also willing or glad."]}
+{"w": "leek", "pos": "noun", "d": ["A vegetable related to the onion, with a long white stalk and flat green leaves and a mild flavor."]}
+{"w": "leeme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leep", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leer", "pos": "verb", "d": ["To look with a sly, lustful, or unpleasant sideways glance."]}
+{"w": "leere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leeringly", "pos": "adverb", "d": ["In a leering manner; with a sly or lustful look."]}
+{"w": "leese", "pos": "verb", "d": ["To lose. An obsolete and Scots form of lose."]}
+{"w": "leet", "pos": "noun", "d": ["A periodic court of record held for a manor or district in old English law.", "Elite, especially in gaming slang for a highly skilled player."]}
+{"w": "left-hand", "pos": "adjective", "d": ["On or relating to the left side of the body.", "Done with or made for the left hand."]}
+{"w": "left-handiness", "pos": "noun", "d": ["The quality of being left-handed.", "Clumsiness or awkwardness."]}
+{"w": "left-off", "pos": "adjective", "d": ["Discarded or no longer used; discontinued."]}
+{"w": "leful", "pos": "adjective", "d": ["Loyal and faithful. An obsolete and Scots word."]}
+{"w": "leg bridge", "pos": "phrase", "d": ["A wrestler's arched defensive position, with the body held off the mat on the head and feet."]}
+{"w": "leg-of-mutton", "pos": "noun", "d": ["A roast leg of sheep or lamb.", "A sleeve that is full and puffed at the shoulder and narrow at the wrist."]}
+{"w": "legalization", "pos": "noun", "d": ["The act or process of making something legal."]}
+{"w": "legantine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "legatary", "pos": "noun", "d": ["A person who receives a legacy under a will; an older form of legatee."]}
+{"w": "legatee", "pos": "noun", "d": ["A person who receives a legacy under a will."]}
+{"w": "legatine", "pos": "adjective", "d": ["Of or relating to a legate, especially a papal ambassador."]}
+{"w": "legato", "pos": "adverb", "d": ["In music, played or sung in a smooth, connected manner without breaks between notes."]}
+{"w": "legator", "pos": "noun", "d": ["One who leaves a legacy; the maker of a will."]}
+{"w": "legatura", "pos": "noun", "d": ["In music, a slur or tie connecting two or more notes."]}
+{"w": "legature", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lege", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "legge", "pos": "noun", "d": ["A Scots form of the word leg."]}
+{"w": "leggiadro", "pos": "adjective", "d": ["In music, graceful and elegant in performance."]}
+{"w": "leggiero", "pos": "adjective", "d": ["In music, light and swift in performance."]}
+{"w": "leggy", "pos": "adjective", "d": ["Having long legs; tall and slender."]}
+{"w": "legibility", "pos": "noun", "d": ["The quality of being easy to read; clearness of writing or print."]}
+{"w": "legibly", "pos": "adverb", "d": ["In a way that is easy to read."]}
+{"w": "legific", "pos": "adjective", "d": ["Pertaining to the making of laws."]}
+{"w": "legionry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "legislate", "pos": "verb", "d": ["To make or enact laws."]}
+{"w": "legislator", "pos": "noun", "d": ["A person who makes laws; a member of a legislative body."]}
+{"w": "legislatress", "pos": "noun", "d": ["A female legislator. A dated word."]}
+{"w": "legislatrix", "pos": "noun", "d": ["A female legislator. A formal and dated word."]}
+{"w": "legitim", "pos": "adjective", "d": ["A shortened form of legitimate."]}
+{"w": "legitimacy", "pos": "noun", "d": ["The quality of being lawful, genuine, or rightly accepted."]}
+{"w": "legitimatist", "pos": "noun", "d": ["A supporter of legitimate hereditary succession, especially to a throne."]}
+{"w": "legitimatize", "pos": "verb", "d": ["To make legitimate; to give legal or accepted status to."]}
+{"w": "lego-literary", "pos": "adjective", "d": ["Relating to legal literature or writings about law."]}
+{"w": "leguleian", "pos": "adjective", "d": ["Of or like a pettifogging lawyer; quibbling over small points of law."]}
+{"w": "legume", "pos": "noun", "d": ["A plant of the pea family, such as a bean or pea, grown for its edible seeds.", "The seed pod or seed of such a plant."]}
+{"w": "legumen", "pos": "noun", "d": ["In botany, the fruit of a leguminous plant; a dry pod that splits open along two seams."]}
+{"w": "legumin", "pos": "noun", "d": ["A protein found in the seeds of leguminous plants such as peas and beans."]}
+{"w": "leiger", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leiotrichan", "pos": "noun", "d": ["A person with smooth, straight hair."]}
+{"w": "leiotrichi", "pos": "noun", "d": ["The plural of leiotrichan."]}
+{"w": "leiotrichous", "pos": "adjective", "d": ["Having smooth, straight hair."]}
+{"w": "leipoa", "pos": "noun", "d": ["A large Australian ground bird that builds mounds of earth to incubate its eggs, also called the malleefowl."]}
+{"w": "leipothymic", "pos": "adjective", "d": ["Disposed to fainting.", "Tending to cause faintness."]}
+{"w": "leister", "pos": "noun", "d": ["A three-pronged spear used for catching fish, especially salmon."]}
+{"w": "leisurably", "pos": "adverb", "d": ["In a relaxed, unhurried manner."]}
+{"w": "leitmotif", "pos": "noun", "d": ["A short musical theme that recurs through a piece of music and stands for a person, idea, or situation.", "A recurring theme or idea that runs through a work of art or a body of work."]}
+{"w": "leman", "pos": "noun", "d": ["A lover or sweetheart, in old use often a mistress."]}
+{"w": "leme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lemma", "pos": "noun", "d": ["A headword or main entry listed in a dictionary or glossary.", "A proven statement used as a stepping stone toward proving a larger theorem."]}
+{"w": "lemman", "pos": "noun", "d": ["A variant spelling of leman, meaning a lover or sweetheart."]}
+{"w": "lemming", "pos": "noun", "d": ["A small thickset rodent of northern regions, famous for mass migrations.", "A person who follows the crowd without thinking."]}
+{"w": "lemnian", "pos": "adjective", "d": ["Of or relating to Lemnos, a Greek island in the Aegean Sea."]}
+{"w": "lemniscata", "pos": "adjective", "d": ["Adorned with ribbon-like bands or stripes, as in the scientific names of certain plants and animals."]}
+{"w": "lemniscate", "pos": "noun", "d": ["A figure-eight-shaped curve used in mathematics."]}
+{"w": "lemniscus", "pos": "noun", "d": ["A band or ribbon of nerve fibers in the brain and spinal cord that carries sensory signals."]}
+{"w": "lemonade", "pos": "noun", "d": ["A sweet drink made from lemon juice, water, and sugar."]}
+{"w": "lemur", "pos": "noun", "d": ["A small tree-dwelling primate of Madagascar with large eyes and a long tail."]}
+{"w": "lemuria", "pos": "noun", "d": ["A supposed lost continent once imagined to have existed in the Indian Ocean.", "An ancient Roman festival held to appease restless spirits of the dead."]}
+{"w": "lemurid", "pos": "noun", "d": ["Any member of the lemur family of primates."]}
+{"w": "lemurine", "pos": "adjective", "d": ["Like or characteristic of a lemur."]}
+{"w": "lemuroid", "pos": "adjective", "d": ["Resembling a lemur.", "Belonging to the lemur-like primates."]}
+{"w": "lemuroidea", "pos": "noun", "d": ["The superfamily of primates that includes the lemurs."]}
+{"w": "lena", "pos": "noun", "d": ["A woman who arranges paid sexual encounters for others; a procuress."]}
+{"w": "lenard rays", "pos": "noun", "d": ["Streams of electrons produced in a discharge tube, the subject of early cathode-ray experiments by Philipp Lenard."]}
+{"w": "lenard tube", "pos": "noun", "d": ["A cathode-ray tube fitted with a thin window through which cathode rays could pass into the air for study."]}
+{"w": "lend", "pos": "verb", "d": ["To give something to someone for a time with the understanding that it will be returned.", "To add or contribute a quality to something, as in to lend support."]}
+{"w": "lene", "pos": "adjective", "d": ["Smooth and soft, as in fine cloth."]}
+{"w": "lenger", "pos": "adjective", "d": ["An old comparative form of long, meaning longer."]}
+{"w": "lengest", "pos": "adjective", "d": ["An old superlative form of long, meaning longest."]}
+{"w": "lengthily", "pos": "adverb", "d": ["In a way that takes a great deal of time or uses many words."]}
+{"w": "lengthiness", "pos": "noun", "d": ["The quality of being very long in time, space, or speech."]}
+{"w": "lengthways", "pos": "adverb", "d": ["In the direction of the longest side; along the length."]}
+{"w": "lengthy", "pos": "adjective", "d": ["Lasting a long time or using many words."]}
+{"w": "lenience", "pos": "noun", "d": ["The quality of being gentle in judgment or mild in punishment."]}
+{"w": "leniency", "pos": "noun", "d": ["Merciful or mild treatment, especially a lighter punishment than could have been given."]}
+{"w": "lenient", "pos": "adjective", "d": ["Not strict or harsh in judgment or punishment."]}
+{"w": "lenify", "pos": "verb", "d": ["To soothe or soften, especially pain or irritation."]}
+{"w": "leniment", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lenitive", "pos": "adjective", "d": ["Soothing or relieving pain or irritation.", "A soothing medicine or application."]}
+{"w": "lenitude", "pos": "noun", "d": ["Softness, gentleness, or mildness of character."]}
+{"w": "lenity", "pos": "noun", "d": ["Mildness and gentleness, especially in exercising authority."]}
+{"w": "lenni-lenape", "pos": "noun", "d": ["The self-given name of the Lenape people, also called the Delaware Indians."]}
+{"w": "leno", "pos": "noun", "d": ["A panderer or procurer of paid sexual partners.", "An open, gauze-like weave used in light fabrics."]}
+{"w": "lenocinant", "pos": "adjective", "d": ["Flattering or pandering in a servile way."]}
+{"w": "lent", "pos": "verb", "d": ["The past tense and past participle of lend.", "The Christian season of fasting and penance before Easter."]}
+{"w": "lent lily", "pos": "noun", "d": ["The wild daffodil, a pale yellow flower that blooms in early spring around Lent."]}
+{"w": "lentamente", "pos": "adverb", "d": ["In music, a direction to play slowly."]}
+{"w": "lentando", "pos": "adverb", "d": ["In music, a direction to play with gradually decreasing speed."]}
+{"w": "lenticel", "pos": "noun", "d": ["A small porous spot in the bark of a woody stem through which air passes to the living tissue."]}
+{"w": "lenticelle", "pos": "noun", "d": ["A variant spelling of lenticel."]}
+{"w": "lenticula", "pos": "noun", "d": ["A small lens-shaped body or structure."]}
+{"w": "lenticular", "pos": "adjective", "d": ["Shaped like a lens, with two curved faces.", "Relating to the lens of the eye."]}
+{"w": "lentiform", "pos": "adjective", "d": ["Shaped like a lens; biconvex."]}
+{"w": "lentiginose", "pos": "adjective", "d": ["Covered with freckle-like spots."]}
+{"w": "lentiginous", "pos": "adjective", "d": ["Covered with freckle-like spots."]}
+{"w": "lentigo", "pos": "noun", "d": ["A small brown spot on the skin; a freckle."]}
+{"w": "lentil", "pos": "noun", "d": ["A small round seed of a legume plant, cooked and eaten as food."]}
+{"w": "lentiscus", "pos": "noun", "d": ["An evergreen shrub of the Mediterranean region that yields mastic resin; the mastic tree."]}
+{"w": "lentisk", "pos": "noun", "d": ["A variant spelling of lentiscus, the mastic tree."]}
+{"w": "lentitude", "pos": "noun", "d": ["Slowness in action or movement."]}
+{"w": "lento", "pos": "adverb", "d": ["In music, a direction to play at a slow tempo."]}
+{"w": "lentoid", "pos": "adjective", "d": ["Shaped like a lens."]}
+{"w": "lentor", "pos": "noun", "d": ["Sluggishness or laziness.", "Thickness or stickiness of a fluid."]}
+{"w": "leod", "pos": "noun", "d": ["A man or person, or a people collectively, in old poetic English."]}
+{"w": "leonced", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leonid", "pos": "noun", "d": ["One of the meteors of the annual Leonid shower, which appears to radiate from the constellation Leo."]}
+{"w": "leontodon", "pos": "noun", "d": ["A genus of yellow-flowered plants including the hawkbits, closely related to dandelions."]}
+{"w": "lep", "pos": "verb", "d": ["To leap or jump, chiefly in Scots usage."]}
+{"w": "lepadite", "pos": "noun", "d": ["A stalked barnacle of the genus Lepas or a related kind."]}
+{"w": "lepadoid", "pos": "adjective", "d": ["Resembling a stalked barnacle of the genus Lepas."]}
+{"w": "lepas", "pos": "noun", "d": ["A genus of stalked barnacles, the goose barnacles, that attach to floating objects in the sea."]}
+{"w": "lepid", "pos": "adjective", "d": ["Pleasant and charming; elegant.", "Covered with tiny scales."]}
+{"w": "lepidine", "pos": "noun", "d": ["A colorless oily organic base derived from quinoline, used in making dyes."]}
+{"w": "lepidodendrid", "pos": "noun", "d": ["One of a group of fossil scale trees that dominated coal-measure forests."]}
+{"w": "lepidodendroid", "pos": "adjective", "d": ["Resembling a lepidodendron, the fossil scale tree."]}
+{"w": "lepidodendron", "pos": "noun", "d": ["A genus of giant fossil scale trees of the Carboniferous period, ancestors of the modern club mosses."]}
+{"w": "lepidoganoid", "pos": "noun", "d": ["A fossil fish belonging to a group of ganoids with bony platelike scales."]}
+{"w": "lepidolite", "pos": "noun", "d": ["A pink to lilac-colored mica mineral that contains lithium."]}
+{"w": "lepidomelane", "pos": "noun", "d": ["An iron-rich dark mica mineral."]}
+{"w": "lepidopter", "pos": "noun", "d": ["A butterfly or moth; a member of the order Lepidoptera."]}
+{"w": "lepidoptera", "pos": "noun", "d": ["The order of insects comprising the butterflies and moths."]}
+{"w": "lepidosauria", "pos": "noun", "d": ["A group of reptiles including lizards, snakes, and the tuatara."]}
+{"w": "lepidosiren", "pos": "noun", "d": ["The South American lungfish, a fish that can breathe air."]}
+{"w": "lepidote", "pos": "adjective", "d": ["Covered with tiny scales."]}
+{"w": "lepisma", "pos": "noun", "d": ["A genus of wingless insects including the common silverfish."]}
+{"w": "lepismoid", "pos": "adjective", "d": ["Resembling a silverfish."]}
+{"w": "leporine", "pos": "adjective", "d": ["Like or characteristic of a hare or rabbit."]}
+{"w": "lepra", "pos": "noun", "d": ["An old name for leprosy."]}
+{"w": "lepre", "pos": "noun", "d": ["An old spelling of leper."]}
+{"w": "leprosity", "pos": "noun", "d": ["The state or condition of being leprous."]}
+{"w": "leprous", "pos": "adjective", "d": ["Affected with leprosy.", "Resembling or characteristic of leprosy."]}
+{"w": "lepry", "pos": "noun", "d": ["An old word for leprosy."]}
+{"w": "leptiform", "pos": "adjective", "d": ["Slender in shape."]}
+{"w": "leptocardia", "pos": "noun", "d": ["A group of small fish-like sea animals including the lancelets, having a simple notochord."]}
+{"w": "leptocardian", "pos": "noun", "d": ["A member of the Leptocardia; a lancelet."]}
+{"w": "leptodactyl", "pos": "adjective", "d": ["Having slender fingers or toes."]}
+{"w": "leptology", "pos": "noun", "d": ["Subtle, finely spun reasoning about minute distinctions."]}
+{"w": "leptomeningitis", "pos": "noun", "d": ["Inflammation of the thin inner membranes that cover the brain and spinal cord."]}
+{"w": "leptorhine", "pos": "adjective", "d": ["Having a long, narrow nose."]}
+{"w": "leptostraca", "pos": "noun", "d": ["A small order of shrimplike marine crustaceans whose bodies are covered by a two-valved shell."]}
+{"w": "leptothrix", "pos": "noun", "d": ["A genus of threadlike bacteria that grow in iron-rich water and form rusty, slimy masses."]}
+{"w": "leptus", "pos": "noun", "d": ["A genus of tiny reddish mites whose young live as parasites on insects."]}
+{"w": "leptynite", "pos": "noun", "d": ["A fine-grained, light-colored metamorphic rock closely related to gneiss."]}
+{"w": "lere", "pos": "verb", "d": ["To learn, or to teach, in old Scots use."]}
+{"w": "lernaea", "pos": "noun", "d": ["A genus of parasitic crustaceans, the anchor worms, that fasten themselves to freshwater fish."]}
+{"w": "lernaeacea", "pos": "noun", "d": ["A family of parasitic copepod crustaceans that live attached to fish."]}
+{"w": "lernean", "pos": "adjective", "d": ["Relating to Lerna in ancient Greek legend, home of the many-headed Hydra.", "Enormous and hard to overcome, like the Hydra."]}
+{"w": "lerot", "pos": "noun", "d": ["The garden dormouse, a small squirrel-like rodent of Europe."]}
+{"w": "lesbian love", "pos": "phrase", "d": ["Romantic or sexual love between women."]}
+{"w": "lese", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lese-majesty", "pos": "noun", "d": ["The offense of insulting a monarch or ruler.", "Any act of treason against the sovereign power."]}
+{"w": "lessor", "pos": "noun", "d": ["A person who grants a lease, such as a landlord renting out property."]}
+{"w": "lest", "pos": "conjunction", "d": ["For fear that a particular thing might happen."]}
+{"w": "let-alone", "pos": "phrase", "d": ["Used to emphasize that something is even less true or possible than what was just mentioned."]}
+{"w": "let-off", "pos": "noun", "d": ["A release from an obligation or punishment.", "An excuse that frees someone from blame."]}
+{"w": "let-up", "pos": "noun", "d": ["A lessening in force or intensity; a pause or break."]}
+{"w": "letch", "pos": "noun", "d": ["A strong, lustful craving."]}
+{"w": "letchy", "pos": "adjective", "d": ["Lecherous; full of lustful desire."]}
+{"w": "lete", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lethal", "pos": "adjective", "d": ["Deadly; able to cause death."]}
+{"w": "lethargic", "pos": "adjective", "d": ["Drowsy and sluggish; lacking energy."]}
+{"w": "lethargize", "pos": "verb", "d": ["To make drowsy or sluggish."]}
+{"w": "lethargy", "pos": "noun", "d": ["A heavy drowsiness or lack of energy."]}
+{"w": "lethe", "pos": "noun", "d": ["In Greek legend, the river of the underworld whose waters caused forgetfulness."]}
+{"w": "lethean", "pos": "adjective", "d": ["Relating to Lethe; causing forgetfulness."]}
+{"w": "letheon", "pos": "noun", "d": ["A 19th-century name for ether when used to put surgical patients to sleep."]}
+{"w": "lethiferous", "pos": "adjective", "d": ["Bringing or causing death; deadly."]}
+{"w": "lethy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lette", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lettish", "pos": "adjective", "d": ["Of or relating to the Latvian people or their language."]}
+{"w": "lettrure", "pos": "noun", "d": ["Learning and literary culture; scholarship."]}
+{"w": "letts", "pos": "noun", "d": ["The Latvian people."]}
+{"w": "lettuce", "pos": "noun", "d": ["A leafy green plant widely grown for salads."]}
+{"w": "letuary", "pos": "noun", "d": ["An old word for a medicinal paste made by mixing drugs with honey or syrup."]}
+{"w": "leuc-", "pos": "prefix", "d": ["A form of the prefix leuco-, meaning white or colorless."]}
+{"w": "leucadendron", "pos": "noun", "d": ["A genus of evergreen shrubs and trees of South Africa, including the silver tree."]}
+{"w": "leucaniline", "pos": "noun", "d": ["A colorless compound derived from aniline, used in making certain dyes."]}
+{"w": "leuchaemia", "pos": "noun", "d": ["An older spelling of leukaemia, the blood disease now called leukemia."]}
+{"w": "leucic", "pos": "adjective", "d": ["Relating to leucine, an amino acid found in proteins."]}
+{"w": "leucin", "pos": "noun", "d": ["An older spelling of leucine, an amino acid the body needs."]}
+{"w": "leucite", "pos": "noun", "d": ["A whitish mineral found in volcanic rocks, containing potassium and aluminum."]}
+{"w": "leucitic", "pos": "adjective", "d": ["Containing or relating to the mineral leucite."]}
+{"w": "leucitoid", "pos": "adjective", "d": ["Resembling the mineral leucite."]}
+{"w": "leuco-", "pos": "prefix", "d": ["A prefix meaning white or colorless, as in leucocyte."]}
+{"w": "leucocyte", "pos": "noun", "d": ["A white blood cell, which helps the body fight infection."]}
+{"w": "leucocythaemia", "pos": "noun", "d": ["An old medical term for an excess of white blood cells, now called leukemia."]}
+{"w": "leucocythemia", "pos": "noun", "d": ["A variant spelling of leucocythaemia, the disease now called leukemia."]}
+{"w": "leucocytogenesis", "pos": "noun", "d": ["The formation and development of white blood cells in the body."]}
+{"w": "leucoethiopic", "pos": "adjective", "d": ["Relating to a leucoethiops, a person of African descent born with white skin."]}
+{"w": "leucoethiops", "pos": "noun", "d": ["An old term for a person of African descent born with white skin; an albino."]}
+{"w": "leucoline", "pos": "noun", "d": ["A nitrogen-containing base obtained from coal tar, related to quinoline."]}
+{"w": "leucoma", "pos": "noun", "d": ["A white, opaque spot on the cornea of the eye."]}
+{"w": "leucomaine", "pos": "noun", "d": ["Any of a group of basic nitrogen compounds formed naturally in living animal tissue."]}
+{"w": "leuconic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leucopathy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leucophane", "pos": "noun", "d": ["A rare mineral, a silicate containing beryllium and sodium."]}
+{"w": "leucophlegmacy", "pos": "noun", "d": ["An old medical term for a pale, swollen condition of the body caused by excess fluid."]}
+{"w": "leucophlegmatic", "pos": "adjective", "d": ["Pale and swollen from excess bodily fluid."]}
+{"w": "leucophyll", "pos": "noun", "d": ["The white or colorless tissue found in the leaves of some plants."]}
+{"w": "leucoplast", "pos": "noun", "d": ["A colorless plastid in plant cells, often used for storing starch."]}
+{"w": "leucoplastid", "pos": "noun", "d": ["Another term for a leucoplast, a colorless starch-storing body in plant cells."]}
+{"w": "leucopyrite", "pos": "noun", "d": ["A whitish mineral composed of iron and arsenic."]}
+{"w": "leucorrhoea", "pos": "noun", "d": ["A whitish discharge from the vagina."]}
+{"w": "leucoryx", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leucoscope", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leucosoid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leucosphere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leucoturic", "pos": "adjective", "d": ["Relating to the passing of white or milky urine."]}
+{"w": "leucous", "pos": "adjective", "d": ["White or whitish in color."]}
+{"w": "leucoxene", "pos": "noun", "d": ["A whitish, fine-grained substance formed by the alteration of titanium-bearing minerals."]}
+{"w": "leukaemia", "pos": "noun", "d": ["A disease in which the body produces too many abnormal white blood cells; also spelled leukemia."]}
+{"w": "leuke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leukoplast", "pos": "noun", "d": ["Another spelling of leucoplast, a colorless starch-storing body in plant cells."]}
+{"w": "levana", "pos": "noun", "d": ["In Roman religion, the goddess who watched over newborn infants."]}
+{"w": "levant", "pos": "noun", "d": ["The countries of the eastern Mediterranean; the region east of Italy."]}
+{"w": "levantine", "pos": "adjective", "d": ["Of or relating to the Levant or its peoples."]}
+{"w": "levari facias", "pos": "phrase", "d": ["A legal writ ordering a sheriff to seize property to satisfy a debt."]}
+{"w": "levation", "pos": "noun", "d": ["The act of lifting or raising something."]}
+{"w": "levator", "pos": "noun", "d": ["A muscle that lifts a part of the body, such as the eyelid.", "A surgical instrument used for lifting a broken or depressed bone."]}
+{"w": "leve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leveche", "pos": "noun", "d": ["A hot, dry southerly wind that blows in southeastern Spain."]}
+{"w": "levee", "pos": "noun", "d": ["An embankment built to keep a river from flooding.", "A formal reception held in honor of a distinguished person."]}
+{"w": "levee en masse", "pos": "phrase", "d": ["A mass uprising of a whole people, especially for war."]}
+{"w": "leven", "pos": "noun", "d": ["An old word for lightning.", "A variant of leaven, a substance that makes dough rise."]}
+{"w": "levesel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "levet", "pos": "noun", "d": ["A blast of trumpets sounded at dawn to wake soldiers; a reveille."]}
+{"w": "leviable", "pos": "adjective", "d": ["Capable of being levied or collected, as a tax."]}
+{"w": "leviathan", "pos": "noun", "d": ["A huge sea creature mentioned in the Bible.", "Anything of enormous size or power."]}
+{"w": "levigable", "pos": "adjective", "d": ["Capable of being ground into a fine powder."]}
+{"w": "levigate", "pos": "verb", "d": ["To grind into a fine, smooth powder."]}
+{"w": "levigation", "pos": "noun", "d": ["The process of grinding a substance into a fine powder."]}
+{"w": "levin", "pos": "noun", "d": ["Lightning, in old poetic use."]}
+{"w": "levir", "pos": "noun", "d": ["A husband's brother; a brother-in-law."]}
+{"w": "leviratical", "pos": "adjective", "d": ["Relating to levirate marriage, the custom by which a man marries his brother's widow."]}
+{"w": "levirostres", "pos": "noun", "d": ["A former grouping of birds with light, thin bills, such as toucans and hornbills."]}
+{"w": "levitate", "pos": "verb", "d": ["To rise and float in the air, as if without support."]}
+{"w": "levitation", "pos": "noun", "d": ["The act or power of floating in the air."]}
+{"w": "levite", "pos": "noun", "d": ["A member of the Hebrew tribe of Levi; in ancient Israel, a temple assistant who helped the priests."]}
+{"w": "levitical", "pos": "adjective", "d": ["Of or relating to the Levites or the Levitical priesthood."]}
+{"w": "leviticus", "pos": "noun", "d": ["The third book of the Old Testament, containing the laws given to the Levitical priesthood."]}
+{"w": "levity", "pos": "noun", "d": ["Lightness of mind or manner; frivolity or lack of seriousness.", "Physical lightness; the quality of being light in weight."]}
+{"w": "levo-", "pos": "prefix", "d": ["A prefix meaning 'to the left' or 'leftward', as in levorotatory."]}
+{"w": "levogyrate", "pos": "adjective", "d": ["Turning the plane of polarized light to the left; levorotatory."]}
+{"w": "levorotation", "pos": "noun", "d": ["Rotation of the plane of polarized light to the left."]}
+{"w": "levorotatory", "pos": "adjective", "d": ["Turning the plane of polarized light to the left."]}
+{"w": "levulin", "pos": "noun", "d": ["A carbohydrate similar to inulin, found in the tubers of the Jerusalem artichoke and other plants."]}
+{"w": "levulosan", "pos": "noun", "d": ["A compound formed by removing water from levulose (fructose)."]}
+{"w": "levulose", "pos": "noun", "d": ["Fruit sugar; the sweet sugar called fructose, found in fruits and honey."]}
+{"w": "levyne", "pos": "noun", "d": ["A zeolite mineral, a hydrated silicate of calcium and aluminum, occurring in small glassy crystals."]}
+{"w": "levynite", "pos": "noun", "d": ["The same mineral as levyne, a zeolite of calcium and aluminum."]}
+{"w": "lew", "pos": "adjective", "d": ["Warm and sheltered from the wind; mild and tepid."]}
+{"w": "lewd", "pos": "adjective", "d": ["Given to lust; lascivious or indecent.", "Of low or base character; ignorant and unrefined (archaic)."]}
+{"w": "lewdster", "pos": "noun", "d": ["A lewd person; one given to lewdness."]}
+{"w": "lex", "pos": "noun", "d": ["Law; a body or system of laws."]}
+{"w": "lexicographer", "pos": "noun", "d": ["A person who writes or compiles dictionaries."]}
+{"w": "lexicographic", "pos": "adjective", "d": ["Of or relating to lexicography or the making of dictionaries."]}
+{"w": "lexicographist", "pos": "noun", "d": ["A lexicographer; one who compiles dictionaries."]}
+{"w": "lexicography", "pos": "noun", "d": ["The writing or compiling of dictionaries; the work of a lexicographer."]}
+{"w": "lexicologist", "pos": "noun", "d": ["A person versed in lexicology; a student of words and their meanings."]}
+{"w": "lexicology", "pos": "noun", "d": ["The branch of linguistics that studies words, their meanings, origins, and history."]}
+{"w": "lexigraphic", "pos": "adjective", "d": ["Of or relating to lexigraphy."]}
+{"w": "lexigraphy", "pos": "noun", "d": ["The representation of language in writing by means of letters; alphabetic writing."]}
+{"w": "lexiphanic", "pos": "adjective", "d": ["Given to using pretentious or bombastic words; grandiloquent."]}
+{"w": "lexipharmic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ley", "pos": "noun", "d": ["A grassy field or pasture; a meadow.", "An obsolete spelling of law."]}
+{"w": "leyden jar", "pos": "noun", "d": ["An early form of electrical capacitor: a glass jar lined inside and out with metal foil, used to store static electricity."]}
+{"w": "leyden phial", "pos": "noun", "d": ["An early electrical storage device like the Leyden jar; a small glass phial used to hold an electric charge."]}
+{"w": "leyser", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "leze majesty", "pos": "phrase", "d": ["An offense against the dignity of the sovereign or the state; treason in its widest sense; any grave insult to high authority."]}
+{"w": "lherzolite", "pos": "noun", "d": ["An igneous rock rich in olivine and pyroxene, a variety of peridotite."]}
+{"w": "li bella", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "liage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "liaison", "pos": "noun", "d": ["A close connection or means of communication between people or groups.", "An illicit love affair.", "In cooking, a mixture of egg yolks and cream used to thicken a sauce."]}
+{"w": "liana", "pos": "noun", "d": ["A woody climbing vine of tropical forests, rooted in the ground and climbing high into the trees."]}
+{"w": "liane", "pos": "noun", "d": ["A variant spelling of liana, a woody tropical climbing vine."]}
+{"w": "liangle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "liar", "pos": "noun", "d": ["A person who tells lies; one who utters falsehoods."]}
+{"w": "liard", "pos": "adjective", "d": ["Gray or hoary, as the coat of a horse.", "As a noun, an old small copper coin of France."]}
+{"w": "lias", "pos": "noun", "d": ["A formation of bluish-gray limestone of the early Jurassic period, found in England and western Europe."]}
+{"w": "libatory", "pos": "adjective", "d": ["Of or relating to libations; used in pouring out a drink offering."]}
+{"w": "libel", "pos": "noun", "d": ["A published false statement that damages a person's reputation.", "In civil and admiralty law, the written complaint of a plaintiff that begins a suit."]}
+{"w": "libellulid", "pos": "noun", "d": ["A dragonfly of the family Libellulidae, the skimmer dragonflies."]}
+{"w": "libelluloid", "pos": "adjective", "d": ["Resembling a dragonfly; of or relating to the dragonfly family Libellulidae."]}
+{"w": "liberalization", "pos": "noun", "d": ["The act or process of making laws, rules, or practices less strict; the process of becoming more liberal."]}
+{"w": "liberator", "pos": "noun", "d": ["One who sets free; a person who liberates others from bondage or oppression."]}
+{"w": "liberatory", "pos": "adjective", "d": ["Serving to liberate; having the power to set free."]}
+{"w": "libertarian", "pos": "noun", "d": ["One who upholds the principles of individual liberty.", "In philosophy, one who believes in free will."]}
+{"w": "liberticide", "pos": "noun", "d": ["The destruction or killing of liberty.", "A person who destroys liberty."]}
+{"w": "libertinage", "pos": "noun", "d": ["Dissolute or licentious conduct; the behavior of a libertine."]}
+{"w": "libertinism", "pos": "noun", "d": ["The principles or way of life of a libertine; the rejection of moral restraint, especially sexual restraint."]}
+{"w": "libethenite", "pos": "noun", "d": ["A green mineral, a hydrated phosphate of copper."]}
+{"w": "libidinist", "pos": "noun", "d": ["A person given to lust; a lustful or lewd person."]}
+{"w": "libidinosity", "pos": "noun", "d": ["The state of being libidinous; lustfulness."]}
+{"w": "libidinous", "pos": "adjective", "d": ["Full of lust; lewd; lascivious."]}
+{"w": "libra", "pos": "noun", "d": ["The Balance, the seventh sign of the zodiac.", "The pound as a unit of weight."]}
+{"w": "libral", "pos": "adjective", "d": ["Of or relating to the balance or to the pound as a unit of weight."]}
+{"w": "librettist", "pos": "noun", "d": ["The writer of a libretto; one who writes the words of an opera."]}
+{"w": "libretto", "pos": "noun", "d": ["The text or words of an opera or other extended musical work."]}
+{"w": "libriform", "pos": "adjective", "d": ["Shaped like or resembling fibers; fiber-like."]}
+{"w": "libyan", "pos": "adjective", "d": ["Of or relating to Libya or its people.", "As a noun, a native or inhabitant of Libya."]}
+{"w": "lice", "pos": "noun", "d": ["The plural of louse."]}
+{"w": "licensee", "pos": "noun", "d": ["A person or company to whom a license is granted."]}
+{"w": "licensure", "pos": "noun", "d": ["The act of granting a license; the state of being licensed."]}
+{"w": "licentiate", "pos": "noun", "d": ["A person licensed to practice a profession.", "A university degree ranking between a bachelor's degree and a doctorate."]}
+{"w": "licentious", "pos": "adjective", "d": ["Lacking moral restraint; lewd or dissolute.", "Disregarding rules or boundaries; unrestrained."]}
+{"w": "lich", "pos": "noun", "d": ["A dead body; a corpse (archaic)."]}
+{"w": "licheniform", "pos": "adjective", "d": ["Resembling a lichen in shape or manner of growth."]}
+{"w": "lichenin", "pos": "noun", "d": ["A carbohydrate found in Iceland moss and other lichens."]}
+{"w": "lichenographic", "pos": "adjective", "d": ["Of or relating to lichenography, the description of lichens."]}
+{"w": "lichenographist", "pos": "noun", "d": ["One who describes lichens; a writer on lichenography."]}
+{"w": "lichenography", "pos": "noun", "d": ["The branch of botany concerned with the description of lichens."]}
+{"w": "lichenologist", "pos": "noun", "d": ["One versed in the study of lichens; a specialist in lichenology."]}
+{"w": "lichi", "pos": "noun", "d": ["A variant spelling of litchi, the small, round, sweet fruit of a Chinese evergreen tree."]}
+{"w": "licit", "pos": "adjective", "d": ["Lawful; permitted; not forbidden."]}
+{"w": "lick", "pos": "verb", "d": ["To pass the tongue over something.", "To defeat or overcome, as in a fight or contest (informal)."]}
+{"w": "lick-spigot", "pos": "noun", "d": ["A servile flatterer; one who fawns upon others for favor."]}
+{"w": "lick-spittle", "pos": "noun", "d": ["A mean, servile flatterer; a toady."]}
+{"w": "licorice", "pos": "noun", "d": ["A sweet flavoring made from the root of a leguminous plant.", "The plant whose root yields this flavoring."]}
+{"w": "licorous", "pos": "adjective", "d": ["Of, like, or containing liquor; alcoholic."]}
+{"w": "licour", "pos": "noun", "d": ["An archaic spelling of liquor."]}
+{"w": "lictor", "pos": "noun", "d": ["An attendant of an ancient Roman magistrate who carried the fasces as a symbol of authority."]}
+{"w": "lidge", "pos": "noun", "d": ["A variant spelling of ledge."]}
+{"w": "lieberkuehn", "pos": "adjective", "d": ["Designating the tubular glands, or crypts, of the small intestine, named for the anatomist Lieberkuhn."]}
+{"w": "lieberkuhn", "pos": "adjective", "d": ["A variant spelling of Lieberkuehn, designating the intestinal crypts named for the anatomist Lieberkuhn."]}
+{"w": "lied", "pos": "noun", "d": ["A German art song, especially one for voice and piano (plural, lieder)."]}
+{"w": "liederkranz", "pos": "noun", "d": ["A German choral society or singing club.", "A mild, soft cheese resembling Limburger."]}
+{"w": "liedertafel", "pos": "noun", "d": ["A German men's singing club or convivial meeting for part-singing; literally, a song table."]}
+{"w": "lief", "pos": "adjective", "d": ["Dear; beloved; cherished (archaic).", "Willingly; gladly, as in 'as lief'."]}
+{"w": "liegance", "pos": "noun", "d": ["Allegiance; loyalty to a sovereign or lord (archaic)."]}
+{"w": "liege", "pos": "noun", "d": ["A vassal bound by fealty to a lord.", "The lord to whom such fealty is owed."]}
+{"w": "liegiancy", "pos": "noun", "d": ["Allegiance; the bond of loyalty between liege and lord."]}
+{"w": "lien", "pos": "noun", "d": ["A legal claim on property as security for the payment of a debt or obligation."]}
+{"w": "lienculus", "pos": "noun", "d": ["A small spleen; a little spleen."]}
+{"w": "lieno-intestinal", "pos": "adjective", "d": ["Of or relating to the spleen and the intestines."]}
+{"w": "lienteric", "pos": "adjective", "d": ["Of or relating to lientery."]}
+{"w": "lientery", "pos": "noun", "d": ["A form of diarrhea in which food passes through the bowels almost undigested."]}
+{"w": "lier", "pos": "noun", "d": ["One who lies down or reclines; a person remaining in place."]}
+{"w": "lierne rib", "pos": "noun", "d": ["A short secondary rib in a Gothic vaulted ceiling, linking the main ribs to the central bosses."]}
+{"w": "lieu", "pos": "noun", "d": ["A place or position, chiefly used in the phrase in lieu of, meaning instead of."]}
+{"w": "lieutenant general", "pos": "noun", "d": ["A high-ranking army officer, ranking above a major general and below a general."]}
+{"w": "lieve", "pos": "adjective", "d": ["Dear or beloved; an archaic word no longer in everyday use.", "Gladly; willingly, in an archaic sense."]}
+{"w": "lif", "pos": "noun", "d": ["An archaic spelling of the word life, no longer used in modern writing."]}
+{"w": "life-giving", "pos": "adjective", "d": ["Giving or sustaining life, as sunlight is to plants."]}
+{"w": "life-preserver", "pos": "noun", "d": ["A buoyant device, such as a ring or vest, used to keep a person afloat in water."]}
+{"w": "life-saving", "pos": "noun", "d": ["The rescue of people from drowning or other deadly danger.", "Designed or suited to save lives."]}
+{"w": "life-size", "pos": "adjective", "d": ["Exactly the same size as the living thing or object represented."]}
+{"w": "life-weary", "pos": "adjective", "d": ["Tired of living; worn out by the troubles of life."]}
+{"w": "lig", "pos": "verb", "d": ["An obsolete verb meaning to lie down or recline."]}
+{"w": "ligan", "pos": "noun", "d": ["Goods thrown overboard from a ship but tied to a buoy so they can be found and recovered."]}
+{"w": "ligator", "pos": "noun", "d": ["A person who binds or ties things.", "A surgical instrument used to tie off blood vessels."]}
+{"w": "ligature", "pos": "noun", "d": ["A band or thread used to tie something tightly, especially in surgery to close a blood vessel.", "Two or more letters joined into a single character in printing."]}
+{"w": "lige", "pos": "noun", "d": ["An obsolete form of the word liege, a feudal lord or vassal."]}
+{"w": "ligge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "light signals", "pos": "noun", "d": ["Signals made with lights, such as those on ships, aircraft, or at road intersections."]}
+{"w": "light year", "pos": "noun", "d": ["The distance that light travels in one year, used as a measure of vast distances in space."]}
+{"w": "light-armed", "pos": "adjective", "d": ["Carrying only light weapons or little armor."]}
+{"w": "light-boat", "pos": "noun", "d": ["A vessel carrying a beacon light, anchored where a lighthouse cannot be built."]}
+{"w": "light-fingered", "pos": "adjective", "d": ["Skilled at using the fingers quickly, especially at stealing without being noticed."]}
+{"w": "light-foot", "pos": "noun", "d": ["A person who moves quickly and lightly on the feet."]}
+{"w": "light-handed", "pos": "adjective", "d": ["Using a gentle touch rather than force."]}
+{"w": "light-headed", "pos": "adjective", "d": ["Feeling dizzy or faint, as if the head were empty."]}
+{"w": "light-hearted", "pos": "adjective", "d": ["Cheerful and free from worry."]}
+{"w": "light-heeled", "pos": "adjective", "d": ["Moving nimbly and lightly on the feet."]}
+{"w": "light-horseman", "pos": "noun", "d": ["A soldier serving in a light cavalry unit."]}
+{"w": "light-legged", "pos": "adjective", "d": ["Moving quickly and nimbly; light on the legs."]}
+{"w": "light-minded", "pos": "adjective", "d": ["Not serious; given to frivolous thoughts."]}
+{"w": "light-winged", "pos": "adjective", "d": ["Having light wings; moving swiftly and gracefully, as if on wings."]}
+{"w": "lighte", "pos": "adjective", "d": ["An obsolete form of the word light."]}
+{"w": "lighty", "pos": "adverb", "d": ["An obsolete form of lightly."]}
+{"w": "lign-aloes", "pos": "noun", "d": ["A fragrant wood from certain tropical trees, used in perfumes and incense."]}
+{"w": "ligneous", "pos": "adjective", "d": ["Woody in texture or nature; like wood."]}
+{"w": "ligniferous", "pos": "adjective", "d": ["Yielding or producing wood."]}
+{"w": "lignification", "pos": "noun", "d": ["The process by which plant tissue becomes hard and woody."]}
+{"w": "ligniform", "pos": "adjective", "d": ["Shaped like wood; having the form of wood."]}
+{"w": "lignify", "pos": "verb", "d": ["To turn into wood or become woody in texture."]}
+{"w": "ligniperdous", "pos": "adjective", "d": ["Destroying wood, as certain insects and fungi do."]}
+{"w": "lignireose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lignite", "pos": "noun", "d": ["A soft brown coal, less fully formed than bituminous coal."]}
+{"w": "lignitic", "pos": "adjective", "d": ["Relating to or resembling lignite."]}
+{"w": "lignitiferous", "pos": "adjective", "d": ["Yielding or containing lignite."]}
+{"w": "lignoceric", "pos": "adjective", "d": ["Relating to a fatty acid found in wood tar and certain plant waxes."]}
+{"w": "lignum rhodium", "pos": "noun", "d": ["A fragrant wood obtained from certain shrubs of South Africa."]}
+{"w": "lignum-vitae", "pos": "noun", "d": ["The very hard, dense wood of certain tropical trees, used for bearings and mallets."]}
+{"w": "ligula", "pos": "noun", "d": ["A small strap-shaped part; in grasses, the thin membrane at the base of the leaf blade."]}
+{"w": "ligulate", "pos": "adjective", "d": ["Strap-shaped; having a ligula."]}
+{"w": "liguliflorous", "pos": "adjective", "d": ["Bearing strap-shaped flower petals, as the dandelion does."]}
+{"w": "ligustrin", "pos": "noun", "d": ["A bitter crystalline substance obtained from the privet plant."]}
+{"w": "like-minded", "pos": "adjective", "d": ["Having similar opinions or tastes."]}
+{"w": "likeliness", "pos": "noun", "d": ["The quality of being likely; probability."]}
+{"w": "liken", "pos": "verb", "d": ["To compare one thing to another, pointing out a resemblance."]}
+{"w": "likerous", "pos": "adjective", "d": ["Eager and desirous; also, lustful or greedy for pleasure."]}
+{"w": "likin", "pos": "noun", "d": ["A former Chinese tax levied on goods carried through the interior of the country."]}
+{"w": "lilac", "pos": "noun", "d": ["A flowering shrub with fragrant blossoms, usually purple or white.", "A pale purple color."]}
+{"w": "lilacin", "pos": "adjective", "d": ["Lilac-colored; of a pale purple shade."]}
+{"w": "liliaceous", "pos": "adjective", "d": ["Belonging to the lily family of plants."]}
+{"w": "lill", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lilliputian", "pos": "adjective", "d": ["Extremely small, like the tiny people of Lilliput in Swift's tale.", "A very small person or thing."]}
+{"w": "lilly-pilly", "pos": "noun", "d": ["An Australian tree bearing clusters of edible berry-like fruit."]}
+{"w": "lilt", "pos": "noun", "d": ["A light, cheerful tune or rhythmic way of singing.", "To sing or play with a light, swinging rhythm."]}
+{"w": "lily", "pos": "noun", "d": ["A plant with large, showy, trumpet-shaped flowers grown from a bulb."]}
+{"w": "lily-handed", "pos": "adjective", "d": ["Having soft, delicate hands unused to hard work."]}
+{"w": "lily-livered", "pos": "adjective", "d": ["Cowardly; lacking courage."]}
+{"w": "lim", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lim naea", "pos": "noun", "d": ["A genus of small freshwater snails found in ponds and lakes."]}
+{"w": "lima", "pos": "noun", "d": ["A file, a tool with a roughened surface for smoothing metal or wood."]}
+{"w": "limaceous", "pos": "adjective", "d": ["Resembling or relating to a slug."]}
+{"w": "limacina", "pos": "noun", "d": ["A genus of tiny swimming sea snails, sometimes called sea butterflies."]}
+{"w": "limaille", "pos": "noun", "d": ["Fine filings of metal."]}
+{"w": "liman", "pos": "noun", "d": ["A shallow lagoon or inlet of the sea, especially at the mouth of a river."]}
+{"w": "limature", "pos": "noun", "d": ["The act of filing metal.", "The fine particles produced by filing."]}
+{"w": "limax", "pos": "noun", "d": ["A genus of large land slugs."]}
+{"w": "limb", "pos": "noun", "d": ["An arm or leg of a person or animal.", "A large branch of a tree."]}
+{"w": "limbec", "pos": "noun", "d": ["An obsolete form of alembic, a vessel used in distilling."]}
+{"w": "limbo", "pos": "noun", "d": ["A place or state of waiting, uncertainty, or neglect.", "In theology, a border region of hell."]}
+{"w": "limburg cheese", "pos": "noun", "d": ["A strong-smelling soft cheese, also called limburger."]}
+{"w": "limburger cheese", "pos": "noun", "d": ["A pungent soft cheese with a strong odor, made in the region of Limburg."]}
+{"w": "lime twig", "pos": "noun", "d": ["A twig smeared with birdlime, a sticky substance used to catch birds."]}
+{"w": "lime-twigged", "pos": "adjective", "d": ["Set with lime twigs; caught by a lime twig."]}
+{"w": "limenean", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "limicolae", "pos": "noun", "d": ["A group of wading shorebirds, such as sandpipers and plovers."]}
+{"w": "limicoline", "pos": "adjective", "d": ["Relating to the limicolae, or wading shorebirds."]}
+{"w": "liminess", "pos": "noun", "d": ["The quality of being limy; containing lime or having its nature."]}
+{"w": "limitaneous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "limn", "pos": "verb", "d": ["To paint or draw; to portray in words or images."]}
+{"w": "limniad", "pos": "noun", "d": ["A nymph of a lake or marsh in classical mythology."]}
+{"w": "limoges", "pos": "noun", "d": ["A city in central France, famed for its enamelwork and fine porcelain."]}
+{"w": "limoniad", "pos": "noun", "d": ["An obsolete word for lemonade."]}
+{"w": "limonin", "pos": "noun", "d": ["A bitter compound found in the seeds and rind of citrus fruits."]}
+{"w": "limonite", "pos": "noun", "d": ["A brownish iron ore, a hydrated oxide of iron."]}
+{"w": "limosis", "pos": "noun", "d": ["A diseased or abnormally great appetite."]}
+{"w": "limousine", "pos": "noun", "d": ["A large, luxurious automobile, often driven by a chauffeur."]}
+{"w": "limp", "pos": "verb", "d": ["To walk with an uneven step, favoring one leg.", "To walk in a halting, uneven manner."]}
+{"w": "limpid", "pos": "adjective", "d": ["Perfectly clear and transparent, as still water."]}
+{"w": "limpingly", "pos": "adverb", "d": ["In a limping manner; with an uneven gait."]}
+{"w": "limpitude", "pos": "noun", "d": ["The state or quality of being limp."]}
+{"w": "limpsy", "pos": "adjective", "d": ["Limp and flimsy; easily bent."]}
+{"w": "limsy", "pos": "adjective", "d": ["Limp and flimsy; yielding easily to the touch."]}
+{"w":"limu","pos":"noun","d":["A Hawaiian name for edible seaweed or algae."]}
+{"w":"limuloidea","pos":"noun","d":["A superfamily of marine arthropods that includes the horseshoe crabs."]}
+{"w":"limulus","pos":"noun","d":["The genus of horseshoe crabs found along the Atlantic coast of North America."]}
+{"w":"limy","pos":"adjective","d":["Containing lime or resembling lime."]}
+{"w":"lin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"linarite","pos":"noun","d":["A deep blue mineral made of lead copper sulfate hydroxide."]}
+{"w":"linch","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"linchi","pos":"noun","d":["A sweet tropical fruit with a rough reddish rind and juicy white flesh; the lychee."]}
+{"w":"lincoln green","pos":"phrase","d":["A vivid green color or the woolen cloth dyed that color, traditionally worn in the tales of Robin Hood."]}
+{"w":"lincture","pos":"noun","d":["A thick sweetened medicine taken to soothe a cough; a linctus."]}
+{"w":"linctus","pos":"noun","d":["A thick sweetened medicine taken by the spoonful to soothe a cough."]}
+{"w":"lind","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"lindia","pos":"noun","d":["A genus of microscopic aquatic animals known as rotifers."]}
+{"w":"lindiform","pos":"adjective","d":["Shaped like the leaf of a linden tree."]}
+{"w":"line-up","pos":"phrase","d":["A row of people or things arranged for inspection, selection, or performance.","The list of players or performers taking part in an event."]}
+{"w":"linear-shaped","pos":"adjective","d":["Long and narrow like a line, with nearly parallel sides."]}
+{"w":"lineature","pos":"noun","d":["Lines drawn on a surface, or the pattern they make together."]}
+{"w":"lineolate","pos":"adjective","d":["Marked with fine or faint lines."]}
+{"w":"lineup","pos":"noun","d":["A row of people or things arranged in order for inspection or competition.","The list of players or performers taking part in an event."]}
+{"w":"ling","pos":"noun","d":["A large marine food fish related to the cod.","A low shrub with tiny purple flowers that grows on moors; common heather."]}
+{"w":"ling-bird","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"linga","pos":"noun","d":["A rounded stone pillar worshiped as a symbol of the Hindu god Shiva."]}
+{"w":"lingel","pos":"noun","d":["A strong waxed thread used by shoemakers for stitching leather."]}
+{"w":"lingle","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"lingo","pos":"noun","d":["The special words and phrases used by a particular group or field.","An unfamiliar foreign language."]}
+{"w":"lingoa wood","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"lingua","pos":"noun","d":["The tongue, especially when described in anatomy."]}
+{"w":"lingua franca","pos":"phrase","d":["A common language used by speakers of different native languages to communicate with each other."]}
+{"w":"linguacious","pos":"adjective","d":["Talkative; fond of talking."]}
+{"w":"lingual","pos":"adjective","d":["Relating to the tongue.","Relating to language or the study of languages."]}
+{"w":"linguatulida","pos":"noun","d":["An order of wormlike parasitic arthropods known as tongue worms."]}
+{"w":"linguatulina","pos":"noun","d":["A genus of parasitic tongue worms."]}
+{"w":"linguidental","pos":"adjective","d":["Pronounced with the tongue touching the teeth."]}
+{"w":"linguiform","pos":"adjective","d":["Shaped like a tongue."]}
+{"w":"linguist","pos":"noun","d":["A person skilled in languages.","A scholar who studies the science of language."]}
+{"w":"lingulate","pos":"adjective","d":["Tongue-shaped; having a tongue-shaped part."]}
+{"w":"linigerous","pos":"adjective","d":["Bearing or producing flax."]}
+{"w":"liniment","pos":"noun","d":["A liquid medicine rubbed on the skin to ease pain or stiffness."]}
+{"w":"link motion","pos":"phrase","d":["A steam-engine valve gear in which a slotted curved link controls the motion of the valve."]}
+{"w":"linnaea borealis","pos":"phrase","d":["A creeping evergreen plant with pairs of small pink bell-shaped flowers; the twinflower."]}
+{"w":"linnaean","pos":"adjective","d":["Relating to the Swedish naturalist Linnaeus or to his system of classifying plants and animals."]}
+{"w":"linnaeite","pos":"noun","d":["A mineral made chiefly of cobalt sulfide, often with a metallic luster."]}
+{"w":"linne","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"linnean","pos":"adjective","d":["Relating to Linnaeus or his system of classification; Linnaean."]}
+{"w":"linoleum","pos":"noun","d":["A smooth floor covering made of linseed oil, cork dust, and pigments pressed onto a canvas backing."]}
+{"w":"linotype","pos":"noun","d":["A machine that casts an entire line of type as a single metal slug for printing."]}
+{"w":"linoxin","pos":"noun","d":["The tough elastic substance formed when linseed oil hardens by oxidation."]}
+{"w":"linsey-woolsey","pos":"noun","d":["A coarse sturdy fabric woven with a linen warp and a woolen weft."]}
+{"w":"lint","pos":"noun","d":["Tiny loose fibers that collect on clothing and cloth.","Soft absorbent cotton used for dressing wounds."]}
+{"w":"lintel","pos":"noun","d":["A horizontal beam or block spanning the top of a door or window opening."]}
+{"w":"linum","pos":"noun","d":["The genus of plants that includes flax."]}
+{"w":"lion-heart","pos":"phrase","d":["A person of exceptional courage."]}
+{"w":"lionced","pos":"adjective","d":["In heraldry, describing a lion shown walking with its head turned toward the viewer."]}
+{"w":"lioncel","pos":"noun","d":["A young lion."]}
+{"w":"lionel","pos":"noun","d":["A masculine given name."]}
+{"w":"lioness","pos":"noun","d":["A female lion."]}
+{"w":"lionet","pos":"noun","d":["A small or young lion."]}
+{"w":"lipaemia","pos":"noun","d":["An excess of fat in the blood."]}
+{"w":"lipans","pos":"noun","d":["The Lipan Apaches, an Apache people of Texas and northern Mexico."]}
+{"w":"liparite","pos":"noun","d":["A light-colored volcanic rock rich in quartz; rhyolite."]}
+{"w":"lipinic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"lipocephala","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"lipochrin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"lipogram","pos":"noun","d":["A piece of writing composed without using a particular letter of the alphabet."]}
+{"w":"lipogrammatic","pos":"adjective","d":["Written without using a particular letter of the alphabet."]}
+{"w":"lipogrammatist","pos":"noun","d":["A person who writes lipograms."]}
+{"w":"lipoma","pos":"noun","d":["A benign tumor made of fatty tissue."]}
+{"w":"lipothymic","pos":"adjective","d":["Relating to or marked by fainting."]}
+{"w":"lipothymous","pos":"adjective","d":["Given to fainting; inclined to swoon."]}
+{"w":"lipothymy","pos":"noun","d":["A fainting fit."]}
+{"w":"lippitude","pos":"noun","d":["A watery, bleary condition of the eyes."]}
+{"w":"lipse","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"lipyl","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"liquable","pos":"adjective","d":["Capable of being melted or liquefied."]}
+{"w":"liquate","pos":"verb","d":["To melt and separate by heating, as metals from their ores."]}
+{"w":"liquation","pos":"noun","d":["The separation of metals by melting, so that the more fusible metal flows away from the less fusible."]}
+{"w":"liquefacient","pos":"adjective","d":["Causing or promoting liquefaction."]}
+{"w":"liquefaction","pos":"noun","d":["The act or process of turning into a liquid."]}
+{"w":"liquefiable","pos":"adjective","d":["Capable of being turned into a liquid."]}
+{"w":"liquefy","pos":"verb","d":["To make liquid or become liquid."]}
+{"w":"liquescency","pos":"noun","d":["The quality or state of melting or becoming liquid."]}
+{"w":"liquescent","pos":"adjective","d":["Becoming liquid; tending to melt."]}
+{"w":"liqueur","pos":"noun","d":["A sweet flavored alcoholic drink, usually served after a meal."]}
+{"w":"liquid air","pos":"phrase","d":["Air cooled until it becomes a liquid, used as a refrigerant."]}
+{"w":"liquidambar","pos":"noun","d":["A tree of eastern North America with star-shaped leaves and spiny seed balls; the sweet gum."]}
+{"w":"liquidator","pos":"noun","d":["A person appointed to wind up a business, selling its assets and settling its debts."]}
+{"w":"liquor","pos":"noun","d":["An alcoholic drink, especially distilled spirits.","Any liquid substance."]}
+{"w":"lira","pos":"noun","d":["The former basic unit of money in Italy."]}
+{"w":"lirella","pos":"noun","d":["A long narrow spore-bearing structure on the surface of certain lichens."]}
+{"w":"lirelliform","pos":"adjective","d":["Shaped like a lirella; long and narrow with a slitlike opening."]}
+{"w":"liriodendron","pos":"noun","d":["The genus of trees that includes the tulip tree."]}
+{"w":"liripipe","pos":"noun","d":["The long trailing tip of a medieval hood."]}
+{"w":"liripoop","pos":"noun","d":["The long trailing tip of a medieval hood; a liripipe."]}
+{"w":"liroconite","pos":"noun","d":["A blue-green mineral made of copper arsenate."]}
+{"w":"lisbon","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"lisle","pos":"noun","d":["A fine smooth cotton thread used for making stockings and gloves."]}
+{"w":"lisne","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"lisp","pos":"verb","d":["To pronounce the sounds of s and z with the tongue between the teeth."]}
+{"w":"lispingly","pos":"adverb","d":["In a lisping manner; with a lisp."]}
+{"w":"liss","pos":"noun","d":["Release or relief, as from pain; remission."]}
+{"w": "lissencephala", "pos": "noun", "d": ["A group of mammals whose brains have smooth surfaces without ridges or folds, such as rats and kangaroos."]}
+{"w": "lissom", "pos": "adjective", "d": ["Supple and graceful in movement, like a dancer."]}
+{"w": "lissome", "pos": "adjective", "d": ["Flexible and graceful in the way one moves the body."]}
+{"w": "listel", "pos": "noun", "d": ["A narrow flat band of molding set between larger curves in a cornice or column.", "The raised rim running around the edge of a coin."]}
+{"w": "listerian", "pos": "adjective", "d": ["Relating to Joseph Lister or to the antiseptic methods of surgery he introduced."]}
+{"w": "litarge", "pos": "noun", "d": ["A variant spelling of litharge, an oxide of lead used in glazing, paint, and glassmaking."]}
+{"w": "litchi", "pos": "noun", "d": ["A small round Chinese fruit with a rough red shell, sweet white flesh, and a large seed, also called lychee."]}
+{"w": "literalization", "pos": "noun", "d": ["The act of making something literal or of rendering it in plain, nonfigurative terms."]}
+{"w": "literati", "pos": "noun", "d": ["People of broad learning and literary culture, especially as a social group."]}
+{"w": "literatim", "pos": "adverb", "d": ["Letter by letter, in the exact words of the original."]}
+{"w": "literator", "pos": "noun", "d": ["A learned person or teacher of letters, especially in ancient usage."]}
+{"w": "literatus", "pos": "noun", "d": ["A learned or scholarly person; a man of letters."]}
+{"w": "lith", "pos": "noun", "d": ["A limb or joint of the body, an archaic form of the word limb."]}
+{"w": "lithaemia", "pos": "noun", "d": ["An excess of lithic acid in the blood, believed in older medicine to cause gout and rheumatic complaints."]}
+{"w": "lithagogue", "pos": "noun", "d": ["A medicine intended to drive small stones or gravel from the kidneys or bladder."]}
+{"w": "litharge", "pos": "noun", "d": ["A yellowish-red oxide of lead, formed in refining silver and used in paints, glazes, and ointments."]}
+{"w": "lithargyrum", "pos": "noun", "d": ["The Latin name for litharge, the oxide of lead used in pigments and glass."]}
+{"w": "lithe", "pos": "adjective", "d": ["Bending and moving easily; supple and graceful."]}
+{"w": "lithia", "pos": "noun", "d": ["The oxide of lithium, a substance once sought in mineral waters for its supposed health effects."]}
+{"w": "lithiophilite", "pos": "noun", "d": ["A brownish phosphate mineral containing lithium and manganese."]}
+{"w": "lithium", "pos": "noun", "d": ["A very light silvery metal, the lightest of all metals, widely used in rechargeable batteries and in treating mood disorders."]}
+{"w": "litho", "pos": "abbreviation", "d": ["Short for lithograph or lithography."]}
+{"w": "lithobilic", "pos": "adjective", "d": ["Living on or among stones, as certain lichens and small animals do."]}
+{"w": "lithochromics", "pos": "noun", "d": ["The art of painting or printing in colors upon stone."]}
+{"w": "lithoclast", "pos": "noun", "d": ["A surgical instrument for crushing stones in the bladder so the fragments can pass."]}
+{"w": "lithodomous", "pos": "adjective", "d": ["Boring into or dwelling inside rock or stone, as some bivalve mollusks do."]}
+{"w": "lithodomus", "pos": "noun", "d": ["A genus of bivalve mollusks that bore holes into rock and coral to live in."]}
+{"w": "lithofellic", "pos": "adjective", "d": ["Relating to the stony concretions called bezoars that form in the stomachs of animals."]}
+{"w": "lithofracteur", "pos": "noun", "d": ["A powerful blasting explosive containing nitroglycerin, used in mining and quarrying."]}
+{"w": "lithogenesy", "pos": "noun", "d": ["The formation or origin of stony concretions and mineral deposits."]}
+{"w": "lithogenous", "pos": "adjective", "d": ["Producing stone or causing stony concretions to form."]}
+{"w": "lithograph", "pos": "noun", "d": ["A print made by the process of lithography from a flat stone or metal plate.", "To print by lithography."]}
+{"w": "lithography", "pos": "noun", "d": ["A printing process in which the image is drawn on a flat stone or plate and transferred to paper with ink."]}
+{"w": "lithoid", "pos": "adjective", "d": ["Having the look or nature of stone; stonelike."]}
+{"w": "litholatry", "pos": "noun", "d": ["The worship of stones as sacred or divine objects."]}
+{"w": "lithologist", "pos": "noun", "d": ["One who studies rocks and minerals."]}
+{"w": "lithomancy", "pos": "noun", "d": ["Divination by means of stones, such as casting them and reading how they fall."]}
+{"w": "lithonthriptic", "pos": "adjective", "d": ["Having the property of dissolving or breaking down stones in the bladder."]}
+{"w": "lithonthryptic", "pos": "adjective", "d": ["Tending to dissolve urinary stones; a variant form of lithontriptic."]}
+{"w": "lithontriptic", "pos": "adjective", "d": ["Tending to dissolve or break apart stones in the bladder.", "A medicine intended to dissolve stones in the bladder."]}
+{"w": "lithontriptist", "pos": "noun", "d": ["A surgeon who treats stones in the bladder by crushing or dissolving them."]}
+{"w": "lithontriptor", "pos": "noun", "d": ["A surgical instrument for crushing stones in the bladder."]}
+{"w": "lithophagous", "pos": "adjective", "d": ["Eating into or boring through stone, as certain mollusks and insects do."]}
+{"w": "lithophyll", "pos": "noun", "d": ["A fossil leaf, or the imprint of a leaf preserved in stone."]}
+{"w": "lithophyse", "pos": "noun", "d": ["A small hollow stony concretion found in volcanic rocks."]}
+{"w": "lithophyte", "pos": "noun", "d": ["A plant that grows on bare rock or stone."]}
+{"w": "lithophytic", "pos": "adjective", "d": ["Growing on rocks or stones, as some orchids and mosses do."]}
+{"w": "lithophytous", "pos": "adjective", "d": ["Living or growing upon stone; rock-dwelling, like certain plants."]}
+{"w": "lithosian", "pos": "adjective", "d": ["Relating to the moths of the genus Lithosia, a group of small lichen-feeding moths."]}
+{"w": "lithotomic", "pos": "adjective", "d": ["Relating to lithotomy, the surgical removal of bladder stones."]}
+{"w": "lithotomist", "pos": "noun", "d": ["A surgeon who performs lithotomy for the removal of bladder stones."]}
+{"w": "lithotomy", "pos": "noun", "d": ["A surgical operation in which stones are cut out of the bladder."]}
+{"w": "lithotripsy", "pos": "noun", "d": ["The crushing of stones in the bladder with a surgical instrument so they can be passed naturally."]}
+{"w": "lithotriptic", "pos": "adjective", "d": ["Relating to lithotripsy, the crushing of stones in the bladder."]}
+{"w": "lithotriptist", "pos": "noun", "d": ["One who crushes stones in the bladder, especially with shock waves or instruments."]}
+{"w": "lithotriptor", "pos": "noun", "d": ["An instrument or device used to break stones in the bladder into small fragments."]}
+{"w": "lithotritist", "pos": "noun", "d": ["A practitioner who crushes bladder stones into fragments for removal."]}
+{"w": "lithotritor", "pos": "noun", "d": ["A surgical instrument for breaking up stones in the bladder."]}
+{"w": "lithotrity", "pos": "noun", "d": ["The surgical operation of crushing a stone in the bladder."]}
+{"w": "lithotypy", "pos": "noun", "d": ["A method of printing from stone so as to imitate ordinary type."]}
+{"w": "lithoxyl", "pos": "noun", "d": ["Petrified or fossil wood turned to stone by mineral replacement."]}
+{"w": "lithuanian", "pos": "noun", "d": ["A native or citizen of Lithuania.", "Relating to Lithuania, its people, or its language."]}
+{"w": "lithy", "pos": "adjective", "d": ["Having the nature of stone; stony."]}
+{"w": "litigable", "pos": "adjective", "d": ["Capable of being contested or decided in a court of law."]}
+{"w": "litigant", "pos": "noun", "d": ["A party to a lawsuit; one engaged in litigation."]}
+{"w": "litigate", "pos": "verb", "d": ["To carry on a lawsuit; to contest a claim in court."]}
+{"w": "litigator", "pos": "noun", "d": ["A lawyer who conducts lawsuits in court."]}
+{"w": "litigious", "pos": "adjective", "d": ["Fond of lawsuits; inclined to quarrel and go to court over small matters."]}
+{"w": "litotes", "pos": "noun", "d": ["A figure of speech in which an idea is expressed by denying its opposite, as in saying something is not bad to mean it is good."]}
+{"w": "litraneter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "litre", "pos": "noun", "d": ["A metric unit of capacity equal to about one quart, spelled liter in American usage."]}
+{"w": "litterateur", "pos": "noun", "d": ["A literary person; a man of letters devoted to literature."]}
+{"w": "littery", "pos": "adjective", "d": ["Strewn with litter; untidy and full of scattered trash."]}
+{"w": "little-ease", "pos": "noun", "d": ["A tiny prison cell too cramped for a person to stand, sit, or lie in comfortably, used in old English prisons."]}
+{"w": "littoral", "pos": "adjective", "d": ["Relating to the shore of a sea or lake.", "The region along the shore of a sea or lake."]}
+{"w": "littorina", "pos": "noun", "d": ["A genus of small sea snails with thick spiral shells, commonly called periwinkles."]}
+{"w": "lituate", "pos": "adjective", "d": ["Shaped like a lituus, a curved staff; forked or bent at the end."]}
+{"w": "lituiform", "pos": "adjective", "d": ["Having the form of a lituus; curved like an augur's staff."]}
+{"w": "lituite", "pos": "noun", "d": ["A fossil of an extinct coiled cephalopod of the genus Lituites."]}
+{"w": "liturgic", "pos": "adjective", "d": ["Relating to liturgy or to forms of public worship."]}
+{"w": "liturgiologist", "pos": "noun", "d": ["One skilled in the study of liturgies and rites of worship."]}
+{"w": "liturgiology", "pos": "noun", "d": ["The study of liturgies and the history of forms of worship."]}
+{"w": "liturgist", "pos": "noun", "d": ["One who conducts a liturgy, or an expert in liturgical practice."]}
+{"w": "liturgy", "pos": "noun", "d": ["A prescribed form of public worship used by a church or religious body."]}
+{"w": "lituus", "pos": "noun", "d": ["A curved staff carried by the augurs, or priests, of ancient Rome.", "A spiral curve in mathematics whose radius shrinks as it winds outward."]}
+{"w": "live-forever", "pos": "noun", "d": ["A fleshy-leaved plant of the stonecrop family, such as orpine, that stays fresh long after being picked."]}
+{"w": "livelihed", "pos": "noun", "d": ["An archaic or dialectal form of the word livelihood."]}
+{"w": "livelihood", "pos": "noun", "d": ["The means by which one earns a living; one's occupation or source of income."]}
+{"w": "liveliness", "pos": "noun", "d": ["The quality of being full of life, energy, and high spirits."]}
+{"w": "liver-colored", "pos": "adjective", "d": ["Of a dark reddish-brown color like that of liver."]}
+{"w": "liver-grown", "pos": "adjective", "d": ["Having an enlarged or diseased liver."]}
+{"w": "livery", "pos": "noun", "d": ["A distinctive uniform worn by servants or members of an organization.", "The business of keeping horses or carriages for hire."]}
+{"w": "livery stable", "pos": "phrase", "d": ["A stable where horses are kept for hire or boarded for their owners."]}
+{"w": "livid", "pos": "adjective", "d": ["Discolored black and blue, as by a bruise.", "Furiously angry; white with rage."]}
+{"w": "living picture", "pos": "phrase", "d": ["A group of motionless costumed people arranged to represent a scene or painting, also called a tableau vivant."]}
+{"w": "livonian", "pos": "adjective", "d": ["Relating to Livonia, a historic region on the eastern shore of the Baltic Sea.", "A native or inhabitant of Livonia."]}
+{"w": "livor", "pos": "noun", "d": ["The bluish discoloration of a bruise or of a dead body after blood settles."]}
+{"w": "livraison", "pos": "noun", "d": ["The delivery of goods, or one installment of a work issued in parts."]}
+{"w": "livre", "pos": "noun", "d": ["An old French unit of money, used before the franc was introduced."]}
+{"w": "lixivial", "pos": "adjective", "d": ["Relating to lye or to the process of leaching alkaline salts from ashes with water."]}
+{"w": "lixiviate", "pos": "verb", "d": ["To extract a substance from a solid by washing or soaking it in a liquid, as lye is drawn from wood ashes."]}
+{"w": "lixiviation", "pos": "noun", "d": ["The process of leaching a soluble substance out of a solid material with a liquid."]}
+{"w": "lixivious", "pos": "adjective", "d": ["Having the nature of lye or an alkaline solution; pertaining to lixiviation."]}
+{"w": "lixivited", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lixivium", "pos": "noun", "d": ["Water impregnated with alkaline salts; a lye solution obtained by leaching ashes."]}
+{"w": "lixt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "liza", "pos": "noun", "d": ["A mullet of the genus Liza, a slender silvery marine fish."]}
+{"w": "lizard", "pos": "noun", "d": ["A cold-blooded reptile with a long body, four legs, and a tapering tail, such as a gecko or iguana."]}
+{"w": "llama", "pos": "noun", "d": ["A South American pack animal related to the camel, with a long neck and a thick woolly coat.", "An artificial-intelligence language model or assistant (in modern technical use)."]}
+{"w": "llandeilo group", "pos": "phrase", "d": ["A series of Ordovician rock strata in Wales, named for the town of Llandeilo."]}
+{"w": "llanero", "pos": "noun", "d": ["A cowboy or herdsman of the llanos, the vast grassy plains of Venezuela and Colombia."]}
+{"w": "llano", "pos": "noun", "d": ["A vast treeless grassy plain, especially of the southwestern United States or South America."]}
+{"w": "loach", "pos": "noun", "d": ["A small slender freshwater fish with barbels around its mouth."]}
+{"w": "loadsman", "pos": "noun", "d": ["A pilot who steers a ship through difficult waters.", "One who loads cargo."]}
+{"w": "loaf", "pos": "noun", "d": ["A shaped mass of bread baked in one piece.", "A shaped block of some food or substance, as a loaf of sugar."]}
+{"w": "loam", "pos": "noun", "d": ["A rich soil of sand, silt, and clay, good for growing plants."]}
+{"w": "loamy", "pos": "adjective", "d": ["Consisting of or resembling loam; rich and crumbly like good garden soil."]}
+{"w": "loanin", "pos": "noun", "d": ["In Scotland, a grassy lane between fields, often used as a place for milking cows."]}
+{"w": "loath", "pos": "adjective", "d": ["Unwilling or reluctant to do something."]}
+{"w": "loathe", "pos": "verb", "d": ["To hate intensely; to regard with disgust."]}
+{"w": "loathliness", "pos": "noun", "d": ["The quality of being loathsome; disgustingness."]}
+{"w": "loathy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "loaves", "pos": "noun", "d": ["The plural of loaf; shaped masses of bread."]}
+{"w": "lob", "pos": "verb", "d": ["To toss or hit a ball in a high arc, as over an opponent's head in tennis."]}
+{"w": "lobar", "pos": "adjective", "d": ["Of or relating to a lobe of an organ, especially of the lung."]}
+{"w": "lobe", "pos": "noun", "d": ["A rounded projecting part of an organ or structure, as the lobe of the ear.", "A rounded division of an organ, as a lobe of the brain or lung."]}
+{"w": "lobe-footed", "pos": "adjective", "d": ["Having feet with lobed or scalloped toes, as some water birds."]}
+{"w": "lobelia", "pos": "noun", "d": ["A plant of the genus Lobelia, with showy tubular flowers, some kinds used in herbal medicine."]}
+{"w": "lobeliaceous", "pos": "adjective", "d": ["Belonging to the lobelia family of plants."]}
+{"w": "lobiped", "pos": "noun", "d": ["A bird with lobed toes, as a grebe or coot."]}
+{"w": "loblolly", "pos": "noun", "d": ["A pine tree of the southern United States, widely grown for timber.", "A mudhole or mire.", "A ship's surgeon (old nautical slang)."]}
+{"w": "lobosa", "pos": "noun", "d": ["A group of amoeba-like protozoa that move by means of blunt lobed pseudopods."]}
+{"w": "lobspound", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "lobster", "pos": "noun", "d": ["A large marine crustacean with a hard shell, long antennae, and powerful claws, eaten as seafood."]}
+{"w": "lobular", "pos": "adjective", "d": ["Relating to or shaped like a lobule; made up of lobules."]}
+{"w": "lobulate", "pos": "adjective", "d": ["Divided into or bearing small lobes or lobules."]}
+{"w": "lobulette", "pos": "noun", "d": ["A very small lobule."]}
+{"w": "localization", "pos": "noun", "d": ["The act of confining something to a particular place or locality.", "The adaptation of a product or text to a particular language and culture."]}
+{"w": "locative", "pos": "adjective", "d": ["In grammar, denoting the case that expresses place or location."]}
+{"w": "locellate", "pos": "adjective", "d": ["Divided into small compartments or cavities."]}
+{"w": "loch", "pos": "noun", "d": ["A lake in Scotland.", "A narrow inlet of the sea."]}
+{"w": "lochaber ax", "pos": "phrase", "d": ["A Scottish polearm with a long shaft and a broad ax-like blade."]}
+{"w": "lochaber axe", "pos": "phrase", "d": ["A Scottish polearm with a long shaft and a broad ax-like blade."]}
+{"w": "lochan", "pos": "noun", "d": ["A small loch; a little lake in Scotland."]}
+{"w": "loche", "pos": "noun", "d": ["An older form of the word loach, a small freshwater fish."]}
+{"w": "lochia", "pos": "noun", "d": ["The vaginal discharge that occurs after childbirth."]}
+{"w": "lock hospital", "pos": "phrase", "d": ["A hospital for the treatment of venereal diseases (a historical term)."]}
+{"w": "lock step", "pos": "phrase", "d": ["A way of marching in which each person keeps close behind the one ahead.", "Exact agreement or close conformity with another's actions."]}
+{"w": "lock stitch", "pos": "phrase", "d": ["A sewing-machine stitch made by interlocking an upper and a lower thread."]}
+{"w": "lock-down", "pos": "noun", "d": ["A security measure in which people are confined to a place and no one may enter or leave."]}
+{"w": "lock-weir", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "locked-jaw", "pos": "noun", "d": ["Tetanus, a disease that causes the jaw muscles to stiffen and lock."]}
+{"w": "locket", "pos": "noun", "d": ["A small ornamental case, often holding a portrait or keepsake, worn on a chain around the neck."]}
+{"w": "lockup", "pos": "noun", "d": ["A jail for temporary confinement.", "The act of locking up."]}
+{"w": "locky", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "loco", "pos": "noun", "d": ["A plant, also called locoweed, that is poisonous to livestock and causes loco disease.", "A crazy or eccentric person (from Spanish, informal)."]}
+{"w": "loco disease", "pos": "phrase", "d": ["A disease of livestock caused by eating locoweed, marked by staggering and loss of coordination."]}
+{"w": "locofoco", "pos": "noun", "d": ["A self-lighting friction match.", "A member of a radical faction of New York Democrats in the 1830s."]}
+{"w": "loculament", "pos": "noun", "d": ["A small cavity or cell; a loculus."]}
+{"w": "locular", "pos": "adjective", "d": ["Of or relating to a loculus; having loculi."]}
+{"w": "loculate", "pos": "adjective", "d": ["Divided into small compartments or loculi."]}
+{"w": "locule", "pos": "noun", "d": ["A small cavity or compartment, as in a plant ovary."]}
+{"w": "loculicidal", "pos": "adjective", "d": ["In botany, splitting open through the middle of each locule, as some seed capsules do."]}
+{"w": "loculose", "pos": "adjective", "d": ["Full of small cavities or cells."]}
+{"w": "loculous", "pos": "adjective", "d": ["Having loculi; divided into small compartments."]}
+{"w": "loculus", "pos": "noun", "d": ["A small compartment or cell, as in an ovary or anther."]}
+{"w": "locum tenens", "pos": "phrase", "d": ["A person, especially a doctor or clergyman, who temporarily takes the place of another."]}
+{"w": "locus", "pos": "noun", "d": ["A particular place or position.", "In mathematics, the set of points that satisfy a given condition."]}
+{"w": "locust", "pos": "noun", "d": ["A large grasshopper that travels in destructive swarms.", "A tree of the genus Robinia or Gleditsia."]}
+{"w": "locust tree", "pos": "phrase", "d": ["A tree of the genus Robinia, such as the black locust, or Gleditsia, the honey locust."]}
+{"w": "locusta", "pos": "noun", "d": ["The Latin word for locust; also a genus of grasshoppers."]}
+{"w": "locustella", "pos": "noun", "d": ["A genus of small brown warblers known as grasshopper warblers."]}
+{"w": "locution", "pos": "noun", "d": ["A word, phrase, or manner of speaking."]}
+{"w": "locutory", "pos": "noun", "d": ["A room in a monastery set apart for conversation with visitors."]}
+{"w": "lodde", "pos": "noun", "d": ["The capelin, a small silvery fish of northern seas."]}
+{"w": "lode", "pos": "noun", "d": ["A vein of metal ore in rock.", "A rich source of something."]}
+{"w": "lodesman", "pos": "noun", "d": ["A pilot who guides a ship; a steersman."]}
+{"w": "lodgment", "pos": "noun", "d": ["The act of lodging or settling in a place.", "A foothold or position gained, as by troops in an attack.", "An accumulation of something deposited."]}
+{"w": "lodicule", "pos": "noun", "d": ["A small scale at the base of the ovary in a grass flower."]}
+{"w": "loellingite", "pos": "noun", "d": ["A silvery-white mineral consisting of iron arsenide."]}
+{"w": "loess", "pos": "noun", "d": ["A fine yellowish silt deposited by the wind, forming fertile soil."]}
+{"w": "loffe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "loft", "pos": "noun", "d": ["An upper room or attic, especially under a roof.", "A gallery in a church or hall."]}
+{"w": "loftily", "pos": "adverb", "d": ["In a lofty manner; haughtily."]}
+{"w": "loftiness", "pos": "noun", "d": ["The quality of being lofty; great height or haughtiness."]}
+{"w": "lofting iron", "pos": "phrase", "d": ["A golf club with a lofted face, used to lift the ball high into the air."]}
+{"w": "lofty", "pos": "adjective", "d": ["Very high; towering.", "Haughty or proud in manner."]}
+{"w": "log-chip", "pos": "noun", "d": ["A wooden chip attached to a log line, used to measure a ship's speed."]}
+{"w": "logaoedic", "pos": "adjective", "d": ["In prosody, composed of dactyls and trochees combined in one verse."]}
+{"w": "logarithm", "pos": "noun", "d": ["The exponent to which a fixed base must be raised to produce a given number."]}
+{"w": "loge", "pos": "noun", "d": ["A private box or small enclosed seating area in a theater."]}
+{"w": "logge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "loggia", "pos": "noun", "d": ["An open gallery or arcade along the side of a building, especially in Italian architecture."]}
+{"w": "logician", "pos": "noun", "d": ["A person skilled in logic."]}
+{"w": "logistic", "pos": "adjective", "d": ["Of or relating to logistics, the organization of supplies and transport.", "Of or relating to symbolic logic."]}
+{"w": "logodaedaly", "pos": "noun", "d": ["Cunning or artful use of words; verbal trickery."]}
+{"w": "logogram", "pos": "noun", "d": ["A written symbol that represents a whole word rather than a sound."]}
+{"w": "logographer", "pos": "noun", "d": ["A chronicler or historian, especially of early Greece.", "A professional speechwriter."]}
+{"w": "logographic", "pos": "adjective", "d": ["Of or relating to logography or logograms."]}
+{"w": "logography", "pos": "noun", "d": ["The use of logograms in writing.", "The writing of history or chronicles."]}

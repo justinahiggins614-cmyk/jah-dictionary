@@ -1,0 +1,113 @@
+{
+ "shards": {
+  "0": {
+   "file": "data/lexical/shard-0.json",
+   "count": 99
+  },
+  "a": {
+   "file": "data/lexical/shard-a.json",
+   "count": 7519
+  },
+  "b": {
+   "file": "data/lexical/shard-b.json",
+   "count": 5122
+  },
+  "c": {
+   "file": "data/lexical/shard-c.json",
+   "count": 9388
+  },
+  "d": {
+   "file": "data/lexical/shard-d.json",
+   "count": 6018
+  },
+  "e": {
+   "file": "data/lexical/shard-e.json",
+   "count": 4715
+  },
+  "f": {
+   "file": "data/lexical/shard-f.json",
+   "count": 3780
+  },
+  "g": {
+   "file": "data/lexical/shard-g.json",
+   "count": 3112
+  },
+  "h": {
+   "file": "data/lexical/shard-h.json",
+   "count": 3813
+  },
+  "i": {
+   "file": "data/lexical/shard-i.json",
+   "count": 4890
+  },
+  "j": {
+   "file": "data/lexical/shard-j.json",
+   "count": 752
+  },
+  "k": {
+   "file": "data/lexical/shard-k.json",
+   "count": 846
+  },
+  "l": {
+   "file": "data/lexical/shard-l.json",
+   "count": 3146
+  },
+  "m": {
+   "file": "data/lexical/shard-m.json",
+   "count": 5669
+  },
+  "n": {
+   "file": "data/lexical/shard-n.json",
+   "count": 1933
+  },
+  "o": {
+   "file": "data/lexical/shard-o.json",
+   "count": 2972
+  },
+  "p": {
+   "file": "data/lexical/shard-p.json",
+   "count": 9328
+  },
+  "q": {
+   "file": "data/lexical/shard-q.json",
+   "count": 580
+  },
+  "r": {
+   "file": "data/lexical/shard-r.json",
+   "count": 4476
+  },
+  "s": {
+   "file": "data/lexical/shard-s.json",
+   "count": 11375
+  },
+  "t": {
+   "file": "data/lexical/shard-t.json",
+   "count": 5393
+  },
+  "u": {
+   "file": "data/lexical/shard-u.json",
+   "count": 2422
+  },
+  "v": {
+   "file": "data/lexical/shard-v.json",
+   "count": 1707
+  },
+  "w": {
+   "file": "data/lexical/shard-w.json",
+   "count": 2273
+  },
+  "x": {
+   "file": "data/lexical/shard-x.json",
+   "count": 139
+  },
+  "y": {
+   "file": "data/lexical/shard-y.json",
+   "count": 324
+  },
+  "z": {
+   "file": "data/lexical/shard-z.json",
+   "count": 427
+  }
+ },
+ "total": 102218
+}

@@ -504,6 +504,17 @@ def main():
     stats = write_stats(len(words), len(terms))
     refresh_api(stats)
     verify(index, ipath)
+    # Site #3 diagnostic (2026-10-02): rebuild the per-letter lexical JSON
+    # shards + static A-Z fallback pages + lexical sitemap on every build so
+    # the 2h iwb-definitions-drip keeps them fresh automatically. Fail-safe:
+    # the dictionary data above is the primary artifact; a shard failure is
+    # logged loudly and retried on the next run, never blocks the build.
+    try:
+        sys.path.insert(0, os.path.join(ROOT, "code"))
+        import build_lexical_shards
+        build_lexical_shards.build()
+    except Exception as ex:  # noqa: BLE001
+        log("LEXICAL SHARDS: FAILED (%r) — will retry next run" % ex)
     # data size
     total = 0
     for dp, _, fns in os.walk(os.path.join(ROOT, "data")):

@@ -6,7 +6,7 @@
 <meta name="description" content="The Signature Dictionary (IWB Dictionary): 577,742 entries — original definitions for 102,218 English headwords, JAH deterministic stamps, word programs, and an AI teacher per entry.">
 <link rel="canonical" href="https://justinahiggins614-cmyk.github.io/jah-dictionary/">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@graph":[
+{"@context":"https://schema.org","@graph":[{"@type":"Dataset","name":"The Signature Dictionary","creator":{"@type":"Person","name":"Justin Addam Higgins"}},
 {"@type":"WebSite","name":"The Signature Dictionary","alternateName":"IWB Dictionary","url":"https://justinahiggins614-cmyk.github.io/jah-dictionary/","description":"Manon's own IWB Dictionary: every English word with original definitions, JAH deterministic stamps, word programs, and a personal AI teacher.","potentialAction":{"@type":"SearchAction","target":"https://justinahiggins614-cmyk.github.io/jah-dictionary/?q={query}","query-input":"required name=query"}},
 {"@type":"DefinedTermSet","name":"IWB Dictionary","url":"https://justinahiggins614-cmyk.github.io/jah-dictionary/","hasDefinedTerm":[]}
 ]}
@@ -63,9 +63,13 @@ h2.sec{font-size:1.4em;border-bottom:2px solid var(--accent);padding-bottom:5px;
 .card h3{margin:.2em 0;font-family:Arial,sans-serif;color:var(--accent)}
 .card p{font-family:Arial,sans-serif;font-size:.88em;color:var(--mut)}
 .stats{display:flex;flex-wrap:wrap;gap:14px;margin:14px 0}
+details.statdrawer{border:0;padding:0;margin:0;background:none}
+details.statdrawer>summary{display:none}
+@media(max-width:767px){details.statdrawer{border:1px solid var(--line);border-radius:8px;padding:8px 12px;margin:10px 0;font-family:Arial,sans-serif}details.statdrawer>summary{display:list-item;cursor:pointer;font-weight:bold;color:var(--accent)}}
 .stat{flex:1;min-width:140px;background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:14px;text-align:center;font-family:Arial,sans-serif}
 .stat .n{font-size:1.7em;font-weight:bold;color:var(--accent)}.stat .l{font-size:.8em;color:var(--mut)}
 .az{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0;font-family:Arial,sans-serif}
+.az{position:sticky;top:0;z-index:40;background:var(--paper)}
 .az a{padding:8px 13px;border:1px solid var(--line);border-radius:4px;background:#fff;font-size:.85em;min-width:40px;text-align:center}
 .pgln{font-family:Arial,sans-serif;font-size:.88em;columns:2}.pgln li{margin:5px 0;break-inside:avoid}
 @media(max-width:700px){.pgln{columns:1}}
@@ -102,7 +106,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 <style>.jahnet{background:#101418;color:#9aa4b2;font-size:.76em;padding:6px 10px;text-align:center;line-height:2;letter-spacing:.02em}.jahnet-t{color:#e8c766;font-weight:700;letter-spacing:.25em;margin-right:10px}.jahnet a{color:#9fc2ff;text-decoration:none;margin:0 7px;white-space:nowrap}.jahnet a:hover{text-decoration:underline}.jahnet-here{color:#e8c766;font-weight:700;white-space:nowrap;margin:0 2px 0 7px}.jahnet a.jahnet-cur{color:#e8c766;font-weight:700}</style>
 </head>
 <body>
-<div class="jahnet"><span class="jahnet-t">THE JAH NETWORK</span><a href="https://justinahiggins614-cmyk.github.io/jah-ai-models/">The Signature AI Phone Book</a><a href="https://justinahiggins614-cmyk.github.io/jah-calculator/">Calculator</a><span class="jahnet-here">YOU ARE HERE:</span><a href="https://justinahiggins614-cmyk.github.io/jah-dictionary/" class="jahnet-cur" aria-current="page">Dictionary</a><a href="https://justinahiggins614-cmyk.github.io/jah-wiki/">JAH Wiki</a><a href="https://justinahiggins614-cmyk.github.io/jah-n-wiki-leaks/">JAH-N Wiki</a><a href="https://justinahiggins614-cmyk.github.io/cyber-patent-catalog/">Patent Catalog</a><a href="https://justinahiggins614-cmyk.github.io/signature-one-archive/specs.html">Spec Catalog</a><a href="https://justinahiggins614-cmyk.github.io/signature-llama/">Signature Llama</a><a href="https://justinahiggins614-cmyk.github.io/jah-computer-systems/">PC Depository</a><a href="https://justinahiggins614-cmyk.github.io/signature-cyber-mega-mall/">Cyber Mega-Mall</a><a href="https://justinahiggins614-cmyk.github.io/signature-university/">Signature University</a><a href="https://justinahiggins614-cmyk.github.io/signature-books/">Book Depository</a><a href="https://justinahiggins614-cmyk.github.io/signature-comics/">Comic Store</a><a href="https://justinahiggins614-cmyk.github.io/signature-newspapers/">Global Newspaper Archive</a><a href="https://justinahiggins614-cmyk.github.io/signature-3d-print/">3D Print Depository</a><a href="https://justinahiggins614-cmyk.github.io/signature-backend/">Mad Scientist Lab</a><a href="https://justinahiggins614-cmyk.github.io/signature-boundless-generators/">Boundless Generator Archive</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-mixlab/">AI Mix Lab</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-olypics/">AI Olypics</a><a href="https://justinahiggins614-cmyk.github.io/signature-chip-maker/">Chip Maker and Archive</a><a href="https://justinahiggins614-cmyk.github.io/signature-app-archive/">App Archive</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-robot-matcher/">AI Robot Matcher</a><a href="https://justinahiggins614-cmyk.github.io/signature-experiment-solver/">Experiment Solver</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-image-video-maker/">Signature AI Pixel</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-song-maker/">Signature Music Studio</a></div>
+<nav aria-label="JAH Network Global Ecosystem" role="navigation"><div class="jahnet"><span class="jahnet-t">THE JAH NETWORK</span><a href="https://justinahiggins614-cmyk.github.io/jah-ai-models/">The Signature AI Phone Book</a><a href="https://justinahiggins614-cmyk.github.io/jah-calculator/">Calculator</a><span class="jahnet-here">YOU ARE HERE:</span><a href="https://justinahiggins614-cmyk.github.io/jah-dictionary/" class="jahnet-cur" aria-current="page">Dictionary</a><a href="https://justinahiggins614-cmyk.github.io/jah-wiki/">JAH Wiki</a><a href="https://justinahiggins614-cmyk.github.io/jah-n-wiki-leaks/">JAH-N Wiki</a><a href="https://justinahiggins614-cmyk.github.io/cyber-patent-catalog/">Patent Catalog</a><a href="https://justinahiggins614-cmyk.github.io/signature-one-archive/specs.html">Spec Catalog</a><a href="https://justinahiggins614-cmyk.github.io/signature-llama/">Signature Llama</a><a href="https://justinahiggins614-cmyk.github.io/jah-computer-systems/">PC Depository</a><a href="https://justinahiggins614-cmyk.github.io/signature-cyber-mega-mall/">Cyber Mega-Mall</a><a href="https://justinahiggins614-cmyk.github.io/signature-university/">Signature University</a><a href="https://justinahiggins614-cmyk.github.io/signature-books/">Book Depository</a><a href="https://justinahiggins614-cmyk.github.io/signature-comics/">Comic Store</a><a href="https://justinahiggins614-cmyk.github.io/signature-newspapers/">Global Newspaper Archive</a><a href="https://justinahiggins614-cmyk.github.io/signature-3d-print/">3D Print Depository</a><a href="https://justinahiggins614-cmyk.github.io/signature-backend/">Mad Scientist Lab</a><a href="https://justinahiggins614-cmyk.github.io/signature-boundless-generators/">Boundless Generator Archive</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-mixlab/">AI Mix Lab</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-olypics/">AI Olypics</a><a href="https://justinahiggins614-cmyk.github.io/signature-chip-maker/">Chip Maker and Archive</a><a href="https://justinahiggins614-cmyk.github.io/signature-app-archive/">App Archive</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-robot-matcher/">AI Robot Matcher</a><a href="https://justinahiggins614-cmyk.github.io/signature-experiment-solver/">Experiment Solver</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-image-video-maker/">Signature AI Pixel</a><a href="https://justinahiggins614-cmyk.github.io/signature-ai-song-maker/">Signature Music Studio</a></div></nav>
 <div class="topbar">
   <a href="?" style="text-decoration:none"><div class="brand">IWB DICTIONARY<small>ORIGINAL DEFINITIONS &middot; JAH DETERMINISTIC</small></div></a>
   <div class="navlinks">
@@ -118,11 +122,12 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 <div class="wrap" style="padding-top:0">
 <h2 class="sec">Dictionary counts &amp; data</h2>
 <p class="jahstatus">Snapshot as of <b>2026-10-02</b> (source: <a href="data/index/stats.json">data/index/stats.json</a>) — readable without JavaScript. The live counters on this page refresh automatically as the dictionary grows.</p>
+<details class="statdrawer" open><summary>Dictionary counts</summary>
 <div class="stats" role="list">
 <div class="stat" role="listitem"><div class="n">577,742</div><div class="l">Entries — every searchable item in the index: headwords plus catalog terms.</div></div>
 <div class="stat" role="listitem"><div class="n">102,218</div><div class="l">Headwords — English words with original IWB definitions and JAH-DICT-W-###### stamps.</div></div>
 <div class="stat" role="listitem"><div class="n">475,524</div><div class="l">Catalog terms — spec and patent titles cross-referenced from the JAH network catalogs (JAH-DICT-T-###### stamps).</div></div>
-</div>
+</div></details>
 <p class="jahstatus"><b>Word programs:</b> every headword entry carries a runnable Python&nbsp;3 word program (copy/download/run in the browser). <b>Word patents:</b> JAH-WORD-###### word-patent records are filed in the sister Signature Spec Catalog — each dictionary entry links out to its word patent.</p>
 <h3 style="font-family:Arial,sans-serif;color:#1a4d2e;font-size:1.05em;margin:1.2em 0 .4em">Browse every word, A&ndash;Z</h3>
 <nav class="az" role="navigation" aria-label="Browse words by first letter">
@@ -404,9 +409,9 @@ async function vHome(app){
  h+='<p class="jahstatus">Dictionary ready &mdash; '+Number(ec).toLocaleString()+' entries</p>';
  h+='<h1 style="font-size:2em;margin:.2em 0">The Signature Dictionary</h1>';
  h+='<p style="font-family:Arial">Every English word, defined two ways: the <b>normal IWB definition</b> and the <b>JAH deterministic definition</b> &mdash; each with an official deterministic stamp, a program of the word, and a personal AI teacher.</p>';
- h+='<div class="stats"><div class="stat"><div class="n">'+Number(s.words||0).toLocaleString()+'</div><div class="l">English words</div></div>'+
+ h+='<details class="statdrawer" open><summary>Dictionary counts</summary><div class="stats"><div class="stat"><div class="n">'+Number(s.words||0).toLocaleString()+'</div><div class="l">English words</div></div>'+
  '<div class="stat"><div class="n">'+Number(s.terms||0).toLocaleString()+'</div><div class="l">Catalog terms</div></div>'+
- '<div class="stat"><div class="n">'+Number(ec).toLocaleString()+'</div><div class="l">Total entries</div></div></div>';
+ '<div class="stat"><div class="n">'+Number(ec).toLocaleString()+'</div><div class="l">Total entries</div></div></div></details>';
  if(s.last_updated)h+='<p class="jahstatus">Last updated: '+esc(String(s.last_updated))+' &middot; counts refresh automatically as the dictionary grows.</p>';
  h+='<div class="wotd"><h2 class="sec" style="margin-top:0">Word of the day</h2><div id="wotd"><p style="font-family:Arial">Choosing today&rsquo;s word...</p></div></div>';
  h+='<h2 class="sec">Browse the dictionary</h2>'+finderBarHTML()+'<div class="az" role="navigation" aria-label="Browse words by first letter">';
@@ -871,6 +876,10 @@ async function route(){
  wireSearch();wireFinder();wireHelper();
 }
 document.addEventListener("DOMContentLoaded",route);
+</script>
+<script>
+/* FIX-03: stat drawers collapse on mobile (<768px), expanded on desktop; auto-syncs dynamic renders */
+(function(){function jahStatSync(){var w=window.innerWidth||document.documentElement.clientWidth;var ds=document.querySelectorAll('details.statdrawer');for(var i=0;i<ds.length;i++){if(w<768){ds[i].removeAttribute('open')}else{ds[i].setAttribute('open','')}}}if(document.addEventListener){window.addEventListener('resize',jahStatSync);if(window.MutationObserver){new MutationObserver(jahStatSync).observe(document.documentElement,{childList:true,subtree:true})}jahStatSync()}})();
 </script>
 </body>
 </html>

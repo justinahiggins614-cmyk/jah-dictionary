@@ -292,7 +292,7 @@ def describe(word, pos, senses, defsrc, base):
                        "%s form." % (i + 1, s, W, base or W, W,
                                      "derived" if base else "listed"))
             continue
-        lead = "In the IWB Dictionary, \"%s\"%s means: %s" % (
+        lead = "In The Signature Dictionary, \"%s\"%s means: %s" % (
             W, (" (%s)" % pos) if pos and i == 0 else "", s)
         if i == 0:
             out.append(lead + " This is the word's most common use, stated "

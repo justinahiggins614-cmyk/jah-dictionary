@@ -422,7 +422,7 @@ def write_stats(n_words, n_terms):
         "generated_at": _dt.datetime.now(_dt.timezone.utc).isoformat(timespec="seconds"),
         "catalog_revision": prev_rev + 1,
         "data_hash": data_hash,
-        "source": "IWB Dictionary (original definitions)",
+        "source": "The Signature Dictionary (original definitions)",
     }
     with open(spath, "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=1)

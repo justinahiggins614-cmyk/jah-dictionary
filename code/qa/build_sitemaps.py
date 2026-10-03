@@ -110,7 +110,7 @@ def write_pages_sitemap():
     return name
 
 
-METHODOLOGY_COMMENT = """<!-- SITEMAP METHODOLOGY (IWB Dictionary / The Signature Dictionary)
+METHODOLOGY_COMMENT = """<!-- SITEMAP METHODOLOGY (The Signature Dictionary)
      Only headwords (English words, JAH-DICT-W-###### stamps) are listed as
      ?w= deep links here, in 50,000-URL files (the sitemap protocol limit).
      The dictionary also indexes spec/patent catalog terms (JAH-DICT-T-######),

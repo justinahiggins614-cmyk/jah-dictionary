@@ -115,14 +115,14 @@ a{{color:#1a4d2e}}
 </style>
 </head>
 <body><div class="wrap">
-<p class="nav"><a href="../">IWB Dictionary</a> &rsaquo; static A-Z index</p>
+<p class="nav"><a href="../">The Signature Dictionary</a> &rsaquo; static A-Z index</p>
 <h1>{heading}</h1>
 <p class="nav">{letterlinks}</p>
 <dl>
 {rows}
 </dl>
 <p class="nav">{letterlinks}</p>
-<p style="font-family:Arial;font-size:.85em;color:#6b5f3e">Static index page generated from the IWB Dictionary data for crawlers and no-JavaScript readers. Full entries (stamps, programs, AI teachers) live at each word's page.</p>
+<p style="font-family:Arial;font-size:.85em;color:#6b5f3e">Static index page generated from The Signature Dictionary data for crawlers and no-JavaScript readers. Full entries (stamps, programs, AI teachers) live at each word's page.</p>
 </div></body>
 </html>
 """
@@ -169,7 +169,7 @@ def write_sitemap(letters):
         urls.append(BASE + "data/lexical/shard-%s.json" % L)
         urls.append(BASE + "az/%s.html" % L)
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
-             '<!-- LEXICAL SITEMAP (IWB Dictionary): per-letter JSON shards '
+             '<!-- LEXICAL SITEMAP (The Signature Dictionary): per-letter JSON shards '
              'for machine crawlers + pre-rendered static A-Z pages for '
              'non-JS bots. Rebuilt by code/build_lexical_shards.py on every '
              'dictionary build. -->',

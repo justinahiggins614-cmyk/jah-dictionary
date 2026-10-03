@@ -51,7 +51,7 @@ def main():
     orig = html
 
     # --- meta description count ---
-    meta_pat = re.compile(r'(<meta name="description" content="The Signature Dictionary \(IWB Dictionary\): )[\d,]+( entries)')
+    meta_pat = re.compile(r'(<meta name="description" content="The Signature Dictionary: )[\d,]+( entries)')
     assert meta_pat.search(html), "meta description count marker not found"
     html = meta_pat.sub(lambda m: m.group(1) + fmt(entries) + m.group(2), html, count=1)
 

@@ -1,11 +1,11 @@
 {
  "dictionary_version": "1.0",
  "schema_version": "1.1",
- "entry_count": 726027,
+ "entry_count": 738298,
  "words": 102218,
- "terms": 623809,
- "total": 726027,
+ "terms": 636080,
+ "total": 738298,
  "last_updated": "2026-10-03",
- "data_hash": "sha256:209ee01a9866d2520e67fabd216de966ee3b629938263a233f869c09bcd394b4",
+ "data_hash": "sha256:ca0e3417aaf51bbcbbfa766a0ff06ce6828ce8b86c818b43c36cb8d68ed81bdf",
  "source": "IWB Dictionary (original definitions)"
 }

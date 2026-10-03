@@ -35999,3 +35999,8 @@
 {"w":"passe partout","pos":"phrase","d":["A master key that opens many locks.","A mat or border used in framing pictures."]}
 {"w":"passegarde","pos":"","d":[],"src":"iwb","unsure":true}
 {"w":"passementerie","pos":"noun","d":["Decorative trimming such as braid, cord, or tassels used on clothing or furnishings."]}
+{"w": "thumb drive", "pos": "noun", "d": ["A small portable storage device that plugs into a computer's USB port to save and carry files.", "It has no moving parts, keeps its data without power, and is small enough to carry on a keychain."]}
+{"w": "thumbdrive", "pos": "noun", "d": ["An alternate spelling of thumb drive: a small portable USB storage device for carrying files."]}
+{"w": "USB drive", "pos": "noun", "d": ["A portable data-storage device that connects to a computer through a USB port.", "Used to move files between computers or keep a backup copy off the machine."]}
+{"w": "flash drive", "pos": "noun", "d": ["A small portable storage device with no moving parts that keeps its data even with the power off.", "Most flash drives plug into a USB port and are also called thumb drives or USB drives."]}
+{"w": "USB stick", "pos": "noun", "d": ["A small stick-shaped portable drive that plugs into a USB port to store and carry files."]}

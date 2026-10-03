@@ -84,6 +84,36 @@ def load_iwb_defs():
                                    "unsure": bool(r.get("unsure", False))}
     return defs
 
+def load_old_word_stamps():
+    """Re-read word stamps from the currently shipped chunks: {key: stamp}
+    plus the highest shipped W-number. Word stamps are permanent entry IDs
+    and are never renumbered across rebuilds (same rule as term stamps in
+    load_old_term_stamps) — adding a headword must not shift 90k existing
+    IDs."""
+    stamps = {}
+    maxn = 0
+    if not os.path.isdir(DATADIR):
+        return stamps, maxn
+    for n in sorted(os.listdir(DATADIR)):
+        if not (n.startswith("dict-c") and n.endswith(".jsonl.gz")):
+            continue
+        with gzip.open(os.path.join(DATADIR, n), "rt", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    e = json.loads(line)
+                except Exception:
+                    continue
+                if e.get("k") == "w" and e.get("st") and e.get("w"):
+                    stamps[str(e["w"]).lower()] = e["st"]
+                    m = re.search(r"(\d+)$", str(e["st"]))
+                    if m:
+                        maxn = max(maxn, int(m.group(1)))
+    return stamps, maxn
+
+
 def parse_words():
     """Headwords from dictionary.json (word list only); definitions from the
     IWB definitions file (data/definitions/all.jsonl). Words whose IWB
@@ -111,8 +141,19 @@ def parse_words():
                       "unsure": bool(rec.get("unsure", False)),
                       "defsrc": rec.get("src", "") or "pending"})
     words.sort(key=lambda e: e["key"])
-    for i, e in enumerate(words, 1):
-        e["st"] = "JAH-DICT-W-%06d" % i
+    # Stable word stamps: keep every existing stamp (the stamp is the entry's
+    # permanent machine identity); brand-new headwords continue from the
+    # highest shipped W-number. Never renumber.
+    old_stamps, max_w = load_old_word_stamps()
+    nxt = max_w + 1
+    for e in words:
+        if e["key"] in old_stamps:
+            e["st"] = old_stamps[e["key"]]
+        else:
+            e["st"] = "JAH-DICT-W-%06d" % nxt
+            nxt += 1
+    log("word stamps: %d preserved, %d new (from W-%06d)" %
+        (len(old_stamps), nxt - max_w - 1, max_w + 1))
     ndef = sum(1 for e in words if e["d"])
     log("words with IWB definitions: %d / %d" % (ndef, len(words)))
     return words

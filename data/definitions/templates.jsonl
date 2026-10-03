@@ -37981,6 +37981,7 @@
 {"w": "thuggee", "pos": "", "d": ["A gee connected with thug."], "src": "template", "rule": "compound:thug+gee"}
 {"w": "thuggery", "pos": "", "d": ["A gery connected with thug."], "src": "template", "rule": "compound:thug+gery"}
 {"w": "thumbbird", "pos": "", "d": ["A bird connected with thumb."], "src": "template", "rule": "compound:thumb+bird"}
+{"w": "thumbdrive", "pos": "", "d": ["A drive connected with thumb."], "src": "template", "rule": "compound:thumb+drive"}
 {"w": "thumbed", "pos": "verb", "d": ["Past tense and past participle of thumb."], "src": "template", "rule": "suffix:ed:thumb"}
 {"w": "thumbkin", "pos": "", "d": ["A kin connected with thumb."], "src": "template", "rule": "compound:thumb+kin"}
 {"w": "thumbless", "pos": "", "d": ["A less connected with thumb."], "src": "template", "rule": "compound:thumb+less"}

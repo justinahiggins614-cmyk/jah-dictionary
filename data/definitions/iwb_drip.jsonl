@@ -42404,3 +42404,803 @@
 {"w": "roulade", "pos": "noun", "d": ["A rapid ornamental passage of notes sung to one syllable.", "A slice of meat rolled around a filling."]}
 {"w": "rouleau", "pos": "noun", "d": ["A roll of coins wrapped in paper.", "A cylindrical roll or coil."]}
 {"w": "rouly-pouly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roumanian", "pos": "noun", "d": ["An older spelling of Romanian, used of the people, language, or culture of Romania."]}
+{"w": "roun", "pos": "noun", "d": ["An old word for a whisper or secret talk."]}
+{"w": "rounce", "pos": "noun", "d": ["The crank handle of a printing press, used to wind the carriage under the platen."]}
+{"w": "rounceval", "pos": "noun", "d": ["A person of great size; a giant."]}
+{"w": "rouncy", "pos": "noun", "d": ["A horse, especially an ordinary riding horse or nag."]}
+{"w": "round-arm", "pos": "adjective", "d": ["In cricket, describing a bowling action in which the arm swings around horizontally."]}
+{"w": "round-backed", "pos": "adjective", "d": ["Having a curved or hunched back."]}
+{"w": "round-shouldered", "pos": "adjective", "d": ["Having the shoulders bent or curved forward."]}
+{"w": "round-up", "pos": "noun", "d": ["A gathering together of cattle or people into one place."]}
+{"w": "roundsman", "pos": "noun", "d": ["A man who makes regular rounds, such as a deliveryman or watchman."]}
+{"w": "roundy", "pos": "adjective", "d": ["Somewhat round in shape; plump."]}
+{"w": "roup", "pos": "verb", "d": ["To sell by public auction, especially in Scotland."]}
+{"w": "rousant", "pos": "adjective", "d": ["In heraldry, describing a bird shown with its wings raised and spread, as if about to fly."]}
+{"w": "rouse", "pos": "verb", "d": ["To wake from sleep, or to stir into action."]}
+{"w": "roussette", "pos": "noun", "d": ["A small shark or dogfish.", "A large fruit-eating bat; a flying fox."]}
+{"w": "roust", "pos": "verb", "d": ["To stir up or drive out of a resting place; to force into action."]}
+{"w": "rout", "pos": "noun", "d": ["A complete and disorderly defeat of an army.", "A noisy, disorderly crowd."]}
+{"w": "rout cake", "pos": "phrase", "d": ["A rich, fancy cake once served at fashionable evening parties."]}
+{"w": "routhe", "pos": "noun", "d": ["An old word for pity or compassion."]}
+{"w": "routinary", "pos": "adjective", "d": ["Done as a matter of routine; habitual and unthinking."]}
+{"w": "routinism", "pos": "noun", "d": ["Strict or excessive devotion to routine."]}
+{"w": "routinist", "pos": "noun", "d": ["A person who follows a strict routine."]}
+{"w": "routously", "pos": "adverb", "d": ["In a disorderly or rowdy manner."]}
+{"w": "roux", "pos": "noun", "d": ["A mixture of flour and fat cooked together to thicken sauces and soups."]}
+{"w": "rove", "pos": "verb", "d": ["To wander about from place to place without a set course."]}
+{"w": "rowan", "pos": "noun", "d": ["A small tree of northern Europe and Asia bearing clusters of bright red berries; the mountain ash."]}
+{"w": "rowan tree", "pos": "phrase", "d": ["The rowan; a small tree bearing clusters of red berries."]}
+{"w": "rowdy", "pos": "adjective", "d": ["Noisy, rough, and disorderly.", "A person who is noisy and disorderly."]}
+{"w": "rowel", "pos": "noun", "d": ["A small spiked wheel at the back of a spur, used to urge a horse forward."]}
+{"w": "rowel bone", "pos": "phrase", "d": ["The kneecap; the patella."]}
+{"w":"rowett","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "rown", "pos": "verb", "d": ["An old word meaning to whisper."]}
+{"w": "roxburgh", "pos": "noun", "d": ["A historic county in southeastern Scotland."]}
+{"w":"royal spade","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "royalet", "pos": "noun", "d": ["A petty or minor king; a little prince."]}
+{"w": "royalization", "pos": "noun", "d": ["The act of making royal, or of giving royal rank."]}
+{"w":"royne","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "roynish", "pos": "adjective", "d": ["Scabby or scurfy; shabby and mean in appearance."]}
+{"w": "royster", "pos": "verb", "d": ["To behave in a noisy, swaggering way; to roister."]}
+{"w": "royston crow", "pos": "phrase", "d": ["The hooded crow, a gray-and-black crow of northern Britain."]}
+{"w": "roytelet", "pos": "noun", "d": ["A little or petty king.", "The wren, from its French name meaning little king."]}
+{"w":"roytish","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ru bible","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "rub", "pos": "verb", "d": ["To move something back and forth against a surface with pressure.", "A difficulty or obstacle, as in the phrase there is the rub."]}
+{"w": "ruba-dub", "pos": "noun", "d": ["The steady beating sound of a drum."]}
+{"w": "rubaiyat", "pos": "noun", "d": ["A collection of four-line Persian poems, especially those of Omar Khayyam."]}
+{"w": "rubato", "pos": "noun", "d": ["In music, a slight and expressive freedom of tempo."]}
+{"w": "rubbage", "pos": "noun", "d": ["Waste material; rubbish or refuse."]}
+{"w": "rubbidge", "pos": "noun", "d": ["An old spelling of rubbish; waste material."]}
+{"w": "rubble", "pos": "noun", "d": ["Broken pieces of stone, brick, or masonry; debris."]}
+{"w": "rubbly", "pos": "adjective", "d": ["Consisting of or covered with rubble."]}
+{"w":"rubedinous","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "rubefacient", "pos": "noun", "d": ["A substance that reddens the skin when applied to it."]}
+{"w": "rubefaction", "pos": "noun", "d": ["Reddening of the skin, especially when caused by a rubefacient."]}
+{"w": "rubelet", "pos": "noun", "d": ["A young or small country bumpkin; a little rube."]}
+{"w": "rubella", "pos": "noun", "d": ["A mild contagious disease marked by a light red rash; German measles."]}
+{"w":"rubelle","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "rubellite", "pos": "noun", "d": ["A red to pink variety of tourmaline, used as a gemstone."]}
+{"w": "rubeola", "pos": "noun", "d": ["Measles; a contagious disease marked by a red rash."]}
+{"w":"ruberythrinic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "rubescence", "pos": "noun", "d": ["The process of becoming red; a reddening."]}
+{"w": "rubescent", "pos": "adjective", "d": ["Turning red; becoming reddish."]}
+{"w": "rubiaceous", "pos": "adjective", "d": ["Belonging to the madder family of plants."]}
+{"w":"rubiacin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rubian","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "rubican", "pos": "adjective", "d": ["Describing a horse, especially a bay, whose coat is sprinkled with white hairs.", "A horse with such a coat."]}
+{"w": "rubicelle", "pos": "noun", "d": ["A yellow to orange variety of spinel, used as a gemstone."]}
+{"w": "rubicund", "pos": "adjective", "d": ["Red or rosy in complexion; ruddy."]}
+{"w": "rubidic", "pos": "adjective", "d": ["Relating to or containing the element rubidium."]}
+{"w":"rubidine","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "rubidium", "pos": "noun", "d": ["A soft, silvery-white metal; a very reactive element of the alkali group."]}
+{"w": "rubific", "pos": "adjective", "d": ["Making red; causing redness."]}
+{"w":"rubiform","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "rubiginose", "pos": "adjective", "d": ["Covered with rust; rusty."]}
+{"w": "rubiginous", "pos": "adjective", "d": ["Rusty in color; reddish-brown."]}
+{"w": "rubigo", "pos": "noun", "d": ["A plant disease marked by rust-colored spots; rust."]}
+{"w": "rubin", "pos": "noun", "d": ["An old word for a ruby."]}
+{"w":"rubiretin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "ruble", "pos": "noun", "d": ["The basic unit of money in Russia and some neighboring countries."]}
+{"w": "rubric", "pos": "noun", "d": ["A set of rules or directions, especially for a ceremony or an examination.", "A heading or title printed in red."]}
+{"w": "rubrician", "pos": "noun", "d": ["A person who knows or follows ceremonial rules strictly."]}
+{"w": "rubus", "pos": "noun", "d": ["The plant genus that includes blackberries, raspberries, and other brambles."]}
+{"w": "ruby-tailed", "pos": "adjective", "d": ["Having a red or ruby-colored tail."]}
+{"w": "rucervine", "pos": "adjective", "d": ["Relating to deer of the genus Rucervus; deerlike."]}
+{"w": "ruche", "pos": "noun", "d": ["A gathered or pleated strip of fabric used as a trimming."]}
+{"w": "ruck", "pos": "noun", "d": ["The general mass of ordinary people; the common crowd.", "A wrinkle or fold in cloth."]}
+{"w": "ructation", "pos": "noun", "d": ["The act of belching; a belch."]}
+{"w": "ruction", "pos": "noun", "d": ["A noisy disturbance; a row or commotion."]}
+{"w": "rud", "pos": "noun", "d": ["An old word for redness, especially of the complexion."]}
+{"w": "rudbeckia", "pos": "noun", "d": ["A genus of North American daisies, including the black-eyed Susan."]}
+{"w": "rudd", "pos": "noun", "d": ["A small freshwater fish of the carp family, found in European waters."]}
+{"w": "ruddily", "pos": "adverb", "d": ["In a ruddy way; with a healthy reddish color."]}
+{"w": "ruddiness", "pos": "noun", "d": ["The quality of being ruddy; a healthy reddish color."]}
+{"w": "ruddle", "pos": "noun", "d": ["A red ochre or chalk used for marking sheep."]}
+{"w": "ruddy", "pos": "adjective", "d": ["Red or reddish, especially with a healthy glow."]}
+{"w": "rude", "pos": "adjective", "d": ["Lacking good manners; impolite or disrespectful.", "Roughly made; primitive or crude."]}
+{"w":"rudenture","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ruderary","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "rudesby", "pos": "noun", "d": ["A rude, unruly person; a rowdy fellow."]}
+{"w": "rudesheimer", "pos": "noun", "d": ["A German white wine made near Rudesheim on the Rhine."]}
+{"w":"rudiment","pos":"noun","d":["An early, undeveloped stage of something, such as an organ or structure in biology.","The basic principles or first elements of a subject or skill."]}
+{"w":"rudistes","pos":"noun","d":["A group of extinct bivalve mollusks with cone-shaped shells, common as fossils in Cretaceous rocks."]}
+{"w":"rudmasday","pos":"noun","d":["The feast of the Holy Cross, kept on September 14, also called Roodmas Day."]}
+{"w":"rudolphine","pos":"adjective","d":["Relating to Rudolph II, emperor of Germany, especially the planetary tables computed by Kepler under his patronage."]}
+{"w":"rue","pos":"verb","d":["To feel deep regret or sorrow for something you did or failed to do.","To regret a lost chance or opportunity."]}
+{"w":"ruedesheimer","pos":"noun","d":["A white Rhine wine made at Rudesheim in Germany."]}
+{"w":"ruell bone","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ruelle","pos":"noun","d":["A narrow lane or passage between buildings.","A fashionable reception held in a lady's bedchamber in seventeenth-century France."]}
+{"w":"rufescent","pos":"adjective","d":["Turning reddish; slightly red or tending toward red."]}
+{"w":"ruff","pos":"noun","d":["A large stiff pleated collar of linen worn around the neck in the sixteenth and seventeenth centuries.","A small European wading bird, the male of which wears an ornamental ruff of feathers in breeding season."]}
+{"w":"ruffe","pos":"noun","d":["A small spiny-finned European fish of the perch family, found in rivers and lakes."]}
+{"w":"ruffian","pos":"noun","d":["A brutal, lawless person who uses violence to harm or intimidate others."]}
+{"w":"ruffin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ruffle","pos":"verb","d":["To disturb the smoothness of something, as wind ruffles water.","To annoy or upset someone; to put out of composure."]}
+{"w":"rufigallic","pos":"adjective","d":["Designating rufigallic acid, a red crystalline substance made from gallic acid."]}
+{"w":"rufiopin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rufol","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rufous","pos":"adjective","d":["Reddish-brown in color."]}
+{"w":"ruft","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rufterhood","pos":"noun","d":["A wide hood formerly used in falconry to cover a hawk's head and eyes."]}
+{"w":"rug-gowned","pos":"adjective","d":["Wearing a coarse, rough woolen gown."]}
+{"w":"rug-headed","pos":"adjective","d":["Having rough, shaggy hair.","Rough or uncouth in manner."]}
+{"w":"ruga","pos":"noun","d":["A ridge or wrinkle, especially one of the folds in the lining of the stomach or another organ."]}
+{"w":"ruggy","pos":"adjective","d":["Rough or wrinkled in surface; shaggy."]}
+{"w":"rugin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rugine","pos":"noun","d":["A small scraper or rasp used in surgery to scrape bone."]}
+{"w":"rugosa","pos":"noun","d":["The Japanese rose, a hardy shrub rose with wrinkled leaves, fragrant flowers, and large red hips."]}
+{"w":"rugose","pos":"adjective","d":["Wrinkled or ridged, as a leaf or a shell."]}
+{"w":"rugosity","pos":"noun","d":["The state of being wrinkled.","A wrinkled place or ridge."]}
+{"w":"rugulose","pos":"adjective","d":["Finely wrinkled; covered with small wrinkles."]}
+{"w":"ruin","pos":"noun","d":["The broken remains of something that has decayed or been destroyed, especially a building.","Complete destruction or downfall."]}
+{"w":"ruiniform","pos":"adjective","d":["Shaped like ruins; having the appearance of ruined buildings."]}
+{"w":"rukh","pos":"noun","d":["A huge legendary bird in Arabian tales, said to be strong enough to carry off an elephant.","The Persian name for the castle-shaped piece in chess, the rook."]}
+{"w":"rule-monger","pos":"noun","d":["A person who is fond of laying down rules; a petty dictator about rules."]}
+{"w":"rullichies","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ruly","pos":"adjective","d":["Obedient to rule; orderly and well-behaved."]}
+{"w":"rum","pos":"noun","d":["A strong spirit distilled from fermented sugarcane juice or molasses.","As an adjective in British slang, strange or odd."]}
+{"w":"rumble","pos":"verb","d":["To make a deep, continuous rolling sound, as thunder does.","To move with a deep rolling noise, as a heavy wagon does."]}
+{"w":"rumbo","pos":"noun","d":["A sailor's drink of rum mixed with water and sweetened; grog."]}
+{"w":"rumicin","pos":"noun","d":["A yellowish crystalline substance obtained from the roots of yellow dock and related plants."]}
+{"w":"ruminal","pos":"adjective","d":["Relating to the rumen, the first and largest stomach of a cud-chewing animal."]}
+{"w":"ruminant","pos":"noun","d":["An animal that chews the cud, such as a cow, sheep, goat, or deer.","As an adjective, chewing the cud."]}
+{"w":"ruminantia","pos":"noun","d":["The order of cud-chewing hoofed mammals, including cattle, sheep, goats, and deer."]}
+{"w":"ruminate","pos":"verb","d":["To chew the cud.","To think deeply and at length about something."]}
+{"w":"rumination","pos":"noun","d":["Deep, prolonged thought about something.","The act of chewing the cud."]}
+{"w":"ruminative","pos":"adjective","d":["Given to deep, prolonged thought; meditative."]}
+{"w":"ruminator","pos":"noun","d":["One who thinks deeply and at length; a person given to long reflection."]}
+{"w":"rummy","pos":"noun","d":["A popular card game in which players form matching sets and runs.","As an adjective, strange or odd."]}
+{"w":"rumney","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rumor","pos":"noun","d":["A story or report of uncertain truth that spreads from person to person."]}
+{"w":"rump","pos":"noun","d":["The hind part of an animal's body.","The buttocks of a person."]}
+{"w":"rump-fed","pos":"adjective","d":["Well-fed and pampered; fattened up like a favored pet."]}
+{"w":"rumple","pos":"verb","d":["To wrinkle or tousle; to make uneven or disordered.","As a noun, a wrinkle or fold in cloth."]}
+{"w":"run-around","pos":"noun","d":["Evasive or misleading talk or treatment; the act of avoiding a straight answer."]}
+{"w":"runch","pos":"noun","d":["A weedy plant of the mustard family; wild radish."]}
+{"w":"runcinate","pos":"adjective","d":["Having leaf lobes that point backward toward the base, like a dandelion leaf."]}
+{"w":"rundle","pos":"noun","d":["A rung of a ladder; a round bar forming a step.","A rounded step of a winding stair."]}
+{"w":"rundlet","pos":"noun","d":["A small cask or barrel, holding roughly fourteen to eighteen gallons."]}
+{"w":"rune","pos":"noun","d":["One of the letters of the ancient alphabets used by Germanic peoples, often carved on wood or stone.","An old Germanic poem or chant."]}
+{"w":"rung","pos":"noun","d":["A crossbar of a ladder; a round stick forming a step.","The past tense of ring, to sound a bell."]}
+{"w":"runnel","pos":"noun","d":["A small stream or brook; a rivulet."]}
+{"w":"running load","pos":"phrase","d":["In engineering, a load that moves across a structure, such as a train crossing a bridge."]}
+{"w":"runnion","pos":"noun","d":["A worthless, low fellow; a rascal or scoundrel."]}
+{"w":"runt","pos":"noun","d":["An animal, especially a piglet, that is much smaller than the others of its litter.","A person of small stature, used unkindly."]}
+{"w":"runty","pos":"adjective","d":["Undersized; stunted in growth."]}
+{"w":"rupee","pos":"noun","d":["The standard unit of money in India and several other countries."]}
+{"w":"rupellary","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rupia","pos":"noun","d":["A skin disease in which thick, hard crusts form over sores."]}
+{"w":"rupial","pos":"adjective","d":["Relating to rupia, the skin eruption marked by thick crusts."]}
+{"w":"rupicola","pos":"noun","d":["A genus of brilliantly colored South American birds, the cocks-of-the-rock."]}
+{"w":"rupicoline","pos":"adjective","d":["Living or growing on rocks."]}
+{"w":"ruption","pos":"noun","d":["A breaking or bursting open; a breach."]}
+{"w":"ruptuary","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rupture","pos":"noun","d":["A breaking or bursting apart; a tear or split.","A hernia, or the breaking off of friendly relations."]}
+{"w":"ruricolist","pos":"noun","d":["One who lives in the country; a rustic."]}
+{"w":"ruridecanal","pos":"adjective","d":["Relating to a rural dean or his district in church organization."]}
+{"w":"rurigenous","pos":"adjective","d":["Born or living in the country; of rural birth."]}
+{"w":"ruse","pos":"noun","d":["A trick or clever maneuver meant to deceive someone."]}
+{"w":"rush-bearing","pos":"noun","d":["An old English parish festival in which rushes were carried in procession to strew the church floor."]}
+{"w":"rushiness","pos":"noun","d":["The state or quality of being rushy; abounding in rushes."]}
+{"w":"rushingly","pos":"adverb","d":["In a rushing manner; with swift, hasty motion."]}
+{"w":"rushy","pos":"adjective","d":["Full of or made of rushes; like rushes."]}
+{"w":"rusine","pos":"adjective","d":["Of or relating to deer of the genus Rusa, the sambars of Asia."]}
+{"w":"rusk","pos":"noun","d":["A hard, dry biscuit or twice-baked bread, often given to babies for teething."]}
+{"w":"rusma","pos":"noun","d":["A paste of lime and arsenic sulfide once used in Turkey to remove hair."]}
+{"w":"russ","pos":"noun","d":["A Russian; also, the Russian language in old use."]}
+{"w":"russet","pos":"noun","d":["A reddish-brown color.","A coarse reddish-brown homespun cloth, or an apple with rough brownish skin."]}
+{"w":"russety","pos":"adjective","d":["Of a russet color; reddish-brown."]}
+{"w":"russian church","pos":"phrase","d":["The Eastern Orthodox Church in Russia, headed by the Patriarch of Moscow."]}
+{"w":"russification","pos":"noun","d":["The process of making something Russian in language, culture, or character."]}
+{"w":"russophile","pos":"noun","d":["A person who admires Russia or Russian culture."]}
+{"w":"russophilist","pos":"noun","d":["A russophile; one who admires Russia or Russian things."]}
+{"w":"russophobe","pos":"noun","d":["A person who fears or hates Russia or Russians."]}
+{"w":"russophobia","pos":"noun","d":["Fear or hatred of Russia or Russians."]}
+{"w":"russophobist","pos":"noun","d":["A russophobe; one who fears or hates Russia or Russians."]}
+{"w":"rust","pos":"noun","d":["The reddish-brown coating that forms on iron or steel as it corrodes.","As a verb, to become coated with rust; to corrode."]}
+{"w":"rustily","pos":"adverb","d":["In a rusty manner; with rust or corrosion.","In an impaired, out-of-practice way."]}
+{"w":"rustiness","pos":"noun","d":["The state of being rusty.","Loss of skill from lack of use or practice."]}
+{"w":"rustle","pos":"verb","d":["To make a soft, dry crackling sound, like leaves stirred by the wind.","As a noun, a soft crackling sound."]}
+{"w":"rusty","pos":"adjective","d":["Covered with rust; corroded.","Impaired by lack of use or practice."]}
+{"w": "rut", "pos": "noun", "d": ["A narrow groove worn into soft ground by passing wheels or feet.", "A fixed, dull routine that is hard to break out of."]}
+{"w": "ruta-baga", "pos": "noun", "d": ["A large round root vegetable with yellow flesh, a cross between a turnip and a cabbage."]}
+{"w": "rutaceous", "pos": "adjective", "d": ["Relating to the rue family of flowering plants, which includes citrus trees and the herb rue."]}
+{"w": "ruthenic", "pos": "adjective", "d": ["Containing ruthenium, especially in its higher oxidation state."]}
+{"w": "ruthenious", "pos": "adjective", "d": ["Containing ruthenium, especially in its lower oxidation state."]}
+{"w": "ruthenium", "pos": "noun", "d": ["A hard silvery-white metallic chemical element, one of the platinum group of metals."]}
+{"w": "rutilant", "pos": "adjective", "d": ["Glowing or shining with a deep red light."]}
+{"w": "rutilate", "pos": "adjective", "d": ["Bearing reddish bristles or hairs, as some insects and plants do."]}
+{"w": "rutilian", "pos": "adjective", "d": ["Relating to rutilite, a reddish-brown mineral form of titanium dioxide."]}
+{"w": "rutin", "pos": "noun", "d": ["A yellow crystalline plant compound found in buckwheat, citrus fruits, and tea."]}
+{"w": "rutinose", "pos": "noun", "d": ["A disaccharide sugar produced by the breakdown of rutin."]}
+{"w": "ruttish", "pos": "adjective", "d": ["In a state of sexual excitement, as male deer are during the breeding season."]}
+{"w": "ruttle", "pos": "noun", "d": ["A rattling sound made in the throat, as by labored breathing."]}
+{"w": "rutty", "pos": "adjective", "d": ["Full of ruts; marked with deep wheel tracks."]}
+{"w": "rutylene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ryal", "pos": "noun", "d": ["A former Scottish gold coin."]}
+{"w": "ryder", "pos": "noun", "d": ["A former Dutch silver coin stamped with the figure of a horseman."]}
+{"w": "rye", "pos": "noun", "d": ["A hardy cereal grain used for flour and whiskey.", "Whiskey made from this grain."]}
+{"w": "rynd", "pos": "noun", "d": ["An iron crossbar that supports the upper millstone in a grain mill."]}
+{"w": "ryot", "pos": "noun", "d": ["A peasant farmer or cultivator in India."]}
+{"w": "rypophagous", "pos": "adjective", "d": ["Feeding on filth or decaying refuse."]}
+{"w": "rys", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rysh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rysimeter", "pos": "noun", "d": ["An instrument that measures the water draining down through soil; a variant spelling of lysimeter."]}
+{"w": "ryth", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rytina", "pos": "noun", "d": ["An extinct genus of giant sea cows that included Steller's sea cow."]}
+{"w": "saadh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sabadilla", "pos": "noun", "d": ["A Mexican plant of the lily family whose seeds yield a powder used as an insecticide."]}
+{"w": "sabaean", "pos": "adjective", "d": ["Relating to Saba, an ancient kingdom in the southwestern corner of Arabia.", "A native or inhabitant of ancient Saba."]}
+{"w": "sabaeism", "pos": "noun", "d": ["The worship of the sun, moon, and stars as gods."]}
+{"w": "sabaism", "pos": "noun", "d": ["The worship of the sun, moon, and stars as gods; a variant of Sabaeism."]}
+{"w": "sabal", "pos": "noun", "d": ["A genus of fan palms that includes the palmettos of the American Southeast."]}
+{"w": "sabaoth", "pos": "noun", "d": ["Heavenly hosts or armies, used in the phrase Lord of Sabaoth."]}
+{"w": "sabbat", "pos": "noun", "d": ["A secret midnight assembly of witches."]}
+{"w": "sabbath", "pos": "noun", "d": ["A weekly day of rest and worship, Saturday for Jews and Sunday for most Christians.", "A period of rest or repose."]}
+{"w": "sabbaton", "pos": "noun", "d": ["The pointed steel covering for the foot in a suit of medieval armor."]}
+{"w": "sabean", "pos": "adjective", "d": ["Relating to the ancient kingdom of Saba in southwestern Arabia; a variant of Sabaean."]}
+{"w": "sabeism", "pos": "noun", "d": ["The worship of the sun, moon, and stars; a variant of Sabaeism."]}
+{"w": "sabella", "pos": "noun", "d": ["A genus of marine tube worms with feathery, fan-shaped tentacles."]}
+{"w": "sabellian", "pos": "adjective", "d": ["Relating to Sabellius, whose doctrine held that God is one person appearing in three modes."]}
+{"w": "sabelloid", "pos": "adjective", "d": ["Resembling a sabella, the fan-tentacled marine worm."]}
+{"w": "saber", "pos": "noun", "d": ["A heavy cavalry sword with a curved blade.", "To strike or wound with such a sword."]}
+{"w": "sabian", "pos": "noun", "d": ["A member of an ancient religious sect that worshiped the stars.", "Relating to this sect or its star worship."]}
+{"w": "sabicu", "pos": "noun", "d": ["A West Indian tree that yields a hard, durable timber."]}
+{"w": "sabine", "pos": "adjective", "d": ["Relating to the Sabines, an ancient people of central Italy.", "A member of the ancient Sabine people."]}
+{"w": "sable", "pos": "noun", "d": ["A small dark-furred marten valued for its rich fur.", "The color black, especially in heraldry."]}
+{"w": "sabot", "pos": "noun", "d": ["A shoe carved from a single block of wood, worn by peasants in parts of Europe.", "A lightweight carrier that lets a smaller projectile be fired from a larger gun barrel."]}
+{"w": "sabotiere", "pos": "noun", "d": ["A maker or seller of wooden shoes."]}
+{"w": "sabre", "pos": "noun", "d": ["The British spelling of saber, a curved cavalry sword."]}
+{"w": "sabretasche", "pos": "noun", "d": ["A flat leather pouch hung from the sword belt of a cavalry officer."]}
+{"w": "sabrina work", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sabulose", "pos": "adjective", "d": ["Sandy or gritty in texture."]}
+{"w": "sabulosity", "pos": "noun", "d": ["The quality or condition of being sandy or gritty."]}
+{"w": "sabulous", "pos": "adjective", "d": ["Consisting of sand; sandy and gritty."]}
+{"w": "sac", "pos": "noun", "d": ["A pouchlike bag or cavity in an animal body or plant structure."]}
+{"w": "sacalait", "pos": "noun", "d": ["A freshwater sunfish of the southern United States, the white crappie."]}
+{"w": "sacar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saccharate", "pos": "noun", "d": ["A salt or ester of saccharic acid, an acid derived from sugar."]}
+{"w": "saccharic", "pos": "adjective", "d": ["Relating to or derived from sugar."]}
+{"w": "sacchariferous", "pos": "adjective", "d": ["Yielding or containing sugar."]}
+{"w": "saccharify", "pos": "verb", "d": ["To convert starch or another carbohydrate into sugar."]}
+{"w": "saccharilla", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saccharimeter", "pos": "noun", "d": ["An instrument for measuring the sugar content of a liquid."]}
+{"w": "saccharimetrical", "pos": "adjective", "d": ["Relating to the measurement of sugar with a saccharimeter."]}
+{"w": "saccharimetry", "pos": "noun", "d": ["The measurement of sugar content in a liquid by means of a saccharimeter."]}
+{"w": "saccharin", "pos": "noun", "d": ["An intensely sweet artificial compound used as a sugar substitute."]}
+{"w": "saccharine", "pos": "adjective", "d": ["Excessively sweet or sentimental in a cloying way.", "Relating to sugar; sugary."]}
+{"w": "saccharize", "pos": "verb", "d": ["To sweeten with sugar or to convert into sugar."]}
+{"w": "saccharoid", "pos": "adjective", "d": ["Resembling sugar in appearance or texture."]}
+{"w": "saccharometer", "pos": "noun", "d": ["An instrument for determining the amount of sugar in a fermenting liquid."]}
+{"w": "saccharomyces", "pos": "noun", "d": ["A genus of yeasts that ferment sugars, including the yeasts used in baking and brewing."]}
+{"w": "saccharomycetes", "pos": "noun", "d": ["A class of fungi comprising the true yeasts."]}
+{"w": "saccharonate", "pos": "noun", "d": ["A salt or ester of saccharonic acid."]}
+{"w": "saccharone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saccharonic", "pos": "adjective", "d": ["Relating to saccharonic acid, an acid obtained from certain sugars."]}
+{"w": "saccharose", "pos": "noun", "d": ["Sucrose; ordinary table sugar."]}
+{"w": "saccharous", "pos": "adjective", "d": ["Containing sugar; sweet and sugary."]}
+{"w": "saccharum", "pos": "noun", "d": ["Sugar cane, or sugar itself."]}
+{"w": "saccholactate", "pos": "noun", "d": ["A salt or ester of saccholactic acid."]}
+{"w": "saccholactic", "pos": "adjective", "d": ["Relating to saccholactic acid, a crystalline acid obtained from milk sugar and plant gums."]}
+{"w": "sacchulmate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sacchulmic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sacchulmin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sacciferous", "pos": "adjective", "d": ["Bearing or forming sacs or pouchlike structures."]}
+{"w": "sacciform", "pos": "adjective", "d": ["Shaped like a sac or pouch."]}
+{"w": "saccoglossa", "pos": "noun", "d": ["An order of sea slugs that feed by sucking the juices from algae."]}
+{"w": "saccular", "pos": "adjective", "d": ["Relating to or shaped like a small sac."]}
+{"w": "sacculated", "pos": "adjective", "d": ["Divided into or composed of a series of sacs."]}
+{"w": "saccule", "pos": "noun", "d": ["A small sac or pouchlike cavity, especially in the inner ear."]}
+{"w": "sacculo-cochlear", "pos": "adjective", "d": ["Relating to the saccule and the cochlea of the inner ear."]}
+{"w": "sacculo-utricular", "pos": "adjective", "d": ["Relating to the saccule and the utricle of the inner ear."]}
+{"w": "sacculus", "pos": "noun", "d": ["A small saclike structure, especially the saccule of the inner ear."]}
+{"w": "saccus", "pos": "noun", "d": ["A sac or pouchlike structure in anatomy."]}
+{"w": "sacellum", "pos": "noun", "d": ["A small unroofed shrine or sacred enclosure in ancient Rome."]}
+{"w": "sacerdotal", "pos": "adjective", "d": ["Relating to priests or the priesthood; priestly."]}
+{"w": "sachel", "pos": "noun", "d": ["A variant spelling of satchel, a small bag carried on a shoulder strap."]}
+{"w": "sachet", "pos": "noun", "d": ["A small bag or packet of perfumed powder used to scent linens and drawers."]}
+{"w": "saciety", "pos": "noun", "d": ["The state of being full or satisfied; a variant spelling of satiety."]}
+{"w": "sack", "pos": "noun", "d": ["A large bag of coarse cloth used for storing grain or groceries.", "Dismissal from employment, as in the phrase to get the sack.", "The looting of a captured city."]}
+{"w": "sack-winged", "pos": "adjective", "d": ["Having wings furnished with a sac or pouchlike fold of membrane."]}
+{"w": "sacral", "pos": "adjective", "d": ["Of or relating to the sacrum, the bone at the base of the spine."]}
+{"w": "sacrarium", "pos": "noun", "d": ["The room in a church where the sacred vessels and vestments are kept.", "The sanctuary or holy place of an ancient temple."]}
+{"w": "sacre", "pos": "adjective", "d": ["Sacred.", "Used in French as a mild oath in exclamations of surprise or anger."]}
+{"w": "sacrific", "pos": "adjective", "d": ["Of or relating to sacrifice; sacrificial."]}
+{"w": "sacrificator", "pos": "noun", "d": ["One who offers a sacrifice."]}
+{"w": "sacrificatory", "pos": "adjective", "d": ["Pertaining to sacrifice or to the offering of sacrifices."]}
+{"w": "sacrilege", "pos": "noun", "d": ["The act of violating or treating a sacred place or thing with disrespect."]}
+{"w": "sacrilegious", "pos": "adjective", "d": ["Committing or characterized by sacrilege; grossly irreverent toward sacred things."]}
+{"w": "sacrilegist", "pos": "noun", "d": ["One who commits sacrilege."]}
+{"w": "sacristan", "pos": "noun", "d": ["An officer of a church who has charge of the sacristy and the sacred vessels and vestments."]}
+{"w": "sacristy", "pos": "noun", "d": ["The room in a church where vestments, sacred vessels, and other treasures are kept."]}
+{"w": "sacro-", "pos": "prefix", "d": ["A combining form meaning the sacrum, as in sacroiliac."]}
+{"w": "sacrosanct", "pos": "adjective", "d": ["Sacred and inviolable; not to be criticized, questioned, or changed."]}
+{"w": "sacrosciatic", "pos": "adjective", "d": ["Of or relating to the sacrum and the ischium, the lower part of the hip bone."]}
+{"w": "sacrovertebral", "pos": "adjective", "d": ["Of or relating to the sacrum and the vertebrae of the spine."]}
+{"w": "sadda", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saddle", "pos": "noun", "d": ["A seat for a rider, fastened on the back of a horse or other animal.", "Anything shaped like a saddle or used as a seat."]}
+{"w": "saddle-backed", "pos": "adjective", "d": ["Having a back that curves inward like a saddle."]}
+{"w": "saddle-shaped", "pos": "adjective", "d": ["Having the form of a saddle."]}
+{"w": "saddlebags", "pos": "noun", "d": ["Bags hung on either side behind a saddle for carrying things."]}
+{"w": "saddlery", "pos": "noun", "d": ["The trade or business of making saddles and harnesses.", "A shop where saddles are made or sold."]}
+{"w": "sadducaic", "pos": "adjective", "d": ["Of or relating to the Sadducees."]}
+{"w": "sadducee", "pos": "noun", "d": ["A member of an ancient Jewish sect that denied the resurrection of the dead and a future life."]}
+{"w": "sadducism", "pos": "noun", "d": ["The doctrines or practices of the Sadducees."]}
+{"w": "sadducize", "pos": "verb", "d": ["To follow or adopt the doctrines of the Sadducees."]}
+{"w": "sadh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sadr", "pos": "noun", "d": ["A high official or dignitary in some Muslim countries."]}
+{"w": "saengerbund", "pos": "noun", "d": ["A German association or society of singers; a singing club."]}
+{"w": "saengerfest", "pos": "noun", "d": ["A festival of singers; a singing festival."]}
+{"w": "safe-conduct", "pos": "noun", "d": ["A document granting a person safe passage through enemy lines or dangerous territory."]}
+{"w": "safe-keeping", "pos": "noun", "d": ["The act of keeping in safety; protection or custody."]}
+{"w": "safe-pledge", "pos": "noun", "d": ["A pledge or security given for the safety of a person."]}
+{"w": "safety bicycle", "pos": "noun", "d": ["A bicycle with two wheels of equal size, as distinguished from the old high-wheel bicycle."]}
+{"w": "safety chain", "pos": "noun", "d": ["A backup chain used to keep a trailer or towed vehicle attached if the main hitch fails."]}
+{"w": "safflow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saffron", "pos": "noun", "d": ["An orange-yellow spice made from the dried stigmas of the saffron crocus."]}
+{"w": "saffrony", "pos": "adjective", "d": ["Having the color or qualities of saffron; yellowish orange."]}
+{"w": "safranin", "pos": "noun", "d": ["A red dye used for staining tissues in microscopy."]}
+{"w": "safranine", "pos": "noun", "d": ["A red dye used for staining tissues in microscopy; another spelling of safranin."]}
+{"w": "sag", "pos": "verb", "d": ["To sink or bend downward in the middle under weight or pressure."]}
+{"w": "saga", "pos": "noun", "d": ["A long story of heroic deeds, especially one from medieval Scandinavia.", "Any long and involved heroic tale."]}
+{"w": "sagacious", "pos": "adjective", "d": ["Having sound judgment; wise and shrewd."]}
+{"w": "sagapenum", "pos": "noun", "d": ["A gum resin from certain plants, formerly used in medicine."]}
+{"w": "sagebrush state", "pos": "phrase", "d": ["A nickname for the state of Nevada, where sagebrush grows abundantly."]}
+{"w": "sagene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sagenite", "pos": "noun", "d": ["Quartz containing interlaced needlelike crystals of rutile."]}
+{"w": "sagenitic", "pos": "adjective", "d": ["Having the structure of sagenite; made of interlaced needlelike crystals."]}
+{"w": "saginate", "pos": "verb", "d": ["To fatten; to pamper with rich food."]}
+{"w": "sagination", "pos": "noun", "d": ["The act of fattening; pampering with rich food."]}
+{"w": "sagitta", "pos": "noun", "d": ["An arrow-shaped part or structure.", "A genus of small marine arrowworms."]}
+{"w": "sagittal", "pos": "adjective", "d": ["Shaped like an arrow.", "In anatomy, dividing the body into right and left halves."]}
+{"w": "sagittarius", "pos": "noun", "d": ["The archer; a constellation and sign of the zodiac."]}
+{"w": "sagittary", "pos": "noun", "d": ["An archer.", "A mythical creature, half man and half horse, armed with a bow."]}
+{"w": "sagittate", "pos": "adjective", "d": ["Shaped like an arrowhead."]}
+{"w": "sagittocyst", "pos": "noun", "d": ["A minute arrow-shaped structure in the skin of certain flatworms, used in defense."]}
+{"w": "sago", "pos": "noun", "d": ["A starch food obtained from the pith of the sago palm."]}
+{"w": "sagoin", "pos": "noun", "d": ["Any of certain small South American monkeys; a marmoset."]}
+{"w": "sagum", "pos": "noun", "d": ["A short cloak worn by Roman soldiers."]}
+{"w": "sagus", "pos": "noun", "d": ["The sago palm, from whose pith sago starch is obtained."]}
+{"w": "sagy", "pos": "adjective", "d": ["Having the nature or appearance of sago."]}
+{"w": "saheb", "pos": "noun", "d": ["A title of respect for a gentleman, used in India; master."]}
+{"w": "sahib", "pos": "noun", "d": ["A title of respect for a gentleman, used in India."]}
+{"w": "sahibah", "pos": "noun", "d": ["The feminine form of sahib; a lady or mistress."]}
+{"w": "sahidic", "pos": "adjective", "d": ["Of or relating to Upper Egypt or its dialect of Coptic."]}
+{"w": "sahlite", "pos": "noun", "d": ["A grayish green variety of the mineral pyroxene."]}
+{"w": "sahui", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sai", "pos": "noun", "d": ["A three-pronged metal weapon used in Okinawan martial arts."]}
+{"w": "saibling", "pos": "noun", "d": ["The Arctic char, a troutlike fish of northern waters."]}
+{"w": "saic", "pos": "noun", "d": ["A small sailing vessel used in the Mediterranean Sea."]}
+{"w": "saiga", "pos": "noun", "d": ["A central Asian antelope with a large bulbous nose."]}
+{"w": "saikyr", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sailor", "pos": "noun", "d": ["A person who works on a ship; one who sails."]}
+{"w": "saim", "pos": "noun", "d": ["Lard; grease."]}
+{"w": "sain", "pos": "verb", "d": ["To bless or protect with the sign of the cross."]}
+{"w": "saint-simonian", "pos": "noun", "d": ["A follower of the French social reformer Saint-Simon."]}
+{"w": "saint-simonism", "pos": "noun", "d": ["The social doctrines of Saint-Simon; an early form of French socialism."]}
+{"w": "saintess", "pos": "noun", "d": ["A female saint; a saintly woman."]}
+{"w": "saintliness", "pos": "noun", "d": ["The quality of being saintly; exceptional holiness or goodness."]}
+{"w": "saintologist", "pos": "noun", "d": ["One who studies the lives of saints."]}
+{"w": "saith", "pos": "verb", "d": ["Archaic form of says, the third person singular of say."]}
+{"w": "saiva", "pos": "noun", "d": ["A worshiper of the Hindu god Siva."]}
+{"w": "saivism", "pos": "noun", "d": ["The Hindu worship of the god Siva."]}
+{"w": "sajene", "pos": "noun", "d": ["A Russian unit of length, about seven feet."]}
+{"w": "sajou", "pos": "noun", "d": ["Any of several South American monkeys, especially the capuchin."]}
+{"w": "saki", "pos": "noun", "d": ["A South American monkey with a long bushy tail.", "Japanese rice wine."]}
+{"w": "sakieh", "pos": "noun", "d": ["A large wheel used in Egypt and the Middle East to lift water for irrigation."]}
+{"w": "sakiyeh", "pos": "noun", "d": ["A large wheel used in Egypt and the Middle East to lift water for irrigation."]}
+{"w": "sakti", "pos": "noun", "d": ["In Hinduism, the divine feminine energy or creative power, often personified as a goddess."]}
+{"w": "sal", "pos": "noun", "d": ["Salt, especially in chemical or pharmaceutical names.", "A large timber tree of India."]}
+{"w": "salacious", "pos": "adjective", "d": ["Having or showing too much interest in sex; lustful.", "Appealing to sexual interest."]}
+{"w": "salacity", "pos": "noun", "d": ["The quality of being salacious; lustfulness."]}
+{"w": "salade", "pos": "noun", "d": ["A light medieval helmet covering the back of the neck."]}
+{"w": "salaeratus", "pos": "noun", "d": ["An old name for baking soda as used in baking."]}
+{"w": "salagane", "pos": "noun", "d": ["A small swift of southeastern Asia whose nests are used for birds nest soup."]}
+{"w": "salal-berry", "pos": "noun", "d": ["The dark berry of the salal, an evergreen shrub of the Pacific Northwest."]}
+{"w": "salam", "pos": "noun", "d": ["The Muslim salutation of peace."]}
+{"w": "salamander", "pos": "noun", "d": ["A small lizardlike amphibian.", "A mythical creature said to live in fire."]}
+{"w": "salamandrina", "pos": "noun", "d": ["A genus of small salamanders native to Italy."]}
+{"w": "salamandrine", "pos": "adjective", "d": ["Like or relating to a salamander."]}
+{"w": "salamandroidea", "pos": "noun", "d": ["A major group of amphibians that includes salamanders and newts."]}
+{"w": "salangana", "pos": "noun", "d": ["A genus of small swifts whose nests are harvested for bird's-nest soup."]}
+{"w": "saleb", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "salebrosity", "pos": "noun", "d": ["The quality of being rough or uneven; ruggedness."]}
+{"w": "salebrous", "pos": "adjective", "d": ["Rough, rugged, or uneven in surface."]}
+{"w": "salep", "pos": "noun", "d": ["A flour made from the dried tubers of certain orchids, used in warm drinks and desserts."]}
+{"w": "saleratus", "pos": "noun", "d": ["An older name for a bicarbonate salt such as baking soda, once used in baking as a leavening agent."]}
+{"w": "salesman", "pos": "noun", "d": ["A man whose job is selling goods or services."]}
+{"w": "saleswoman", "pos": "noun", "d": ["A woman whose job is selling goods or services."]}
+{"w": "salian", "pos": "noun", "d": ["A member of an ancient Roman priesthood of Mars known for ritual leaping dances."]}
+{"w": "saliant", "pos": "adjective", "d": ["In heraldry, shown as leaping with all four feet raised off the ground."]}
+{"w": "saliaunce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "salicaceous", "pos": "adjective", "d": ["Belonging to the willow family of trees and shrubs."]}
+{"w": "salicin", "pos": "noun", "d": ["A bitter compound obtained from willow bark, once used to relieve pain and fever."]}
+{"w": "salicyl", "pos": "noun", "d": ["A chemical group derived from salicylic acid, present in some pain-relieving medicines."]}
+{"w": "salicylite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "salicylol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "salience", "pos": "noun", "d": ["The quality of standing out or being especially noticeable or important."]}
+{"w": "saliency", "pos": "noun", "d": ["The quality of being prominent or noticeable; salience."]}
+{"w": "salient", "pos": "adjective", "d": ["Standing out as especially noticeable or important.", "Jutting or projecting outward."]}
+{"w": "saliferous", "pos": "adjective", "d": ["Containing or producing salt."]}
+{"w": "salifiable", "pos": "adjective", "d": ["Capable of combining with an acid to form a salt."]}
+{"w": "salification", "pos": "noun", "d": ["The chemical process of forming a salt; the act of salting."]}
+{"w": "saligenin", "pos": "noun", "d": ["A crystalline compound obtained from salicin, also known as salicyl alcohol."]}
+{"w": "saligot", "pos": "noun", "d": ["The water caltrop, an aquatic plant bearing edible horned nuts."]}
+{"w": "salimeter", "pos": "noun", "d": ["An instrument for measuring the salt content of a solution."]}
+{"w": "salimetry", "pos": "noun", "d": ["The measurement of the salt content of a solution."]}
+{"w": "salina", "pos": "noun", "d": ["A salt marsh, salt pan, or saltworks where salt is gathered or evaporated."]}
+{"w": "salina period", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saline", "pos": "adjective", "d": ["Containing salt; salty.", "Consisting of or relating to a sterile salt solution used in medicine."]}
+{"w": "saliniferous", "pos": "adjective", "d": ["Yielding or producing salt."]}
+{"w": "saliniform", "pos": "adjective", "d": ["Having the form or appearance of salt."]}
+{"w": "salinity", "pos": "noun", "d": ["Saltiness; the amount of salt dissolved in water."]}
+{"w": "salinometer", "pos": "noun", "d": ["An instrument for measuring the salinity of water, as in a ship's boilers."]}
+{"w": "salinous", "pos": "adjective", "d": ["Somewhat salty."]}
+{"w": "salique", "pos": "adjective", "d": ["Relating to the Salian Franks or to Salic law."]}
+{"w": "saliretin", "pos": "noun", "d": ["A resinous substance formed by the action of dilute acids on salicin."]}
+{"w": "salisburia", "pos": "noun", "d": ["An older botanical name for the ginkgo tree."]}
+{"w": "salite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saliva", "pos": "noun", "d": ["The watery fluid secreted in the mouth that moistens food and begins digestion."]}
+{"w": "salival", "pos": "adjective", "d": ["Relating to saliva."]}
+{"w": "salivant", "pos": "adjective", "d": ["Causing an increased flow of saliva."]}
+{"w": "salivary", "pos": "adjective", "d": ["Relating to saliva or to the glands that produce it."]}
+{"w": "salivate", "pos": "verb", "d": ["To secrete saliva, especially in anticipation of food."]}
+{"w": "salivous", "pos": "adjective", "d": ["Resembling or consisting of saliva."]}
+{"w": "salix", "pos": "noun", "d": ["The botanical genus that includes the willows and osiers."]}
+{"w": "sallenders", "pos": "noun", "d": ["A dry, scabby skin eruption on the hock of a horse."]}
+{"w": "salliance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sally lunn", "pos": "noun", "d": ["A rich, slightly sweet yeast bun or tea cake, usually served warm with butter."]}
+{"w": "salm", "pos": "noun", "d": ["An obsolete spelling of psalm."]}
+{"w": "salmagundi", "pos": "noun", "d": ["A dish of chopped meat, fish, eggs, and vegetables served cold.", "Any miscellaneous mixture or jumble."]}
+{"w": "salmi", "pos": "noun", "d": ["A rich stew or ragout made from game birds."]}
+{"w": "salmiac", "pos": "noun", "d": ["Ammonium chloride, a white crystalline salt once called sal ammoniac."]}
+{"w": "salmonet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "salmonoid", "pos": "adjective", "d": ["Resembling a salmon; belonging to the salmon family of fishes."]}
+{"w": "salogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "salol", "pos": "noun", "d": ["A crystalline compound once used as an intestinal antiseptic and in sunscreens."]}
+{"w": "salometer", "pos": "noun", "d": ["An instrument for measuring the saltiness of brine or other solutions."]}
+{"w": "salometry", "pos": "noun", "d": ["Measurement of salt content with a salometer."]}
+{"w": "salp", "pos": "noun", "d": ["A free-swimming, barrel-shaped marine animal related to the sea squirts."]}
+{"w": "salpa", "pos": "noun", "d": ["A genus of transparent, barrel-shaped, free-swimming marine tunicates."]}
+{"w": "salpid", "pos": "adjective", "d": ["Belonging to or resembling the salps."]}
+{"w": "salpingitis", "pos": "noun", "d": ["Inflammation of a fallopian tube."]}
+{"w": "salpinx", "pos": "noun", "d": ["A trumpet-shaped tube, especially a fallopian tube.", "An ancient Greek straight trumpet."]}
+{"w": "salsafy", "pos": "noun", "d": ["A variant spelling of salsify."]}
+{"w": "salsamentarious", "pos": "adjective", "d": ["Relating to salted meats or provisions."]}
+{"w": "salse", "pos": "noun", "d": ["A small mud volcano that erupts mud rather than lava."]}
+{"w": "salsify", "pos": "noun", "d": ["A root vegetable with a taste like oysters, also called the oyster plant."]}
+{"w": "salso-acid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "salsuginous", "pos": "adjective", "d": ["Salty; growing in salty soil."]}
+{"w": "salt rheum", "pos": "noun", "d": ["An old name for a moist, itching skin eruption."]}
+{"w": "salt-green", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saltarella", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "saltarello", "pos": "noun", "d": ["A lively Italian dance marked by leaping steps."]}
+{"w": "saltatoria", "pos": "noun", "d": ["A group of leaping insects including grasshoppers, crickets, and locusts."]}
+{"w": "saltatory", "pos": "adjective", "d": ["Relating to leaping or dancing; proceeding by jumps."]}
+{"w": "saltigradae", "pos": "noun", "d": ["A group of spiders that hunt by leaping, including the jumping spiders."]}
+{"w": "saltigrade", "pos": "adjective", "d": ["Adapted for leaping, as the legs of jumping spiders."]}
+{"w": "saltimbanco", "pos": "noun", "d": ["A wandering street performer or quack doctor who entertains with acrobatic tricks."]}
+{"w": "salty", "pos": "adjective", "d": ["Tasting of or containing salt.", "Informal: mildly annoyed or resentful."]}
+{"w": "salubrious", "pos": "adjective", "d": ["Promoting health; healthful."]}
+{"w": "salubrity", "pos": "noun", "d": ["The quality of being healthful; wholesomeness."]}
+{"w": "salue", "pos": "verb", "d": ["An archaic form of salute."]}
+{"w": "salutary", "pos": "adjective", "d": ["Producing a beneficial effect; wholesome."]}
+{"w": "salutation", "pos": "noun", "d": ["A greeting or expression of welcome."]}
+{"w": "salutatorian", "pos": "noun", "d": ["The student ranking second highest in a graduating class, who gives the welcoming address."]}
+{"w": "salutatorily", "pos": "adverb", "d": ["In the manner of a salutatory address; by way of greeting."]}
+{"w": "salutatory", "pos": "adjective", "d": ["Expressing welcome or greeting."]}
+{"w": "salute", "pos": "verb", "d": ["To greet with a formal gesture of respect, such as raising the hand to the forehead.", "To honor by firing guns or displaying flags."]}
+{"w": "salutiferous", "pos": "adjective", "d": ["Bringing health or well-being; wholesome."]}
+{"w": "salvability", "pos": "noun", "d": ["The quality of being able to be salvaged."]}
+{"w": "salvage", "pos": "verb", "d": ["To rescue property or materials from wreck, fire, or loss."]}
+{"w": "salvatory", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "salve", "pos": "noun", "d": ["A healing ointment spread on wounds or sores."]}
+{"w": "salver-shaped", "pos": "adjective", "d": ["Shaped like a flat tray; in botany, having a narrow tube topped by a flat spreading rim, as some flowers do."]}
+{"w": "salvific", "pos": "adjective", "d": ["Relating to or bringing salvation."]}
+{"w": "salvo", "pos": "noun", "d": ["A simultaneous firing of guns or release of bombs.", "A sudden burst of applause, cheers, or criticism."]}
+{"w": "salvor", "pos": "noun", "d": ["A person or ship that salvages wrecked or abandoned property."]}
+{"w": "samaj", "pos": "noun", "d": ["A society or association, especially a religious or social reform group in India."]}
+{"w": "samaritan", "pos": "noun", "d": ["A charitable person who helps strangers in need."]}
+{"w": "samarium", "pos": "noun", "d": ["A silvery metallic chemical element, symbol Sm, used in strong permanent magnets and lasers."]}
+{"w": "samarra", "pos": "noun", "d": ["A city in Iraq, on the Tigris River, sacred to Shiite Muslims."]}
+{"w": "samarskite", "pos": "noun", "d": ["A black radioactive mineral containing rare-earth elements, uranium, and niobium or tantalum."]}
+{"w": "sambo", "pos": "noun", "d": ["A martial art and combat sport developed in Russia that blends judo and wrestling.", "An offensive term for a Black person."]}
+{"w": "samboo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sambucus", "pos": "noun", "d": ["The genus of shrubs and small trees that includes the elders."]}
+{"w": "sambuke", "pos": "noun", "d": ["An ancient stringed musical instrument of the Greeks."]}
+{"w": "sameliness", "pos": "noun", "d": ["The quality of being the same; uniformity."]}
+{"w": "samian", "pos": "adjective", "d": ["Of or relating to the Greek island of Samos.", "Samian ware, a fine red pottery made by the ancient Romans."]}
+{"w": "samiel", "pos": "noun", "d": ["A hot, dry desert wind; a variant of simoom."]}
+{"w": "samiot", "pos": "noun", "d": ["A native or inhabitant of the island of Samos."]}
+{"w": "samisen", "pos": "noun", "d": ["A Japanese three-stringed musical instrument; a variant of shamisen."]}
+{"w": "samite", "pos": "noun", "d": ["A rich silk fabric of the Middle Ages, often woven with gold or silver thread."]}
+{"w": "sammier", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "samoan", "pos": "noun", "d": ["A native or inhabitant of Samoa.", "The Polynesian language spoken in Samoa."]}
+{"w": "samovar", "pos": "noun", "d": ["A metal urn used in Russia for boiling water to make tea."]}
+{"w": "samoyedes", "pos": "noun", "d": ["The plural of Samoyed; the indigenous peoples of northern Siberia, and the breed of white sled dog named for them."]}
+{"w": "samp", "pos": "noun", "d": ["Coarsely ground corn; a porridge made from it."]}
+{"w": "samshu", "pos": "noun", "d": ["A strong Chinese liquor distilled from rice or millet."]}
+{"w": "samurai", "pos": "noun", "d": ["A member of the warrior class of feudal Japan.", "One who lives by a strict code of honor and loyalty."]}
+{"w": "san jose scale", "pos": "phrase", "d": ["A destructive scale insect that infests fruit trees and feeds on their sap."]}
+{"w": "sanability", "pos": "noun", "d": ["The quality of being curable or healable."]}
+{"w": "sanation", "pos": "noun", "d": ["The act of healing or curing."]}
+{"w": "sanative", "pos": "adjective", "d": ["Having the power to heal."]}
+{"w": "sanatorium", "pos": "noun", "d": ["A facility where people with long-term illness rest and recover, historically for tuberculosis."]}
+{"w": "sanatory", "pos": "adjective", "d": ["Relating to health; promoting health."]}
+{"w": "sanbenito", "pos": "noun", "d": ["A sleeveless penitential garment worn by those condemned by the Spanish Inquisition."]}
+{"w": "sance-bell", "pos": "noun", "d": ["A small handbell rung at the consecration in the Roman Catholic mass."]}
+{"w": "sancho", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sancho pedro", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sancte bell", "pos": "noun", "d": ["A small handbell rung at the consecration in the Roman Catholic mass."]}
+{"w": "sanctificate", "pos": "verb", "d": ["To make holy; to consecrate."]}
+{"w": "sanctification", "pos": "noun", "d": ["The act of making holy."]}
+{"w": "sanctify", "pos": "verb", "d": ["To make holy; to purify from sin."]}
+{"w": "sanctifyingly", "pos": "adverb", "d": ["In a manner that makes holy."]}
+{"w": "sanctiloquent", "pos": "adjective", "d": ["Speaking of holy things."]}
+{"w": "sanctimony", "pos": "noun", "d": ["A pretense of holiness; hypocritical piety."]}
+{"w": "sanction", "pos": "noun", "d": ["Official approval or permission.", "A penalty imposed for breaking a rule or law."]}
+{"w": "sanctitude", "pos": "noun", "d": ["Holiness; saintliness."]}
+{"w": "sanctity", "pos": "noun", "d": ["The quality of being holy; sacredness.", "Something regarded as inviolable."]}
+{"w": "sanctuarize", "pos": "verb", "d": ["To place under the protection of a sanctuary; to shelter."]}
+{"w": "sanctuary", "pos": "noun", "d": ["A sacred place; a church or temple.", "A place of refuge and protection."]}
+{"w": "sanctum", "pos": "noun", "d": ["A sacred place; a private room reserved for oneself."]}
+{"w": "sanctus", "pos": "noun", "d": ["A hymn of the Christian liturgy beginning with the word Holy."]}
+{"w": "sand-blind", "pos": "adjective", "d": ["Partially blind; dim-sighted."]}
+{"w": "sand-lot", "pos": "adjective", "d": ["Of or relating to informal amateur baseball played on vacant city lots."]}
+{"w": "sandarac", "pos": "noun", "d": ["A resin from a North African tree, used in varnishes."]}
+{"w": "sandarach", "pos": "noun", "d": ["A variant name of sandarac; also an ancient name for realgar, a red arsenic mineral."]}
+{"w": "sandbagger", "pos": "noun", "d": ["One who deliberately understates their ability in order to gain an unfair advantage.", "A bully who knocks people down."]}
+{"w": "sandemanian", "pos": "noun", "d": ["A member of a Scottish Christian sect founded by Robert Sandeman."]}
+{"w": "sanderling", "pos": "noun", "d": ["A small shorebird of the sandpiper family that runs along ocean beaches."]}
+{"w": "sanders-blue", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sandhiller", "pos": "noun", "d": ["A dweller of the sandy hill country of the Carolinas and Georgia."]}
+{"w": "sandiness", "pos": "noun", "d": ["The quality of containing sand or feeling like sand."]}
+{"w": "sandiver", "pos": "noun", "d": ["A glassy scum that forms on the surface of molten glass."]}
+{"w": "sandix", "pos": "noun", "d": ["A red pigment used in antiquity."]}
+{"w": "sandnecker", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sandre", "pos": "noun", "d": ["A large European freshwater fish of the perch family, also called the pike-perch."]}
+{"w": "sandyx", "pos": "noun", "d": ["A variant of sandix."]}
+{"w": "sane", "pos": "adjective", "d": ["Mentally sound; showing good judgment."]}
+{"w": "sang", "pos": "verb", "d": ["Past tense of sing."]}
+{"w": "sang-froid", "pos": "noun", "d": ["Calm self-control under pressure; cool composure."]}
+{"w": "sanga", "pos": "noun", "d": ["A variant of sangha, the Buddhist monastic community.", "A breed of African humped cattle."]}
+{"w": "sangiac", "pos": "noun", "d": ["A variant of sanjak."]}
+{"w": "sangraal", "pos": "noun", "d": ["The Holy Grail; the cup of the Last Supper in legend."]}
+{"w": "sangu", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sanguiferous", "pos": "adjective", "d": ["Conveying or containing blood."]}
+{"w": "sanguification", "pos": "noun", "d": ["The process by which blood is formed in the body."]}
+{"w": "sanguifluous", "pos": "adjective", "d": ["Flowing with blood; bleeding freely."]}
+{"w": "sanguigenous", "pos": "adjective", "d": ["Producing blood."]}
+{"w": "sanguinaceous", "pos": "adjective", "d": ["Of the nature of blood; bloody."]}
+{"w": "sanguinaria", "pos": "noun", "d": ["A genus of plants including bloodroot, whose root yields a red juice."]}
+{"w": "sanguinarily", "pos": "adverb", "d": ["In a bloody or bloodthirsty manner."]}
+{"w": "sanguinariness", "pos": "noun", "d": ["Bloodthirstiness; eagerness to shed blood."]}
+{"w": "sanguinary", "pos": "adjective", "d": ["Eager to shed blood; marked by bloodshed."]}
+{"w": "sanguine", "pos": "adjective", "d": ["Cheerfully confident; optimistic.", "Of a blood-red color."]}
+{"w": "sanguinity", "pos": "noun", "d": ["Confident optimism of temper."]}
+{"w": "sanguinivorous", "pos": "adjective", "d": ["Feeding on blood."]}
+{"w": "sanguinolency", "pos": "noun", "d": ["Bloodiness; the state of being bloody."]}
+{"w": "sanguinolent", "pos": "adjective", "d": ["Bloody; tinged with blood."]}
+{"w": "sanguisuge", "pos": "noun", "d": ["A bloodsucker, especially a leech."]}
+{"w": "sanguivorous", "pos": "adjective", "d": ["Feeding on blood."]}
+{"w": "sanhedrim", "pos": "noun", "d": ["A variant of sanhedrin."]}
+{"w": "sanhedrin", "pos": "noun", "d": ["The supreme Jewish council in ancient Jerusalem."]}
+{"w": "sanhedrist", "pos": "noun", "d": ["A member of the sanhedrin."]}
+{"w": "sanhita", "pos": "noun", "d": ["A collection of Vedic hymns."]}
+{"w": "sanicle", "pos": "noun", "d": ["A plant of the genus Sanicula, with rounded leaves and small clustered flowers."]}
+{"w": "sanidine", "pos": "noun", "d": ["A glassy, high-temperature variety of potassium feldspar."]}
+{"w": "sanies", "pos": "noun", "d": ["Thin, bloody pus discharged from a wound."]}
+{"w": "sanious", "pos": "adjective", "d": ["Discharging thin, bloody pus; of the nature of sanies."]}
+{"w": "sanitarian", "pos": "noun", "d": ["One who promotes or studies public health and sanitation."]}
+{"w": "sanitarist", "pos": "noun", "d": ["A variant of sanitarian."]}
+{"w": "sanitarium", "pos": "noun", "d": ["A health facility for rest and treatment; a variant of sanatorium."]}
+{"w": "sanitary", "pos": "adjective", "d": ["Clean and free from germs; relating to public health."]}
+{"w": "sanitation", "pos": "noun", "d": ["The disposal of sewage and waste to protect public health."]}
+{"w": "sanity", "pos": "noun", "d": ["Soundness of mind; reasonable judgment."]}
+{"w": "sanjak", "pos": "noun", "d": ["An administrative district of the former Ottoman Empire."]}
+{"w": "sank", "pos": "verb", "d": ["Past tense of sink."]}
+{"w": "sankha", "pos": "noun", "d": ["A conch shell used as a ritual trumpet in Hindu worship."]}
+{"w": "sankhya", "pos": "noun", "d": ["One of the six orthodox systems of Hindu philosophy."]}
+{"w":"sannop","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sannup","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sanny","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sans-culotte","pos":"noun","d":["A working-class Parisian republican of the French Revolution, named for wearing trousers instead of the knee breeches of the upper class.","A radical or extreme political agitator."]}
+{"w":"sans-culottic","pos":"adjective","d":["Of or like the sans-culottes, the working-class revolutionaries of Paris.","Radically democratic in a rough, plebeian way."]}
+{"w":"sans-culottism","pos":"noun","d":["The principles, spirit, or movement of the sans-culottes of the French Revolution."]}
+{"w":"sans-souci","pos":"adjective","d":["Free from care or worry; lighthearted and untroubled."]}
+{"w":"sanscrit","pos":"noun","d":["An older spelling of Sanskrit, the ancient classical language of India."]}
+{"w":"sanskrit","pos":"noun","d":["The ancient classical language of India, in which much early Hindu literature was written."]}
+{"w":"santal","pos":"noun","d":["Sandalwood, especially the fragrant wood of trees in the genus Santalum."]}
+{"w":"santalaceous","pos":"adjective","d":["Belonging to the sandalwood family of plants, the Santalaceae."]}
+{"w":"santalin","pos":"noun","d":["A red coloring substance obtained from red sandalwood, used as a dye."]}
+{"w":"santalum","pos":"noun","d":["The genus of trees and shrubs that includes the true sandalwoods."]}
+{"w":"santees","pos":"noun","d":["Members of the Santee people, a Native American group of the northern plains."]}
+{"w":"santer","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"santon","pos":"noun","d":["A small painted clay figure of a Provencal nativity scene, dressed as a villager or tradesperson."]}
+{"w":"santonin","pos":"noun","d":["A bitter crystalline drug obtained from certain wormseed plants, formerly used to expel intestinal worms."]}
+{"w":"sapadillo","pos":"noun","d":["A variant spelling of sapodilla, the tropical fruit tree."]}
+{"w":"sapajo","pos":"noun","d":["An older variant spelling of sapajou, the South American capuchin monkey."]}
+{"w":"sapajou","pos":"noun","d":["A small, lively South American monkey of the capuchin group, with a prehensile tail."]}
+{"w":"sapan wood","pos":"noun","d":["A reddish dyewood from a tropical Asian tree, yielding a red coloring matter; a variant name of sappan wood."]}
+{"w":"saphenous","pos":"adjective","d":["Relating to either of the two large veins that run along the leg near the surface."]}
+{"w":"sapid","pos":"adjective","d":["Having a pleasant taste; savory and flavorful.","Agreeable or lively to the mind, as sapid conversation."]}
+{"w":"sapience","pos":"noun","d":["Deep wisdom; the quality of being wise and discerning."]}
+{"w":"sapient","pos":"adjective","d":["Wise and discerning; having sound judgment."]}
+{"w":"sapientious","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sapindaceous","pos":"adjective","d":["Belonging to the soapberry family of trees and shrubs, the Sapindaceae."]}
+{"w":"sapindus","pos":"noun","d":["The genus of tropical trees known as soapberries, whose fruits lather like soap in water."]}
+{"w":"sapodilla","pos":"noun","d":["A tropical evergreen tree bearing a sweet brown fruit, and the source of chicle used in chewing gum.","The sweet, gritty-fleshed fruit of this tree."]}
+{"w":"sapogenin","pos":"noun","d":["The non-sugar portion of a saponin molecule left after the sugar part is split off."]}
+{"w":"saponaceous","pos":"adjective","d":["Having the qualities of soap; soapy.","Relating to or resembling soap."]}
+{"w":"saponacity","pos":"noun","d":["The quality of being soapy; soapiness."]}
+{"w":"saponary","pos":"adjective","d":["Soapy in nature; resembling soap."]}
+{"w":"saponifiable","pos":"adjective","d":["Capable of being turned into soap by reaction with an alkali."]}
+{"w":"saponification","pos":"noun","d":["The chemical process of converting a fat or oil into soap by reaction with an alkali."]}
+{"w":"saponify","pos":"verb","d":["To convert a fat or oil into soap by combining it with an alkali.","To become soapy in character."]}
+{"w":"saponin","pos":"noun","d":["Any of a group of plant compounds that foam like soap when shaken with water."]}
+{"w":"saponite","pos":"noun","d":["A soft, soapy-feeling clay mineral, usually whitish or grayish in color."]}
+{"w":"saponul","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sapor","pos":"noun","d":["The quality of a thing that affects the sense of taste; flavor."]}
+{"w":"saporific","pos":"adjective","d":["Producing taste or flavor; having the power to excite the sense of taste."]}
+{"w":"saporosity","pos":"noun","d":["The quality of having taste; tastiness or flavor."]}
+{"w":"sapota","pos":"noun","d":["The genus of tropical trees that includes the sapodilla."]}
+{"w":"sapotaceous","pos":"adjective","d":["Belonging to the sapodilla family of tropical trees, the Sapotaceae."]}
+{"w":"sappan wood","pos":"noun","d":["A red dyewood obtained from a tropical Asian tree, used for dyeing and in medicine."]}
+{"w":"sapphic","pos":"adjective","d":["Relating to the ancient Greek poet Sappho or to the verse stanza named for her.","Relating to romantic love between women."]}
+{"w":"sapphirine","pos":"noun","d":["A blue gemstone or mineral resembling sapphire in color.","A deep, rich blue color."]}
+{"w":"sappho","pos":"noun","d":["The ancient Greek lyric poet of the island of Lesbos, famed for her passionate verses."]}
+{"w":"sappiness","pos":"noun","d":["The quality of being sappy; excessive sentimentality, or fullness of sap."]}
+{"w":"sappodilla","pos":"noun","d":["A variant spelling of sapodilla, the tropical fruit tree."]}
+{"w":"sappy","pos":"adjective","d":["Full of sap, as a young tree.","Overly sentimental or mawkish."]}
+{"w":"saprophagan","pos":"noun","d":["An organism that feeds on decaying organic matter; a saprophage."]}
+{"w":"saprophagous","pos":"adjective","d":["Feeding on decaying organic matter."]}
+{"w":"saprophyte","pos":"noun","d":["A plant, fungus, or microorganism that lives on dead or decaying organic matter."]}
+{"w":"saprophytic","pos":"adjective","d":["Living on dead or decaying organic matter, as a saprophyte does."]}
+{"w":"saprophytism","pos":"noun","d":["The mode of life of a saprophyte; living on decaying organic matter."]}
+{"w":"sapucaia","pos":"noun","d":["A large Brazilian tree bearing edible oily nuts, also called the paradise nut.","The nut of this tree."]}
+{"w":"sarabaite","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"saraband","pos":"noun","d":["A slow, stately dance in triple time, fashionable in the seventeenth and eighteenth centuries.","The music written for this dance."]}
+{"w":"saracen","pos":"noun","d":["In medieval European usage, an Arab or Muslim of the Middle East, especially during the Crusades."]}
+{"w":"sarasin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"saraswati","pos":"noun","d":["The Hindu goddess of learning, music, and the arts."]}
+{"w":"sarcasm","pos":"noun","d":["Bitter, cutting language meant to mock or wound, often saying the opposite of what is meant."]}
+{"w":"sarcastic","pos":"adjective","d":["Using or marked by sarcasm; mocking in a bitter or contemptuous way."]}
+{"w":"sarcel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sarcelle","pos":"noun","d":["The teal, a small freshwater duck; the French name used in English writings."]}
+{"w":"sarcenet","pos":"noun","d":["A fine, thin, soft silk fabric, formerly used for linings, scarves, and banners."]}
+{"w":"sarcin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sarcina","pos":"noun","d":["A genus of bacteria whose cells cling together in cube-like packets."]}
+{"w":"sarcle","pos":"verb","d":["To weed or hoe, especially with a light hoe; to clear of weeds."]}
+{"w":"sarco","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sarco-","pos":"prefix","d":["A combining form meaning flesh, as in sarcophagus and sarcoma."]}
+{"w":"sarcocele","pos":"noun","d":["A fleshy tumor or swelling of the testicle."]}
+{"w":"sarcocolla","pos":"noun","d":["A gum resin obtained from certain South African shrubs, once used in medicine."]}
+{"w":"sarcode","pos":"noun","d":["An early name for protoplasm, the living jelly-like substance of animal cells."]}
+{"w":"sarcodic","pos":"adjective","d":["Of or like sarcode; consisting of living protoplasm."]}
+{"w":"sarcoid","pos":"adjective","d":["Resembling flesh in texture or appearance."]}
+{"w":"sarcoma","pos":"noun","d":["A malignant tumor arising in connective tissue such as bone, muscle, or fat."]}
+{"w":"sarcomatous","pos":"adjective","d":["Of the nature of a sarcoma; resembling or relating to sarcoma."]}
+{"w":"sarcophaga","pos":"noun","d":["The genus of large bristly flies known as flesh flies."]}
+{"w":"sarcophagan","pos":"noun","d":["An animal that feeds on flesh; a flesh eater."]}
+{"w":"sarcophagous","pos":"adjective","d":["Feeding on flesh; carnivorous in the sense of eating flesh."]}
+{"w":"sarcophagus","pos":"noun","d":["A stone coffin, often carved or ornamented, used in ancient burials."]}
+{"w":"sarcophagy","pos":"noun","d":["The practice of eating flesh."]}
+{"w":"sarcophile","pos":"noun","d":["An animal or person fond of flesh; a flesh eater."]}
+{"w":"sarcoptes","pos":"noun","d":["The genus of tiny mites that burrow into skin and cause scabies."]}
+{"w":"sarcoptid","pos":"noun","d":["A mite of the family that includes the itch mite; a sarcoptid mite."]}
+{"w":"sarcorhamphi","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sarcous","pos":"adjective","d":["Fleshy; composed of or relating to flesh or muscle tissue."]}
+{"w":"sarculation","pos":"noun","d":["The act of hoeing or weeding; clearing land of weeds with a hoe."]}
+{"w":"sard","pos":"noun","d":["A reddish-brown variety of chalcedony, used as a gemstone."]}
+{"w":"sardan","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sardel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sardine","pos":"noun","d":["A small oily sea fish of the herring family, often packed in cans.","Any of several similar small fishes used in the same way."]}
+{"w":"sardinian","pos":"adjective","d":["Of or relating to Sardinia, the large Italian island, or its people."]}
+{"w":"sardius","pos":"noun","d":["A red precious stone mentioned in the Bible, a variety of sard or carnelian."]}
+{"w":"sardoin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sardonian","pos":"adjective","d":["Same as sardonic; bitterly mocking or scornful."]}
+{"w":"sardonic","pos":"adjective","d":["Grimly mocking; expressing bitter scorn or derision."]}
+{"w":"saree","pos":"noun","d":["A variant spelling of sari, the long draped garment worn by women of South Asia."]}
+{"w": "sargasso", "pos": "noun", "d": ["A brown seaweed that floats in large drifting masses on the surface of warm oceans.", "The calm region of the Atlantic where this seaweed gathers in great quantities."]}
+{"w": "sargassum", "pos": "noun", "d": ["A genus of brown algae that floats in dense mats on warm oceans, supported by small air bladders."]}
+{"w": "sargo", "pos": "noun", "d": ["A marine food fish of the sea bream family, found in warm coastal waters."]}
+{"w": "sari", "pos": "noun", "d": ["A long strip of cloth draped around the body and over the shoulder, traditionally worn by women in South Asia."]}
+{"w": "sark", "pos": "noun", "d": ["A shirt or shift, especially in Scottish use."]}
+{"w": "sarkin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sarlac", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sarlyk", "pos": "noun", "d": ["The yak, the long-haired domesticated ox of the high plateaus of Tibet and Central Asia."]}
+{"w": "sarmatian", "pos": "noun", "d": ["A member of the ancient nomadic peoples who roamed the steppes north of the Black Sea.", "Of or relating to Sarmatia or the Sarmatians."]}
+{"w": "sarmatic", "pos": "adjective", "d": ["Of or relating to Sarmatia or the Sarmatians."]}
+{"w": "sarment", "pos": "noun", "d": ["A slender creeping stem or runner, such as a runner of the grapevine."]}
+{"w": "sarmentaceous", "pos": "adjective", "d": ["Bearing or producing sarments; resembling a vine runner."]}
+{"w": "sarmentose", "pos": "adjective", "d": ["Producing or abounding in sarments; having slender trailing stems."]}
+{"w": "sarn", "pos": "noun", "d": ["In Wales, a causeway, ridge, or paved ford across a stream or marsh."]}
+{"w": "sarong", "pos": "noun", "d": ["A loose skirt formed of a long cloth wrapped around the waist, worn in Southeast Asia and the Pacific."]}
+{"w": "saros", "pos": "noun", "d": ["A period of about eighteen years and eleven days after which eclipses of the sun and moon repeat in nearly the same order."]}
+{"w": "sarplar", "pos": "noun", "d": ["A large sack or pack of wool, formerly used as a unit of weight."]}
+{"w": "sarplier", "pos": "noun", "d": ["A large pack of wool, formerly a commercial unit of weight."]}
+{"w": "sarpo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sarracenia", "pos": "noun", "d": ["A genus of North American pitcher plants that trap insects in their tubular leaves."]}
+{"w": "sarrasin", "pos": "noun", "d": ["Buckwheat, especially in French use.", "A Saracen, in old usage."]}
+{"w": "sarrasine", "pos": "adjective", "d": ["Of or like a Saracen; pertaining to the Saracens."]}
+{"w": "sarsa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sarsaparilla", "pos": "noun", "d": ["A soft drink flavored with the root of a tropical American vine.", "The tropical vine whose roots supply this flavoring."]}
+{"w": "sarse", "pos": "verb", "d": ["To sift flour or other material through a fine sieve."]}
+{"w": "sarsen", "pos": "noun", "d": ["A boulder of hard sandstone found on the downs of southern England.", "A block of hard silicified sandstone used in building."]}
+{"w": "sart", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sartorial", "pos": "adjective", "d": ["Relating to tailoring, dress, or the style of clothing."]}
+{"w": "sartorius", "pos": "noun", "d": ["The long thin muscle running diagonally across the front of the thigh, sometimes called the tailor's muscle."]}
+{"w": "sarum use", "pos": "phrase", "d": ["The medieval liturgical rite of Salisbury Cathedral, widely used in England before the Reformation."]}
+{"w": "sash", "pos": "noun", "d": ["A band of cloth worn over one shoulder or around the waist as an ornament or badge.", "The frame holding the glass in a window."]}
+{"w": "sashery", "pos": "noun", "d": ["The work or trade of making window sashes."]}
+{"w": "sasin", "pos": "noun", "d": ["The blackbuck, a graceful Indian antelope."]}
+{"w": "sassaby", "pos": "noun", "d": ["A swift African antelope related to the hartebeest."]}
+{"w": "sassabye", "pos": "noun", "d": ["An African antelope related to the hartebeest; another spelling of sassaby."]}
+{"w": "sassafras", "pos": "noun", "d": ["A North American tree with aromatic bark and mitten-shaped leaves, once used for flavoring.", "A tea or flavoring made from the bark of this tree."]}
+{"w": "sassanage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sassarara", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sasse", "pos": "noun", "d": ["A sluice or lock gate on a canal or river."]}
+{"w": "sassenach", "pos": "noun", "d": ["A Scottish or Irish Gaelic term for an English person."]}
+{"w": "sassolin", "pos": "noun", "d": ["A mineral form of boric acid found in volcanic fumaroles."]}
+{"w": "sassoline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sassorol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sassorolla", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sassy bark", "pos": "phrase", "d": ["The aromatic bark of the sassafras tree, used for flavoring and oil."]}
+{"w": "sastra", "pos": "noun", "d": ["A Hindu treatise or sacred text on a branch of knowledge."]}
+{"w": "sastrugi", "pos": "noun", "d": ["Long wavelike ridges of hard snow formed by the wind on polar ice."]}
+{"w": "satan", "pos": "noun", "d": ["The chief evil spirit and adversary of God in Jewish and Christian tradition.", "A person of fiendish wickedness."]}
+{"w": "satanophany", "pos": "noun", "d": ["An appearance or manifestation of Satan."]}
+{"w": "satchel", "pos": "noun", "d": ["A small bag with a shoulder strap for carrying books or papers."]}
+{"w": "sate", "pos": "verb", "d": ["To satisfy fully, as appetite or desire, often to excess."]}
+{"w": "satellitious", "pos": "adjective", "d": ["Attending like a satellite; serving as an attendant or follower."]}
+{"w": "sathanas", "pos": "noun", "d": ["An archaic name for Satan."]}
+{"w": "satiate", "pos": "verb", "d": ["To satisfy fully or to excess, as hunger or desire."]}
+{"w": "satiation", "pos": "noun", "d": ["The state of being fully or excessively satisfied."]}
+{"w": "satiety", "pos": "noun", "d": ["The state of being satisfied; fullness beyond desire."]}
+{"w": "satin weave", "pos": "phrase", "d": ["A weave in which the threads lie smooth on the surface, giving cloth a glossy face."]}
+{"w": "satinet", "pos": "noun", "d": ["A light, thin fabric made to imitate satin, often of cotton or wool."]}
+{"w": "satiny", "pos": "adjective", "d": ["Smooth and glossy like satin."]}
+{"w": "satiric", "pos": "adjective", "d": ["Using or expressing satire; mocking folly or vice."]}
+{"w": "satirist", "pos": "noun", "d": ["A writer who uses satire to mock folly or vice."]}
+{"w": "satirize", "pos": "verb", "d": ["To attack or mock with satire."]}
+{"w": "satisfactive", "pos": "adjective", "d": ["Serving to satisfy; tending to give satisfaction."]}
+{"w": "satisfiable", "pos": "adjective", "d": ["Capable of being satisfied or fulfilled."]}
+{"w": "satisfyingly", "pos": "adverb", "d": ["In a way that satisfies; to a satisfying degree."]}
+{"w": "satle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "satrapess", "pos": "noun", "d": ["A female satrap; the wife or widow of a satrap."]}
+{"w": "satrapy", "pos": "noun", "d": ["The province or government of a satrap in ancient Persia."]}
+{"w": "satsuma ware", "pos": "phrase", "d": ["A Japanese pottery with a creamy crackled glaze, often richly decorated."]}
+{"w": "saturable", "pos": "adjective", "d": ["Capable of being saturated."]}
+{"w": "saturant", "pos": "noun", "d": ["A substance that saturates; an agent of saturation."]}
+{"w": "saturation", "pos": "noun", "d": ["The state of being completely filled, soaked, or satisfied.", "The degree of vividness or intensity of a color."]}
+{"w": "saturator", "pos": "noun", "d": ["A device or agent that saturates something."]}
+{"w": "saturity", "pos": "noun", "d": ["The condition of being full or satiated."]}
+{"w": "saturnalia", "pos": "noun", "d": ["The ancient Roman festival of Saturn marked by feasting and revelry.", "A scene of wild revelry."]}
+{"w": "saturnalian", "pos": "adjective", "d": ["Of or like the Saturnalia; marked by wild revelry."]}
+{"w": "saturnian", "pos": "adjective", "d": ["Relating to the planet Saturn.", "Relating to the golden age of Saturn's reign, a time of simple happiness."]}
+{"w": "saturnicentric", "pos": "adjective", "d": ["Centered on Saturn; measured from Saturn as a center."]}
+{"w": "saturnine", "pos": "adjective", "d": ["Gloomy or grave in manner; morose."]}
+{"w": "satyr", "pos": "noun", "d": ["In Greek myth, a woodland creature half man and half goat, fond of revelry.", "A lecherous man."]}
+{"w": "satyriasis", "pos": "noun", "d": ["Excessive or uncontrollable sexual desire in a man."]}
+{"w": "sauba ant", "pos": "phrase", "d": ["A leaf-cutting ant of tropical America."]}
+{"w": "sauce aux hatelets", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sauce veloute", "pos": "phrase", "d": ["A light French white sauce made from a roux and a clear stock."]}
+{"w": "sauce-alone", "pos": "noun", "d": ["An aromatic wild herb also called jack-by-the-hedge, once used in sauces."]}
+{"w": "saucily", "pos": "adverb", "d": ["In a saucy, bold, or cheeky manner."]}
+{"w": "sauciness", "pos": "noun", "d": ["The quality of being saucy; bold cheekiness."]}
+{"w": "saucisse", "pos": "noun", "d": ["A French name for a small sausage."]}
+{"w": "saucisson", "pos": "noun", "d": ["A large dry-cured French sausage, eaten in slices."]}
+{"w": "saucy", "pos": "adjective", "d": ["Bold and lively, with a touch of cheek.", "Flavored with sauce."]}
+{"w": "sauerkraut", "pos": "noun", "d": ["Shredded cabbage fermented in salt, a German staple food."]}
+{"w": "sauf", "pos": "preposition", "d": ["In French use, meaning except; also, meaning safe."]}
+{"w": "sauger", "pos": "noun", "d": ["A North American freshwater fish related to the walleye."]}
+{"w": "saugh", "pos": "noun", "d": ["A willow tree or willow twig, in Scots use."]}
+{"w": "sauh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sauks", "pos": "noun", "d": ["Members of the Sauk, a Native American people of the Great Lakes region."]}
+{"w": "saul", "pos": "noun", "d": ["A Scots form of soul."]}
+{"w": "saulie", "pos": "noun", "d": ["A hired mourner at a funeral, in Scots use."]}
+{"w": "sault", "pos": "noun", "d": ["A waterfall or rapids, especially in place names of French North America."]}
+{"w": "saunders", "pos": "noun", "d": ["The red sandalwood of the East Indies, used as a dyewood."]}

@@ -48621,6 +48621,806 @@
 {"w": "sea robin", "pos": "phrase", "d": ["A sea fish with large, winglike fins and a spiny head, also called the gurnard."], "src": "iwb"}
 {"w": "sea rocket", "pos": "phrase", "d": ["A fleshy plant with pale lilac flowers that grows on sandy beaches."], "src": "iwb"}
 {"w": "sea room", "pos": "phrase", "d": ["Enough open water for a ship to maneuver safely."], "src": "iwb"}
+{"w": "sea rover", "pos": "noun", "d": ["A pirate or wanderer who roams the seas."], "src": "iwb"}
+{"w": "sea salmon", "pos": "noun", "d": ["A name given to various saltwater fishes resembling the salmon."], "src": "iwb"}
+{"w": "sea salt", "pos": "noun", "d": ["Salt produced by evaporating seawater, often used in cooking."], "src": "iwb"}
+{"w": "sea sandpiper", "pos": "noun", "d": ["A small shorebird that feeds along sandy seacoasts."], "src": "iwb"}
+{"w": "sea sandwort", "pos": "noun", "d": ["A fleshy creeping plant that grows on sandy seashores."], "src": "iwb"}
+{"w": "sea saurian", "pos": "noun", "d": ["A large extinct marine reptile, such as an ichthyosaur."], "src": "iwb"}
+{"w": "sea scorpion", "pos": "noun", "d": ["A spiny-headed marine fish of northern waters.", "A name sometimes given to the extinct eurypterids."], "src": "iwb"}
+{"w": "sea scurf", "pos": "noun", "d": ["A crusty lichen that grows on rocks near the sea."], "src": "iwb"}
+{"w": "sea serpent", "pos": "noun", "d": ["A legendary giant serpent said to inhabit the ocean."], "src": "iwb"}
+{"w": "sea slater", "pos": "noun", "d": ["A flat crustacean, like a large woodlouse, found on rocky seashores."], "src": "iwb"}
+{"w": "sea slug", "pos": "noun", "d": ["A soft-bodied marine gastropod that lacks an external shell."], "src": "iwb"}
+{"w": "sea snail", "pos": "noun", "d": ["A marine gastropod mollusk with a coiled shell."], "src": "iwb"}
+{"w": "sea snake", "pos": "noun", "d": ["A venomous snake that lives entirely in tropical seas."], "src": "iwb"}
+{"w": "sea snipe", "pos": "noun", "d": ["A small deep-bodied marine fish with a long tubular snout."], "src": "iwb"}
+{"w": "sea spider", "pos": "noun", "d": ["A small marine arthropod with a tiny body and very long legs."], "src": "iwb"}
+{"w": "sea squirt", "pos": "noun", "d": ["A sessile marine animal with a saclike body that squirts water when touched."], "src": "iwb"}
+{"w": "sea star", "pos": "noun", "d": ["A star-shaped marine echinoderm; a starfish."], "src": "iwb"}
+{"w": "sea surgeon", "pos": "noun", "d": ["A brightly colored tropical marine fish with a sharp spine on each side of its tail."], "src": "iwb"}
+{"w": "sea swallow", "pos": "noun", "d": ["A slender seabird of the tern family with long pointed wings."], "src": "iwb"}
+{"w": "sea tang", "pos": "noun", "d": ["A large brown seaweed with long strap-shaped fronds."], "src": "iwb"}
+{"w": "sea term", "pos": "noun", "d": ["A word or expression used by sailors and belonging to nautical language."], "src": "iwb"}
+{"w": "sea thief", "pos": "noun", "d": ["A pirate who plunders ships at sea."], "src": "iwb"}
+{"w": "sea thongs", "pos": "noun", "d": ["A brown seaweed with long leathery strap-like fronds, growing on rocky shores."], "src": "iwb"}
+{"w": "sea titling", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sea toad", "pos": "noun", "d": ["A broad-headed marine fish with a large mouth; a toadfish."], "src": "iwb"}
+{"w": "sea trout", "pos": "noun", "d": ["A trout that migrates to the sea and returns to fresh water to spawn."], "src": "iwb"}
+{"w": "sea trumpet", "pos": "noun", "d": ["A large marine snail with a long trumpet-shaped shell."], "src": "iwb"}
+{"w": "sea turn", "pos": "noun", "d": ["The turning of the tide at sea."], "src": "iwb"}
+{"w": "sea turtle", "pos": "noun", "d": ["A large marine turtle with paddle-like flippers."], "src": "iwb"}
+{"w": "sea unicorn", "pos": "noun", "d": ["The narwhal, named for its long spiraled tusk."], "src": "iwb"}
+{"w": "sea urchin", "pos": "noun", "d": ["A round spiny marine echinoderm."], "src": "iwb"}
+{"w": "sea wall", "pos": "noun", "d": ["A wall built to protect the shore from the action of the sea."], "src": "iwb"}
+{"w": "sea whip", "pos": "noun", "d": ["A slender flexible coral that grows in long whip-like branches."], "src": "iwb"}
+{"w": "sea widgeon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sea willow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sea wing", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sea withwind", "pos": "noun", "d": ["The sea bindweed, a creeping coastal plant with trumpet-shaped flowers."], "src": "iwb"}
+{"w": "sea wolf", "pos": "noun", "d": ["A fierce large marine fish with strong teeth; the wolffish.", "An old name for a pirate."], "src": "iwb"}
+{"w": "sea wood louse", "pos": "noun", "d": ["A marine isopod crustacean resembling a woodlouse, found on seashores."], "src": "iwb"}
+{"w": "sea woodcock", "pos": "noun", "d": ["The snipefish, a small marine fish with a long snout like a woodcock's bill."], "src": "iwb"}
+{"w": "sea wormwood", "pos": "noun", "d": ["A fragrant coastal plant of the artemisia family."], "src": "iwb"}
+{"w": "sea wrack", "pos": "noun", "d": ["Seaweed cast up on the shore.", "A name for eelgrass."], "src": "iwb"}
+{"w": "sea-bar", "pos": "noun", "d": ["A sandbar lying off a coast or across a harbor mouth."], "src": "iwb"}
+{"w": "sea-blubber", "pos": "noun", "d": ["A jellyfish."], "src": "iwb"}
+{"w": "sea-bordering", "pos": "adjective", "d": ["Bordering on the sea."], "src": "iwb"}
+{"w": "sea-born", "pos": "adjective", "d": ["Born at sea."], "src": "iwb"}
+{"w": "sea-built", "pos": "adjective", "d": ["Built for service at sea, as a ship."], "src": "iwb"}
+{"w": "sea-ear", "pos": "noun", "d": ["The abalone, a marine mollusk with an ear-shaped shell."], "src": "iwb"}
+{"w": "sea-gait", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sea-gate", "pos": "noun", "d": ["A gate or passage opening toward the sea."], "src": "iwb"}
+{"w": "sea-green", "pos": "adjective", "d": ["Of a greenish-blue color like seawater."], "src": "iwb"}
+{"w": "sea-island", "pos": "adjective", "d": ["Relating to the Sea Islands or to their long-staple cotton."], "src": "iwb"}
+{"w": "sea-maid", "pos": "noun", "d": ["A mermaid."], "src": "iwb"}
+{"w": "sea-mail", "pos": "noun", "d": ["Mail carried by ship across the sea."], "src": "iwb"}
+{"w": "sea-mell", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sea-orb", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sea-pen", "pos": "noun", "d": ["A colonial marine animal that resembles a feather or quill."], "src": "iwb"}
+{"w": "sea-roving", "pos": "adjective", "d": ["Wandering over the seas."], "src": "iwb"}
+{"w": "sea-walled", "pos": "adjective", "d": ["Protected by a sea wall."], "src": "iwb"}
+{"w": "seafarer", "pos": "noun", "d": ["A person who travels by sea; a sailor."], "src": "iwb"}
+{"w": "seafaring", "pos": "adjective", "d": ["Traveling or working at sea."], "src": "iwb"}
+{"w": "seah", "pos": "noun", "d": ["An ancient Hebrew dry measure, about a third of an ephah."], "src": "iwb"}
+{"w": "seak", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "seal-brown", "pos": "adjective", "d": ["Of a rich dark brown like the coat of a seal."], "src": "iwb"}
+{"w": "sealgh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sealing wax", "pos": "noun", "d": ["A hard resinous substance melted to seal letters and documents."], "src": "iwb"}
+{"w": "seam", "pos": "noun", "d": ["A line where two edges of cloth or other material are joined by sewing.", "A thin layer of mineral, such as coal, between rock strata."], "src": "iwb"}
+{"w": "seamster", "pos": "noun", "d": ["A man who sews; a male tailor or sewer."], "src": "iwb"}
+{"w": "seamstressy", "pos": "adjective", "d": ["Resembling or characteristic of a seamstress."], "src": "iwb"}
+{"w": "seamy", "pos": "adjective", "d": ["Sordid or disreputable, as the seamy side of life."], "src": "iwb"}
+{"w": "seance", "pos": "noun", "d": ["A meeting at which people attempt to communicate with spirits."], "src": "iwb"}
+{"w": "seannachie", "pos": "noun", "d": ["A traditional Scottish storyteller and keeper of clan history."], "src": "iwb"}
+{"w": "sear", "pos": "verb", "d": ["To burn or scorch the surface of something with sudden heat."], "src": "iwb"}
+{"w": "searce", "pos": "verb", "d": ["To sift through a sieve."], "src": "iwb"}
+{"w": "seave", "pos": "noun", "d": ["A rush or sedge growing in wet places."], "src": "iwb"}
+{"w": "seavy", "pos": "adjective", "d": ["Overgrown with rushes or sedges."], "src": "iwb"}
+{"w": "sebaceous", "pos": "adjective", "d": ["Relating to sebum or to the glands that secrete oily matter in the skin."], "src": "iwb"}
+{"w": "sebacic", "pos": "adjective", "d": ["Of or derived from sebacic acid."], "src": "iwb"}
+{"w": "sebat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sebate", "pos": "noun", "d": ["A salt or ester of sebacic acid."], "src": "iwb"}
+{"w": "sebesten", "pos": "noun", "d": ["The edible plum-like fruit of the sebesten tree."], "src": "iwb"}
+{"w": "sebic", "pos": "adjective", "d": ["Relating to sebacic acid."], "src": "iwb"}
+{"w": "sebiferous", "pos": "adjective", "d": ["Producing or secreting sebum."], "src": "iwb"}
+{"w": "sebiparous", "pos": "adjective", "d": ["Secreting sebum; sebiferous."], "src": "iwb"}
+{"w": "seborrhea", "pos": "noun", "d": ["A skin condition marked by excessive oily secretion, often with scaling."], "src": "iwb"}
+{"w": "secale", "pos": "noun", "d": ["Rye; the cereal genus Secale."], "src": "iwb"}
+{"w": "secancy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "secant", "pos": "noun", "d": ["A straight line that cuts a curve at two or more points.", "A trigonometric function, the reciprocal of the cosine."], "src": "iwb"}
+{"w": "secco", "pos": "adjective", "d": ["Dry and unadorned, especially of musical accompaniment without embellishment."], "src": "iwb"}
+{"w": "secede", "pos": "verb", "d": ["To withdraw formally from a union, alliance, or organization."], "src": "iwb"}
+{"w": "secern", "pos": "verb", "d": ["To secrete; to separate and discharge a fluid from a gland."], "src": "iwb"}
+{"w": "secess", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "seche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sechium", "pos": "noun", "d": ["The chayote, a tropical gourd vine and its edible fruit."], "src": "iwb"}
+{"w": "seck", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "seckel", "pos": "noun", "d": ["A small sweet variety of pear."], "src": "iwb"}
+{"w": "secle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "seclude", "pos": "verb", "d": ["To shut off from others; to keep in isolation."], "src": "iwb"}
+{"w": "seclusion", "pos": "noun", "d": ["The state of being shut away from others; solitude."], "src": "iwb"}
+{"w": "seclusive", "pos": "adjective", "d": ["Tending to seclude; fond of seclusion."], "src": "iwb"}
+{"w": "second-class", "pos": "adjective", "d": ["Of an inferior or lower grade; not first-class."], "src": "iwb"}
+{"w": "second-rate", "pos": "adjective", "d": ["Of mediocre quality; inferior."], "src": "iwb"}
+{"w": "second-sight", "pos": "noun", "d": ["The supposed power of seeing future or distant events; clairvoyance."], "src": "iwb"}
+{"w": "secondarily", "pos": "adverb", "d": ["In a secondary manner; as a secondary matter."], "src": "iwb"}
+{"w": "secondariness", "pos": "noun", "d": ["The quality of being secondary."], "src": "iwb"}
+{"w": "secondo", "pos": "noun", "d": ["The second part in a piano duet."], "src": "iwb"}
+{"w": "secre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "secrecy", "pos": "noun", "d": ["The state of being secret; concealment."], "src": "iwb"}
+{"w": "secret service", "pos": "phrase", "d": ["A government agency concerned with national security and the protection of leaders."], "src": "iwb"}
+{"w": "secretariate", "pos": "noun", "d": ["The administrative office or staff of an organization."], "src": "iwb"}
+{"w": "secrete", "pos": "verb", "d": ["To produce and discharge a substance from a gland or cell."], "src": "iwb"}
+{"w": "secretitious", "pos": "adjective", "d": ["Separated or discharged by secretion."], "src": "iwb"}
+{"w": "secreto-motory", "pos": "adjective", "d": ["Relating to nerves that control both secretion and muscular movement."], "src": "iwb"}
+{"w": "sect", "pos": "noun", "d": ["A group that has separated from a larger religious body.", "A faction holding particular views."], "src": "iwb"}
+{"w": "sectarism", "pos": "noun", "d": ["The spirit or practice of a sect; sectarianism."], "src": "iwb"}
+{"w": "sectator", "pos": "noun", "d": ["A follower or admirer of a person or a set of beliefs."], "src": "iwb"}
+{"w": "sectility", "pos": "noun", "d": ["The property of a mineral that allows it to be shaved or cut into slices with a knife."], "src": "iwb"}
+{"w": "sectiuncle", "pos": "noun", "d": ["A small subdivision of a section or chapter."], "src": "iwb"}
+{"w": "secular", "pos": "adjective", "d": ["Not connected with religion or church matters.", "Occurring once in a century or over a very long period."], "src": "iwb"}
+{"w": "secularization", "pos": "noun", "d": ["The act or process of making something nonreligious or placing it under civil control."], "src": "iwb"}
+{"w": "secund", "pos": "adjective", "d": ["Arranged on one side only, as the flowers of some plant clusters."], "src": "iwb"}
+{"w": "secundine", "pos": "noun", "d": ["The afterbirth; the membranes expelled after childbirth.", "The outer coat of a plant ovule."], "src": "iwb"}
+{"w": "secundo-geniture", "pos": "noun", "d": ["The state or condition of being a second-born child."], "src": "iwb"}
+{"w": "securifera", "pos": "adjective", "d": ["Bearing an ax or an ax-shaped mark."], "src": "iwb"}
+{"w": "securiform", "pos": "adjective", "d": ["Shaped like the blade of an ax."], "src": "iwb"}
+{"w": "securipalp", "pos": "noun", "d": ["A beetle having mouth feelers shaped like small hatchets."], "src": "iwb"}
+{"w": "sedan", "pos": "noun", "d": ["An enclosed automobile with a fixed roof, seating four or more passengers."], "src": "iwb"}
+{"w": "sedate", "pos": "adjective", "d": ["Calm and dignified in manner or appearance.", "Quiet and serious in character."], "src": "iwb"}
+{"w": "sedation", "pos": "noun", "d": ["The act of calming with a drug, or the drowsy state so produced."], "src": "iwb"}
+{"w": "sedative", "pos": "noun", "d": ["A drug or other agent that calms the nerves or brings on sleep.", "Anything that tends to soothe or quiet excitement."], "src": "iwb"}
+{"w": "sedent", "pos": "adjective", "d": ["Sitting; remaining in one place rather than moving about."], "src": "iwb"}
+{"w": "sedentarily", "pos": "adverb", "d": ["In a seated manner; with little bodily movement or exercise."], "src": "iwb"}
+{"w": "sedentariness", "pos": "noun", "d": ["The habit or quality of sitting much and taking little exercise."], "src": "iwb"}
+{"w": "sederunt", "pos": "noun", "d": ["A formal sitting or meeting of a church court or other body."], "src": "iwb"}
+{"w": "sedge", "pos": "noun", "d": ["A grasslike plant with solid triangular stems, growing in marshes and wet ground."], "src": "iwb"}
+{"w": "sedgy", "pos": "adjective", "d": ["Growing with or abounding in sedge."], "src": "iwb"}
+{"w": "sedilia", "pos": "noun", "d": ["Seats in a church set apart for the officiating clergy."], "src": "iwb"}
+{"w": "sediment", "pos": "noun", "d": ["Matter that settles to the bottom of a liquid."], "src": "iwb"}
+{"w": "sedition", "pos": "noun", "d": ["Speech or conduct that stirs people to rebel against lawful authority."], "src": "iwb"}
+{"w": "seditious", "pos": "adjective", "d": ["Tending to stir up rebellion against the government."], "src": "iwb"}
+{"w": "sedlitz", "pos": "noun", "d": ["A laxative powder made of tartaric acid and mineral salts.", "A natural mineral water containing such salts."], "src": "iwb"}
+{"w": "seduce", "pos": "verb", "d": ["To lead astray from right conduct or duty.", "To win over by flattery or false promises."], "src": "iwb"}
+{"w": "seducible", "pos": "adjective", "d": ["Capable of being led astray or enticed."], "src": "iwb"}
+{"w": "seduction", "pos": "noun", "d": ["The act of enticing a person away from duty or right conduct."], "src": "iwb"}
+{"w": "seductive", "pos": "adjective", "d": ["Tending to entice or tempt; alluring."], "src": "iwb"}
+{"w": "seductress", "pos": "noun", "d": ["A woman who entices or leads others astray."], "src": "iwb"}
+{"w": "sedulity", "pos": "noun", "d": ["Steady and diligent attention to work; careful application."], "src": "iwb"}
+{"w": "sedulous", "pos": "adjective", "d": ["Diligent and persevering; showing steady, careful effort."], "src": "iwb"}
+{"w": "sedum", "pos": "noun", "d": ["Any of a large group of succulent plants with thick fleshy leaves."], "src": "iwb"}
+{"w": "seed-lac", "pos": "noun", "d": ["Lac resin in small grains, as scraped from twigs before melting."], "src": "iwb"}
+{"w": "seediness", "pos": "noun", "d": ["The state of being seedy; shabbiness or slight ill health."], "src": "iwb"}
+{"w": "seedsman", "pos": "noun", "d": ["A dealer in seeds; one who grows and sells seeds."], "src": "iwb"}
+{"w": "seedy", "pos": "adjective", "d": ["Worn and shabby in appearance; run-down.", "Slightly unwell; out of sorts."], "src": "iwb"}
+{"w": "seek-no-further", "pos": "noun", "d": ["A variety of early dessert apple."], "src": "iwb"}
+{"w": "seek-sorrow", "pos": "noun", "d": ["A person who courts grief or dwells gloomily on troubles."], "src": "iwb"}
+{"w": "seel", "pos": "verb", "d": ["To close the eyes of a young hawk by stitching the lids, as in falconry.", "To close or blind the eyes."], "src": "iwb"}
+{"w": "seemliness", "pos": "noun", "d": ["Decency and fitness of conduct or appearance."], "src": "iwb"}
+{"w": "seemlyhed", "pos": "noun", "d": ["Decency and propriety of conduct or appearance."], "src": "iwb"}
+{"w": "seep", "pos": "verb", "d": ["To ooze slowly through pores or small openings."], "src": "iwb"}
+{"w": "seepy", "pos": "adjective", "d": ["Tending to seep; damp with oozing moisture."], "src": "iwb"}
+{"w": "seer", "pos": "noun", "d": ["One who claims to see visions of the future; a prophet."], "src": "iwb"}
+{"w": "seeress", "pos": "noun", "d": ["A woman who claims to foretell the future; a female prophet."], "src": "iwb"}
+{"w": "seet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "seeth", "pos": "verb", "d": ["To boil; to bubble up with heat."], "src": "iwb"}
+{"w": "seg", "pos": "noun", "d": ["A short form of segment; one of the parts into which a thing is divided."], "src": "iwb"}
+{"w": "segar", "pos": "noun", "d": ["An older spelling of cigar."], "src": "iwb"}
+{"w": "segge", "pos": "noun", "d": ["An older form of sedge, a grasslike marsh plant."], "src": "iwb"}
+{"w": "segnitude", "pos": "noun", "d": ["Slowness and heaviness of body or mind; sluggishness."], "src": "iwb"}
+{"w": "segnity", "pos": "noun", "d": ["Sluggishness; lack of energy or readiness."], "src": "iwb"}
+{"w": "segno", "pos": "noun", "d": ["In music, a sign marking the point to which the player returns in a repeat."], "src": "iwb"}
+{"w": "sego", "pos": "noun", "d": ["A western American wild lily with showy flowers and edible bulbs."], "src": "iwb"}
+{"w": "segregate", "pos": "verb", "d": ["To separate or set apart from the rest; to isolate."], "src": "iwb"}
+{"w": "segregation", "pos": "noun", "d": ["The act of separating a group from others, especially by race.", "Separation of things into distinct classes or groups."], "src": "iwb"}
+{"w": "seiches", "pos": "noun", "d": ["Standing waves rising and falling in an enclosed body of water, as in a lake."], "src": "iwb"}
+{"w": "seid", "pos": "noun", "d": ["A title of honor given to a descendant of Muhammad."], "src": "iwb"}
+{"w": "seidlitz", "pos": "noun", "d": ["A laxative powder made of tartaric acid and mineral salts.", "A natural mineral water containing such salts."], "src": "iwb"}
+{"w": "seigh", "pos": "verb", "d": ["An old form of the word sigh."], "src": "iwb"}
+{"w": "seigneurial", "pos": "adjective", "d": ["Belonging to or befitting a lord of a manor; feudal in character."], "src": "iwb"}
+{"w": "seignior", "pos": "noun", "d": ["A lord or gentleman of high rank; a feudal proprietor."], "src": "iwb"}
+{"w": "seignioralty", "pos": "noun", "d": ["The rank, estate, or authority of a seignior."], "src": "iwb"}
+{"w": "seigniory", "pos": "noun", "d": ["The domain or jurisdiction of a seignior; a manor held by feudal tenure."], "src": "iwb"}
+{"w": "seine", "pos": "noun", "d": ["A large fishing net that hangs vertically in the water to enclose fish."], "src": "iwb"}
+{"w": "seint", "pos": "noun", "d": ["An old form of the word saint."], "src": "iwb"}
+{"w": "seintuary", "pos": "noun", "d": ["An old form of the word sanctuary."], "src": "iwb"}
+{"w": "seirfish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "seirospore", "pos": "noun", "d": ["A spore formed in a chain within the spore case of certain red seaweeds."], "src": "iwb"}
+{"w": "seise", "pos": "verb", "d": ["In law, to put in legal possession of land or an estate."], "src": "iwb"}
+{"w": "seisin", "pos": "noun", "d": ["Legal possession of land or an estate.", "The act of taking such possession."], "src": "iwb"}
+{"w": "seismal", "pos": "adjective", "d": ["Of or relating to earthquakes."], "src": "iwb"}
+{"w": "seismic", "pos": "adjective", "d": ["Relating to earthquakes or earth tremors.", "Having a huge or shattering effect."], "src": "iwb"}
+{"w": "seismogram", "pos": "noun", "d": ["The record of earth tremors traced by a seismograph."], "src": "iwb"}
+{"w": "seismograph", "pos": "noun", "d": ["An instrument that records the shocks and vibrations of earthquakes."], "src": "iwb"}
+{"w": "seismography", "pos": "noun", "d": ["The recording of earthquake shocks by means of instruments."], "src": "iwb"}
+{"w": "seismological", "pos": "adjective", "d": ["Relating to the scientific study of earthquakes."], "src": "iwb"}
+{"w": "seismology", "pos": "noun", "d": ["The science that treats of earthquakes and the movements of the earth's crust."], "src": "iwb"}
+{"w": "seismometer", "pos": "noun", "d": ["An instrument for measuring the force and direction of earthquake shocks."], "src": "iwb"}
+{"w": "seismometric", "pos": "adjective", "d": ["Relating to the measurement of earthquake shocks."], "src": "iwb"}
+{"w": "seismometry", "pos": "noun", "d": ["The measurement of earthquakes by instruments."], "src": "iwb"}
+{"w": "seismoscope", "pos": "noun", "d": ["An instrument that shows the occurrence of an earthquake without measuring its force."], "src": "iwb"}
+{"w": "seity", "pos": "noun", "d": ["Separate selfhood; existence as a distinct self."], "src": "iwb"}
+{"w": "seize", "pos": "verb", "d": ["To take hold of suddenly and with force."], "src": "iwb"}
+{"w": "seizin", "pos": "noun", "d": ["Legal possession of an estate; another spelling of seisin."], "src": "iwb"}
+{"w": "seizor", "pos": "noun", "d": ["In law, one who takes legal possession of an estate."], "src": "iwb"}
+{"w": "seizure", "pos": "noun", "d": ["The act of taking hold suddenly and by force.", "A sudden attack of illness, as an epileptic fit."], "src": "iwb"}
+{"w": "sejant", "pos": "adjective", "d": ["In heraldry, sitting upright, as a lion on a shield."], "src": "iwb"}
+{"w": "sejeant", "pos": "adjective", "d": ["Sitting, as an animal depicted in a coat of arms."], "src": "iwb"}
+{"w": "sejein", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sejunction", "pos": "noun", "d": ["The act of separating or disjoining; separation."], "src": "iwb"}
+{"w": "sejungible", "pos": "adjective", "d": ["Capable of being separated or disjoined."], "src": "iwb"}
+{"w": "seke", "pos": "verb", "d": ["An old form of the word seek."], "src": "iwb"}
+{"w": "selachian", "pos": "noun", "d": ["A fish with a cartilaginous skeleton, such as a shark or ray."], "src": "iwb"}
+{"w": "selachii", "pos": "noun", "d": ["The group of cartilaginous fishes that includes the sharks."], "src": "iwb"}
+{"w": "selachoidei", "pos": "noun", "d": ["A suborder of sharks and related fishes."], "src": "iwb"}
+{"w": "selachostomi", "pos": "noun", "d": ["An order of cartilaginous fishes including the sturgeons."], "src": "iwb"}
+{"w": "selaginella", "pos": "noun", "d": ["A genus of low creeping mosslike plants; the spike mosses."], "src": "iwb"}
+{"w": "selah", "pos": "noun", "d": ["A word of uncertain meaning in the Psalms, thought to mark a pause in the music."], "src": "iwb"}
+{"w": "selch", "pos": "noun", "d": ["The Scots form of seal, a sea mammal."], "src": "iwb"}
+{"w": "selcouth", "pos": "adjective", "d": ["Strange or marvelous; rarely seen or known."], "src": "iwb"}
+{"w": "seld", "pos": "adverb", "d": ["An old or Scots form meaning seldom."], "src": "iwb"}
+{"w": "seldom", "pos": "adverb", "d": ["Not often; rarely."], "src": "iwb"}
+{"w": "selectedly", "pos": "adverb", "d": ["In a chosen or picked manner; by selection."], "src": "iwb"}
+{"w": "selector", "pos": "noun", "d": ["One who or that which selects; a choosing device."], "src": "iwb"}
+{"w": "selenate", "pos": "noun", "d": ["A salt of selenic acid."], "src": "iwb"}
+{"w": "selenhydric", "pos": "adjective", "d": ["Of or relating to a compound of selenium and hydrogen."], "src": "iwb"}
+{"w": "selenic", "pos": "adjective", "d": ["Of or containing selenium; relating to selenic acid."], "src": "iwb"}
+{"w": "selenide", "pos": "noun", "d": ["A compound of selenium with another element or radical."], "src": "iwb"}
+{"w": "seleniferous", "pos": "adjective", "d": ["Containing or yielding selenium."], "src": "iwb"}
+{"w": "selenio-", "pos": "prefix", "d": ["A prefix meaning selenium, used in chemical terms."], "src": "iwb"}
+{"w": "selenious", "pos": "adjective", "d": ["Containing selenium, as in selenious acid."], "src": "iwb"}
+{"w": "selenite", "pos": "noun", "d": ["A transparent crystalline form of gypsum.", "An imagined inhabitant of the moon."], "src": "iwb"}
+{"w": "selenitic", "pos": "adjective", "d": ["Of or resembling selenite; containing selenite."], "src": "iwb"}
+{"w": "selenium", "pos": "noun", "d": ["A gray nonmetallic chemical element used in electronics and photocells."], "src": "iwb"}
+{"w": "seleniuret", "pos": "noun", "d": ["A compound of selenium with a metal; a selenide."], "src": "iwb"}
+{"w": "selenocentric", "pos": "adjective", "d": ["Measured or centered from the center of the moon."], "src": "iwb"}
+{"w": "selenograph", "pos": "noun", "d": ["One who studies and maps the surface of the moon."], "src": "iwb"}
+{"w": "selenography", "pos": "noun", "d": ["The scientific study and mapping of the moon's surface features."], "src": "iwb"}
+{"w": "selenology", "pos": "noun", "d": ["The scientific study of the moon, including its origin, structure, and history."], "src": "iwb"}
+{"w": "selenonium", "pos": "noun", "d": ["A positively charged ion in which selenium is bonded to three organic groups, the selenium counterpart of a sulfonium ion."], "src": "iwb"}
+{"w": "self-abased", "pos": "adjective", "d": ["Humbled or degraded by one's own actions."], "src": "iwb"}
+{"w": "self-abasement", "pos": "noun", "d": ["The act of humbling or degrading oneself."], "src": "iwb"}
+{"w": "self-abasing", "pos": "adjective", "d": ["Tending to humble or degrade oneself."], "src": "iwb"}
+{"w": "self-abhorrence", "pos": "noun", "d": ["Intense hatred or disgust toward oneself."], "src": "iwb"}
+{"w": "self-abnegation", "pos": "noun", "d": ["The denial of one's own interests or desires for the sake of others."], "src": "iwb"}
+{"w": "self-abuse", "pos": "noun", "d": ["Harm or mistreatment inflicted on oneself.", "Wasteful misuse of one's own powers or resources."], "src": "iwb"}
+{"w": "self-accused", "pos": "adjective", "d": ["Accused by oneself, as by one's own conscience."], "src": "iwb"}
+{"w": "self-acting", "pos": "adjective", "d": ["Acting or operating by itself, without outside help; automatic."], "src": "iwb"}
+{"w": "self-action", "pos": "noun", "d": ["Action initiated and carried out by oneself."], "src": "iwb"}
+{"w": "self-active", "pos": "adjective", "d": ["Active through one's own power rather than outside force."], "src": "iwb"}
+{"w": "self-activity", "pos": "noun", "d": ["Activity originating from one's own will or energy."], "src": "iwb"}
+{"w": "self-adjusting", "pos": "adjective", "d": ["Adjusting itself automatically to changing conditions."], "src": "iwb"}
+{"w": "self-admiration", "pos": "noun", "d": ["Admiration of oneself; vanity."], "src": "iwb"}
+{"w": "self-affairs", "pos": "noun", "d": ["One's own personal matters or business."], "src": "iwb"}
+{"w": "self-affrighted", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "self-aggrandizement", "pos": "noun", "d": ["The act of increasing one's own power, importance, or wealth, especially at others' expense."], "src": "iwb"}
+{"w": "self-annihilated", "pos": "adjective", "d": ["Destroyed by its own action or nature."], "src": "iwb"}
+{"w": "self-annihilation", "pos": "noun", "d": ["Destruction of oneself by one's own means."], "src": "iwb"}
+{"w": "self-applause", "pos": "noun", "d": ["Praise or approval given to oneself."], "src": "iwb"}
+{"w": "self-applying", "pos": "adjective", "d": ["Applying to or fitting oneself, as a rule that binds its own maker."], "src": "iwb"}
+{"w": "self-approving", "pos": "adjective", "d": ["Approving of oneself or one's own conduct."], "src": "iwb"}
+{"w": "self-asserting", "pos": "adjective", "d": ["Boldly insisting on one's own rights or opinions."], "src": "iwb"}
+{"w": "self-assertion", "pos": "noun", "d": ["The bold expression or defense of one's own rights, opinions, or claims."], "src": "iwb"}
+{"w": "self-assertive", "pos": "adjective", "d": ["Confidently expressing one's own opinions and rights."], "src": "iwb"}
+{"w": "self-assumed", "pos": "adjective", "d": ["Taken on by oneself without authority or proof, as an unearned title."], "src": "iwb"}
+{"w": "self-assured", "pos": "adjective", "d": ["Confident and composed in one's own abilities."], "src": "iwb"}
+{"w": "self-banished", "pos": "adjective", "d": ["Exiled by one's own choice."], "src": "iwb"}
+{"w": "self-begotten", "pos": "adjective", "d": ["Brought into being by oneself; having no other origin."], "src": "iwb"}
+{"w": "self-binder", "pos": "noun", "d": ["A harvesting machine that cuts grain and binds it into sheaves automatically."], "src": "iwb"}
+{"w": "self-born", "pos": "adjective", "d": ["Coming into existence by one's own means rather than from another."], "src": "iwb"}
+{"w": "self-centered", "pos": "adjective", "d": ["Concerned chiefly with oneself and one's own interests."], "src": "iwb"}
+{"w": "self-centering", "pos": "adjective", "d": ["Automatically bringing something to its center, as a chuck that centers a workpiece on its own.", "Tending to focus attention on oneself."], "src": "iwb"}
+{"w": "self-centration", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "self-centred", "pos": "adjective", "d": ["Concerned chiefly with oneself and one's own interests."], "src": "iwb"}
+{"w": "self-centring", "pos": "adjective", "d": ["Automatically bringing something to its centre.", "Tending to focus attention on oneself."], "src": "iwb"}
+{"w": "self-charity", "pos": "noun", "d": ["Kindness or benevolence directed toward oneself."], "src": "iwb"}
+{"w": "self-color", "pos": "noun", "d": ["A color matching the material it decorates, as self-colored buttons on a coat."], "src": "iwb"}
+{"w": "self-command", "pos": "noun", "d": ["Control over one's own feelings and actions."], "src": "iwb"}
+{"w": "self-commune", "pos": "verb", "d": ["To engage in quiet inward reflection or communion with oneself."], "src": "iwb"}
+{"w": "self-communicative", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "self-communion", "pos": "noun", "d": ["Quiet inward communication with one's own thoughts or conscience."], "src": "iwb"}
+{"w": "self-complacency", "pos": "noun", "d": ["Smug satisfaction with oneself or one's achievements."], "src": "iwb"}
+{"w": "self-complacent", "pos": "adjective", "d": ["Smugly satisfied with oneself."], "src": "iwb"}
+{"w": "self-conceit", "pos": "noun", "d": ["An excessively high opinion of oneself; vanity."], "src": "iwb"}
+{"w": "self-concern", "pos": "noun", "d": ["Interest in or care for oneself and one's own affairs."], "src": "iwb"}
+{"w": "self-condemnation", "pos": "noun", "d": ["The act of blaming or condemning oneself."], "src": "iwb"}
+{"w": "self-confidence", "pos": "noun", "d": ["Trust in one's own abilities and judgment."], "src": "iwb"}
+{"w": "self-confident", "pos": "adjective", "d": ["Trusting in one's own abilities and judgment."], "src": "iwb"}
+{"w": "self-conjugate", "pos": "adjective", "d": ["In mathematics, equal to its own conjugate, as a partition symmetric about its diagonal."], "src": "iwb"}
+{"w": "self-conscious", "pos": "adjective", "d": ["Uncomfortably aware of oneself in the presence of others.", "Aware of one's own identity and existence."], "src": "iwb"}
+{"w": "self-considering", "pos": "adjective", "d": ["Given to weighing one's own interests or position."], "src": "iwb"}
+{"w": "self-consistency", "pos": "noun", "d": ["Freedom from internal contradiction; agreement of a thing's parts with each other."], "src": "iwb"}
+{"w": "self-consistent", "pos": "adjective", "d": ["Free from internal contradiction; with parts in agreement."], "src": "iwb"}
+{"w": "self-consuming", "pos": "adjective", "d": ["Consuming itself, as a fire that burns out its own fuel."], "src": "iwb"}
+{"w": "self-contained", "pos": "adjective", "d": ["Complete in itself and needing nothing outside; not relying on external support."], "src": "iwb"}
+{"w": "self-contradiction", "pos": "noun", "d": ["A statement whose parts contradict each other."], "src": "iwb"}
+{"w": "self-contradictory", "pos": "adjective", "d": ["Containing parts that contradict each other."], "src": "iwb"}
+{"w": "self-control", "pos": "noun", "d": ["The ability to control one's own emotions, desires, and actions."], "src": "iwb"}
+{"w": "self-convicted", "pos": "adjective", "d": ["Condemned by one's own conscience or judgment."], "src": "iwb"}
+{"w": "self-conviction", "pos": "noun", "d": ["Condemnation of oneself by one's own conscience."], "src": "iwb"}
+{"w": "self-created", "pos": "adjective", "d": ["Created by oneself; owing one's position or existence to one's own efforts."], "src": "iwb"}
+{"w": "self-culture", "pos": "noun", "d": ["The training and improvement of oneself, especially in mind and character."], "src": "iwb"}
+{"w": "self-deceit", "pos": "noun", "d": ["The act of misleading oneself into a false belief."], "src": "iwb"}
+{"w": "self-deceived", "pos": "adjective", "d": ["Misled by one's own false beliefs."], "src": "iwb"}
+{"w": "self-deception", "pos": "noun", "d": ["The act of misleading oneself into believing what is false."], "src": "iwb"}
+{"w": "self-defence", "pos": "noun", "d": ["Defense of oneself against attack."], "src": "iwb"}
+{"w": "self-defense", "pos": "noun", "d": ["Defense of oneself against attack.", "In law, the justified use of force to protect oneself from harm."], "src": "iwb"}
+{"w": "self-defensive", "pos": "adjective", "d": ["Serving to defend oneself."], "src": "iwb"}
+{"w": "self-degradation", "pos": "noun", "d": ["The act of degrading oneself in dignity or character."], "src": "iwb"}
+{"w": "self-delation", "pos": "noun", "d": ["The act of informing or denouncing against oneself."], "src": "iwb"}
+{"w": "self-delusion", "pos": "noun", "d": ["A false belief that one holds about oneself despite evidence."], "src": "iwb"}
+{"w": "self-denial", "pos": "noun", "d": ["The voluntary giving up of one's own desires or comforts."], "src": "iwb"}
+{"w": "self-denying", "pos": "adjective", "d": ["Willing to give up one's own desires or comforts for others."], "src": "iwb"}
+{"w": "self-dependent", "pos": "adjective", "d": ["Depending on oneself; independent of outside help."], "src": "iwb"}
+{"w": "self-depending", "pos": "adjective", "d": ["Relying on one's own abilities and judgment rather than on others."], "src": "iwb"}
+{"w": "self-depraved", "pos": "adjective", "d": ["Corrupted or debased by one's own choices and actions."], "src": "iwb"}
+{"w": "self-destroyer", "pos": "noun", "d": ["A person who ruins himself or herself through his or her own actions."], "src": "iwb"}
+{"w": "self-destruction", "pos": "noun", "d": ["The act of destroying oneself, one's reputation, or one's prospects."], "src": "iwb"}
+{"w": "self-destructive", "pos": "adjective", "d": ["Tending to harm or destroy oneself, one's health, or one's own interests."], "src": "iwb"}
+{"w": "self-determination", "pos": "noun", "d": ["The right or ability of a people to choose its own government and future.", "The power to make one's own decisions without outside control."], "src": "iwb"}
+{"w": "self-determining", "pos": "adjective", "d": ["Able to make one's own decisions and direct one's own course of action."], "src": "iwb"}
+{"w": "self-devised", "pos": "adjective", "d": ["Invented or planned by oneself rather than adopted from others."], "src": "iwb"}
+{"w": "self-devoted", "pos": "adjective", "d": ["Wholly committed to a person, cause, or course of action."], "src": "iwb"}
+{"w": "self-devotement", "pos": "noun", "d": ["The act of giving oneself completely to a person or cause."], "src": "iwb"}
+{"w": "self-devotion", "pos": "noun", "d": ["Complete and devoted commitment of oneself to a purpose or person."], "src": "iwb"}
+{"w": "self-devouring", "pos": "adjective", "d": ["Consuming itself, as a process that feeds on its own resources."], "src": "iwb"}
+{"w": "self-diffusive", "pos": "adjective", "d": ["Spreading outward of its own accord, as light or influence radiating from a center."], "src": "iwb"}
+{"w": "self-discipline", "pos": "noun", "d": ["The ability to control one's own behavior and urges in pursuit of a goal."], "src": "iwb"}
+{"w": "self-distrust", "pos": "noun", "d": ["Lack of confidence in one's own judgment or abilities."], "src": "iwb"}
+{"w": "self-educated", "pos": "adjective", "d": ["Having learned a subject on one's own without formal schooling."], "src": "iwb"}
+{"w": "self-elective", "pos": "adjective", "d": ["Chosen by or for oneself, as an optional course of study."], "src": "iwb"}
+{"w": "self-enjoyment", "pos": "noun", "d": ["Pleasure taken in one's own company or pursuits."], "src": "iwb"}
+{"w": "self-esteem", "pos": "noun", "d": ["One's overall sense of one's own worth and value."], "src": "iwb"}
+{"w": "self-estimation", "pos": "noun", "d": ["The value or worth one places on oneself."], "src": "iwb"}
+{"w": "self-evidence", "pos": "noun", "d": ["The quality of being obvious or plain without needing proof."], "src": "iwb"}
+{"w": "self-evident", "pos": "adjective", "d": ["Plainly true and needing no proof or argument."], "src": "iwb"}
+{"w": "self-evolution", "pos": "noun", "d": ["Development that arises from within a system or person rather than from outside forces."], "src": "iwb"}
+{"w": "self-exaltation", "pos": "noun", "d": ["The act of praising or glorifying oneself."], "src": "iwb"}
+{"w": "self-examinant", "pos": "noun", "d": ["A person who examines his or her own motives, beliefs, or conduct."], "src": "iwb"}
+{"w": "self-examination", "pos": "noun", "d": ["Careful scrutiny of one's own thoughts, motives, and behavior."], "src": "iwb"}
+{"w": "self-excite", "pos": "verb", "d": ["To stir oneself into strong feeling or enthusiasm without outside prompting."], "src": "iwb"}
+{"w": "self-existence", "pos": "noun", "d": ["The state of existing independently, without depending on any cause outside oneself."], "src": "iwb"}
+{"w": "self-existent", "pos": "adjective", "d": ["Existing of itself and independently, not caused or sustained by anything else."], "src": "iwb"}
+{"w": "self-explaining", "pos": "adjective", "d": ["Clear enough to be understood without any outside explanation."], "src": "iwb"}
+{"w": "self-exposure", "pos": "noun", "d": ["The act of revealing one's own faults, secrets, or vulnerabilities."], "src": "iwb"}
+{"w": "self-fertilization", "pos": "noun", "d": ["In plants and some animals, the union of male and female reproductive cells from the same individual."], "src": "iwb"}
+{"w": "self-fertilized", "pos": "adjective", "d": ["Having been fertilized by one's own pollen or reproductive cells."], "src": "iwb"}
+{"w": "self-glorious", "pos": "adjective", "d": ["Proudly boasting of one's own greatness; vain and self-praising."], "src": "iwb"}
+{"w": "self-government", "pos": "noun", "d": ["Control of one's own affairs, as a people's right to rule itself."], "src": "iwb"}
+{"w": "self-gratulation", "pos": "noun", "d": ["The act of congratulating oneself, often for one's own success."], "src": "iwb"}
+{"w": "self-hardening", "pos": "adjective", "d": ["Capable of becoming hard without outside help, as certain metals or cements."], "src": "iwb"}
+{"w": "self-heal", "pos": "verb", "d": ["To recover by one's own natural powers, without outside treatment."], "src": "iwb"}
+{"w": "self-help", "pos": "noun", "d": ["The practice of improving oneself by one's own efforts, without others' help."], "src": "iwb"}
+{"w": "self-homicide", "pos": "noun", "d": ["The act of killing oneself."], "src": "iwb"}
+{"w": "self-ignorance", "pos": "noun", "d": ["Lack of knowledge about one's own character, abilities, or condition."], "src": "iwb"}
+{"w": "self-ignorant", "pos": "adjective", "d": ["Unaware of one's own character or true condition."], "src": "iwb"}
+{"w": "self-imparting", "pos": "adjective", "d": ["Communicating itself outward, as heat or motion passing from one body to another."], "src": "iwb"}
+{"w": "self-importance", "pos": "noun", "d": ["An exaggerated sense of one's own value or rank."], "src": "iwb"}
+{"w": "self-important", "pos": "adjective", "d": ["Thinking too highly of one's own rank or value; pompous."], "src": "iwb"}
+{"w": "self-imposed", "pos": "adjective", "d": ["Laid upon oneself voluntarily, as a task or restriction."], "src": "iwb"}
+{"w": "self-imposture", "pos": "noun", "d": ["The practice of deceiving oneself or others about what one is."], "src": "iwb"}
+{"w": "self-indignation", "pos": "noun", "d": ["Anger directed at oneself for one's own faults or failures."], "src": "iwb"}
+{"w": "self-induction", "pos": "noun", "d": ["The production of an opposing electric current in a wire by changes in the current flowing through that same wire."], "src": "iwb"}
+{"w": "self-indulgence", "pos": "noun", "d": ["The act of freely satisfying one's own desires and appetites."], "src": "iwb"}
+{"w": "self-indulgent", "pos": "adjective", "d": ["Freely giving in to one's own desires and appetites."], "src": "iwb"}
+{"w": "self-interest", "pos": "noun", "d": ["Concern for one's own advantage or benefit."], "src": "iwb"}
+{"w": "self-involution", "pos": "noun", "d": ["The act of turning one's attention or energies inward upon oneself."], "src": "iwb"}
+{"w": "self-justifier", "pos": "noun", "d": ["A person who defends or excuses his or her own conduct."], "src": "iwb"}
+{"w": "self-kindled", "pos": "adjective", "d": ["Set burning by itself, without any outside spark."], "src": "iwb"}
+{"w": "self-knowing", "pos": "adjective", "d": ["Having knowledge of one's own character, motives, and nature."], "src": "iwb"}
+{"w": "self-knowledge", "pos": "noun", "d": ["Understanding of one's own character, abilities, and motives."], "src": "iwb"}
+{"w": "self-life", "pos": "noun", "d": ["A life lived inwardly, centered on oneself rather than on others."], "src": "iwb"}
+{"w": "self-love", "pos": "noun", "d": ["Love of or regard for oneself, especially to an excessive degree."], "src": "iwb"}
+{"w": "self-luminous", "pos": "adjective", "d": ["Shining by its own light, like the sun or a star."], "src": "iwb"}
+{"w": "self-made", "pos": "adjective", "d": ["Having risen in life by one's own efforts rather than by inherited wealth or help."], "src": "iwb"}
+{"w": "self-mettle", "pos": "noun", "d": ["The spirit and courage that come from one's own nature."], "src": "iwb"}
+{"w": "self-motion", "pos": "noun", "d": ["Movement that begins and continues by its own internal power."], "src": "iwb"}
+{"w": "self-moved", "pos": "adjective", "d": ["Moved by one's own internal power rather than by outside force."], "src": "iwb"}
+{"w": "self-moving", "pos": "adjective", "d": ["Able to move by its own power, without being pushed or pulled."], "src": "iwb"}
+{"w": "self-murder", "pos": "noun", "d": ["The deliberate killing of oneself."], "src": "iwb"}
+{"w": "self-neglecting", "pos": "adjective", "d": ["Failing to care for one's own needs or appearance."], "src": "iwb"}
+{"w": "self-opinion", "pos": "noun", "d": ["One's own judgment or view of oneself."], "src": "iwb"}
+{"w": "self-originating", "pos": "adjective", "d": ["Arising by itself from within, not caused by anything outside."], "src": "iwb"}
+{"w": "self-partiality", "pos": "noun", "d": ["Undue favor toward oneself in judging one's own actions."], "src": "iwb"}
+{"w": "self-perplexed", "pos": "adjective", "d": ["Puzzled or confused by one's own thoughts or feelings."], "src": "iwb"}
+{"w": "self-posited", "pos": "adjective", "d": ["Placed or set by oneself, as a position one has deliberately taken."], "src": "iwb"}
+{"w": "self-positing", "pos": "adjective", "d": ["Placing or establishing oneself, as in a position or point of view."], "src": "iwb"}
+{"w": "self-possessed", "pos": "adjective", "d": ["Calm and in control of one's feelings and actions."], "src": "iwb"}
+{"w": "self-possession", "pos": "noun", "d": ["Calm self-control in one's feelings and actions."], "src": "iwb"}
+{"w": "self-praise", "pos": "noun", "d": ["Praise of oneself; boasting about one's own merits."], "src": "iwb"}
+{"w": "self-preservation", "pos": "noun", "d": ["The instinct or action of protecting oneself from harm or danger.", "The tendency to put one's own survival first."], "src": "iwb"}
+{"w": "self-propagating", "pos": "adjective", "d": ["Spreading or continuing on its own without outside help.", "Describing a wave or process that keeps itself going once started."], "src": "iwb"}
+{"w": "self-registering", "pos": "adjective", "d": ["Recording its own readings or measurements automatically.", "Describing an instrument that writes down its own data without a human operator."], "src": "iwb"}
+{"w": "self-regulated", "pos": "adjective", "d": ["Controlled by one's own rules rather than by outside authority.", "Describing a process that keeps itself in balance automatically."], "src": "iwb"}
+{"w": "self-regulative", "pos": "adjective", "d": ["Tending to bring oneself or a system into proper order without external control.", "Exercising regulation from within rather than from outside."], "src": "iwb"}
+{"w": "self-reliance", "pos": "noun", "d": ["Dependence on one's own abilities and judgment rather than on others.", "The habit of doing things for oneself without help."], "src": "iwb"}
+{"w": "self-reliant", "pos": "adjective", "d": ["Able to manage one's own needs without help from others.", "Showing confidence in one's own abilities."], "src": "iwb"}
+{"w": "self-renunciation", "pos": "noun", "d": ["The act of giving up one's own desires or claims, especially for the sake of others or a principle.", "Voluntary self-denial for a higher purpose."], "src": "iwb"}
+{"w": "self-repellency", "pos": "noun", "d": ["The tendency of like electric charges to push away from one another.", "The quality of driving away or resisting itself."], "src": "iwb"}
+{"w": "self-repelling", "pos": "adjective", "d": ["Pushing away from itself, as two identical electric charges do.", "Describing forces that repel their own kind."], "src": "iwb"}
+{"w": "self-repetition", "pos": "noun", "d": ["Repeating one's own words, actions, or patterns.", "The act of saying or doing the same thing over again by oneself."], "src": "iwb"}
+{"w": "self-reproach", "pos": "noun", "d": ["Criticism or blame directed at oneself for something one has done."], "src": "iwb"}
+{"w": "self-reproof", "pos": "noun", "d": ["A scolding or rebuke that one gives to oneself.", "A private expression of disapproval of one's own conduct."], "src": "iwb"}
+{"w": "self-reproved", "pos": "adjective", "d": ["Having been scolded or rebuked by oneself for one's own conduct."], "src": "iwb"}
+{"w": "self-reproving", "pos": "adjective", "d": ["Expressing blame or disapproval toward oneself."], "src": "iwb"}
+{"w": "self-repugnant", "pos": "adjective", "d": ["Contradicting itself; logically inconsistent within itself."], "src": "iwb"}
+{"w": "self-repulsive", "pos": "adjective", "d": ["Disgusting or repulsive to oneself.", "In physics, pushing away from itself, as like charges do."], "src": "iwb"}
+{"w": "self-respect", "pos": "noun", "d": ["A proper sense of one's own worth and dignity.", "The feeling that one deserves decent treatment, beginning with how one treats oneself."], "src": "iwb"}
+{"w": "self-restrained", "pos": "adjective", "d": ["Holding oneself back; exercising control over one's own impulses."], "src": "iwb"}
+{"w": "self-restraint", "pos": "noun", "d": ["The ability to hold back one's impulses, emotions, or actions.", "Control over one's own behavior."], "src": "iwb"}
+{"w": "self-reverence", "pos": "noun", "d": ["Deep respect for oneself and one's own dignity.", "A sense of personal worth that keeps one from shameful conduct."], "src": "iwb"}
+{"w": "self-righteous", "pos": "adjective", "d": ["Convinced of one's own moral correctness and quick to judge others.", "Showing an attitude of moral superiority."], "src": "iwb"}
+{"w": "self-sacrifice", "pos": "noun", "d": ["The act of giving up something of one's own for the good of others.", "Giving up one's own interests or life for a greater cause."], "src": "iwb"}
+{"w": "self-satisfaction", "pos": "noun", "d": ["Contentment with oneself or with one's achievements."], "src": "iwb"}
+{"w": "self-satisfied", "pos": "adjective", "d": ["Pleased with oneself, often in a smug way.", "Showing too much contentment with one's own achievements."], "src": "iwb"}
+{"w": "self-satisfying", "pos": "adjective", "d": ["Giving satisfaction to oneself or to one's own desires."], "src": "iwb"}
+{"w": "self-seeker", "pos": "noun", "d": ["A person who pursues only their own interests or advantage."], "src": "iwb"}
+{"w": "self-seeking", "pos": "adjective", "d": ["Pursuing only one's own advantage; selfish.", "Acting from motives of personal gain."], "src": "iwb"}
+{"w": "self-slaughter", "pos": "noun", "d": ["The act of killing oneself; suicide."], "src": "iwb"}
+{"w": "self-starter", "pos": "noun", "d": ["A person who begins work or takes action on their own without being told."], "src": "iwb"}
+{"w": "self-sufficiency", "pos": "noun", "d": ["The state of needing no outside help to meet one's needs.", "The ability to provide for oneself independently."], "src": "iwb"}
+{"w": "self-sufficient", "pos": "adjective", "d": ["Able to meet one's own needs without outside help."], "src": "iwb"}
+{"w": "self-sufficing", "pos": "adjective", "d": ["Enough in itself; needing nothing added.", "Making oneself sufficient without outside aid."], "src": "iwb"}
+{"w": "self-suspended", "pos": "adjective", "d": ["Held aloft or floating without external support.", "Describing particles that remain floating in a liquid or gas without settling."], "src": "iwb"}
+{"w": "self-suspicious", "pos": "adjective", "d": ["Suspicious of oneself; doubting one's own motives or conduct."], "src": "iwb"}
+{"w": "self-taught", "pos": "adjective", "d": ["Having learned a skill by oneself without a teacher."], "src": "iwb"}
+{"w": "self-tormentor", "pos": "noun", "d": ["A person who torments themselves, physically or mentally."], "src": "iwb"}
+{"w": "self-torture", "pos": "noun", "d": ["The act of inflicting pain or suffering on oneself.", "Mental anguish that one causes oneself."], "src": "iwb"}
+{"w": "self-trust", "pos": "noun", "d": ["Confidence in one's own judgment and abilities."], "src": "iwb"}
+{"w": "self-uned", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "self-view", "pos": "noun", "d": ["The way one sees or thinks of oneself.", "One's own opinion of one's character or abilities."], "src": "iwb"}
+{"w": "self-will", "pos": "noun", "d": ["Stubborn determination to have one's own way.", "The quality of acting on one's own wishes against advice or opposition."], "src": "iwb"}
+{"w": "self-worship", "pos": "noun", "d": ["Excessive admiration of oneself."], "src": "iwb"}
+{"w": "self-wrong", "pos": "noun", "d": ["Harm or wrong that one does to oneself."], "src": "iwb"}
+{"w": "selion", "pos": "noun", "d": ["A narrow ridge or strip of plowed land in an open-field farming system."], "src": "iwb"}
+{"w": "seljuckian", "pos": "adjective", "d": ["Relating to the Seljuk Turks, a medieval Muslim dynasty that ruled much of the Middle East and Asia Minor."], "src": "iwb"}
+{"w": "seljukian", "pos": "adjective", "d": ["Relating to the Seljuk Turks, a medieval Muslim dynasty that ruled much of the Middle East and Asia Minor."], "src": "iwb"}
+{"w": "sellanders", "pos": "noun", "d": ["A dry, scaly skin condition on the hocks of horses, causing cracked and sore skin."], "src": "iwb"}
+{"w": "sellenders", "pos": "noun", "d": ["A scaly, cracked skin eruption on the hocks of horses."], "src": "iwb"}
+{"w": "selters water", "pos": "noun", "d": ["A naturally sparkling mineral water from the springs at Selters in Germany."], "src": "iwb"}
+{"w": "seltzer water", "pos": "noun", "d": ["Carbonated water, often served with added flavoring.", "Sparkling water made by forcing carbon dioxide into water under pressure."], "src": "iwb"}
+{"w": "seltzo-gene", "pos": "noun", "d": ["A vessel or apparatus for making or dispensing carbonated seltzer water."], "src": "iwb"}
+{"w": "selvage", "pos": "noun", "d": ["The finished edge of woven fabric that prevents it from fraying.", "A narrow border along the edge of fabric, woven differently from the main part."], "src": "iwb"}
+{"w": "selvagee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "selvas", "pos": "noun", "d": ["Tropical rainforests, especially those of the Amazon basin in South America."], "src": "iwb"}
+{"w": "selve", "pos": "noun", "d": ["An obsolete spelling of self."], "src": "iwb"}
+{"w": "selvedge", "pos": "noun", "d": ["Another spelling of selvage; the finished edge of woven fabric that keeps it from unraveling."], "src": "iwb"}
+{"w": "sely", "pos": "adjective", "d": ["An old word meaning fortunate or happy.", "Also used to mean innocent, simple, or pitiable."], "src": "iwb"}
+{"w": "semaeostomata", "pos": "noun", "d": ["An order of large jellyfishes, including most of the familiar disk-shaped kinds with frilly mouth arms."], "src": "iwb"}
+{"w": "semaphore", "pos": "noun", "d": ["A system of sending messages by holding two flags in different positions, each position standing for a letter or signal.", "A signaling device with movable arms used especially by railroads."], "src": "iwb"}
+{"w": "semaphoric", "pos": "adjective", "d": ["Relating to or done by semaphore."], "src": "iwb"}
+{"w": "semaphorist", "pos": "noun", "d": ["A person who sends or receives semaphore signals."], "src": "iwb"}
+{"w": "semasiology", "pos": "noun", "d": ["The study of meaning in language; the branch of linguistics dealing with what words and signs signify."], "src": "iwb"}
+{"w": "sematic", "pos": "adjective", "d": ["Serving as a sign or signal; relating to meaning.", "In zoology, describing colors or markings that warn predators away."], "src": "iwb"}
+{"w": "sematology", "pos": "noun", "d": ["The study of signs and signals and their meanings."], "src": "iwb"}
+{"w": "sematrope", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "semblably", "pos": "adverb", "d": ["In a similar or like manner."], "src": "iwb"}
+{"w": "semblance", "pos": "noun", "d": ["An outward appearance that may not match the truth.", "The state of resembling something."], "src": "iwb"}
+{"w": "semblant", "pos": "adjective", "d": ["Appearing like; resembling."], "src": "iwb"}
+{"w": "semblative", "pos": "adjective", "d": ["Tending to resemble; giving an appearance of something."], "src": "iwb"}
+{"w": "semble", "pos": "verb", "d": ["To seem or appear; to make a show of."], "src": "iwb"}
+{"w": "seme", "pos": "noun", "d": ["The smallest unit of meaning in a word; a basic element of meaning in linguistics."], "src": "iwb"}
+{"w": "semeiography", "pos": "noun", "d": ["The description or written account of the symptoms or signs of a disease."], "src": "iwb"}
+{"w": "semeiological", "pos": "adjective", "d": ["Relating to semeiology, the study of signs and symptoms."], "src": "iwb"}
+{"w": "semeiology", "pos": "noun", "d": ["The branch of medicine dealing with the signs and symptoms of disease.", "The study of signs and their meanings generally."], "src": "iwb"}
+{"w": "semeiotic", "pos": "adjective", "d": ["Relating to signs or symptoms.", "Relating to the study of signs and their meanings."], "src": "iwb"}
+{"w": "semele", "pos": "noun", "d": ["In Greek mythology, the mortal mother of Dionysus, who died beholding Zeus in his full glory."], "src": "iwb"}
+{"w": "semen", "pos": "noun", "d": ["The fluid produced by the male reproductive organs, containing sperm."], "src": "iwb"}
+{"w": "semeniferous", "pos": "adjective", "d": ["Producing or conveying semen, as the semeniferous tubules of the testis."], "src": "iwb"}
+{"w": "semi circumference", "pos": "phrase", "d": ["Half of a circumference; half the distance around a circle."], "src": "iwb"}
+{"w": "semi crustaceous", "pos": "phrase", "d": ["Half crustaceous; partly like a crustacean.", "Having a partial crust-like shell."], "src": "iwb"}
+{"w": "semi pupa", "pos": "phrase", "d": ["An incomplete pupal stage in the development of some insects."], "src": "iwb"}
+{"w": "semi-", "pos": "prefix", "d": ["A prefix meaning half, partly, or partially, as in semicircle or semiprivate."], "src": "iwb"}
+{"w": "semi-christianized", "pos": "adjective", "d": ["Only partly converted to Christianity; partially influenced by Christian beliefs."], "src": "iwb"}
+{"w": "semi-diesel", "pos": "noun", "d": ["An early type of internal-combustion engine that ignites fuel with a heated bulb rather than a spark; a hot-bulb engine."], "src": "iwb"}
+{"w": "semiacidified", "pos": "adjective", "d": ["Only partly acidified; made somewhat acid."], "src": "iwb"}
+{"w": "semicalcined", "pos": "adjective", "d": ["Only partly calcined; partially reduced to powder or oxide by heating."], "src": "iwb"}
+{"d": [], "pos": "", "src": "iwb", "unsure": true, "w": "semicubium"}
+{"d": ["A sitting bath in which only the lower part of the body is immersed in water."], "pos": "noun", "w": "semicupium", "src": "iwb"}
+{"d": ["Shaped like half of a cylinder."], "pos": "adjective", "w": "semicylyndrical", "src": "iwb"}
+{"d": ["Half bent, as a limb that is only partly folded."], "pos": "adjective", "w": "semiflexed", "src": "iwb"}
+{"d": ["Only partly turned into stone."], "pos": "adjective", "w": "semilapidified", "src": "iwb"}
+{"d": ["An alloy of copper and zinc having the color and appearance of gold."], "pos": "noun", "w": "semilor", "src": "iwb"}
+{"d": ["Relating to seed or the production of seed.", "Highly original and influential, giving rise to later developments."], "pos": "adjective", "w": "seminal", "src": "iwb"}
+{"d": ["A student preparing for the priesthood or ministry in a seminary."], "pos": "noun", "w": "seminarian", "src": "iwb"}
+{"d": ["A school for training priests, ministers, or rabbis."], "pos": "noun", "w": "seminary", "src": "iwb"}
+{"d": ["To sow or scatter seed."], "pos": "verb", "w": "seminate", "src": "iwb"}
+{"d": ["Bearing or containing seeds."], "pos": "adjective", "w": "semined", "src": "iwb"}
+{"d": ["Producing or bearing seed."], "pos": "adjective", "w": "seminiferous", "src": "iwb"}
+{"d": ["Producing seed or semen."], "pos": "adjective", "w": "seminific", "src": "iwb"}
+{"d": ["One who held the old theory that the male seed alone contains the complete future organism."], "pos": "noun", "w": "seminist", "src": "iwb"}
+{"d": ["Members of a Native American people of Florida and Oklahoma."], "pos": "noun", "w": "seminoles", "src": "iwb"}
+{"d": [], "pos": "", "src": "iwb", "unsure": true, "w": "semiography"}
+{"d": ["Relating to semiology, the study of signs and signals in language."], "pos": "adjective", "w": "semiological", "src": "iwb"}
+{"d": [], "pos": "", "src": "iwb", "unsure": true, "w": "semiologioal"}
+{"d": ["Only partly supplied or combined with oxygen."], "pos": "adjective", "w": "semioxygenated", "src": "iwb"}
+{"d": ["In the old phlogiston theory, only partly combined with phlogiston."], "pos": "adjective", "w": "semiphlogisticated", "src": "iwb"}
+{"d": ["A footpath or narrow way."], "pos": "noun", "w": "semita", "src": "iwb"}
+{"d": ["A member of a Semitic-speaking people."], "pos": "noun", "w": "semite", "src": "iwb"}
+{"d": ["The character or spirit of Semitic languages or culture."], "pos": "noun", "w": "semitism", "src": "iwb"}
+{"d": ["Half alive; only partly living."], "pos": "adjective", "w": "semivif", "src": "iwb"}
+{"d": [], "pos": "", "src": "iwb", "unsure": true, "w": "semolella"}
+{"d": ["Coarsely ground wheat, used for making pasta and porridge."], "pos": "noun", "w": "semolina", "src": "iwb"}
+{"d": ["Finely ground semolina; the Italian form of the word."], "pos": "noun", "w": "semolino", "src": "iwb"}
+{"d": ["The French name for semolina."], "pos": "noun", "w": "semoule", "src": "iwb"}
+{"d": ["Always green; evergreen."], "pos": "adjective", "w": "sempervirent", "src": "iwb"}
+{"d": [], "pos": "", "src": "iwb", "unsure": true, "w": "sempervive"}
+{"d": ["A genus of thick-leaved succulent plants, including the houseleek."], "pos": "noun", "w": "sempervivum", "src": "iwb"}
+{"d": ["Everlasting; having no beginning and no end."], "pos": "adjective", "w": "sempiternal", "src": "iwb"}
+{"d": ["Everlasting in duration."], "pos": "adjective", "w": "sempiterne", "src": "iwb"}
+{"d": ["Eternal duration; endless existence."], "pos": "noun", "w": "sempiternity", "src": "iwb"}
+{"d": ["In music, always; continuing in the same manner."], "pos": "adverb", "w": "sempre", "src": "iwb"}
+{"d": ["One who sews; a seamster or tailor."], "pos": "noun", "w": "sempster", "src": "iwb"}
+{"d": ["A woman who sews for a living; a seamstress."], "pos": "noun", "w": "sempstress", "src": "iwb"}
+{"d": ["Resembling the work or manner of a sempstress."], "pos": "adjective", "w": "sempstressy", "src": "iwb"}
+{"d": ["An old variant of 'sempster,' one who sews."], "pos": "noun", "w": "semster", "src": "iwb"}
+{"d": ["A Roman unit equal to half an ounce."], "pos": "noun", "w": "semuncia", "src": "iwb"}
+{"d": ["Relating to or befitting a senator."], "pos": "adjective", "w": "senatorian", "src": "iwb"}
+{"d": [], "pos": "", "src": "iwb", "unsure": true, "w": "senatorious"}
+{"d": ["A decree or decision of the ancient Roman senate."], "pos": "noun", "w": "senatusconsult", "src": "iwb"}
+{"d": ["Members of the Seneca people, a Native American tribe of New York."], "pos": "noun", "w": "senecas", "src": "iwb"}
+{"d": ["A large genus of plants including ragworts and groundsels."], "pos": "noun", "w": "senecio", "src": "iwb"}
+{"d": ["Old age; the state of being old."], "pos": "noun", "w": "senectitude", "src": "iwb"}
+{"d": ["The dried root of a North American plant, used as a medicine; snakeroot."], "pos": "noun", "w": "senega", "src": "iwb"}
+{"d": ["The active medicinal substance obtained from senega root."], "pos": "noun", "w": "senegin", "src": "iwb"}
+{"d": ["The process of growing old; gradual deterioration with age."], "pos": "noun", "w": "senescence", "src": "iwb"}
+{"d": ["Growing old; aging."], "pos": "adjective", "w": "senescent", "src": "iwb"}
+{"d": ["The steward of a medieval noble household; a major-domo."], "pos": "noun", "w": "seneschal", "src": "iwb"}
+{"d": ["To scorch or burn lightly."], "pos": "verb", "w": "senge", "src": "iwb"}
+{"d": ["The Portuguese word for 'mister' or 'sir,' a title of courtesy."], "pos": "noun", "w": "senhor", "src": "iwb"}
+{"d": ["The Portuguese word for 'madam' or 'lady,' a title of courtesy."], "pos": "noun", "w": "senhora", "src": "iwb"}
+{"d": ["The Portuguese word for 'miss'; a young unmarried woman."], "pos": "noun", "w": "senhorita", "src": "iwb"}
+{"d": ["Mental or physical weakness caused by old age."], "pos": "noun", "w": "senility", "src": "iwb"}
+{"d": ["The state or rank of being senior; seniority."], "pos": "noun", "w": "seniory", "src": "iwb"}
+{"d": ["The dried leaves of certain plants, used as a laxative."], "pos": "noun", "w": "senna", "src": "iwb"}
+{"d": ["A Gaelic storyteller and keeper of clan history."], "pos": "noun", "w": "sennachy", "src": "iwb"}
+{"d": ["Relating to the Senonian, the last stage of the Cretaceous period."], "pos": "adjective", "w": "senonian", "src": "iwb"}
+{"d": ["The Spanish word for 'mister' or 'sir,' a title of courtesy."], "pos": "noun", "w": "senor", "src": "iwb"}
+{"d": ["The Spanish word for 'miss'; a young unmarried woman."], "pos": "noun", "w": "senorita", "src": "iwb"}
+{"d": ["The capacity to feel or perceive.", "Refined sensitivity to beauty or emotion."], "pos": "noun", "w": "sensibility", "src": "iwb"}
+{"d": ["In a sensible manner; so as to be perceived."], "pos": "adverb", "w": "sensibly", "src": "iwb"}
+{"d": ["Tending to produce sensation."], "pos": "adjective", "w": "sensifacient", "src": "iwb"}
+{"d": ["Bearing or conveying sensation."], "pos": "adjective", "w": "sensiferous", "src": "iwb"}
+{"d": ["Producing sensation."], "pos": "adjective", "w": "sensific", "src": "iwb"}
+{"d": ["Relating to the production of sensation."], "pos": "adjective", "w": "sensificatory", "src": "iwb"}
+{"d": ["Giving rise to sensation."], "pos": "adjective", "w": "sensigenous", "src": "iwb"}
+{"d": ["To make sensitive or more sensitive."], "pos": "verb", "w": "sensitize", "src": "iwb"}
+{"d": ["An instrument for measuring the sensitivity of photographic film."], "pos": "noun", "w": "sensitometer", "src": "iwb"}
+{"d": ["Relating to sensation or the senses."], "pos": "adjective", "w": "sensitory", "src": "iwb"}
+{"d": ["Relating to both sensation and the will."], "pos": "adjective", "w": "sensori-volitional", "src": "iwb"}
+{"d": ["The seat of sensation in the brain; the center where sensory impressions are received."], "pos": "noun", "w": "sensorium", "src": "iwb"}
+{"d": ["Appealing to the bodily senses.", "Given to the pleasures of the body."], "pos": "adjective", "w": "sensual", "src": "iwb"}
+{"d": ["The act of making sensual or appealing to the senses."], "pos": "noun", "w": "sensualization", "src": "iwb"}
+{"d": ["The doctrine that all knowledge comes from sensation."], "pos": "noun", "w": "sensuism", "src": "iwb"}
+{"d": ["Sensual character or quality."], "pos": "noun", "w": "sensuosity", "src": "iwb"}
+{"d": ["Appealing to the senses, especially in an aesthetic way."], "pos": "adjective", "w": "sensuous", "src": "iwb"}
+{"d": ["A method of teaching reading in which whole sentences are learned before individual words or letters."], "pos": "phrase", "w": "sentence method", "src": "iwb"}
+{"d": ["Relating to a sentence."], "pos": "adjective", "w": "sentential", "src": "iwb"}
+{"d": ["A writer of pithy sentences or maxims.", "A scholastic commentator on the Sentences of Peter Lombard."], "pos": "noun", "w": "sententiarist", "src": "iwb"}
+{"d": ["Relating to a judicial sentence or to maxims."], "pos": "adjective", "w": "sententiary", "src": "iwb"}
+{"d": ["The quality of being sententious."], "pos": "noun", "w": "sententiosity", "src": "iwb"}
+{"d": ["Full of pithy moral sayings; given to moralizing."], "pos": "adjective", "w": "sententious", "src": "iwb"}
+{"d": [], "pos": "", "src": "iwb", "unsure": true, "w": "sentery"}
+{"d": ["The French word for scent or perfume."], "pos": "noun", "w": "senteur", "src": "iwb"}
+{"d": ["The capacity to feel; conscious awareness."], "pos": "noun", "w": "sentience", "src": "iwb"}
+{"d": ["The state of being sentient."], "pos": "noun", "w": "sentiency", "src": "iwb"}
+{"d": ["Able to feel; consciously aware."], "pos": "adjective", "w": "sentient", "src": "iwb"}
+{"d": ["A feeling or emotion.", "An opinion colored by feeling."], "pos": "noun", "w": "sentiment", "src": "iwb"}
+{"d": ["A guard posted to keep watch."], "pos": "noun", "w": "sentinel", "src": "iwb"}
+{"d": [], "pos": "", "src": "iwb", "unsure": true, "w": "sentisection"}
+{"d": ["In music, the Italian word meaning 'without'."], "pos": "preposition", "w": "senza", "src": "iwb"}
+{"d": ["A Spanish courtesy title meaning 'sir,' written without the tilde."], "pos": "noun", "w": "seor", "src": "iwb"}
+{"d": ["A Spanish courtesy title meaning 'madam,' written without the tilde."], "pos": "noun", "w": "seora", "src": "iwb"}
+{"d": ["A Spanish courtesy title meaning 'miss,' written without the tilde."], "pos": "noun", "w": "seorita", "src": "iwb"}
+{"d": ["One of the leaf-like outer parts of a flower, forming the calyx."], "pos": "noun", "w": "sepal", "src": "iwb"}
+{"d": ["Relating to or resembling a sepal."], "pos": "adjective", "w": "sepaline", "src": "iwb"}
+{"d": ["The transformation of a flower's petals into sepal-like organs."], "pos": "noun", "w": "sepalody", "src": "iwb"}
+{"d": ["Like a sepal in form or appearance."], "pos": "adjective", "w": "sepaloid", "src": "iwb"}
+{"d": ["The quality of being separable."], "pos": "noun", "w": "separability", "src": "iwb"}
+{"d": ["Able to be separated."], "pos": "adjective", "w": "separable", "src": "iwb"}
+{"d": [], "pos": "", "src": "iwb", "unsure": true, "w": "separatical"}
+{"d": ["The advocacy of political or social separation from a larger body."], "pos": "noun", "w": "separatism", "src": "iwb"}
+{"d": ["One who advocates separation from a larger group or state."], "pos": "noun", "w": "separatist", "src": "iwb"}
+{"d": ["Tending to separate."], "pos": "adjective", "w": "separative", "src": "iwb"}
+{"w": "separator", "pos": "noun", "d": ["A device or person that divides one thing from another into distinct parts."], "src": "iwb"}
+{"w": "separatory", "pos": "adjective", "d": ["Serving to separate, or designed for the purpose of separation."], "src": "iwb"}
+{"w": "separatrix", "pos": "noun", "d": ["In mathematics, a curve or surface that separates regions of different behavior within a system."], "src": "iwb"}
+{"w": "sepawn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sepelible", "pos": "adjective", "d": ["Capable of being buried or entombed."], "src": "iwb"}
+{"w": "sepelition", "pos": "noun", "d": ["The act of burying the dead; interment."], "src": "iwb"}
+{"w": "sephardic", "pos": "adjective", "d": ["Relating to the Sephardim, the Jews of Spanish and Portuguese descent."], "src": "iwb"}
+{"w": "sephardim", "pos": "noun", "d": ["The Jews of Spanish and Portuguese descent, and their descendants."], "src": "iwb"}
+{"w": "sephen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sepia", "pos": "noun", "d": ["A dark brown pigment prepared from the inky secretion of the cuttlefish.", "A dark brown color resembling that pigment."], "src": "iwb"}
+{"w": "sepic", "pos": "adjective", "d": ["Relating to sepia or to the cuttlefish."], "src": "iwb"}
+{"w": "sepidaceous", "pos": "adjective", "d": ["Belonging to or resembling the cuttlefish family."], "src": "iwb"}
+{"w": "sepiment", "pos": "noun", "d": ["A hedge or fence serving as an enclosure.", "In botany, a partition dividing a seed vessel."], "src": "iwb"}
+{"w": "sepiolite", "pos": "noun", "d": ["A soft, white, porous mineral used for making tobacco pipes; meerschaum."], "src": "iwb"}
+{"w": "sepiostare", "pos": "noun", "d": ["The internal shell or cuttlebone of the cuttlefish."], "src": "iwb"}
+{"w": "sepon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sepose", "pos": "verb", "d": ["To set apart; to lay aside for a special purpose."], "src": "iwb"}
+{"w": "seposit", "pos": "verb", "d": ["To lay aside for safekeeping or future use."], "src": "iwb"}
+{"w": "sepoy", "pos": "noun", "d": ["A native of India serving as a soldier in the British army."], "src": "iwb"}
+{"w": "seppuku", "pos": "noun", "d": ["Ritual suicide by disembowelment, formerly practiced by Japanese samurai."], "src": "iwb"}
+{"w": "sepsin", "pos": "noun", "d": ["A toxic substance produced during the putrefaction of animal matter."], "src": "iwb"}
+{"w": "sepsis", "pos": "noun", "d": ["The presence of disease-causing bacteria or their toxins in the blood or tissues; blood poisoning."], "src": "iwb"}
+{"w": "septaemia", "pos": "noun", "d": ["A form of blood poisoning marked by bacteria multiplying in the blood."], "src": "iwb"}
+{"w": "septane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "septarium", "pos": "noun", "d": ["A rounded nodule of rock crossed by cracks filled with a mineral deposit."], "src": "iwb"}
+{"w": "septembrist", "pos": "noun", "d": ["One who took part in the massacres at Paris in September, 1792."], "src": "iwb"}
+{"w": "septemfluous", "pos": "adjective", "d": ["Flowing in seven streams."], "src": "iwb"}
+{"w": "septempartite", "pos": "adjective", "d": ["Divided into seven parts."], "src": "iwb"}
+{"w": "septemtrioun", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "septemvir", "pos": "noun", "d": ["One of a board of seven men joined in some office, especially in ancient Rome."], "src": "iwb"}
+{"w": "septenary", "pos": "adjective", "d": ["Relating to the number seven."], "src": "iwb"}
+{"w": "septennate", "pos": "noun", "d": ["A period of seven years."], "src": "iwb"}
+{"w": "septennial", "pos": "adjective", "d": ["Occurring every seven years.", "Lasting seven years."], "src": "iwb"}
+{"w": "septentrial", "pos": "adjective", "d": ["Northern; belonging to the north."], "src": "iwb"}
+{"w": "septentrio", "pos": "noun", "d": ["The north.", "The seven bright stars of the Great Bear."], "src": "iwb"}
+{"w": "septentrion", "pos": "noun", "d": ["The north.", "The constellation of the Great Bear."], "src": "iwb"}
+{"w": "septet", "pos": "noun", "d": ["A group of seven musicians performing together.", "A musical composition for seven instruments or voices.", "A group or set of seven."], "src": "iwb"}
+{"w": "septi-", "pos": "prefix", "d": ["A combining form meaning seven."], "src": "iwb"}
+{"w": "septicaemia", "pos": "noun", "d": ["Blood poisoning caused by bacteria multiplying in the blood."], "src": "iwb"}
+{"w": "septicidal", "pos": "adjective", "d": ["Splitting along the partitions, as the seed vessels of certain plants."], "src": "iwb"}
+{"w": "septifarious", "pos": "adjective", "d": ["Turned or directed toward the septum or partition."], "src": "iwb"}
+{"w": "septiferous", "pos": "adjective", "d": ["Having or bearing a septum or partition."], "src": "iwb"}
+{"w": "septifluous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "septifolious", "pos": "adjective", "d": ["Having seven leaves."], "src": "iwb"}
+{"w": "septiform", "pos": "adjective", "d": ["Having the form of a septum or partition."], "src": "iwb"}
+{"w": "septifragal", "pos": "adjective", "d": ["Breaking away from the partitions, as certain seed pods when they open."], "src": "iwb"}
+{"w": "septilateral", "pos": "adjective", "d": ["Having seven sides."], "src": "iwb"}
+{"w": "septillion", "pos": "noun", "d": ["In the American system, a number expressed by one followed by twenty-four zeros."], "src": "iwb"}
+{"w": "septimole", "pos": "noun", "d": ["One seventh of a gram-molecule."], "src": "iwb"}
+{"w": "septisyllable", "pos": "noun", "d": ["A word consisting of seven syllables."], "src": "iwb"}
+{"w": "septoic", "pos": "adjective", "d": ["Relating to putrefaction; septic."], "src": "iwb"}
+{"w": "septomaxillary", "pos": "adjective", "d": ["Relating to the nasal septum and the maxilla."], "src": "iwb"}
+{"w": "septuagenarian", "pos": "noun", "d": ["A person between seventy and eighty years of age."], "src": "iwb"}
+{"w": "septuagenary", "pos": "adjective", "d": ["Consisting of seventy; relating to seventy."], "src": "iwb"}
+{"w": "septuagesima", "pos": "noun", "d": ["The third Sunday before Lent in the Christian calendar."], "src": "iwb"}
+{"w": "septuagesimal", "pos": "adjective", "d": ["Consisting of seventy.", "Relating to Septuagesima Sunday."], "src": "iwb"}
+{"w": "septuagint", "pos": "noun", "d": ["The ancient Greek version of the Old Testament."], "src": "iwb"}
+{"w": "septuary", "pos": "noun", "d": ["A period of seven days; a week."], "src": "iwb"}
+{"w": "septulate", "pos": "adjective", "d": ["Divided into small partitions or cells."], "src": "iwb"}
+{"w": "septulum", "pos": "noun", "d": ["A small septum or partition."], "src": "iwb"}
+{"w": "septum", "pos": "noun", "d": ["A partition dividing a cavity into two parts, as in the nose."], "src": "iwb"}
+{"w": "septuor", "pos": "noun", "d": ["A musical composition for seven voices or instruments."], "src": "iwb"}
+{"w": "septuple", "pos": "adjective", "d": ["Sevenfold; consisting of seven parts."], "src": "iwb"}
+{"w": "sepulcher", "pos": "noun", "d": ["A tomb or burial vault."], "src": "iwb"}
+{"w": "sepulchral", "pos": "adjective", "d": ["Relating to a tomb or burial.", "Gloomy like the tomb."], "src": "iwb"}
+{"w": "sepulchre", "pos": "noun", "d": ["A tomb or burial vault."], "src": "iwb"}
+{"w": "sepulture", "pos": "noun", "d": ["Burial; interment of the dead."], "src": "iwb"}
+{"w": "sequacious", "pos": "adjective", "d": ["Inclined to follow a leader or example.", "Following with smooth continuity."], "src": "iwb"}
+{"w": "sequacity", "pos": "noun", "d": ["The quality of being sequacious; readiness to follow."], "src": "iwb"}
+{"w": "sequel", "pos": "noun", "d": ["A literary or film work that continues a story begun in an earlier work.", "A result or consequence."], "src": "iwb"}
+{"w": "sequela", "pos": "noun", "d": ["A diseased condition following and resulting from a previous disease."], "src": "iwb"}
+{"w": "sequent", "pos": "adjective", "d": ["Following in succession; succeeding."], "src": "iwb"}
+{"w": "sequester", "pos": "verb", "d": ["To set apart or isolate from others.", "To seize property by legal authority."], "src": "iwb"}
+{"w": "sequestrable", "pos": "adjective", "d": ["Capable of being seized by legal authority."], "src": "iwb"}
+{"w": "sequestral", "pos": "adjective", "d": ["Relating to the legal seizure of property."], "src": "iwb"}
+{"w": "sequestrate", "pos": "verb", "d": ["To set apart; to isolate.", "To seize by legal authority."], "src": "iwb"}
+{"w": "sequestration", "pos": "noun", "d": ["The act of setting apart or isolating.", "The legal seizure of property."], "src": "iwb"}
+{"w": "sequestrator", "pos": "noun", "d": ["One who seizes or holds property by legal authority."], "src": "iwb"}
+{"w": "sequestrum", "pos": "noun", "d": ["A piece of dead bone separated from sound bone in disease."], "src": "iwb"}
+{"w": "sequin", "pos": "noun", "d": ["A small, shiny, circular ornament sewn on clothing.", "A gold coin formerly used in Italy and Turkey."], "src": "iwb"}
+{"w": "sequoia", "pos": "noun", "d": ["A gigantic evergreen tree of California, among the largest trees in the world."], "src": "iwb"}
+{"w": "sequoiene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "serac", "pos": "noun", "d": ["A pinnacle of ice among the crevasses of a glacier."], "src": "iwb"}
+{"w": "seraglio", "pos": "noun", "d": ["The palace of the Ottoman sultan at Constantinople.", "A harem."], "src": "iwb"}
+{"w": "serai", "pos": "noun", "d": ["A building for the lodging of travelers and caravans in Asia; a caravansary."], "src": "iwb"}
+{"w": "seralbumen", "pos": "noun", "d": ["The albumin of blood serum."], "src": "iwb"}
+{"w": "serang", "pos": "noun", "d": ["The boatswain or captain of a crew of native sailors in the East Indies."], "src": "iwb"}
+{"w": "serape", "pos": "noun", "d": ["A woolen shawl or blanket worn as an outer garment in Mexico and Spanish America."], "src": "iwb"}
+{"w": "seraph", "pos": "noun", "d": ["An angel of the highest order."], "src": "iwb"}
+{"w": "seraphim", "pos": "noun", "d": ["Angels of the highest order."], "src": "iwb"}
+{"w": "seraphina", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "seraphine", "pos": "noun", "d": ["A free-reed musical instrument resembling the harmonium."], "src": "iwb"}
+{"w": "serapis", "pos": "noun", "d": ["An Egyptian god combining the attributes of Osiris and Apis."], "src": "iwb"}
+{"w": "seraskier", "pos": "noun", "d": ["The commander-in-chief of the Ottoman army."], "src": "iwb"}
+{"w": "serbonian", "pos": "adjective", "d": ["Relating to Lake Serbonis in Egypt, a bog proverbially inescapable."], "src": "iwb"}
+{"w": "sere", "pos": "adjective", "d": ["Dry; withered, as vegetation."], "src": "iwb"}
+{"w": "serein", "pos": "noun", "d": ["A fine rain falling from a clear sky after sunset in the tropics."], "src": "iwb"}
+{"w": "serenade", "pos": "noun", "d": ["Music performed in the open air at night, especially in honor of someone."], "src": "iwb"}
+{"w": "serenata", "pos": "noun", "d": ["An eighteenth-century secular vocal work resembling a short opera."], "src": "iwb"}
+{"w": "serenate", "pos": "verb", "d": ["To entertain with a serenade."], "src": "iwb"}
+{"w": "serene", "pos": "adjective", "d": ["Calm and peaceful; undisturbed by trouble.", "Clear and fair, as the sky."], "src": "iwb"}
+{"w": "serenitude", "pos": "noun", "d": ["The quality of being serene; calmness."], "src": "iwb"}
+{"w": "serenity", "pos": "noun", "d": ["The state of being calm and undisturbed."], "src": "iwb"}
+{"w": "serf", "pos": "noun", "d": ["A laborer bound to work on the land of a lord in feudal times."], "src": "iwb"}
+{"w": "serge", "pos": "noun", "d": ["A durable twilled cloth of wool or worsted."], "src": "iwb"}
+{"w": "sergeancy", "pos": "noun", "d": ["The office or tenure of a sergeant."], "src": "iwb"}
+{"w": "sergeantcy", "pos": "noun", "d": ["The office or rank of a sergeant."], "src": "iwb"}
+{"w": "sergeantry", "pos": "noun", "d": ["A feudal tenure of land held in return for some honorable personal service to the king."], "src": "iwb"}
+{"w": "sergeanty", "pos": "noun", "d": ["A feudal tenure of land held in return for personal service to the king."], "src": "iwb"}
+{"w": "seriate", "pos": "verb", "d": ["To arrange in a series."], "src": "iwb"}
+{"w": "seriatim", "pos": "adverb", "d": ["One after another in a series; serially."], "src": "iwb"}
+{"w": "seriation", "pos": "noun", "d": ["The act of arranging things in a series."], "src": "iwb"}
+{"w": "sericeous", "pos": "adjective", "d": ["Silky in texture, or covered with fine silky hairs."], "src": "iwb"}
+{"w": "sericin", "pos": "noun", "d": ["The sticky protein that coats the fibers of raw silk."], "src": "iwb"}
+{"w": "sericite", "pos": "noun", "d": ["A fine-grained silky variety of mica found in certain rocks."], "src": "iwb"}
+{"w": "sericterium", "pos": "noun", "d": ["The silk-secreting gland of the silkworm."], "src": "iwb"}
+{"w": "sericulture", "pos": "noun", "d": ["The raising of silkworms for the production of raw silk."], "src": "iwb"}
+{"w": "serie", "pos": "noun", "d": ["A series or ordered set of things."], "src": "iwb"}
+{"w": "seriema", "pos": "noun", "d": ["A large long-legged South American bird that hunts snakes and small animals."], "src": "iwb"}
+{"w": "series dynamo", "pos": "phrase", "d": ["A dynamo whose field coils are connected in series with the armature."], "src": "iwb"}
+{"w": "series motor", "pos": "phrase", "d": ["An electric motor with its field winding connected in series with the armature."], "src": "iwb"}
+{"w": "series turns", "pos": "phrase", "d": ["The turns of wire forming the series winding of an electric machine."], "src": "iwb"}
+{"w": "series winding", "pos": "phrase", "d": ["A winding of an electric machine connected in series with the armature."], "src": "iwb"}
+{"w": "serigraph", "pos": "noun", "d": ["A print made by the silk-screen process."], "src": "iwb"}
+{"w": "serin", "pos": "noun", "d": ["A small yellowish European finch."], "src": "iwb"}
+{"w": "serine", "pos": "noun", "d": ["An amino acid found in many proteins."], "src": "iwb"}
+{"w": "serio-comic", "pos": "adjective", "d": ["Partly serious and partly comic."], "src": "iwb"}
+{"w": "seriph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "serjeant", "pos": "noun", "d": ["A noncommissioned military officer; in Britain, the usual spelling of sergeant."], "src": "iwb"}
+{"w": "serjeantcy", "pos": "noun", "d": ["The office or rank of a serjeant."], "src": "iwb"}
+{"w": "sermocination", "pos": "noun", "d": ["Speech or talk; formal discourse."], "src": "iwb"}
+{"w": "sermocinator", "pos": "noun", "d": ["One who speaks or talks at length."], "src": "iwb"}
+{"w": "sermon", "pos": "noun", "d": ["A religious address delivered as part of worship."], "src": "iwb"}
+{"w": "sermoneer", "pos": "noun", "d": ["One who preaches or writes sermons."], "src": "iwb"}
+{"w": "sermonet", "pos": "noun", "d": ["A short sermon."], "src": "iwb"}
+{"w": "serolin", "pos": "noun", "d": ["A waxy substance found in blood serum."], "src": "iwb"}
+{"w": "seron", "pos": "noun", "d": ["A bale or package of goods wrapped in hide."], "src": "iwb"}
+{"w": "seroon", "pos": "noun", "d": ["A large bale or package of merchandise."], "src": "iwb"}
+{"w": "serose", "pos": "adjective", "d": ["Thin and watery like serum."], "src": "iwb"}
+{"w": "serosity", "pos": "noun", "d": ["The quality of being serous; a thin watery fluid."], "src": "iwb"}
+{"w": "serotherapy", "pos": "noun", "d": ["The treatment of disease with blood serum containing antitoxins."], "src": "iwb"}
+{"w": "serotine", "pos": "adjective", "d": ["Appearing late in the season."], "src": "iwb"}
+{"w": "serotinous", "pos": "adjective", "d": ["Occurring or blooming late in the season."], "src": "iwb"}
+{"w": "serous", "pos": "adjective", "d": ["Of, like, or producing serum; thin and watery."], "src": "iwb"}
+{"w": "serow", "pos": "noun", "d": ["A goatlike mammal of the mountains of Asia."], "src": "iwb"}
+{"w": "serpens", "pos": "noun", "d": ["A constellation representing a serpent."], "src": "iwb"}
+{"w": "serpent", "pos": "noun", "d": ["A snake, especially a large one."], "src": "iwb"}
+{"w": "serpent-tongued", "pos": "adjective", "d": ["Having a forked tongue like a serpent; sharp-tongued."], "src": "iwb"}
+{"w": "serpentarius", "pos": "noun", "d": ["The constellation Ophiuchus, the serpent bearer."], "src": "iwb"}
+{"w": "serpentiform", "pos": "adjective", "d": ["Shaped like a serpent."], "src": "iwb"}
+{"w": "serpentigenous", "pos": "adjective", "d": ["Sprung from or produced by serpents."], "src": "iwb"}
+{"w": "serpentine", "pos": "adjective", "d": ["Winding like a snake."], "src": "iwb"}
+{"w": "serpentinian", "pos": "adjective", "d": ["Pertaining to the mineral serpentine."], "src": "iwb"}
+{"w": "serpentinize", "pos": "verb", "d": ["To convert into the mineral serpentine."], "src": "iwb"}
+{"w": "serpentinous", "pos": "adjective", "d": ["Resembling or containing serpentine."], "src": "iwb"}
+{"w": "serpentry", "pos": "noun", "d": ["Serpents collectively."], "src": "iwb"}
+{"w": "serpet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "serpette", "pos": "noun", "d": ["A small pruning hook or knife."], "src": "iwb"}
+{"w": "serpiginous", "pos": "adjective", "d": ["Creeping, as a spreading skin eruption."], "src": "iwb"}
+{"w": "serpigo", "pos": "noun", "d": ["Ringworm; a creeping skin disease."], "src": "iwb"}
+{"w": "serpolet", "pos": "noun", "d": ["Wild thyme."], "src": "iwb"}
+{"w": "serpula", "pos": "noun", "d": ["A genus of marine tube-dwelling worms."], "src": "iwb"}
+{"w": "serpulian", "pos": "adjective", "d": ["Belonging to or like the genus Serpula."], "src": "iwb"}
+{"w": "serpulidan", "pos": "adjective", "d": ["Of or like the tube worms of the family Serpulidae."], "src": "iwb"}
+{"w": "serpulite", "pos": "noun", "d": ["A fossil serpulid worm."], "src": "iwb"}
+{"w": "serr", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "serranoid", "pos": "adjective", "d": ["Resembling a sea bass."], "src": "iwb"}
+{"w": "serratirostral", "pos": "adjective", "d": ["Having a serrated beak or bill."], "src": "iwb"}
+{"w": "serrator", "pos": "noun", "d": ["One who saws; a sawyer."], "src": "iwb"}
+{"w": "serrature", "pos": "noun", "d": ["A serrated formation or edge."], "src": "iwb"}
+{"w": "serricated", "pos": "adjective", "d": ["Notched like a saw; serrated."], "src": "iwb"}
+{"w": "serricorn", "pos": "noun", "d": ["A beetle with serrated antennae."], "src": "iwb"}
+{"w": "serrifera", "pos": "adjective", "d": ["Bearing a saw or sawlike part."], "src": "iwb"}
+{"w": "serrirostres", "pos": "noun", "d": ["Birds with serrated bills."], "src": "iwb"}
+{"w": "serrula", "pos": "noun", "d": ["A small saw."], "src": "iwb"}
+{"w": "serrulate", "pos": "adjective", "d": ["Finely serrated."], "src": "iwb"}
+{"w": "serry", "pos": "verb", "d": ["To press or crowd together in rows."], "src": "iwb"}
+{"w": "sertularia", "pos": "noun", "d": ["A genus of hydroids."], "src": "iwb"}
+{"w": "sertularian", "pos": "adjective", "d": ["Of or like the hydroid genus Sertularia."], "src": "iwb"}
+{"w": "serum-therapy", "pos": "phrase", "d": ["The treatment of disease with blood serum."], "src": "iwb"}
+{"w": "servage", "pos": "noun", "d": ["Servitude; the condition of a serf."], "src": "iwb"}
+{"w": "serval", "pos": "noun", "d": ["An African wildcat with long legs and large ears."], "src": "iwb"}
+{"w": "servaline", "pos": "adjective", "d": ["Resembling a serval."], "src": "iwb"}
+{"w": "servant", "pos": "noun", "d": ["One employed to serve another in a household."], "src": "iwb"}
+{"w": "servantess", "pos": "noun", "d": ["A female servant."], "src": "iwb"}
+{"w": "servantry", "pos": "noun", "d": ["Servants as a group."], "src": "iwb"}
+{"w": "servian", "pos": "adjective", "d": ["Of or relating to Servia, now called Serbia."], "src": "iwb"}
+{"w": "service cap", "pos": "phrase", "d": ["A soft military cap worn with the service uniform."], "src": "iwb"}
+{"w": "service hat", "pos": "phrase", "d": ["The hat worn as part of a service uniform."], "src": "iwb"}
+{"w": "service uniform", "pos": "phrase", "d": ["The standard uniform worn for ordinary duty."], "src": "iwb"}
+{"w": "servient", "pos": "noun", "d": ["The estate burdened by an easement or right of way."], "src": "iwb"}
+{"w": "serviette", "pos": "noun", "d": ["A table napkin."], "src": "iwb"}
+{"w": "servile", "pos": "adjective", "d": ["Submissive like a slave; cringing."], "src": "iwb"}
+{"w": "servility", "pos": "noun", "d": ["The quality of being servile; cringing submission."], "src": "iwb"}
+{"w": "servite", "pos": "noun", "d": ["A member of the Servite religious order."], "src": "iwb"}
+{"w": "servitor", "pos": "noun", "d": ["One who serves; an attendant."], "src": "iwb"}
+{"w": "servitude", "pos": "noun", "d": ["Slavery; forced labor or bondage."], "src": "iwb"}
+{"w": "serviture", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "servitute", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "servo-motor", "pos": "noun", "d": ["A motor that automatically maintains or adjusts its position."], "src": "iwb"}
+{"w": "serye", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sesame", "pos": "noun", "d": ["A plant whose oily seeds are used in food."], "src": "iwb"}
+{"w": "sesamoid", "pos": "adjective", "d": ["Shaped like a sesame seed, as certain small bones."], "src": "iwb"}
+{"w": "sesban", "pos": "noun", "d": ["A tropical plant of the genus Sesbania."], "src": "iwb"}
+{"w": "sesqui-", "pos": "prefix", "d": ["A prefix meaning one and a half, as in sesquipedalian."], "src": "iwb"}
+{"w": "sesquialter", "pos": "noun", "d": ["The ratio of three to two."], "src": "iwb"}
+{"w": "sesquialtera", "pos": "noun", "d": ["A pipe-organ stop sounding a twelfth above the foundation."], "src": "iwb"}
+{"w": "sesquibasic", "pos": "adjective", "d": ["Containing three equivalents of base to two of acid."], "src": "iwb"}
+{"w": "sesquiduplicate", "pos": "adjective", "d": ["In the duplicate ratio of three to two, that is, nine to four."], "src": "iwb"}
+{"w": "sesquioxide", "pos": "noun", "d": ["An oxide containing two atoms of a metal to three of oxygen."], "src": "iwb"}
+{"w": "sesquipedal", "pos": "adjective", "d": ["A foot and a half long."], "src": "iwb"}
+{"w": "sesquipedalian", "pos": "adjective", "d": ["Given to the use of long words."], "src": "iwb"}
+{"w": "sesquiplicate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sesquisalt", "pos": "noun", "d": ["A salt containing one and a half equivalents of acid to one of base."], "src": "iwb"}
+{"w": "sesquisulphide", "pos": "noun", "d": ["A sulfide of the formula M2S3, as arsenic sesquisulphide."], "src": "iwb"}
+{"w": "sesquitertial", "pos": "adjective", "d": ["In the ratio of four to three."], "src": "iwb"}
+{"w": "sesquitertian", "pos": "adjective", "d": ["In the ratio of four to three."], "src": "iwb"}
+{"w": "sesquitone", "pos": "noun", "d": ["A musical interval of three semitones; a minor third."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

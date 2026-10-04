@@ -44804,3 +44804,803 @@
 {"w": "sesquitertial", "pos": "adjective", "d": ["In the ratio of four to three."]}
 {"w": "sesquitertian", "pos": "adjective", "d": ["In the ratio of four to three."]}
 {"w": "sesquitone", "pos": "noun", "d": ["A musical interval of three semitones; a minor third."]}
+{"w":"sess","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sessa","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sessile-eyed","pos":"adjective","d":["Having eyes that sit directly on the head without stalks, as certain crabs do."]}
+{"w":"sesterce","pos":"noun","d":["An ancient Roman silver coin, the sestertius."]}
+{"w":"sestet","pos":"noun","d":["A stanza or poem of six lines.","A musical composition for six voices or instruments."]}
+{"w":"sestetto","pos":"noun","d":["A musical composition for six voices or instruments."]}
+{"w":"sestine","pos":"noun","d":["A fixed verse form of six six-line stanzas in which the six end words rotate in a set pattern."]}
+{"w":"sestuor","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"set chisel","pos":"phrase","d":["A broad-bladed chisel used for cutting or trimming metal and stone."]}
+{"w":"set-fair","pos":"adjective","d":["Fair and settled, especially of the weather."]}
+{"w":"set-off","pos":"noun","d":["Something that sets off or enhances another thing by contrast.","A counterbalance."]}
+{"w":"set-stitched","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"set-to","pos":"noun","d":["A brief fight, contest, or bout."]}
+{"w":"seta","pos":"noun","d":["A stiff hair or bristle on an animal or plant."]}
+{"w":"setaceous","pos":"adjective","d":["Resembling a bristle in form; bristly."]}
+{"w":"setee","pos":"noun","d":["A variant spelling of settee, a long seat for two or more people."]}
+{"w":"setewale","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sethic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"setiferous","pos":"adjective","d":["Bearing or producing bristles."]}
+{"w":"setiform","pos":"adjective","d":["Shaped like a bristle."]}
+{"w":"setiger","pos":"noun","d":["A body segment of a segmented worm that bears bristles."]}
+{"w":"setim","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"setiparous","pos":"adjective","d":["Producing bristles or setae."]}
+{"w":"setireme","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"seton","pos":"noun","d":["A thread passed through tissue or under the skin to keep a wound open for drainage."]}
+{"w":"setose","pos":"adjective","d":["Covered with bristles; bristly."]}
+{"w":"sett","pos":"noun","d":["A square block of stone or wood used for paving.","The burrow of a badger."]}
+{"w":"setting-up exercise","pos":"phrase","d":["A physical exercise performed from a standing position to build strength or warm up."]}
+{"w":"settledness","pos":"noun","d":["The quality or state of being settled; fixedness."]}
+{"w":"setula","pos":"noun","d":["A very small bristle."]}
+{"w":"setulose","pos":"adjective","d":["Covered with tiny bristles."]}
+{"w":"seven-shooter","pos":"noun","d":["A revolver that holds seven cartridges."]}
+{"w":"seven-thirties","pos":"noun","d":["United States Treasury notes issued during the Civil War bearing interest of seven and three-tenths percent."]}
+{"w":"seven-up","pos":"noun","d":["A card game in which seven points win the hand."]}
+{"w":"seventeenth","pos":"adjective","d":["Next after the sixteenth in order; 17th."]}
+{"w":"seventieth","pos":"adjective","d":["Next after the sixty-ninth in order; 70th."]}
+{"w":"seventy","pos":"noun","d":["The number equal to seven times ten; 70."]}
+{"w":"seventy-four","pos":"noun","d":["The number 74.","A warship carrying seventy-four guns."]}
+{"w":"sever","pos":"verb","d":["To cut apart or divide into parts.","To break off a connection or relationship."]}
+{"w":"severalty","pos":"noun","d":["The state of being separate or distinct.","Sole and separate ownership of property."]}
+{"w":"severy","pos":"noun","d":["A compartment or bay of a vaulted ceiling."]}
+{"w":"sevocation","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sevres blue","pos":"phrase","d":["A rich blue color used in decorating Sevres porcelain."]}
+{"w":"sevres ware","pos":"phrase","d":["Fine porcelain made at Sevres, France."]}
+{"w":"sew","pos":"verb","d":["To join or fasten with stitches made by a needle and thread."]}
+{"w":"sewe","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sewel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sewellel","pos":"noun","d":["The mountain beaver, a burrowing rodent of the Pacific coast."]}
+{"w":"sewin","pos":"noun","d":["A sea trout, especially in Wales."]}
+{"w":"sewster","pos":"noun","d":["An archaic term for a seamstress."]}
+{"w":"sex","pos":"noun","d":["The state of being male or female.","Sexual activity."]}
+{"w":"sex-","pos":"prefix","d":["A prefix meaning six, as in sextet."]}
+{"w":"sexagenarian","pos":"noun","d":["A person between sixty and seventy years old."]}
+{"w":"sexagenary","pos":"adjective","d":["Of or relating to the number sixty."]}
+{"w":"sexagesima","pos":"noun","d":["The second Sunday before Lent."]}
+{"w":"sexagesimal","pos":"adjective","d":["Based on or pertaining to the number sixty, as in the division of hours and degrees."]}
+{"w":"sexavalent","pos":"adjective","d":["Having a chemical valence of six."]}
+{"w":"sexdigitism","pos":"noun","d":["The condition of having six fingers or toes on a hand or foot."]}
+{"w":"sexdigitist","pos":"noun","d":["A person having six fingers or toes on a hand or foot."]}
+{"w":"sexenary","pos":"adjective","d":["Of or relating to the number six."]}
+{"w":"sexennial","pos":"adjective","d":["Occurring once every six years.","Lasting six years."]}
+{"w":"sexifid","pos":"adjective","d":["Divided into six parts or segments, as a calyx."]}
+{"w":"sexisyllabic","pos":"adjective","d":["Consisting of six syllables."]}
+{"w":"sexisyllable","pos":"noun","d":["A word of six syllables."]}
+{"w":"sexivalent","pos":"adjective","d":["Having a chemical valence of six."]}
+{"w":"sext","pos":"noun","d":["The fourth of the canonical hours, observed at midday."]}
+{"w":"sextans","pos":"noun","d":["An ancient Roman bronze coin worth one sixth of an as."]}
+{"w":"sextet","pos":"noun","d":["A group or set of six.","A musical composition for six voices or instruments."]}
+{"w":"sextetto","pos":"noun","d":["A short musical composition for six voices or instruments."]}
+{"w":"sexteyn","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sextillion","pos":"noun","d":["The number represented by one followed by twenty-one zeros."]}
+{"w":"sexto","pos":"noun","d":["A book size made by folding a sheet into six leaves."]}
+{"w":"sextodecimo","pos":"noun","d":["A book size made by folding a sheet into sixteen leaves."]}
+{"w":"sextonry","pos":"noun","d":["The office or duties of a sexton."]}
+{"w":"sextuple","pos":"adjective","d":["Six times as much; sixfold."]}
+{"w":"sey","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"seye","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"seyh","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"seynd","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"seynt","pos":"noun","d":["An archaic spelling of saint."]}
+{"w":"sforzando","pos":"adverb","d":["Played with sudden strong emphasis."]}
+{"w":"sforzato","pos":"adverb","d":["Played with sudden strong emphasis."]}
+{"w":"sfumato","pos":"noun","d":["A painting technique in which outlines are softened so tones blend imperceptibly."]}
+{"w":"sgraffito","pos":"noun","d":["Decoration made by scratching through a surface layer to reveal a different color beneath."]}
+{"w":"shab","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shabbily","pos":"adverb","d":["In a shabby manner; meanly or poorly."]}
+{"w":"shabbiness","pos":"noun","d":["The quality or state of being shabby."]}
+{"w":"shabble","pos":"noun","d":["A kind of broad cutlass or short sword."]}
+{"w":"shabby","pos":"adjective","d":["Worn, faded, or in poor condition.","Mean or unfair in behavior."]}
+{"w":"shack","pos":"noun","d":["A small, roughly built hut or cabin."]}
+{"w":"shackatory","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shackle","pos":"noun","d":["A metal band or fetter for fastening the wrist or ankle.","Anything that restrains or hampers freedom."]}
+{"w":"shad","pos":"noun","d":["A sea fish of the herring family that swims up rivers to spawn."]}
+{"w":"shad-spirit","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shad-waiter","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shadd","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shadde","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shadily","pos":"adverb","d":["In a shady manner; giving shade.","In a dishonest or suspicious manner."]}
+{"w":"shadiness","pos":"noun","d":["The quality or state of being shady; shade or shadow.","Suspicious or dishonest character."]}
+{"w":"shadoof","pos":"noun","d":["A counterbalanced sweep for raising water from a well or river."]}
+{"w":"shadowiness","pos":"noun","d":["The quality of being full of shadows or dimly lit.","A lack of clarity or distinctness."]}
+{"w":"shadowy","pos":"adjective","d":["Full of shadows or only partly lit.","Vague or hard to make out clearly."]}
+{"w":"shady","pos":"adjective","d":["Sheltered from direct sunlight.","Not fully honest or respectable."]}
+{"w":"shaffle","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shafiite","pos":"noun","d":["A follower of the Shafi'i school of Islamic law."]}
+{"w":"shag","pos":"noun","d":["A rough, tangled mass of hair, wool, or fabric.","A lively swing dance popular in the American South."]}
+{"w":"shag-haired","pos":"adjective","d":["Having long, rough, tangled hair."]}
+{"w":"shag-rag","pos":"noun","d":["A tattered rag, especially one used for dusting."]}
+{"w":"shagebush","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shagginess","pos":"noun","d":["The state or quality of being shaggy."]}
+{"w":"shaggy","pos":"adjective","d":["Covered with long, rough, unkempt hair."]}
+{"w":"shagreen","pos":"noun","d":["A rough-grained leather, often made from sharkskin, used for book covers and handles."]}
+{"w":"shah","pos":"noun","d":["A king or ruler of Iran before the 1979 revolution."]}
+{"w":"shahin","pos":"noun","d":["A large swift falcon of Central Asia, prized in falconry."]}
+{"w":"shaik","pos":"noun","d":["A Muslim leader, chief, or head of a family or tribe."]}
+{"w":"shail","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shaitan","pos":"noun","d":["An evil spirit or devil in Islamic tradition."]}
+{"w":"shaken","pos":"adjective","d":["Trembling or disturbed, as from fear or shock.","Mixed by shaking."]}
+{"w":"shakeress","pos":"noun","d":["A female member of the Shaker religious community."]}
+{"w":"shakespearean","pos":"adjective","d":["Relating to William Shakespeare or his plays and poems."]}
+{"w":"shakiness","pos":"noun","d":["The state of trembling or being unsteady."]}
+{"w":"shakings","pos":"noun","d":["Loose bits that fall off when something is shaken."]}
+{"w":"shako","pos":"noun","d":["A tall, stiff military cap, often with a plume or visor."]}
+{"w":"shakudo","pos":"noun","d":["A Japanese alloy of copper and gold used in decorative metalwork."]}
+{"w":"shaky","pos":"adjective","d":["Trembling or unsteady.","Not firm or reliable."]}
+{"w":"shale","pos":"noun","d":["A fine-grained rock that splits easily into thin layers."]}
+{"w":"shalli","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shallon","pos":"noun","d":["An evergreen shrub of western North America with leathery leaves and dark berries."]}
+{"w":"shallop","pos":"noun","d":["A small open boat moved by oars or sails."]}
+{"w":"shallot","pos":"noun","d":["A small mild-flavored onion-like vegetable used in cooking."]}
+{"w":"shallow","pos":"adjective","d":["Not deep.","Lacking serious thought or feeling."]}
+{"w":"shallow-bodied","pos":"adjective","d":["Having a body that is not deep from top to bottom."]}
+{"w":"shallow-brained","pos":"adjective","d":["Lacking depth of thought; not very intelligent."]}
+{"w":"shallow-hearted","pos":"adjective","d":["Lacking deep or sincere feeling."]}
+{"w":"shallow-pated","pos":"adjective","d":["Empty-headed; foolish."]}
+{"w":"shallow-waisted","pos":"adjective","d":["Not deep through the waist or midsection."]}
+{"w":"shalm","pos":"noun","d":["An early double-reed wind instrument, an ancestor of the oboe."]}
+{"w":"shalt","pos":"verb","d":["An old form of shall used with thou."]}
+{"w":"shaly","pos":"adjective","d":["Like shale, or containing shale."]}
+{"w":"sham","pos":"noun","d":["Something false presented as genuine."]}
+{"w":"shama","pos":"noun","d":["An Asian songbird with a long tail and a rich melodious song."]}
+{"w":"shaman","pos":"noun","d":["A person believed to heal and guide spirits in some traditional societies."]}
+{"w":"shamble","pos":"verb","d":["To walk in an awkward shuffling way."]}
+{"w":"shame-proof","pos":"adjective","d":["Incapable of feeling shame."]}
+{"w":"shammy","pos":"noun","d":["A soft leather, usually from chamois or sheepskin, used for cleaning and polishing."]}
+{"w":"shamois","pos":"noun","d":["A small goat-like antelope of the mountains of Europe."]}
+{"w":"shamoy","pos":"noun","d":["A soft pliable leather used for cleaning and polishing."]}
+{"w":"shampoo","pos":"noun","d":["A liquid soap for washing the hair."]}
+{"w":"shandrydan","pos":"noun","d":["A rickety old cart or carriage."]}
+{"w":"shandygaff","pos":"noun","d":["A drink made by mixing beer with ginger beer or lemonade."]}
+{"w":"shank","pos":"noun","d":["The part of the leg between the knee and the ankle.","The straight narrow part of an object, as of a key or an anchor."]}
+{"w":"shanny","pos":"noun","d":["A small coastal fish of the blenny family."]}
+{"w":"shanty","pos":"noun","d":["A crudely built hut or cabin.","A song once sung by sailors while working."]}
+{"w":"shapeliness","pos":"noun","d":["The quality of being well-shaped or pleasing in form."]}
+{"w":"shapoo","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shaps","pos":"noun","d":["Leather leggings worn by cowboys over trousers."]}
+{"w":"shard","pos":"noun","d":["A broken piece, especially of pottery or glass."]}
+{"w":"shard-borne","pos":"adjective","d":["Carried aloft on hard wing-cases, as a beetle."]}
+{"w":"shardy","pos":"adjective","d":["Made of or resembling shards; scaly."]}
+{"w":"sharock","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sharp-cut","pos":"adjective","d":["Cut cleanly with a sharp edge; clearly defined."]}
+{"w":"sharp-set","pos":"adjective","d":["Very hungry; eager."]}
+{"w":"sharp-sighted","pos":"adjective","d":["Having keen eyesight."]}
+{"w":"sharp-witted","pos":"adjective","d":["Quick and clever in thinking."]}
+{"w":"sharpie","pos":"noun","d":["A clever or cunning person, sometimes dishonestly so.","A long narrow shallow-draft sailboat."]}
+{"w":"shash","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shasta","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shasta daisy","pos":"noun","d":["A garden flower with large white petals around a yellow center."]}
+{"w":"shasta fir","pos":"noun","d":["A tall evergreen tree of the mountains of the western United States."]}
+{"w":"shasta sam","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shaster","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shastra","pos":"noun","d":["A Hindu work of sacred or scholarly writing."]}
+{"w":"shathmont","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shatter","pos":"verb","d":["To break suddenly into many pieces.","To destroy completely."]}
+{"w":"shatter-brained","pos":"adjective","d":["Having a disordered mind; scatterbrained."]}
+{"w":"shatter-pated","pos":"adjective","d":["Scatterbrained or flighty."]}
+{"w":"shattery","pos":"adjective","d":["Easily shattered; brittle.","Disordered in mind."]}
+{"w":"shave","pos":"verb","d":["To cut hair close to the skin with a razor.","To slice off a thin piece."]}
+{"w":"shawl","pos":"noun","d":["A large piece of cloth worn over the shoulders or head."]}
+{"w":"shawm","pos":"noun","d":["An early double-reed wind instrument, an ancestor of the oboe."]}
+{"w":"shawnees","pos":"noun","d":["Members of a Native American people of the eastern United States."]}
+{"w":"shay","pos":"noun","d":["A light two-wheeled carriage."]}
+{"w":"shea tree","pos":"noun","d":["An African tree whose nuts yield shea butter."]}
+{"w":"sheading","pos":"noun","d":["A small administrative district on the Isle of Man."]}
+{"w":"sheaf","pos":"noun","d":["A bundle of stalks, as of wheat, tied together.","A bundle of papers."]}
+{"w":"sheafy","pos":"adjective","d":["Like a sheaf; gathered in bundles."]}
+{"w":"shear","pos":"verb","d":["To cut off wool or hair with shears.","To slide one part of a material past another under force."]}
+{"w":"shear steel","pos":"noun","d":["A strong steel made by welding strips of blister steel together."]}
+{"w":"sheard","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shearn","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sheatfish","pos":"noun","d":["A very large freshwater catfish of Europe."]}
+{"w":"sheath","pos":"noun","d":["A case or covering for a blade."]}
+{"w":"sheath-winged","pos":"adjective","d":["Having the front wings hardened into protective covers, as beetles."]}
+{"w":"sheathe","pos":"verb","d":["To put into a sheath."]}
+{"w":"sheathy","pos":"adjective","d":["Forming or resembling a sheath."]}
+{"w":"shechinah","pos":"noun","d":["The divine presence in Jewish tradition."]}
+{"w":"shecklaton","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sheelfa","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sheeling","pos":"noun","d":["A small hut or shelter, especially for shepherds."]}
+{"w":"sheely","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sheeny","pos":"adjective","d":["Having a soft shine or glossy luster."]}
+{"w":"sheep-faced","pos":"adjective","d":["Having a timid or bashful expression, like a sheep."]}
+{"w":"sheep-headed","pos":"adjective","d":["Stupid or dull-witted."]}
+{"w":"sheep-shearer","pos":"noun","d":["A person whose work is shearing the wool from sheep."]}
+{"w":"sheep-shearing","pos":"noun","d":["The act or season of cutting wool from sheep."]}
+{"w":"sheepshead","pos":"noun","d":["A sea fish with broad teeth resembling those of a sheep.","A card game of the skat family played with thirty-two cards."]}
+{"w":"sheepy","pos":"adjective","d":["Resembling a sheep in appearance or character."]}
+{"w":"sheet anchor","pos":"noun","d":["A ship's large emergency anchor, kept as a last resort.","A person or thing depended on in an emergency."]}
+{"w":"sheet cable","pos":"noun","d":["The cable belonging to a ship's sheet anchor."]}
+{"w":"sheet chain","pos":"noun","d":["A chain cable used with a sheet anchor."]}
+{"w":"sheik","pos":"noun","d":["An Arab chief, ruler, or head of a family or tribe."]}
+{"w":"sheil","pos":"noun","d":["A small hut or shelter, especially a shepherd's hut in the Scottish hills."]}
+{"w":"sheitan","pos":"noun","d":["An evil spirit or devil in Muslim belief."]}
+{"w":"shekel","pos":"noun","d":["An ancient Hebrew unit of weight and a silver coin.","In slang, a dollar or a sum of money."]}
+{"w":"shekinah","pos":"noun","d":["The visible presence or dwelling of God among people, in Jewish theology."]}
+{"w":"sheld","pos":"adjective","d":["Parti-colored or variegated."]}
+{"w":"sheldafle","pos":"noun","d":["An old variant spelling of sheldrake, a large parti-colored duck."]}
+{"w":"sheldaple","pos":"noun","d":["An old variant spelling of sheldrake, a large parti-colored duck."]}
+{"w":"shelduck","pos":"noun","d":["A large duck with boldly patterned black, white, and chestnut plumage."]}
+{"w":"shelfy","pos":"adjective","d":["Furnished with shelves.","Sloping gradually like a shelf, as a shoreline."]}
+{"w":"shell-lac","pos":"noun","d":["A resin secreted by the lac insect, used in varnish; shellac."]}
+{"w":"shellac","pos":"noun","d":["A glossy varnish made from lac resin dissolved in alcohol."]}
+{"w":"shelly","pos":"adjective","d":["Abounding in shells.","Resembling a shell."]}
+{"w":"sheltery","pos":"adjective","d":["Affording shelter; sheltered."]}
+{"w":"sheltie","pos":"noun","d":["A Shetland sheepdog.","A Shetland pony."]}
+{"w":"shelty","pos":"noun","d":["A Shetland pony."]}
+{"w":"shelve","pos":"verb","d":["To place on a shelf.","To lay aside or postpone indefinitely."]}
+{"w":"shelvy","pos":"adjective","d":["Sloping gradually, as a beach or riverbed."]}
+{"w":"shemitic","pos":"adjective","d":["Of or relating to the Semites; Semitic."]}
+{"w":"shemitish","pos":"adjective","d":["Somewhat Semitic in character."]}
+{"w":"shemitism","pos":"noun","d":["Semitism; Jewish character or influence."]}
+{"w":"shend","pos":"verb","d":["To put to shame; to disgrace."]}
+{"w":"shent","pos":"verb","d":["Past tense and past participle of shend."]}
+{"w":"sheol","pos":"noun","d":["In Hebrew belief, the abode of the dead; the underworld."]}
+{"w":"shepherdess","pos":"noun","d":["A woman or girl who tends sheep."]}
+{"w":"shepherdia","pos":"noun","d":["A genus of North American shrubs bearing silvery leaves and red berries, the buffaloberries."]}
+{"w":"shepster","pos":"noun","d":["A shepherd."]}
+{"w":"sherardize","pos":"verb","d":["To coat iron or steel with zinc by heating it in zinc dust."]}
+{"w":"sherbet","pos":"noun","d":["A frozen dessert made of fruit juice, sugar, and milk or water.","A sweet Middle Eastern drink of fruit juice and water."]}
+{"w":"sherd","pos":"noun","d":["A fragment of broken pottery."]}
+{"w":"sheriat","pos":"noun","d":["Islamic religious law; sharia."]}
+{"w":"sherif","pos":"noun","d":["A variant spelling of sheriff.","An Arab prince or noble, especially a descendant of Muhammad; sharif."]}
+{"w":"sheriffalty","pos":"noun","d":["The office or term of office of a sheriff."]}
+{"w":"shern","pos":"noun","d":["The dung of cattle, in Scots usage."]}
+{"w":"sherris","pos":"noun","d":["Sherry wine, in old usage."]}
+{"w":"sherry","pos":"noun","d":["A fortified wine originally from Jerez, Spain."]}
+{"w":"sherryvallies","pos":"noun","d":["Leather leggings worn over trousers for riding."]}
+{"w":"shet","pos":"verb","d":["To shut, in dialectal or archaic usage."]}
+{"w":"shete","pos":"verb","d":["To shoot, in archaic usage."]}
+{"w":"sheth","pos":"noun","d":["An obsolete variant spelling of sheath."]}
+{"w":"shetland pony","pos":"noun","d":["A small, hardy breed of pony from the Shetland Islands."]}
+{"w":"shew","pos":"verb","d":["An archaic spelling of show."]}
+{"w":"shewel","pos":"noun","d":["A scarecrow, in dialectal usage."]}
+{"w":"shewn","pos":"verb","d":["An archaic past participle of show."]}
+{"w":"shiah","pos":"noun","d":["A member of the Shia branch of Islam.","The Shia branch of Islam itself."]}
+{"w":"shibboleth","pos":"noun","d":["A word, custom, or belief that distinguishes one group from another.","A test word used to detect outsiders."]}
+{"w":"shicer","pos":"noun","d":["In Australian slang, an unproductive mine.","A worthless person or thing."]}
+{"w":"shide","pos":"noun","d":["A thin board or plank; a splinter."]}
+{"w":"shie","pos":"adjective","d":["A variant spelling of shy."]}
+{"w":"shiel","pos":"noun","d":["A small hut or shelter, especially a shepherd's hut in the Scottish hills."]}
+{"w":"shield-bearer","pos":"noun","d":["An attendant who carries a warrior's shield."]}
+{"w":"shiftiness","pos":"noun","d":["The quality of being shifty or evasive."]}
+{"w":"shifty","pos":"adjective","d":["Evasive and untrustworthy in behavior.","Quick to change; resourceful."]}
+{"w":"shiite","pos":"noun","d":["An adherent of Shia Islam."]}
+{"w":"shikaree","pos":"noun","d":["A variant spelling of shikari, an Indian hunter or hunting guide."]}
+{"w":"shikari","pos":"noun","d":["A hunter, especially of big game in India.","An Indian hunting guide."]}
+{"w":"shilf","pos":"noun","d":["The chaffinch, in dialectal usage."]}
+{"w":"shilfa","pos":"noun","d":["A variant of shilf, the chaffinch."]}
+{"w":"shill","pos":"noun","d":["A person who poses as a satisfied customer to lure others into buying or betting."]}
+{"w":"shill-i-shall-i","pos":"noun","d":["An indecisive person; one who shilly-shallies."]}
+{"w":"shillalah","pos":"noun","d":["A variant spelling of shillelagh, an Irish wooden cudgel."]}
+{"w":"shillelah","pos":"noun","d":["A variant spelling of shillelagh, an Irish wooden cudgel."]}
+{"w":"shilly-shally","pos":"verb","d":["To hesitate or vacillate; to be indecisive."]}
+{"w":"shiloh","pos":"noun","d":["An ancient town in Palestine mentioned in the Bible.","A Civil War battle fought in Tennessee in 1862."]}
+{"w":"shily","pos":"adverb","d":["In a shy manner; bashfully."]}
+{"w":"shim","pos":"noun","d":["A thin wedge or strip used to fill a gap or level machinery."]}
+{"w":"shimmy","pos":"noun","d":["A shaking or wobbling motion.","A lively dance with shaking movements."]}
+{"w":"shin","pos":"noun","d":["The front of the lower leg between knee and ankle."]}
+{"w":"shin shu","pos":"noun","d":["A Japanese Buddhist sect teaching salvation through faith in Amida Buddha; Shinshu."]}
+{"w":"shindle","pos":"noun","d":["A variant spelling of shingle, a thin roofing tile."]}
+{"w":"shindy","pos":"noun","d":["A noisy quarrel or disturbance; a brawl."]}
+{"w":"shiness","pos":"noun","d":["The quality or state of being shy."]}
+{"w":"shingle","pos":"noun","d":["A thin piece of wood used as a roof or wall tile.","Small rounded pebbles on a beach."]}
+{"w":"shingly","pos":"adjective","d":["Covered with shingle or small pebbles."]}
+{"w":"shinney","pos":"noun","d":["A simple game like field hockey, played with a curved stick; shinny."]}
+{"w":"shintiism","pos":"noun","d":["A variant term for Shintoism, the indigenous religion of Japan."]}
+{"w":"shintiyan","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shinto","pos":"noun","d":["The indigenous religion of Japan, centered on the worship of kami spirits."]}
+{"w":"shinty","pos":"noun","d":["A Scottish game like field hockey, played with curved sticks."]}
+{"w":"shintyan","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"shiny","pos":"adjective","d":["Bright with reflected light; gleaming."]}
+{"w":"ship railway","pos":"noun","d":["A railway for hauling ships overland between bodies of water."]}
+{"w":"ship-rigged","pos":"adjective","d":["Rigged as a full-rigged ship, with square sails on all masts."]}
+{"w":"shipping note","pos":"noun","d":["A document noting the shipment of goods; a shipping advice."]}
+{"w":"shippo","pos":"noun","d":["Japanese cloisonne enamelware."]}
+{"w":"shippon","pos":"noun","d":["A cowshed or cattle shed, in dialectal usage."]}
+{"w":"shiraz","pos":"noun","d":["A city in southwestern Iran famed for poetry and wine.","A dark red wine made from Syrah grapes."]}
+{"w":"shire","pos":"noun","d":["A county in England."]}
+{"w":"shire horse","pos":"noun","d":["A large, powerful breed of draft horse from England."]}
+{"w":"shirk","pos":"verb","d":["To evade or neglect a duty or task.","To avoid work; to malinger."]}
+{"w": "shirky", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shirl", "pos": "verb", "d": ["To gather cloth into puckers with parallel rows of stitching, as in shirring."]}
+{"w": "shirley", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shirr", "pos": "verb", "d": ["To draw fabric together into puckers with parallel rows of stitching.", "To bake eggs removed from the shell in a shallow dish."]}
+{"w": "shirt waist", "pos": "noun", "d": ["A woman's blouse cut and finished in the style of a man's shirt."]}
+{"w": "shirt-waist suit", "pos": "noun", "d": ["A woman's suit made up of a shirtwaist blouse with a matching skirt."]}
+{"w": "shist", "pos": "noun", "d": ["A variant spelling of schist, a layered rock that splits into thin plates."]}
+{"w": "shistose", "pos": "adjective", "d": ["Having the layered, flaky structure of schist."]}
+{"w": "shittah", "pos": "noun", "d": ["An acacia tree named in the Bible, prized for its hard durable wood."]}
+{"w": "shittah tree", "pos": "phrase", "d": ["The biblical acacia tree that furnished shittim wood."]}
+{"w": "shittim", "pos": "noun", "d": ["The hard wood of the shittah tree, used in the biblical tabernacle."]}
+{"w": "shittim wood", "pos": "phrase", "d": ["Timber from the shittah tree, valued in ancient times for building."]}
+{"w": "shittle", "pos": "noun", "d": ["A dialectal variant of shuttle, the implement that carries the weft in weaving."]}
+{"w": "shive", "pos": "noun", "d": ["A thin slice or fragment, as of bread.", "A small wooden plug or bung used to close a barrel's taphole."]}
+{"w": "shiver-spar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shiveringly", "pos": "adverb", "d": ["In a shivering manner; with trembling."]}
+{"w": "shivery", "pos": "adjective", "d": ["Trembling or shaking, as with cold or fear.", "Easily broken into splinters; brittle."]}
+{"w": "shizoku", "pos": "noun", "d": ["The former warrior class of Japan, ranking below the nobility and including the samurai."]}
+{"w": "shoad", "pos": "noun", "d": ["Loose fragments of ore found at the surface, pointing to a vein below."]}
+{"w": "shoal", "pos": "noun", "d": ["A shallow place in a body of water.", "A large number of fish swimming together."]}
+{"w": "shoaliness", "pos": "noun", "d": ["The state or quality of being shoal; shallowness of water."]}
+{"w": "shoaly", "pos": "adjective", "d": ["Full of shoals; shallow and hazardous to boats."]}
+{"w": "shoar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shoat", "pos": "noun", "d": ["A young pig, especially one newly weaned."]}
+{"w": "shod", "pos": "verb", "d": ["Past tense and past participle of shoe."]}
+{"w": "shoddy", "pos": "adjective", "d": ["Made from inferior reworked wool; cheap and poorly made.", "Pretentious yet actually cheap; tawdry."]}
+{"w": "shoddy fever", "pos": "phrase", "d": ["A feverish illness once common among workers breathing the dust of shoddy mills."]}
+{"w": "shode", "pos": "noun", "d": ["A variant of shoad, loose surface ore marking a vein below."]}
+{"w": "shoeing-horn", "pos": "noun", "d": ["A curved implement used to guide the heel into a shoe; a shoehorn."]}
+{"w": "shog", "pos": "verb", "d": ["To shake or jolt roughly; to jog."]}
+{"w": "shoggle", "pos": "verb", "d": ["To shake or joggle repeatedly with small jerks."]}
+{"w": "shogun", "pos": "noun", "d": ["The hereditary military ruler of Japan under the old feudal system."]}
+{"w": "shola", "pos": "noun", "d": ["An East Indian plant whose light pith is used for sun helmets and ornaments."]}
+{"w": "shole", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shonde", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shone", "pos": "verb", "d": ["Past tense and past participle of shine."]}
+{"w": "shoo", "pos": "verb", "d": ["To drive away by crying 'shoo'."]}
+{"w": "shooi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shook", "pos": "verb", "d": ["Past tense and past participle of shake."]}
+{"w": "shoon", "pos": "noun", "d": ["An old plural of shoe."]}
+{"w": "shoop", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shooty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shoppy", "pos": "adjective", "d": ["Abounding in shops; commercial in a petty or commonplace way."]}
+{"w": "shorage", "pos": "noun", "d": ["A duty charged on goods landed on shore; shore dues."]}
+{"w": "shorl", "pos": "noun", "d": ["A variant spelling of schorl, a black form of the mineral tourmaline."]}
+{"w": "shorlaceous", "pos": "adjective", "d": ["Resembling or containing schorl, a black tourmaline."]}
+{"w": "shorn", "pos": "adjective", "d": ["Cut off or clipped, as wool from a sheep.", "Stripped or deprived of something."]}
+{"w": "short circuit", "pos": "phrase", "d": ["An electrical connection of very low resistance that causes excessive current to flow."]}
+{"w": "short-breathed", "pos": "adjective", "d": ["Having difficulty breathing; short of breath."]}
+{"w": "short-circuit", "pos": "verb", "d": ["To connect with a short circuit.", "To bypass or frustrate by direct, unexpected action."]}
+{"w": "short-dated", "pos": "adjective", "d": ["Having only a short time left before payment is due or a term expires."]}
+{"w": "short-handed", "pos": "adjective", "d": ["Lacking enough workers or crew to do the work properly."]}
+{"w": "short-jointed", "pos": "adjective", "d": ["Having short segments between the joints, as a horse's legs."]}
+{"w": "short-lived", "pos": "adjective", "d": ["Living or lasting only a short time."]}
+{"w": "short-spoken", "pos": "adjective", "d": ["Speaking in few words; curt or laconic."]}
+{"w": "short-waisted", "pos": "adjective", "d": ["Having a short waist or torso.", "Made short between shoulders and waist, as a garment."]}
+{"w": "short-winded", "pos": "adjective", "d": ["Easily put out of breath by exertion."]}
+{"w": "short-wited", "pos": "adjective", "d": ["Having little wit or sense; silly."]}
+{"w": "shory", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shoshones", "pos": "noun", "d": ["Plural of Shoshone, a Native American people of the western United States."]}
+{"w": "shot samples", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shot-clog", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shot-free", "pos": "adjective", "d": ["Free from paying one's share of a reckoning; scot-free.", "Beyond the reach of shot; safe from gunfire."]}
+{"w": "shot-proof", "pos": "adjective", "d": ["Able to withstand the impact of shot; bulletproof."]}
+{"w": "shote", "pos": "noun", "d": ["A young hog; a shoat."]}
+{"w": "shough", "pos": "noun", "d": ["A shaggy lapdog; a shock dog."]}
+{"w": "shoulder-shotten", "pos": "adjective", "d": ["Sprained in the shoulder, as a horse."]}
+{"w": "shout", "pos": "verb", "d": ["To cry out in a loud voice.", "To utter with a loud call."]}
+{"w": "shove", "pos": "verb", "d": ["To push with force, especially roughly or hastily."]}
+{"w": "shovel", "pos": "noun", "d": ["A broad-bladed hand implement for digging and throwing loose material such as earth or coal.", "A power-driven machine for excavating."]}
+{"w": "shovel-nosed", "pos": "adjective", "d": ["Having a broad flat snout shaped like a shovel."]}
+{"w": "shoven", "pos": "verb", "d": ["An old past participle of shove."]}
+{"w": "showeriness", "pos": "noun", "d": ["The quality or state of being showery; frequent light rain."]}
+{"w": "showery", "pos": "adjective", "d": ["Raining in showers; marked by brief falls of rain."]}
+{"w": "showily", "pos": "adverb", "d": ["In a showy manner; with ostentatious display."]}
+{"w": "showiness", "pos": "noun", "d": ["The quality of being showy; ostentatious display."]}
+{"w": "showy", "pos": "adjective", "d": ["Making an ostentatious display; gaudy or striking in appearance."]}
+{"w": "shrag", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shram", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shrank", "pos": "verb", "d": ["Past tense of shrink."]}
+{"w": "shrap", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shrape", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shrapnel", "pos": "noun", "d": ["Fragments scattered by an exploding artillery shell.", "An artillery shell filled with bullets that scatter when it bursts."]}
+{"w": "shred", "pos": "noun", "d": ["A long narrow strip torn or cut off from a larger piece.", "A scrap or particle; the smallest bit."]}
+{"w": "shreddy", "pos": "adjective", "d": ["Consisting of or resembling shreds; ragged."]}
+{"w": "shrew", "pos": "noun", "d": ["A small insect-eating mammal resembling a mouse with a pointed snout.", "A scolding or ill-tempered woman."]}
+{"w": "shrewd", "pos": "adjective", "d": ["Clever and practical in judgment; astute."]}
+{"w": "shriek", "pos": "verb", "d": ["To utter a sharp shrill cry.", "To utter with a shriek."]}
+{"w": "shrieval", "pos": "adjective", "d": ["Pertaining to a sheriff or the office of sheriff."]}
+{"w": "shrievalty", "pos": "noun", "d": ["The office or jurisdiction of a sheriff."]}
+{"w": "shrieve", "pos": "verb", "d": ["An old form of shrive, to hear confession and grant absolution."]}
+{"w": "shrift", "pos": "noun", "d": ["Confession made to a priest, or the absolution following it."]}
+{"w": "shright", "pos": "verb", "d": ["An old past tense and past participle of shriek."]}
+{"w": "shrike", "pos": "noun", "d": ["A predatory songbird that impales its prey on thorns."]}
+{"w": "shrill", "pos": "adjective", "d": ["High-pitched and piercing in sound."]}
+{"w": "shrill-gorged", "pos": "adjective", "d": ["Having a shrill throat or voice."]}
+{"w": "shrill-tongued", "pos": "adjective", "d": ["Speaking with a shrill voice; shrill-voiced."]}
+{"w": "shrilly", "pos": "adverb", "d": ["In a shrill manner; with a high piercing sound."]}
+{"w": "shrimp", "pos": "noun", "d": ["A small long-tailed shellfish, valued as food.", "A small or insignificant person."]}
+{"w": "shrine", "pos": "noun", "d": ["A place of worship associated with something sacred.", "A container or tomb holding sacred relics."]}
+{"w": "shrink", "pos": "verb", "d": ["To become smaller or make something smaller in size or amount.", "To pull back or flinch away from something frightening or unpleasant."]}
+{"w": "shrivalty", "pos": "noun", "d": ["The office or jurisdiction of a sheriff."]}
+{"w": "shrive", "pos": "verb", "d": ["To hear the confession of a penitent and grant absolution."]}
+{"w": "shrivel", "pos": "verb", "d": ["To wrinkle and shrink, as from heat, cold, or drying."]}
+{"w": "shriven", "pos": "adjective", "d": ["Having confessed and received absolution."]}
+{"w": "shroff", "pos": "noun", "d": ["A money changer or banker in parts of Asia."]}
+{"w": "shrood", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shropshire", "pos": "noun", "d": ["A county in west-central England.", "A breed of sheep originally raised in Shropshire."]}
+{"w": "shroud", "pos": "noun", "d": ["A cloth used to wrap a dead body for burial.", "Something that covers or hides, like a veil."]}
+{"w": "shroud-laid", "pos": "adjective", "d": ["Said of rope made with four strands twisted around a core instead of the usual three."]}
+{"w": "shroudy", "pos": "adjective", "d": ["Resembling a burial shroud; dark and concealing."]}
+{"w": "shrove", "pos": "noun", "d": ["The Tuesday before the start of Lent, when confession was traditionally made."]}
+{"w": "shrow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shrowd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shrub", "pos": "noun", "d": ["A woody plant smaller than a tree, usually with several stems rising from the base.", "A sweetened drink made from fruit juice, vinegar, and sugar."]}
+{"w": "shrubbery", "pos": "noun", "d": ["A planting of shrubs; a place where shrubs grow."]}
+{"w": "shrubbiness", "pos": "noun", "d": ["The quality or state of being shrubby."]}
+{"w": "shrubby", "pos": "adjective", "d": ["Full of or covered with shrubs.", "Resembling a shrub in growth."]}
+{"w": "shruff", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shrug", "pos": "verb", "d": ["To raise the shoulders briefly to show doubt, indifference, or helplessness."]}
+{"w": "shrunken", "pos": "adjective", "d": ["Made smaller or shriveled in size."]}
+{"w": "shuck", "pos": "verb", "d": ["To remove the outer husk or shell from, as from an ear of corn."]}
+{"w": "shudder", "pos": "verb", "d": ["To shake or tremble suddenly, as from fear, cold, or disgust."]}
+{"w": "shudderingly", "pos": "adverb", "d": ["In a way that trembles or shakes, as with fear or cold."]}
+{"w": "shude", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shuffle", "pos": "verb", "d": ["To mix playing cards so as to change their order.", "To walk without lifting the feet fully, dragging them along the ground."]}
+{"w": "shug", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shumac", "pos": "noun", "d": ["A variant spelling of sumac, a shrub or small tree bearing clusters of red berries."]}
+{"w": "shun", "pos": "verb", "d": ["To deliberately avoid or keep away from a person or thing."]}
+{"w": "shunt", "pos": "verb", "d": ["To turn aside or divert, as traffic or an electric current, onto another path."]}
+{"w": "shunt valve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "shunt winding", "pos": "phrase", "d": ["A field winding connected in parallel with the armature of an electric motor or generator."]}
+{"w": "shute", "pos": "noun", "d": ["A variant spelling of chute, a sloped channel for sliding things down."]}
+{"w": "shwan-pan", "pos": "noun", "d": ["An early English spelling of suanpan, the Chinese abacus used for arithmetic."]}
+{"w": "shy", "pos": "adjective", "d": ["Uneasy or reserved around other people; timid in social situations.", "Short of a needed amount, as in being shy of the target."]}
+{"w": "shyster", "pos": "noun", "d": ["A dishonest person, especially a lawyer who uses unethical methods."]}
+{"w": "si quis", "pos": "phrase", "d": ["Latin for if anyone, used in a public notice asking whether anyone knows a reason a proposed marriage should not take place."]}
+{"w": "siaga", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sialogogue", "pos": "noun", "d": ["A drug or substance that increases the flow of saliva."]}
+{"w": "siamang", "pos": "noun", "d": ["A large black gibbon of Sumatra and the Malay Peninsula, known for its loud calls."]}
+{"w": "siamese", "pos": "adjective", "d": ["Relating to Siam, the former name of Thailand.", "Joined together at birth, as in Siamese twins."]}
+{"w": "sib", "pos": "noun", "d": ["A relative by blood; kin.", "A brother or sister; a sibling."]}
+{"w": "sibbens", "pos": "noun", "d": ["A contagious skin disease once common in Scotland, resembling yaws."]}
+{"w": "siberian", "pos": "adjective", "d": ["Relating to Siberia, the vast region of northern Asia."]}
+{"w": "sibilance", "pos": "noun", "d": ["The quality of making a hissing sound in speech, as with the letter s."]}
+{"w": "sibilancy", "pos": "noun", "d": ["A variant of sibilance, the quality of hissing in speech."]}
+{"w": "sibilant", "pos": "adjective", "d": ["Making a hissing sound, like s or sh in speech."]}
+{"w": "sibilate", "pos": "verb", "d": ["To make a hissing sound."]}
+{"w": "sibilation", "pos": "noun", "d": ["A hissing sound."]}
+{"w": "sibilatory", "pos": "adjective", "d": ["Making or tending to make a hissing sound."]}
+{"w": "sibilous", "pos": "adjective", "d": ["Hissing; having a sibilant quality."]}
+{"w": "sibyl", "pos": "noun", "d": ["A woman in ancient times believed to utter the oracles and prophecies of the gods."]}
+{"w": "sicamore", "pos": "noun", "d": ["An older variant spelling of sycamore, a large shade tree."]}
+{"w": "sicca", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "siccative", "pos": "noun", "d": ["A substance added to paints or oils to make them dry faster."]}
+{"w": "siccific", "pos": "adjective", "d": ["Tending to cause dryness."]}
+{"w": "sice", "pos": "noun", "d": ["The face of a die showing six spots; a throw of six."]}
+{"w": "sich", "pos": "adjective", "d": ["A dialectal variant of such."]}
+{"w": "sicilian", "pos": "adjective", "d": ["Relating to Sicily, the island south of Italy, or its people."]}
+{"w": "siciliano", "pos": "noun", "d": ["A Sicilian dance in slow six-eight time, or a musical piece written in its style."]}
+{"w": "sicilienne", "pos": "noun", "d": ["The French form of siciliano, a dance or musical piece in Sicilian style."]}
+{"w": "sick-brained", "pos": "adjective", "d": ["Having an unsound or disordered mind."]}
+{"w": "sickle", "pos": "noun", "d": ["A hand tool with a curved blade used for cutting grain or grass."]}
+{"w": "sickliness", "pos": "noun", "d": ["The state or quality of being often or habitually ill."]}
+{"w": "sicle", "pos": "noun", "d": ["A variant spelling of sickle, the curved harvesting tool."]}
+{"w": "sida", "pos": "noun", "d": ["A large genus of tropical plants in the mallow family."]}
+{"w": "siddow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "side line", "pos": "phrase", "d": ["A line marking the side boundary of a playing field or court.", "A secondary activity or source of income besides one's main work."]}
+{"w": "side slip", "pos": "phrase", "d": ["An aircraft maneuver in which the plane moves sideways through the air while descending.", "A sideways skid or slide."]}
+{"w": "side-chain theory", "pos": "phrase", "d": ["An early theory of immunity holding that cells bear side chains that seize toxins and are shed as antibodies."]}
+{"w": "side-slip", "pos": "noun", "d": ["A sideways slip, especially of an aircraft moving laterally while descending."]}
+{"w": "side-taking", "pos": "noun", "d": ["The act of choosing and supporting one side in a dispute."]}
+{"w": "side-wheel", "pos": "noun", "d": ["A paddle wheel mounted on the side of a steamboat."]}
+{"w": "siderated", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sidereous", "pos": "adjective", "d": ["Relating to the stars; starry."]}
+{"w": "siderographic", "pos": "adjective", "d": ["Relating to siderography, the art of engraving on steel."]}
+{"w": "siderographist", "pos": "noun", "d": ["One who practices siderography, the art of engraving on steel."]}
+{"w": "siderography", "pos": "noun", "d": ["The art or process of engraving on steel plates."]}
+{"w": "siderolite", "pos": "noun", "d": ["A stony-iron meteorite, composed of both stone and metallic iron."]}
+{"w": "sideroscope", "pos": "noun", "d": ["An instrument for detecting the presence of iron by its effect on a magnetic needle."]}
+{"w": "siderosis", "pos": "noun", "d": ["A lung disease caused by long-continued inhaling of iron dust."]}
+{"w": "siderostat", "pos": "noun", "d": ["An instrument with a slowly turning mirror that keeps a star's light fixed in a telescope as the earth rotates."]}
+{"w": "sideroxylon", "pos": "noun", "d": ["A genus of tropical trees valued for their very hard wood, often called ironwood."]}
+{"w": "sidesman", "pos": "noun", "d": ["A church officer who assists the churchwardens, especially in the Church of England."]}
+{"w": "sideways", "pos": "adverb", "d": ["Toward or from the side; in a lateral direction."]}
+{"w": "sidle", "pos": "verb", "d": ["To move sideways or edge along quietly, as if trying not to be noticed."]}
+{"w": "siege", "pos": "noun", "d": ["A military operation in which an army surrounds a fortified place to force its surrender."]}
+{"w": "siemens-martin process", "pos": "phrase", "d": ["A method of making steel by melting pig iron and scrap in an open-hearth furnace."]}
+{"w": "siemens-martin steel", "pos": "phrase", "d": ["Steel produced by the Siemens-Martin open-hearth process."]}
+{"w": "sienite", "pos": "noun", "d": ["A variant spelling of syenite, a coarse-grained igneous rock."]}
+{"w": "sienitic", "pos": "adjective", "d": ["Relating to or resembling syenite rock."]}
+{"w": "sienna", "pos": "noun", "d": ["A reddish-brown earthy pigment used in painting.", "A city in Tuscany, Italy, from which the pigment takes its name."]}
+{"w": "siennese", "pos": "adjective", "d": ["Relating to Siena, Italy, or its people and art."]}
+{"w": "siesta", "pos": "noun", "d": ["A short rest or nap taken in the early afternoon."]}
+{"w": "sieur", "pos": "noun", "d": ["A French title of respect for a man, corresponding to sir or mister."]}
+{"w": "sieva", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sieve", "pos": "noun", "d": ["A utensil with a mesh or perforated bottom used for sifting or straining."]}
+{"w": "sifac", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sifflement", "pos": "noun", "d": ["A whistling or hissing sound."]}
+{"w": "sifilet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w":"sift","pos":"verb","d":["To pass a substance through a sieve or screen to separate the fine particles from the coarse ones.","To examine something carefully in order to find what is wanted."]}
+{"w":"sigaultian","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sigh","pos":"noun","d":["A long deep audible breath expressing weariness, relief, or some other emotion.","The act or sound of breathing out in this way."]}
+{"w":"sigh-born","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sight-hole","pos":"noun","d":["A hole or opening through which a person looks, especially when aiming a weapon or observing something."]}
+{"w":"sight-seeing","pos":"noun","d":["The activity of visiting places of interest as a tourist."]}
+{"w":"sight-seer","pos":"noun","d":["A person who goes sightseeing; a tourist visiting places of interest."]}
+{"w":"sight-shot","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sightliness","pos":"noun","d":["The quality of being pleasant or attractive to look at."]}
+{"w":"sightsman","pos":"noun","d":["A person skilled in aiming firearms by means of their sights."]}
+{"w":"sigil","pos":"noun","d":["An engraved sign, symbol, or seal believed to have magical power.","A small seal or signet."]}
+{"w":"sigillaria","pos":"noun","d":["An extinct genus of large tree-like plants of the Carboniferous period, preserved as fossils."]}
+{"w":"sigillarid","pos":"noun","d":["A fossil plant of the family related to Sigillaria."]}
+{"w":"sigla","pos":"noun","d":["Plural of siglum; signs, abbreviations, or initial letters used as marks."]}
+{"w":"sigmodont","pos":"adjective","d":["Belonging to or characteristic of a group of New World rats and mice."]}
+{"w":"sigmoid","pos":"adjective","d":["Curved in two opposite directions like the letter S or the Greek letter sigma.","Relating to the sigmoid colon, the S-shaped part of the large intestine."]}
+{"w":"signatory","pos":"noun","d":["A person or party that has signed a document or agreement."]}
+{"w":"signifer","pos":"noun","d":["A standard-bearer in the ancient Roman army."]}
+{"w":"significancy","pos":"noun","d":["The quality or state of being significant; meaning or importance."]}
+{"w":"significate","pos":"noun","d":["That which is signified; the meaning expressed by a word or sign."]}
+{"w":"signification","pos":"noun","d":["The meaning that a word, sign, or symbol conveys.","The act of signifying or making known."]}
+{"w":"significative","pos":"adjective","d":["Serving as a sign; expressing or conveying meaning."]}
+{"w":"significator","pos":"noun","d":["One who or that which signifies, indicates, or gives meaning."]}
+{"w":"significatory","pos":"adjective","d":["Expressing or conveying signification; serving as a sign."]}
+{"w":"significavit","pos":"noun","d":["A former English writ issued from Chancery upon an ecclesiastical certificate that a person stood excommunicated."]}
+{"w":"signior","pos":"noun","d":["An Italian title of respect for a man, equivalent to sir or mister."]}
+{"w":"signiory","pos":"noun","d":["The power, rank, or domain of a signor; lordship."]}
+{"w":"signorina","pos":"noun","d":["An Italian title of respect for an unmarried woman or girl, equivalent to miss."]}
+{"w":"sik","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sike","pos":"noun","d":["A small stream or brook, especially in northern England and Scotland."]}
+{"w":"sikhs","pos":"noun","d":["Plural of Sikh; adherents of Sikhism, the monotheistic religion founded in the Punjab."]}
+{"w":"silage","pos":"noun","d":["Green crops fermented and stored in a silo as fodder for livestock."]}
+{"w":"sile","pos":"verb","d":["To strain or filter a liquid, as through a sieve."]}
+{"w":"silene","pos":"noun","d":["A large genus of flowering plants including the campions and catchflies."]}
+{"w":"silentiary","pos":"noun","d":["An officer charged with keeping silence and order, as in a court or church."]}
+{"w":"silentious","pos":"adjective","d":["Inclined to be silent; taciturn."]}
+{"w":"silenus","pos":"noun","d":["In Greek mythology, the foster father and companion of Bacchus, shown as a jolly drunken old man.","One of a class of woodland spirits resembling satyrs."]}
+{"w":"silesia","pos":"noun","d":["A region of central Europe, now mostly in southwestern Poland.","A fine twilled linen fabric."]}
+{"w":"silesian","pos":"adjective","d":["Of or relating to Silesia or its people."]}
+{"w":"silex","pos":"noun","d":["Flint; silica in its natural stony form."]}
+{"w":"silhouette","pos":"noun","d":["The outline of a figure or shape filled in with a solid color, especially a person's profile.","A dark shape seen against a lighter background."]}
+{"w":"silica","pos":"noun","d":["A hard mineral compound of silicon and oxygen, found in quartz, sand, and flint."]}
+{"w":"silicate","pos":"noun","d":["Any of a large class of compounds containing silicon and oxygen, including most rocks and minerals."]}
+{"w":"silicatization","pos":"noun","d":["The process of converting into silicate or treating with a silicate."]}
+{"w":"silicea","pos":"noun","d":["A homeopathic preparation made from silica."]}
+{"w":"siliceous","pos":"adjective","d":["Containing, consisting of, or resembling silica."]}
+{"w":"silicic","pos":"adjective","d":["Of, relating to, or containing silicon, especially in silicic acid."]}
+{"w":"silicicalcareous","pos":"adjective","d":["Composed partly of silica and partly of calcareous matter."]}
+{"w":"silicide","pos":"noun","d":["A compound of silicon with a more electropositive element."]}
+{"w":"siliciferous","pos":"adjective","d":["Producing or containing silica."]}
+{"w":"silicification","pos":"noun","d":["The process of being converted into silica, as when organic matter is fossilized by silica."]}
+{"w":"silicify","pos":"verb","d":["To convert into silica or impregnate with silica."]}
+{"w":"silicioidea","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"silicious","pos":"adjective","d":["Containing or resembling silica; siliceous."]}
+{"w":"silicispongiae","pos":"noun","d":["Sponges whose skeletons contain siliceous spicules."]}
+{"w":"silicited","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"silicium","pos":"noun","d":["An old name for the element silicon."]}
+{"w":"siliciureted","pos":"adjective","d":["Combined with silicon; containing a silicide."]}
+{"w":"silicle","pos":"noun","d":["A short seed pod of the mustard family, about as broad as it is long, that splits open at maturity."]}
+{"w":"silico-","pos":"prefix","d":["A prefix denoting relation to silicon or silica, as in silicosis."]}
+{"w":"silicofluoric","pos":"adjective","d":["Of or relating to silicofluoric acid, an acid containing silicon and fluorine."]}
+{"w":"silicofluoride","pos":"noun","d":["A salt of silicofluoric acid."]}
+{"w":"silicoidea","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"silicotungstic","pos":"adjective","d":["Of or relating to silicotungstic acid, a compound of silicon, tungsten, and oxygen."]}
+{"w":"silicula","pos":"noun","d":["A little silicle; a small seed pod of the mustard family."]}
+{"w":"silicule","pos":"noun","d":["A small silicle; a diminutive seed pod of the mustard family."]}
+{"w":"siliculose","pos":"adjective","d":["Bearing silicles; producing small seed pods."]}
+{"w":"siliginose","pos":"adjective","d":["Made of or like fine wheat flour."]}
+{"w":"siliqua","pos":"noun","d":["An elongated seed pod of the mustard family that splits open at maturity.","An ancient Roman silver coin of small value."]}
+{"w":"silique","pos":"noun","d":["An elongated seed pod of the mustard family that splits open at maturity."]}
+{"w":"siliquiform","pos":"adjective","d":["Shaped like a silique; like a long slender seed pod."]}
+{"w":"siliquosa","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siliquose","pos":"adjective","d":["Bearing siliques; resembling a silique."]}
+{"w":"siliquous","pos":"adjective","d":["Bearing siliques; like a silique."]}
+{"w":"silk-stocking","pos":"noun","d":["A person of wealth or high social standing.","An elegant or fashionable person."]}
+{"w":"silkiness","pos":"noun","d":["The quality of being silky; smooth softness like that of silk."]}
+{"w":"silky","pos":"adjective","d":["Like silk in texture; smooth, soft, and lustrous.","Smooth and sleek in manner, often to the point of being ingratiating."]}
+{"w":"sill","pos":"noun","d":["The horizontal piece at the bottom of a door or window frame."]}
+{"w":"sillabub","pos":"noun","d":["A frothy dessert made of sweetened cream mixed with wine or cider."]}
+{"w":"sillily","pos":"adverb","d":["In a silly manner; foolishly."]}
+{"w":"sillimanite","pos":"noun","d":["A mineral of aluminum silicate used in making heat-resistant materials."]}
+{"w":"silliness","pos":"noun","d":["The quality or state of being silly.","A foolish act or remark."]}
+{"w":"sillock","pos":"noun","d":["A young coalfish, a sea fish of northern waters."]}
+{"w":"sillon","pos":"noun","d":["A furrow or groove."]}
+{"w":"silo","pos":"noun","d":["A tall cylindrical structure for storing grain or fermented fodder.","An underground chamber for storing and launching a missile.","An isolated department or group within an organization that does not share information."]}
+{"w":"silt","pos":"noun","d":["Fine sediment of mud or clay carried and deposited by running water."]}
+{"w":"silty","pos":"adjective","d":["Full of or like silt; muddy with fine sediment."]}
+{"w":"silundum","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"silure","pos":"noun","d":["A large European catfish, also called the sheatfish."]}
+{"w":"silurian","pos":"adjective","d":["Of or relating to the Silurian period of the Paleozoic era, following the Ordovician.","Of or relating to the ancient Silures, a tribe of Wales."]}
+{"w":"siluridan","pos":"noun","d":["A catfish of the family Siluridae."]}
+{"w":"siluroid","pos":"adjective","d":["Resembling a catfish; of or relating to the catfish group Siluroidei."]}
+{"w":"siluroidei","pos":"noun","d":["The group of fishes comprising the catfishes."]}
+{"w":"silurus","pos":"noun","d":["The type genus of the catfish family Siluridae."]}
+{"w":"silva","pos":"noun","d":["A literary miscellany; a collection of pieces on various subjects."]}
+{"w":"silvan","pos":"adjective","d":["Of or relating to woods; wooded."]}
+{"w":"silvanite","pos":"noun","d":["A mineral consisting of gold and silver telluride."]}
+{"w":"silvate","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"silver certificate","pos":"phrase","d":["A former kind of United States paper money redeemable for silver."]}
+{"w":"silver state","pos":"phrase","d":["A nickname for the state of Nevada."]}
+{"w":"silver-gray","pos":"adjective","d":["A medium gray color with a soft metallic sheen like polished silver."]}
+{"w":"silveriness","pos":"noun","d":["The quality or appearance of being silvery."]}
+{"w":"silverite","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"silvern","pos":"adjective","d":["Made of silver or having the pale gleam of silver."]}
+{"w":"silversides","pos":"noun","d":["A small slender fish with a bright silvery stripe along its side.","A cut of beef from the upper hind leg, often cured as corned beef."]}
+{"w":"silvery","pos":"adjective","d":["Shining with the pale gray-white luster of silver."]}
+{"w":"silvics","pos":"noun","d":["The scientific study of the life and growth of forest trees."]}
+{"w":"silviculture","pos":"noun","d":["The practice of growing and managing forest trees as a crop."]}
+{"w":"sima","pos":"noun","d":["The upturned gutter molding along the edge of a classical Greek or Roman roof."]}
+{"w":"simar","pos":"noun","d":["A loose flowing robe or gown worn by clergy."]}
+{"w":"simarre","pos":"noun","d":["A loose ceremonial robe worn by priests and other clergy."]}
+{"w":"simblot","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"simia","pos":"noun","d":["A former scientific genus name once applied to apes and monkeys."]}
+{"w":"simial","pos":"adjective","d":["Apelike in form or behavior."]}
+{"w":"simian","pos":"adjective","d":["Of or like an ape or monkey.","An ape or monkey."]}
+{"w":"similary","pos":"adjective","d":["Alike or similar in kind."]}
+{"w":"similative","pos":"adjective","d":["Expressing or producing likeness or resemblance."]}
+{"w":"simile","pos":"noun","d":["A comparison of two unlike things using the word like or as."]}
+{"w":"similiter","pos":"adverb","d":["A Latin word meaning in like manner or likewise."]}
+{"w":"similitude","pos":"noun","d":["The state of being alike; resemblance."]}
+{"w":"similitudinary","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"similize","pos":"verb","d":["To liken one thing to another; to compare."]}
+{"w":"similor","pos":"noun","d":["A golden-colored alloy of copper and zinc that resembles gold."]}
+{"w":"simious","pos":"adjective","d":["Apelike; resembling a monkey or ape."]}
+{"w":"simitar","pos":"noun","d":["A curved single-edged sword; another spelling of scimitar."]}
+{"w":"simmer","pos":"verb","d":["To cook gently in liquid kept just below the boiling point."]}
+{"w":"simnel","pos":"noun","d":["A rich fruit cake traditionally eaten during Lent and at Easter."]}
+{"w":"simon-pure","pos":"adjective","d":["Genuinely and unmistakably real; authentic."]}
+{"w":"simoniac","pos":"noun","d":["A person guilty of simony."]}
+{"w":"simonian","pos":"adjective","d":["Relating to Simon Magus, the magician of the New Testament."]}
+{"w":"simonist","pos":"noun","d":["A person who practices simony."]}
+{"w":"simony","pos":"noun","d":["The buying or selling of church offices or spiritual favors."]}
+{"w":"simoom","pos":"noun","d":["A hot, dry, suffocating wind that blows across deserts."]}
+{"w":"simoon","pos":"noun","d":["A hot, dry, suffocating wind that blows across deserts."]}
+{"w":"simous","pos":"adjective","d":["Having a snub or turned-up nose."]}
+{"w":"simpai","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"simper","pos":"verb","d":["To smile in a silly, affected, or self-conscious way.","A silly, affected smile."]}
+{"w":"simple-hearted","pos":"adjective","d":["Honest and sincere, without deceit or guile."]}
+{"w":"simple-minded","pos":"adjective","d":["Lacking in intelligence or sophistication; naive."]}
+{"w":"simpless","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"simplician","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"simplicity","pos":"noun","d":["The quality of being simple; freedom from complexity."]}
+{"w":"simplification","pos":"noun","d":["The act or result of making something simpler."]}
+{"w":"simplify","pos":"verb","d":["To make something easier to understand or do by reducing its complexity."]}
+{"w":"simplist","pos":"noun","d":["A person who oversimplifies difficult matters."]}
+{"w":"simplity","pos":"noun","d":["The quality of being simple; plainness."]}
+{"w":"simploce","pos":"noun","d":["A rhetorical figure in which the same word begins and ends successive clauses."]}
+{"w":"simulacher","pos":"noun","d":["An image or likeness of something."]}
+{"w":"simulachre","pos":"noun","d":["An image or likeness of something."]}
+{"w":"simulacrum","pos":"noun","d":["An image or representation of something.","A superficial likeness with little reality behind it."]}
+{"w":"simular","pos":"adjective","d":["Feigned or counterfeit; merely seeming."]}
+{"w":"simulate","pos":"verb","d":["To imitate the appearance or behavior of something.","To feign or pretend to have."]}
+{"w":"simulator","pos":"noun","d":["A device or machine that imitates real conditions for training or testing.","A person who simulates or feigns something."]}
+{"w":"simulatory","pos":"adjective","d":["Feigned or pretended rather than real."]}
+{"w":"simultaneity","pos":"noun","d":["The condition of happening or existing at the same time."]}
+{"w":"simultaneous","pos":"adjective","d":["Happening or done at the same time."]}
+{"w":"simulty","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sinaic","pos":"adjective","d":["Of or relating to Mount Sinai."]}
+{"w":"sinaitic","pos":"adjective","d":["Of or relating to Mount Sinai."]}
+{"w":"sinalbin","pos":"noun","d":["A bitter compound found in the seeds of white mustard."]}
+{"w":"sinapate","pos":"noun","d":["A salt formed from sinapic acid."]}
+{"w":"sinapic","pos":"adjective","d":["Of or obtained from sinapic acid, a compound found in mustard seed."]}
+{"w":"sinapine","pos":"noun","d":["An alkaloid compound found in mustard seeds."]}
+{"w":"sinapisin","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sinapism","pos":"noun","d":["A poultice made of powdered mustard seed, applied to the skin to relieve pain."]}
+{"w":"sinapoleic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sinapoline","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sincaline","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sincerity","pos":"noun","d":["Honest and genuine expression of feeling; freedom from deceit."]}
+{"w":"sinch","pos":"noun","d":["A girth that holds a saddle in place."]}
+{"w":"sincipital","pos":"adjective","d":["Of or relating to the sinciput, the front part of the head."]}
+{"w":"sinciput","pos":"noun","d":["The forehead; the front part of the head above the eyes."]}
+{"w":"sindi","pos":"noun","d":["The language spoken in Sindh; another name for Sindhi."]}
+{"w":"sine","pos":"noun","d":["A trigonometric function equal to the ratio of the opposite side to the hypotenuse in a right triangle.","The Latin word for without."]}
+{"w":"sinecural","pos":"adjective","d":["Of or relating to a sinecure."]}
+{"w":"sinecurism","pos":"noun","d":["The practice of awarding or holding sinecures."]}
+{"w":"sinecurist","pos":"noun","d":["A person who holds a sinecure."]}
+{"w":"sinew","pos":"noun","d":["A tough band of tissue that joins muscle to bone; a tendon.","Strength or vigor, especially as a source of power."]}
+{"w":"sinew-shrunk","pos":"adjective","d":["Having the tendons shrunk or contracted."]}
+{"w":"sinewiness","pos":"noun","d":["The quality of being sinewy."]}
+{"w":"sinewy","pos":"adjective","d":["Lean and muscular, with strong tendons showing."]}
+{"w":"sing-sing","pos":"noun","d":["The nickname of a well-known state prison in New York."]}
+{"w":"singe","pos":"verb","d":["To burn the surface of something slightly or lightly."]}
+{"w":"singeress","pos":"noun","d":["A female singer."]}
+{"w":"singhalese","pos":"noun","d":["A member of the main ethnic group of Sri Lanka; another spelling of Sinhalese.","The language of the Sinhalese people."]}
+{"w":"single tax","pos":"phrase","d":["A system of taxation in which all revenue comes from a tax on land value."]}
+{"w":"single-acting","pos":"adjective","d":["Acting in one direction only, as an engine cylinder driven by pressure on one side of the piston."]}
+{"w":"single-breasted","pos":"adjective","d":["Of a coat or jacket, having one row of buttons down the front."]}
+{"w":"single-foot","pos":"noun","d":["A smooth four-beat gait of a horse in which each foot strikes the ground separately."]}
+{"w":"single-handed","pos":"adjective","d":["Done by one person alone, without help."]}
+{"w":"single-hearted","pos":"adjective","d":["Sincere and honest, without hidden motives."]}
+{"w":"single-minded","pos":"adjective","d":["Fixed on one purpose, with no distractions."]}
+{"w":"single-surfaced","pos":"adjective","d":["Having only one continuous surface, as a Möbius band."]}
+{"w":"singspiel","pos":"noun","d":["A German comic opera in which spoken dialogue alternates with songs."]}
+{"w":"singster","pos":"noun","d":["A singer."]}
+{"w":"singultus","pos":"noun","d":["The medical name for a hiccup or a fit of hiccups."]}
+{"w":"sinigrin","pos":"noun","d":["A bitter compound in black mustard seed that gives mustard its pungent taste."]}
+{"w":"sinister","pos":"adjective","d":["Threatening or suggesting evil; menacing.","Of or on the left side."]}
+{"w":"sinister-handed","pos":"adjective","d":["Left-handed."]}
+{"w":"sinistrad","pos":"adverb","d":["Toward the left side or the left hand."]}
+{"w":"sinistral","pos":"adjective","d":["Of or on the left side, as opposed to the right.","Of a shell, coiling with the opening on the left side."]}
+{"w":"sinistrin","pos":"noun","d":["A sugary carbohydrate found in the bulbs of certain plants such as squill and onion."]}
+{"w":"sinistrorsal","pos":"adjective","d":["Turning or twining toward the left, as a climbing plant's stem."]}
+{"w":"sinistrorse","pos":"adjective","d":["Spiraling upward to the left, as the coils of some shells or the twine of some vines."]}
+{"w":"sinistrous","pos":"adjective","d":["Of or toward the left-hand side."]}
+{"w":"sinneress","pos":"noun","d":["A woman who sins; a female sinner."]}
+{"w":"sinological","pos":"adjective","d":["Relating to the study of Chinese language, history, and culture."]}
+{"w":"sinologist","pos":"noun","d":["A scholar of Chinese language, history, and culture."]}
+{"w":"sinologue","pos":"noun","d":["A specialist in Chinese language and culture; a sinologist."]}
+{"w":"sinoper","pos":"noun","d":["A red pigment of iron oxide; red ocher."]}
+{"w":"sinopia","pos":"noun","d":["A reddish pigment used in the preliminary sketch laid down before a fresco is painted."]}
+{"w":"sinopis","pos":"noun","d":["A red earthy pigment from Asia Minor; a variety of red ocher."]}
+{"w":"sinopite","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sinople","pos":"noun","d":["In heraldry, the tincture green.","In older use, a red dye or pigment."]}
+{"w":"sinsring","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sinter","pos":"noun","d":["A hard stony crust left behind by mineral springs, such as the deposits around geysers and hot springs."]}
+{"w":"sinto","pos":"noun","d":["An older spelling of Shinto, the traditional religion of Japan centered on reverence for the kami."]}
+{"w":"sintoc","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sintu","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sinuate","pos":"adjective","d":["Having a wavy edge with rounded lobes, as some leaves do."]}
+{"w":"sinuation","pos":"noun","d":["A wavy curve inward or outward; the act or result of curving in and out."]}
+{"w":"sinuose","pos":"adjective","d":["Full of windings and curves; sinuous."]}
+{"w":"sinuosity","pos":"noun","d":["The quality of being winding or curving; a bending curve."]}
+{"w":"sinuous","pos":"adjective","d":["Bending and curving in many places, like a winding river."]}
+{"w":"sinupalliate","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sinus","pos":"noun","d":["An air-filled hollow cavity in the bones of the skull, especially one opening into the nasal passages.","Any hollow cavity or winding curve."]}
+{"w":"sinusoid","pos":"noun","d":["A smooth wave-shaped curve like the graph of the sine function."]}
+{"w":"siogoon","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sioux","pos":"noun","d":["A member of the Sioux peoples, the Indigenous peoples of the North American Great Plains including the Lakota, Dakota, and Nakota."]}
+{"w":"sioux state","pos":"phrase","d":["A nickname for the state of North Dakota."]}
+{"w":"sipe","pos":"verb","d":["To drain or seep gradually, as water soaking through a filter bed or porous ground."]}
+{"w":"siphilis","pos":"noun","d":["An older spelling of syphilis."]}
+{"w":"siphoid","pos":"adjective","d":["Shaped like a siphon; tubular and bent."]}
+{"w":"siphon","pos":"noun","d":["A bent tube used to draw liquid over an edge from a higher vessel to a lower one by suction and air pressure."]}
+{"w":"siphonata","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siphonet","pos":"noun","d":["A small siphon."]}
+{"w":"siphonia","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siphoniata","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siphonifer","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siphonium","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siphonobranchiata","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siphonobranchiate","pos":"adjective","d":["In zoology, bearing breathing siphons; belonging to the siphon-bearing bivalve mollusks."]}
+{"w":"siphonoglyphe","pos":"noun","d":["In zoology, a ciliated groove in the gullet of certain sea anemones and corals that drives water currents into the body."]}
+{"w":"siphonophora","pos":"noun","d":["An order of floating colonial marine animals, including the Portuguese man-of-war."]}
+{"w":"siphonophoran","pos":"adjective","d":["Relating to the Siphonophora, the order of floating colonial sea animals."]}
+{"w":"siphonophore","pos":"noun","d":["One of the Siphonophora; a floating colonial sea animal such as the Portuguese man-of-war."]}
+{"w":"siphonopoda","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siphonostomata","pos":"noun","d":["An order of tiny parasitic crustaceans that feed through a tube-like mouth."]}
+{"w":"siphonostomatous","pos":"adjective","d":["Having siphon-like mouthparts, as certain parasitic crustaceans do."]}
+{"w":"siphonostome","pos":"noun","d":["A crustacean of the order Siphonostomata, a siphon-mouthed parasite."]}
+{"w":"siphorhinal","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siphorhinian","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siphuncle","pos":"noun","d":["A strand of tissue running through the chambers of a shelled cephalopod such as the nautilus."]}
+{"w":"siphuncular","pos":"adjective","d":["Relating to a siphuncle."]}
+{"w":"siphunculated","pos":"adjective","d":["Provided with a siphuncle."]}
+{"w":"sipid","pos":"adjective","d":["Having a pleasant taste; flavorful."]}
+{"w":"sipple","pos":"verb","d":["To sip repeatedly; to drink in small, frequent sips."]}
+{"w":"sipunculacea","pos":"noun","d":["A class of peanut worms, simple soft-bodied marine animals shaped like peanuts."]}
+{"w":"sipunculoid","pos":"adjective","d":["Resembling a peanut worm."]}
+{"w":"sipunculoidea","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sipy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"siraskier","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sirbonian","pos":"adjective","d":["Relating to the ancient Sirbonian bog, a marsh between Egypt and Palestine."]}
+{"w":"sirdar","pos":"noun","d":["A commander, leader, or chief in India and the Middle East, especially among the Sikhs."]}
+{"w":"sire","pos":"noun","d":["A respectful form of address for a king or sovereign.","The father of an animal, especially of a horse."]}
+{"w":"sirene","pos":"noun","d":["In zoology, an eel-like aquatic salamander of the southeastern United States."]}
+{"w":"sirenia","pos":"noun","d":["The order of aquatic mammals that includes the manatees and dugongs; the sea cows."]}
+{"w":"sirenian","pos":"noun","d":["A sea cow, such as a manatee or dugong; a mammal of the order Sirenia."]}
+{"w":"siriasis","pos":"noun","d":["Sunstroke, especially as occurring in children."]}
+{"w":"sirius","pos":"noun","d":["The brightest star in the night sky, found in the constellation Canis Major; the Dog Star."]}
+{"w":"sirkeer","pos":"noun","d":["A tall grass of India used for thatching and for making screens and curtains."]}
+{"w":"siroc","pos":"noun","d":["A variant spelling of sirocco."]}
+{"w":"sirocco","pos":"noun","d":["A hot, dusty wind blowing from North Africa across the Mediterranean into southern Europe."]}
+{"w":"sirrah","pos":"noun","d":["An old term of address for a man or boy, often spoken with contempt or anger."]}
+{"w":"sirt","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sirup","pos":"noun","d":["An old spelling of syrup."]}
+{"w":"sirupy","pos":"adjective","d":["Like syrup; thick and sweet."]}
+{"w":"sirvente","pos":"noun","d":["A medieval Provençal lyric poem, often satirical or dealing with politics and war."]}
+{"w":"sis","pos":"noun","d":["A sister."]}
+{"w":"sisal grass","pos":"phrase","d":["A plant of Mexico with stiff sword-shaped leaves whose fibers are used for rope and twine."]}
+{"w":"sisal hemp","pos":"phrase","d":["The strong fiber of the sisal plant, used for rope, twine, and rugs."]}
+{"w":"siscowet","pos":"noun","d":["A large, oily deep-water form of lake trout living in Lake Superior."]}
+{"w":"sise","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sisel","pos":"noun","d":["A burrowing ground squirrel of eastern Europe and Asia; the suslik."]}
+{"w":"siskiwit","pos":"noun","d":["The siscowet, a large deep-water lake trout of Lake Superior."]}
+{"w":"sismograph","pos":"noun","d":["An old spelling of seismograph."]}
+{"w":"sismometer","pos":"noun","d":["An old spelling of seismometer."]}
+{"w":"siss","pos":"verb","d":["To make a hissing sound, as hot metal plunged into water."]}
+{"w":"sissoo","pos":"noun","d":["A large timber tree of India whose hard dark wood is used for furniture."]}
+{"w":"sist","pos":"verb","d":["In Scots law, to stop or suspend a legal action temporarily."]}
+{"w":"sister-in-law","pos":"noun","d":["The sister of one's spouse, or the wife of one's brother or sister."]}
+{"w":"sisyphean","pos":"adjective","d":["Endless and fruitless, like the punishment of Sisyphus, who was condemned to roll a stone uphill forever."]}
+{"w":"sisyphus","pos":"noun","d":["In Greek myth, a king of Corinth condemned forever to roll a boulder uphill, watching it roll back down each time."]}
+{"w":"sith","pos":"noun","d":["An archaic word for a journey or an expedition."]}
+{"w":"sithe","pos":"noun","d":["An old spelling of scythe."]}
+{"w":"sitophobia","pos":"noun","d":["An abnormal fear of food or eating."]}
+{"w":"situate","pos":"verb","d":["To place in a particular position or location; to locate."]}
+{"w":"situs","pos":"noun","d":["The place where something exists or occurs; in law, the location of a thing for legal purposes."]}
+{"w":"sitz bath","pos":"phrase","d":["A shallow bath in which a person sits so that only the hips and lower body are in the water, used to soothe soreness."]}
+{"w":"siva","pos":"noun","d":["A spelling of Shiva, one of the chief gods of Hinduism, associated with destruction and renewal."]}

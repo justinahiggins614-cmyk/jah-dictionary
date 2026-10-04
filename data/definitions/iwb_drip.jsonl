@@ -40804,3 +40804,803 @@
 {"w": "racemation", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "raceme", "pos": "noun", "d": ["A flower cluster with stalked blossoms arranged along a central stem."]}
 {"w": "racemic", "pos": "adjective", "d": ["Consisting of a mixture of mirror-image forms of a compound that cancel each other's effect."]}
+{"w":"racemiferous","pos":"adjective","d":["Bearing racemes, or clusters of flowers arranged along a central stem."]}
+{"w":"racemiform","pos":"adjective","d":["Shaped like a raceme, with flowers or parts arranged along a central axis."]}
+{"w":"racemose","pos":"adjective","d":["Bearing flowers in racemes.","Arranged in or resembling a branching cluster with a central axis."]}
+{"w":"racemous","pos":"adjective","d":["Bearing or arranged in racemes."]}
+{"w":"racemulose","pos":"adjective","d":["Bearing racemules, or small racemes."]}
+{"w":"rach","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rache","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rachialgia","pos":"noun","d":["Pain in the spine or spinal region."]}
+{"w":"rachidian","pos":"adjective","d":["Pertaining to the spine or spinal column."]}
+{"w":"rachilla","pos":"noun","d":["The central axis of a grass spikelet, bearing the florets."]}
+{"w":"rachiodont","pos":"adjective","d":["Having teeth formed by projections of the vertebrae, as in certain egg-eating snakes."]}
+{"w":"rachis","pos":"noun","d":["The vertebral column; the spine.","The central shaft of a feather or of a flower cluster."]}
+{"w":"rachitic","pos":"adjective","d":["Affected with or relating to rickets.","Weak and shaky in structure; rickety."]}
+{"w":"rachitis","pos":"noun","d":["Rickets, a childhood disease marked by soft, deformed bones."]}
+{"w":"rachitome","pos":"noun","d":["A surgical instrument for cutting into the spinal column."]}
+{"w":"racily","pos":"adverb","d":["In a lively, spirited, or slightly bold manner."]}
+{"w":"raciness","pos":"noun","d":["The quality of being racy; lively spirit, often with a slightly bold or improper edge."]}
+{"w":"rack-rent","pos":"noun","d":["A rent raised to the highest amount a tenant can be forced to pay."]}
+{"w":"rackabones","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rackarock","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"racket","pos":"noun","d":["A loud, unpleasant noise or clatter.","A light bat with a netted oval head used in tennis and similar games.","A dishonest scheme for making money."]}
+{"w":"racket-tail","pos":"noun","d":["A bird, such as a hummingbird or motmot, whose tail feathers end in small racket-shaped tips."]}
+{"w":"rackett","pos":"noun","d":["A short, stout Renaissance woodwind instrument with a buzzing tone.","An older spelling of racket."]}
+{"w":"rackety","pos":"adjective","d":["Making a loud, rattling noise.","Noisy and unsteady."]}
+{"w":"racle","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"raconteur","pos":"noun","d":["A person skilled at telling witty, entertaining stories."]}
+{"w":"racoonda","pos":"noun","d":["A raccoon; an older form of the word."]}
+{"w":"racovian","pos":"adjective","d":["Relating to Racow, Poland, or to the Socinian religious movement once centered there."]}
+{"w":"racquet","pos":"noun","d":["A light bat with a netted head used in tennis, squash, badminton, and similar games."]}
+{"w":"racy","pos":"adjective","d":["Lively, spirited, and full of energy.","Slightly bold or suggestive in a playful way."]}
+{"w":"rad","pos":"adjective","d":["Excellent or impressive; cool."]}
+{"w":"radde","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"raddle","pos":"noun","d":["A red ochre pigment used for marking sheep and other livestock."]}
+{"w":"rade","pos":"noun","d":["A harbor or roadstead; a sheltered anchorage near shore."]}
+{"w":"radeau","pos":"noun","d":["A flat-bottomed boat or raft, formerly used as a floating battery in warfare."]}
+{"w":"radial engine","pos":"phrase","d":["An internal-combustion engine whose cylinders are arranged in a circle around the crankshaft, like the spokes of a wheel."]}
+{"w":"radiale","pos":"noun","d":["One of the wrist bones on the thumb side; the scaphoid."]}
+{"w":"radian","pos":"noun","d":["The standard unit of angle measure, equal to the angle at the center of a circle that cuts off an arc as long as the radius."]}
+{"w":"radiance","pos":"noun","d":["Bright, glowing light shining outward.","A warm, glowing quality of happiness, health, or beauty."]}
+{"w":"radiancy","pos":"noun","d":["The quality or state of being radiant; brightness."]}
+{"w":"radiant","pos":"adjective","d":["Shining with bright light.","Glowing with happiness, health, or beauty."]}
+{"w":"radiant engine","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"radiary","pos":"adjective","d":["Having rays; arranged like rays."]}
+{"w":"radiata","pos":"noun","d":["A former zoological group of animals with radial symmetry, such as jellyfish and starfish."]}
+{"w":"radiate","pos":"verb","d":["To send out rays of light or heat.","To spread outward from a central point."]}
+{"w":"radiate-veined","pos":"adjective","d":["Having veins that spread like rays from a single point, as in some leaves."]}
+{"w":"radiatiform","pos":"adjective","d":["Arranged in the form of rays; star-shaped."]}
+{"w":"radiative","pos":"adjective","d":["Relating to or emitting radiation.","Transferring heat by radiation."]}
+{"w":"radiator","pos":"noun","d":["A device, usually a set of connected metal pipes, that gives off heat to warm a room.","The part of a car's cooling system that releases engine heat into the air."]}
+{"w":"radicant","pos":"adjective","d":["Producing roots, especially along the stem."]}
+{"w":"radicate","pos":"verb","d":["To take root, or to cause to take root."]}
+{"w":"radication","pos":"noun","d":["The act or process of taking root."]}
+{"w":"radicel","pos":"noun","d":["A tiny root; a rootlet."]}
+{"w":"radiciflorous","pos":"adjective","d":["Bearing flowers directly on the roots."]}
+{"w":"radiciform","pos":"adjective","d":["Shaped like a root."]}
+{"w":"radicle","pos":"noun","d":["The first root to grow from a germinating seed; the embryonic root."]}
+{"w":"radicular","pos":"adjective","d":["Pertaining to a root, especially a nerve root."]}
+{"w":"radicule","pos":"noun","d":["A small root or rootlet."]}
+{"w":"radiculose","pos":"adjective","d":["Bearing many small roots or rootlets."]}
+{"w":"radii","pos":"noun","d":["The plural of radius."]}
+{"w":"radio-","pos":"prefix","d":["A prefix meaning radio or radiation, as in radiotelegraph."]}
+{"w":"radioconductor","pos":"noun","d":["An early wireless-telegraphy detector whose electrical resistance changes under the influence of radio waves; a coherer."]}
+{"w":"radiograph","pos":"noun","d":["An image, such as of bones inside the body, produced by X-rays."]}
+{"w":"radiography","pos":"noun","d":["The process or art of producing images with X-rays."]}
+{"w":"radiolaria","pos":"noun","d":["A group of microscopic marine organisms with delicate, glasslike skeletons of silica."]}
+{"w":"radiolarian","pos":"adjective","d":["Relating to or characteristic of the radiolaria."]}
+{"w":"radioli","pos":"noun","d":["The plural of radiolus, a small ray."]}
+{"w":"radiometer","pos":"noun","d":["An instrument for measuring the intensity of radiant energy, such as light or heat."]}
+{"w":"radiometry","pos":"noun","d":["The science of measuring radiant energy."]}
+{"w":"radiomicrometer","pos":"noun","d":["A highly sensitive instrument for measuring small amounts of radiant heat."]}
+{"w":"radiophare","pos":"noun","d":["A radio beacon that sends signals to guide ships or aircraft."]}
+{"w":"radiophone","pos":"noun","d":["A telephone that transmits speech by radio waves; a wireless telephone."]}
+{"w":"radiophony","pos":"noun","d":["The transmission of sound, especially speech, by means of radio waves."]}
+{"w":"radiopticon","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"radioscopy","pos":"noun","d":["Examination of the inside of the body by viewing X-ray images on a screen."]}
+{"w":"radiotelegram","pos":"noun","d":["A telegram sent by wireless telegraphy."]}
+{"w":"radiotelegraph","pos":"noun","d":["A telegraph that sends messages by radio waves; wireless telegraphy."]}
+{"w":"radiotelegraphy","pos":"noun","d":["The sending of telegraph messages by radio waves."]}
+{"w":"radiotelephone","pos":"noun","d":["A telephone that transmits speech by radio; a wireless telephone."]}
+{"w":"radiotherapy","pos":"noun","d":["The treatment of disease, especially cancer, with X-rays or other forms of radiation."]}
+{"w":"radiothorium","pos":"noun","d":["A radioactive isotope of thorium found in thorium ores."]}
+{"w":"radious","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"radium","pos":"noun","d":["A highly radioactive metallic element, formerly used in luminous paints and in treating cancer."]}
+{"w":"radius vector","pos":"phrase","d":["A line segment joining a fixed point to a point moving along a curve."]}
+{"w":"radix","pos":"noun","d":["A root, especially the primary root of a plant.","The base of a number system, as 10 in the decimal system."]}
+{"w":"radula","pos":"noun","d":["The ribbonlike, tooth-covered tongue of snails and other mollusks, used for scraping food."]}
+{"w":"raduliform","pos":"adjective","d":["Shaped like a radula; rasp-like."]}
+{"w":"raff","pos":"noun","d":["Rubbish or worthless material.","The rabble; riffraff."]}
+{"w":"raffaelesque","pos":"adjective","d":["In the style of the Renaissance painter Raphael."]}
+{"w":"raffia","pos":"noun","d":["A strong fiber from the leaves of the raffia palm, used for weaving baskets, hats, and mats."]}
+{"w":"raffia palm","pos":"phrase","d":["A tall tropical African palm whose leaves yield raffia fiber."]}
+{"w":"raffinose","pos":"noun","d":["A complex sugar found in beans, grains, and other plants."]}
+{"w":"raffle","pos":"noun","d":["A contest in which numbered tickets are sold and prizes are awarded by drawing."]}
+{"w":"rafflesia","pos":"noun","d":["A parasitic plant of Southeast Asia that produces the largest known single flower."]}
+{"w":"raft","pos":"noun","d":["A flat platform of logs or planks fastened together for floating on water."]}
+{"w":"rafte","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"raftsman","pos":"noun","d":["A person who builds, guides, or works on log rafts."]}
+{"w":"rafty","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rag","pos":"noun","d":["A torn or worn piece of cloth.","A newspaper, used dismissively."]}
+{"w":"ragabrash","pos":"noun","d":["A ragged, disreputable person.","Worthless people taken together; riffraff."]}
+{"w":"ragamuffin","pos":"noun","d":["A child in ragged, dirty clothes, often wandering without a home."]}
+{"w":"ragery","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ragguled","pos":"adjective","d":["Having a ragged or jagged edge, as if torn."]}
+{"w":"raggy","pos":"adjective","d":["Worn, torn, and shabby like an old rag."]}
+{"w":"raghuvansa","pos":"noun","d":["An ancient Sanskrit epic poem by Kalidasa telling the story of the Raghu dynasty."]}
+{"w":"ragious","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"raglan","pos":"noun","d":["A coat or sleeve style in which the sleeve runs to the neckline with no shoulder seam."]}
+{"w":"ragnarok","pos":"noun","d":["In Norse myth, the prophesied final battle that brings the end of the world."]}
+{"w":"raguled","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"raia","pos":"noun","d":["A genus of skates and rays, a group of flat-bodied sea fish."]}
+{"w":"raiae","pos":"noun","d":["The plural of raia, a group of skates and rays."]}
+{"w":"raiffeisen","pos":"noun","d":["A rural cooperative bank or credit union, of the kind founded in the tradition of Friedrich Raiffeisen."]}
+{"w":"raillery","pos":"noun","d":["Lighthearted teasing or playful banter."]}
+{"w":"railleur","pos":"noun","d":["A person who teases or mocks others in jest."]}
+{"w":"raiment","pos":"noun","d":["Clothing, especially fine or formal garments."]}
+{"w":"rain-tight","pos":"adjective","d":["Sealed so tightly that rain cannot get through."]}
+{"w":"raininess","pos":"noun","d":["The state or quality of being rainy."]}
+{"w":"rainy","pos":"adjective","d":["Having or marked by a great deal of rain."]}
+{"w":"raip","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rais","pos":"noun","d":["An Arabic title of respect meaning chief, leader, or captain."]}
+{"w":"raisin","pos":"noun","d":["A sweet dried grape, usually eaten as a snack or baked into food."]}
+{"w":"raisonne","pos":"adjective","d":["Arranged as a systematic, descriptive catalog, with each entry fully explained."]}
+{"w":"raivel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"raj","pos":"noun","d":["Rule or government, especially the former British rule over India."]}
+{"w":"raja","pos":"noun","d":["An Indian prince, chief, or ruler."]}
+{"w":"rajah","pos":"noun","d":["Another spelling of raja, an Indian prince or ruler."]}
+{"w":"rajpoot","pos":"noun","d":["Another spelling of Rajput, a member of the Hindu warrior race of northern India."]}
+{"w":"rake","pos":"noun","d":["A garden tool with a row of teeth for gathering leaves or smoothing soil.","A man of loose, dissolute habits."]}
+{"w":"rake-vein","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rakee","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rakel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rakery","pos":"noun","d":["The conduct of a rake, a dissolute and profligate way of life."]}
+{"w":"raki","pos":"noun","d":["A strong anise-flavored liquor drunk in Turkey and the Balkans."]}
+{"w":"rakish","pos":"adjective","d":["Having a dashing, carelessly stylish look.","Loosely moral, like a rake."]}
+{"w":"raku ware","pos":"noun","d":["Pottery made in the Japanese raku method, pulled hot from the kiln and cooled quickly."]}
+{"w":"rale","pos":"noun","d":["An abnormal crackling or rattling sound heard in the lungs while breathing."]}
+{"w":"rallentando","pos":"noun","d":["A direction in music to slow the tempo gradually."]}
+{"w":"ralliance","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ralline","pos":"adjective","d":["Relating to or resembling the rail family of birds."]}
+{"w":"ralstonite","pos":"noun","d":["A rare mineral made chiefly of aluminum and fluorine."]}
+{"w":"ramadan","pos":"noun","d":["The ninth month of the Islamic calendar, kept with fasting from dawn to sunset."]}
+{"w":"ramagious","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ramayana","pos":"noun","d":["The ancient Sanskrit epic telling the story of the prince Rama."]}
+{"w":"ramberge","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ramble","pos":"verb","d":["To walk for pleasure without any fixed route.","To talk or write at length without staying on one point."]}
+{"w":"rambutan","pos":"noun","d":["A tropical fruit with a hairy red shell and sweet white flesh."]}
+{"w":"rameal","pos":"adjective","d":["Relating to or growing upon branches."]}
+{"w":"ramee","pos":"noun","d":["Another spelling of ramie, an Asian plant grown for its strong fiber."]}
+{"w":"ramekin","pos":"noun","d":["A small dish in which a single portion of food is baked and served."]}
+{"w":"ramenta","pos":"noun","d":["The plural of ramentum, small thin scales found on the stems of ferns."]}
+{"w":"ramentaceous","pos":"adjective","d":["Bearing ramenta, covered with small chaffy scales."]}
+{"w":"rameous","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ramequin","pos":"noun","d":["Another spelling of ramekin, a small dish for baking a single portion."]}
+{"w":"ramie","pos":"noun","d":["A tall Asian plant whose stem yields a strong, silky textile fiber."]}
+{"w":"ramification","pos":"noun","d":["A branching out from a main stem or trunk.","A consequence that follows from a decision or action."]}
+{"w":"ramiflorous","pos":"adjective","d":["Bearing flowers on the branches or trunk rather than on new shoots."]}
+{"w":"ramiform","pos":"adjective","d":["Shaped like a branch."]}
+{"w":"ramigerous","pos":"adjective","d":["Bearing branches."]}
+{"w":"ramiparous","pos":"adjective","d":["Producing branches."]}
+{"w":"rammel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rammish","pos":"adjective","d":["Smelling rank like an uncastrated male sheep."]}
+{"w":"rammy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ramollescence","pos":"noun","d":["A softening, especially of brain or other body tissue."]}
+{"w":"ramose","pos":"adjective","d":["Having many branches, branched like a tree."]}
+{"w":"ramp","pos":"noun","d":["A sloping surface that joins two different levels, as for walking or driving."]}
+{"w":"rampacious","pos":"adjective","d":["Wild, violent, and out of control."]}
+{"w":"rampallian","pos":"noun","d":["A ruffian or worthless scoundrel."]}
+{"w":"rampe","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rampler","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ramulose","pos":"adjective","d":["Having many small branchlets."]}
+{"w":"ramulous","pos":"adjective","d":["Having small branchlets, same as ramulose."]}
+{"w":"ramulus","pos":"noun","d":["A small branch or twig, especially a tiny branch of a nerve or vein."]}
+{"w":"ramus","pos":"noun","d":["A branch of a bone, nerve, or vein."]}
+{"w":"ramuscule","pos":"noun","d":["A very small branch, especially of a plant stem or blood vessel."]}
+{"w":"rana","pos":"noun","d":["The genus of true frogs, found around the world."]}
+{"w":"rance","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rancheria","pos":"noun","d":["A small rural settlement or ranch camp."]}
+{"w":"ranchero","pos":"noun","d":["A person who owns or works on a ranch."]}
+{"w":"rancho","pos":"noun","d":["A ranch, a large farm for raising cattle or sheep in Spanish America."]}
+{"w":"randall grass","pos":"noun","d":["A coarse grass grown for hay and animal feed."]}
+{"w":"ranedeer","pos":"noun","d":["An old spelling of reindeer, a large northern deer with antlers."]}
+{"w":"ranee","pos":"noun","d":["The wife of a raja, an Indian queen or princess."]}
+{"w":"rang","pos":"verb","d":["The past tense of ring, as in to make a bell sound."]}
+{"w":"rangle","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rangy","pos":"adjective","d":["Long-limbed and lean, built for covering ground."]}
+{"w":"rani","pos":"noun","d":["Another spelling of ranee, the wife of a raja."]}
+{"w":"ranine","pos":"adjective","d":["Relating to frogs."]}
+{"w":"rankle","pos":"verb","d":["To keep causing pain or bitter resentment long after the first injury."]}
+{"w":"rannel","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ranny","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"ransom","pos":"noun","d":["Money demanded in return for freeing a captive or hostage."]}
+{"w":"rant","pos":"verb","d":["To speak loudly and angrily at great length."]}
+{"w":"rantingly","pos":"adverb","d":["In a ranting manner, speaking loudly and angrily at length."]}
+{"w":"rantipole","pos":"noun","d":["A wild, reckless young person who acts without thought."]}
+{"w":"ranty","pos":"adjective","d":["Inclined to rant, given to loud angry outbursts."]}
+{"w":"ranula","pos":"noun","d":["A small swelling or cyst under the tongue."]}
+{"w":"ranunculaceous","pos":"adjective","d":["Belonging to or resembling the buttercup family of plants."]}
+{"w":"ranunculus","pos":"noun","d":["Any plant of the buttercup genus, bearing bright cup-shaped flowers."]}
+{"w":"ranz des vaches","pos":"phrase","d":["The traditional melody of Swiss herdsmen, played to call the cows."]}
+{"w":"rapaces","pos":"noun","d":["Birds of prey, taken together as a group."]}
+{"w": "rapacious", "pos": "adjective", "d": ["Greedily taking or wanting more than one's share, especially of money or food."]}
+{"w": "rapacity", "pos": "noun", "d": ["The quality of being rapacious; a greedy grasping after gain."]}
+{"w": "raparee", "pos": "noun", "d": ["A variant spelling of rapparee."]}
+{"w": "rape", "pos": "verb", "d": ["To force a person into sexual intercourse against their will.", "To plunder or destroy a place violently, in an older use of the word."]}
+{"w": "raphaelesque", "pos": "adjective", "d": ["In the graceful and harmonious style of the Italian painter Raphael."]}
+{"w": "raphaelism", "pos": "noun", "d": ["The artistic style and principles of Raphael and his followers."]}
+{"w": "raphaelite", "pos": "noun", "d": ["An artist who follows the style of Raphael."]}
+{"w": "raphany", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "raphe", "pos": "noun", "d": ["A seam-like ridge of tissue joining the two halves of a body part, as on the tongue."]}
+{"w": "raphides", "pos": "noun", "d": ["Tiny needle-shaped crystals found inside the cells of certain plants."]}
+{"w": "rapid-fire", "pos": "adjective", "d": ["Fired or delivered in quick succession, one right after another."]}
+{"w": "rapid-fire mount", "pos": "phrase", "d": ["A gun mounting designed to let shots be fired in quick succession."]}
+{"w": "rapier", "pos": "noun", "d": ["A long, thin, sharp-pointed sword once used for dueling."]}
+{"w": "rapilli", "pos": "noun", "d": ["Small rounded fragments of volcanic rock thrown out during an eruption."]}
+{"w": "rapine", "pos": "noun", "d": ["The violent seizing of property by force; plunder."]}
+{"w": "rapinous", "pos": "adjective", "d": ["Given to plunder; living by violent seizure."]}
+{"w": "rapparee", "pos": "noun", "d": ["An Irish irregular soldier or plunderer of the 1600s."]}
+{"w": "rappel", "pos": "noun", "d": ["The act of sliding down a cliff or wall on a fixed rope."]}
+{"w": "rapprochement", "pos": "noun", "d": ["The restoration of friendly relations between countries or groups."]}
+{"w": "rapt", "pos": "adjective", "d": ["Deeply absorbed in thought or feeling; completely engrossed."]}
+{"w": "raptorious", "pos": "adjective", "d": ["Seizing prey by force; predatory and rapacious."]}
+{"w": "rapturist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rapturize", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rapturous", "pos": "adjective", "d": ["Full of great joy or delight; ecstatic."]}
+{"w": "raree-show", "pos": "noun", "d": ["A small peep-show box carried about for public amusement; a cheap spectacle."]}
+{"w": "rarefiable", "pos": "adjective", "d": ["Capable of being made less dense or thinner."]}
+{"w": "rarefy", "pos": "verb", "d": ["To make less dense or thinner, as air at high altitudes.", "To make a thought or idea more refined and subtle."]}
+{"w": "rarification", "pos": "noun", "d": ["The act or process of making something less dense or thinner."]}
+{"w": "rarity", "pos": "noun", "d": ["Something uncommon or unusual; a thing seldom seen.", "The quality of being rare."]}
+{"w": "ras", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rascaless", "pos": "adjective", "d": ["Free from rascals; having no dishonest or mischievous people."]}
+{"w": "rase", "pos": "verb", "d": ["To scratch or scrape away, as writing; to erase.", "An older form of raze, meaning to tear down completely."]}
+{"w": "rash", "pos": "adjective", "d": ["Acting or done without careful thought, often with risky results."]}
+{"w": "raskolnik", "pos": "noun", "d": ["A member of a Russian religious group that split from the Orthodox Church; a schismatic."]}
+{"w": "rasores", "pos": "noun", "d": ["In older classifications, the group of scratching birds such as chickens and pheasants."]}
+{"w": "rasorial", "pos": "adjective", "d": ["Relating to the scratching birds; adapted for scratching the ground."]}
+{"w": "rasp", "pos": "noun", "d": ["A coarse file with sharp raised teeth, used for shaping wood or metal.", "A harsh grating sound, like a file on wood."]}
+{"w": "raspatorium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "raspatory", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "raspis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "raspy", "pos": "adjective", "d": ["Harsh and grating to the ear; hoarse."]}
+{"w": "rasse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rat-tail", "pos": "noun", "d": ["A hairstyle with a single thin braid or lock of hair hanging down at the back of the neck."]}
+{"w": "rata", "pos": "noun", "d": ["A large flowering tree of New Zealand and the South Pacific, known for its bright red blossoms."]}
+{"w": "ratafia", "pos": "noun", "d": ["A small crisp biscuit flavored with almonds.", "A sweet cordial flavored with fruit kernels or almonds."]}
+{"w": "ratan", "pos": "noun", "d": ["A climbing palm of Southeast Asia with long slender stems, used for wickerwork; rattan."]}
+{"w": "ratch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ratchel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ratchet", "pos": "noun", "d": ["A wheel with slanted teeth that lets a pawl move it in one direction only.", "A mechanism or process that tightens or increases by steps and cannot easily go back."]}
+{"w": "ratel", "pos": "noun", "d": ["A sturdy African and Asian mammal, also called the honey badger, famed for its fearlessness."]}
+{"w": "rath", "pos": "noun", "d": ["An ancient circular earthen fort of Ireland."]}
+{"w": "rathe", "pos": "adjective", "d": ["Early in the day or season; appearing before the usual time."]}
+{"w": "rathskeller", "pos": "noun", "d": ["A restaurant or bar in a basement, especially one in German style."]}
+{"w": "ratification", "pos": "noun", "d": ["The formal approval of a treaty, agreement, or decision, making it official."]}
+{"w": "ratihabition", "pos": "noun", "d": ["Approval given afterward to an act done on one's behalf, making it legally binding."]}
+{"w": "ratiocinate", "pos": "verb", "d": ["To reason by careful logical steps."]}
+{"w": "ratiocination", "pos": "noun", "d": ["The process of reasoning by careful logical steps."]}
+{"w": "ratiocinative", "pos": "adjective", "d": ["Relating to or using careful logical reasoning."]}
+{"w": "ratiocinatory", "pos": "adjective", "d": ["Of the nature of careful logical reasoning."]}
+{"w": "rationalization", "pos": "noun", "d": ["The act of finding reasonable-sounding excuses for one's behavior.", "The process of making a system more logical and efficient."]}
+{"w": "ratitae", "pos": "noun", "d": ["The group of large flightless birds that includes ostriches, emus, rheas, and kiwis."]}
+{"w": "ratitate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ratite", "pos": "noun", "d": ["Any of the large flightless birds, such as the ostrich or emu."]}
+{"w": "ratlines", "pos": "noun", "d": ["The thin ropes forming ladder-like steps in the rigging of a sailing ship."]}
+{"w": "ratlins", "pos": "noun", "d": ["An older spelling of ratlines."]}
+{"w": "raton", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ratsbane", "pos": "noun", "d": ["Any poison used to kill rats."]}
+{"w": "rattle", "pos": "verb", "d": ["To make a series of short sharp knocks or clatters.", "To shake or unsettle someone's nerves or confidence."]}
+{"w": "rattle-brained", "pos": "adjective", "d": ["Empty-headed and thoughtless; scatterbrained."]}
+{"w": "rattle-headed", "pos": "adjective", "d": ["Thoughtless and flighty; not thinking clearly."]}
+{"w": "rattle-pated", "pos": "adjective", "d": ["Foolish and noisy; having little sense."]}
+{"w": "rattlewings", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rattlings", "pos": "noun", "d": ["An older form of ratlines, the rope steps in a ship's rigging."]}
+{"w": "raucid", "pos": "adjective", "d": ["Hoarse and harsh in voice or sound."]}
+{"w": "raucity", "pos": "noun", "d": ["Harshness of voice; hoarseness."]}
+{"w": "raucous", "pos": "adjective", "d": ["Loud, harsh, and disorderly in sound."]}
+{"w": "raught", "pos": "verb", "d": ["An archaic past tense of reach."]}
+{"w": "raunch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "raunsoun", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ravage", "pos": "verb", "d": ["To cause severe damage to; to lay waste."]}
+{"w": "rave", "pos": "verb", "d": ["To speak wildly and without sense, as in delirium.", "To praise something with passionate enthusiasm."]}
+{"w": "ravel", "pos": "verb", "d": ["To tangle or complicate.", "To untangle or separate into threads; to unravel."]}
+{"w": "raven", "pos": "noun", "d": ["A large black bird of the crow family, known for its deep croaking call.", "In verb use, to eat greedily; to devour."]}
+{"w": "ravin", "pos": "noun", "d": ["The violent seizing of prey; rapine.", "An older spelling of ravine."]}
+{"w": "ravine", "pos": "noun", "d": ["A deep narrow valley worn by running water."]}
+{"w": "ravish", "pos": "verb", "d": ["To fill with overwhelming delight; to enrapture.", "In older use, to seize and carry away by force."]}
+{"w": "ravissant", "pos": "adjective", "d": ["Charming and delightful; ravishing."]}
+{"w": "ray grass", "pos": "noun", "d": ["A common pasture grass with narrow leaves, valued for grazing; ryegrass."]}
+{"w": "rayah", "pos": "noun", "d": ["A non-Muslim subject of the former Ottoman Empire."]}
+{"w": "rayon", "pos": "noun", "d": ["A smooth synthetic fabric made from cellulose fiber."]}
+{"w": "rayonnant", "pos": "adjective", "d": ["Sending out rays; radiant.", "Denoting the radiant style of French Gothic architecture."]}
+{"w": "raze", "pos": "verb", "d": ["To tear down completely; to demolish to the ground."]}
+{"w": "razee", "pos": "verb", "d": ["To cut down the upper decks of a ship, reducing it to a smaller vessel.", "In noun use, a ship cut down in this way."]}
+{"w": "razor", "pos": "noun", "d": ["A sharp-edged instrument for shaving hair from the skin."]}
+{"w": "razor-backed", "pos": "adjective", "d": ["Having a sharp thin ridge along the back, like some hogs and whales."]}
+{"w": "razure", "pos": "noun", "d": ["The act of tearing down or erasing; obliteration."]}
+{"w": "razzia", "pos": "noun", "d": ["A sudden raid, especially a plundering raid in North Africa."]}
+{"w": "re sign", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "re-", "pos": "prefix", "d": ["A prefix meaning 'again,' as in rewrite, or 'back,' as in return."]}
+{"w": "re-demption", "pos": "noun", "d": ["A variant spelling of redemption."]}
+{"w":"reactance coil","pos":"phrase","d":["A coil of wire in an electric circuit that limits alternating current by means of reactance."]}
+{"w":"readiness","pos":"noun","d":["The state of being prepared for action or use."]}
+{"w":"ready-made","pos":"adjective","d":["Already made up in advance rather than made to order."]}
+{"w":"ready-witted","pos":"adjective","d":["Quick to think and answer with clever or sharp remarks."]}
+{"w":"reak","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"realization","pos":"noun","d":["The act of making something real or actual.","The act of coming to understand something clearly."]}
+{"w":"ream","pos":"noun","d":["A quantity of paper equal to 500 sheets.","A tool for widening or smoothing a hole."]}
+{"w":"reame","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reap","pos":"verb","d":["To cut and gather a harvest of grain or crops.","To gain the results of one's actions or efforts."]}
+{"w":"rear-horse","pos":"noun","d":["A horse rearing up on its hind legs."]}
+{"w":"reasty","pos":"adjective","d":["Rancid or spoiled, especially of bacon or cured meat."]}
+{"w":"reata","pos":"noun","d":["A braided rawhide lariat used for roping cattle."]}
+{"w":"reaume","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reaumur","pos":"noun","d":["A temperature scale on which water freezes at 0 degrees and boils at 80 degrees."]}
+{"w":"rebaptisation","pos":"noun","d":["The act of baptizing a second time."]}
+{"w":"rebato","pos":"noun","d":["A stiff upright collar or wire support for a ruff worn in the sixteenth and seventeenth centuries."]}
+{"w":"rebec","pos":"noun","d":["A small pear-shaped bowed stringed instrument used in the Middle Ages."]}
+{"w":"rebellious","pos":"adjective","d":["Resisting or defying authority, control, or tradition."]}
+{"w":"reboant","pos":"adjective","d":["Resounding loudly; echoing back."]}
+{"w":"rebozo","pos":"noun","d":["A long rectangular shawl worn especially by Mexican women, often drawn over the head."]}
+{"w":"rebucous","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"rebuke","pos":"verb","d":["To scold or criticize sharply."]}
+{"w":"rebukingly","pos":"adverb","d":["In a scolding or reproachful manner."]}
+{"w":"rebuttal","pos":"noun","d":["A statement that refutes or contradicts an argument or charge."]}
+{"w":"recapitulatory","pos":"adjective","d":["Serving to sum up or recapitulate."]}
+{"w":"recche","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"receiptor","pos":"noun","d":["One who receives something; a receiver, especially in law."]}
+{"w":"receit","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"receivability","pos":"noun","d":["The quality of being able to be received or accepted."]}
+{"w":"receivedness","pos":"noun","d":["The state of being received or accepted."]}
+{"w":"recency","pos":"noun","d":["The quality of being recent; newness."]}
+{"w":"recension","pos":"noun","d":["A critical revision of a text, or the revised text itself."]}
+{"w":"receptacle","pos":"noun","d":["A container or holder for receiving things."]}
+{"w":"receptacular","pos":"adjective","d":["Pertaining to or serving as a receptacle."]}
+{"w":"receptaculum","pos":"noun","d":["A receptacle or receiving vessel, especially a cavity in anatomy."]}
+{"w":"receptary","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"receptibility","pos":"noun","d":["The capacity to receive impressions or ideas."]}
+{"w":"receptible","pos":"adjective","d":["Capable of being received."]}
+{"w":"receptive","pos":"adjective","d":["Willing or able to receive new ideas, impressions, or suggestions."]}
+{"w":"receptivity","pos":"noun","d":["The quality of being receptive; openness to new ideas."]}
+{"w":"receptory","pos":"adjective","d":["Pertaining to receiving or reception."]}
+{"w":"rechabite","pos":"noun","d":["A member of a society pledged to total abstinence from alcohol.","A member of an ancient biblical sect that abstained from wine."]}
+{"w":"rechauffe","pos":"noun","d":["A dish of food reheated from a previous meal.","A reworking of old material; a rehash."]}
+{"w":"recherche","pos":"adjective","d":["Rare, choice, or of refined and elegant quality."]}
+{"w":"rechless","pos":"adjective","d":["An older spelling of reckless; heedless of danger or consequences."]}
+{"w":"recidivate","pos":"verb","d":["To relapse into crime or bad conduct after reform."]}
+{"w":"recidivation","pos":"noun","d":["Relapse into crime or wrongdoing after reform."]}
+{"w":"recidivism","pos":"noun","d":["The tendency of a convicted criminal to commit crimes again."]}
+{"w":"recidivist","pos":"noun","d":["A person who relapses into crime; a repeat offender."]}
+{"w":"recidivous","pos":"adjective","d":["Relapsing into crime; marked by recidivism."]}
+{"w":"recipiangle","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"recipience","pos":"noun","d":["The act of receiving; receptiveness."]}
+{"w":"recipiency","pos":"noun","d":["The state of being a recipient; the act of receiving."]}
+{"w":"reciprocal","pos":"adjective","d":["Given, felt, or done in return; mutual.","In grammar, describing pronouns or verbs that express mutual action, as in each other."]}
+{"w":"reciprocate","pos":"verb","d":["To give, feel, or do in return; to return in kind."]}
+{"w":"reciprocation","pos":"noun","d":["The act of reciprocating; mutual giving in return."]}
+{"w":"reciprocity","pos":"noun","d":["The practice of mutual exchange; the giving of benefits in return for benefits received."]}
+{"w":"reciprocornous","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reciprocous","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reciprok","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reciproque","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"recision","pos":"noun","d":["The act of cutting off or cutting back."]}
+{"w":"recitative","pos":"noun","d":["A style of declamatory singing in opera and oratorio, midway between speech and song."]}
+{"w":"recitativo","pos":"noun","d":["The Italian term for recitative; declamatory singing in opera."]}
+{"w":"reck","pos":"verb","d":["To care about or take heed of, now used chiefly in the negative, as in he recks not."]}
+{"w":"reckon","pos":"verb","d":["To count or calculate by figures.","To think or suppose; to consider."]}
+{"w":"reclinant","pos":"adjective","d":["Leaning or lying back; reclining."]}
+{"w":"reclinate","pos":"adjective","d":["Bent or curved backward, as a leaf or stem."]}
+{"w":"reclination","pos":"noun","d":["The act of leaning back; a backward bend or inclination."]}
+{"w":"recline","pos":"verb","d":["To lean back or lie down in a resting position."]}
+{"w":"reclude","pos":"verb","d":["To shut off from the world; to cloister in seclusion."]}
+{"w":"recluse","pos":"noun","d":["A person who lives in seclusion from society; a hermit."]}
+{"w":"reclusion","pos":"noun","d":["The state of being shut away from the world; seclusion."]}
+{"w":"reclusive","pos":"adjective","d":["Living in seclusion; withdrawn from society."]}
+{"w":"reclusory","pos":"noun","d":["A hermitage or place of religious seclusion."]}
+{"w":"recoct","pos":"verb","d":["To cook or boil again; to rehash."]}
+{"w":"recognitor","pos":"noun","d":["One who recognizes; in old law, a juror sworn on an assize."]}
+{"w":"recognitory","pos":"adjective","d":["Pertaining to recognition or to a recognitor."]}
+{"w":"recognizability","pos":"noun","d":["The quality of being recognizable."]}
+{"w":"recognization","pos":"noun","d":["The act of recognizing; recognition."]}
+{"w":"recognosce","pos":"verb","d":["To recognize; to acknowledge."]}
+{"w":"recoilingly","pos":"adverb","d":["In a recoiling manner; with a sudden drawing back."]}
+{"w":"recommendative","pos":"adjective","d":["Serving to recommend; commendatory."]}
+{"w":"recompensive","pos":"adjective","d":["Giving recompense; rewarding."]}
+{"w":"reconcentrado","pos":"noun","d":["A Cuban civilian forced into a guarded town during the Cuban war of independence."]}
+{"w":"reconcile","pos":"verb","d":["To restore friendly relations between persons or parties.","To make consistent or compatible, as conflicting statements."]}
+{"w":"reconfort","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reconnaissance","pos":"noun","d":["Preliminary military scouting or surveying of an area to gain information."]}
+{"w":"reconnoissance","pos":"noun","d":["An older spelling of reconnaissance; military scouting."]}
+{"w":"reconnoiter","pos":"verb","d":["To make a reconnaissance of; to scout."]}
+{"w":"reconnoitre","pos":"verb","d":["The British spelling of reconnoiter; to scout or survey."]}
+{"w":"recorporification","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"recoveree","pos":"noun","d":["One in whose favor a legal recovery is made; one who recovers."]}
+{"w":"recoveror","pos":"noun","d":["One who obtains a legal recovery; a plaintiff who wins judgment."]}
+{"w":"recreancy","pos":"noun","d":["The quality of being recreant; cowardice or desertion of duty."]}
+{"w":"recrement","pos":"noun","d":["Waste matter separated in refining; dross or refuse."]}
+{"w":"recrementitial","pos":"adjective","d":["Pertaining to recrement; consisting of waste matter."]}
+{"w":"recrementitious","pos":"adjective","d":["Of the nature of recrement; drossy."]}
+{"w":"recriminator","pos":"noun","d":["One who makes counter-charges against an accuser."]}
+{"w":"recrudency","pos":"noun","d":["A fresh outbreak of a disease or disorder after a period of quiet."]}
+{"w":"recrudesce","pos":"verb","d":["To break out again or become active once more after a period of quiet, as a disease or a conflict can.","To revive and flare up anew."]}
+{"w":"recrudescence","pos":"noun","d":["The return or renewed outbreak of something that had subsided or seemed to end, such as a disease or a trouble."]}
+{"w":"recrudescency","pos":"noun","d":["The state or fact of breaking out again after subsiding.","A renewed outbreak of what had been quiet."]}
+{"w":"recrudescent","pos":"adjective","d":["Breaking out again; becoming active once more after a period of dormancy."]}
+{"w":"recruit","pos":"noun","d":["A person newly enlisted in an armed force or newly joined to an organization.","A fresh member brought into any group or service."]}
+{"w":"rectal","pos":"adjective","d":["Relating to or affecting the rectum."]}
+{"w":"rectangle","pos":"noun","d":["A four-sided figure with four right angles, its opposite sides equal in length."]}
+{"w":"rectangular","pos":"adjective","d":["Shaped like a rectangle; having four right angles.","Arranged at right angles to something else."]}
+{"w":"recti-","pos":"prefix","d":["A prefix meaning straight, as in rectilinear."]}
+{"w":"rectifiable","pos":"adjective","d":["Capable of being corrected or set right.","Capable of being straightened."]}
+{"w":"rectification","pos":"noun","d":["The act of correcting or setting something right.","A process of refining or purifying a substance, as in distillation."]}
+{"w":"rectificator","pos":"noun","d":["One who or that which corrects or sets right.","An apparatus used in refining or distilling liquids."]}
+{"w":"rectify","pos":"verb","d":["To correct; to make right.","To purify a substance by repeated distillation or refining."]}
+{"w":"rectilineal","pos":"adjective","d":["Bounded or formed by straight lines."]}
+{"w":"rectilinear","pos":"adjective","d":["Moving in or forming a straight line.","Composed of or relating to straight lines."]}
+{"w":"rectilineous","pos":"adjective","d":["Having the character of a straight line; straight-lined."]}
+{"w":"rectinerved","pos":"adjective","d":["Having straight veins, as a leaf."]}
+{"w":"rection","pos":"noun","d":["In grammar, the government of one word over another; the relation by which a word requires a particular form or case in a word dependent on it."]}
+{"w":"rectirostral","pos":"adjective","d":["Having a straight bill, as certain birds."]}
+{"w":"rectiserial","pos":"adjective","d":["Arranged in straight rows or series."]}
+{"w":"rectitis","pos":"noun","d":["Inflammation of the rectum."]}
+{"w":"rectitude","pos":"noun","d":["Moral uprightness; correctness of conduct and judgment."]}
+{"w":"recto","pos":"noun","d":["The right-hand page of an open book; the front side of a leaf of paper."]}
+{"w":"recto-","pos":"prefix","d":["A prefix relating to the rectum, as in rectocele."]}
+{"w":"rector","pos":"noun","d":["The head of certain schools, colleges, or churches.","A clergyman in charge of a parish."]}
+{"w":"rectoress","pos":"noun","d":["A female rector; a woman holding the office of rector."]}
+{"w":"rectory","pos":"noun","d":["The house or residence provided for a rector.","The office or benefice of a rector."]}
+{"w":"rectress","pos":"noun","d":["A woman who rules; a female rector, in old use."]}
+{"w":"rectrix","pos":"noun","d":["One of the stiff tail feathers of a bird, used in steering flight."]}
+{"w":"rectum","pos":"noun","d":["The lowest part of the large intestine, ending at the anus."]}
+{"w":"rectus","pos":"noun","d":["A straight muscle of the body, such as the rectus abdominis of the abdomen."]}
+{"w":"recule","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"recumb","pos":"verb","d":["To lean back; to recline as at rest."]}
+{"w":"recumbency","pos":"noun","d":["The state of reclining or lying down; a posture of rest."]}
+{"w":"recuperable","pos":"adjective","d":["Capable of being recovered or regained."]}
+{"w":"recuperate","pos":"verb","d":["To recover health, strength, or spirits after illness or loss.","To get back something lost or spent."]}
+{"w":"recuperation","pos":"noun","d":["The process of recovering health or strength.","The recovery of something lost."]}
+{"w":"recuperative","pos":"adjective","d":["Tending to restore health or strength; aiding recovery."]}
+{"w":"recuperator","pos":"noun","d":["One who recuperates; one who regains health or losses.","An apparatus for recovering waste heat or materials in industrial processes."]}
+{"w":"recuperatory","pos":"adjective","d":["Relating to or aiding recuperation; restorative."]}
+{"w":"recurrence","pos":"noun","d":["The act of occurring again; a repeated happening.","A return to a former state or condition."]}
+{"w":"recursant","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"recurviroster","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"recurvous","pos":"adjective","d":["Curved backward or upward."]}
+{"w":"recusancy","pos":"noun","d":["The refusal to submit to authority or to conform to an established church or rule."]}
+{"w":"recusant","pos":"noun","d":["One who refuses to conform to an established church, law, or requirement."]}
+{"w":"recusation","pos":"noun","d":["In law, the act of challenging or objecting to a judge or juror as biased or unfit."]}
+{"w":"recusative","pos":"adjective","d":["Relating to or expressing recusation; tending to recuse."]}
+{"w":"recuse","pos":"verb","d":["To disqualify or withdraw oneself from judging or deciding a case because of bias or a conflict of interest."]}
+{"w":"recussion","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"red cross","pos":"phrase","d":["An international humanitarian organization that gives medical aid and disaster relief.","The emblem of a red cross on a white ground used by that organization and to mark medical personnel."]}
+{"w":"red dog flour","pos":"noun","d":["A low-grade flour made from wheat byproducts, used chiefly as animal feed."]}
+{"w":"red-dog flour","pos":"noun","d":["A low-grade flour made from wheat byproducts, used chiefly as animal feed."]}
+{"w":"red-gum","pos":"noun","d":["A eucalyptus tree with reddish wood, or the red resin obtained from such trees."]}
+{"w":"red-hand","pos":"adjective","d":["Bearing a red hand as an emblem, as in heraldry.","Caught red-handed; in the very act of a wrongdoing."]}
+{"w":"red-hot","pos":"adjective","d":["Heated until glowing red.","Extremely hot, intense, or urgent; also very recent or current."]}
+{"w":"red-letter","pos":"adjective","d":["Marked for special attention or celebration, as a red-letter day."]}
+{"w":"red-light district","pos":"phrase","d":["A district of a city where prostitution is commonly carried on."]}
+{"w":"red-riband","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"red-short","pos":"adjective","d":["Of iron or steel, brittle when heated to redness."]}
+{"w":"red-tailed","pos":"adjective","d":["Having a red tail, as the red-tailed hawk."]}
+{"w":"red-tape","pos":"noun","d":["Excessive official routine and formalities that cause delay."]}
+{"w":"red-tapism","pos":"noun","d":["The practice of relying on excessive official formalities; bureaucratic routine."]}
+{"w":"red-tapist","pos":"noun","d":["One given to excessive official formalities; a devotee of bureaucratic routine."]}
+{"w":"redacteur","pos":"noun","d":["An editor, especially of a newspaper or journal."]}
+{"w":"redargution","pos":"noun","d":["The act of refuting or disproving; refutation."]}
+{"w":"redargutory","pos":"adjective","d":["Tending to refute; serving as a refutation."]}
+{"w":"redde","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reddendum","pos":"noun","d":["In law, a clause in a lease by which rent is reserved to be paid by the tenant."]}
+{"w":"redditive","pos":"adjective","d":["In grammar, answering to a question or to a relative word, as then answers when."]}
+{"w":"reddle","pos":"noun","d":["Red ochre used for marking, especially sheep."]}
+{"w":"rede","pos":"noun","d":["Counsel or advice; a plan or course of action, in older or poetic use."]}
+{"w":"redemptible","pos":"adjective","d":["Capable of being redeemed or bought back; subject to redemption."]}
+{"w":"redemptionary","pos":"adjective","d":["Relating to redemption or ransom."]}
+{"w":"redemptioner","pos":"noun","d":["An emigrant who paid for passage to America by selling himself into temporary service."]}
+{"w":"redemptionist","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"redemptive","pos":"adjective","d":["Serving to redeem; bringing rescue or deliverance from evil or error."]}
+{"w":"redemptorist","pos":"noun","d":["A member of the Congregation of the Most Holy Redeemer, a Roman Catholic religious order."]}
+{"w":"redemptory","pos":"adjective","d":["Relating to redemption; serving to redeem or ransom."]}
+{"w":"redempture","pos":"noun","d":["Redemption; the act of redeeming or buying back, in old use."]}
+{"w":"redhibition","pos":"noun","d":["In law, the rescission of a sale on account of a defect in the thing sold; also the defect itself."]}
+{"w":"redhibitory","pos":"adjective","d":["Relating to redhibition; tending to annul a sale."]}
+{"w":"redia","pos":"noun","d":["A larval stage of certain parasitic flatworms that develops within the sporocyst."]}
+{"w":"redient","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"redif","pos":"noun","d":["The reserve force of the Ottoman Turkish army."]}
+{"w":"redingote","pos":"noun","d":["A long overcoat with a large collar, originally worn for riding; also a woman's coatlike dress."]}
+{"w":"redivivus","pos":"adjective","d":["Come back to life; revived."]}
+{"w":"redolence","pos":"noun","d":["A pleasant sweet odor; fragrance."]}
+{"w":"redolency","pos":"noun","d":["The quality of being fragrant; pleasant odor."]}
+{"w":"redound","pos":"verb","d":["To contribute to; to result in credit or honor.","To come back upon as a consequence; to rebound."]}
+{"w":"redowa","pos":"noun","d":["A Bohemian dance in triple time; also the music for it."]}
+{"w":"reducent","pos":"noun","d":["In chemistry, a reducing agent; a substance that reduces another in a chemical reaction."]}
+{"w":"reducible","pos":"adjective","d":["Capable of being reduced; that may be lessened, brought to a simpler form, or subdued."]}
+{"w":"reductibility","pos":"noun","d":["The quality or state of being reducible."]}
+{"w":"reduit","pos":"noun","d":["A fortified inner refuge within a fortress; a place of last resort in a fortification."]}
+{"w":"redundance","pos":"noun","d":["The state of being redundant; excess beyond what is needed."]}
+{"w":"redundancy","pos":"noun","d":["The state of being redundant; superfluity.","In British use, the loss of a job because it is no longer needed; a layoff."]}
+{"w":"redundant","pos":"adjective","d":["More than is needed; superfluous.","Repetitive; using more words than necessary."]}
+{"w":"reduvid","pos":"noun","d":["An assassin bug of the family Reduviidae; a predatory insect that preys on other insects."]}
+{"w":"ree","pos":"","d":[],"src":"iwb","unsure":true}
+{"w": "reebok", "pos": "noun", "d": ["A brand of athletic shoes and sportswear.", "An old spelling of rebeck, a small three-stringed fiddle."]}
+{"w": "reechy", "pos": "adjective", "d": ["Smoky, grimy, or foul-smelling from soot or smoke."]}
+{"w": "reed-mace", "pos": "noun", "d": ["A tall plant of marshes and pond edges with a brown cylindrical seed head, also called cattail."]}
+{"w": "reedy", "pos": "adjective", "d": ["Full of or bordered by reeds.", "Thin and weak in sound, like a reed instrument."]}
+{"w": "reef-band", "pos": "noun", "d": ["A strong horizontal strip of canvas sewn across a sail where the reef points are fastened to shorten it."]}
+{"w": "reefy", "pos": "adjective", "d": ["Full of reefs or sunken rocks."]}
+{"w": "reek", "pos": "verb", "d": ["To give off a strong, unpleasant smell.", "To smoke or steam (an old sense)."]}
+{"w": "reeky", "pos": "adjective", "d": ["Smelling strongly of smoke or a foul odor.", "Steamy; giving off vapor."]}
+{"w": "reem", "pos": "noun", "d": ["A wild ox mentioned in ancient Hebrew writings, believed to be the aurochs."]}
+{"w": "reenforced concrete", "pos": "noun", "d": ["Concrete strengthened with steel bars or mesh set inside it; an older spelling of reinforced concrete."]}
+{"w": "reermouse", "pos": "noun", "d": ["An old word for a bat."]}
+{"w": "refait", "pos": "noun", "d": ["In fencing, a renewed attack made after the first attack has been parried."]}
+{"w": "refect", "pos": "verb", "d": ["To refresh, especially with food or drink."]}
+{"w": "refel", "pos": "verb", "d": ["To refute; to disprove (an old form)."]}
+{"w": "referee", "pos": "noun", "d": ["An official who enforces the rules during a game or match.", "A person asked to settle a dispute or judge a contest."]}
+{"w": "referendary", "pos": "noun", "d": ["An officer who carries reports or refers matters to a higher authority for decision."]}
+{"w": "referendum", "pos": "noun", "d": ["A vote in which all eligible voters decide a particular question or measure directly."]}
+{"w": "referential", "pos": "adjective", "d": ["Relating to or containing a reference; pointing to something else for meaning."]}
+{"w": "referrible", "pos": "adjective", "d": ["Capable of being referred to a source, cause, or authority."]}
+{"w": "reflueus", "pos": "adjective", "d": ["Flowing back; ebbing, as a tide."]}
+{"w": "reforestization", "pos": "noun", "d": ["The planting of trees to restore land to forest."]}
+{"w": "reformade", "pos": "noun", "d": ["A military officer kept in service after losing his company or command."]}
+{"w": "reformatory", "pos": "noun", "d": ["An institution for reforming young offenders."]}
+{"w": "refossion", "pos": "noun", "d": ["The act of digging something up again."]}
+{"w": "refractometer", "pos": "noun", "d": ["An instrument that measures how much light bends passing through a substance, used to find its refractive index."]}
+{"w": "refractor", "pos": "noun", "d": ["A telescope that forms images with lenses rather than mirrors."]}
+{"w": "refractorily", "pos": "adverb", "d": ["In a stubborn or unmanageable way; resisting control."]}
+{"w": "refractoriness", "pos": "noun", "d": ["The quality of being stubborn, unruly, or resistant to treatment or control."]}
+{"w": "refragable", "pos": "adjective", "d": ["Capable of being broken, resisted, or set aside."]}
+{"w": "refragate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "refrain", "pos": "verb", "d": ["To hold oneself back from doing something.", "A line or phrase repeated in a song or poem."]}
+{"w": "refrenation", "pos": "noun", "d": ["The act of restraining or holding back."]}
+{"w": "refreyd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "refrigerant", "pos": "noun", "d": ["A substance used to produce cold, as in a refrigerator or freezer.", "A medicine that cools the body or reduces fever (an old medical sense)."]}
+{"w": "refrigeration", "pos": "noun", "d": ["The process of cooling or keeping things cold, especially to preserve food."]}
+{"w": "refrigerative", "pos": "adjective", "d": ["Having the power to cool; cooling."]}
+{"w": "refrigeratory", "pos": "noun", "d": ["A vessel, room, or place used for cooling things."]}
+{"w": "refrigerium", "pos": "noun", "d": ["Cooling refreshment; relief from heat.", "A memorial meal for the dead in the early Christian church."]}
+{"w": "refringency", "pos": "noun", "d": ["The power of bending light rays; refractive power."]}
+{"w": "reft", "pos": "verb", "d": ["Past tense and past participle of reave: seized or carried off by force."]}
+{"w": "refuge", "pos": "noun", "d": ["Shelter or protection from danger or trouble."]}
+{"w": "refugee", "pos": "noun", "d": ["A person forced to flee home to escape war, persecution, or disaster."]}
+{"w": "refulgence", "pos": "noun", "d": ["Brilliant brightness; radiant splendor."]}
+{"w": "refusal", "pos": "noun", "d": ["The act of saying no to a request or offer; a rejection."]}
+{"w": "refut", "pos": "verb", "d": ["To refute; to disprove (an old form of refute)."]}
+{"w": "refutatory", "pos": "adjective", "d": ["Tending to refute; containing a refutation."]}
+{"w": "refute", "pos": "verb", "d": ["To prove a claim or argument wrong."]}
+{"w": "regal", "pos": "adjective", "d": ["Of or like a king; royal and splendid."]}
+{"w": "regalia", "pos": "noun", "d": ["The emblems of royalty, such as a crown and scepter.", "The distinctive dress or decorations worn by members of an order or holders of an office."]}
+{"w": "regalian", "pos": "adjective", "d": ["Pertaining to a king; royal."]}
+{"w": "regatta", "pos": "noun", "d": ["A series of boat or yacht races."]}
+{"w": "regel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "regence", "pos": "noun", "d": ["The office or period of a regent.", "The French decorative style of the regency period in the early 1700s."]}
+{"w": "regency", "pos": "noun", "d": ["Government by a regent who rules in place of a monarch.", "The period during which a regent governs."]}
+{"w": "regeneracy", "pos": "noun", "d": ["The state of being made new again; spiritual rebirth."]}
+{"w": "regeneratory", "pos": "adjective", "d": ["Tending to regenerate; that renews or restores."]}
+{"w": "regent diamond", "pos": "noun", "d": ["A famous large diamond once among the crown jewels of France."]}
+{"w": "regentess", "pos": "noun", "d": ["A woman who rules as regent."]}
+{"w": "regian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "regible", "pos": "adjective", "d": ["Capable of being ruled or governed."]}
+{"w": "regicidal", "pos": "adjective", "d": ["Pertaining to the killing of a king."]}
+{"w": "regicide", "pos": "noun", "d": ["The killing of a king.", "A person who kills a king."]}
+{"w": "regidor", "pos": "noun", "d": ["A municipal magistrate or council member in Spain or Portugal."]}
+{"w": "regimen", "pos": "noun", "d": ["A regulated course of diet, exercise, or treatment.", "A system of government (an old sense)."]}
+{"w": "regiment", "pos": "noun", "d": ["A military unit of soldiers, usually made up of several battalions.", "To organize or control strictly, as if by military discipline."]}
+{"w": "regiminal", "pos": "adjective", "d": ["Pertaining to a regimen."]}
+{"w": "regious", "pos": "adjective", "d": ["Kingly; royal (an old word)."]}
+{"w": "registrant", "pos": "noun", "d": ["One who registers; a person entered on a register."]}
+{"w": "registrary", "pos": "noun", "d": ["A registrar; one who keeps an official register."]}
+{"w": "registrate", "pos": "verb", "d": ["To enter in a register; to register (an older form)."]}
+{"w": "regius", "pos": "adjective", "d": ["Royal; appointed by a king, as in regius professor."]}
+{"w": "regle", "pos": "noun", "d": ["A rule or straightedge (from French)."]}
+{"w": "reglet", "pos": "noun", "d": ["A flat, narrow molding in architecture.", "A thin strip of wood used in printing to space lines of type."]}
+{"w": "regma", "pos": "noun", "d": ["A dry fruit that splits when ripe into one-seeded segments."]}
+{"w": "regnal", "pos": "adjective", "d": ["Of or relating to a reign."]}
+{"w": "regnancy", "pos": "noun", "d": ["The state of reigning; royal authority."]}
+{"w": "regnant", "pos": "adjective", "d": ["Reigning; now ruling, as in queen regnant."]}
+{"w": "regnative", "pos": "adjective", "d": ["Ruling; reigning."]}
+{"w": "regne", "pos": "noun", "d": ["A kingdom or reign (an old spelling)."]}
+{"w": "regratery", "pos": "noun", "d": ["The old market offense of buying provisions and reselling them in the same market at a higher price."]}
+{"w": "regratiatory", "pos": "adjective", "d": ["Relating to regrating, the practice of buying goods to resell them at a profit in the same market."]}
+{"w": "regrator", "pos": "noun", "d": ["One who buys provisions to resell them at a higher price; a huckster."]}
+{"w": "regrede", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "regredience", "pos": "noun", "d": ["A going back; return or retrogression."]}
+{"w": "regress", "pos": "verb", "d": ["To go back; to return to a former state.", "A backward movement; a return."]}
+{"w": "regulable", "pos": "adjective", "d": ["Capable of being regulated or controlled."]}
+{"w": "regularia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "regulate", "pos": "verb", "d": ["To control or adjust according to a rule or standard.", "To bring into good order; to make regular."]}
+{"w": "regulative", "pos": "adjective", "d": ["Tending to regulate; serving to control or direct."]}
+{"w": "regulator", "pos": "noun", "d": ["A device that keeps something at a set level or rate.", "A person who controls or directs according to rules."]}
+{"w": "reguline", "pos": "adjective", "d": ["Pertaining to regulus; having the character of pure metal."]}
+{"w": "regulize", "pos": "verb", "d": ["In metallurgy, to reduce an ore to its pure metallic mass or regulus."]}
+{"w": "regulus", "pos": "noun", "d": ["The pure metallic mass obtained by smelting an ore.", "A bright star in the constellation Leo.", "A little king; a petty ruler."]}
+{"w": "regurgitate", "pos": "verb", "d": ["To bring swallowed food back up from the stomach.", "To pour or rush back out."]}
+{"w": "regurgitation", "pos": "noun", "d": ["The act of bringing swallowed matter back up or pouring it back out."]}
+{"w": "rehibition", "pos": "noun", "d": ["In law, the return of a defective thing sold, rescinding the sale."]}
+{"w": "rehibitory", "pos": "adjective", "d": ["Pertaining to the legal return of defective goods sold."]}
+{"w": "rei", "pos": "noun", "d": ["The Latin genitive of res, meaning of the thing, used in legal phrases."]}
+{"w": "reichsrath", "pos": "noun", "d": ["The imperial parliament or council of the former Austrian Empire."]}
+{"w": "reichsstand", "pos": "noun", "d": ["A German imperial estate; a prince or state represented in the old imperial diet."]}
+{"w": "reichstag", "pos": "noun", "d": ["The parliament building of Germany in Berlin, also used as a name for the German legislature itself.", "The German imperial or national parliament that met in that building before 1945."]}
+{"w": "reif", "pos": "noun", "d": ["Spoil or plunder taken in a raid.", "The act of robbing or plundering."]}
+{"w": "reigle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "reign", "pos": "verb", "d": ["To hold royal office; to rule as a monarch.", "To prevail or be dominant, as in silence reigned over the hall."]}
+{"w": "reim", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rein", "pos": "noun", "d": ["One of the straps fastened to a bridle by which a rider or driver guides a horse.", "A means of controlling or restraining something."]}
+{"w": "reis effendi", "pos": "noun", "d": ["The title of the Ottoman official in charge of foreign affairs.", "A minister or chief scribe of the Ottoman Empire."]}
+{"w": "reit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "reiteratedly", "pos": "adverb", "d": ["In a reiterated manner; repeatedly, again and again."]}
+{"w": "reiver", "pos": "noun", "d": ["A raider or plunderer, especially one of the Border reivers who raided along the Anglo-Scottish border."]}
+{"w": "rejectamenta", "pos": "noun", "d": ["Things cast off or rejected as worthless; refuse."]}
+{"w": "rejectaneous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rejectitious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rejoice", "pos": "verb", "d": ["To feel or express great joy.", "To make joyful; to gladden."]}
+{"w": "rejourn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rejuvenate", "pos": "verb", "d": ["To make young or youthful again.", "To restore to a fresh or vigorous condition."]}
+{"w": "rejuvenation", "pos": "noun", "d": ["The act or process of making young again.", "Restoration to a vigorous or flourishing condition."]}
+{"w": "rejuvenescency", "pos": "noun", "d": ["The state or process of growing young again; renewal of youth."]}
+{"w": "rejuvenize", "pos": "verb", "d": ["To rejuvenate; to make young again."]}
+{"w": "rekne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "relais", "pos": "noun", "d": ["A relay station where fresh horses, riders, or vehicles were provided along a post road."]}
+{"w": "relativity", "pos": "noun", "d": ["The state of being relative or dependent on something else for meaning or value.", "The physical theory describing how space, time, and motion are perceived differently by observers in different frames of reference."]}
+{"w": "relator", "pos": "noun", "d": ["One who relates or narrates something.", "In law, a person at whose complaint or on whose behalf an action is brought by the state."]}
+{"w": "relatrix", "pos": "noun", "d": ["A woman who relates or narrates; the feminine form of relator.", "In law, a woman bringing a relator action."]}
+{"w": "relay cylinder", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "relay governor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "relbun", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "releasee", "pos": "noun", "d": ["A person to whom a release is granted or made."]}
+{"w": "releasor", "pos": "noun", "d": ["A person who grants or executes a release."]}
+{"w": "relesse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "relevancy", "pos": "noun", "d": ["The quality of being relevant; pertinence to the matter at hand."]}
+{"w": "reliant", "pos": "adjective", "d": ["Depending on someone or something for support; dependent.", "Trusting or confident in someone or something."]}
+{"w": "relic", "pos": "noun", "d": ["An object, custom, or belief surviving from an earlier time.", "A sacred object, especially a body part or possession of a saint, kept as worthy of veneration."]}
+{"w": "relict", "pos": "noun", "d": ["A widow; a woman whose husband has died.", "Something left behind; a remnant or survivor."]}
+{"w": "relievo", "pos": "noun", "d": ["Sculpture in which figures project from a flat background; relief."]}
+{"w": "religieuse", "pos": "noun", "d": ["A nun; a woman belonging to a religious order.", "A small French pastry of stacked cream-filled puffs topped with icing."]}
+{"w": "religieux", "pos": "noun", "d": ["A monk or religious man; a man belonging to a religious order."]}
+{"w": "religiosity", "pos": "noun", "d": ["Strong religious feeling or devotion.", "Exaggerated or affected religious zeal."]}
+{"w": "relik", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "relinquent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "relinquish", "pos": "verb", "d": ["To give up or abandon something, such as a claim or possession.", "To release one's hold on; to let go."]}
+{"w": "reliquary", "pos": "noun", "d": ["A container for keeping sacred relics."]}
+{"w": "relique", "pos": "noun", "d": ["An archaic spelling of relic; an object surviving from an earlier time."]}
+{"w": "reliquiae", "pos": "noun", "d": ["Remains, especially the relics of saints; things left behind."]}
+{"w": "reliquian", "pos": "adjective", "d": ["Pertaining to relics or remains."]}
+{"w": "relish", "pos": "verb", "d": ["To enjoy greatly; to take pleasure in.", "To give flavor to; to season."]}
+{"w": "reluct", "pos": "verb", "d": ["To show unwillingness or resistance; to object."]}
+{"w": "reluctancy", "pos": "noun", "d": ["Unwillingness; reluctance."]}
+{"w": "reluctivity", "pos": "noun", "d": ["In magnetism, the reciprocal of magnetic permeability; specific magnetic reluctance."]}
+{"w": "relume", "pos": "verb", "d": ["To light again; to rekindle."]}
+{"w": "remainder-man", "pos": "noun", "d": ["In law, a person entitled to a remainder; one who will receive an estate after a prior interest ends."]}
+{"w": "remanence", "pos": "noun", "d": ["In magnetism, the residual magnetization left in a material after the magnetizing field is removed."]}
+{"w": "remanency", "pos": "noun", "d": ["The state or degree of remanence; residual magnetism."]}
+{"w": "remanent", "pos": "adjective", "d": ["Remaining; left over.", "In magnetism, remaining after the removal of the magnetizing force."]}
+{"w": "remanet", "pos": "noun", "d": ["In law, a case carried over from one court term to the next."]}
+{"w": "remarque proof", "pos": "phrase", "d": ["A proof impression of an engraving taken to show the remarque, a small sketch drawn in the margin."]}
+{"w": "remberge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "remblai", "pos": "noun", "d": ["An embankment or mound of earth; fill used to raise the level of ground."]}
+{"w": "remble", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "reme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "remediable", "pos": "adjective", "d": ["Capable of being remedied or cured."]}
+{"w": "remediless", "pos": "adjective", "d": ["Without remedy; incurable."]}
+{"w": "remembrance", "pos": "noun", "d": ["The act of remembering; a memory.", "A keepsake or memorial."]}
+{"w": "remenant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "remercie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "remewe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "remiform", "pos": "adjective", "d": ["Shaped like an oar."]}
+{"w": "remiges", "pos": "noun", "d": ["The large flight feathers on the wing of a bird."]}
+{"w": "reminiscence", "pos": "noun", "d": ["A memory of a past experience.", "The act of recalling past events."]}
+{"w": "reminiscency", "pos": "noun", "d": ["The act or power of recalling past events to mind."]}
+{"w": "reminiscent", "pos": "adjective", "d": ["Tending to remind one of something; suggestive of the past.", "Engaged in recalling past experiences."]}
+{"w": "remiped", "pos": "noun", "d": ["An animal that swims by means of oar-like feet or limbs.", "A member of certain groups of swimming crustaceans with paddle-like limbs."]}
+{"w": "remissibility", "pos": "noun", "d": ["The quality of being remissible; capability of being pardoned or remitted."]}
+{"w": "remit", "pos": "verb", "d": ["To send money in payment.", "To pardon or forgive, as a sin or penalty.", "To refer a matter back to an authority for further action."]}
+{"w": "remittal", "pos": "noun", "d": ["The act of remitting; money sent in payment."]}
+{"w": "remittance", "pos": "noun", "d": ["Money sent, especially to pay a debt or to support someone at a distance."]}
+{"w": "remittitur", "pos": "noun", "d": ["In law, an order by which a court reduces the damages awarded by a jury."]}
+{"w": "remnant", "pos": "noun", "d": ["A small remaining quantity; what is left over.", "A piece of cloth or goods left after the rest has been sold."]}
+{"w": "remolade", "pos": "noun", "d": ["A piquant sauce served especially with cold meats or fish; a variant of remoulade."]}
+{"w": "remonstrant", "pos": "noun", "d": ["One who remonstrates; a protester.", "A member of the Remonstrants, the Dutch Arminian party of the seventeenth century."]}
+{"w": "remonstrate", "pos": "verb", "d": ["To protest or object; to present reasons against something."]}
+{"w": "remonstrative", "pos": "adjective", "d": ["Expressing remonstrance; protesting."]}
+{"w": "remonstrator", "pos": "noun", "d": ["One who remonstrates."]}
+{"w": "remord", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "remordency", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "remoulad", "pos": "noun", "d": ["A variant spelling of remoulade, a piquant sauce."]}
+{"w": "remoulade", "pos": "noun", "d": ["A piquant sauce made with mayonnaise, mustard, and herbs, served with cold meats or fish."]}
+{"w": "remunerable", "pos": "adjective", "d": ["Worthy of being rewarded or paid."]}
+{"w": "remunerative", "pos": "adjective", "d": ["Yielding reward or profit; profitable."]}
+{"w": "remuneratory", "pos": "adjective", "d": ["Tending to remunerate; serving to reward."]}
+{"w": "ren", "pos": "noun", "d": ["The kidney, in anatomical terms."]}
+{"w": "renal-portal", "pos": "adjective", "d": ["Relating to the renal portal system, the veins carrying blood to the kidneys."]}
+{"w": "renascence", "pos": "noun", "d": ["Rebirth; renewal.", "A revival of learning, art, or culture; the Renaissance."]}
+{"w": "renascible", "pos": "adjective", "d": ["Capable of being born again or revived."]}
+{"w": "rencontre", "pos": "noun", "d": ["A chance meeting or encounter, especially a hostile one.", "A duel or contest."]}
+{"w": "rend", "pos": "verb", "d": ["To tear apart violently.", "To remove or take away by force."]}
+{"w": "rendezvous", "pos": "noun", "d": ["A meeting at an agreed time and place.", "A place designated for meeting."]}
+{"w": "renegade", "pos": "noun", "d": ["One who deserts a cause, party, or faith; a traitor or deserter."]}
+{"w": "renegado", "pos": "noun", "d": ["A variant of renegade; one who renounces a faith or allegiance."]}
+{"w": "renegat", "pos": "noun", "d": ["An obsolete form of renegade."]}
+{"w":"renege","pos":"verb","d":["To break a promise or go back on an agreement you have made.","To deny a claim or refuse to honor an obligation."]}
+{"w":"renewedly","pos":"adverb","d":["In a renewed manner; with fresh energy after being restored."]}
+{"w":"renewedness","pos":"noun","d":["The state or quality of being renewed or restored."]}
+{"w":"reng","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reniform","pos":"adjective","d":["Shaped like a kidney; rounded with a notch on one side.","Having a kidney-like shape, as certain leaves and seeds."]}
+{"w":"renitence","pos":"noun","d":["The quality of resisting pressure; stubborn opposition to force."]}
+{"w":"renitent","pos":"adjective","d":["Resisting pressure or compression; stubbornly opposing force."]}
+{"w":"renne","pos":"noun","d":["An obsolete form of reindeer."]}
+{"w":"renomee","pos":"noun","d":["An obsolete form of renown."]}
+{"w":"renowme","pos":"noun","d":["An obsolete form of renown."]}
+{"w":"rensselaerite","pos":"noun","d":["A former name for a variety of the mineral serpentine."]}
+{"w":"rente","pos":"noun","d":["A French government annuity; a fixed yearly income."]}
+{"w":"renunciation","pos":"noun","d":["The act of formally giving up or abandoning a claim, right, or belief.","A written statement declaring such a giving up."]}
+{"w":"renunciatory","pos":"adjective","d":["Expressing or involving renunciation."]}
+{"w":"renvoy","pos":"noun","d":["The act of sending back; a person sent back, especially an envoy returning with a reply."]}
+{"w":"reometer","pos":"noun","d":["An instrument for measuring the flow or strength of an electric current."]}
+{"w":"reostat","pos":"noun","d":["A variant spelling of rheostat, a device for regulating electric current."]}
+{"w":"reotrope","pos":"noun","d":["An instrument for reversing the direction of an electric current."]}
+{"w":"rep-silver","pos":"noun","d":["An inferior metal made to look like silver; imitation silver."]}
+{"w":"reparability","pos":"noun","d":["The quality of being able to be repaired."]}
+{"w":"reparably","pos":"adverb","d":["In a way that can be repaired; in a repairable manner."]}
+{"w":"reparative","pos":"adjective","d":["Serving to repair or restore; tending to mend."]}
+{"w":"reparel","pos":"verb","d":["To repair or make whole again; an obsolete form of repair."]}
+{"w":"repartee","pos":"noun","d":["A quick, witty reply in conversation.","Skill in making such replies."]}
+{"w":"repartimiento","pos":"noun","d":["A colonial Spanish system that assigned native laborers to settlers and mine owners."]}
+{"w":"repartotion","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"repatriate","pos":"verb","d":["To send or return a person to their own country.","A person who has returned to their own country."]}
+{"w":"repatriation","pos":"noun","d":["The act of returning a person or thing to its country of origin."]}
+{"w":"repeatedly","pos":"adverb","d":["Again and again; more than once."]}
+{"w":"repedation","pos":"noun","d":["An obsolete term for the act of going or coming back."]}
+{"w":"repel","pos":"verb","d":["To drive back or push away.","To cause disgust or strong dislike in."]}
+{"w":"repellence","pos":"noun","d":["The quality of repelling; the power to drive back or away."]}
+{"w":"repellency","pos":"noun","d":["The quality of repelling; resistance to being wet or penetrated."]}
+{"w":"repentingly","pos":"adverb","d":["With repentance; in a sorrowful and regretful manner."]}
+{"w":"repertitious","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"repertoire","pos":"noun","d":["The full set of pieces, plays, or songs a performer or company is ready to present."]}
+{"w":"repertory","pos":"noun","d":["A storehouse or collection where things may be found.","A company of actors performing a rotating set of plays."]}
+{"w":"repetend","pos":"noun","d":["A word, phrase, or sound repeated in verse; a refrain.","In arithmetic, the repeating figures of a recurring decimal."]}
+{"w":"repetitious","pos":"adjective","d":["Marked by needless repetition; tiresomely repetitive."]}
+{"w":"repetitive","pos":"adjective","d":["Characterized by repetition; done over and over again."]}
+{"w":"repletion","pos":"noun","d":["The state of being full; fullness, especially after eating."]}
+{"w":"repletive","pos":"adjective","d":["Filling or tending to fill; causing fullness."]}
+{"w":"repletory","pos":"adjective","d":["Serving to fill or replenish; making full."]}
+{"w":"replevisable","pos":"adjective","d":["Capable of being replevied; recoverable by a writ of replevin."]}
+{"w":"replicant","pos":"noun","d":["One who makes a reply; a respondent in a legal proceeding."]}
+{"w":"reportingly","pos":"adverb","d":["According to report; as people say."]}
+{"w":"reportorial","pos":"adjective","d":["Relating to reporters or to the work of reporting news."]}
+{"w":"reposal","pos":"noun","d":["The act of placing or laying again."]}
+{"w":"reposance","pos":"noun","d":["An obsolete term for rest or repose; quiet rest."]}
+{"w":"repositor","pos":"noun","d":["One who replaces or restores something."]}
+{"w":"reposure","pos":"noun","d":["The act of resting or lying down; repose."]}
+{"w":"repoussage","pos":"noun","d":["The art of shaping metal by hammering from the reverse side; repousse work."]}
+{"w":"reprefe","pos":"noun","d":["An obsolete term for a feast or banquet."]}
+{"w":"reprehensible","pos":"adjective","d":["Deserving blame or censure; shameful."]}
+{"w":"reprehensive","pos":"adjective","d":["Expressing reproof or blame; reproving."]}
+{"w":"repriefe","pos":"noun","d":["An obsolete spelling of reprieve."]}
+{"w":"reprieval","pos":"noun","d":["A reprieve; a temporary release from punishment."]}
+{"w":"reprimand","pos":"noun","d":["A severe formal rebuke or censure.","To rebuke formally."]}
+{"w":"reprisal","pos":"noun","d":["An act of retaliation for injury or loss."]}
+{"w":"repristination","pos":"noun","d":["Restoration to an original or former state."]}
+{"w":"reproachablr","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reprobance","pos":"noun","d":["The state of being a reprobate; moral abandonment."]}
+{"w":"reproductory","pos":"adjective","d":["Pertaining to reproduction; reproductive."]}
+{"w":"reproval","pos":"noun","d":["Reproof; the act of blaming or censuring."]}
+{"w":"reptantia","pos":"noun","d":["Creeping animals; a former name for reptiles."]}
+{"w":"reptation","pos":"noun","d":["The act of creeping or crawling."]}
+{"w":"reptatory","pos":"adjective","d":["Creeping or crawling; adapted for creeping."]}
+{"w":"reptilian","pos":"adjective","d":["Relating to reptiles; resembling a reptile.","Cold-blooded and treacherous in manner."]}
+{"w":"repudiable","pos":"adjective","d":["Capable of being repudiated or rejected."]}
+{"w":"repudiate","pos":"verb","d":["To refuse to accept or acknowledge; to reject as untrue or unjust."]}
+{"w":"repudiation","pos":"noun","d":["The act of repudiating; rejection or denial."]}
+{"w":"repudiator","pos":"noun","d":["One who repudiates or rejects."]}
+{"w":"repugn","pos":"verb","d":["To oppose or resist; to be repugnant to."]}
+{"w":"repugnancy","pos":"noun","d":["The state of being repugnant; contradiction or aversion."]}
+{"w":"repulsory","pos":"adjective","d":["Tending to repel; repelling or driving back."]}
+{"w":"reputatively","pos":"adverb","d":["By reputation; according to common opinion."]}
+{"w":"repute","pos":"noun","d":["General opinion of someone or something; reputation.","To regard or consider; to be reputed."]}
+{"w":"reputedly","pos":"adverb","d":["According to common report or reputation; supposedly."]}
+{"w":"requere","pos":"verb","d":["An obsolete spelling of require."]}
+{"w":"requiem","pos":"noun","d":["A mass for the repose of the dead; a musical setting of such a mass.","Any hymn or song of remembrance for the dead."]}
+{"w":"requietory","pos":"adjective","d":["Affording rest; giving repose."]}
+{"w":"requisite","pos":"adjective","d":["Required by necessity; necessary.","Something required or necessary."]}
+{"w":"requisition","pos":"noun","d":["A formal demand or request, especially for supplies or services.","To demand by authority."]}
+{"w":"requisitive","pos":"adjective","d":["Expressing or implying demand."]}
+{"w":"requisitor","pos":"noun","d":["One who makes a requisition; one who demands."]}
+{"w":"requisitory","pos":"adjective","d":["Relating to a requisition; expressing demand."]}
+{"w":"requital","pos":"noun","d":["Return for a favor or service; recompense, especially retaliation."]}
+{"w":"reredemain","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"reredos","pos":"noun","d":["An ornamental screen or wall behind the altar in a church."]}
+{"w":"rerefief","pos":"noun","d":["In Scots law, land held as a subordinate fief."]}
+{"w":"reremouse","pos":"noun","d":["An obsolete name for a bat, the flying mammal."]}
+{"w":"resalgar","pos":"noun","d":["A variant name for realgar, a red arsenic sulfide mineral."]}
+{"w":"rescind","pos":"verb","d":["To cancel or annul by authority; to repeal."]}
+{"w":"rescissory","pos":"adjective","d":["Having the power to rescind; relating to rescission."]}
+{"w":"rescous","pos":"noun","d":["An obsolete form of rescue; in old law, the forcible taking of property from custody."]}
+{"w":"rescowe","pos":"verb","d":["An obsolete form of rescue."]}
+{"w":"rescussee","pos":"noun","d":["A person who is rescued."]}
+{"w":"rescussor","pos":"noun","d":["A person who rescues."]}
+{"w":"rese","pos":"verb","d":["An obsolete word meaning to rage or tremble."]}
+{"w":"reseau","pos":"noun","d":["A net or network, especially the netlike ground of lace."]}

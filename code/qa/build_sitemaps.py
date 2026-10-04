@@ -43,10 +43,34 @@ def w_url(word):
 
 
 def collect_headwords():
-    """Scan data chunks in canonical idx order; return (word, pos, stamp)."""
+    """Headwords from the freshly-built lexical shards (fast path), falling
+    back to a full chunk scan when the shards are absent. Returns
+    (word, pos, stamp) with first occurrence kept (stable stamps).
+
+    NOTE: build_all.py runs build_lexical_shards BEFORE this module, so the
+    shards always reflect the current run — the sitemap never goes
+    one-run-behind.
+    """
+    sharddir = os.path.join(ROOT, "data", "lexical")
+    letters = sorted(f[6:-5] for f in os.listdir(sharddir)
+                     if f.startswith("shard-") and f.endswith(".json")) \
+        if os.path.isdir(sharddir) else []
+    out, seen = [], set()
+    if letters:
+        for L in letters:
+            rows = json.load(open(os.path.join(sharddir, "shard-%s.json" % L),
+                                  encoding="utf-8"))
+            for row in rows:
+                w = row[0]
+                if w in seen:  # keep first occurrence (stable stamps)
+                    continue
+                seen.add(w)
+                out.append((w, row[1], row[4]))
+        print("collect_headwords: %d from lexical shards" % len(out))
+        return out
+    # fallback: full chunk scan (old behavior)
     files = sorted(f for f in os.listdir(DATADIR)
                    if f.startswith("dict-c") and f.endswith(".jsonl.gz"))
-    out, seen = [], set()
     for fn in files:
         path = os.path.join(DATADIR, fn)
         with gzip.open(path, "rt", encoding="utf-8") as f:
@@ -62,6 +86,7 @@ def collect_headwords():
                     continue
                 seen.add(w)
                 out.append((w, rec.get("pos", ""), rec.get("st", "")))
+    print("collect_headwords: %d from chunk scan (shards absent)" % len(out))
     return out
 
 
@@ -103,6 +128,11 @@ def write_pages_sitemap():
     body.append(url_entry(BASE + "index.html", "weekly").strip())
     for c in range(65, 91):  # A-Z browse pages (?az=A ... ?az=Z)
         body.append(url_entry(BASE + "?az=" + chr(c), "weekly").strip())
+    # the A-Z word archive: static az/<L>.html collapsible catalog pages
+    azdir = os.path.join(ROOT, "az")
+    for L in ["0"] + [chr(c) for c in range(97, 123)]:
+        if os.path.exists(os.path.join(azdir, L + ".html")):
+            body.append(url_entry(BASE + "az/%s.html" % L, "weekly").strip())
     body.append("</urlset>")
     path = os.path.join(ROOT, name)
     with open(path, "w", encoding="utf-8") as f:
@@ -120,7 +150,10 @@ METHODOLOGY_COMMENT = """<!-- SITEMAP METHODOLOGY (The Signature Dictionary)
      (cyber-patent-catalog) — which are the authoritative records for those
      titles. Every term is still reachable on this site through its ?w= and
      ?id= deep links, and each term entry page cross-links its home catalog.
-     A-Z browse pages and the home page live in sitemap-pages.xml. -->"""
+     A-Z browse pages (?az=A..Z), the static A-Z word archive pages
+     (az/a.html .. az/z.html, az/0.html) and the home page are sitemapped in
+     sitemap-pages.xml. Machine-readable per-letter JSON shards are sitemapped
+     in sitemap-lexical.xml. -->"""
 
 
 def write_index(files):
@@ -147,8 +180,8 @@ def main():
     stats = json.load(open(os.path.join(IDXDIR, "stats.json"), encoding="utf-8"))
     headwords = collect_headwords()
     print("headwords collected: %d (stats.json words=%s)" % (len(headwords), stats.get("words")))
-    if len(headwords) != stats.get("words"):
-        print("WARNING: headword count differs from stats.json", file=sys.stderr)
+    assert len(headwords) == stats.get("words"), \
+        "COUNT MISMATCH: sitemap headwords=%d but stats.json words=%s" % (len(headwords), stats.get("words"))
     csv_path = write_csv(headwords)
     print("wrote %s (%d rows)" % (csv_path, len(headwords)))
     files = write_word_sitemaps(headwords)

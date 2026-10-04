@@ -78,6 +78,11 @@ def main():
     stat(r'Headwords', words)
     stat(r'Catalog terms', terms)
 
+    # --- static home "N-headword ... corpus" line (was hand-typed 102,218) ---
+    hw_pat = re.compile(r'(= the )[\d,]+(-headword Signature Dictionary corpus)')
+    assert hw_pat.search(html), "headword corpus count marker not found"
+    html = hw_pat.sub(lambda m: m.group(1) + fmt(words) + m.group(2), html, count=1)
+
     # --- defined/pending stat rows (added once, then re-stamped) ---
     # Visible naming: official site name is "The Signature Dictionary"; the
     # internal drip files (iwb_drip.jsonl etc.) keep their code IDs, but every
@@ -119,6 +124,58 @@ def main():
         open(p, "w", encoding="utf-8").write(html)
     print("stamp_static: entries=%s words=%s terms=%s defined=%s pending=%s date=%s rev=%s"
           % (fmt(entries), fmt(words), fmt(terms), fmt(defined), fmt(pending), date, rev))
+
+
+def stamp_archive():
+    """Re-stamp the A-Z archive pages' count headers (stamp_static pattern).
+
+    Called from build_all.py main() AFTER the new index + lexical shards
+    flush, so archive counts are never one-run-behind. Idempotent; fail-safe
+    (logs and returns False instead of raising) so a half-written archive
+    never blocks the build — the full rebuild in build_lexical_shards is the
+    primary path and this is the belt-and-suspenders re-stamp.
+    """
+    try:
+        stats = json.load(open(os.path.join(IDXDIR, "stats.json"),
+                               encoding="utf-8"))
+        man = json.load(open(os.path.join(ROOT, "data", "lexical",
+                                          "shards.json"), encoding="utf-8"))
+    except Exception as ex:
+        print("stamp_archive: skipped (%r)" % ex, flush=True)
+        return False
+    try:
+        sys.path.insert(0, os.path.join(ROOT, "code"))
+        import build_lexical_shards as bls
+    except Exception as ex:
+        print("stamp_archive: skipped (builder import %r)" % ex, flush=True)
+        return False
+    total_w = stats["words"]
+    total_e = stats["total"]
+    count_pat = re.compile(r'<p class="azcount"[^>]*>.*?</p>', re.S)
+    alln_pat = re.compile(r'(<b class="alln">)[\d,]+(</b>)')
+    n = 0
+    azdir = os.path.join(ROOT, "az")
+    for L, info in man.get("shards", {}).items():
+        p = os.path.join(azdir, L + ".html")
+        try:
+            html = open(p, encoding="utf-8").read()
+        except Exception:
+            continue
+        orig = html
+        if count_pat.search(html):
+            html = count_pat.sub(
+                lambda m: bls.az_count_html(L, info["count"], total_w),
+                html, count=1)
+        if alln_pat.search(html):
+            html = alln_pat.sub(
+                lambda m: m.group(1) + fmt(total_e) + m.group(2),
+                html, count=1)
+        if html != orig:
+            open(p, "w", encoding="utf-8").write(html)
+            n += 1
+    print("stamp_archive: re-stamped %d archive pages (words=%s total=%s)"
+          % (n, fmt(total_w), fmt(total_e)), flush=True)
+    return True
 
 
 if __name__ == "__main__":

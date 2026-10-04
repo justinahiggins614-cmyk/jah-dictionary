@@ -645,7 +645,7 @@ def main():
         log("STAMP_STATIC: FAILED (%r) — will retry next run" % ex)
     verify(index, ipath)
     # Site #3 diagnostic (2026-10-02): rebuild the per-letter lexical JSON
-    # shards + static A-Z fallback pages + lexical sitemap on every build so
+    # shards + A-Z word archive pages + lexical sitemap on every build so
     # the 2h iwb-definitions-drip keeps them fresh automatically. Fail-safe:
     # the dictionary data above is the primary artifact; a shard failure is
     # logged loudly and retried on the next run, never blocks the build.
@@ -655,6 +655,25 @@ def main():
         build_lexical_shards.build()
     except Exception as ex:  # noqa: BLE001
         log("LEXICAL SHARDS: FAILED (%r) — will retry next run" % ex)
+    # Sitemap refresh (2026-10-04): ?w= deep links (sitemap-words-*.xml) +
+    # archive/browse pages (sitemap-pages.xml) + sitemap-index.xml, rebuilt
+    # from the fresh lexical shards on every run — AFTER the shard flush —
+    # so sitemap URLs never go one-run-behind. Fail-safe: logged loudly,
+    # never blocks the build.
+    try:
+        sys.path.insert(0, os.path.join(ROOT, "code", "qa"))
+        import build_sitemaps
+        build_sitemaps.main()
+    except Exception as ex:  # noqa: BLE001
+        log("SITEMAPS: FAILED (%r) — will retry next run" % ex)
+    # Archive count re-stamp (2026-10-04, stamp_static pattern): refresh the
+    # A-Z archive count headers AFTER the new index + shards flush — never
+    # one-run-behind. Fail-safe: logged loudly, never blocks the build.
+    try:
+        import stamp_static
+        stamp_static.stamp_archive()
+    except Exception as ex:  # noqa: BLE001
+        log("STAMP_ARCHIVE: FAILED (%r) — will retry next run" % ex)
     # data size
     total = 0
     for dp, _, fns in os.walk(os.path.join(ROOT, "data")):

@@ -9,11 +9,13 @@
      (cyber-patent-catalog) — which are the authoritative records for those
      titles. Every term is still reachable on this site through its ?w= and
      ?id= deep links, and each term entry page cross-links its home catalog.
-     A-Z browse pages and the home page live in sitemap-pages.xml. -->
+     A-Z browse pages (?az=A..Z), the static A-Z word archive pages
+     (az/a.html .. az/z.html, az/0.html) and the home page are sitemapped in
+     sitemap-pages.xml. Machine-readable per-letter JSON shards are sitemapped
+     in sitemap-lexical.xml. -->
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap><loc>https://justinahiggins614-cmyk.github.io/jah-dictionary/sitemap-pages.xml</loc></sitemap>
   <sitemap><loc>https://justinahiggins614-cmyk.github.io/jah-dictionary/sitemap-words-1.xml</loc></sitemap>
   <sitemap><loc>https://justinahiggins614-cmyk.github.io/jah-dictionary/sitemap-words-2.xml</loc></sitemap>
   <sitemap><loc>https://justinahiggins614-cmyk.github.io/jah-dictionary/sitemap-words-3.xml</loc></sitemap>
-  <sitemap><loc>https://justinahiggins614-cmyk.github.io/jah-dictionary/sitemap-lexical.xml</loc></sitemap>
 </sitemapindex>

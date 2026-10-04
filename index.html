@@ -1381,7 +1381,7 @@ function isHome(){var s=location.search||"";return !(/[?&](w|dict|id|q|az|tour)=
 function openWelcome(){
  var w=document.getElementById("jahWelcome");
  w.classList.add("show");w.setAttribute("aria-hidden","false");
- try{document.getElementById("jahWelcomeOk").focus()}catch(e){}
+ try{document.getElementById("jahWelcomeOk").focus({preventScroll:true})}catch(e){}
 }
 function closeWelcome(){
  var w=document.getElementById("jahWelcome");
@@ -1393,7 +1393,7 @@ document.getElementById("jahWelcomeFull").onclick=function(){closeWelcome();Guid
 document.getElementById("jahWelcome").addEventListener("click",function(e){
  if(e.target===this)closeWelcome();});
 window.JahWelcome={open:openWelcome,close:closeWelcome};
-window.Guide={open:function(){document.getElementById("guidepanel").style.display="block";var c=document.querySelector("#guidepanel .gclose");if(c)c.focus();},
+window.Guide={open:function(){document.getElementById("guidepanel").style.display="block";var c=document.querySelector("#guidepanel .gclose");if(c)c.focus({preventScroll:true});},
  close:function(){document.getElementById("guidepanel").style.display="none";},
  replay:function(){Guide.close();openWelcome();}};
 document.addEventListener("keydown",function(e){

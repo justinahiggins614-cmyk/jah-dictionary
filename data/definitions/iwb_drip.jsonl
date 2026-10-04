@@ -46404,3 +46404,803 @@
 {"w":"sorgo","pos":"noun","d":["Sweet sorghum, a variety grown for its sugary stalks and syrup."]}
 {"w":"sori","pos":"noun","d":["The plural of sorus, a cluster of spore cases on a fern leaf."]}
 {"w":"soricine","pos":"adjective","d":["Of or relating to shrews of the genus Sorex."]}
+{"w": "sorites", "pos": "noun", "d": ["A chain of linked arguments in which each conclusion becomes a premise for the next step, leading to a final result.", "The heap paradox: an argument showing that a vague term like 'heap' has no sharp boundary, since removing one grain at a time never seems to destroy the heap."]}
+{"w": "sorn", "pos": "verb", "d": ["To sponge off others by forcing oneself on them for food and lodging.", "To impose oneself as an unwelcome guest who lives at another's expense."]}
+{"w": "sororal", "pos": "adjective", "d": ["Of or relating to a sister; sisterly in feeling or behavior."]}
+{"w": "sororicide", "pos": "noun", "d": ["The act of killing one's own sister."]}
+{"w": "sororize", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sorosis", "pos": "noun", "d": ["A multiple fruit formed from a whole flower cluster, such as a pineapple or mulberry."]}
+{"w": "sorrage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sorrance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sorrel", "pos": "noun", "d": ["A plant with sharp-tasting sour leaves, used in salads and cooking.", "A reddish-brown color, or a horse of that color."]}
+{"w": "sorrento work", "pos": "phrase", "d": ["Decorative inlaid woodwork made at Sorrento, Italy, using contrasting woods to form pictures and patterns."]}
+{"w": "sorrily", "pos": "adverb", "d": ["In a sorrowful or regretful manner."]}
+{"w": "sorriness", "pos": "noun", "d": ["The state or quality of being sorry; regret or grief."]}
+{"w": "sorrow", "pos": "noun", "d": ["Deep sadness caused by loss, disappointment, or suffering.", "A cause or source of grief."]}
+{"w": "sors", "pos": "noun", "d": ["Lot, fate, or fortune, especially as decided by chance."]}
+{"w": "sortie", "pos": "noun", "d": ["A sudden attack made from a defensive position by troops holding it.", "A single flight or mission by one military aircraft."]}
+{"w": "sortilege", "pos": "noun", "d": ["Divination or decision-making by casting or drawing lots."]}
+{"w": "sortilegy", "pos": "noun", "d": ["The practice of divination by lots; sortilege."]}
+{"w": "sortita", "pos": "noun", "d": ["An exit aria in an opera, sung as a character leaves the stage."]}
+{"w": "sortition", "pos": "noun", "d": ["Selection or appointment by lot or random drawing."]}
+{"w": "sorus", "pos": "noun", "d": ["A cluster of sporangia on the underside of a fern leaf, where spores are produced."]}
+{"w": "sorwe", "pos": "noun", "d": ["An archaic form of sorrow, meaning grief or distress."]}
+{"w": "sory", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sos", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "soss", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sostenuto", "pos": "adverb", "d": ["In music, in a sustained manner, with tones held for their full value."]}
+{"w": "sot", "pos": "noun", "d": ["A person who drinks too much alcohol; a habitual drunkard."]}
+{"w": "sotadean", "pos": "adjective", "d": ["Relating to Sotades, an ancient Greek poet known for obscene verse, or to his metrical style."]}
+{"w": "sotadic", "pos": "adjective", "d": ["Of or relating to Sotades or his verse; sotadean."]}
+{"w": "sote", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sotel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "soteriology", "pos": "noun", "d": ["The branch of theology dealing with salvation, especially by divine means."]}
+{"w": "sothe", "pos": "noun", "d": ["An archaic form of sooth, meaning truth."]}
+{"w": "sothiac", "pos": "adjective", "d": ["Relating to the Sothic cycle, the ancient Egyptian calendar period tied to the rising of the star Sirius."]}
+{"w": "sothic", "pos": "adjective", "d": ["Of or relating to Sirius, the dog star, especially in connection with the ancient Egyptian calendar."]}
+{"w": "sotil", "pos": "adjective", "d": ["An archaic form of subtle."]}
+{"w": "sotilte", "pos": "noun", "d": ["An archaic form of subtlety."]}
+{"w": "sottery", "pos": "noun", "d": ["The state of being a drunkard; habitual drunkenness."]}
+{"w": "sottish", "pos": "adjective", "d": ["Resembling a sot; dull or stupid from drunkenness."]}
+{"w": "sotto voce", "pos": "phrase", "d": ["In a low voice, so as not to be overheard; softly."]}
+{"w": "sou", "pos": "noun", "d": ["An old French coin of very small value.", "A thing of little worth, as in 'not worth a sou.'"]}
+{"w": "souari nut", "pos": "phrase", "d": ["The edible oily nut of the souari tree of tropical America."]}
+{"w": "soubahdar", "pos": "noun", "d": ["A governor of a province under the Mogul empire in India.", "An Indian officer in the British army, ranking with a lieutenant."]}
+{"w": "soubrette", "pos": "noun", "d": ["A saucy, flirtatious female servant in a play or opera.", "A young woman who plays such lively servant roles."]}
+{"w": "soubriquet", "pos": "noun", "d": ["A nickname or assumed name."]}
+{"w": "souce", "pos": "verb", "d": ["To plunge or soak in a liquid; to pickle.", "Pickled meat, especially pork, prepared in this way."]}
+{"w": "souchong", "pos": "noun", "d": ["A variety of black China tea with large leaves."]}
+{"w": "souded", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "soudet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "souffle", "pos": "noun", "d": ["A light baked dish made fluffy with beaten egg whites, either sweet or savory."]}
+{"w": "soufflee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sough", "pos": "noun", "d": ["A soft sighing or moaning sound, as of wind through trees."]}
+{"w": "souke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "soulili", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "soun", "pos": "noun", "d": ["An archaic form of sound."]}
+{"w": "sound-board", "pos": "noun", "d": ["A thin resonating board that amplifies the tone of a musical instrument.", "A board placed behind or above a pulpit to carry the speaker's voice."]}
+{"w": "sounding balloon", "pos": "phrase", "d": ["A small balloon sent aloft carrying instruments that record temperature, pressure, and other atmospheric data."]}
+{"w": "sounding-board", "pos": "noun", "d": ["A structure that reflects and carries sound, as behind a stage.", "A person or group used to test reactions to ideas before presenting them widely."]}
+{"w": "soune", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sounst", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "soupe-maigre", "pos": "phrase", "d": ["A thin soup made without meat."]}
+{"w": "souple", "pos": "adjective", "d": ["Supple, pliant, and flexible."]}
+{"w": "soupy", "pos": "adjective", "d": ["Like soup in thickness or consistency.", "Overly sentimental or emotional."]}
+{"w": "sour", "pos": "adjective", "d": ["Having the sharp acidic taste of lemon or vinegar.", "Unpleasant in manner; cross or bitter in temper.", "Gone bad through fermentation, as sour milk."]}
+{"w": "sourde", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sourkrout", "pos": "noun", "d": ["A variant spelling of sauerkraut, shredded cabbage fermented in brine."]}
+{"w": "souse", "pos": "verb", "d": ["To plunge into liquid; to drench or soak thoroughly.", "To pickle in vinegar or brine.", "A dish of pickled pork or fish; also, a drunkard."]}
+{"w": "sout", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "soutane", "pos": "noun", "d": ["The long black cassock worn by Roman Catholic clergy."]}
+{"w": "southcottian", "pos": "adjective", "d": ["Relating to Joanna Southcott, an English religious prophetess of the early 1800s, or her followers."]}
+{"w": "southerliness", "pos": "noun", "d": ["The quality of being southerly in direction or character."]}
+{"w": "southernliness", "pos": "noun", "d": ["The quality or state of being southern."]}
+{"w": "southron", "pos": "noun", "d": ["A southerner, especially an Englishman as called by a Scot."]}
+{"w": "souvenance", "pos": "noun", "d": ["Memory or recollection; the act of remembering."]}
+{"w": "souvenir", "pos": "noun", "d": ["A keepsake bought or kept as a reminder of a place or event."]}
+{"w": "sovenaunce", "pos": "noun", "d": ["An archaic form of souvenance, meaning remembrance."]}
+{"w": "sovereign", "pos": "noun", "d": ["A supreme ruler, such as a king or queen.", "A former British gold coin worth one pound."]}
+{"w": "sovereignty", "pos": "noun", "d": ["Supreme power or authority over a state.", "A self-governing state or political unit."]}
+{"w": "sovran", "pos": "noun", "d": ["A poetic or archaic form of sovereign."]}
+{"w": "sow", "pos": "verb", "d": ["To plant seeds by scattering them on or in the earth.", "To spread or plant something widely, as to sow doubt."]}
+{"w": "sowans", "pos": "noun", "d": ["A Scottish dish made from the fermented liquor of oatmeal husks."]}
+{"w": "sowar", "pos": "noun", "d": ["A mounted soldier in the army of India."]}
+{"w": "sowce", "pos": "noun", "d": ["A variant spelling of souse; pickled pork or fish."]}
+{"w": "sowdanesse", "pos": "noun", "d": ["An archaic term for a female sultan."]}
+{"w": "sowins", "pos": "noun", "d": ["A variant of sowans, a Scottish oatmeal dish."]}
+{"w": "sowl", "pos": "verb", "d": ["To pull or drag roughly, especially by the ears."]}
+{"w": "sowle", "pos": "noun", "d": ["An archaic form of soul."]}
+{"w": "sown", "pos": "verb", "d": ["Past participle of sow; having been planted as seed."]}
+{"w": "sowne", "pos": "noun", "d": ["An archaic form of sound."]}
+{"w": "sowse", "pos": "noun", "d": ["A variant spelling of souse."]}
+{"w": "sowter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "soy", "pos": "noun", "d": ["A dark salty sauce made from fermented soybeans, used in cooking.", "The soybean plant or its bean."]}
+{"w": "soyle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "soyned", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sozzle", "pos": "verb", "d": ["To soak or splash thoroughly with liquid."]}
+{"w": "spaad", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "space bar", "pos": "phrase", "d": ["The long horizontal key on a keyboard that types a space."]}
+{"w": "space key", "pos": "noun", "d": ["The space bar on a keyboard."]}
+{"w": "spacial", "pos": "adjective", "d": ["A variant spelling of spatial, relating to space."]}
+{"w": "spacious", "pos": "adjective", "d": ["Having plenty of room; large and roomy."]}
+{"w": "spad", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spadassin", "pos": "noun", "d": ["A hired swordsman or assassin."]}
+{"w": "spaddle", "pos": "noun", "d": ["A small spade or spade-like hand tool."]}
+{"w": "spade", "pos": "noun", "d": ["A digging tool with a flat blade on a long handle.", "One of the four suits in a deck of playing cards, marked with black pointed symbols."]}
+{"w": "spadiceous", "pos": "adjective", "d": ["Having or resembling a spadix.", "Bearing flowers on a thick fleshy spike."]}
+{"w": "spadicose", "pos": "adjective", "d": ["Having a spadix; bearing spadices."]}
+{"w": "spadille", "pos": "noun", "d": ["The ace of spades in the card game ombre."]}
+{"w": "spadix", "pos": "noun", "d": ["A thick, fleshy flower spike, as of the jack-in-the-pulpit.", "The flower cluster of a palm tree."]}
+{"w": "spado", "pos": "noun", "d": ["A eunuch.", "A man who is impotent from birth."]}
+{"w": "spae", "pos": "verb", "d": ["To foretell the future, especially in Scots usage."]}
+{"w": "spaghetti", "pos": "noun", "d": ["A pasta made in long, thin, solid strands."]}
+{"w": "spagyric", "pos": "adjective", "d": ["Relating to alchemy, especially the separation and recombining of substances."]}
+{"w": "spagyrist", "pos": "noun", "d": ["An alchemist.", "One who practices spagyric medicine."]}
+{"w": "spahee", "pos": "noun", "d": ["A variant spelling of spahi, an Algerian cavalryman."]}
+{"w": "spahi", "pos": "noun", "d": ["A soldier of the light cavalry in Algeria, once under French command."]}
+{"w": "spaid", "pos": "verb", "d": ["The past tense of spae, meaning foretold."]}
+{"w": "spake", "pos": "verb", "d": ["An archaic past tense of speak."]}
+{"w": "spaky", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spalding knife", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spale", "pos": "noun", "d": ["A thin chip or splinter of wood.", "A lath or narrow slat of wood."]}
+{"w": "spall", "pos": "noun", "d": ["A chip or flake broken off a rock, stone, or ore.", "A fragment of metal thrown off in casting."]}
+{"w": "spalpeen", "pos": "noun", "d": ["A rascal or mischievous fellow, in Irish usage."]}
+{"w": "spalt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spalting knife", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "span-new", "pos": "adjective", "d": ["Completely new; brand-new."]}
+{"w": "spanaemia", "pos": "noun", "d": ["A deficiency of blood in the body."]}
+{"w": "spanaemic", "pos": "adjective", "d": ["Relating to or affected by spanaemia."]}
+{"w": "spancel", "pos": "noun", "d": ["A rope or strap used to hobble an animal's legs.", "To tie or hobble with a spancel."]}
+{"w": "spandogs", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spandrel", "pos": "noun", "d": ["The triangular space between the curve of an arch and the frame around it.", "A biological trait that arises as a byproduct rather than by direct adaptation."]}
+{"w": "spane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spang", "pos": "verb", "d": ["To spring, leap, or bound suddenly, as in Scots dialect."]}
+{"w": "spangle", "pos": "noun", "d": ["A small glittering piece of metal or foil sewn onto clothing for decoration.", "To decorate with spangles; to glitter."]}
+{"w": "spaniard", "pos": "noun", "d": ["A person born or living in Spain."]}
+{"w": "spaniel", "pos": "noun", "d": ["A breed of hunting dog with long drooping ears."]}
+{"w": "spanking breeze", "pos": "phrase", "d": ["A strong, fresh breeze."]}
+{"w": "spannishing", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spar", "pos": "noun", "d": ["A stout wooden pole used as a mast or yard on a ship.", "A readily cleavable mineral, such as feldspar.", "A practice bout in boxing."]}
+{"w": "spar-hung", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sparada", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sparadrap", "pos": "noun", "d": ["Adhesive plaster or surgical tape used to dress wounds."]}
+{"w": "sparagrass", "pos": "noun", "d": ["A humorous or rustic name for asparagus."]}
+{"w": "sparagus", "pos": "noun", "d": ["An old variant of the word asparagus."]}
+{"w": "sparble", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sparge", "pos": "verb", "d": ["To sprinkle or scatter water over something.", "In brewing, to rinse the grain bed with hot water to extract the sugars."]}
+{"w": "spark", "pos": "noun", "d": ["A small glowing particle thrown off by a fire.", "A flash of light from an electrical discharge.", "A trace or beginning of something, as of interest or anger."]}
+{"w": "spark coil", "pos": "phrase", "d": ["An induction coil that produces high-voltage sparks."]}
+{"w": "spark gap", "pos": "phrase", "d": ["The space between two electrodes across which a spark jumps."]}
+{"w": "spark plug", "pos": "phrase", "d": ["A device in a gasoline engine that ignites the fuel with an electric spark."]}
+{"w": "sparkle", "pos": "verb", "d": ["To shine with small bright flashes of light.", "To show lively brightness or wit."]}
+{"w": "sparkliness", "pos": "noun", "d": ["The quality of sparkling or glittering."]}
+{"w": "sparoid", "pos": "noun", "d": ["A fish of the sea-bream family."]}
+{"w": "sparpoil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sparry", "pos": "adjective", "d": ["Resembling spar; easily split into flakes or thin layers."]}
+{"w": "sparse", "pos": "adjective", "d": ["Thinly spread or scattered; not dense."]}
+{"w": "sparsedly", "pos": "adverb", "d": ["In a sparse or scattered manner."]}
+{"w": "sparsim", "pos": "adverb", "d": ["Sparsely or sparingly, as used in Latin phrases."]}
+{"w": "sparterie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sparth", "pos": "noun", "d": ["A long-handled, two-handed battle axe."]}
+{"w": "sparve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spasm", "pos": "noun", "d": ["A sudden involuntary contraction of a muscle.", "A brief burst of activity or emotion."]}
+{"w": "spasmatical", "pos": "adjective", "d": ["Relating to or resembling a spasm."]}
+{"w": "spastic", "pos": "adjective", "d": ["Relating to or affected by spasms or spasticity."]}
+{"w": "spat", "pos": "noun", "d": ["A brief, petty quarrel.", "The spawn or young of shellfish, especially oysters.", "Past tense of spit."]}
+{"w": "spatangoid", "pos": "noun", "d": ["A heart urchin, a heart-shaped burrowing sea urchin."]}
+{"w": "spatangoidea", "pos": "noun", "d": ["A group of heart-shaped sea urchins."]}
+{"w": "spatangus", "pos": "noun", "d": ["A genus of heart urchins."]}
+{"w": "spatchcock", "pos": "noun", "d": ["A chicken split open and grilled flat.", "To prepare poultry by splitting it open and grilling it flat."]}
+{"w": "spate", "pos": "noun", "d": ["A sudden flood or heavy rush of water.", "A large outpouring, as of words or events."]}
+{"w": "spatha", "pos": "noun", "d": ["A long, straight, double-edged sword used by Roman cavalry."]}
+{"w": "spathaceous", "pos": "adjective", "d": ["Having or enclosed in a spathe."]}
+{"w": "spathal", "pos": "adjective", "d": ["Relating to a spathe."]}
+{"w": "spathic", "pos": "adjective", "d": ["Capable of being split into flakes, like spar."]}
+{"w": "spathiform", "pos": "adjective", "d": ["Shaped like a spathe."]}
+{"w": "spathous", "pos": "adjective", "d": ["Having a spathe."]}
+{"w": "spathulate", "pos": "adjective", "d": ["Shaped like a spatula; broad and rounded at the end."]}
+{"w": "spatiate", "pos": "verb", "d": ["To walk about at leisure; to roam."]}
+{"w": "spatter-dock", "pos": "noun", "d": ["A yellow-flowered water lily of North America."]}
+{"w": "spatterdashed", "pos": "adjective", "d": ["Splashed or speckled with spatters.", "Wearing spatterdashes."]}
+{"w": "spatterdashes", "pos": "noun", "d": ["Protective leggings worn to keep mud and water off the legs."]}
+{"w": "spattle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spattling-poppy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spatula", "pos": "noun", "d": ["A flat-bladed tool used for spreading, mixing, or lifting food."]}
+{"w": "spatulate", "pos": "adjective", "d": ["Shaped like a spatula; spoon-shaped."]}
+{"w": "spauld", "pos": "noun", "d": ["A piece of armor protecting the shoulder."]}
+{"w": "spavin", "pos": "noun", "d": ["A disease or swelling of a horse's hock joint causing lameness."]}
+{"w": "spaw", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spawl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spawn", "pos": "verb", "d": ["To produce or lay eggs in large numbers.", "To give rise to something; to generate."]}
+{"w": "spay", "pos": "verb", "d": ["To surgically remove the ovaries of a female animal."]}
+{"w": "spayad", "pos": "noun", "d": ["A male red deer in its third year."]}
+{"w": "spayade", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spear", "pos": "noun", "d": ["A long weapon with a pointed head for thrusting or throwing.", "A single stalk or shoot of a plant, as of asparagus."]}
+{"w": "speary", "pos": "adjective", "d": ["Shaped like a spear.", "Armed with or bearing spears."]}
+{"w": "spece", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "specht", "pos": "noun", "d": ["A woodpecker."]}
+{"w": "specialization", "pos": "noun", "d": ["The act of becoming specialized or limited to a particular field.", "A particular branch of study or work."]}
+{"w": "specie", "pos": "noun", "d": ["Money in the form of coins rather than paper notes.", "Payment made in actual coin."]}
+{"w": "specifiable", "pos": "adjective", "d": ["Capable of being specified or precisely stated."]}
+{"w": "specillum", "pos": "noun", "d": ["A small surgical probe."]}
+{"w":"specimen","pos":"noun","d":["A single example of a whole class, kept for study or testing.","A sample of tissue, blood, or other material examined in medicine."]}
+{"w":"speciosity","pos":"noun","d":["The quality of seeming true or fair while actually being false."]}
+{"w":"specious","pos":"adjective","d":["Seeming true or right at first glance but actually false or misleading."]}
+{"w":"speck","pos":"noun","d":["A very small spot, mark, or particle.","A tiny amount of something."]}
+{"w":"speckle","pos":"noun","d":["A small spot or fleck marking a surface.","A tiny particle of color or matter."]}
+{"w":"speckled-belly","pos":"noun","d":["A wild goose, the greater white-fronted goose, named for the dark speckled markings on its belly."]}
+{"w":"speckled-bill","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"specksioneer","pos":"noun","d":["The chief harpooner on a whaling ship, who also served as lookout from the masthead."]}
+{"w":"speckt","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spectacle","pos":"noun","d":["Something remarkable or striking to look at.","A public show or display made to impress.","A pair of eyeglasses."]}
+{"w":"spectant","pos":"adjective","d":["Watching or observing; looking on as a spectator."]}
+{"w":"spectation","pos":"noun","d":["The act of watching or observing."]}
+{"w":"spectator","pos":"noun","d":["A person who watches an event, game, or show without taking part."]}
+{"w":"spectatress","pos":"noun","d":["A woman who watches an event without taking part."]}
+{"w":"spectatrix","pos":"noun","d":["A woman who watches an event without taking part."]}
+{"w":"specter","pos":"noun","d":["The ghost or spirit of a dead person.","A haunting or threatening possibility hanging over the future."]}
+{"w":"spectioneer","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spectral","pos":"adjective","d":["Like a ghost; shadowy and unearthly.","Relating to a spectrum, as of light or sound."]}
+{"w":"spectre","pos":"noun","d":["The ghost or spirit of a dead person.","A haunting or threatening possibility hanging over the future."]}
+{"w":"spectrobolometer","pos":"noun","d":["An instrument that measures the energy of radiation at different points across a spectrum."]}
+{"w":"spectroelectric","pos":"adjective","d":["Relating to the electrical measurement or detection of spectra."]}
+{"w":"spectrogram","pos":"noun","d":["A picture or chart showing the spectrum of sound or light, often as it changes over time."]}
+{"w":"spectrograph","pos":"noun","d":["An instrument that records the spectrum of light or other radiation."]}
+{"w":"spectroheliogram","pos":"noun","d":["A photograph of the sun taken in light of a single wavelength."]}
+{"w":"spectroheliograph","pos":"noun","d":["An instrument for photographing the sun in light of one chosen wavelength."]}
+{"w":"spectrological","pos":"adjective","d":["Relating to the study or analysis of spectra."]}
+{"w":"spectrology","pos":"noun","d":["The study and analysis of spectra."]}
+{"w":"spectrometer","pos":"noun","d":["An instrument that measures the wavelengths and intensities of a spectrum."]}
+{"w":"spectrometry","pos":"noun","d":["The measurement of spectra using a spectrometer."]}
+{"w":"spectrophone","pos":"noun","d":["An instrument that turns the light of spectral lines into audible sound."]}
+{"w":"spectrophotometer","pos":"noun","d":["An instrument that measures how much light a substance absorbs at each wavelength."]}
+{"w":"spectrophotometry","pos":"noun","d":["The measurement of light absorption across wavelengths using a spectrophotometer."]}
+{"w":"spectroscope","pos":"noun","d":["An instrument for viewing and examining spectra."]}
+{"w":"spectroscopic","pos":"adjective","d":["Relating to spectroscopy or the use of a spectroscope."]}
+{"w":"spectroscopist","pos":"noun","d":["A person skilled in the study of spectra."]}
+{"w":"spectroscopy","pos":"noun","d":["The scientific study of spectra of light, sound, or other radiation."]}
+{"w":"specular","pos":"adjective","d":["Like a mirror; reflecting light clearly.","Relating to a speculum, an instrument used in medical examinations."]}
+{"w":"speculate","pos":"verb","d":["To form opinions or theories without enough evidence to be sure.","To buy or invest hoping to profit from price changes."]}
+{"w":"speculation","pos":"noun","d":["The forming of theories without full evidence.","Risky investment made in hope of quick profit."]}
+{"w":"speculatist","pos":"noun","d":["A person who forms theories without full evidence, or who makes risky investments."]}
+{"w":"speculative","pos":"adjective","d":["Based on guessing rather than certain evidence.","Involving financial risk taken in hope of profit."]}
+{"w":"speculator","pos":"noun","d":["A person who makes risky investments hoping for profit.","A person who forms theories without full evidence."]}
+{"w":"speculatory","pos":"adjective","d":["Given to forming theories without full evidence."]}
+{"w":"speculist","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"speculum","pos":"noun","d":["A medical instrument used to hold open a body passage for examination.","A mirror, especially in older scientific writing."]}
+{"w":"sped","pos":"verb","d":["Past tense of speed."]}
+{"w":"speece","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"speechification","pos":"noun","d":["The act of making a speech, often a long or pompous one."]}
+{"w":"speed counter","pos":"phrase","d":["A device that measures or counts speed."]}
+{"w":"speedily","pos":"adverb","d":["In a quick manner; rapidly."]}
+{"w":"speediness","pos":"noun","d":["The quality of being fast or quick."]}
+{"w":"speedy","pos":"adjective","d":["Moving or done quickly; fast."]}
+{"w":"speer","pos":"verb","d":["To ask or inquire, in Scottish usage."]}
+{"w":"speet","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"speight","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"speir","pos":"verb","d":["To ask or inquire, in Scottish usage."]}
+{"w":"speiskobalt","pos":"noun","d":["A mineral of cobalt and arsenic, also called smaltite."]}
+{"w":"speiss","pos":"noun","d":["A crude mixture of metals, often containing arsenic, left over from smelting ores."]}
+{"w":"spekboom","pos":"noun","d":["A succulent shrub or small tree of southern Africa, also called elephant's food."]}
+{"w":"speke","pos":"verb","d":["An old past tense of speak."]}
+{"w":"spelding","pos":"noun","d":["A small dried fish, especially a dried haddock."]}
+{"w":"spelicans","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spelk","pos":"noun","d":["A thin splinter of wood."]}
+{"w":"spelt","pos":"noun","d":["An ancient species of wheat with a tough husk."]}
+{"w":"spelunc","pos":"noun","d":["An old word for a cave or cavern."]}
+{"w":"spence","pos":"noun","d":["A pantry or store-room for food and drink."]}
+{"w":"spenserian","pos":"adjective","d":["Relating to the poet Edmund Spenser or his style.","Written in the stanza form used by Spenser."]}
+{"w":"sper","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spere","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sperge","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sperm whale","pos":"phrase","d":["A very large toothed whale whose head yields spermaceti oil."]}
+{"w":"spermaceti","pos":"noun","d":["A white waxy substance taken from the head of the sperm whale, once used in candles and ointments."]}
+{"w":"spermalist","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spermaphore","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spermatheca","pos":"noun","d":["A sac in the bodies of female insects and some other animals where sperm is stored after mating."]}
+{"w":"spermatic","pos":"adjective","d":["Relating to sperm or semen."]}
+{"w":"spermatism","pos":"noun","d":["The emission of semen."]}
+{"w":"spermatium","pos":"noun","d":["A small non-moving male cell that fertilizes the female cell in certain fungi and algae."]}
+{"w":"spermatize","pos":"verb","d":["To fertilize with semen."]}
+{"w":"spermato-","pos":"prefix","d":["A prefix meaning 'sperm' or 'semen', as in spermatogenesis."]}
+{"w":"spermatoblast","pos":"noun","d":["An early cell in the testis that develops into a sperm cell."]}
+{"w":"spermatocyte","pos":"noun","d":["A cell that divides to produce sperm cells."]}
+{"w":"spermatogemma","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spermatogenesis","pos":"noun","d":["The process by which sperm cells are formed."]}
+{"w":"spermatogenetic","pos":"adjective","d":["Relating to the formation of sperm cells."]}
+{"w":"spermatogenous","pos":"adjective","d":["Producing sperm cells."]}
+{"w":"spermatogonium","pos":"noun","d":["An undifferentiated cell that divides to begin the formation of sperm."]}
+{"w":"spermatoid","pos":"adjective","d":["Resembling sperm."]}
+{"w":"spermatooen","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spermatoon","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spermatophore","pos":"noun","d":["A small packet of sperm transferred to the female during mating in some animals."]}
+{"w":"spermatophorous","pos":"adjective","d":["Bearing or producing spermatophores."]}
+{"w":"spermatophyta","pos":"noun","d":["The division of the plant kingdom made up of seed-bearing plants."]}
+{"w":"spermatophyte","pos":"noun","d":["A seed-bearing plant."]}
+{"w":"spermatorrhea","pos":"noun","d":["The involuntary discharge of semen."]}
+{"w":"spermatorrhoea","pos":"noun","d":["The involuntary discharge of semen."]}
+{"w":"spermatospore","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spermatozoid","pos":"noun","d":["A swimming male cell that fertilizes the female cell in mosses, ferns, and some other plants."]}
+{"w":"spermatozooen","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spermatozooid","pos":"noun","d":["A swimming male cell that fertilizes the female cell in mosses, ferns, and some other plants."]}
+{"w": "spermatozoon", "pos": "noun", "d": ["The male reproductive cell that fertilizes an egg in sexually reproducing animals and plants."]}
+{"w": "spermidium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spermo-", "pos": "prefix", "d": ["A prefix meaning 'seed' or 'sperm', as in spermophyte."]}
+{"w": "spermoblast", "pos": "noun", "d": ["An immature cell that develops into a spermatozoon."]}
+{"w": "spermococcus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spermoderm", "pos": "noun", "d": ["The outer coat or covering of a seed."]}
+{"w": "spermogonium", "pos": "noun", "d": ["A small flask-shaped structure in some fungi and lichens that produces sperm-like cells."]}
+{"w": "spermologist", "pos": "noun", "d": ["A scientist who studies seeds or sperm cells."]}
+{"w": "spermophile", "pos": "noun", "d": ["An animal that feeds on seeds."]}
+{"w": "spermophore", "pos": "noun", "d": ["A stalklike structure that bears spermatozoa or male gametes."]}
+{"w": "spermophyta", "pos": "noun", "d": ["A former division of the plant kingdom made up of all seed-bearing plants."]}
+{"w": "spermophyte", "pos": "noun", "d": ["A plant that reproduces by means of seeds."]}
+{"w": "spermophytic", "pos": "adjective", "d": ["Relating to or having the characteristics of a seed-bearing plant."]}
+{"w": "spermoplasma", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spermosphere", "pos": "noun", "d": ["The zone of soil around a germinating seed where microorganisms are influenced by substances the seed gives off."]}
+{"w": "spermospore", "pos": "noun", "d": ["A spore that functions as a male gamete in some algae and fungi."]}
+{"w": "sperre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sperrylite", "pos": "noun", "d": ["A mineral made of platinum arsenide that serves as a source of platinum."]}
+{"w": "sperse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spessartite", "pos": "noun", "d": ["A reddish-brown garnet mineral rich in manganese."]}
+{"w": "spet", "pos": "verb", "d": ["To spit."]}
+{"w": "spew", "pos": "verb", "d": ["To forcefully eject something, such as vomit, from the mouth.", "To send out in a stream or spray."]}
+{"w": "spewiness", "pos": "noun", "d": ["The quality or state of being spewy."]}
+{"w": "spewy", "pos": "adjective", "d": ["Tending to spew, or resembling the act of spewing."]}
+{"w": "sphacel", "pos": "noun", "d": ["A patch of dead, gangrenous tissue."]}
+{"w": "sphacelus", "pos": "noun", "d": ["Dead or gangrenous tissue resulting from a cutoff of blood supply."]}
+{"w": "sphaerenchyma", "pos": "noun", "d": ["Plant tissue made up of rounded or spherical cells."]}
+{"w": "sphaeridium", "pos": "noun", "d": ["One of the small stalked globular sense organs found on sea urchins."]}
+{"w": "sphaerospore", "pos": "noun", "d": ["A round, thick-walled spore produced by some red algae."]}
+{"w": "sphaerulite", "pos": "noun", "d": ["A small rounded body of radiating crystals found in some volcanic rocks."]}
+{"w": "sphagnicolous", "pos": "adjective", "d": ["Growing in or living among sphagnum moss."]}
+{"w": "sphagnous", "pos": "adjective", "d": ["Relating to or made of sphagnum moss."]}
+{"w": "sphagnum", "pos": "noun", "d": ["A genus of mosses that grow in wet, acidic bogs and are the main source of peat."]}
+{"w": "sphalerite", "pos": "noun", "d": ["A mineral of zinc sulfide that is the chief ore of zinc."]}
+{"w": "sphene", "pos": "noun", "d": ["A brown or green mineral of calcium titanium silicate, also called titanite."]}
+{"w": "sphenethmoid", "pos": "noun", "d": ["A bone in the skull of some animals formed by the joining of the sphenoid and ethmoid bones."]}
+{"w": "spheniscan", "pos": "adjective", "d": ["Relating to penguins."]}
+{"w": "spheno-", "pos": "prefix", "d": ["A prefix relating to the sphenoid bone, or meaning wedge-shaped."]}
+{"w": "sphenodon", "pos": "noun", "d": ["A genus of lizardlike reptiles comprising the tuataras of New Zealand."]}
+{"w": "sphenoethmoidal", "pos": "adjective", "d": ["Relating to the sphenoid and ethmoid bones of the skull."]}
+{"w": "sphenogram", "pos": "noun", "d": ["A wedge-shaped written character, as used in certain shorthand or cryptic writing systems."]}
+{"w": "sphenographer", "pos": "noun", "d": ["A person who writes or studies sphenograms."]}
+{"w": "sphenographic", "pos": "adjective", "d": ["Relating to sphenography."]}
+{"w": "sphenographist", "pos": "noun", "d": ["A person who writes or studies sphenograms."]}
+{"w": "sphenography", "pos": "noun", "d": ["The study or writing of wedge-shaped characters."]}
+{"w": "sphenoid", "pos": "adjective", "d": ["Wedge-shaped, especially referring to the sphenoid bone at the base of the skull."]}
+{"w": "sphenotic", "pos": "noun", "d": ["A bone in the skull of fishes near the sphenoid region."]}
+{"w": "spheral", "pos": "adjective", "d": ["Relating to a sphere or spheres."]}
+{"w": "spheric", "pos": "adjective", "d": ["Having the form of a sphere."]}
+{"w": "sphericle", "pos": "noun", "d": ["A very small sphere."]}
+{"w": "spherobacteria", "pos": "noun", "d": ["Bacteria that are spherical in shape, such as cocci."]}
+{"w": "spheroconic", "pos": "adjective", "d": ["Partly spherical and partly cone-shaped."]}
+{"w": "spherograph", "pos": "noun", "d": ["An instrument used to measure or test the roundness of a ball or sphere."]}
+{"w": "spheroid", "pos": "noun", "d": ["A body that is almost but not exactly spherical, such as the Earth."]}
+{"w": "spheromere", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spherometer", "pos": "noun", "d": ["An instrument for measuring the curvature of a spherical surface, such as a lens."]}
+{"w": "spherosiderite", "pos": "noun", "d": ["A rounded, concretionary form of the iron carbonate mineral siderite."]}
+{"w": "spherosome", "pos": "noun", "d": ["A small spherical organelle in plant cells that stores lipids."]}
+{"w": "spherulate", "pos": "verb", "d": ["To form into small spheres."]}
+{"w": "spherule", "pos": "noun", "d": ["A small sphere or globule."]}
+{"w": "spherulite", "pos": "noun", "d": ["A tiny rounded body of radiating crystals found in volcanic glass."]}
+{"w": "spherulitic", "pos": "adjective", "d": ["Relating to or containing spherulites."]}
+{"w": "sphery", "pos": "adjective", "d": ["Resembling a sphere; rounded."]}
+{"w": "sphex", "pos": "noun", "d": ["A genus of solitary digger wasps."]}
+{"w": "sphigmometer", "pos": "noun", "d": ["An instrument for measuring the force of the pulse."]}
+{"w": "sphincter", "pos": "noun", "d": ["A ringlike muscle that opens or closes a bodily passage."]}
+{"w": "sphingid", "pos": "noun", "d": ["A moth of the hawk-moth family, Sphingidae."]}
+{"w": "sphinx", "pos": "noun", "d": ["A mythical monster with a human head and a lion's body.", "A mysterious or inscrutable person."]}
+{"w": "sphragide", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sphragistics", "pos": "noun", "d": ["The study of seals and signets."]}
+{"w": "sphrigosis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sphygmic", "pos": "adjective", "d": ["Relating to the pulse."]}
+{"w": "sphygmogram", "pos": "noun", "d": ["A tracing of the pulse made by a sphygmograph."]}
+{"w": "sphygmograph", "pos": "noun", "d": ["An instrument that records the movement and force of the pulse."]}
+{"w": "sphygmometer", "pos": "noun", "d": ["An instrument for measuring the strength of the pulse."]}
+{"w": "sphygmophone", "pos": "noun", "d": ["An instrument that makes the sounds of the pulse audible."]}
+{"w": "sphygmoscope", "pos": "noun", "d": ["An instrument for observing the movements of the pulse."]}
+{"w": "sphyraenoid", "pos": "adjective", "d": ["Resembling a barracuda."]}
+{"w": "spica", "pos": "noun", "d": ["A flower spike, such as that of lavender.", "A bandage wound in overlapping turns that suggest a spike."]}
+{"w": "spicate", "pos": "adjective", "d": ["Arranged in or bearing spikes, like a spike of grain."]}
+{"w": "spiccato", "pos": "noun", "d": ["A bowing technique in which the bow bounces lightly off the strings."]}
+{"w": "spicery", "pos": "noun", "d": ["A storehouse for spices, or spices in general."]}
+{"w": "spiciferous", "pos": "adjective", "d": ["Bearing spikes."]}
+{"w": "spiciform", "pos": "adjective", "d": ["Shaped like a spike."]}
+{"w": "spicily", "pos": "adverb", "d": ["In a spicy manner."]}
+{"w": "spiciness", "pos": "noun", "d": ["The quality of being spicy."]}
+{"w": "spick", "pos": "noun", "d": ["A small nail or spike."]}
+{"w": "spicknel", "pos": "noun", "d": ["A European plant of the parsley family with aromatic roots."]}
+{"w": "spicose", "pos": "adjective", "d": ["Having or bearing spikes."]}
+{"w": "spicosity", "pos": "noun", "d": ["The quality of being spicose."]}
+{"w": "spicous", "pos": "adjective", "d": ["Covered with or bearing spikes."]}
+{"w": "spicula", "pos": "noun", "d": ["A small spike or needle-like structure; the plural of spiculum."]}
+{"w": "spicular", "pos": "adjective", "d": ["Relating to or shaped like a small spike."]}
+{"w": "spiculate", "pos": "adjective", "d": ["Covered with small spikes."]}
+{"w": "spicule", "pos": "noun", "d": ["A small, sharp, needle-like structure, such as those found in sponges."]}
+{"w": "spiculiform", "pos": "adjective", "d": ["Shaped like a small spike."]}
+{"w": "spiculigenous", "pos": "adjective", "d": ["Producing spicules."]}
+{"w": "spiculispongiae", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spiculum", "pos": "noun", "d": ["A small spike or dart-like structure."]}
+{"w": "spicy", "pos": "adjective", "d": ["Flavored with or tasting of spices.", "Lively, exciting, or mildly suggestive."]}
+{"w":"spider stitch","pos":"noun","d":["A crochet or embroidery stitch worked in a radiating pattern that resembles a spider's web."]}
+{"w":"spiegel iron","pos":"noun","d":["A cast iron rich in manganese and carbon, used in steelmaking."]}
+{"w":"spiegeleisen","pos":"noun","d":["The German name for a manganese-rich cast iron used in making steel."]}
+{"w":"spight","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spignel","pos":"noun","d":["A fragrant European herb of the parsley family, used in cooking and traditional medicine."]}
+{"w":"spignet","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spigot","pos":"noun","d":["A small tap or valve at the end of a pipe that controls the flow of a liquid."]}
+{"w":"spigurnel","pos":"noun","d":["A medieval English official who kept the king's seal used for sealing writs."]}
+{"w":"spike","pos":"noun","d":["A long, sharp-pointed piece of metal or wood driven into a surface.","A sudden sharp rise in amount or intensity."]}
+{"w":"spiky","pos":"adjective","d":["Covered with sharp points."]}
+{"w":"spile","pos":"noun","d":["A small wooden peg or plug, especially one used to close the vent of a cask."]}
+{"w":"spilikin","pos":"noun","d":["A thin, splinter-like strip of wood."]}
+{"w":"spill","pos":"verb","d":["To let liquid or loose material flow over the edge of a container."]}
+{"w":"spillet fishing","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spilliard fishing","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spillikin","pos":"noun","d":["One of the small sticks or pieces used in the game of spillikins."]}
+{"w":"spilt","pos":"verb","d":["The past tense and past participle of spill."]}
+{"w":"spilth","pos":"noun","d":["Liquid that has been spilled."]}
+{"w":"spina bifida","pos":"noun","d":["A birth condition in which the backbone does not close fully, leaving part of the spinal cord exposed."]}
+{"w":"spinaceous","pos":"adjective","d":["Relating to spinach or to plants of the spinach family."]}
+{"w":"spindle","pos":"noun","d":["A slender rod used in spinning, around which thread is wound."]}
+{"w":"spindle-legged","pos":"adjective","d":["Having very thin, long legs."]}
+{"w":"spindle-shanked","pos":"adjective","d":["Having thin, sticklike legs."]}
+{"w":"spindle-shaped","pos":"adjective","d":["Shaped like a spindle, thick in the middle and tapering at both ends."]}
+{"w":"spindlelegs","pos":"noun","d":["A person or creature with extremely thin legs."]}
+{"w":"spindleshanks","pos":"noun","d":["A person with thin, spindly legs."]}
+{"w":"spine-finned","pos":"adjective","d":["Having fins stiffened by bony spines, as certain fish."]}
+{"w":"spine-tailed","pos":"adjective","d":["Having a tail that ends in or bears a sharp spine."]}
+{"w":"spinel","pos":"noun","d":["A hard mineral found in many colors, sometimes used as a gemstone."]}
+{"w":"spinelle","pos":"noun","d":["Another spelling of spinel, a hard mineral used as a gemstone."]}
+{"w":"spinescence","pos":"noun","d":["The state or quality of being spiny."]}
+{"w":"spinet","pos":"noun","d":["A small harpsichord with the strings set at an angle to the keyboard."]}
+{"w":"spini-spirulate","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spiniferous","pos":"adjective","d":["Bearing spines."]}
+{"w":"spinifex","pos":"noun","d":["A tough, spiny grass of the dry regions of Australia."]}
+{"w":"spiniform","pos":"adjective","d":["Shaped like a spine."]}
+{"w":"spinigerous","pos":"adjective","d":["Bearing spines."]}
+{"w":"spininess","pos":"noun","d":["The quality of being spiny."]}
+{"w":"spink","pos":"noun","d":["The Scottish name for the chaffinch, a small songbird."]}
+{"w":"spinneret","pos":"noun","d":["The silk-spinning organ at the rear of a spider's body."]}
+{"w":"spinney","pos":"noun","d":["A small wood or copse."]}
+{"w":"spinny","pos":"noun","d":["A variant spelling of spinney, a small wood."]}
+{"w":"spinose","pos":"adjective","d":["Covered with spines."]}
+{"w":"spinosity","pos":"noun","d":["The state of being spinose; spiny quality."]}
+{"w":"spinozism","pos":"noun","d":["The philosophical system of Baruch Spinoza."]}
+{"w":"spinozist","pos":"noun","d":["A follower of the philosophy of Spinoza."]}
+{"w":"spinster","pos":"noun","d":["An unmarried woman, traditionally one past the usual age of marrying."]}
+{"w":"spinstry","pos":"noun","d":["The occupation or craft of spinning thread."]}
+{"w":"spinthariscope","pos":"noun","d":["An instrument that shows tiny flashes of light made when particles strike a glowing screen."]}
+{"w":"spinulose","pos":"adjective","d":["Covered with small spines."]}
+{"w":"spinulous","pos":"adjective","d":["Covered with small spines."]}
+{"w":"spiny","pos":"adjective","d":["Covered with spines or sharp points."]}
+{"w":"spiodea","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spiracle","pos":"noun","d":["A breathing opening on the side of an insect's body.","The breathing hole on top of a whale's head."]}
+{"w":"spiracular","pos":"adjective","d":["Relating to a spiracle."]}
+{"w":"spiraea","pos":"noun","d":["A garden shrub bearing clusters of small pink or white flowers."]}
+{"w":"spiraeic","pos":"adjective","d":["Relating to the spiraea plant; spiraeic acid is an old name for salicylic acid."]}
+{"w":"spiral","pos":"noun","d":["A curve that winds around a center while steadily moving outward."]}
+{"w":"spiralozooid","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spirant","pos":"noun","d":["A consonant made by forcing breath through a narrow opening, such as f or s."]}
+{"w":"spiranthy","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spiration","pos":"noun","d":["In Christian theology, the procession of the Holy Spirit, conceived as by way of the divine will."]}
+{"w":"spire","pos":"noun","d":["A tall, pointed structure rising from a church tower or roof."]}
+{"w":"spiricle","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spirifer","pos":"noun","d":["An extinct brachiopod whose fossil shell shows a spiral pattern."]}
+{"w":"spirillum","pos":"noun","d":["A bacterium shaped like a rigid spiral."]}
+{"w":"spiritoso","pos":"adverb","d":["A musical direction meaning to play in a lively, spirited style."]}
+{"w":"spiritual-minded","pos":"adjective","d":["Concerned with spiritual rather than worldly matters."]}
+{"w":"spiritualization","pos":"noun","d":["The act of giving something a spiritual meaning or character."]}
+{"w":"spiritualty","pos":"noun","d":["The clergy as a body, as distinct from the laity."]}
+{"w":"spirituelle","pos":"adjective","d":["Having a quick, charming wit."]}
+{"w":"spirituosity","pos":"noun","d":["The quality of being spirited or lively; also, the alcoholic strength of a liquor."]}
+{"w":"spirituous","pos":"adjective","d":["Containing distilled alcohol."]}
+{"w":"spirketing","pos":"noun","d":["The inner planking along the sides of a wooden ship, just above the waterways."]}
+{"w":"spirling","pos":"noun","d":["A small silvery fish of northern waters, also called the smelt."]}
+{"w":"spirobacteria","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spirochaeta","pos":"noun","d":["A genus of spiral-shaped bacteria."]}
+{"w":"spirochaete","pos":"noun","d":["A spiral-shaped bacterium of the genus Spirochaeta."]}
+{"w":"spirograph","pos":"noun","d":["A drawing toy that makes intricate spiral designs using a pen and toothed gears."]}
+{"w":"spirometer","pos":"noun","d":["An instrument for measuring the volume of air breathed in and out of the lungs."]}
+{"w":"spirometry","pos":"noun","d":["The measurement of lung capacity with a spirometer."]}
+{"w":"spiroscope","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spiroylic","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spiroylous","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spirt","pos":"verb","d":["To shoot out in a sudden jet, as water from a pipe."]}
+{"w":"spirtle","pos":"noun","d":["A wooden stick used for stirring porridge."]}
+{"w":"spirula","pos":"noun","d":["A small deep-sea cephalopod with a spirally coiled internal shell."]}
+{"w":"spirulate","pos":"adjective","d":["Formed into a spiral; coiled."]}
+{"w":"spiry","pos":"adjective","d":["Like a spire; rising in a tall point."]}
+{"w":"spiss","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spissated","pos":"adjective","d":["Made thick or dense; thickened."]}
+{"w":"spissitude","pos":"noun","d":["The quality of being thick or dense; thickness."]}
+{"w":"spit","pos":"verb","d":["To force saliva from the mouth."]}
+{"w":"spit ball","pos":"noun","d":["A ball of chewed paper shot through a tube as a prank."]}
+{"w":"spit curl","pos":"noun","d":["A tight curl of hair pressed flat against the face or forehead."]}
+{"w":"spit-venom","pos":"noun","d":["Venom that a snake can eject in a spray, as of spitting cobras."]}
+{"w":"spitchcock","pos":"noun","d":["An eel that has been split open, coated, and fried or broiled."]}
+{"w":"spite","pos":"noun","d":["A desire to annoy or harm someone; ill will."]}
+{"w":"spitscocked","pos":"adjective","d":["Cooked like a spitchcock, split open and broiled."]}
+{"w":"spittle","pos":"noun","d":["Saliva spit from the mouth."]}
+{"w": "spittly", "pos": "adverb", "d": ["In the manner of spitting; in small scattered drops."]}
+{"w": "spitz dog", "pos": "noun", "d": ["A dog of a type having a thick coat, pointed ears, and a tail curled over the back."]}
+{"w": "spitzenburgh", "pos": "noun", "d": ["A variety of apple."]}
+{"w": "splanchnapophysis", "pos": "noun", "d": ["A process of a vertebra that gives attachment to the internal organs."]}
+{"w": "splanchnic", "pos": "adjective", "d": ["Relating to the viscera, or internal organs."]}
+{"w": "splanchno-skeleton", "pos": "noun", "d": ["The part of the skeleton formed in connection with the walls of the body cavity, such as the bones and cartilages supporting the throat and gills."]}
+{"w": "splanchnography", "pos": "noun", "d": ["A descriptive account of the internal organs."]}
+{"w": "splanchnology", "pos": "noun", "d": ["The branch of anatomy that deals with the internal organs."]}
+{"w": "splanchnopleure", "pos": "noun", "d": ["The embryonic layer formed of inner germ layer and adjacent middle layer that develops into the walls of the digestive tube."]}
+{"w": "splanchnotomy", "pos": "noun", "d": ["Dissection of the internal organs."]}
+{"w": "splandrel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "splash", "pos": "verb", "d": ["To scatter a liquid in flying drops by striking or falling into it.", "To dash liquid about in drops."]}
+{"w": "splashy", "pos": "adjective", "d": ["Tending to make splashes.", "Showy or striking in effect."]}
+{"w": "splatter", "pos": "verb", "d": ["To scatter in irregular drops or blobs."]}
+{"w": "splay", "pos": "verb", "d": ["To spread apart or outward at an angle."]}
+{"w": "spleen", "pos": "noun", "d": ["A ductless gland near the stomach that filters the blood and removes worn-out red blood cells.", "Ill temper or spite, as in venting one's spleen."]}
+{"w": "spleeny", "pos": "adjective", "d": ["Affected with spleen; irritable or gloomy."]}
+{"w": "spleget", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "splenalgia", "pos": "noun", "d": ["Pain in the region of the spleen."]}
+{"w": "splenculus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "splendent", "pos": "adjective", "d": ["Shining brightly; glittering."]}
+{"w": "splendid", "pos": "adjective", "d": ["Very impressive or magnificent in appearance.", "Excellent; very good."]}
+{"w": "splendidious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "splendiferous", "pos": "adjective", "d": ["Splendid or magnificent, especially in a showy way."]}
+{"w": "splendor", "pos": "noun", "d": ["Great brightness or luster.", "Magnificence of appearance; pomp."]}
+{"w": "splendrous", "pos": "adjective", "d": ["Full of splendor; resplendent."]}
+{"w": "splenetic", "pos": "adjective", "d": ["Relating to the spleen.", "Ill-humored; spiteful."]}
+{"w": "splenial", "pos": "adjective", "d": ["Relating to the splenium, the rounded back end of the corpus callosum."]}
+{"w": "splenic", "pos": "adjective", "d": ["Relating to the spleen."]}
+{"w": "splenish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "splenitis", "pos": "noun", "d": ["Inflammation of the spleen."]}
+{"w": "splenitive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "splenium", "pos": "noun", "d": ["The thickened rounded back end of the corpus callosum in the brain.", "A spore-bearing band on the frond of a fern."]}
+{"w": "splenius", "pos": "noun", "d": ["Either of two muscles of the back of the neck that extend and turn the head."]}
+{"w": "splenization", "pos": "noun", "d": ["A diseased change in lung tissue by which it becomes dense and comes to resemble spleen tissue."]}
+{"w": "splenocele", "pos": "noun", "d": ["A hernia containing a portion of the spleen."]}
+{"w": "splenography", "pos": "noun", "d": ["A description of the spleen."]}
+{"w": "splenoid", "pos": "adjective", "d": ["Resembling the spleen."]}
+{"w": "splenology", "pos": "noun", "d": ["The branch of anatomy dealing with the spleen."]}
+{"w": "splenotomy", "pos": "noun", "d": ["Dissection or surgical incision of the spleen."]}
+{"w": "splent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spleuchan", "pos": "noun", "d": ["A small pouch for holding tobacco."]}
+{"w": "splice", "pos": "verb", "d": ["To join the ends of two ropes, wires, or strips so they form one continuous length."]}
+{"w": "spline", "pos": "noun", "d": ["A long narrow strip of wood or metal used to join or reinforce parts.", "A grooved shaft that fits into a matching hub to transmit turning force."]}
+{"w": "splint", "pos": "noun", "d": ["A stiff support worn on a broken or injured limb to keep it from moving."]}
+{"w": "splintery", "pos": "adjective", "d": ["Breaking easily into sharp thin pieces."]}
+{"w": "split dynamometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "split infinitive", "pos": "phrase", "d": ["An infinitive with a word placed between to and the verb, as in to boldly go."]}
+{"w": "split key", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "split shot", "pos": "noun", "d": ["A small round lead weight with a slit, pinched onto a fishing line to sink the bait."]}
+{"w": "split stitch", "pos": "noun", "d": ["An embroidery stitch in which the needle pierces the middle of the previous stitch, forming a chain-like line."]}
+{"w": "split stroke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "split stuff", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "split switch", "pos": "noun", "d": ["A railroad switch in which one rail is movable so that a train can be directed onto another track."]}
+{"w": "split wheel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "split-tail", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "split-tongued", "pos": "adjective", "d": ["Having the tongue divided into two points, as a snake.", "Deceitful in speech."]}
+{"w": "splotch", "pos": "noun", "d": ["An irregular spot or stain, as of color or ink."]}
+{"w": "splotchy", "pos": "adjective", "d": ["Marked with irregular spots or blotches."]}
+{"w": "splurge", "pos": "verb", "d": ["To spend money freely or extravagantly."]}
+{"w": "splutter", "pos": "verb", "d": ["To speak rapidly and confusedly, spitting out words.", "To make a series of short spitting sounds."]}
+{"w": "spodomancy", "pos": "noun", "d": ["Divination by means of ashes."]}
+{"w": "spodomantic", "pos": "adjective", "d": ["Relating to divination by ashes."]}
+{"w": "spodumene", "pos": "noun", "d": ["A glassy mineral that is an important ore of lithium."]}
+{"w": "spoffish", "pos": "adjective", "d": ["Fussy and self-important in a petty way."]}
+{"w": "spoil", "pos": "verb", "d": ["To damage or ruin the value or quality of something.", "To decay or go bad, as food does."]}
+{"w": "spoilsman", "pos": "noun", "d": ["A person who seeks or profits from the spoils of political office."]}
+{"w": "spoilsmonger", "pos": "noun", "d": ["A person who deals in the distribution of political spoils or patronage."]}
+{"w": "spoliate", "pos": "verb", "d": ["To rob or plunder; to strip of possessions."]}
+{"w": "spoliation", "pos": "noun", "d": ["The act of plundering or despoiling; robbery."]}
+{"w": "spoliative", "pos": "adjective", "d": ["Tending to plunder or despoil."]}
+{"w": "spoliator", "pos": "noun", "d": ["A person who plunders or despoils."]}
+{"w": "spoliatory", "pos": "adjective", "d": ["Relating to or involving plunder."]}
+{"w": "spondaic", "pos": "adjective", "d": ["Relating to or consisting of spondees."]}
+{"w": "spondee", "pos": "noun", "d": ["A metrical foot consisting of two long or stressed syllables."]}
+{"w": "spondulics", "pos": "noun", "d": ["Money; cash."]}
+{"w": "spondyl", "pos": "noun", "d": ["A vertebra."]}
+{"w": "spondyle", "pos": "noun", "d": ["A vertebra, especially one of the backbone."]}
+{"w": "spong", "pos": "verb", "d": ["To live or feed at the expense of another."]}
+{"w": "sponge", "pos": "noun", "d": ["A soft porous mass used for washing or for absorbing liquid.", "A person who lives at the expense of others."]}
+{"w": "spongiae", "pos": "noun", "d": ["The sponges collectively; simple aquatic animals with porous bodies."]}
+{"w": "spongida", "pos": "noun", "d": ["An order of horny sponges."]}
+{"w": "spongiform", "pos": "adjective", "d": ["Resembling a sponge in texture or structure."]}
+{"w": "spongilla", "pos": "noun", "d": ["A genus of freshwater sponges."]}
+{"w": "spongin", "pos": "noun", "d": ["The tough fibrous protein that forms the skeleton of horny sponges."]}
+{"w": "sponginess", "pos": "noun", "d": ["The quality of being soft, porous, and springy like a sponge."]}
+{"w": "spongiole", "pos": "noun", "d": ["The growing tip of a plant root."]}
+{"w": "spongiopilin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spongiose", "pos": "adjective", "d": ["Spongy in texture; full of pores."]}
+{"w": "spongiozoa", "pos": "noun", "d": ["The sponges considered as a group of animals."]}
+{"w": "spongoblast", "pos": "noun", "d": ["A cell in a sponge that secretes spongin fibers."]}
+{"w": "spongoid", "pos": "adjective", "d": ["Resembling a sponge."]}
+{"w": "spongy", "pos": "adjective", "d": ["Soft, porous, and springy like a sponge."]}
+{"w": "sponk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sponsal", "pos": "adjective", "d": ["Relating to a spouse or to marriage."]}
+{"w": "sponsible", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sponsion", "pos": "noun", "d": ["A solemn engagement or promise, especially an agreement to answer for another."]}
+{"w": "sponson", "pos": "noun", "d": ["A projection from the side of a ship or boat, used for support or to carry guns."]}
+{"w": "spontaneity", "pos": "noun", "d": ["The quality of acting from natural impulse without planning."]}
+{"w": "spontaneous", "pos": "adjective", "d": ["Arising from a natural impulse without premeditation or outside cause."]}
+{"w": "spontoon", "pos": "noun", "d": ["A short spear carried by foot officers in early modern armies as a mark of rank."]}
+{"w": "spook", "pos": "noun", "d": ["A ghost or restless spirit.", "To frighten or startle suddenly."]}
+{"w": "spool", "pos": "noun", "d": ["A cylinder with raised ends for winding thread, wire, tape, or film.", "To wind material onto such a cylinder."]}
+{"w": "spoom", "pos": "verb", "d": ["To run before the wind at high speed, as a ship scudding in a storm.", "A rapid run before the wind."]}
+{"w": "spoon", "pos": "noun", "d": ["A small utensil with a shallow bowl and handle, used for lifting food to the mouth.", "To lift or scoop with a spoon."]}
+{"w": "spoon-billed", "pos": "adjective", "d": ["Having a bill shaped like a spoon, as certain ducks and shorebirds."]}
+{"w": "spoon-meat", "pos": "noun", "d": ["Soft food taken with a spoon, such as soup, broth, or pudding."]}
+{"w": "spooney", "pos": "noun", "d": ["A foolishly sentimental person, especially a lover who makes a show of affection."]}
+{"w": "spoonily", "pos": "adverb", "d": ["In a foolishly fond or sentimental manner."]}
+{"w": "spoony", "pos": "noun", "d": ["A foolishly sentimental person, especially a lover given to showy affection.", "Foolishly sentimental or lovesick."]}
+{"w": "spoor", "pos": "noun", "d": ["The track or trail left by an animal, especially its footprints or droppings.", "To follow an animal by its tracks."]}
+{"w": "sporades", "pos": "noun", "d": ["A scattered group of islands in the Aegean Sea."]}
+{"w": "sporadial", "pos": "adjective", "d": ["Occurring here and there at irregular intervals, not in a continuous pattern."]}
+{"w": "sporadic", "pos": "adjective", "d": ["Happening now and then at irregular times, not steadily or often."]}
+{"w": "sporangiophore", "pos": "noun", "d": ["The stalk that bears sporangia in certain fungi and plants."]}
+{"w": "sporangium", "pos": "noun", "d": ["The case or sac in which spores are formed in plants and fungi."]}
+{"w": "spore", "pos": "noun", "d": ["A tiny reproductive cell of fungi, mosses, and ferns that can grow into a new organism.", "To produce spores."]}
+{"w": "sporid", "pos": "noun", "d": ["A small spore."]}
+{"w": "sporidiferous", "pos": "adjective", "d": ["Bearing sporidia, or small spores."]}
+{"w": "sporidium", "pos": "noun", "d": ["A small spore, especially the reproductive cell formed in rust fungi."]}
+{"w": "sporiferous", "pos": "adjective", "d": ["Producing or bearing spores."]}
+{"w": "sporification", "pos": "noun", "d": ["The process of forming spores."]}
+{"w": "sporocarp", "pos": "noun", "d": ["A fruiting body that contains spores, found in some fungi and ferns."]}
+{"w": "sporocyst", "pos": "noun", "d": ["A sac or cyst in which spores are produced, especially a larval stage of parasitic flukes."]}
+{"w": "sporogenesis", "pos": "noun", "d": ["The formation or development of spores."]}
+{"w": "sporogony", "pos": "noun", "d": ["The production of spores, especially by multiple division in certain parasitic one-celled animals."]}
+{"w": "sporophore", "pos": "noun", "d": ["The part of a fungus that bears the spores, such as the cap of a mushroom."]}
+{"w": "sporophoric", "pos": "adjective", "d": ["Of or relating to a sporophore."]}
+{"w": "sporophyte", "pos": "noun", "d": ["The spore-producing phase of a plant's life cycle, which alternates with the gamete-producing phase."]}
+{"w": "sporosac", "pos": "noun", "d": ["A sac that produces spores, especially in certain jellyfish-like marine animals."]}
+{"w": "sporozoa", "pos": "noun", "d": ["A group of parasitic one-celled animals that reproduce by forming spores, including the malaria parasite."]}
+{"w": "sporozoid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sporozoite", "pos": "noun", "d": ["The infective spore stage of a sporozoan parasite, which spreads the infection to a new host."]}
+{"w": "sporran", "pos": "noun", "d": ["The small pouch worn in front of a Scottish kilt."]}
+{"w": "sportsman", "pos": "noun", "d": ["A person skilled in or fond of sports, especially hunting and fishing.", "A person who plays fairly and by the rules."]}
+{"w": "sportula", "pos": "noun", "d": ["A gift of food or money given by a wealthy patron to clients in ancient Rome."]}
+{"w": "sportulary", "pos": "adjective", "d": ["Living on gifts or handouts rather than by one's own earnings."]}
+{"w": "sporulation", "pos": "noun", "d": ["The formation of spores, especially by bacteria under harsh conditions."]}
+{"w": "sporule", "pos": "noun", "d": ["A very small spore."]}
+{"w": "sporuliferous", "pos": "adjective", "d": ["Bearing or producing tiny spores."]}
+{"w": "spot cash", "pos": "phrase", "d": ["Money paid in full at the time of purchase, with no credit given."]}
+{"w": "spot stroke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spottiness", "pos": "noun", "d": ["The state of being covered with spots, or of being irregular and uneven."]}
+{"w": "spotty", "pos": "adjective", "d": ["Marked with spots.", "Irregular or uneven in quality or occurrence."]}
+{"w": "spousage", "pos": "noun", "d": ["Marriage, or the union of spouses.", "The act of taking a spouse."]}
+{"w": "spousal", "pos": "adjective", "d": ["Of or relating to a spouse or marriage."]}
+{"w": "spouse-breach", "pos": "phrase", "d": ["The violation of marriage vows, especially by adultery."]}
+{"w": "spousess", "pos": "noun", "d": ["A female spouse; a wife (now archaic)."]}
+{"w": "spout", "pos": "verb", "d": ["To pour or shoot out in a sudden stream, as water from a pipe.", "A projecting pipe or lip through which liquid is poured."]}
+{"w": "sprack", "pos": "adjective", "d": ["Lively and alert; brisk and smart."]}
+{"w": "sprad", "pos": "verb", "d": ["An old past tense and past participle of spread."]}
+{"w": "spradde", "pos": "verb", "d": ["An old Middle English past tense of spread."]}
+{"w": "sprag", "pos": "noun", "d": ["A short wooden prop used to support the roof in a mine."]}
+{"w": "sprain", "pos": "noun", "d": ["An injury to a joint caused by twisting a ligament.", "To twist a ligament and injure a joint."]}
+{"w": "spraints", "pos": "noun", "d": ["The droppings of an otter."]}
+{"w": "sprang", "pos": "verb", "d": ["A past tense of spring."]}
+{"w": "sprat", "pos": "noun", "d": ["A small silvery sea fish of the herring family."]}
+{"w": "sprawl", "pos": "verb", "d": ["To stretch the body out awkwardly and carelessly.", "To spread out over a wide area in an untidy way."]}
+{"w": "spread-eagle", "pos": "adjective", "d": ["With arms and legs stretched wide apart.", "To fasten or pose someone with limbs stretched wide."]}
+{"w": "spreadingly", "pos": "adverb", "d": ["In a spreading manner; so as to cover more and more ground."]}
+{"w": "sprechery", "pos": "noun", "d": ["Showy speechmaking; grand, empty talk."]}
+{"w": "spree", "pos": "noun", "d": ["A lively outing of indulgence, such as a shopping or drinking spree."]}
+{"w": "sprenge", "pos": "noun", "d": ["A sprinkling."]}
+{"w": "sprengel pump", "pos": "phrase", "d": ["An air pump that removes air by the fall of mercury drops through a tube."]}
+{"w": "sprent", "pos": "adjective", "d": ["Sprinkled; scattered over."]}
+{"w": "sprew", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spreynd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sprig", "pos": "noun", "d": ["A small shoot or twig of a plant."]}
+{"w": "spriggy", "pos": "adjective", "d": ["Like a sprig; having small shoots or twigs."]}
+{"w": "spright", "pos": "noun", "d": ["A spirit or sprite; an old variant of sprite."]}
+{"w": "sprightliness", "pos": "noun", "d": ["Lively spirit and energy; cheerful animation."]}
+{"w": "spring steel", "pos": "phrase", "d": ["Hard, elastic steel that returns to shape after bending, used for springs."]}
+{"w": "springald", "pos": "noun", "d": ["A young man; a youth.", "An ancient war engine for hurling stones."]}
+{"w": "springbok", "pos": "noun", "d": ["A swift South African antelope noted for its high leaping bounds."]}
+{"w": "springe", "pos": "noun", "d": ["A snare with a noose for catching birds or small game.", "To catch in such a snare."]}
+{"w": "springiness", "pos": "noun", "d": ["The quality of springing back into shape; elasticity."]}
+{"w": "springle", "pos": "noun", "d": ["A small snare or trap."]}
+{"w": "springy", "pos": "adjective", "d": ["Springing back readily when bent or pressed; elastic."]}
+{"w": "sprinkle", "pos": "verb", "d": ["To scatter in small drops or particles.", "A light scattering of drops or particles."]}
+{"w": "sprit", "pos": "noun", "d": ["A light spar that stretches diagonally to hold out the top corner of a sail."]}
+{"w": "sprite", "pos": "noun", "d": ["A small fairy or elf.", "A small image that moves on a computer screen, especially in games."]}
+{"w": "spriteliness", "pos": "noun", "d": ["Lively, high-spirited energy."]}
+{"w": "sprocket wheel", "pos": "phrase", "d": ["A wheel with teeth that fit into the links of a chain or the holes in film."]}
+{"w": "sprod", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sprong", "pos": "verb", "d": ["A dialect past tense of spring."]}
+{"w": "sprout", "pos": "verb", "d": ["To put forth new shoots or buds.", "A young shoot just beginning to grow."]}
+{"w": "spruce", "pos": "adjective", "d": ["Neat and smart in dress or appearance.", "An evergreen tree with short needles, grown for timber and Christmas trees.", "To make neat and trim."]}
+{"w": "sprue", "pos": "noun", "d": ["The channel through which molten metal is poured into a mold.", "A rough bit of metal left where the casting was cut from the channel."]}
+{"w": "sprug", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sprung", "pos": "verb", "d": ["A past tense and past participle of spring."]}
+{"w": "sprunt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spry", "pos": "adjective", "d": ["Active and nimble, especially for one's age."]}
+{"w": "spud", "pos": "noun", "d": ["A potato.", "To dig up with a small spade."]}
+{"w": "spue", "pos": "verb", "d": ["To spit out; to vomit (an old form of spew)."]}
+{"w": "spuilzie", "pos": "noun", "d": ["Plunder or spoil taken by force; a Scots variant of spulzie.", "To plunder."]}
+{"w": "spuke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spuller", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "spulzie", "pos": "noun", "d": ["Plunder; goods taken by force.", "To plunder or despoil."]}
+{"w": "spume", "pos": "noun", "d": ["Foam or froth, as on the sea.", "To foam or froth up."]}
+{"w": "spumescence", "pos": "noun", "d": ["The state of being foamy or frothy."]}
+{"w":"spumid","pos":"adjective","d":["Covered with or resembling foam or froth."]}
+{"w":"spumiferous","pos":"adjective","d":["Producing or carrying foam."]}
+{"w":"spuminess","pos":"noun","d":["The quality of being foamy or frothy."]}
+{"w":"spumous","pos":"adjective","d":["Consisting of foam; frothy."]}
+{"w":"spumy","pos":"adjective","d":["Made of or covered with foam."]}
+{"w":"spun","pos":"verb","d":["Formed thread by drawing out and twisting fibers."]}
+{"w":"spunge","pos":"noun","d":["An obsolete spelling of sponge."]}
+{"w":"spunk","pos":"noun","d":["Fiery courage and lively spirit.","Dry tinderlike material used for kindling a flame."]}
+{"w":"spunky","pos":"adjective","d":["Showing brave, lively energy."]}
+{"w":"spur","pos":"noun","d":["A metal point worn on a rider's heel to urge a horse on.","Something that urges or stimulates a person to act."]}
+{"w":"spur-royal","pos":"noun","d":["A gold coin issued in England in the fifteenth and sixteenth centuries."]}
+{"w":"spur-shell","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spur-winged","pos":"adjective","d":["Having a hard spur or claw on the wing, as in some birds."]}
+{"w":"spurge","pos":"noun","d":["Any of various plants with milky juice, especially those of the Euphorbia family."]}
+{"w":"spurious","pos":"adjective","d":["Not genuine; false or counterfeit."]}
+{"w":"spurling-line","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spurn","pos":"verb","d":["To reject or refuse with scorn."]}
+{"w":"spurn-water","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spurrey","pos":"noun","d":["A low plant of the pink family with small white flowers; a variant spelling of spurry."]}
+{"w":"spurry","pos":"noun","d":["A low-growing plant of the pink family with small white or pinkish flowers."]}
+{"w":"spurt","pos":"noun","d":["A sudden short burst of speed, effort, or fluid.","A sudden increase in activity or growth."]}
+{"w":"spurtle","pos":"noun","d":["A Scottish wooden stick used for stirring porridge."]}
+{"w":"sput","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"sputative","pos":"adjective","d":["Marked by or causing the production of sputum."]}
+{"w":"spute","pos":"verb","d":["An obsolete form of the word dispute."]}
+{"w":"sputum","pos":"noun","d":["Mucus coughed up from the air passages."]}
+{"w":"spynace","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"spyne","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"squab","pos":"noun","d":["A young pigeon not yet able to fly."]}
+{"w":"squab-chick","pos":"noun","d":["A young pigeon still in the nest."]}
+{"w":"squabble","pos":"verb","d":["To argue noisily over something trivial."]}
+{"w":"squabby","pos":"adjective","d":["Short and plump; dumpy."]}
+{"w":"squacco","pos":"noun","d":["A small heron of southern Europe, Africa, and Asia."]}
+{"w":"squadron","pos":"noun","d":["A unit of warplanes or warships; a subdivision of a cavalry regiment."]}
+{"w":"squail","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"squaimous","pos":"adjective","d":["Covered with or like scales; a variant of squamous."]}
+{"w":"squali","pos":"noun","d":["Sharks of the genus Squalus; dogfish sharks."]}
+{"w":"squalid","pos":"adjective","d":["Filthy and miserable from neglect or poverty."]}
+{"w":"squall","pos":"noun","d":["A sudden violent gust of wind, often with rain."]}
+{"w":"squally","pos":"adjective","d":["Marked by sudden gusts of wind."]}
+{"w":"squalodon","pos":"noun","d":["An extinct genus of shark-toothed whales."]}
+{"w":"squalodont","pos":"adjective","d":["Relating to squalodons or their sharklike teeth."]}
+{"w":"squaloid","pos":"adjective","d":["Sharklike, especially like a dogfish."]}
+{"w":"squalor","pos":"noun","d":["The condition of being filthy and wretched from neglect or poverty."]}
+{"w":"squam","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"squama","pos":"noun","d":["A scale or scalelike plate, especially in zoology."]}
+{"w":"squamaceous","pos":"adjective","d":["Covered with or consisting of scales."]}
+{"w":"squamata","pos":"noun","d":["The order of reptiles that includes lizards and snakes."]}
+{"w":"squame","pos":"noun","d":["A scale or scalelike part."]}
+{"w":"squamella","pos":"noun","d":["A small scale."]}
+{"w":"squamellate","pos":"adjective","d":["Furnished with small scales."]}
+{"w":"squamiform","pos":"adjective","d":["Shaped like a scale."]}
+{"w":"squamigerous","pos":"adjective","d":["Bearing scales."]}
+{"w":"squamipen","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"squamoid","pos":"adjective","d":["Resembling a scale."]}
+{"w":"squamosal","pos":"adjective","d":["Relating to the squamosal bone of the skull."]}
+{"w":"squamose","pos":"adjective","d":["Scaly."]}
+{"w":"squamozygomatic","pos":"adjective","d":["Relating to the squamous part of the temporal bone and the zygomatic arch."]}
+{"w":"squamula","pos":"noun","d":["A small scale."]}
+{"w":"squamulate","pos":"adjective","d":["Covered with small scales."]}
+{"w":"squamulose","pos":"adjective","d":["Minutely scaly."]}
+{"w":"squander","pos":"verb","d":["To spend or use wastefully."]}
+{"w":"squanderingly","pos":"adverb","d":["In a wasteful manner."]}
+{"w":"square-rigged","pos":"adjective","d":["Fitted with square sails hung across the ship."]}
+{"w":"square-toed","pos":"adjective","d":["Having broad, squared-off toes; old-fashioned in outlook."]}
+{"w":"square-toes","pos":"noun","d":["An old-fashioned or very conservative person."]}
+{"w":"squarish","pos":"adjective","d":["Approximately square in shape."]}
+{"w":"squarrose","pos":"adjective","d":["Rough with spreading scales or small processes."]}
+{"w":"squarroso-dentate","pos":"adjective","d":["Having rough, spreading teeth along the edge, as a leaf."]}
+{"w":"squarrous","pos":"adjective","d":["Rough and scaly; squarrose."]}
+{"w":"squarrulose","pos":"adjective","d":["Finely or minutely squarrose."]}
+{"w":"squash","pos":"verb","d":["To press or crush something flat."]}
+{"w":"squashiness","pos":"noun","d":["The quality of being soft and easily squashed."]}
+{"w":"squashy","pos":"adjective","d":["Soft and easily pressed out of shape."]}
+{"w":"squat","pos":"verb","d":["To crouch low with the knees bent.","Short and thick in build."]}
+{"w":"squaterole","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"squatty","pos":"adjective","d":["Short and thick; squat."]}
+{"w":"squaw","pos":"noun","d":["A dated and often offensive term for a North American Indigenous woman."]}
+{"w":"squaw man","pos":"noun","d":["A historical term for a white man who married an Indigenous woman and lived among her people."]}
+{"w":"squaw vine","pos":"noun","d":["A trailing evergreen plant with small white flowers and red berries; the partridgeberry."]}
+{"w":"squawk","pos":"verb","d":["To utter a loud harsh cry like a frightened bird."]}
+{"w":"squawl","pos":"verb","d":["To cry out loudly; a variant of squall."]}
+{"w":"squeak","pos":"noun","d":["A short high-pitched sound.","A very narrow escape or victory."]}
+{"w":"squeakingly","pos":"adverb","d":["In a squeaking manner."]}
+{"w":"squeal","pos":"verb","d":["To utter a long high-pitched cry."]}
+{"w":"squeamish","pos":"adjective","d":["Easily made nauseated or offended; overly delicate."]}
+{"w":"squeamous","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"squeasiness","pos":"noun","d":["The state of feeling nauseated or uneasy."]}
+{"w":"squeasy","pos":"adjective","d":["Easily made nauseous; queasy."]}
+{"w":"squeegee","pos":"noun","d":["A tool with a rubber blade for wiping water from a flat surface."]}
+{"w":"squeegee roller","pos":"noun","d":["A roller fitted with a rubber edge for pressing, spreading, or wiping."]}
+{"w":"squeeze","pos":"verb","d":["To press firmly from opposite sides."]}
+{"w":"squelch","pos":"verb","d":["To silence or suppress completely."]}
+{"w":"squeteague","pos":"noun","d":["A food fish of the Atlantic coast; the weakfish."]}
+{"w":"squib","pos":"noun","d":["A small firework that burns with a hissing sound.","A short piece of satirical writing."]}
+{"w":"squid","pos":"noun","d":["A marine cephalopod with eight arms and two tentacles."]}
+{"w":"squier","pos":"noun","d":["An obsolete spelling of squire."]}
+{"w":"squierie","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"squiery","pos":"","d":[],"src":"iwb","unsure":true}
+{"w":"squiffy","pos":"adjective","d":["Slightly drunk."]}

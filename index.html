@@ -124,26 +124,17 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .fh-row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
 .fh-row button{padding:8px 14px;background:#fff;border:1px solid #1a4d2e;color:#1a4d2e;border-radius:4px;cursor:pointer;font-weight:bold;font-family:Arial,sans-serif}
 .fh-a{font-family:Arial,sans-serif;font-size:.92em;background:#fff;border:1px solid #c9bfa3;border-radius:6px;padding:10px 12px;min-height:1.4em}
-/* FIRST-TIME USER GUIDE (backfill 2026-10-03): spotlight tour + permanent guide — additive, theme-matched */
-a#guidebtn{border:1px solid #e8d98a;border-radius:4px;padding:4px 12px;color:#e8d98a;font-weight:bold;white-space:nowrap}
-a#guidebtn:hover{text-decoration:none;background:#e8d98a;color:#1a4d2e}
-#tourscrim{position:fixed;inset:0;z-index:200;pointer-events:none}
-#tourring{position:absolute;border:3px solid #8a6d1c;border-radius:12px;box-shadow:0 0 0 9999px rgba(26,77,46,.45);transition:all .25s ease;display:none}
-#tourcard{position:fixed;left:50%;transform:translateX(-50%);bottom:12px;z-index:201;max-width:560px;width:calc(100% - 24px);background:#fffdf4;border:2px solid #1a4d2e;border-radius:12px;padding:14px 16px;box-shadow:0 8px 30px rgba(0,0,0,.35);display:none;font-family:Arial,sans-serif;color:#2b2118}
-#tourcard h3{margin:0 0 4px;color:#1a4d2e;font-size:16px;font-family:Georgia,'Times New Roman',serif}
-#tourcard .tstep{font-size:12px;color:#6e6250;margin-bottom:6px}
-#tourcard .twhat{font-size:13.5px;margin:8px 0 4px;line-height:1.5}
-#tourcard .twhat b{color:#1a4d2e}
-#tourcard .thow{font-size:13px;color:#4a4232;margin:0 0 10px;padding-left:18px}
-#tourcard .thow li{margin:3px 0}
-#tourcard .tbtns{display:flex;gap:8px;justify-content:space-between;flex-wrap:wrap}
-#tourcard button,#tourprompt button{background:#fff;border:1px solid #1a4d2e;color:#1a4d2e;border-radius:6px;padding:10px 16px;cursor:pointer;font-family:Arial,sans-serif;font-size:14px;min-height:44px;min-width:44px}
-#tourcard button.tprimary,#tourprompt button.tprimary{background:#1a4d2e;color:#fff;font-weight:bold}
-#tourprompt{position:fixed;left:50%;transform:translateX(-50%);bottom:12px;z-index:201;max-width:440px;width:calc(100% - 24px);background:#fffdf4;border:2px solid #8a6d1c;border-radius:12px;padding:14px 16px;box-shadow:0 8px 30px rgba(0,0,0,.35);display:none;font-family:Arial,sans-serif;color:#2b2118}
-#tourprompt h4{margin:0 0 6px;color:#1a4d2e;font-size:16px;font-family:Georgia,'Times New Roman',serif}
-#tourprompt p{font-size:13.5px;margin:0 0 10px;line-height:1.5}
-#tourprompt .tbtns{display:flex;gap:8px;flex-wrap:wrap}
-#tourprompt .tnote{font-size:11px;color:#6e6250;margin:10px 0 0}
+/* FIRST-TIME USER GUIDE (2026-10-04 TOUR-FIX standard): welcome overlay + permanent guide — theme-matched */
+#jahWelcome{position:fixed;inset:0;z-index:200;display:none;align-items:center;justify-content:center;padding:16px;background:rgba(26,77,46,.62)}
+#jahWelcome.show{display:flex}
+#jahWelcomeCard{max-width:540px;width:100%;max-height:88vh;overflow-y:auto;background:#fffdf4;border:2px solid #1a4d2e;border-radius:12px;padding:20px 18px;box-shadow:0 10px 34px rgba(0,0,0,.4);font-family:Arial,sans-serif;color:#2b2118}
+#jahWelcomeCard h2{margin:0 0 4px;color:#1a4d2e;font-size:19px;font-family:Georgia,'Times New Roman',serif}
+#jahWelcomeCard .wsub{font-size:13px;color:#6e6250;margin:0 0 4px}
+#jahWelcomeCard ol{margin:8px 0 0;padding-left:20px;font-size:13.5px;line-height:1.55;color:#2b2118}
+#jahWelcomeCard ol li{margin:7px 0}
+#jahWelcomeCard .wbtns{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+#jahWelcomeCard button{background:#fff;border:1px solid #1a4d2e;color:#1a4d2e;border-radius:6px;padding:12px 22px;cursor:pointer;font-family:Arial,sans-serif;font-size:15px;min-height:48px;min-width:48px}
+#jahWelcomeOk{background:#1a4d2e!important;color:#fff!important;font-weight:bold}
 #guidepanel{position:fixed;left:50%;transform:translateX(-50%);top:12px;bottom:12px;z-index:201;max-width:680px;width:calc(100% - 24px);background:#fffdf4;border:2px solid #1a4d2e;border-radius:12px;padding:16px 18px;overflow-y:auto;display:none;font-family:Arial,sans-serif;color:#2b2118}
 #guidepanel h2{color:#1a4d2e;margin:0 0 6px;font-size:19px;font-family:Georgia,'Times New Roman',serif}
 #guidepanel h3{color:#1a4d2e;margin:16px 0 4px;font-size:15px}
@@ -180,7 +171,7 @@ a#guidebtn:hover{text-decoration:none;background:#e8d98a;color:#1a4d2e}
 <div class="topbar">
   <a href="?" style="text-decoration:none"><div class="brand">THE SIGNATURE DICTIONARY<small>ORIGINAL DEFINITIONS &middot; JAH DETERMINISTIC</small></div></a>
   <div class="navlinks">
-    <a href="?">Home</a><a href="?az=A">Browse A&ndash;Z</a><a href="#" id="randlink">Random word</a><a href="#" id="guidebtn" onclick="Guide.open();return false" aria-label="Open the how-to-use guide">? Guide</a>
+    <a href="?">Home</a><a href="?az=A">Browse A&ndash;Z</a><a href="#" id="randlink">Random word</a><a href="#" id="guidebtn" onclick="JahWelcome.open();return false" aria-label="Open the welcome guide">? Guide</a>
     <a href="https://justinahiggins614-cmyk.github.io/jah-wiki/" target="_blank" rel="noopener">JAH Wiki</a>
     <a href="https://justinahiggins614-cmyk.github.io/jah-n-wiki-leaks/" target="_blank" rel="noopener">Wiki Leaks</a>
   </div>
@@ -1257,21 +1248,23 @@ if(!deep){var last=null;try{last=localStorage.getItem('jah-last-record');}catch(
 if(last){addEventListener('load',function(){setTimeout(function(){try{var el=document.querySelector('[data-id="'+last+'"],[id*="'+last+'"],a[href*="'+last+'"]');if(el)el.scrollIntoView({block:'center'});}catch(e){}},300);});}}
 }catch(e){}})();
 </script>
-<!-- FIRST-TIME USER GUIDE (backfill 2026-10-03): spotlight tour overlay + permanent guide panel -->
-<div id="tourscrim" aria-hidden="true"><div id="tourring"></div></div>
-<div id="tourprompt" role="dialog" aria-label="First visit" style="display:none">
-<h4>New here?</h4>
-<p>Take the <b>1-minute tour</b> — word search, record-ID search, random word, the Finder, entry pages, and your AI teacher.</p>
-<div class="tbtns"><button type="button" id="tpstart" class="tprimary">Start tour</button><button type="button" id="tpskip">Skip</button></div>
-<p class="tnote">Esc closes · you can replay the tour anytime from ? Guide</p>
-</div>
-<div id="tourcard" role="dialog" aria-modal="false" aria-label="Site tour" style="display:none">
-<div class="tstep" id="tourstep"></div>
-<h3 id="tourt"></h3>
-<p class="twhat" id="tourw"></p>
-<div style="font-size:12px;color:#8a6d1c;letter-spacing:.14em">HOW</div>
-<ol class="thow" id="tourh"></ol>
-<div class="tbtns"><button type="button" id="tourback">&larr; Back</button><button type="button" id="tourskip">Skip tour</button><button type="button" id="tournext" class="tprimary">Next &rarr;</button></div>
+<!-- FIRST-TIME USER GUIDE (2026-10-04 TOUR-FIX standard): welcome overlay — centered modal, no scroll, no spotlight -->
+<div id="jahWelcome" aria-hidden="true">
+  <div id="jahWelcomeCard" role="dialog" aria-modal="true" aria-label="Welcome to The Signature Dictionary">
+    <h2>Welcome to The Signature Dictionary</h2>
+    <p class="wsub">Every English word, defined two ways — the normal authored definition and the JAH deterministic definition. Here&rsquo;s how to use it:</p>
+    <ol>
+      <li><b>Search any word.</b> Type a word in the search box up top and press <b>Define</b> — an exact headword always wins. Paste a <b>JAH-DICT-W-######</b> stamp to reopen an entry.</li>
+      <li><b>Read the entry.</b> Numbered senses, phonetic respelling, word history, usage examples, related words &amp; opposites, and the deterministic definition — all on one page.</li>
+      <li><b>Use the entry tools.</b> <b>Read aloud</b>, <b>Copy</b>, <b>Download</b>, <b>Verify record</b>, and the runnable Python word program (Copy, Download, Run demo).</li>
+      <li><b>Ask the AI teacher.</b> Every entry has a personal AI teacher at the bottom — ask it questions about the word you&rsquo;re reading.</li>
+      <li><b>Try the Finder or a random word.</b> Describe a word in plain words and press <b>Find it</b>, or jump to a <b>Random word</b> from the header.</li>
+    </ol>
+    <div class="wbtns">
+      <button type="button" id="jahWelcomeOk">OK &mdash; Got it &#10003;</button>
+      <button type="button" id="jahWelcomeFull">Full how-to guide</button>
+    </div>
+  </div>
 </div>
 <div id="guidepanel" role="dialog" aria-label="How to use this site" style="display:none">
 <button type="button" class="gclose" onclick="Guide.close()" aria-label="Close guide">&#10005; Close</button>
@@ -1323,108 +1316,49 @@ if(last){addEventListener('load',function(){setTimeout(function(){try{var el=doc
 <ul><li><b>&#9881; Word patent &rarr;</b> opens the word's JAH-WORD record in the Spec Catalog &mdash; a <b>Signature DRAFT spec</b>: a draft ready to file, <b>not</b> filed and <b>not</b> a granted patent.</li><li><b>In the JAH catalogs</b> shows how many spec and patent titles use the word, with one-tap search links into JAH Wiki. Catalog-term entries instead link to their home catalog (Spec Catalog or Patent Catalog), plus the JAH Wiki article and Wiki Leaks dossier.</li><li><b>The JAH Web</b> puts every Signature site one tap away. <b>Also filed under this headword</b> lists other entries sharing the same title; <b>Nearby headwords</b> walks the dictionary alphabetically.</li></ul>
 <h3>&#9681; Dark mode</h3>
 <ul><li>The <b>&#9681;</b> button toggles dark mode. Your choice is remembered on this device.</li></ul>
-<p class="greplay"><a href="#" onclick="Guide.replay();return false">&#8635; Replay the 1-minute tour</a> &middot; your tour preference is stored on this device only (key: <b>jah-tour-seen-dictionary</b>).</p>
+<p class="greplay"><a href="#" onclick="Guide.replay();return false">&#8635; Show the welcome guide</a> &middot; your preference is stored on this device only (key: <b>jah-tour-seen-dictionary</b>).</p>
 </div>
 <script>
-/* FIRST-TIME USER GUIDE (backfill 2026-10-03): first-visit spotlight tour
+/* FIRST-TIME USER GUIDE (2026-10-04 TOUR-FIX standard): first-visit WELCOME overlay
    (localStorage jah-tour-seen-dictionary) + permanent ? Guide panel.
-   Overlays never block content: the scrim passes clicks through; Esc/Skip
-   always dismiss; nothing here restyles or re-themes the site. */
+   Centered modal, NO auto-scroll, NO spotlight, NO section jumps — the page stays put,
+   the overlay teaches. One "OK — Got it" button dismisses; ? Guide re-opens anytime. */
 (function(){
 "use strict";
 function lsGet(k){try{return localStorage.getItem(k);}catch(e){return null;}}
 function lsSet(k,v){try{localStorage.setItem(k,v);}catch(e){}}
 var SEEN="jah-tour-seen-dictionary";
 function isHome(){var s=location.search||"";return !(/[?&](w|dict|id|q|az|tour)=/.test(s));}
-var steps=[
- {sel:".topbar .brand",t:"Welcome to The Signature Dictionary",
-  w:"<b>WHAT:</b> The Signature Dictionary &mdash; every English word, defined two ways: the normal authored definition and the JAH deterministic definition.",
-  d:"<b>WHAT IT DOES:</b> This page is the front door to over 102,000 English headwords plus JAH catalog terms, all with original definitions &mdash; no borrowed text.",
-  h:["Type any word in the search box up top and press Define.","Tap <b>? Guide</b> in this bar any time to re-read the full how-to."]},
- {sel:".topbar .searchbox",t:"Word search + record-ID search",
-  w:"<b>WHAT:</b> The search box at the top of every page.",
-  d:"<b>WHAT IT DOES:</b> Looks up any word &mdash; or paste a stamp ID like JAH-DICT-W-000123 to reopen that exact entry, or a catalog record ID (JAH-SPEC-######, JAH-WORD-######, or a patent publication number) to jump to its catalog term.",
-  h:["Type and press Define &mdash; an exact headword always wins, hyphen or space typed either way.","Your query stays in ?q= so the URL is shareable and re-editable."]},
- {sel:"#randlink",t:"Random word",
-  w:"<b>WHAT:</b> The &ldquo;Random word&rdquo; link in this bar.",
-  d:"<b>WHAT IT DOES:</b> Opens a real random headword every time &mdash; never blank, and never the same word twice in a row.",
-  h:["Tap it for a surprise word.","It lands on the stable ?w= deep link you can bookmark."]},
- {sel:"#app .wotd",t:"Word of the day",
-  w:"<b>WHAT:</b> The Word of the day card.",
-  d:"<b>WHAT IT DOES:</b> One featured headword per day &mdash; deterministic, so everyone sees the same word all day.",
-  h:["Tap the word to open its full entry."]},
- {sel:"#app #finderbar",t:"The Finder",
-  w:"<b>WHAT:</b> THE FINDER &mdash; dictionary assistance.",
-  d:"<b>WHAT IT DOES:</b> Describe the word you're thinking of in plain words; it matches your keywords against the dictionary and shows the best headwords. It never invents words.",
-  h:["Type a description and press Find it."]},
- {sel:"#app .az",t:"Browse A&ndash;Z",
-  w:"<b>WHAT:</b> The letter row.",
-  d:"<b>WHAT IT DOES:</b> Browse every headword starting with a letter; sub-letter paging keeps long lists fast.",
-  h:["Tap a letter to browse its headwords.","Static A&ndash;Z pages also work with no JavaScript."]},
- {sel:null,t:"Filtering search results",
-  w:"<b>WHAT:</b> The &ldquo;Show:&rdquo; dropdown on search results.",
-  d:"<b>WHAT IT DOES:</b> Filters results by entry type &mdash; authored definitions, template-derived definitions, pending definitions, or catalog terms.",
-  h:["Search for anything, then pick a filter.","The filter stays in the URL (?filter=) so it is shareable."]},
- {sel:null,t:"Every entry page",
-  w:"<b>WHAT:</b> The full entry page &mdash; open any word to see it.",
-  d:"<b>WHAT IT DOES:</b> Pronunciation with &ldquo;Hear word&rdquo;, word history, description, usage examples, related words &amp; opposites, word forms, the JAH deterministic definition, the official stamp, a runnable Python word program, &ldquo;Ask this entry&rdquo; quick answers, and the AI teacher chat.",
-  h:["Read aloud has Pause / Resume that keeps your place.","Copy entry or download it as .txt / JSON / CSV; copy or download the .py word program.","&ldquo;&check; Verify record&rdquo; recomputes the entry's signatures in your browser; &ldquo;&9888; Report an issue&rdquo; files a local-only report."]},
- {sel:null,t:"You are set",
-  w:"<b>WHAT:</b> That is the whole site.",
-  d:"<b>WHAT IT DOES:</b> Search, filters, A&ndash;Z browse, the Finder, entries with the full dictionary apparatus, stamps, word programs, read-aloud, and the AI teacher.",
-  h:["This tour shows once; <b>? Guide</b> in the header brings back the full guide.","Your tour preference is stored on this device only."]}
-];
-var card=document.getElementById("tourcard"),ring=document.getElementById("tourring"),prompt=document.getElementById("tourprompt");
-var i=0,active=false;
-function markSeen(){lsSet(SEEN,"1");}
-function place(){
- var s=steps[i],el=s.sel?document.querySelector(s.sel):null;
- if(el&&el.getBoundingClientRect){var r=el.getBoundingClientRect(),sy=window.scrollY||0;
-  ring.style.display="block";ring.style.left=(r.left+window.scrollX-6)+"px";ring.style.top=(r.top+sy-6)+"px";
-  ring.style.width=(r.width+12)+"px";ring.style.height=(r.height+12)+"px";
-  try{el.scrollIntoView({block:"center",behavior:"smooth"});}catch(e){}
- }else{ring.style.display="none";}
- document.getElementById("tourstep").textContent="Step "+(i+1)+" of "+steps.length;
- document.getElementById("tourt").innerHTML=s.t;
- document.getElementById("tourw").innerHTML=s.w+"<br>"+s.d;
- document.getElementById("tourh").innerHTML=s.h.map(function(x){return "<li>"+x+"</li>"}).join("");
- document.getElementById("tourback").disabled=(i===0);
- document.getElementById("tourback").style.opacity=(i===0)?".45":"1";
- document.getElementById("tournext").textContent=(i===steps.length-1)?"Done \u2713":"Next \u2192";
+function openWelcome(){
+ var w=document.getElementById("jahWelcome");
+ w.classList.add("show");w.setAttribute("aria-hidden","false");
+ try{document.getElementById("jahWelcomeOk").focus()}catch(e){}
 }
-function show(){active=true;prompt.style.display="none";card.style.display="block";place();var b=document.getElementById("tournext");if(b)b.focus();}
-function hide(){active=false;card.style.display="none";ring.style.display="none";}
-window.Tour={start:function(){i=0;show();},next:function(){if(i<steps.length-1){i++;place();}else{Tour.end();}},back:function(){if(i>0){i--;place();}},skip:function(){markSeen();hide();},end:function(){markSeen();hide();},active:function(){return active;}};
-document.getElementById("tournext").onclick=function(){Tour.next();};
-document.getElementById("tourback").onclick=function(){Tour.back();};
-document.getElementById("tourskip").onclick=function(){Tour.skip();};
-document.getElementById("tpstart").onclick=function(){prompt.style.display="none";Tour.start();};
-document.getElementById("tpskip").onclick=function(){markSeen();prompt.style.display="none";};
-window.addEventListener("resize",function(){if(active)place();});
+function closeWelcome(){
+ var w=document.getElementById("jahWelcome");
+ w.classList.remove("show");w.setAttribute("aria-hidden","true");
+ lsSet(SEEN,"1");
+}
+document.getElementById("jahWelcomeOk").onclick=closeWelcome;
+document.getElementById("jahWelcomeFull").onclick=function(){closeWelcome();Guide.open();};
+document.getElementById("jahWelcome").addEventListener("click",function(e){
+ if(e.target===this)closeWelcome();});
+window.JahWelcome={open:openWelcome,close:closeWelcome};
 window.Guide={open:function(){document.getElementById("guidepanel").style.display="block";var c=document.querySelector("#guidepanel .gclose");if(c)c.focus();},
  close:function(){document.getElementById("guidepanel").style.display="none";},
- replay:function(){Guide.close();if(isHome()){Tour.start();}else{location.href="?tour=1";}}};
+ replay:function(){Guide.close();openWelcome();}};
 document.addEventListener("keydown",function(e){
- var gp=document.getElementById("guidepanel");
- if(gp&&gp.style.display==="block"){if(e.key==="Escape")Guide.close();return;}
- if(prompt.style.display==="block"){if(e.key==="Escape"){markSeen();prompt.style.display="none";}return;}
- if(!active)return;
- if(e.key==="Escape")Tour.skip();
- else if(e.key==="ArrowRight")Tour.next();
- else if(e.key==="ArrowLeft")Tour.back();
+ var w=document.getElementById("jahWelcome"),gp=document.getElementById("guidepanel");
+ if(w&&w.classList.contains("show")){if(e.key==="Escape")closeWelcome();return;}
+ if(gp&&gp.style.display==="block"){if(e.key==="Escape")Guide.close();}
 });
-/* Wait for the home view to render (data loads async), then show the
-   first-visit prompt; ?tour=1 replays the tour from the guide. */
-function waitHome(cb){var t0=Date.now();var t=setInterval(function(){
- if(document.querySelector("#app .wotd")&&document.querySelector("#app #finderbar")){clearInterval(t);cb();}
- else if(Date.now()-t0>12000){clearInterval(t);}},500);}
 document.addEventListener("DOMContentLoaded",function(){
  setTimeout(function(){
-  if(qp("tour")==="1"){waitHome(function(){Tour.start();});return;}
+  if(qp("tour")==="1"){openWelcome();return;}
   if(!isHome())return;
   if(lsGet(SEEN))return;
-  waitHome(function(){if(!lsGet(SEEN))prompt.style.display="block";});
- },800);
+  openWelcome();
+ },900);
 });
 })();
 </script>

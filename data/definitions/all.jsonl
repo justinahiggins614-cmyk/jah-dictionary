@@ -46221,6 +46221,806 @@
 {"w": "rescussor", "pos": "noun", "d": ["A person who rescues."], "src": "iwb"}
 {"w": "rese", "pos": "verb", "d": ["An obsolete word meaning to rage or tremble."], "src": "iwb"}
 {"w": "reseau", "pos": "noun", "d": ["A net or network, especially the netlike ground of lace."], "src": "iwb"}
+{"w": "reseda", "pos": "noun", "d": ["A genus of flowering plants that includes mignonette, valued for its sweet-smelling blossoms."], "src": "iwb"}
+{"w": "resemblingly", "pos": "adverb", "d": ["In a way that looks, sounds, or seems like something else."], "src": "iwb"}
+{"w": "resentingly", "pos": "adverb", "d": ["In a bitter or offended manner, as from a perceived slight."], "src": "iwb"}
+{"w": "reservance", "pos": "noun", "d": ["The act of keeping something back in reserve; a reservation."], "src": "iwb"}
+{"w": "reservative", "pos": "adjective", "d": ["Tending to keep, store, or preserve for future use."], "src": "iwb"}
+{"w": "reservatory", "pos": "noun", "d": ["A place where things are kept in store for future use."], "src": "iwb"}
+{"w": "reserve city", "pos": "phrase", "d": ["In American banking history, a city designated as a center where member banks kept part of their required cash reserves."], "src": "iwb"}
+{"w": "reservee", "pos": "noun", "d": ["A person for whom something has been reserved or set aside."], "src": "iwb"}
+{"w": "reservist", "pos": "noun", "d": ["A member of a military reserve force who can be called to active duty when needed."], "src": "iwb"}
+{"w": "reservor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "resiance", "pos": "noun", "d": ["The act of dwelling or staying in a place; residence."], "src": "iwb"}
+{"w": "resiant", "pos": "adjective", "d": ["Dwelling or staying in a place; resident."], "src": "iwb"}
+{"w": "residencia", "pos": "noun", "d": ["A residence or dwelling place; in Spanish colonial use, the formal review of an official's conduct at the end of his term."], "src": "iwb"}
+{"w": "residency", "pos": "noun", "d": ["The state or fact of living in a particular place."], "src": "iwb"}
+{"w": "residentiary", "pos": "adjective", "d": ["Relating to a residence or to the duty of residing in a place."], "src": "iwb"}
+{"w": "residual", "pos": "adjective", "d": ["Remaining after the main part has been removed or used up."], "src": "iwb"}
+{"w": "residuary", "pos": "adjective", "d": ["Relating to what remains; in law, relating to the part of an estate left after debts and bequests are paid."], "src": "iwb"}
+{"w": "residue", "pos": "noun", "d": ["What is left over after the main part is taken away or used."], "src": "iwb"}
+{"w": "residuous", "pos": "adjective", "d": ["Leaving a residue; remaining behind after use."], "src": "iwb"}
+{"w": "residuum", "pos": "noun", "d": ["A residue; what remains after a process such as evaporation or distillation."], "src": "iwb"}
+{"w": "resignee", "pos": "noun", "d": ["A person who resigns from an office or position."], "src": "iwb"}
+{"w": "resilience", "pos": "noun", "d": ["The ability to recover quickly from setbacks, damage, or change."], "src": "iwb"}
+{"w": "resiliency", "pos": "noun", "d": ["The quality of being resilient; quickness to recover."], "src": "iwb"}
+{"w": "resilient", "pos": "adjective", "d": ["Able to spring back into shape or to recover quickly from harm or hardship."], "src": "iwb"}
+{"w": "resilition", "pos": "noun", "d": ["A leaping or springing back; rebound."], "src": "iwb"}
+{"w": "resinaceous", "pos": "adjective", "d": ["Having the nature or appearance of resin."], "src": "iwb"}
+{"w": "resiniferous", "pos": "adjective", "d": ["Producing resin, as certain trees and plants do."], "src": "iwb"}
+{"w": "resiniform", "pos": "adjective", "d": ["Having the form or character of resin."], "src": "iwb"}
+{"w": "resino-electric", "pos": "adjective", "d": ["Relating to the kind of electricity produced by rubbing resin, which carries a negative charge."], "src": "iwb"}
+{"w": "resinoid", "pos": "noun", "d": ["A substance that resembles resin in appearance or properties."], "src": "iwb"}
+{"w": "resiny", "pos": "adjective", "d": ["Like resin; sticky or fragrant with resin."], "src": "iwb"}
+{"w": "resipiscence", "pos": "noun", "d": ["Repentance for a fault or error; a return to a wiser or better state of mind."], "src": "iwb"}
+{"w": "resistance frame", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "resistibility", "pos": "noun", "d": ["The quality of being resistible; the power to resist or to be resisted."], "src": "iwb"}
+{"w": "resolutory", "pos": "adjective", "d": ["Tending to dissolve or bring to an end; in law, ending an obligation when a stated condition occurs."], "src": "iwb"}
+{"w": "resonancy", "pos": "noun", "d": ["The quality of being resonant; resonance."], "src": "iwb"}
+{"w": "resonator", "pos": "noun", "d": ["A hollow device or cavity that strengthens sound by resonance, or an electronic component that sets a circuit's frequency."], "src": "iwb"}
+{"w": "resorcylic", "pos": "adjective", "d": ["Relating to or derived from resorcinol, especially in resorcylic acid."], "src": "iwb"}
+{"w": "resorption", "pos": "noun", "d": ["The process of being taken back into the body, as when tissue such as bone is broken down and absorbed."], "src": "iwb"}
+{"w": "respectuous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "respersion", "pos": "noun", "d": ["A sprinkling or scattering of liquid or fine particles."], "src": "iwb"}
+{"w": "respirability", "pos": "noun", "d": ["The quality of being able to be breathed safely."], "src": "iwb"}
+{"w": "respirative", "pos": "adjective", "d": ["Relating to or used in breathing."], "src": "iwb"}
+{"w": "respirator", "pos": "noun", "d": ["A mask worn over the nose and mouth to filter dust or fumes from the air."], "src": "iwb"}
+{"w": "resplendence", "pos": "noun", "d": ["Brilliant brightness; shining splendor."], "src": "iwb"}
+{"w": "resplendency", "pos": "noun", "d": ["The quality of being resplendent; dazzling brightness."], "src": "iwb"}
+{"w": "resplendishant", "pos": "adjective", "d": ["Shining with brilliant light; resplendent."], "src": "iwb"}
+{"w": "resplendishing", "pos": "adjective", "d": ["Shining brightly; making brilliant."], "src": "iwb"}
+{"w": "respondency", "pos": "noun", "d": ["The act of answering or responding; a reply."], "src": "iwb"}
+{"w": "respondentia", "pos": "noun", "d": ["In maritime law, a loan secured on a ship's cargo, repayable only if the cargo reaches its destination safely."], "src": "iwb"}
+{"w": "responsive", "pos": "adjective", "d": ["Quick to react, answer, or be affected by something."], "src": "iwb"}
+{"w": "responsory", "pos": "noun", "d": ["A short chant or verse sung in a church service as a response."], "src": "iwb"}
+{"w": "ressaldar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rest cure", "pos": "phrase", "d": ["A medical treatment, once common for nervous disorders, consisting of complete bed rest and freedom from all activity."], "src": "iwb"}
+{"w": "rest-harrow", "pos": "noun", "d": ["A tough-rooted European plant of the pea family with pink flowers, named for roots that were said to stop the harrow."], "src": "iwb"}
+{"w": "restaurateur", "pos": "noun", "d": ["A person who owns or manages a restaurant."], "src": "iwb"}
+{"w": "restauration", "pos": "noun", "d": ["The act of restoring something to its former condition; restoration."], "src": "iwb"}
+{"w": "restiform", "pos": "adjective", "d": ["Shaped like a rope; cordlike in form."], "src": "iwb"}
+{"w": "restily", "pos": "adverb", "d": ["In a restless or unruly manner."], "src": "iwb"}
+{"w": "restinction", "pos": "noun", "d": ["The act of putting out or quenching; extinction."], "src": "iwb"}
+{"w": "restiness", "pos": "noun", "d": ["The state of being restless or hard to manage."], "src": "iwb"}
+{"w": "restinguish", "pos": "verb", "d": ["To put out or quench, as a fire or light."], "src": "iwb"}
+{"w": "restitute", "pos": "verb", "d": ["To restore something to its former state or to its rightful owner."], "src": "iwb"}
+{"w": "restitution", "pos": "noun", "d": ["The act of giving back what was lost or taken; compensation for loss or injury."], "src": "iwb"}
+{"w": "restitutor", "pos": "noun", "d": ["One who makes restitution or restores what was lost."], "src": "iwb"}
+{"w": "restorative", "pos": "adjective", "d": ["Tending to restore health, strength, or spirits."], "src": "iwb"}
+{"w": "restrainedly", "pos": "adverb", "d": ["In a controlled or self-disciplined manner."], "src": "iwb"}
+{"w": "restringe", "pos": "verb", "d": ["To bind or tie again; to hold back or restrict."], "src": "iwb"}
+{"w": "resumptive", "pos": "adjective", "d": ["Serving to take up again or continue after a pause; summarizing."], "src": "iwb"}
+{"w": "resupinate", "pos": "adjective", "d": ["In botany, twisted upside down, as an orchid flower whose lip sits on top."], "src": "iwb"}
+{"w": "resurrect", "pos": "verb", "d": ["To bring back to life; to revive something that had fallen out of use."], "src": "iwb"}
+{"w": "resuscitable", "pos": "adjective", "d": ["Capable of being revived or brought back from apparent death."], "src": "iwb"}
+{"w": "resuscitant", "pos": "noun", "d": ["A person who revives or resuscitates another."], "src": "iwb"}
+{"w": "resuscitative", "pos": "adjective", "d": ["Tending to revive; used in resuscitation."], "src": "iwb"}
+{"w": "resuscitator", "pos": "noun", "d": ["A device or person that revives someone, especially by restoring breathing."], "src": "iwb"}
+{"w": "ret", "pos": "verb", "d": ["To soak flax or hemp in water so that the fibers separate from the woody stems."], "src": "iwb"}
+{"w": "retaliate", "pos": "verb", "d": ["To strike back for an injury; to return like for like."], "src": "iwb"}
+{"w": "retaliative", "pos": "adjective", "d": ["Done or tending to be done in retaliation."], "src": "iwb"}
+{"w": "retaliatory", "pos": "adjective", "d": ["Involving or intended as retaliation; done in revenge."], "src": "iwb"}
+{"w": "retard", "pos": "verb", "d": ["To slow down or delay the progress of something."], "src": "iwb"}
+{"w": "retardative", "pos": "adjective", "d": ["Tending to slow down or delay."], "src": "iwb"}
+{"w": "retch", "pos": "verb", "d": ["To make the motion of vomiting without bringing anything up."], "src": "iwb"}
+{"w": "rete", "pos": "noun", "d": ["A network of blood vessels, nerves, or fibers; a netlike structure."], "src": "iwb"}
+{"w": "retecious", "pos": "adjective", "d": ["Netlike; formed like a net."], "src": "iwb"}
+{"w": "retection", "pos": "noun", "d": ["The act of uncovering or laying bare; detection."], "src": "iwb"}
+{"w": "retentivity", "pos": "noun", "d": ["The power of holding or keeping something; in physics, the ability of a magnetized body to keep its magnetism."], "src": "iwb"}
+{"w": "retentor", "pos": "noun", "d": ["One who or that which holds something back or keeps it in place."], "src": "iwb"}
+{"w": "retex", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rethoryke", "pos": "noun", "d": ["An archaic spelling of rhetoric."], "src": "iwb"}
+{"w": "retiarius", "pos": "noun", "d": ["In ancient Rome, a gladiator who fought with a net and a trident."], "src": "iwb"}
+{"w": "retiary", "pos": "adjective", "d": ["Like a net; weaving nets, as certain spiders do."], "src": "iwb"}
+{"w": "reticence", "pos": "noun", "d": ["The habit of keeping one's thoughts to oneself; reserve in speech."], "src": "iwb"}
+{"w": "reticency", "pos": "noun", "d": ["The quality of being reticent; quiet reserve."], "src": "iwb"}
+{"w": "reticent", "pos": "adjective", "d": ["Habitually silent or reserved; not quick to reveal thoughts or feelings."], "src": "iwb"}
+{"w": "reticle", "pos": "noun", "d": ["A network of fine lines in a telescope, microscope, or gunsight, used as a guide in aiming or measuring."], "src": "iwb"}
+{"w": "reticular", "pos": "adjective", "d": ["Like a net; formed of or divided by intersecting lines."], "src": "iwb"}
+{"w": "reticularia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "reticularian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "reticulate", "pos": "adjective", "d": ["Arranged like a net; covered with a network of lines or veins."], "src": "iwb"}
+{"w": "reticulation", "pos": "noun", "d": ["A netlike pattern or arrangement of lines."], "src": "iwb"}
+{"w": "reticule", "pos": "noun", "d": ["A small drawstring bag or purse carried as a fashion accessory."], "src": "iwb"}
+{"w": "reticulosa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "reticulose", "pos": "adjective", "d": ["Having a netlike pattern or structure."], "src": "iwb"}
+{"w": "reticulum", "pos": "noun", "d": ["A netlike structure or framework.", "A small constellation of the southern sky."], "src": "iwb"}
+{"w": "retiform", "pos": "adjective", "d": ["Shaped like a net; having a netted pattern."], "src": "iwb"}
+{"w": "retina", "pos": "noun", "d": ["The light-sensitive layer lining the back of the eye."], "src": "iwb"}
+{"w": "retinaculum", "pos": "noun", "d": ["A band of tissue that holds a tendon or organ in place."], "src": "iwb"}
+{"w": "retinal", "pos": "adjective", "d": ["Of or relating to the retina."], "src": "iwb"}
+{"w": "retinasphalt", "pos": "noun", "d": ["A brown fossil resin found in brown coal deposits."], "src": "iwb"}
+{"w": "retinasphaltum", "pos": "noun", "d": ["A fossil resin occurring in brown coal; retinasphalt."], "src": "iwb"}
+{"w": "retinerved", "pos": "adjective", "d": ["Having veins arranged in a netlike pattern, as a leaf."], "src": "iwb"}
+{"w": "retineum", "pos": "noun", "d": ["The light-receiving layer of an invertebrate eye."], "src": "iwb"}
+{"w": "retinic", "pos": "adjective", "d": ["Of or relating to the retina."], "src": "iwb"}
+{"w": "retinite", "pos": "noun", "d": ["A fossil resin found in coal beds."], "src": "iwb"}
+{"w": "retinitis", "pos": "noun", "d": ["Inflammation of the retina."], "src": "iwb"}
+{"w": "retinoid", "pos": "noun", "d": ["Any of a group of compounds related to vitamin A."], "src": "iwb"}
+{"w": "retinol", "pos": "noun", "d": ["The alcohol form of vitamin A, important for vision and skin health."], "src": "iwb"}
+{"w": "retinophora", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "retinophoral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "retinoscopy", "pos": "noun", "d": ["An eye examination in which light is shone into the eye to measure how it focuses."], "src": "iwb"}
+{"w": "retinue", "pos": "noun", "d": ["A group of attendants or followers accompanying an important person."], "src": "iwb"}
+{"w": "retinula", "pos": "noun", "d": ["The light-sensitive nerve structure within one unit of an insect's compound eye."], "src": "iwb"}
+{"w": "retinulate", "pos": "adjective", "d": ["Marked with a network of fine lines."], "src": "iwb"}
+{"w": "retiped", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "retiracy", "pos": "noun", "d": ["The state of being retired; withdrawal from active work or office."], "src": "iwb"}
+{"w": "retistene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "retitelae", "pos": "noun", "d": ["A group of spiders that spin irregular tangled webs."], "src": "iwb"}
+{"w": "retraict", "pos": "verb", "d": ["An obsolete form of retract."], "src": "iwb"}
+{"w": "retraxit", "pos": "noun", "d": ["In law, a plaintiff's formal withdrawal of a suit."], "src": "iwb"}
+{"w": "retribution", "pos": "noun", "d": ["Punishment given in return for a wrong committed."], "src": "iwb"}
+{"w": "retributive", "pos": "adjective", "d": ["Given or inflicted as punishment for wrongdoing."], "src": "iwb"}
+{"w": "retributory", "pos": "adjective", "d": ["Of or relating to retribution; inflicting punishment."], "src": "iwb"}
+{"w": "retro-", "pos": "prefix", "d": ["A prefix meaning backward or behind, as in retrograde."], "src": "iwb"}
+{"w": "retroact", "pos": "verb", "d": ["To act with effect on the past; to have retroactive force."], "src": "iwb"}
+{"w": "retrocede", "pos": "verb", "d": ["To give or cede back to a former owner."], "src": "iwb"}
+{"w": "retrocedent", "pos": "adjective", "d": ["Going or moving back; receding."], "src": "iwb"}
+{"w": "retrocession", "pos": "noun", "d": ["The act of ceding something back to its former owner."], "src": "iwb"}
+{"w": "retrochoir", "pos": "noun", "d": ["The part of a church behind the choir and high altar."], "src": "iwb"}
+{"w": "retrocopulant", "pos": "adjective", "d": ["Of animals, mating from behind."], "src": "iwb"}
+{"w": "retrocopulation", "pos": "noun", "d": ["Copulation from behind, as in some animals."], "src": "iwb"}
+{"w": "retroduction", "pos": "noun", "d": ["The act of leading or bringing back."], "src": "iwb"}
+{"w": "retroflex", "pos": "adjective", "d": ["Turned or bent backward.", "Articulated with the tip of the tongue curled back."], "src": "iwb"}
+{"w": "retrofract", "pos": "adjective", "d": ["Bent sharply backward upon itself."], "src": "iwb"}
+{"w": "retrogenerative", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "retrogradation", "pos": "noun", "d": ["Backward movement or decline to a worse state."], "src": "iwb"}
+{"w": "retrograde", "pos": "adjective", "d": ["Moving or going backward.", "Declining to a worse condition."], "src": "iwb"}
+{"w": "retrogradingly", "pos": "adverb", "d": ["In a backward or declining manner."], "src": "iwb"}
+{"w": "retrogress", "pos": "verb", "d": ["To move or go backward; to decline."], "src": "iwb"}
+{"w": "retromingency", "pos": "noun", "d": ["The habit of urinating backward, as in camels."], "src": "iwb"}
+{"w": "retromingent", "pos": "adjective", "d": ["Urinating backward."], "src": "iwb"}
+{"w": "retropulsive", "pos": "adjective", "d": ["Pushing or driving backward."], "src": "iwb"}
+{"w": "retrorse", "pos": "adjective", "d": ["Turned or pointing backward, as hairs or bristles."], "src": "iwb"}
+{"w": "retrospect", "pos": "noun", "d": ["A review of or looking back on past events."], "src": "iwb"}
+{"w": "retrovaccination", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "retroversion", "pos": "noun", "d": ["The state of being turned backward, as of the uterus."], "src": "iwb"}
+{"w": "retrovert", "pos": "verb", "d": ["To turn backward."], "src": "iwb"}
+{"w": "rette", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rettery", "pos": "noun", "d": ["A place where flax or hemp is soaked to soften its fibers."], "src": "iwb"}
+{"w": "retund", "pos": "verb", "d": ["To blunt or dull the edge of.", "To beat or drive back."], "src": "iwb"}
+{"w": "reume", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "revalescence", "pos": "noun", "d": ["Recovery of health after illness; convalescence."], "src": "iwb"}
+{"w": "revalescent", "pos": "adjective", "d": ["Recovering health after illness."], "src": "iwb"}
+{"w": "reve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "reveille", "pos": "noun", "d": ["A bugle call or signal waking soldiers in the morning."], "src": "iwb"}
+{"w": "revel", "pos": "verb", "d": ["To celebrate with noisy merrymaking."], "src": "iwb"}
+{"w": "revel-rout", "pos": "noun", "d": ["A noisy, disorderly crowd of revelers."], "src": "iwb"}
+{"w": "revelator", "pos": "noun", "d": ["One who reveals or discloses something."], "src": "iwb"}
+{"w": "revelry", "pos": "noun", "d": ["Noisy and lively celebration; merrymaking."], "src": "iwb"}
+{"w": "revendicate", "pos": "verb", "d": ["To reclaim as one's right, especially by legal action."], "src": "iwb"}
+{"w": "revendication", "pos": "noun", "d": ["The act of reclaiming something as one's right."], "src": "iwb"}
+{"w": "reverberant", "pos": "adjective", "d": ["Echoing back sound; resounding."], "src": "iwb"}
+{"w": "reverberator", "pos": "noun", "d": ["Something that reflects back sound, light, or heat."], "src": "iwb"}
+{"w": "reverberatory", "pos": "adjective", "d": ["Reflecting sound or heat back.", "Designed to reflect heat downward, as a furnace."], "src": "iwb"}
+{"w": "revere", "pos": "verb", "d": ["To regard with deep respect and honor."], "src": "iwb"}
+{"w": "reverence", "pos": "noun", "d": ["Deep respect and honor."], "src": "iwb"}
+{"w": "reversibility", "pos": "noun", "d": ["The quality of being able to be reversed."], "src": "iwb"}
+{"w": "reversibly", "pos": "adverb", "d": ["In a way that can be reversed."], "src": "iwb"}
+{"w": "reversis", "pos": "noun", "d": ["An old French card game in which the player taking the fewest tricks wins."], "src": "iwb"}
+{"w": "revestture", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "revet", "pos": "verb", "d": ["To face an embankment or wall with stone or masonry."], "src": "iwb"}
+{"w": "revict", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "revigorate", "pos": "verb", "d": ["To give new vigor or strength to."], "src": "iwb"}
+{"w": "revince", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "revisal", "pos": "noun", "d": ["The act of revising; a review or revision."], "src": "iwb"}
+{"w": "revisory", "pos": "adjective", "d": ["Of or relating to revision; having the power to revise."], "src": "iwb"}
+{"w": "revival", "pos": "noun", "d": ["A renewal of life, interest, or activity.", "A religious meeting aimed at spiritual awakening."], "src": "iwb"}
+{"w": "reviviscence", "pos": "noun", "d": ["Renewal of life or activity after a period of decline."], "src": "iwb"}
+{"w": "reviviscency", "pos": "noun", "d": ["The state of reviving; revival."], "src": "iwb"}
+{"w": "reviviscent", "pos": "adjective", "d": ["Coming back to life; reviving."], "src": "iwb"}
+{"w": "revivor", "pos": "noun", "d": ["In law, the revival of a suit after it has abated."], "src": "iwb"}
+{"w": "revocability", "pos": "noun", "d": ["The quality of being able to be revoked."], "src": "iwb"}
+{"w": "revocate", "pos": "verb", "d": ["To revoke; to call back or cancel."], "src": "iwb"}
+{"w": "revocatory", "pos": "adjective", "d": ["Serving to revoke; of the nature of a revocation."], "src": "iwb"}
+{"w": "revoke", "pos": "verb", "d": ["To officially cancel or take back.", "In card games, to fail to follow suit when able to do so."], "src": "iwb"}
+{"w": "revokingly", "pos": "adverb", "d": ["In a manner that revokes or cancels."], "src": "iwb"}
+{"w": "revolutive", "pos": "adjective", "d": ["Characterized by revolving or by sudden change."], "src": "iwb"}
+{"w": "revolve", "pos": "verb", "d": ["To turn around a center or axis.", "To think about deeply; to consider."], "src": "iwb"}
+{"w": "revolvency", "pos": "noun", "d": ["The state or quality of revolving."], "src": "iwb"}
+{"w": "revulse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "revulsion", "pos": "noun", "d": ["A sudden strong feeling of disgust or horror.", "A drawing or turning back."], "src": "iwb"}
+{"w": "revulsive", "pos": "adjective", "d": ["That draws fluid or irritation away from an inflamed part of the body, as a counter-irritant remedy."], "src": "iwb"}
+{"w": "rew", "pos": "verb", "d": ["To feel regret or remorse for something done or left undone."], "src": "iwb"}
+{"w": "rewe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rewel bone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rewle", "pos": "noun", "d": ["A rule, principle, or standard; an archaic or dialectal spelling of rule."], "src": "iwb"}
+{"w": "rewme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rewth", "pos": "noun", "d": ["Compassion or pity felt for the suffering of others; an archaic or dialectal form of ruth."], "src": "iwb"}
+{"w": "rex", "pos": "noun", "d": ["A king; also a common name given to male dogs."], "src": "iwb"}
+{"w": "reyn", "pos": "noun", "d": ["Rain; an archaic or dialectal spelling of rain."], "src": "iwb"}
+{"w": "reynard", "pos": "noun", "d": ["A fox, especially as personified in medieval beast fables."], "src": "iwb"}
+{"w": "reyse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rez-de-chaussee", "pos": "phrase", "d": ["The ground floor of a building."], "src": "iwb"}
+{"w": "rhabarbarate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhabarbarin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhabarbarine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhabdite", "pos": "noun", "d": ["A small rod-shaped crystal or grain, such as the spicules found in certain sponges."], "src": "iwb"}
+{"w": "rhabdocoela", "pos": "noun", "d": ["An order of small flatworms with a simple rod-shaped gut."], "src": "iwb"}
+{"w": "rhabdocoelous", "pos": "adjective", "d": ["Belonging to or characteristic of the rhabdocoel flatworms."], "src": "iwb"}
+{"w": "rhabdoidal", "pos": "adjective", "d": ["Rod-shaped or resembling a rod; in medicine, describing a kind of aggressive tumor."], "src": "iwb"}
+{"w": "rhabdolith", "pos": "noun", "d": ["A rod-shaped calcareous plate produced by certain microscopic marine algae."], "src": "iwb"}
+{"w": "rhabdology", "pos": "noun", "d": ["The method of doing arithmetic with numbered rods, such as Napier's bones."], "src": "iwb"}
+{"w": "rhabdom", "pos": "noun", "d": ["The rod-shaped light-sensitive structure in the compound eye of an arthropod."], "src": "iwb"}
+{"w": "rhabdomancy", "pos": "noun", "d": ["Divination by means of rods or sticks."], "src": "iwb"}
+{"w": "rhabdophora", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhabdopleura", "pos": "noun", "d": ["A genus of tiny marine animals that live in colonies inside branched tubes."], "src": "iwb"}
+{"w": "rhabdosphere", "pos": "noun", "d": ["A spherical cell or colony covered with rod-shaped calcareous plates."], "src": "iwb"}
+{"w": "rhachialgia", "pos": "noun", "d": ["Pain in the spine or spinal column."], "src": "iwb"}
+{"w": "rhachidian", "pos": "adjective", "d": ["Relating to the spine or spinal column."], "src": "iwb"}
+{"w": "rhachiglossa", "pos": "noun", "d": ["A group of marine snails whose rasping tongue bears only a few teeth."], "src": "iwb"}
+{"w": "rhachilla", "pos": "noun", "d": ["The central axis of a grass spikelet, bearing the florets."], "src": "iwb"}
+{"w": "rhachiodont", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhachis", "pos": "noun", "d": ["The spine or backbone; also the central shaft of a feather or of certain plant structures."], "src": "iwb"}
+{"w": "rhachitis", "pos": "noun", "d": ["Rickets, a childhood disease marked by softening and bending of the bones."], "src": "iwb"}
+{"w": "rhadamanthine", "pos": "adjective", "d": ["Sternly and inflexibly just, like the legendary judge Rhadamanthus."], "src": "iwb"}
+{"w": "rhadamanthus", "pos": "noun", "d": ["In Greek legend, one of the judges of the dead in the underworld, famed for stern justice."], "src": "iwb"}
+{"w": "rhadamanthys", "pos": "noun", "d": ["A variant spelling of Rhadamanthus."], "src": "iwb"}
+{"w": "rhaetian", "pos": "adjective", "d": ["Relating to ancient Rhaetia, a region of the Alps; also the latest stage of the Triassic period."], "src": "iwb"}
+{"w": "rhaetic", "pos": "adjective", "d": ["Of or relating to Rhaetia or the Rhaetian stage."], "src": "iwb"}
+{"w": "rhaetizite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhamadan", "pos": "noun", "d": ["A variant spelling of Ramadan, the Islamic month of fasting."], "src": "iwb"}
+{"w": "rhamnaceous", "pos": "adjective", "d": ["Belonging to the buckthorn family of plants."], "src": "iwb"}
+{"w": "rhamnus", "pos": "noun", "d": ["A genus of shrubs and small trees including the buckthorns."], "src": "iwb"}
+{"w": "rhamphorhynchus", "pos": "noun", "d": ["A genus of long-tailed flying reptiles of the Jurassic period."], "src": "iwb"}
+{"w": "rhamphotheca", "pos": "noun", "d": ["The horny covering of a bird's beak."], "src": "iwb"}
+{"w": "rhaphe", "pos": "noun", "d": ["A ridge or seam where the two halves of an organ or structure join."], "src": "iwb"}
+{"w": "rhaphides", "pos": "noun", "d": ["Needle-shaped crystals of calcium oxalate found in plant cells."], "src": "iwb"}
+{"w": "rhaponticine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhapsode", "pos": "noun", "d": ["In ancient Greece, a professional reciter of epic poetry."], "src": "iwb"}
+{"w": "rhapsodic", "pos": "adjective", "d": ["Extravagantly enthusiastic; resembling a rhapsody in emotional flow."], "src": "iwb"}
+{"w": "rhapsodist", "pos": "noun", "d": ["A composer or reciter of rhapsodies."], "src": "iwb"}
+{"w": "rhapsodize", "pos": "verb", "d": ["To speak or write in an extravagantly enthusiastic manner."], "src": "iwb"}
+{"w": "rhapsodomancy", "pos": "noun", "d": ["Divination by opening a book of poetry at random and reading the passage found."], "src": "iwb"}
+{"w": "rhapsody", "pos": "noun", "d": ["An ecstatic or extravagantly enthusiastic expression of feeling.", "A free-flowing musical composition of irregular form."], "src": "iwb"}
+{"w": "rhatanhy", "pos": "noun", "d": ["A variant spelling of rhatany."], "src": "iwb"}
+{"w": "rhatany", "pos": "noun", "d": ["The astringent root of a South American shrub, formerly used in medicine."], "src": "iwb"}
+{"w": "rhea", "pos": "noun", "d": ["A large flightless bird of South America, resembling a small ostrich."], "src": "iwb"}
+{"w": "rheae", "pos": "noun", "d": ["Plural of rhea."], "src": "iwb"}
+{"w": "rheeboc", "pos": "noun", "d": ["A small antelope of southern Africa."], "src": "iwb"}
+{"w": "rheic", "pos": "adjective", "d": ["Relating to the Rheic Ocean, an ancient ocean of the Paleozoic era."], "src": "iwb"}
+{"w": "rhein", "pos": "noun", "d": ["A yellow crystalline compound obtained from rhubarb and related plants."], "src": "iwb"}
+{"w": "rhematic", "pos": "adjective", "d": ["Relating to the rheme, the part of a sentence that conveys new information."], "src": "iwb"}
+{"w": "rhemish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhenish", "pos": "adjective", "d": ["Of or relating to the Rhine River or the region around it."], "src": "iwb"}
+{"w": "rheochord", "pos": "noun", "d": ["A wire device for varying electrical resistance in a circuit."], "src": "iwb"}
+{"w": "rheocrat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rheometer", "pos": "noun", "d": ["An instrument for measuring the flow or viscosity of liquids."], "src": "iwb"}
+{"w": "rheometric", "pos": "adjective", "d": ["Relating to the measurement of flow or viscosity."], "src": "iwb"}
+{"w": "rheometry", "pos": "noun", "d": ["The measurement of the flow and deformation properties of materials."], "src": "iwb"}
+{"w": "rheomotor", "pos": "noun", "d": ["An apparatus for generating or regulating an electric current."], "src": "iwb"}
+{"w": "rheophore", "pos": "noun", "d": ["An electrode that delivers electric current to the body in medical treatment."], "src": "iwb"}
+{"w": "rheoscope", "pos": "noun", "d": ["An instrument for detecting the direction of an electric current."], "src": "iwb"}
+{"w": "rheostat", "pos": "noun", "d": ["A variable resistor used to control electric current."], "src": "iwb"}
+{"w": "rheotome", "pos": "noun", "d": ["A device for rapidly interrupting an electric current."], "src": "iwb"}
+{"w": "rheotrope", "pos": "noun", "d": ["A device for reversing the direction of an electric current."], "src": "iwb"}
+{"w": "rhesus", "pos": "noun", "d": ["A macaque monkey of Asia, widely used in scientific research."], "src": "iwb"}
+{"w": "rhetian", "pos": "adjective", "d": ["A variant spelling of Rhaetian."], "src": "iwb"}
+{"w": "rhetic", "pos": "adjective", "d": ["A variant spelling of Rhaetic."], "src": "iwb"}
+{"w": "rhetizite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhetor", "pos": "noun", "d": ["In ancient Greece and Rome, a teacher of rhetoric or public speaking."], "src": "iwb"}
+{"w": "rhetorician", "pos": "noun", "d": ["A person skilled in rhetoric; an eloquent speaker or writer."], "src": "iwb"}
+{"w": "rheum", "pos": "noun", "d": ["A watery discharge from the eyes, nose, or mouth."], "src": "iwb"}
+{"w": "rheumatic", "pos": "adjective", "d": ["Relating to or affected by rheumatism."], "src": "iwb"}
+{"w": "rheumatism", "pos": "noun", "d": ["A disorder marked by pain and inflammation in the joints and muscles."], "src": "iwb"}
+{"w": "rheumatismoid", "pos": "adjective", "d": ["Resembling rheumatism."], "src": "iwb"}
+{"w": "rheumy", "pos": "adjective", "d": ["Watery or moist with rheum, as eyes that water."], "src": "iwb"}
+{"w": "rhigolene", "pos": "noun", "d": ["A highly volatile petroleum liquid formerly used as a local anesthetic."], "src": "iwb"}
+{"w": "rhime", "pos": "noun", "d": ["An archaic or dialectal spelling of rhyme."], "src": "iwb"}
+{"w": "rhinal", "pos": "adjective", "d": ["Relating to the nose."], "src": "iwb"}
+{"w": "rhinaster", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhine", "pos": "noun", "d": ["A major river of western Europe flowing through the Rhine valley."], "src": "iwb"}
+{"w": "rhinencephalic", "pos": "adjective", "d": ["Relating to the rhinencephalon."], "src": "iwb"}
+{"w": "rhinencephalon", "pos": "noun", "d": ["The part of the brain concerned with the sense of smell."], "src": "iwb"}
+{"w": "rhinitis", "pos": "noun", "d": ["Inflammation of the mucous membrane of the nose."], "src": "iwb"}
+{"w": "rhino", "pos": "noun", "d": ["An informal short form of rhinoceros."], "src": "iwb"}
+{"w": "rhino-", "pos": "prefix", "d": ["A prefix meaning nose or nasal, as in rhinology."], "src": "iwb"}
+{"w": "rhinocerical", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhinoceros", "pos": "noun", "d": ["A large thick-skinned mammal with one or two horns on its snout."], "src": "iwb"}
+{"w": "rhinologist", "pos": "noun", "d": ["A physician specializing in diseases of the nose."], "src": "iwb"}
+{"w": "rhinolophid", "pos": "noun", "d": ["A horseshoe bat, a member of the bat family Rhinolophidae."], "src": "iwb"}
+{"w": "rhinophore", "pos": "noun", "d": ["A paired sensory organ on the head of certain sea slugs, used for detecting chemicals in the water."], "src": "iwb"}
+{"w": "rhinoplasty", "pos": "noun", "d": ["Surgery that reshapes or rebuilds the nose."], "src": "iwb"}
+{"w": "rhinoscopic", "pos": "adjective", "d": ["Of or for examining the inside of the nose."], "src": "iwb"}
+{"w": "rhinoscopy", "pos": "noun", "d": ["A medical examination of the inside of the nose, usually with a small lighted instrument."], "src": "iwb"}
+{"w": "rhipidoglossa", "pos": "noun", "d": ["A group of sea snails whose rasping tongue is broad and fan-shaped."], "src": "iwb"}
+{"w": "rhipipter", "pos": "noun", "d": ["An insect, such as a stylops, with fan-shaped hind wings."], "src": "iwb"}
+{"w": "rhipipteran", "pos": "adjective", "d": ["Of or like the rhipipters, insects with fan-shaped wings."], "src": "iwb"}
+{"w": "rhizanthous", "pos": "adjective", "d": ["Bearing flowers from the roots."], "src": "iwb"}
+{"w": "rhizine", "pos": "noun", "d": ["A rootlike hair by which a lichen clings to a surface."], "src": "iwb"}
+{"w": "rhizocarpous", "pos": "adjective", "d": ["Bearing fruit or spores at or near the roots."], "src": "iwb"}
+{"w": "rhizocephala", "pos": "noun", "d": ["A group of parasitic barnacles that live inside crabs and other crustaceans."], "src": "iwb"}
+{"w": "rhizodont", "pos": "adjective", "d": ["Having teeth anchored by true roots."], "src": "iwb"}
+{"w": "rhizogan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhizogen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhizoid", "pos": "noun", "d": ["A fine hairlike growth by which mosses, liverworts, and some algae anchor themselves."], "src": "iwb"}
+{"w": "rhizoma", "pos": "noun", "d": ["An underground stem that grows horizontally and sends up new shoots."], "src": "iwb"}
+{"w": "rhizomatous", "pos": "adjective", "d": ["Having or spreading by rhizomes."], "src": "iwb"}
+{"w": "rhizome", "pos": "noun", "d": ["A thick underground stem that runs horizontally and puts out roots below and shoots above."], "src": "iwb"}
+{"w": "rhizophaga", "pos": "noun", "d": ["A group of root-eating marsupials, including the wombats."], "src": "iwb"}
+{"w": "rhizophagous", "pos": "adjective", "d": ["Feeding on roots."], "src": "iwb"}
+{"w": "rhizophora", "pos": "noun", "d": ["A genus of mangrove trees that grow in tropical coastal swamps."], "src": "iwb"}
+{"w": "rhizophorous", "pos": "adjective", "d": ["Bearing roots or rootlike organs."], "src": "iwb"}
+{"w": "rhizopod", "pos": "noun", "d": ["A one-celled animal, such as an amoeba, that moves by pushing out temporary footlike extensions."], "src": "iwb"}
+{"w": "rhizopoda", "pos": "noun", "d": ["A class of one-celled animals that creep by means of temporary footlike extensions, including the amoebas."], "src": "iwb"}
+{"w": "rhizostomata", "pos": "noun", "d": ["An order of jellyfishes that lack tentacles and feed through many small mouths on their oral arms."], "src": "iwb"}
+{"w": "rhizostome", "pos": "noun", "d": ["A jellyfish with branching oral arms instead of tentacles, feeding through many small mouths."], "src": "iwb"}
+{"w": "rhizotaxis", "pos": "noun", "d": ["The arrangement of roots on a plant."], "src": "iwb"}
+{"w": "rhob", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhodammonium", "pos": "noun", "d": ["A chemical compound formed by uniting rhodium with ammonia or ammonium salts."], "src": "iwb"}
+{"w": "rhodanate", "pos": "noun", "d": ["A salt of thiocyanic acid; the older chemical name for a thiocyanate."], "src": "iwb"}
+{"w": "rhodanic", "pos": "adjective", "d": ["Of or relating to thiocyanic acid."], "src": "iwb"}
+{"w": "rhodeoretin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhodian", "pos": "adjective", "d": ["Of or from the island of Rhodes."], "src": "iwb"}
+{"w": "rhodic", "pos": "adjective", "d": ["Containing rhodium, especially in its higher valence."], "src": "iwb"}
+{"w": "rhodium", "pos": "noun", "d": ["A hard silvery-white metallic element, number 45, used in jewelry plating and catalytic converters."], "src": "iwb"}
+{"w": "rhodizonic", "pos": "adjective", "d": ["Of or relating to rhodizonic acid, an organic acid whose salts form brightly colored crystals."], "src": "iwb"}
+{"w": "rhodochrosite", "pos": "noun", "d": ["A pink to rose-red mineral of manganese carbonate, often cut as a gemstone."], "src": "iwb"}
+{"w": "rhodocrinite", "pos": "noun", "d": ["A fossil stalked sea lily of the genus Rhodocrinus."], "src": "iwb"}
+{"w": "rhododendron", "pos": "noun", "d": ["A shrub or small tree with leathery evergreen leaves and showy clusters of bell-shaped flowers."], "src": "iwb"}
+{"w": "rhodomontade", "pos": "noun", "d": ["Loud, empty boasting."], "src": "iwb"}
+{"w": "rhodonite", "pos": "noun", "d": ["A pink to red mineral of manganese silicate, used in jewelry and ornamental carvings."], "src": "iwb"}
+{"w": "rhodophane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhodopsin", "pos": "noun", "d": ["The red light-sensitive pigment in the eye's rods that makes vision in dim light possible."], "src": "iwb"}
+{"w": "rhodosperm", "pos": "noun", "d": ["Any of the red algae, a group of mostly marine seaweeds."], "src": "iwb"}
+{"w": "rhomb", "pos": "noun", "d": ["A parallelogram with four equal sides.", "The brill, a flat European food fish."], "src": "iwb"}
+{"w": "rhomb spar", "pos": "phrase", "d": ["A pink or white variety of dolomite that breaks into rhombohedral crystals."], "src": "iwb"}
+{"w": "rhomboganoid", "pos": "noun", "d": ["A primitive fish, such as a gar, with hard diamond-shaped enameled scales."], "src": "iwb"}
+{"w": "rhomboganoidei", "pos": "noun", "d": ["A group of primitive fishes with diamond-shaped enameled scales, including the gars."], "src": "iwb"}
+{"w": "rhombogene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhombohedral", "pos": "adjective", "d": ["Shaped like a rhombohedron."], "src": "iwb"}
+{"w": "rhombohedric", "pos": "adjective", "d": ["Shaped like a rhombohedron; rhombohedral."], "src": "iwb"}
+{"w": "rhombohedron", "pos": "noun", "d": ["A solid with six faces, each one a rhombus."], "src": "iwb"}
+{"w": "rhomboid", "pos": "noun", "d": ["A parallelogram with unequal adjacent sides and oblique angles."], "src": "iwb"}
+{"w": "rhomboid-ovate", "pos": "adjective", "d": ["Partly diamond-shaped and partly egg-shaped, as a leaf."], "src": "iwb"}
+{"w": "rhombus", "pos": "noun", "d": ["A parallelogram with four equal sides and oblique angles; a diamond shape."], "src": "iwb"}
+{"w": "rhonchal", "pos": "adjective", "d": ["Of or having to do with rhonchi, the rattling sounds heard in the chest in some lung disorders."], "src": "iwb"}
+{"w": "rhonchial", "pos": "adjective", "d": ["Relating to the rattling chest sounds called rhonchi."], "src": "iwb"}
+{"w": "rhonchisonant", "pos": "adjective", "d": ["Making a snoring or rattling sound."], "src": "iwb"}
+{"w": "rhonchus", "pos": "noun", "d": ["A rattling or whistling sound heard in the chest with a stethoscope, caused by mucus narrowing the airways."], "src": "iwb"}
+{"w": "rhopalic", "pos": "adjective", "d": ["Club-shaped; thickened at the tip like a club."], "src": "iwb"}
+{"w": "rhopalium", "pos": "noun", "d": ["A small club-shaped sense organ on the rim of a jellyfish's bell."], "src": "iwb"}
+{"w": "rhopalocera", "pos": "noun", "d": ["The butterflies, a group of insects with clubbed antennae."], "src": "iwb"}
+{"w": "rhotacism", "pos": "noun", "d": ["A speech defect in which the r sound is mispronounced."], "src": "iwb"}
+{"w": "rhubarb", "pos": "noun", "d": ["A garden plant with thick tart stalks used in pies and jams; its leaves are poisonous."], "src": "iwb"}
+{"w": "rhubarby", "pos": "adjective", "d": ["Like or flavored with rhubarb."], "src": "iwb"}
+{"w": "rhumb", "pos": "noun", "d": ["A line on the earth cutting all meridians at the same angle.", "Any of the 32 points of a mariner's compass."], "src": "iwb"}
+{"w": "rhus", "pos": "noun", "d": ["A genus of shrubs and small trees including the sumacs and poison ivy."], "src": "iwb"}
+{"w": "rhusma", "pos": "noun", "d": ["A caustic paste of lime and arsenic sulfide used to remove hair from hides in tanning."], "src": "iwb"}
+{"w": "rhyme", "pos": "noun", "d": ["A matching of end sounds in words, as in cat and hat.", "A short poem written in rhyming lines."], "src": "iwb"}
+{"w": "rhymery", "pos": "noun", "d": ["The art or practice of making rhymes."], "src": "iwb"}
+{"w": "rhymester", "pos": "noun", "d": ["A maker of rhymes, especially a poor or trivial poet."], "src": "iwb"}
+{"w": "rhymic", "pos": "adjective", "d": ["Of or like rhyme; rhyming."], "src": "iwb"}
+{"w": "rhymist", "pos": "noun", "d": ["A maker of rhymes; a rhymer."], "src": "iwb"}
+{"w": "rhynchobdellea", "pos": "noun", "d": ["An order of leeches that feed through a protruding snoutlike proboscis."], "src": "iwb"}
+{"w": "rhynchocephala", "pos": "noun", "d": ["An order of beaked reptiles including the tuatara of New Zealand."], "src": "iwb"}
+{"w": "rhynchocoela", "pos": "noun", "d": ["The ribbon worms, a phylum of long slender marine worms with a protrusible proboscis."], "src": "iwb"}
+{"w": "rhyncholite", "pos": "noun", "d": ["A fossil beaklike jaw of a cephalopod."], "src": "iwb"}
+{"w": "rhynchonella", "pos": "noun", "d": ["A genus of fossil brachiopods with ribbed bivalve shells."], "src": "iwb"}
+{"w": "rhynchophora", "pos": "noun", "d": ["The weevils, a large group of beetles with long snouts."], "src": "iwb"}
+{"w": "rhynchophore", "pos": "noun", "d": ["A weevil; a snout-bearing beetle."], "src": "iwb"}
+{"w": "rhynchota", "pos": "noun", "d": ["The true bugs, an order of insects with piercing and sucking mouthparts."], "src": "iwb"}
+{"w": "rhyolite", "pos": "noun", "d": ["A light-colored volcanic rock rich in silica, the fine-grained equivalent of granite."], "src": "iwb"}
+{"w": "rhyparography", "pos": "noun", "d": ["The painting of low or sordid subjects."], "src": "iwb"}
+{"w": "rhysimeter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rhythmometer", "pos": "noun", "d": ["An instrument for marking or measuring musical rhythm."], "src": "iwb"}
+{"w": "rhythmus", "pos": "noun", "d": ["Rhythm, especially the measured flow of verse."], "src": "iwb"}
+{"w": "rhytina", "pos": "noun", "d": ["Steller's sea cow, an extinct giant sea mammal of the North Pacific."], "src": "iwb"}
+{"w": "rial", "pos": "noun", "d": ["The basic unit of money in Iran, Oman, Yemen, and some other countries."], "src": "iwb"}
+{"w": "riant", "pos": "adjective", "d": ["Laughing; smiling; cheerful."], "src": "iwb"}
+{"w": "rib", "pos": "noun", "d": ["Any of the curved bones that form the cage around the chest.", "A raised ridge in knitted fabric or along a leaf."], "src": "iwb"}
+{"w": "ribald", "pos": "adjective", "d": ["Coarsely humorous or indecent in speech."], "src": "iwb"}
+{"w": "ribaldrous", "pos": "adjective", "d": ["Coarse and irreverent in humor; ribald."], "src": "iwb"}
+{"w": "ribaldry", "pos": "noun", "d": ["Coarse, irreverent joking or talk."], "src": "iwb"}
+{"w": "riban", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ribaud", "pos": "noun", "d": ["A lewd or dissolute person; a ribald fellow."], "src": "iwb"}
+{"w": "ribaudequin", "pos": "noun", "d": ["A medieval multi-barreled gun mounted on a cart; an early form of organ gun."], "src": "iwb"}
+{"w": "ribaudrous", "pos": "adjective", "d": ["Lewd; ribald."], "src": "iwb"}
+{"w": "ribaudry", "pos": "noun", "d": ["Lewdness; ribald behavior."], "src": "iwb"}
+{"w": "ribaudy", "pos": "adjective", "d": ["Lewd; ribald."], "src": "iwb"}
+{"w": "ribibe", "pos": "noun", "d": ["A scolding or disreputable old woman.", "An old three-stringed fiddle."], "src": "iwb"}
+{"w": "rice-shell", "pos": "noun", "d": ["A tiny sea snail whose shell looks like a grain of rice."], "src": "iwb"}
+{"w": "richesse", "pos": "noun", "d": ["Richness of appearance, especially ornate or elaborate richness."], "src": "iwb"}
+{"w": "ricinelaidic", "pos": "adjective", "d": ["Of or relating to ricinelaidic acid, the trans form of ricinoleic acid."], "src": "iwb"}
+{"w": "ricinelaidin", "pos": "noun", "d": ["The glyceride of ricinelaidic acid, found in certain vegetable oils."], "src": "iwb"}
+{"w": "ricinic", "pos": "adjective", "d": ["Of or derived from castor oil; relating to ricinoleic acid."], "src": "iwb"}
+{"w": "ricinine", "pos": "noun", "d": ["A poisonous alkaloid obtained from the seeds of the castor-oil plant."], "src": "iwb"}
+{"w": "ricinoleate", "pos": "noun", "d": ["A salt or ester of ricinoleic acid."], "src": "iwb"}
+{"w": "ricinoleic", "pos": "adjective", "d": ["Of or relating to ricinoleic acid, the fatty acid characteristic of castor oil."], "src": "iwb"}
+{"w": "ricinolein", "pos": "noun", "d": ["The glyceride of ricinoleic acid, the main component of castor oil."], "src": "iwb"}
+{"w": "ricinolic", "pos": "adjective", "d": ["Same as ricinoleic; relating to ricinoleic acid."], "src": "iwb"}
+{"w": "ricinus", "pos": "noun", "d": ["The genus of plants that includes the castor-oil plant."], "src": "iwb"}
+{"w": "ricketish", "pos": "adjective", "d": ["Affected with rickets; having the weak or deformed bones of rickets."], "src": "iwb"}
+{"w": "rickets", "pos": "noun", "d": ["A disease of childhood in which soft, weak bones become bent or deformed from lack of vitamin D."], "src": "iwb"}
+{"w": "rickety", "pos": "adjective", "d": ["Shaky or likely to fall apart from weakness or age."], "src": "iwb"}
+{"w": "ricochet", "pos": "noun", "d": ["A glancing rebound of a shot, ball, or stone off a surface.", "The act of rebounding in this glancing way."], "src": "iwb"}
+{"w": "rictal", "pos": "adjective", "d": ["Of or relating to the rictus, the gape of a bird's mouth."], "src": "iwb"}
+{"w": "ricture", "pos": "noun", "d": ["A gaping or open-mouthed display."], "src": "iwb"}
+{"w": "rictus", "pos": "noun", "d": ["The gape or opening of a mouth or beak."], "src": "iwb"}
+{"w": "riddle", "pos": "noun", "d": ["A puzzling question or statement meant to be solved.", "A coarse sieve for sifting sand, gravel, or ashes."], "src": "iwb"}
+{"w": "rideau", "pos": "noun", "d": ["A small mound or ridge of ground used as a military shelter."], "src": "iwb"}
+{"w": "ridgel", "pos": "noun", "d": ["A small ridge of ground.", "A male animal with undescended testicles."], "src": "iwb"}
+{"w": "ridgingly", "pos": "adverb", "d": ["In or forming ridges."], "src": "iwb"}
+{"w": "ridgy", "pos": "adjective", "d": ["Full of ridges; rising in long narrow crests."], "src": "iwb"}
+{"w": "ridicle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ridicule", "pos": "noun", "d": ["Words or actions meant to make someone or something look foolish."], "src": "iwb"}
+{"w": "ridiculize", "pos": "verb", "d": ["To make fun of; to expose to ridicule."], "src": "iwb"}
+{"w": "ridiculosity", "pos": "noun", "d": ["The quality or state of being ridiculous."], "src": "iwb"}
+{"w": "ridiculous", "pos": "adjective", "d": ["So foolish or unreasonable as to invite laughter or scorn."], "src": "iwb"}
+{"w": "rie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rief", "pos": "noun", "d": ["Plunder or robbery, especially in Scots usage."], "src": "iwb"}
+{"w": "rietboc", "pos": "noun", "d": ["A southern African antelope, the reedbuck."], "src": "iwb"}
+{"w": "rifacimento", "pos": "noun", "d": ["A remaking or reworking of a literary or musical work."], "src": "iwb"}
+{"w": "rife", "pos": "adjective", "d": ["Widespread and common, especially of something bad.", "Abounding; plentifully supplied."], "src": "iwb"}
+{"w": "riffle", "pos": "noun", "d": ["A shallow stretch of rippling water over a rocky stream bed.", "A small ripple or wave on the surface of water."], "src": "iwb"}
+{"w": "riffraff", "pos": "noun", "d": ["People regarded as worthless or disreputable."], "src": "iwb"}
+{"w": "rifle", "pos": "noun", "d": ["A long gun with spiral grooves inside the barrel that spin the bullet for accuracy."], "src": "iwb"}
+{"w": "rift", "pos": "noun", "d": ["A crack or split in rock or the ground.", "A break in friendly relations."], "src": "iwb"}
+{"w": "rig", "pos": "noun", "d": ["An arrangement of machinery for drilling oil wells.", "The arrangement of a ship's masts, sails, and ropes."], "src": "iwb"}
+{"w": "rig-veda", "pos": "noun", "d": ["The oldest of the sacred Hindu scriptures, a collection of ancient Sanskrit hymns."], "src": "iwb"}
+{"w": "riga fir", "pos": "noun", "d": ["A durable pine timber from the Riga region, once widely used for ship masts."], "src": "iwb"}
+{"w": "rigadoon", "pos": "noun", "d": ["A lively French dance once popular in the seventeenth and eighteenth centuries."], "src": "iwb"}
+{"w": "rigarion", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rigel", "pos": "noun", "d": ["A very bright blue star in the constellation Orion."], "src": "iwb"}
+{"w": "rigescent", "pos": "adjective", "d": ["Becoming stiff or rigid."], "src": "iwb"}
+{"w": "riggish", "pos": "adjective", "d": ["Wanton or lewd in behavior."], "src": "iwb"}
+{"w": "riggle", "pos": "verb", "d": ["To squirm or twist about; to wriggle."], "src": "iwb"}
+{"w": "right whale", "pos": "phrase", "d": ["A large baleen whale of northern seas, once prized as the right whale to hunt."], "src": "iwb"}
+{"w": "right-about", "pos": "noun", "d": ["A turn so as to face in the opposite direction, toward the right."], "src": "iwb"}
+{"w": "right-angled", "pos": "adjective", "d": ["Having or containing a right angle."], "src": "iwb"}
+{"w": "right-hand", "pos": "adjective", "d": ["On or toward the right side.", "Using the right hand more easily than the left."], "src": "iwb"}
+{"w": "right-hearted", "pos": "adjective", "d": ["Upright and loyal in feeling or disposition."], "src": "iwb"}
+{"w": "right-lined", "pos": "adjective", "d": ["Drawn or made with straight lines."], "src": "iwb"}
+{"w": "right-minded", "pos": "adjective", "d": ["Having sound judgment and honest principles."], "src": "iwb"}
+{"w": "right-running", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "righteous", "pos": "adjective", "d": ["Morally upright and just.", "Done or held from a sense of justice."], "src": "iwb"}
+{"w": "rigid", "pos": "adjective", "d": ["Stiff and unbending; not flexible.", "Strict and unchanging in rule or opinion."], "src": "iwb"}
+{"w": "rigidulous", "pos": "adjective", "d": ["Somewhat stiff or rigid."], "src": "iwb"}
+{"w": "rigmarole", "pos": "noun", "d": ["A long, rambling, and confusing story or procedure."], "src": "iwb"}
+{"w": "rigol", "pos": "noun", "d": ["A ring or circle, especially as a heraldic charge."], "src": "iwb"}
+{"w": "rigoll", "pos": "noun", "d": ["A variant of rigol; a ring or circle."], "src": "iwb"}
+{"w": "rigor", "pos": "noun", "d": ["Strictness or severity, as of rules or conditions.", "Stiffness of the body, as in rigor mortis."], "src": "iwb"}
+{"w": "rigsdag", "pos": "noun", "d": ["The former national parliament of Denmark."], "src": "iwb"}
+{"w": "rigsdaler", "pos": "noun", "d": ["An old Danish and Norwegian silver coin."], "src": "iwb"}
+{"w": "riksdaler", "pos": "noun", "d": ["A variant of rigsdaler, an old Scandinavian silver coin."], "src": "iwb"}
+{"w": "rile", "pos": "verb", "d": ["To make turbid or muddy, as water.", "To stir to anger; to irritate."], "src": "iwb"}
+{"w": "rilievo", "pos": "noun", "d": ["Raised sculptural work in which figures project from a background; relief."], "src": "iwb"}
+{"w": "rill", "pos": "noun", "d": ["A very small stream or brook."], "src": "iwb"}
+{"w": "rille", "pos": "noun", "d": ["A long narrow valley on the surface of the moon."], "src": "iwb"}
+{"w": "rillet", "pos": "noun", "d": ["A very small rill or rivulet."], "src": "iwb"}
+{"w": "rily", "pos": "adverb", "d": ["In a riled or turbid manner; irritably."], "src": "iwb"}
+{"w": "rim-fire", "pos": "adjective", "d": ["Having the priming mixture in the rim of the cartridge, as certain small cartridges."], "src": "iwb"}
+{"w": "rima", "pos": "noun", "d": ["A cleft or fissure, as the opening between the vocal cords."], "src": "iwb"}
+{"w": "rimau dahan", "pos": "phrase", "d": ["The clouded leopard of Southeast Asia."], "src": "iwb"}
+{"w": "rime", "pos": "noun", "d": ["A white coating of frost formed on cold surfaces.", "An old spelling of rhyme."], "src": "iwb"}
+{"w": "rimey", "pos": "adjective", "d": ["Covered with rime or frost."], "src": "iwb"}
+{"w": "rimose", "pos": "adjective", "d": ["Full of cracks or fissures, as bark or lichen."], "src": "iwb"}
+{"w": "rimosity", "pos": "noun", "d": ["The state of being rimose; a cracked or fissured condition."], "src": "iwb"}
+{"w": "rimple", "pos": "noun", "d": ["A wrinkle or fold, as in cloth or skin."], "src": "iwb"}
+{"w": "rimy", "pos": "adjective", "d": ["Frosty; covered with rime."], "src": "iwb"}
+{"w": "rincon", "pos": "noun", "d": ["A corner or nook; a small secluded valley."], "src": "iwb"}
+{"w": "rind", "pos": "noun", "d": ["The tough outer skin of fruit or cheese."], "src": "iwb"}
+{"w": "rinderpest", "pos": "noun", "d": ["A deadly contagious disease of cattle and related animals."], "src": "iwb"}
+{"w": "rindle", "pos": "noun", "d": ["A small stream or brook."], "src": "iwb"}
+{"w": "rindy", "pos": "adjective", "d": ["Having a rind; like a rind in texture."], "src": "iwb"}
+{"w": "rine", "pos": "noun", "d": ["A watercourse or ditch, especially in low marshy country."], "src": "iwb"}
+{"w": "rinforzando", "pos": "adverb", "d": ["In music, with a sudden strong emphasis."], "src": "iwb"}
+{"w": "ring armature", "pos": "phrase", "d": ["A ring-shaped iron core wound with wire, used in early electric generators."], "src": "iwb"}
+{"w": "ring winding", "pos": "phrase", "d": ["A winding of wire carried around a ring-shaped core."], "src": "iwb"}
+{"w": "ring-necked", "pos": "adjective", "d": ["Having a ring of contrasting color around the neck."], "src": "iwb"}
+{"w": "ring-streaked", "pos": "adjective", "d": ["Marked with ring-like streaks."], "src": "iwb"}
+{"w": "ring-tailed", "pos": "adjective", "d": ["Having a tail marked with rings of color."], "src": "iwb"}
+{"w": "ringlestone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ringstraked", "pos": "adjective", "d": ["Marked with rings or ring-like streaks."], "src": "iwb"}
+{"w": "rink", "pos": "noun", "d": ["A smooth surface of ice for skating.", "The building enclosing an ice-skating surface."], "src": "iwb"}
+{"w": "rinse", "pos": "verb", "d": ["To wash lightly with water to remove soap or dirt."], "src": "iwb"}
+{"w": "riot", "pos": "noun", "d": ["A violent public disturbance by a crowd.", "A wildly funny or entertaining person or thing."], "src": "iwb"}
+{"w": "riotry", "pos": "noun", "d": ["Riotous conduct; wild revelry."], "src": "iwb"}
+{"w": "rip cord", "pos": "phrase", "d": ["A cord pulled to open a parachute."], "src": "iwb"}
+{"w": "riparious", "pos": "adjective", "d": ["Growing or living on riverbanks."], "src": "iwb"}
+{"w": "ripidolite", "pos": "noun", "d": ["A green chlorite mineral found in certain rocks."], "src": "iwb"}
+{"w": "ripienist", "pos": "noun", "d": ["A player of the ripieno or tutti parts in a concerto."], "src": "iwb"}
+{"w": "ripieno", "pos": "noun", "d": ["A filling or stuffing used in cooking, as in pasta or pastry.", "In music, the full body of players in a concerto grosso, as opposed to the soloists."], "src": "iwb"}
+{"w": "ripler", "pos": "noun", "d": ["A person or device that makes ripples."], "src": "iwb"}
+{"w": "ripper act", "pos": "noun", "d": ["A law that strips powers or offices away from an existing governing body."], "src": "iwb"}
+{"w": "ripper bill", "pos": "noun", "d": ["A proposed law meant to take powers or offices away from an elected body."], "src": "iwb"}
+{"w": "ripping cord", "pos": "noun", "d": ["A cord pulled to tear open a parachute pack quickly."], "src": "iwb"}
+{"w": "ripping panel", "pos": "noun", "d": ["A panel in a balloon envelope that can be ripped open to let out gas for a fast descent."], "src": "iwb"}
+{"w": "ripping strip", "pos": "noun", "d": ["A tearable strip on a package or envelope for opening it quickly."], "src": "iwb"}
+{"w": "ripple", "pos": "noun", "d": ["A small wave on the surface of water.", "A small passing wave of sound, feeling, or motion."], "src": "iwb"}
+{"w": "ripple-marked", "pos": "adjective", "d": ["Covered with small wavy ridges like those water makes on sand."], "src": "iwb"}
+{"w": "ripplet", "pos": "noun", "d": ["A tiny ripple."], "src": "iwb"}
+{"w": "ripplingly", "pos": "adverb", "d": ["In a rippling manner; with small moving waves."], "src": "iwb"}
+{"w": "ris", "pos": "noun", "d": ["Laughter; a Latin word for a laugh."], "src": "iwb"}
+{"w": "rish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "risibility", "pos": "noun", "d": ["The ability or tendency to laugh.", "The quality of being laughable."], "src": "iwb"}
+{"w": "risky", "pos": "adjective", "d": ["Involving possible danger or loss; hazardous."], "src": "iwb"}
+{"w": "risorial", "pos": "adjective", "d": ["Pertaining to laughter.", "Relating to the facial muscles used in laughing."], "src": "iwb"}
+{"w": "risquee", "pos": "adjective", "d": ["Slightly improper or suggestive; an older spelling of risque."], "src": "iwb"}
+{"w": "risse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rissoid", "pos": "adjective", "d": ["Pertaining to the small marine snails of the family named for the naturalist Risso."], "src": "iwb"}
+{"w": "rist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rit", "pos": "abbreviation", "d": ["Short for ritardando, a direction in music to slow down."], "src": "iwb"}
+{"w": "ritardando", "pos": "noun", "d": ["A gradual slowing of the tempo in music."], "src": "iwb"}
+{"w": "rite", "pos": "noun", "d": ["A formal ceremony or customary act, especially a religious one."], "src": "iwb"}
+{"w": "ritenuto", "pos": "adverb", "d": ["In music, a direction to slow down at once rather than gradually."], "src": "iwb"}
+{"w": "ritornelle", "pos": "noun", "d": ["A short passage in music or poetry that returns repeatedly, like a refrain."], "src": "iwb"}
+{"w": "ritornello", "pos": "noun", "d": ["In baroque music, an orchestral passage that returns between the solo sections of a concerto."], "src": "iwb"}
+{"w": "ritratto", "pos": "noun", "d": ["A portrait; the Italian word for a painted or drawn likeness of a person."], "src": "iwb"}
+{"w": "ritual", "pos": "noun", "d": ["A series of actions performed in a set order as part of a ceremony.", "Any habitually repeated set of actions."], "src": "iwb"}
+{"w": "rivage", "pos": "noun", "d": ["A bank, shore, or coast; an older literary term."], "src": "iwb"}
+{"w": "rival", "pos": "noun", "d": ["A person who competes with another for the same prize or goal.", "One who equals another in ability or standing."], "src": "iwb"}
+{"w": "rivaless", "pos": "noun", "d": ["A woman who is a rival."], "src": "iwb"}
+{"w": "rivalry", "pos": "noun", "d": ["Competition between people or groups seeking the same goal."], "src": "iwb"}
+{"w": "rive", "pos": "verb", "d": ["To split or tear apart with force."], "src": "iwb"}
+{"w": "rivel", "pos": "verb", "d": ["To wrinkle or shrivel up."], "src": "iwb"}
+{"w": "riven", "pos": "adjective", "d": ["Split or torn apart violently."], "src": "iwb"}
+{"w": "rivery", "pos": "adjective", "d": ["Having many rivers; resembling a river."], "src": "iwb"}
+{"w": "rivet", "pos": "noun", "d": ["A short metal pin used to join plates, with one end hammered or pressed flat."], "src": "iwb"}
+{"w": "riviere", "pos": "noun", "d": ["A necklace of precious stones, especially diamonds."], "src": "iwb"}
+{"w": "rivose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rivulet", "pos": "noun", "d": ["A very small stream or brook."], "src": "iwb"}
+{"w": "rix-dollar", "pos": "noun", "d": ["An old silver coin once used in the Netherlands and Germany."], "src": "iwb"}
+{"w": "rixation", "pos": "noun", "d": ["A quarrel or noisy fight."], "src": "iwb"}
+{"w": "rixatrix", "pos": "noun", "d": ["A quarrelsome woman; a scold."], "src": "iwb"}
+{"w": "rixdaler", "pos": "noun", "d": ["An old silver coin of the Netherlands and northern Europe."], "src": "iwb"}
+{"w": "rizzar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roach", "pos": "noun", "d": ["A small freshwater fish of Europe.", "A cockroach.", "The curved after edge of a sail."], "src": "iwb"}
+{"w": "roach-backed", "pos": "adjective", "d": ["Having a back arched like that of a roach fish."], "src": "iwb"}
+{"w": "roadster", "pos": "noun", "d": ["A small open car with a single wide seat for two.", "An older term for a horse or bicycle suited to road travel."], "src": "iwb"}
+{"w": "roam", "pos": "verb", "d": ["To walk or travel about with no fixed plan."], "src": "iwb"}
+{"w": "roan", "pos": "adjective", "d": ["Having a coat of mixed white and colored hairs, as a horse."], "src": "iwb"}
+{"w": "roar", "pos": "noun", "d": ["A loud deep prolonged sound, as of a lion or an engine.", "A loud burst of laughter."], "src": "iwb"}
+{"w": "roaring forties", "pos": "phrase", "d": ["The stormy sea latitudes between 40 and 50 degrees south, known for strong westerly winds."], "src": "iwb"}
+{"w": "roast", "pos": "verb", "d": ["To cook with dry heat, as in an oven or over a fire.", "To tease or criticize someone harshly, especially in fun."], "src": "iwb"}
+{"w": "robalito", "pos": "noun", "d": ["A small robalo; a young snook-like fish."], "src": "iwb"}
+{"w": "robalo", "pos": "noun", "d": ["A large food fish of warm American coastal waters, also called snook."], "src": "iwb"}
+{"w": "robbery", "pos": "noun", "d": ["The act of stealing from a person by force or threat."], "src": "iwb"}
+{"w": "robe", "pos": "noun", "d": ["A long loose outer garment.", "A gown worn to mark an office, as a judge's robe."], "src": "iwb"}
+{"w": "robe-de-chambre", "pos": "noun", "d": ["A dressing gown or housecoat."], "src": "iwb"}
+{"w": "roberdsman", "pos": "noun", "d": ["In medieval England, a wandering robber or sturdy beggar."], "src": "iwb"}
+{"w": "robertsman", "pos": "noun", "d": ["The same as a roberdsman: a wandering robber or sturdy beggar of medieval England."], "src": "iwb"}
+{"w": "robin goodfellow", "pos": "noun", "d": ["Puck, the mischievous fairy of English folklore and Shakespeare's A Midsummer Night's Dream."], "src": "iwb"}
+{"w": "robinet", "pos": "noun", "d": ["A faucet or tap for drawing liquid from a pipe or cask."], "src": "iwb"}
+{"w": "roble", "pos": "noun", "d": ["An oak tree; also a name given to certain tropical hardwood trees."], "src": "iwb"}
+{"w": "roborant", "pos": "adjective", "d": ["Strengthening the body; acting as a tonic."], "src": "iwb"}
+{"w": "roborate", "pos": "verb", "d": ["To strengthen or confirm; to give support to."], "src": "iwb"}
+{"w": "roborean", "pos": "adjective", "d": ["Made of oak wood; oaken."], "src": "iwb"}
+{"w": "roboreous", "pos": "adjective", "d": ["Of or like oak; strong and sturdy."], "src": "iwb"}
+{"w": "robustious", "pos": "adjective", "d": ["Strong and stout; boisterously vigorous."], "src": "iwb"}
+{"w": "roc", "pos": "noun", "d": ["A gigantic bird of Arabian and Persian legend, said to carry off elephants."], "src": "iwb"}
+{"w": "rocaille", "pos": "noun", "d": ["Ornamental work imitating rocks and shells, as in rococo decoration."], "src": "iwb"}
+{"w": "rocambole", "pos": "noun", "d": ["A plant of the onion family with a mild garlic-like flavor, also called sand leek."], "src": "iwb"}
+{"w": "roccellic", "pos": "adjective", "d": ["Derived from or pertaining to the dye lichen roccella."], "src": "iwb"}
+{"w": "roccellin", "pos": "noun", "d": ["A red coloring matter obtained from certain dye lichens."], "src": "iwb"}
+{"w": "roche", "pos": "noun", "d": ["A rock or mass of stone; the French word for rock."], "src": "iwb"}
+{"w": "roche alum", "pos": "noun", "d": ["A reddish variety of alum occurring naturally as a rocklike mass."], "src": "iwb"}
+{"w": "roche moutonnee", "pos": "phrase", "d": ["A rounded rock hill smoothed and rounded by a passing glacier."], "src": "iwb"}
+{"w": "rochelle", "pos": "noun", "d": ["A seaport city of western France.", "Short for Rochelle salt, a mild laxative salt."], "src": "iwb"}
+{"w": "rochet", "pos": "noun", "d": ["A white linen vestment like a surplice, worn by bishops."], "src": "iwb"}
+{"w": "roching cask", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rock shaft", "pos": "phrase", "d": ["A vertical mine shaft sunk through solid rock."], "src": "iwb"}
+{"w": "rock staff", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rockelay", "pos": "noun", "d": ["A short cloak or coat worn in former times."], "src": "iwb"}
+{"w": "rockery", "pos": "noun", "d": ["A garden bed or mound built of rocks and planted with small alpine plants."], "src": "iwb"}
+{"w": "rockiness", "pos": "noun", "d": ["The state or quality of being rocky or full of rocks."], "src": "iwb"}
+{"w": "rocking-chair", "pos": "noun", "d": ["A chair mounted on curved rockers so it can move back and forth."], "src": "iwb"}
+{"w": "rocking-horse", "pos": "noun", "d": ["A child's toy horse mounted on rockers or springs for rocking."], "src": "iwb"}
+{"w": "rocking-stone", "pos": "noun", "d": ["A large boulder so balanced that it rocks when pushed."], "src": "iwb"}
+{"w": "rocoa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rococo", "pos": "noun", "d": ["An ornate decorative style of the 1700s marked by scrollwork and shell motifs.", "Anything in that style; figuratively, something overly ornate or old-fashioned."], "src": "iwb"}
+{"w": "roddy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rode", "pos": "verb", "d": ["Past tense of ride."], "src": "iwb"}
+{"w": "rodentia", "pos": "noun", "d": ["The scientific order of gnawing mammals, including rats, mice, and squirrels."], "src": "iwb"}
+{"w": "rodeo", "pos": "noun", "d": ["A contest or exhibition of roping and riding skills.", "A roundup of cattle for branding or counting."], "src": "iwb"}
+{"w": "rodge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rodomel", "pos": "noun", "d": ["An old medicinal preparation of rose juice mixed with honey."], "src": "iwb"}
+{"w": "rodomont", "pos": "noun", "d": ["A blustering braggart, named for the boastful character Rodomonte."], "src": "iwb"}
+{"w": "rodomontade", "pos": "noun", "d": ["Empty boastful talk; blustering bragging."], "src": "iwb"}
+{"w": "rodomontadist", "pos": "noun", "d": ["A person given to boastful blustering talk."], "src": "iwb"}
+{"w": "rodomontador", "pos": "noun", "d": ["One who boasts and blusters; a rodomontadist."], "src": "iwb"}
+{"w": "rodsman", "pos": "noun", "d": ["A surveyor's assistant who holds the measuring rod."], "src": "iwb"}
+{"w": "rody", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roe", "pos": "noun", "d": ["The eggs of a fish, especially as food.", "A small European deer with short antlers; the roe deer."], "src": "iwb"}
+{"w": "roed", "pos": "adjective", "d": ["Filled with roe; containing fish eggs."], "src": "iwb"}
+{"w": "rogation", "pos": "noun", "d": ["A solemn act of asking or petition, especially in prayer.", "Any of the Rogation Days, church days of prayer and procession before Ascension."], "src": "iwb"}
+{"w": "rogatory", "pos": "adjective", "d": ["Relating to rogation; asking or petitioning solemnly."], "src": "iwb"}
+{"w": "rogue", "pos": "noun", "d": ["A dishonest or unprincipled person; a scoundrel.", "A playfully mischievous person."], "src": "iwb"}
+{"w": "roguery", "pos": "noun", "d": ["The behavior of a rogue; dishonest trickery.", "Playful mischief."], "src": "iwb"}
+{"w": "roguish", "pos": "adjective", "d": ["Like a rogue; playfully mischievous.", "Dishonest or unprincipled."], "src": "iwb"}
+{"w": "roguy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rohob", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roil", "pos": "verb", "d": ["To stir up sediment so that a liquid becomes cloudy.", "To make angry or irritated."], "src": "iwb"}
+{"w": "roily", "pos": "adjective", "d": ["Muddy or cloudy from stirred-up sediment.", "Easily angered; irritable."], "src": "iwb"}
+{"w": "roin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roint", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roist", "pos": "verb", "d": ["To behave like a roisterer; to swagger, bully, or bluster."], "src": "iwb"}
+{"w": "rokambole", "pos": "noun", "d": ["A bulbous plant related to garlic, whose cloves are used like garlic; the sand leek."], "src": "iwb"}
+{"w": "roke", "pos": "noun", "d": ["Mist or fog."], "src": "iwb"}
+{"w": "rokee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roky", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rollejee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roller bearing", "pos": "phrase", "d": ["A bearing in which the moving parts roll on steel rollers to reduce friction."], "src": "iwb"}
+{"w": "roller coaster", "pos": "phrase", "d": ["An amusement ride with small cars that speed along a track of steep hills and sharp turns."], "src": "iwb"}
+{"w": "rolley", "pos": "noun", "d": ["A low cart with small wheels, used for moving heavy loads."], "src": "iwb"}
+{"w": "rolliche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rolling-pin", "pos": "noun", "d": ["A smooth cylinder with handles at each end, rolled over dough to flatten it."], "src": "iwb"}
+{"w": "rolly-poly", "pos": "noun", "d": ["A variant spelling of roly-poly; a short, plump person or thing."], "src": "iwb"}
+{"w": "rolly-pooly", "pos": "noun", "d": ["A variant spelling of roly-poly; a short, plump person or thing."], "src": "iwb"}
+{"w": "roly-poly", "pos": "noun", "d": ["A short, plump person.", "A pudding made of dough spread with jam and rolled up before baking or steaming."], "src": "iwb"}
+{"w": "romage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "romaic", "pos": "noun", "d": ["The modern Greek language."], "src": "iwb"}
+{"w": "romajikai", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roman calendar", "pos": "phrase", "d": ["The calendar used in ancient Rome before the Julian reform."], "src": "iwb"}
+{"w": "romancy", "pos": "noun", "d": ["The quality or character of being romantic."], "src": "iwb"}
+{"w": "romanesque", "pos": "adjective", "d": ["Denoting the medieval European style of architecture marked by round arches and massive forms.", "Relating to the Romance languages or peoples."], "src": "iwb"}
+{"w": "romansch", "pos": "noun", "d": ["The Romansh language, spoken in parts of Switzerland."], "src": "iwb"}
+{"w": "romant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "romanticaly", "pos": "adverb", "d": ["An obsolete spelling of romantically."], "src": "iwb"}
+{"w": "romany", "pos": "noun", "d": ["A member of the Romani people; a Gypsy.", "The Romani language."], "src": "iwb"}
+{"w": "romanza", "pos": "noun", "d": ["A short, lyrical song or instrumental piece; a romance."], "src": "iwb"}
+{"w": "romaunt", "pos": "noun", "d": ["An archaic spelling of romance, a medieval tale of adventure."], "src": "iwb"}
+{"w": "romble", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rombowline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rome penny", "pos": "phrase", "d": ["A yearly tribute of a penny paid to the pope; Peter's pence."], "src": "iwb"}
+{"w": "rome scot", "pos": "phrase", "d": ["A yearly tribute of a penny paid to the pope; Peter's pence."], "src": "iwb"}
+{"w": "romeine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "romeite", "pos": "noun", "d": ["A mineral composed of calcium antimonate, usually found in brown or yellow crystals."], "src": "iwb"}
+{"w": "romekin", "pos": "noun", "d": ["An older spelling of ramekin, a small dish used for baking and serving."], "src": "iwb"}
+{"w": "romeward", "pos": "adverb", "d": ["Toward Rome."], "src": "iwb"}
+{"w": "romic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "romish", "pos": "adjective", "d": ["Of or relating to the Roman Catholic Church, often used disparagingly."], "src": "iwb"}
+{"w": "romist", "pos": "noun", "d": ["An adherent of the Church of Rome; a Roman Catholic."], "src": "iwb"}
+{"w": "romp", "pos": "verb", "d": ["To play in a lively, noisy way.", "To win a contest easily and by a wide margin."], "src": "iwb"}
+{"w": "rompu", "pos": "adjective", "d": ["In fencing, denoting a backward step; broken off."], "src": "iwb"}
+{"w": "roncador", "pos": "noun", "d": ["A marine fish of the grunt family, named for the grunting sound it makes."], "src": "iwb"}
+{"w": "ronchil", "pos": "noun", "d": ["A scraper used in mining to clear loosened rock from boreholes."], "src": "iwb"}
+{"w": "ronco", "pos": "noun", "d": ["A fish of the grunt family."], "src": "iwb"}
+{"w": "rondache", "pos": "noun", "d": ["A large round shield carried by foot soldiers in former times."], "src": "iwb"}
+{"w": "ronde", "pos": "noun", "d": ["A round or circular course.", "In music, a rondeau."], "src": "iwb"}
+{"w": "rondeau", "pos": "noun", "d": ["A short poem of fixed form, usually of thirteen lines with a repeated refrain.", "A musical form in which a main theme returns between contrasting episodes."], "src": "iwb"}
+{"w": "rondel", "pos": "noun", "d": ["A short round poem; a roundel.", "A small round tower."], "src": "iwb"}
+{"w": "rondeletia", "pos": "noun", "d": ["A genus of tropical flowering shrubs of the coffee family."], "src": "iwb"}
+{"w": "rondle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rondo", "pos": "noun", "d": ["A musical form in which the main theme returns again and again between contrasting episodes."], "src": "iwb"}
+{"w": "rondure", "pos": "noun", "d": ["Roundness; a circle or rounded form."], "src": "iwb"}
+{"w": "rong", "pos": "verb", "d": ["An obsolete past tense of ring."], "src": "iwb"}
+{"w": "rongeur", "pos": "noun", "d": ["A rodent.", "In surgery, a forceps for biting away small pieces of bone."], "src": "iwb"}
+{"w": "ronin", "pos": "noun", "d": ["In feudal Japan, a samurai without a master."], "src": "iwb"}
+{"w": "ronion", "pos": "noun", "d": ["A mangy or scabby animal, used as a term of contempt for a person."], "src": "iwb"}
+{"w": "ronne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ronnen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ront", "pos": "noun", "d": ["A young salmon."], "src": "iwb"}
+{"w": "rontgen", "pos": "noun", "d": ["A variant spelling of roentgen, the X-ray."], "src": "iwb"}
+{"w": "rontgen ray", "pos": "phrase", "d": ["An X-ray."], "src": "iwb"}
+{"w": "ronyon", "pos": "noun", "d": ["A variant of ronion; a mangy, contemptible creature."], "src": "iwb"}
+{"w": "rood", "pos": "noun", "d": ["A cross or crucifix, especially the large one over a church chancel.", "An old English measure of land, equal to a quarter of an acre."], "src": "iwb"}
+{"w": "roodebok", "pos": "noun", "d": ["A South African antelope with a reddish coat; the bushbuck."], "src": "iwb"}
+{"w": "roody", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roofy", "pos": "adjective", "d": ["Having a roof or roofs.", "Resembling a roof."], "src": "iwb"}
+{"w": "rook", "pos": "noun", "d": ["A crow-like European bird that nests in colonies.", "A castle-shaped piece in chess.", "A cheat or swindler."], "src": "iwb"}
+{"w": "rookery", "pos": "noun", "d": ["A place where rooks or other seabirds nest in colonies.", "A crowded, run-down tenement or slum."], "src": "iwb"}
+{"w": "rooky", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roomily", "pos": "adverb", "d": ["In a roomy way; spaciously."], "src": "iwb"}
+{"w": "roominess", "pos": "noun", "d": ["The quality of being roomy; spaciousness."], "src": "iwb"}
+{"w": "roomth", "pos": "noun", "d": ["Room; space."], "src": "iwb"}
+{"w": "roomy", "pos": "adjective", "d": ["Having plenty of room; spacious."], "src": "iwb"}
+{"w": "roon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roop", "pos": "noun", "d": ["A variant of roup, a public auction."], "src": "iwb"}
+{"w": "roorbach", "pos": "noun", "d": ["A false, slanderous story circulated for political effect."], "src": "iwb"}
+{"w": "roorback", "pos": "noun", "d": ["A false, slanderous story circulated for political effect."], "src": "iwb"}
+{"w": "roosa oil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roost", "pos": "noun", "d": ["A perch or place where birds settle to rest.", "A group of birds resting together."], "src": "iwb"}
+{"w": "rootery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rooty", "pos": "adjective", "d": ["Full of roots."], "src": "iwb"}
+{"w": "ropalic", "pos": "adjective", "d": ["Club-shaped.", "Denoting verse in which each word is a syllable longer than the one before it."], "src": "iwb"}
+{"w": "rope-yarn", "pos": "noun", "d": ["Yarn or thread used for making ropes.", "A sailor's long story; a yarn."], "src": "iwb"}
+{"w": "ropery", "pos": "noun", "d": ["The business of making ropes.", "An obsolete word for roguery; knavish trickery."], "src": "iwb"}
+{"w": "ropily", "pos": "adverb", "d": ["In a ropy manner."], "src": "iwb"}
+{"w": "ropiness", "pos": "noun", "d": ["The quality of being ropy."], "src": "iwb"}
+{"w": "ropish", "pos": "adjective", "d": ["Somewhat ropy."], "src": "iwb"}
+{"w": "ropy", "pos": "adjective", "d": ["Like a rope; long and stringy.", "Thick and sticky like a rope, as of a liquid."], "src": "iwb"}
+{"w": "roque", "pos": "noun", "d": ["An American game related to croquet, played with mallets and wooden balls on a hard surface."], "src": "iwb"}
+{"w": "roquefort cheese", "pos": "phrase", "d": ["A strong blue-veined cheese made from sheep's milk in the Roquefort region of France."], "src": "iwb"}
+{"w": "roquelaure", "pos": "noun", "d": ["A heavy knee-length cloak worn by men in the 18th and early 19th centuries."], "src": "iwb"}
+{"w": "roquet", "pos": "noun", "d": ["In croquet or roque, a stroke in which the player's ball strikes another ball."], "src": "iwb"}
+{"w": "roral", "pos": "adjective", "d": ["Of, relating to, or like dew."], "src": "iwb"}
+{"w": "roration", "pos": "noun", "d": ["The falling of dew."], "src": "iwb"}
+{"w": "roric", "pos": "adjective", "d": ["Of or pertaining to dew; dewy."], "src": "iwb"}
+{"w": "rorid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roriferous", "pos": "adjective", "d": ["Producing or bearing dew."], "src": "iwb"}
+{"w": "rorifluent", "pos": "adjective", "d": ["Flowing with dew."], "src": "iwb"}
+{"w": "rorqual", "pos": "noun", "d": ["A large whale with grooved folds along its throat, such as the finback or the blue whale."], "src": "iwb"}
+{"w": "rorulent", "pos": "adjective", "d": ["Full of dew; dewy."], "src": "iwb"}
+{"w": "rory", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rosaceous", "pos": "adjective", "d": ["Belonging to the rose family of plants.", "Shaped like a rose, with spreading rounded petals."], "src": "iwb"}
+{"w": "rosacic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rosalgar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rosalia", "pos": "noun", "d": ["A genus of longhorn beetles, including the blue Rosalia alpina of Europe."], "src": "iwb"}
+{"w": "rosaniline", "pos": "noun", "d": ["A colorless crystalline substance that is the base of the red aniline dye magenta."], "src": "iwb"}
+{"w": "rosarian", "pos": "noun", "d": ["A person who grows roses or is devoted to their cultivation."], "src": "iwb"}
+{"w": "rosary", "pos": "noun", "d": ["A string of beads used for counting prayers, especially among Roman Catholics.", "The series of prayers counted on such beads."], "src": "iwb"}
+{"w": "roscid", "pos": "adjective", "d": ["Dewy; covered with dew."], "src": "iwb"}
+{"w": "roscoelite", "pos": "noun", "d": ["A greenish micaceous mineral that contains vanadium."], "src": "iwb"}
+{"w": "rose water", "pos": "phrase", "d": ["Water scented with rose petals or rose oil, used in cooking, cosmetics, and ceremonies."], "src": "iwb"}
+{"w": "rose-colored", "pos": "adjective", "d": ["Pink like a rose; cheerful or optimistic, as in seeing things through rose-colored glasses."], "src": "iwb"}
+{"w": "rose-cut", "pos": "adjective", "d": ["Cut with a flat base and a rounded faceted top, as a gemstone."], "src": "iwb"}
+{"w": "rose-pink", "pos": "adjective", "d": ["Having the soft pink color of roses."], "src": "iwb"}
+{"w": "rose-red", "pos": "adjective", "d": ["Deep pinkish red, like a red rose."], "src": "iwb"}
+{"w": "rose-rial", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rose-water", "pos": "adjective", "d": ["Lightly scented with rose water; delicately sentimental."], "src": "iwb"}
+{"w": "roseine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rosella", "pos": "noun", "d": ["An Australian parrot with bright red, blue, and green plumage.", "A tropical hibiscus plant whose red calyxes are used in drinks and jellies."], "src": "iwb"}
+{"w": "roselle", "pos": "noun", "d": ["A tropical plant of the hibiscus family whose red fleshy calyxes are used for drinks, jellies, and sauces."], "src": "iwb"}
+{"w": "rosemaloes", "pos": "noun", "d": ["A fragrant resin from a Southeast Asian tree, used in perfumery and incense."], "src": "iwb"}
+{"w": "rosen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "roseo-", "pos": "prefix", "d": ["A combining form meaning rose-colored or reddish."], "src": "iwb"}
+{"w": "roseola", "pos": "noun", "d": ["A mild childhood illness marked by a sudden fever followed by a pink rash."], "src": "iwb"}
+{"w": "rosery", "pos": "noun", "d": ["A garden or place where roses are grown."], "src": "iwb"}
+{"w": "roset", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rosetta stone", "pos": "phrase", "d": ["An ancient Egyptian stone bearing the same text in three scripts, which made deciphering hieroglyphs possible.", "Anything that provides the key to solving a puzzle."], "src": "iwb"}
+{"w": "rosetta wood", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rosette", "pos": "noun", "d": ["An ornament shaped like a rose, especially a ribbon badge awarded as a prize.", "A circular arrangement of leaves or markings resembling a rose."], "src": "iwb"}
+{"w": "rosicrucian", "pos": "noun", "d": ["A member of a secret fraternity devoted to esoteric and mystical wisdom, first publicized in early 17th-century Europe."], "src": "iwb"}
+{"w": "rosily", "pos": "adverb", "d": ["With a rosy glow; in a cheerful or optimistic way."], "src": "iwb"}
+{"w": "rosin", "pos": "noun", "d": ["The hard amber resin left after distilling turpentine, rubbed on violin bows and used by athletes for grip."], "src": "iwb"}
+{"w": "rosiness", "pos": "noun", "d": ["The quality of being rosy or pink-cheeked."], "src": "iwb"}
+{"w": "rosiny", "pos": "adjective", "d": ["Like or containing rosin; sticky with resin."], "src": "iwb"}
+{"w": "rosland", "pos": "noun", "d": ["Land where roses grow; a rose garden."], "src": "iwb"}
+{"w": "rosmarine", "pos": "noun", "d": ["An obsolete form of the word rosemary."], "src": "iwb"}
+{"w": "rosolic", "pos": "adjective", "d": ["Relating to rosolic acid, a red dye obtained from coal tar."], "src": "iwb"}
+{"w": "rossel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rossel current", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rost", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rostel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rostelliform", "pos": "adjective", "d": ["Shaped like a rostellum, a small beak or beaklike part."], "src": "iwb"}
+{"w": "rostra", "pos": "noun", "d": ["The plural of rostrum; in ancient Rome, a speaker's platform decorated with ships' beaks."], "src": "iwb"}
+{"w": "rostral", "pos": "adjective", "d": ["Toward the beak or snout; in anatomy, toward the front end of the body."], "src": "iwb"}
+{"w": "rostrifera", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rostriform", "pos": "adjective", "d": ["Shaped like a beak or snout."], "src": "iwb"}
+{"w": "rostrulum", "pos": "noun", "d": ["A small beak or beaklike part."], "src": "iwb"}
+{"w": "rosulate", "pos": "adjective", "d": ["Forming a rosette, as leaves arranged in a circle at the base of a plant."], "src": "iwb"}
+{"w": "rosy", "pos": "adjective", "d": ["Pink or red like a rose; also, cheerful or full of promise."], "src": "iwb"}
+{"w": "rot", "pos": "noun", "d": ["The decay of organic matter.", "Worthless nonsense; rubbish."], "src": "iwb"}
+{"w": "rota", "pos": "noun", "d": ["A list showing the order in which people take turns at a duty.", "A high ecclesiastical court of the Roman Catholic Church."], "src": "iwb"}
+{"w": "rotacism", "pos": "noun", "d": ["A speech defect in which the r sound is mispronounced or exaggerated.", "The change of an s sound to an r sound in the history of a language."], "src": "iwb"}
+{"w": "rotative", "pos": "adjective", "d": ["Rotating; causing or produced by rotation."], "src": "iwb"}
+{"w": "rotatoria", "pos": "noun", "d": ["A former name for the group of tiny aquatic animals now called rotifers."], "src": "iwb"}
+{"w": "rotche", "pos": "noun", "d": ["The little auk, a small black-and-white seabird of the Arctic."], "src": "iwb"}
+{"w": "rotchet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rote", "pos": "noun", "d": ["Mechanical repetition without understanding, as in learning by rote."], "src": "iwb"}
+{"w": "rotella", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rotifer", "pos": "noun", "d": ["A tiny aquatic animal with a crown of cilia that looks like rotating wheels when it feeds."], "src": "iwb"}
+{"w": "rotifera", "pos": "noun", "d": ["The phylum of microscopic aquatic animals known as rotifers."], "src": "iwb"}
+{"w": "rotiform", "pos": "adjective", "d": ["Wheel-shaped."], "src": "iwb"}
+{"w": "rotograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rotor", "pos": "noun", "d": ["The rotating part of a machine, such as the blades of a helicopter or the spinning element of a motor."], "src": "iwb"}
+{"w": "rotta", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rotula", "pos": "noun", "d": ["An old anatomical term for the kneecap."], "src": "iwb"}
+{"w": "rotular", "pos": "adjective", "d": ["Relating to the kneecap."], "src": "iwb"}
+{"w": "rotund", "pos": "adjective", "d": ["Round and plump; full-toned in speech."], "src": "iwb"}
+{"w": "rotunda", "pos": "noun", "d": ["A round building or hall covered by a dome."], "src": "iwb"}
+{"w": "rotundifolious", "pos": "adjective", "d": ["Having round leaves."], "src": "iwb"}
+{"w": "roturier", "pos": "noun", "d": ["A commoner; a person not of noble rank."], "src": "iwb"}
+{"w": "roty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rouble", "pos": "noun", "d": ["The standard unit of money in Russia; also spelled ruble."], "src": "iwb"}
+{"w": "rouche", "pos": "noun", "d": ["A gathered strip of fabric used as a trimming; also spelled ruche."], "src": "iwb"}
+{"w": "roue", "pos": "noun", "d": ["A man devoted to a life of pleasure and dissipation."], "src": "iwb"}
+{"w": "rouet", "pos": "noun", "d": ["A spinning wheel."], "src": "iwb"}
+{"w": "rouge dragon", "pos": "phrase", "d": ["A junior officer of arms in the English College of Arms, properly titled Rouge Dragon Pursuivant."], "src": "iwb"}
+{"w": "rougecroix", "pos": "noun", "d": ["A junior officer of arms in the English College of Arms, properly titled Rouge Croix Pursuivant."], "src": "iwb"}
+{"w": "rough-footed", "pos": "adjective", "d": ["Having feathered feet or legs, as certain hawks and owls."], "src": "iwb"}
+{"w": "rough-grained", "pos": "adjective", "d": ["Coarse in texture or grain."], "src": "iwb"}
+{"w": "rough-legged", "pos": "adjective", "d": ["Having feathered legs, as the rough-legged hawk."], "src": "iwb"}
+{"w": "roughing-in", "pos": "noun", "d": ["The early stage of construction when framing, plumbing, and wiring are installed before finishing work."], "src": "iwb"}
+{"w": "roughings", "pos": "noun", "d": ["Coarse unfinished material or work produced in the first stage of a process."], "src": "iwb"}
+{"w": "roughstrings", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "rought", "pos": "verb", "d": ["An obsolete past tense and past participle of reach."], "src": "iwb"}
+{"w": "rouk", "pos": "noun", "d": ["In Scots, a mist or fog."], "src": "iwb"}
+{"w": "roulade", "pos": "noun", "d": ["A rapid ornamental passage of notes sung to one syllable.", "A slice of meat rolled around a filling."], "src": "iwb"}
+{"w": "rouleau", "pos": "noun", "d": ["A roll of coins wrapped in paper.", "A cylindrical roll or coil."], "src": "iwb"}
+{"w": "rouly-pouly", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

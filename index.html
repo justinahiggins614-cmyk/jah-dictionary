@@ -360,6 +360,34 @@ var PATCAT="https://justinahiggins614-cmyk.github.io/cyber-patent-catalog";
 <script>
 "use strict";
 "use strict";
+/* ==== JAH global read-aloud controller (one per page): no stacked voices, no orphan audio ==== */
+(function(){
+if(window.__JAHREAD)return;
+var R={audios:[],lastTap:0,lastLabel:""};
+R.stopAll=function(){
+ try{if(window.speechSynthesis)window.speechSynthesis.cancel();}catch(e){}
+ try{if(window.responsiveVoice&&window.responsiveVoice.cancel)window.responsiveVoice.cancel();}catch(e){}
+ var i,a;
+ for(i=0;i<R.audios.length;i++){a=R.audios[i];try{a.pause();}catch(e){}try{a.removeAttribute("src");}catch(e){}try{a.load();}catch(e){}}
+ R.audios.length=0;
+ var els=document.querySelectorAll("audio");
+ for(i=0;i<els.length;i++){try{els[i].pause();}catch(e){}}
+};
+R.reg=function(a){if(a&&R.audios.indexOf(a)<0)R.audios.push(a);return a;};
+R.playGuard=function(label){
+ var now=Date.now();
+ if(now-R.lastTap<450&&label===R.lastLabel){R.lastTap=0;R.lastLabel="";R.stopAll();return false;}
+ R.lastTap=now;R.lastLabel=String(label||"");
+ R.stopAll();return true;
+};
+try{
+ var NativeAudio=window.Audio;
+ window.Audio=function(src){var a=src===undefined?new NativeAudio():new NativeAudio(src);R.reg(a);return a;};
+ window.Audio.prototype=NativeAudio.prototype;
+}catch(e){}
+window.__JAHREAD=R;
+})();
+
 /* ================= read aloud: tiered TTS with options ================= */
 var RD={audio:null,queue:[],playing:false,stopped:true,timer:null,speed:1,paused:false,_cur:null};
 var RD_TIERS=[
@@ -367,7 +395,8 @@ var RD_TIERS=[
  function(t){return "https://translate.google.com/translate_tts?ie=UTF-8&q="+encodeURIComponent(t)+"&tl=en&client=tw-ob"},
  function(t){return "https://translate.googleapis.com/translate_tts?ie=UTF-8&q="+encodeURIComponent(t)+"&tl=en&client=tw-ob"}];
 function rdChunks(t){t=String(t).replace(/\s+/g," ").trim();var out=[],cur="";t.split(/(?<=[.!?])\s+/).forEach(function(s){if((cur+" "+s).length>170){if(cur)out.push(cur);cur=s}else cur=(cur?cur+" ":"")+s});if(cur)out.push(cur);return out.slice(0,80)}
-function rdStop(){RD.stopped=true;RD.playing=false;RD.paused=false;RD.queue=[];RD._cur=null;if(RD.timer){clearTimeout(RD.timer);RD.timer=null}if(RD.audio){try{RD.audio.pause()}catch(e){}RD.audio=null}var b=document.getElementById("rdbtn");if(b)b.textContent="🔊 Read aloud";var pb=document.getElementById("rdpause");if(pb)pb.textContent="⏸ Pause"}
+function rdStop(){try{if(window.__JAHREAD)window.__JAHREAD.stopAll();}catch(e){}
+ RD.stopped=true;RD.playing=false;RD.paused=false;RD.queue=[];RD._cur=null;if(RD.timer){clearTimeout(RD.timer);RD.timer=null}if(RD.audio){try{RD.audio.pause()}catch(e){}RD.audio=null}var b=document.getElementById("rdbtn");if(b)b.textContent="🔊 Read aloud";var pb=document.getElementById("rdpause");if(pb)pb.textContent="⏸ Pause"}
 /* pause/resume: pauses the CURRENT chunk's audio element in place; resume
    continues it (not a restart) and re-arms the tier watchdog. */
 function rdPause(){var c=RD._cur;if(!c||RD.paused||RD.stopped)return;RD.paused=true;
@@ -405,7 +434,8 @@ function rdNext(){
   });
  })();
 }
-function rdSpeak(text){rdStop();RD.queue=rdChunks(text);if(!RD.queue.length)return;RD.stopped=false;
+function rdSpeak(text){if(window.__JAHREAD&&!window.__JAHREAD.playGuard("rdSpeak"))return;
+ rdStop();RD.queue=rdChunks(text);if(!RD.queue.length)return;RD.stopped=false;
  var b=document.getElementById("rdbtn");if(b)b.textContent="⏹ Stop";
  rdNext()}
 function rdToolbar(){

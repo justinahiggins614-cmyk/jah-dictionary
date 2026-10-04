@@ -43821,6 +43821,806 @@
 {"w": "pressor", "pos": "adjective", "d": ["Tending to raise blood pressure, as certain nerves or substances."], "src": "iwb"}
 {"w": "pressurage", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "pressure wires", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prest", "pos": "noun", "d": ["A sum of money paid in advance to a person enlisting for military service.", "Earnest money; an advance payment that secures a bargain."], "src": "iwb"}
+{"w": "prestidigital", "pos": "adjective", "d": ["Performed with or requiring nimble fingers, as in sleight of hand."], "src": "iwb"}
+{"w": "prestidigitation", "pos": "noun", "d": ["Sleight of hand; the performance of conjuring tricks."], "src": "iwb"}
+{"w": "prestidigitator", "pos": "noun", "d": ["A performer of sleight-of-hand tricks; a conjurer."], "src": "iwb"}
+{"w": "prestige", "pos": "noun", "d": ["Widespread respect and admiration earned by achievement, status, or quality."], "src": "iwb"}
+{"w": "prestigiation", "pos": "noun", "d": ["Deception by sleight of hand; conjuring."], "src": "iwb"}
+{"w": "prestigiator", "pos": "noun", "d": ["One who practices sleight of hand; a juggler or trickster."], "src": "iwb"}
+{"w": "prestigiatory", "pos": "adjective", "d": ["Relating to or characterized by sleight of hand."], "src": "iwb"}
+{"w": "prestigious", "pos": "adjective", "d": ["Having high prestige; commanding respect and admiration."], "src": "iwb"}
+{"w": "prestimony", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prestissimo", "pos": "adverb", "d": ["In music, at an extremely fast tempo, faster than presto."], "src": "iwb"}
+{"w": "presto", "pos": "adverb", "d": ["In music, at a very fast tempo.", "With sudden, magical quickness."], "src": "iwb"}
+{"w": "presultor", "pos": "noun", "d": ["A dancer who leads or goes before the others in a dance."], "src": "iwb"}
+{"w": "presumably", "pos": "adverb", "d": ["As may reasonably be supposed; probably."], "src": "iwb"}
+{"w": "presume", "pos": "verb", "d": ["To take as true without proof; to suppose.", "To venture beyond what is proper; to take liberties."], "src": "iwb"}
+{"w": "presumedly", "pos": "adverb", "d": ["By presumption; supposedly."], "src": "iwb"}
+{"w": "presumingly", "pos": "adverb", "d": ["In a presumptuous manner; with undue boldness."], "src": "iwb"}
+{"w": "presumptive", "pos": "adjective", "d": ["Based on presumption; giving grounds for presuming.", "Expected to inherit unless a nearer heir appears, as in heir presumptive."], "src": "iwb"}
+{"w": "pretence", "pos": "noun", "d": ["A false show intended to deceive.", "A claim put forward without real basis."], "src": "iwb"}
+{"w": "pretendingly", "pos": "adverb", "d": ["In a pretending manner; with false show."], "src": "iwb"}
+{"w": "pretentious", "pos": "adjective", "d": ["Making exaggerated claims of importance or merit; ostentatiously showy."], "src": "iwb"}
+{"w": "preterhuman", "pos": "adjective", "d": ["Beyond what is human; superhuman."], "src": "iwb"}
+{"w": "preterient", "pos": "adjective", "d": ["Past; gone by; former."], "src": "iwb"}
+{"w": "preterimperfect", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "preterist", "pos": "noun", "d": ["One who holds that biblical prophecies were fulfilled in the past."], "src": "iwb"}
+{"w": "preterit", "pos": "noun", "d": ["The past tense of a verb."], "src": "iwb"}
+{"w": "preterite", "pos": "noun", "d": ["The past tense of a verb; a verb form expressing past time."], "src": "iwb"}
+{"w": "preterlapsed", "pos": "adjective", "d": ["Past; elapsed; gone by."], "src": "iwb"}
+{"w": "preterlegal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pretermission", "pos": "noun", "d": ["The act of passing over or omitting; an omission."], "src": "iwb"}
+{"w": "pretermit", "pos": "verb", "d": ["To pass over; to omit or leave undone."], "src": "iwb"}
+{"w": "preternatural", "pos": "adjective", "d": ["Beyond what is natural or ordinary; extraordinary."], "src": "iwb"}
+{"w": "preterperfect", "pos": "noun", "d": ["The pluperfect tense of a verb."], "src": "iwb"}
+{"w": "preterpluperfect", "pos": "noun", "d": ["An obsolete grammatical term for a tense expressing time further back than the pluperfect."], "src": "iwb"}
+{"w": "pretervection", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pretex", "pos": "noun", "d": ["An obsolete spelling of pretext."], "src": "iwb"}
+{"w": "pretorian", "pos": "adjective", "d": ["Relating to the bodyguard of a Roman commander; praetorian."], "src": "iwb"}
+{"w": "pretorium", "pos": "noun", "d": ["The official residence or headquarters of a Roman pretor; a praetorium."], "src": "iwb"}
+{"w": "prettily", "pos": "adverb", "d": ["In a pretty manner; pleasingly."], "src": "iwb"}
+{"w": "prettiness", "pos": "noun", "d": ["The quality of being pretty."], "src": "iwb"}
+{"w": "pretty-spoken", "pos": "adjective", "d": ["Speaking in a pleasing or attractive way."], "src": "iwb"}
+{"w": "pretzel", "pos": "noun", "d": ["A crisp, salted bread or cracker twisted into a knot shape."], "src": "iwb"}
+{"w": "prevalent", "pos": "adjective", "d": ["Widespread in a particular place or at a particular time."], "src": "iwb"}
+{"w": "prevaricate", "pos": "verb", "d": ["To speak evasively in order to avoid a direct answer."], "src": "iwb"}
+{"w": "prevarication", "pos": "noun", "d": ["The act of speaking evasively; a misleading evasion."], "src": "iwb"}
+{"w": "prevaricator", "pos": "noun", "d": ["One who prevaricates."], "src": "iwb"}
+{"w": "preve", "pos": "verb", "d": ["To prove; to test or establish as true (Scots)."], "src": "iwb"}
+{"w": "prevenance", "pos": "noun", "d": ["Thoughtful, obliging attention to the needs of others."], "src": "iwb"}
+{"w": "prevenancy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prevene", "pos": "verb", "d": ["To come before; to precede or anticipate."], "src": "iwb"}
+{"w": "prevenience", "pos": "noun", "d": ["The act of coming before; anticipation; precedence."], "src": "iwb"}
+{"w": "prevenient", "pos": "adjective", "d": ["Coming before; anticipating; preceding."], "src": "iwb"}
+{"w": "preventative", "pos": "adjective", "d": ["Serving to prevent; preventive."], "src": "iwb"}
+{"w": "preventingly", "pos": "adverb", "d": ["In a preventing manner; so as to prevent."], "src": "iwb"}
+{"w": "prevoyant", "pos": "adjective", "d": ["Foreseeing; provident; showing prudent foresight."], "src": "iwb"}
+{"w": "prey", "pos": "noun", "d": ["An animal hunted and eaten by another.", "A person taken advantage of or victimized."], "src": "iwb"}
+{"w": "prian", "pos": "noun", "d": ["A soft white clay found in Cornish tin mines."], "src": "iwb"}
+{"w": "priapean", "pos": "adjective", "d": ["Relating to Priapus; phallic."], "src": "iwb"}
+{"w": "priapism", "pos": "noun", "d": ["A prolonged and painful erection of the penis, unrelated to sexual desire."], "src": "iwb"}
+{"w": "priapulacea", "pos": "noun", "d": ["A group of marine worms with a spiny, eversible proboscis; the priapulids."], "src": "iwb"}
+{"w": "pricasour", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "priceite", "pos": "noun", "d": ["A white hydrous borate mineral of calcium."], "src": "iwb"}
+{"w": "prick", "pos": "noun", "d": ["A puncture made by a sharp point.", "A thorn, spine, or other sharp point."], "src": "iwb"}
+{"w": "prick-eared", "pos": "adjective", "d": ["Having erect, pointed ears."], "src": "iwb"}
+{"w": "pricket", "pos": "noun", "d": ["A spike on which a candle is fixed.", "A male deer in its second year."], "src": "iwb"}
+{"w": "pricking-up", "pos": "noun", "d": ["The act of raising erect, as an animal pricks up its ears."], "src": "iwb"}
+{"w": "prickle", "pos": "noun", "d": ["A small sharp point on a plant stem or animal skin.", "A tingling or stinging sensation."], "src": "iwb"}
+{"w": "prickliness", "pos": "noun", "d": ["The quality of being prickly."], "src": "iwb"}
+{"w": "pricky", "pos": "adjective", "d": ["Somewhat prickly; having small prickles."], "src": "iwb"}
+{"w": "pridian", "pos": "adjective", "d": ["Relating to Colonel Pride or to Pride's Purge of Parliament in 1648."], "src": "iwb"}
+{"w": "pridingly", "pos": "adverb", "d": ["With pride; in a proud manner."], "src": "iwb"}
+{"w": "prie", "pos": "verb", "d": ["To taste; to try by tasting (Scots)."], "src": "iwb"}
+{"w": "priedieu", "pos": "noun", "d": ["A low desk or chair for kneeling on in prayer."], "src": "iwb"}
+{"w": "prief", "pos": "noun", "d": ["An obsolete spelling of proof."], "src": "iwb"}
+{"w": "priest", "pos": "noun", "d": ["An ordained minister of a church, especially one authorized to perform sacraments."], "src": "iwb"}
+{"w": "priest-ridden", "pos": "adjective", "d": ["Dominated or oppressed by priests."], "src": "iwb"}
+{"w": "priestery", "pos": "noun", "d": ["Priestcraft; the undue influence or domination of priests."], "src": "iwb"}
+{"w": "priestess", "pos": "noun", "d": ["A woman who is a priest or performs priestly duties."], "src": "iwb"}
+{"w": "priestliness", "pos": "noun", "d": ["The quality of being priestly."], "src": "iwb"}
+{"w": "prieve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prig", "pos": "noun", "d": ["A self-righteously moralizing person.", "A thief; a pilferer (slang)."], "src": "iwb"}
+{"w": "priggish", "pos": "adjective", "d": ["Like a prig; self-righteously proper."], "src": "iwb"}
+{"w": "priggism", "pos": "noun", "d": ["The conduct or character of a prig."], "src": "iwb"}
+{"w": "prighte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prill", "pos": "noun", "d": ["A small round pellet, as of fertilizer, grain, or metal."], "src": "iwb"}
+{"w": "prim", "pos": "adjective", "d": ["Stiffly formal and proper in manner."], "src": "iwb"}
+{"w": "prima donna", "pos": "noun", "d": ["The leading female singer in an opera company.", "A temperamental person who demands special treatment."], "src": "iwb"}
+{"w": "prima facie", "pos": "adjective", "d": ["Sufficient at first sight to establish a fact unless disproved."], "src": "iwb"}
+{"w": "primacy", "pos": "noun", "d": ["The state of being first in rank, order, or importance."], "src": "iwb"}
+{"w": "primariness", "pos": "noun", "d": ["The quality or state of being primary."], "src": "iwb"}
+{"w": "primatial", "pos": "adjective", "d": ["Of or relating to a primate, or archbishop."], "src": "iwb"}
+{"w": "primatical", "pos": "adjective", "d": ["Of or relating to a primate; primatial."], "src": "iwb"}
+{"w": "primero", "pos": "noun", "d": ["An old gambling card game popular in the 1500s and 1600s."], "src": "iwb"}
+{"w": "primevous", "pos": "adjective", "d": ["Belonging to the earliest age; primeval."], "src": "iwb"}
+{"w": "primigenial", "pos": "adjective", "d": ["First-formed; original; primitive."], "src": "iwb"}
+{"w": "primigenious", "pos": "adjective", "d": ["First-formed; original."], "src": "iwb"}
+{"w": "primigenous", "pos": "adjective", "d": ["Originating first; primitive; original."], "src": "iwb"}
+{"w": "primine", "pos": "noun", "d": ["The outer coat or integument of an ovule."], "src": "iwb"}
+{"w": "primipara", "pos": "noun", "d": ["A woman who has given birth to only one child."], "src": "iwb"}
+{"w": "primiparous", "pos": "adjective", "d": ["Bearing or having borne young for the first time."], "src": "iwb"}
+{"w": "primipilar", "pos": "adjective", "d": ["Relating to the primipilus, the chief centurion of a Roman legion."], "src": "iwb"}
+{"w": "primitia", "pos": "noun", "d": ["The first fruits of a season or undertaking, especially as an offering."], "src": "iwb"}
+{"w": "primitive", "pos": "adjective", "d": ["Relating to the earliest stage of development; simple and basic in design.", "Made in an early, simple style before refined techniques developed."], "src": "iwb"}
+{"w": "primo", "pos": "noun", "d": ["The leading or first part in a musical duet or ensemble piece."], "src": "iwb"}
+{"w": "primordial", "pos": "adjective", "d": ["Existing from the very beginning of time; original and most ancient."], "src": "iwb"}
+{"w": "primordian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "primordiate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "primp", "pos": "verb", "d": ["To dress or groom oneself carefully, often with fussiness over small details."], "src": "iwb"}
+{"w": "primrose league", "pos": "phrase", "d": ["A British political league founded in 1883 to promote Conservative principles."], "src": "iwb"}
+{"w": "primula", "pos": "noun", "d": ["A genus of flowering plants that includes primroses and cowslips."], "src": "iwb"}
+{"w": "primulaceous", "pos": "adjective", "d": ["Belonging to the primrose family of flowering plants."], "src": "iwb"}
+{"w": "primum mobile", "pos": "phrase", "d": ["In ancient astronomy, the outermost celestial sphere that moved all the others; figuratively, the first cause or prime mover of an action."], "src": "iwb"}
+{"w": "primus", "pos": "noun", "d": ["One who is first in rank or order.", "The presiding bishop of the Scottish Episcopal Church."], "src": "iwb"}
+{"w": "primy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "princeliness", "pos": "noun", "d": ["The quality of being princely; royal dignity, generosity, or splendor."], "src": "iwb"}
+{"w": "princesse", "pos": "noun", "d": ["A style of fitted dress with long unbroken seams running from shoulder to hem."], "src": "iwb"}
+{"w": "princified", "pos": "adjective", "d": ["Made into a prince; given the rank, treatment, or manners of a prince."], "src": "iwb"}
+{"w": "principate", "pos": "noun", "d": ["The system of imperial rule founded by Augustus, in which the Roman emperor governed as first citizen."], "src": "iwb"}
+{"w": "principia", "pos": "noun", "d": ["Fundamental principles or first teachings, especially of a science."], "src": "iwb"}
+{"w": "principial", "pos": "adjective", "d": ["Relating to first principles; fundamental in nature."], "src": "iwb"}
+{"w": "principiant", "pos": "noun", "d": ["One who is beginning a course of study; a beginner or novice."], "src": "iwb"}
+{"w": "principiate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "princock", "pos": "noun", "d": ["A saucy or conceited young fellow."], "src": "iwb"}
+{"w": "princox", "pos": "noun", "d": ["A saucy, pert, conceited young fellow."], "src": "iwb"}
+{"w": "prink", "pos": "verb", "d": ["To dress or adorn oneself with care; to primp."], "src": "iwb"}
+{"w": "prinpriddle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "printa-ble", "pos": "adjective", "d": ["Able to be printed; a variant spelling of printable.", "Fit or proper to be printed and published."], "src": "iwb"}
+{"w": "printery", "pos": "noun", "d": ["A printing office; the workshop where printing is done."], "src": "iwb"}
+{"w": "printing in", "pos": "phrase", "d": ["In photography, the technique of giving part of an image extra exposure during printing."], "src": "iwb"}
+{"w": "printing out", "pos": "phrase", "d": ["In photography, a process in which the image appears directly through light exposure without chemical development."], "src": "iwb"}
+{"w": "prioress", "pos": "noun", "d": ["The female head of a priory or convent."], "src": "iwb"}
+{"w": "priory", "pos": "noun", "d": ["A religious house governed by a prior or prioress, ranking below an abbey."], "src": "iwb"}
+{"w": "pris", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "priscillianist", "pos": "noun", "d": ["A follower of Priscillian, a fourth-century Spanish ascetic whose teachings were condemned as heresy."], "src": "iwb"}
+{"w": "prise", "pos": "verb", "d": ["To force open or lift with a lever."], "src": "iwb"}
+{"w": "prism", "pos": "noun", "d": ["A transparent solid, usually with triangular ends, that separates a beam of light into its component colors."], "src": "iwb"}
+{"w": "prism glass", "pos": "phrase", "d": ["Glass shaped into prisms, used in windows and fixtures to bend or spread light."], "src": "iwb"}
+{"w": "prismatic", "pos": "adjective", "d": ["Relating to a prism; showing brilliant rainbow-like colors."], "src": "iwb"}
+{"w": "prismatoidal", "pos": "adjective", "d": ["Resembling a prismatoid in shape."], "src": "iwb"}
+{"w": "prismoid", "pos": "noun", "d": ["A solid whose two ends are parallel polygons of different sizes joined by flat faces."], "src": "iwb"}
+{"w": "prismy", "pos": "adjective", "d": ["Having the rainbow-like colors seen through a prism."], "src": "iwb"}
+{"w": "pristinate", "pos": "adjective", "d": ["Original or primitive in character; restored to an original state."], "src": "iwb"}
+{"w": "pritch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pritchel", "pos": "noun", "d": ["A pointed blacksmith's tool used for punching holes in hot metal."], "src": "iwb"}
+{"w": "prithee", "pos": "interjection", "d": ["An old contraction of 'I pray thee,' used as a polite or urgent request."], "src": "iwb"}
+{"w": "prittle-prattle", "pos": "noun", "d": ["Idle chatter; trivial or meaningless talk."], "src": "iwb"}
+{"w": "privado", "pos": "noun", "d": ["A private confidant or favorite of a ruler; a trusted adviser."], "src": "iwb"}
+{"w": "privatdocent", "pos": "noun", "d": ["A university lecturer in German-speaking countries who teaches without holding a salaried professorship."], "src": "iwb"}
+{"w": "privateersman", "pos": "noun", "d": ["A sailor serving aboard a privateer, a privately owned armed ship licensed to attack enemy vessels in wartime."], "src": "iwb"}
+{"w": "privation", "pos": "noun", "d": ["The lack of basic necessities of life; severe hardship or want."], "src": "iwb"}
+{"w": "privative", "pos": "adjective", "d": ["Expressing absence or lack, as a prefix that negates the word it joins."], "src": "iwb"}
+{"w": "privet", "pos": "noun", "d": ["A shrub with small oval leaves and white flowers, commonly planted as a hedge."], "src": "iwb"}
+{"w": "privily", "pos": "adverb", "d": ["In a secret or private manner; without being seen."], "src": "iwb"}
+{"w": "privity", "pos": "noun", "d": ["A close legal relationship between parties, as between the parties to a contract.", "Private knowledge shared between persons."], "src": "iwb"}
+{"w": "privy", "pos": "noun", "d": ["An outdoor toilet housed in a small shed."], "src": "iwb"}
+{"w": "pro rata", "pos": "phrase", "d": ["In proportion to a whole; divided according to each person's share."], "src": "iwb"}
+{"w": "pro thyalosoma", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pro-", "pos": "prefix", "d": ["A prefix meaning forward or in favor of."], "src": "iwb"}
+{"w": "proa", "pos": "noun", "d": ["A swift sailing canoe of the Pacific with an outrigger on one side."], "src": "iwb"}
+{"w": "probabiliorism", "pos": "noun", "d": ["The doctrine that in moral doubt one must follow the more probable opinion."], "src": "iwb"}
+{"w": "probabiliorist", "pos": "noun", "d": ["One who holds the doctrine of probabiliorism."], "src": "iwb"}
+{"w": "probabilism", "pos": "noun", "d": ["The doctrine that in moral doubt it is permissible to follow a probable opinion, even when a more probable opinion opposes it."], "src": "iwb"}
+{"w": "probabilist", "pos": "noun", "d": ["An adherent of probabilism.", "One who studies or applies the theory of probability."], "src": "iwb"}
+{"w": "probacy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "probal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "probation", "pos": "noun", "d": ["A trial period during which a person's conduct or fitness is tested.", "Supervision of an offender by court order instead of imprisonment."], "src": "iwb"}
+{"w": "probative", "pos": "adjective", "d": ["Serving to test or prove; furnishing evidence."], "src": "iwb"}
+{"w": "probator", "pos": "noun", "d": ["One who tests or proves; an examiner."], "src": "iwb"}
+{"w": "probatory", "pos": "adjective", "d": ["Serving to test or prove; relating to probation."], "src": "iwb"}
+{"w": "probe-pointed", "pos": "adjective", "d": ["Ending in a blunt rounded point, like a surgical probe."], "src": "iwb"}
+{"w": "probity", "pos": "noun", "d": ["Honesty and strong moral principles; uprightness of character."], "src": "iwb"}
+{"w": "problematic", "pos": "adjective", "d": ["Posing a problem; difficult to deal with or resolve.", "Uncertain or doubtful in outcome."], "src": "iwb"}
+{"w": "problematist", "pos": "noun", "d": ["One who proposes or studies problems."], "src": "iwb"}
+{"w": "problematize", "pos": "verb", "d": ["To treat something as a problem requiring analysis and inquiry."], "src": "iwb"}
+{"w": "proboscidate", "pos": "adjective", "d": ["Having a proboscis."], "src": "iwb"}
+{"w": "proboscidea", "pos": "noun", "d": ["The order of mammals comprising elephants and their extinct relatives."], "src": "iwb"}
+{"w": "proboscidean", "pos": "noun", "d": ["A member of the order Proboscidea; an elephant or related mammal."], "src": "iwb"}
+{"w": "proboscidial", "pos": "adjective", "d": ["Relating to a proboscis."], "src": "iwb"}
+{"w": "proboscidian", "pos": "adjective", "d": ["Relating to the proboscideans; shaped like an elephant's trunk."], "src": "iwb"}
+{"w": "proboscidifera", "pos": "noun", "d": ["A group of mollusks distinguished by having a proboscis."], "src": "iwb"}
+{"w": "proboscidiform", "pos": "adjective", "d": ["Shaped like a proboscis."], "src": "iwb"}
+{"w": "proboscis", "pos": "noun", "d": ["The long flexible trunk of an elephant.", "The elongated sucking mouthpart of an insect or other animal."], "src": "iwb"}
+{"w": "procacious", "pos": "adjective", "d": ["Peevish and quarrelsome; petulantly forward."], "src": "iwb"}
+{"w": "procacity", "pos": "noun", "d": ["Peevish quarrelsomeness; petulant forwardness."], "src": "iwb"}
+{"w": "procatarctic", "pos": "adjective", "d": ["Tending to bring on or excite a disease; predisposing."], "src": "iwb"}
+{"w": "procatarxis", "pos": "noun", "d": ["The exciting or immediate cause of a disease."], "src": "iwb"}
+{"w": "procedendo", "pos": "noun", "d": ["A writ ordering a lower court to proceed with a case sent to it."], "src": "iwb"}
+{"w": "proceleusmatic", "pos": "adjective", "d": ["Inciting or urging on.", "In prosody, a metrical foot of four short syllables."], "src": "iwb"}
+{"w": "procellarian", "pos": "adjective", "d": ["Relating to the petrels, the family of oceanic seabirds."], "src": "iwb"}
+{"w": "procellous", "pos": "adjective", "d": ["Stormy; tempestuous."], "src": "iwb"}
+{"w": "proception", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "procerity", "pos": "noun", "d": ["Tallness of stature; loftiness."], "src": "iwb"}
+{"w": "proces verbal", "pos": "phrase", "d": ["A written official record of proceedings, facts, or an offense; formal minutes."], "src": "iwb"}
+{"w": "process plate", "pos": "phrase", "d": ["A printing plate made by a photomechanical process for reproducing illustrations."], "src": "iwb"}
+{"w": "prochein", "pos": "adjective", "d": ["Next; nearest, as in 'prochein ami,' a person who acts for another in a lawsuit."], "src": "iwb"}
+{"w": "prochronism", "pos": "noun", "d": ["The error of dating an event earlier than it actually occurred."], "src": "iwb"}
+{"w": "prochronize", "pos": "verb", "d": ["To date an event earlier than its actual time."], "src": "iwb"}
+{"w": "procidence", "pos": "noun", "d": ["The falling down or displacement of a bodily organ; prolapse."], "src": "iwb"}
+{"w": "procidentia", "pos": "noun", "d": ["The falling down of an organ, especially of the uterus; prolapse."], "src": "iwb"}
+{"w": "prociduous", "pos": "adjective", "d": ["Falling off early or prematurely; deciduous."], "src": "iwb"}
+{"w": "procinct", "pos": "noun", "d": ["A state of readiness for battle, originally the girding up of a Roman soldier's tunic before fighting."], "src": "iwb"}
+{"w": "proclitic", "pos": "adjective", "d": ["Of a word, pronounced without its own stress and joined in speech to the word that follows it."], "src": "iwb"}
+{"w": "proclive", "pos": "adjective", "d": ["Inclined or tending toward something; disposed by nature."], "src": "iwb"}
+{"w": "proclivous", "pos": "adjective", "d": ["Inclined or prone; having a natural tendency toward something."], "src": "iwb"}
+{"w": "procoele", "pos": "noun", "d": ["The front portion of the lateral ventricle of the brain."], "src": "iwb"}
+{"w": "procoelian", "pos": "adjective", "d": ["Of a vertebra, hollowed or concave at its front face."], "src": "iwb"}
+{"w": "procoelous", "pos": "adjective", "d": ["Having vertebrae that are concave in front and convex behind."], "src": "iwb"}
+{"w": "procrastinate", "pos": "verb", "d": ["To put off doing something that needs to be done, especially out of habit."], "src": "iwb"}
+{"w": "procrastinator", "pos": "noun", "d": ["A person who habitually delays or postpones action."], "src": "iwb"}
+{"w": "procrastinatory", "pos": "adjective", "d": ["Tending to delay; marked by habitual postponement."], "src": "iwb"}
+{"w": "procrastine", "pos": "verb", "d": ["To delay or put off; an older form of procrastinate."], "src": "iwb"}
+{"w": "procris", "pos": "noun", "d": ["In Greek mythology, the daughter of Erechtheus and the wife of Cephalus."], "src": "iwb"}
+{"w": "procrustean", "pos": "adjective", "d": ["Forcing things into an arbitrary standard by ruthless cutting or stretching, after the mythical Procrustes."], "src": "iwb"}
+{"w": "procrustes", "pos": "noun", "d": ["In Greek mythology, a robber who forced travelers to fit his bed by stretching or cutting off their limbs."], "src": "iwb"}
+{"w": "procrustesian", "pos": "adjective", "d": ["Same as procrustean; enforcing rigid conformity by violent means."], "src": "iwb"}
+{"w": "proctitis", "pos": "noun", "d": ["Inflammation of the rectum and anus."], "src": "iwb"}
+{"w": "proctocele", "pos": "noun", "d": ["A hernia-like bulging of part of the rectum into the vagina; a rectocele."], "src": "iwb"}
+{"w": "proctodaeum", "pos": "noun", "d": ["The hindmost part of the embryonic digestive tract, formed by an inward folding of the body wall."], "src": "iwb"}
+{"w": "proctor", "pos": "noun", "d": ["An official who supervises students during an examination; at some universities, an officer charged with discipline."], "src": "iwb"}
+{"w": "proctotomy", "pos": "noun", "d": ["A surgical incision into the rectum."], "src": "iwb"}
+{"w": "proctucha", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "procuratory", "pos": "noun", "d": ["The office or authority of a procurator; also, the document appointing one."], "src": "iwb"}
+{"w": "procuress", "pos": "noun", "d": ["A woman who procures women for prostitution."], "src": "iwb"}
+{"w": "prod", "pos": "verb", "d": ["To poke or jab with something pointed; to goad into action."], "src": "iwb"}
+{"w": "prodd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prodigal", "pos": "adjective", "d": ["Recklessly wasteful with money or resources."], "src": "iwb"}
+{"w": "prodigate", "pos": "verb", "d": ["To drive forth or out; an obsolete verb."], "src": "iwb"}
+{"w": "prodigence", "pos": "noun", "d": ["Lavish expenditure; wasteful extravagance."], "src": "iwb"}
+{"w": "prodigy", "pos": "noun", "d": ["A young person with exceptional talent; also, something extraordinary or marvelous."], "src": "iwb"}
+{"w": "proditor", "pos": "noun", "d": ["A traitor; one who betrays."], "src": "iwb"}
+{"w": "proditory", "pos": "adjective", "d": ["Treacherous; of the nature of betrayal."], "src": "iwb"}
+{"w": "prodromal", "pos": "adjective", "d": ["Relating to the early warning signs that precede a disease or event."], "src": "iwb"}
+{"w": "prodromous", "pos": "adjective", "d": ["Serving as a forerunner or early sign; prodromal."], "src": "iwb"}
+{"w": "prodromus", "pos": "noun", "d": ["A forerunner; a preliminary work introducing a larger one."], "src": "iwb"}
+{"w": "produce race", "pos": "phrase", "d": ["A horse race restricted to young horses that are the offspring of specified sires."], "src": "iwb"}
+{"w": "producent", "pos": "noun", "d": ["One who produces; a producer."], "src": "iwb"}
+{"w": "producibility", "pos": "noun", "d": ["The quality of being producible; capability of being made."], "src": "iwb"}
+{"w": "producible", "pos": "adjective", "d": ["Capable of being produced or brought into existence."], "src": "iwb"}
+{"w": "productibility", "pos": "noun", "d": ["The quality of being producible; producibility."], "src": "iwb"}
+{"w": "productress", "pos": "noun", "d": ["A female producer."], "src": "iwb"}
+{"w": "productus", "pos": "noun", "d": ["A genus of extinct brachiopods common in Carboniferous rocks."], "src": "iwb"}
+{"w": "proeguminal", "pos": "adjective", "d": ["In ancient medicine, denoting the preceding or predisposing causes of a disease."], "src": "iwb"}
+{"w": "proem", "pos": "noun", "d": ["A preface or introduction to a discourse; an older form of preamble."], "src": "iwb"}
+{"w": "profanate", "pos": "verb", "d": ["To profane; to treat as unholy or common."], "src": "iwb"}
+{"w": "profanation", "pos": "noun", "d": ["The act of profaning; desecration."], "src": "iwb"}
+{"w": "profanity", "pos": "noun", "d": ["Blasphemous or obscene language; also, the quality of being profane."], "src": "iwb"}
+{"w": "profection", "pos": "noun", "d": ["A setting out on a journey.", "In astrology, a method of advancing the horoscope one sign per year of life."], "src": "iwb"}
+{"w": "profectitious", "pos": "adjective", "d": ["In Roman law, derived from a father's estate rather than acquired by the child."], "src": "iwb"}
+{"w": "profert", "pos": "noun", "d": ["In old legal pleading, the formal production of a deed in court."], "src": "iwb"}
+{"w": "professoriat", "pos": "noun", "d": ["The body of professors; the professoriate."], "src": "iwb"}
+{"w": "professoriate", "pos": "noun", "d": ["The office of professor; the whole body of professors."], "src": "iwb"}
+{"w": "proffer", "pos": "verb", "d": ["To offer or present for acceptance."], "src": "iwb"}
+{"w": "proficience", "pos": "noun", "d": ["Proficiency; skill in doing something."], "src": "iwb"}
+{"w": "proficiency", "pos": "noun", "d": ["A high degree of skill or competence in an art or subject."], "src": "iwb"}
+{"w": "proficient", "pos": "adjective", "d": ["Well advanced in skill; competent."], "src": "iwb"}
+{"w": "proficuous", "pos": "adjective", "d": ["Advantageous; yielding profit or benefit."], "src": "iwb"}
+{"w": "profilist", "pos": "noun", "d": ["One who draws or takes profile likenesses."], "src": "iwb"}
+{"w": "profligacy", "pos": "noun", "d": ["Shamelessly immoral or wasteful conduct; dissolute extravagance."], "src": "iwb"}
+{"w": "profligate", "pos": "adjective", "d": ["Abandoned to vice; recklessly extravagant."], "src": "iwb"}
+{"w": "profligation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "profundity", "pos": "noun", "d": ["Great depth, especially of thought or feeling."], "src": "iwb"}
+{"w": "profusive", "pos": "adjective", "d": ["Pouring forth freely; lavish."], "src": "iwb"}
+{"w": "prog", "pos": "noun", "d": ["Food or provisions, especially as obtained by begging or foraging."], "src": "iwb"}
+{"w": "progenitress", "pos": "noun", "d": ["A female ancestor; a woman from whom descent is traced."], "src": "iwb"}
+{"w": "progeny", "pos": "noun", "d": ["The offspring or descendants of a person or animal; also, the result of something."], "src": "iwb"}
+{"w": "proglottid", "pos": "noun", "d": ["One of the flat segments making up the body of a tapeworm."], "src": "iwb"}
+{"w": "prognathi", "pos": "noun", "d": ["In older anthropology, peoples distinguished by projecting jaws."], "src": "iwb"}
+{"w": "prognathism", "pos": "noun", "d": ["The condition of having the jaws project forward beyond the forehead line."], "src": "iwb"}
+{"w": "prognathous", "pos": "adjective", "d": ["Having the jaws projecting forward."], "src": "iwb"}
+{"w": "progne", "pos": "noun", "d": ["In Greek mythology, the sister of Philomela, changed into a swallow.", "A genus of large American swallows, including the purple martin."], "src": "iwb"}
+{"w": "prognosticator", "pos": "noun", "d": ["One who foretells future events; a predictor."], "src": "iwb"}
+{"w": "programma", "pos": "noun", "d": ["In ancient Greece, a public notice or edict posted in writing."], "src": "iwb"}
+{"w": "progressive party", "pos": "phrase", "d": ["A political party advocating social and political reform; in the United States, the party founded by Theodore Roosevelt in 1912."], "src": "iwb"}
+{"w": "proheme", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prohibit", "pos": "verb", "d": ["To forbid by law or authority; to prevent."], "src": "iwb"}
+{"w": "proin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "proke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prolapsion", "pos": "noun", "d": ["A prolapse; the slipping of a bodily organ from its normal place."], "src": "iwb"}
+{"w": "prolapsus", "pos": "noun", "d": ["The medical term for a prolapse."], "src": "iwb"}
+{"w": "prolatum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prolegomenary", "pos": "adjective", "d": ["Introductory; of the nature of a prolegomenon."], "src": "iwb"}
+{"w": "prolegomenon", "pos": "noun", "d": ["A preliminary discourse or introduction to a longer work."], "src": "iwb"}
+{"w": "prolepsis", "pos": "noun", "d": ["The rhetorical device of anticipating and answering an objection before it is raised; also, anticipation."], "src": "iwb"}
+{"w": "proleptic", "pos": "adjective", "d": ["Anticipatory; relating to prolepsis."], "src": "iwb"}
+{"w": "proletaire", "pos": "noun", "d": ["A proletarian; a member of the working class."], "src": "iwb"}
+{"w": "proletaneous", "pos": "adjective", "d": ["Belonging to the lowest class of citizens; plebeian."], "src": "iwb"}
+{"w": "proletarian", "pos": "adjective", "d": ["Relating to the working class."], "src": "iwb"}
+{"w": "proletariat", "pos": "noun", "d": ["The class of wage-earning workers; the lowest social class."], "src": "iwb"}
+{"w": "proletariate", "pos": "noun", "d": ["The proletariat; the body of working-class people."], "src": "iwb"}
+{"w": "proletary", "pos": "noun", "d": ["A proletarian; a member of the lowest class."], "src": "iwb"}
+{"w": "prolicide", "pos": "noun", "d": ["The killing of one's own offspring."], "src": "iwb"}
+{"w": "proliferate", "pos": "verb", "d": ["To multiply rapidly; to increase greatly in number."], "src": "iwb"}
+{"w": "proliferation", "pos": "noun", "d": ["Rapid increase or multiplication, as of cells or weapons."], "src": "iwb"}
+{"w": "proliferous", "pos": "adjective", "d": ["Producing offspring or new growths abundantly; in botany, bearing secondary flowers."], "src": "iwb"}
+{"w": "prolific", "pos": "adjective", "d": ["Producing abundantly; highly fruitful or creative."], "src": "iwb"}
+{"w": "prolificacy", "pos": "noun", "d": ["The quality of being prolific; fruitfulness."], "src": "iwb"}
+{"w": "prolix", "pos": "adjective", "d": ["Tediously long and wordy in speech or writing."], "src": "iwb"}
+{"w": "prolixious", "pos": "adjective", "d": ["Long-winded; prolix."], "src": "iwb"}
+{"w": "proll", "pos": "verb", "d": ["To prowl; to roam in search of prey or plunder."], "src": "iwb"}
+{"w": "prolocutor", "pos": "noun", "d": ["One who speaks for others; the presiding officer of the lower house of an Anglican convocation."], "src": "iwb"}
+{"w": "prologue", "pos": "noun", "d": ["An introductory part of a book, play, or film that sets the scene for what follows."], "src": "iwb"}
+{"w": "prolusion", "pos": "noun", "d": ["A short introductory performance, exercise, or piece written as a prelude to a larger work."], "src": "iwb"}
+{"w": "promenade", "pos": "noun", "d": ["A broad paved walkway for strolling, often along a waterfront or through a park."], "src": "iwb"}
+{"w": "promerops", "pos": "noun", "d": ["A genus of long-tailed South African birds, the sugarbirds, that feed on nectar."], "src": "iwb"}
+{"w": "promethea", "pos": "noun", "d": ["The promethea silkmoth, a North American moth known for its striking dark wings."], "src": "iwb"}
+{"w": "promethean", "pos": "adjective", "d": ["Boldly inventive and daring, like the mythic bringer of fire to humanity."], "src": "iwb"}
+{"w": "prometheus", "pos": "noun", "d": ["The Titan of Greek myth who stole fire from the gods and gave it to humankind."], "src": "iwb"}
+{"w": "prominence", "pos": "noun", "d": ["The state of being widely known or important.", "Something that juts out or projects from a surface."], "src": "iwb"}
+{"w": "prominency", "pos": "noun", "d": ["The quality or condition of standing out, whether by fame or by physical projection."], "src": "iwb"}
+{"w": "promiscuity", "pos": "noun", "d": ["The practice of having many casual sexual partners.", "A loose or indiscriminate mixture of things."], "src": "iwb"}
+{"w": "promiscuous", "pos": "adjective", "d": ["Having many casual sexual partners.", "Made up of a loose or indiscriminate mixture."], "src": "iwb"}
+{"w": "promisee", "pos": "noun", "d": ["The person to whom a promise is made."], "src": "iwb"}
+{"w": "promisor", "pos": "noun", "d": ["The person who makes a promise."], "src": "iwb"}
+{"w": "promissorily", "pos": "adverb", "d": ["In the manner of a promise; by way of making a promise."], "src": "iwb"}
+{"w": "promissory", "pos": "adjective", "d": ["Expressing or containing a promise, as in a promissory note."], "src": "iwb"}
+{"w": "prompt-book", "pos": "noun", "d": ["The prompter's copy of a play, marked with cues and stage directions."], "src": "iwb"}
+{"w": "prompt-note", "pos": "noun", "d": ["A brief written reminder or cue intended to jog the memory."], "src": "iwb"}
+{"w": "promptitude", "pos": "noun", "d": ["Readiness and quickness in acting; the habit of being prompt."], "src": "iwb"}
+{"w": "promptuary", "pos": "noun", "d": ["A storehouse or repository.", "A book of ready formulas or references."], "src": "iwb"}
+{"w": "promulgate", "pos": "verb", "d": ["To announce or proclaim a law or rule so that it becomes officially known."], "src": "iwb"}
+{"w": "promulgation", "pos": "noun", "d": ["The act of officially announcing or proclaiming a law or doctrine."], "src": "iwb"}
+{"w": "promulgator", "pos": "noun", "d": ["A person who officially announces or proclaims a law or doctrine."], "src": "iwb"}
+{"w": "promulge", "pos": "verb", "d": ["An older form of promulgate; to proclaim or announce officially."], "src": "iwb"}
+{"w": "promuscis", "pos": "noun", "d": ["The long, trunk-like feeding tube of an insect."], "src": "iwb"}
+{"w": "pronate", "pos": "verb", "d": ["To turn the palm of the hand or the forearm so that it faces downward."], "src": "iwb"}
+{"w": "pronator", "pos": "noun", "d": ["A muscle of the forearm that turns the palm downward."], "src": "iwb"}
+{"w": "prone", "pos": "adjective", "d": ["Lying flat with the face downward.", "Having a tendency or inclination toward something."], "src": "iwb"}
+{"w": "pronephric", "pos": "adjective", "d": ["Relating to the pronephros, the primitive kidney of a vertebrate embryo."], "src": "iwb"}
+{"w": "pronephron", "pos": "noun", "d": ["Another spelling of pronephros."], "src": "iwb"}
+{"w": "pronephros", "pos": "noun", "d": ["The simple, primitive kidney that forms first in a vertebrate embryo."], "src": "iwb"}
+{"w": "prong", "pos": "noun", "d": ["One of the slender pointed tines of a fork, rake, or similar tool."], "src": "iwb"}
+{"w": "prong-hoe", "pos": "noun", "d": ["A hoe whose blade is replaced by two or more prongs, used for loosening soil."], "src": "iwb"}
+{"w": "pronity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "pronounce", "pos": "verb", "d": ["To speak words aloud with their proper sounds.", "To declare formally or officially."], "src": "iwb"}
+{"w": "pronubial", "pos": "adjective", "d": ["Relating to marriage or weddings."], "src": "iwb"}
+{"w": "pronuncial", "pos": "adjective", "d": ["Relating to pronunciation."], "src": "iwb"}
+{"w": "pronunciamento", "pos": "noun", "d": ["A public proclamation or manifesto, especially one of political intent."], "src": "iwb"}
+{"w": "pronunciamiento", "pos": "noun", "d": ["A public declaration, historically one by which a military uprising was announced in Spanish-speaking countries."], "src": "iwb"}
+{"w": "pronunciation", "pos": "noun", "d": ["The accepted way of uttering the sounds of words in speech."], "src": "iwb"}
+{"w": "pronunciative", "pos": "adjective", "d": ["Relating to pronunciation; serving to indicate how a word is spoken."], "src": "iwb"}
+{"w": "pronunciator", "pos": "noun", "d": ["A person who pronounces words, especially one regarded as a standard for correct speech."], "src": "iwb"}
+{"w": "pronunciatory", "pos": "adjective", "d": ["Of or relating to the act or manner of pronunciation."], "src": "iwb"}
+{"w": "prooestracum", "pos": "noun", "d": ["Another spelling of proostracum."], "src": "iwb"}
+{"w": "prooetic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "proof-arm", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "proof-proof", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "proostracum", "pos": "noun", "d": ["The thin, forward-projecting part of the internal shell in belemnites, extinct squid-like cephalopods."], "src": "iwb"}
+{"w": "prop", "pos": "noun", "d": ["A sturdy support placed under or against something to hold it up.", "A movable object used on a stage or in a film."], "src": "iwb"}
+{"w": "propaedeutic", "pos": "adjective", "d": ["Serving as a preliminary introduction or preparation for further study of a subject."], "src": "iwb"}
+{"w": "propagable", "pos": "adjective", "d": ["Capable of being propagated, spread, or multiplied."], "src": "iwb"}
+{"w": "propaganda", "pos": "noun", "d": ["Information or material spread to promote a cause or viewpoint, often one-sided or misleading."], "src": "iwb"}
+{"w": "propagandism", "pos": "noun", "d": ["The practice or art of spreading propaganda."], "src": "iwb"}
+{"w": "propagandist", "pos": "noun", "d": ["A person who spreads propaganda."], "src": "iwb"}
+{"w": "propagation", "pos": "noun", "d": ["The act of spreading, multiplying, or transmitting something, from plants to ideas to waves."], "src": "iwb"}
+{"w": "propagative", "pos": "adjective", "d": ["Tending to propagate; relating to the spreading or multiplying of something."], "src": "iwb"}
+{"w": "propagator", "pos": "noun", "d": ["A person or thing that propagates.", "A covered tray or case used for germinating seeds and cuttings."], "src": "iwb"}
+{"w": "propagulum", "pos": "noun", "d": ["Any bud, spore, or other structure by which a plant reproduces itself."], "src": "iwb"}
+{"w": "propargyl", "pos": "noun", "d": ["A chemical group of three carbon atoms joined with a triple bond."], "src": "iwb"}
+{"w": "propel", "pos": "verb", "d": ["To drive, push, or urge forward."], "src": "iwb"}
+{"w": "propene", "pos": "noun", "d": ["A colorless flammable gas of three carbon atoms, used in making plastics."], "src": "iwb"}
+{"w": "propense", "pos": "adjective", "d": ["Inclined or disposed toward something; having a tendency."], "src": "iwb"}
+{"w": "propensity", "pos": "noun", "d": ["A natural inclination or tendency toward a particular behavior."], "src": "iwb"}
+{"w": "propenyl", "pos": "noun", "d": ["A three-carbon chemical group derived from propene."], "src": "iwb"}
+{"w": "properispome", "pos": "noun", "d": ["In Greek grammar, a word carrying a circumflex accent on its next-to-last syllable."], "src": "iwb"}
+{"w": "prophecy", "pos": "noun", "d": ["A prediction of future events, especially one claimed to come from divine inspiration."], "src": "iwb"}
+{"w": "prophesy", "pos": "verb", "d": ["To foretell the future, especially as if by divine inspiration."], "src": "iwb"}
+{"w": "prophetess", "pos": "noun", "d": ["A woman regarded as a prophet."], "src": "iwb"}
+{"w": "prophoric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prophragma", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prophylactic", "pos": "adjective", "d": ["Designed to prevent disease or harm before it occurs."], "src": "iwb"}
+{"w": "prophylaxis", "pos": "noun", "d": ["Treatment or measures taken to prevent disease."], "src": "iwb"}
+{"w": "propidene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "propination", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "propinquity", "pos": "noun", "d": ["Nearness in place, time, or relationship; closeness."], "src": "iwb"}
+{"w": "propinyl", "pos": "noun", "d": ["A three-carbon chemical group containing a triple bond, derived from propyne."], "src": "iwb"}
+{"w": "propiolate", "pos": "noun", "d": ["A salt or ester of propiolic acid."], "src": "iwb"}
+{"w": "propiolic", "pos": "adjective", "d": ["Relating to propiolic acid, an unsaturated acid with a triple bond."], "src": "iwb"}
+{"w": "propionate", "pos": "noun", "d": ["A salt or ester of propionic acid."], "src": "iwb"}
+{"w": "propione", "pos": "noun", "d": ["An older name for diethyl ketone, a colorless liquid used as a solvent."], "src": "iwb"}
+{"w": "propionyl", "pos": "noun", "d": ["A chemical group of three carbons and one oxygen, derived from propionic acid."], "src": "iwb"}
+{"w": "propithecus", "pos": "noun", "d": ["A genus of lemurs called sifakas, native to Madagascar."], "src": "iwb"}
+{"w": "propitiate", "pos": "verb", "d": ["To win back the favor of someone angered; to appease."], "src": "iwb"}
+{"w": "propitiation", "pos": "noun", "d": ["The act of appeasing or regaining favor; atonement."], "src": "iwb"}
+{"w": "propitiator", "pos": "noun", "d": ["A person who propitiates or appeases."], "src": "iwb"}
+{"w": "propitiatorily", "pos": "adverb", "d": ["In a manner meant to appease or win favor."], "src": "iwb"}
+{"w": "propitiatory", "pos": "adjective", "d": ["Serving to appease or to win back favor."], "src": "iwb"}
+{"w": "propitious", "pos": "adjective", "d": ["Presenting favorable conditions; likely to bring success."], "src": "iwb"}
+{"w": "propodial", "pos": "adjective", "d": ["Relating to the propodium, the front part of the foot in certain mollusks."], "src": "iwb"}
+{"w": "propodiale", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "propodite", "pos": "noun", "d": ["The sixth segment of a crustacean's leg, just before the claw-bearing tip."], "src": "iwb"}
+{"w": "propolis", "pos": "noun", "d": ["A sticky resinous substance that bees collect and use to seal and protect their hives."], "src": "iwb"}
+{"w": "proprietor", "pos": "noun", "d": ["A person who owns a business or property."], "src": "iwb"}
+{"w": "proprietress", "pos": "noun", "d": ["A woman who owns a business or property."], "src": "iwb"}
+{"w": "propriety", "pos": "noun", "d": ["Behavior that conforms to accepted standards.", "The quality of being proper or fitting."], "src": "iwb"}
+{"w": "propugn", "pos": "verb", "d": ["To defend or contend for, as in argument or battle."], "src": "iwb"}
+{"w": "propugnacle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "propulsory", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "propyl", "pos": "noun", "d": ["A chemical group made of three carbon atoms and seven hydrogen atoms."], "src": "iwb"}
+{"w": "propylaeum", "pos": "noun", "d": ["A grand gateway or entrance, especially the monumental entrance to the Acropolis at Athens."], "src": "iwb"}
+{"w": "propylene", "pos": "noun", "d": ["A colorless flammable gas used to make plastics and other chemicals."], "src": "iwb"}
+{"w": "propylidene", "pos": "noun", "d": ["A three-carbon hydrocarbon group that attaches to another molecule through a double bond."], "src": "iwb"}
+{"w": "prore", "pos": "noun", "d": ["The forward part, or prow, of a ship."], "src": "iwb"}
+{"w": "proreption", "pos": "noun", "d": ["The act of creeping or crawling slowly forward."], "src": "iwb"}
+{"w": "prorogate", "pos": "verb", "d": ["To discontinue a session of a legislative body for a time."], "src": "iwb"}
+{"w": "prosaism", "pos": "noun", "d": ["The quality of being ordinary, flat, and unpoetic in language or thought."], "src": "iwb"}
+{"w": "prosaist", "pos": "noun", "d": ["A person who writes prose."], "src": "iwb"}
+{"w": "proscenium", "pos": "noun", "d": ["The front part of a theater stage, including the arch that frames the playing area and separates it from the audience."], "src": "iwb"}
+{"w": "prose", "pos": "noun", "d": ["Ordinary written or spoken language that is not arranged in verse form."], "src": "iwb"}
+{"w": "prosecution", "pos": "noun", "d": ["The conducting of a criminal case against a person in court.", "The vigorous carrying on of a plan, task, or occupation."], "src": "iwb"}
+{"w": "prosecutor", "pos": "noun", "d": ["A lawyer who brings and argues a criminal case on behalf of the government."], "src": "iwb"}
+{"w": "prosecutrix", "pos": "noun", "d": ["A woman who conducts a legal prosecution."], "src": "iwb"}
+{"w": "proselyte", "pos": "noun", "d": ["A person converted from one belief, faith, or cause to another."], "src": "iwb"}
+{"w": "proselytism", "pos": "noun", "d": ["The practice of making converts to a religion, belief, or cause."], "src": "iwb"}
+{"w": "proselytize", "pos": "verb", "d": ["To try to convert someone to one's own religion, belief, or cause."], "src": "iwb"}
+{"w": "prosencephalic", "pos": "adjective", "d": ["Relating to the forebrain."], "src": "iwb"}
+{"w": "prosencephalon", "pos": "noun", "d": ["The front division of the vertebrate embryonic brain, which develops into the cerebrum and related structures."], "src": "iwb"}
+{"w": "prosenchyma", "pos": "noun", "d": ["Plant tissue composed of long, pointed, thick-walled cells."], "src": "iwb"}
+{"w": "prosiliency", "pos": "noun", "d": ["The act of leaping or springing forward."], "src": "iwb"}
+{"w": "prosily", "pos": "adverb", "d": ["In a dull, tedious, matter-of-fact manner."], "src": "iwb"}
+{"w": "prosimetrical", "pos": "adjective", "d": ["Combining prose and verse in the same work."], "src": "iwb"}
+{"w": "prosimiae", "pos": "noun", "d": ["The group of lower primates that includes the lemurs and their relatives."], "src": "iwb"}
+{"w": "prosiness", "pos": "noun", "d": ["The quality of being dull, flat, and commonplace in speech or writing."], "src": "iwb"}
+{"w": "prosobranch", "pos": "noun", "d": ["A marine snail whose gills lie in front of the heart."], "src": "iwb"}
+{"w": "prosobranchiata", "pos": "noun", "d": ["The order of gastropod mollusks whose gills are situated in front of the heart."], "src": "iwb"}
+{"w": "prosocoele", "pos": "noun", "d": ["The ventricle of the forebrain in a vertebrate embryo."], "src": "iwb"}
+{"w": "prosocoelia", "pos": "noun", "d": ["The cavity or ventricle of the embryonic forebrain."], "src": "iwb"}
+{"w": "prosodiacal", "pos": "adjective", "d": ["Relating to the rules of poetic meter and versification."], "src": "iwb"}
+{"w": "prosodian", "pos": "noun", "d": ["A person skilled in the study of poetic meter."], "src": "iwb"}
+{"w": "prosodical", "pos": "adjective", "d": ["Pertaining to the rhythmic structure of verse."], "src": "iwb"}
+{"w": "prosodist", "pos": "noun", "d": ["A student of or expert in poetic meter."], "src": "iwb"}
+{"w": "prosody", "pos": "noun", "d": ["The study of the rhythmic and sound patterns of poetry, including meter, rhyme, and stanza forms."], "src": "iwb"}
+{"w": "prosopalgia", "pos": "noun", "d": ["Severe pain along a nerve of the face."], "src": "iwb"}
+{"w": "prosopocephala", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prosopolepsy", "pos": "noun", "d": ["Respect of persons; undue favoritism toward one party."], "src": "iwb"}
+{"w": "prosopopoeia", "pos": "noun", "d": ["A figure of speech in which an absent or imaginary person is represented as speaking or acting."], "src": "iwb"}
+{"w": "prosopulmonata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prospector", "pos": "noun", "d": ["A person who searches for mineral deposits, especially gold or silver."], "src": "iwb"}
+{"w": "prospectus", "pos": "noun", "d": ["A printed statement describing a proposed enterprise, book, or stock issue, circulated to attract investors or subscribers."], "src": "iwb"}
+{"w": "prosphysis", "pos": "noun", "d": ["An outgrowth or appendage on a plant or animal organ."], "src": "iwb"}
+{"w": "prospicience", "pos": "noun", "d": ["The act or power of looking ahead; foresight."], "src": "iwb"}
+{"w": "prostatitis", "pos": "noun", "d": ["Inflammation of the prostate gland."], "src": "iwb"}
+{"w": "prosternation", "pos": "noun", "d": ["The act of throwing oneself flat on the ground, especially in reverence or submission."], "src": "iwb"}
+{"w": "prosthesis", "pos": "noun", "d": ["An artificial device that replaces a missing part of the body, such as an arm or a leg."], "src": "iwb"}
+{"w": "prosthetic", "pos": "adjective", "d": ["Relating to or serving as an artificial replacement for a missing body part."], "src": "iwb"}
+{"w": "prostibulous", "pos": "adjective", "d": ["Pertaining to prostitutes or prostitution."], "src": "iwb"}
+{"w": "prostitute", "pos": "noun", "d": ["A person who engages in sexual activity for payment."], "src": "iwb"}
+{"w": "prostitution", "pos": "noun", "d": ["The practice of engaging in sexual relations for money."], "src": "iwb"}
+{"w": "prostitutor", "pos": "noun", "d": ["One who offers another person for immoral purposes."], "src": "iwb"}
+{"w": "prostomium", "pos": "noun", "d": ["The region of a worm's body lying in front of the mouth."], "src": "iwb"}
+{"w": "prostrate", "pos": "adjective", "d": ["Lying stretched out face down on the ground, as in reverence or submission."], "src": "iwb"}
+{"w": "prostration", "pos": "noun", "d": ["The act of lying flat in submission or worship.", "Complete physical exhaustion or collapse."], "src": "iwb"}
+{"w": "prosy", "pos": "adjective", "d": ["Dull, tedious, and commonplace in style or manner."], "src": "iwb"}
+{"w": "prosylogism", "pos": "noun", "d": ["A syllogism whose conclusion serves as a premise of a following syllogism."], "src": "iwb"}
+{"w": "protagon", "pos": "noun", "d": ["A fatty, phosphorus-containing substance found in brain tissue."], "src": "iwb"}
+{"w": "protamin", "pos": "noun", "d": ["A simple protein obtained chiefly from the sperm of fishes."], "src": "iwb"}
+{"w": "protandric", "pos": "adjective", "d": ["Developing male reproductive organs before the female ones."], "src": "iwb"}
+{"w": "protandrous", "pos": "adjective", "d": ["Having male organs that mature before the female organs, as in some flowers and hermaphrodite animals."], "src": "iwb"}
+{"w": "protasis", "pos": "noun", "d": ["The clause expressing the condition in a conditional sentence.", "The introductory part of a classical drama."], "src": "iwb"}
+{"w": "protatic", "pos": "adjective", "d": ["Pertaining to the introductory part of a drama or to a conditional clause."], "src": "iwb"}
+{"w": "proteaceous", "pos": "adjective", "d": ["Belonging to or resembling the protea family of plants."], "src": "iwb"}
+{"w": "protean", "pos": "adjective", "d": ["Readily taking on different forms; extremely versatile."], "src": "iwb"}
+{"w": "protectingly", "pos": "adverb", "d": ["In a manner that protects; so as to give protection."], "src": "iwb"}
+{"w": "protector", "pos": "noun", "d": ["A person or thing that protects or defends."], "src": "iwb"}
+{"w": "protectress", "pos": "noun", "d": ["A woman who protects or defends."], "src": "iwb"}
+{"w": "protectrix", "pos": "noun", "d": ["A woman who protects."], "src": "iwb"}
+{"w": "protege", "pos": "noun", "d": ["A person who is guided and supported by an older or more influential person."], "src": "iwb"}
+{"w": "protegee", "pos": "noun", "d": ["A female protege."], "src": "iwb"}
+{"w": "proteid", "pos": "noun", "d": ["An older term for a protein, especially a nitrogenous substance of animal or plant tissue."], "src": "iwb"}
+{"w": "proteidea", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "proteiform", "pos": "adjective", "d": ["Capable of assuming many different shapes or forms."], "src": "iwb"}
+{"w": "proteinaceous", "pos": "adjective", "d": ["Consisting of or resembling protein."], "src": "iwb"}
+{"w": "proteles", "pos": "noun", "d": ["The aardwolf, a small African mammal related to the hyena."], "src": "iwb"}
+{"w": "proteolysis", "pos": "noun", "d": ["The breaking down of proteins into simpler substances, as by enzymes in digestion."], "src": "iwb"}
+{"w": "proteolytic", "pos": "adjective", "d": ["Causing or relating to the breakdown of proteins."], "src": "iwb"}
+{"w": "proteose", "pos": "noun", "d": ["A soluble product formed in the early stage of protein digestion."], "src": "iwb"}
+{"w": "proterandrous", "pos": "adjective", "d": ["Maturing male reproductive organs before the female ones."], "src": "iwb"}
+{"w": "proterandry", "pos": "noun", "d": ["The condition of maturing male reproductive organs before the female ones."], "src": "iwb"}
+{"w": "proteranthous", "pos": "adjective", "d": ["Producing flowers before the leaves appear."], "src": "iwb"}
+{"w": "proteroglypha", "pos": "noun", "d": ["The group of venomous snakes, including cobras and coral snakes, whose grooved fangs are fixed at the front of the upper jaw."], "src": "iwb"}
+{"w": "proterogynous", "pos": "adjective", "d": ["Having female reproductive organs that mature before the male ones."], "src": "iwb"}
+{"w": "proterosaurus", "pos": "noun", "d": ["An extinct early reptile of the Permian period."], "src": "iwb"}
+{"w": "protervity", "pos": "noun", "d": ["Peevishness; perverse or wayward temper."], "src": "iwb"}
+{"w": "protestancy", "pos": "noun", "d": ["The condition or character of being a Protestant."], "src": "iwb"}
+{"w": "protestingly", "pos": "adverb", "d": ["In a protesting manner; with protest or objection."], "src": "iwb"}
+{"w": "proteus", "pos": "noun", "d": ["A person or thing that changes form readily.", "A genus of bacteria that includes some species causing disease."], "src": "iwb"}
+{"w": "prothalamion", "pos": "noun", "d": ["A nuptial song or poem celebrating a marriage."], "src": "iwb"}
+{"w": "prothalamium", "pos": "noun", "d": ["A song or poem written to celebrate a wedding."], "src": "iwb"}
+{"w": "prothetic", "pos": "adjective", "d": ["Relating to the addition of a sound or letter at the beginning of a word.", "Relating to a prosthesis."], "src": "iwb"}
+{"w": "prothonotary", "pos": "noun", "d": ["A chief clerk or notary, especially of a court."], "src": "iwb"}
+{"w": "prothyalosome", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "protist", "pos": "noun", "d": ["Any of a diverse group of mostly single-celled organisms, such as amoebas and algae, that are neither animals, plants, nor fungi."], "src": "iwb"}
+{"w": "protista", "pos": "noun", "d": ["The kingdom of mostly single-celled organisms that are neither animals, plants, nor fungi."], "src": "iwb"}
+{"w": "protiston", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "protocanonical", "pos": "adjective", "d": ["Belonging to the first or original canon of the books of Scripture."], "src": "iwb"}
+{"w": "protocatechuic", "pos": "adjective", "d": ["Designating a crystalline acid obtained from catechin and other plant substances."], "src": "iwb"}
+{"w": "protocercal", "pos": "adjective", "d": ["Designating the primitive symmetrical tail fin of fishes, with the backbone running straight through it."], "src": "iwb"}
+{"w": "protococcus", "pos": "noun", "d": ["A genus of simple green algae growing in moist places."], "src": "iwb"}
+{"w": "protoconch", "pos": "noun", "d": ["The embryonic shell at the apex of a mollusk's shell."], "src": "iwb"}
+{"w": "protogine", "pos": "noun", "d": ["A variety of granite containing talc or chlorite."], "src": "iwb"}
+{"w": "protogynous", "pos": "adjective", "d": ["Having female organs that mature before the male ones."], "src": "iwb"}
+{"w": "protohippus", "pos": "noun", "d": ["An extinct three-toed mammal of the Miocene epoch regarded as an early ancestor of the horse."], "src": "iwb"}
+{"w": "protomartyr", "pos": "noun", "d": ["The first person to suffer martyrdom for a cause, faith, or place.", "Saint Stephen, the first Christian martyr."], "src": "iwb"}
+{"w": "protomerite", "pos": "noun", "d": ["The front section of the body of certain parasitic single-celled organisms, lying ahead of the part that holds the nucleus."], "src": "iwb"}
+{"w": "protometals", "pos": "noun", "d": ["The metals known to the earliest civilizations, such as gold, silver, copper, iron, tin, lead, and mercury."], "src": "iwb"}
+{"w": "protomorphic", "pos": "adjective", "d": ["Having a primitive or ancestral form; relating to the earliest known form of something."], "src": "iwb"}
+{"w": "protonema", "pos": "noun", "d": ["The threadlike first growth that sprouts from the spore of a moss or liverwort before the leafy plant develops."], "src": "iwb"}
+{"w": "protonotary", "pos": "noun", "d": ["The chief clerk of a court of law.", "A high official of the Roman Catholic Church."], "src": "iwb"}
+{"w": "protooerganism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "protoorganism", "pos": "noun", "d": ["A primitive or hypothetical earliest living organism."], "src": "iwb"}
+{"w": "protopapas", "pos": "noun", "d": ["A chief priest in the Eastern Orthodox Church."], "src": "iwb"}
+{"w": "protophyte", "pos": "noun", "d": ["A primitive plant, such as an alga, fungus, or bacterium."], "src": "iwb"}
+{"w": "protophytology", "pos": "noun", "d": ["The branch of botany that studies primitive plants."], "src": "iwb"}
+{"w": "protopine", "pos": "noun", "d": ["A bitter alkaloid found in poppies and related plants of the fumitory family."], "src": "iwb"}
+{"w": "protoplasm", "pos": "noun", "d": ["The living substance of a cell, made up of the cytoplasm and the material within the nucleus."], "src": "iwb"}
+{"w": "protoplasmatic", "pos": "adjective", "d": ["Relating to or consisting of protoplasm."], "src": "iwb"}
+{"w": "protoplast", "pos": "noun", "d": ["A plant, algal, or fungal cell with its outer wall removed.", "A hypothetical primitive cell from which living things were once thought to begin."], "src": "iwb"}
+{"w": "protoplasta", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "protopodite", "pos": "noun", "d": ["The basal segment of the limb of a crustacean."], "src": "iwb"}
+{"w": "protopope", "pos": "noun", "d": ["A senior or chief priest in the Eastern Orthodox Church; an archpriest."], "src": "iwb"}
+{"w": "protopterus", "pos": "noun", "d": ["A genus of African lungfishes that can breathe air and survive drought by burrowing in mud."], "src": "iwb"}
+{"w": "protosalt", "pos": "noun", "d": ["In old chemistry, a salt formed from a protoxide, the oxide with the least oxygen."], "src": "iwb"}
+{"w": "protosilicate", "pos": "noun", "d": ["In old chemistry, a silicate formed from a protoxide base."], "src": "iwb"}
+{"w": "protosomite", "pos": "noun", "d": ["One of the primitive segments of an embryo's body."], "src": "iwb"}
+{"w": "protosulphide", "pos": "noun", "d": ["In old chemistry, a sulphide containing the smallest proportion of sulphur."], "src": "iwb"}
+{"w": "protosulphuret", "pos": "noun", "d": ["An older form of the word protosulphide."], "src": "iwb"}
+{"w": "prototheria", "pos": "noun", "d": ["The subclass of egg-laying mammals, such as the platypus and the echidna."], "src": "iwb"}
+{"w": "prototracheata", "pos": "noun", "d": ["A primitive group of wormlike arthropods that includes the velvet worms."], "src": "iwb"}
+{"w": "protovertebra", "pos": "noun", "d": ["One of the primitive embryonic segments that develop into the vertebrae.", "A primitive or early form of vertebra in lower vertebrates."], "src": "iwb"}
+{"w": "protovertebral", "pos": "adjective", "d": ["Relating to a protovertebra."], "src": "iwb"}
+{"w": "protoxide", "pos": "noun", "d": ["In old chemistry, an oxide containing the smallest proportion of oxygen, such as ferrous oxide."], "src": "iwb"}
+{"w": "protoxidize", "pos": "verb", "d": ["To convert into a protoxide; to oxidize to the lowest degree."], "src": "iwb"}
+{"w": "protozoa", "pos": "noun", "d": ["A group of microscopic single-celled animals, such as amoebas and paramecia."], "src": "iwb"}
+{"w": "protozoan", "pos": "noun", "d": ["A single-celled microscopic animal; a protozoon."], "src": "iwb"}
+{"w": "protozoic", "pos": "adjective", "d": ["Relating to the protozoa.", "Of the earliest geological era in which traces of life appear."], "src": "iwb"}
+{"w": "protozooen", "pos": "noun", "d": ["An older form of protozoon; a microscopic single-celled animal."], "src": "iwb"}
+{"w": "protozooenite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "protozoon", "pos": "noun", "d": ["A microscopic single-celled animal, such as an amoeba."], "src": "iwb"}
+{"w": "protozoonite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "protreptical", "pos": "adjective", "d": ["Intended to persuade or urge to action; hortatory."], "src": "iwb"}
+{"w": "protrude", "pos": "verb", "d": ["To stick out or thrust forward beyond a surface or boundary.", "To cause to stick out."], "src": "iwb"}
+{"w": "protrusile", "pos": "adjective", "d": ["Capable of being thrust outward, as the tongue of a frog."], "src": "iwb"}
+{"w": "protrusive", "pos": "adjective", "d": ["Sticking out; tending to protrude."], "src": "iwb"}
+{"w": "protuberance", "pos": "noun", "d": ["A bulge, bump, or swelling projecting from a surface."], "src": "iwb"}
+{"w": "protuberancy", "pos": "noun", "d": ["The state of bulging outward; a protuberance."], "src": "iwb"}
+{"w": "protuberant", "pos": "adjective", "d": ["Bulging or swelling outward from a surface."], "src": "iwb"}
+{"w": "protuberate", "pos": "verb", "d": ["To swell or bulge outward; to form a protuberance."], "src": "iwb"}
+{"w": "protuberation", "pos": "noun", "d": ["The act or result of bulging outward."], "src": "iwb"}
+{"w": "protureter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "protyle", "pos": "noun", "d": ["A hypothetical primordial substance from which the chemical elements were once supposed to be formed."], "src": "iwb"}
+{"w": "proustite", "pos": "noun", "d": ["A ruby-red mineral of silver, arsenic, and sulphur, valued as a silver ore."], "src": "iwb"}
+{"w": "provand", "pos": "noun", "d": ["Food for livestock; provender.", "A person's allowance of food."], "src": "iwb"}
+{"w": "provect", "pos": "adjective", "d": ["Far advanced, especially in age."], "src": "iwb"}
+{"w": "proveditor", "pos": "noun", "d": ["A Venetian magistrate or governor.", "An official in charge of provisions or supplies."], "src": "iwb"}
+{"w": "provedore", "pos": "noun", "d": ["An official charged with providing supplies, especially for a fleet or army."], "src": "iwb"}
+{"w": "provence rose", "pos": "phrase", "d": ["The cabbage rose, a large fragrant pink rose grown in Provence, France."], "src": "iwb"}
+{"w": "provencial", "pos": "adjective", "d": ["Of or belonging to a province; provincial."], "src": "iwb"}
+{"w": "provenience", "pos": "noun", "d": ["The place of origin; the source from which something comes."], "src": "iwb"}
+{"w": "provenient", "pos": "adjective", "d": ["Coming forth; originating from a source."], "src": "iwb"}
+{"w": "proventriulus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "provexity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "provident", "pos": "adjective", "d": ["Showing care and foresight for the future; thrifty and prepared."], "src": "iwb"}
+{"w": "providore", "pos": "noun", "d": ["An official who provides supplies; a provedore."], "src": "iwb"}
+{"w": "provinciate", "pos": "verb", "d": ["To make into a province; to reduce to provincial status."], "src": "iwb"}
+{"w": "proviso", "pos": "noun", "d": ["A condition or stipulation added to an agreement, law, or document."], "src": "iwb"}
+{"w": "provisory", "pos": "adjective", "d": ["Containing a proviso; conditional.", "Temporary; serving for the time being."], "src": "iwb"}
+{"w": "provocatory", "pos": "adjective", "d": ["Tending to provoke; provocative."], "src": "iwb"}
+{"w": "provoke", "pos": "verb", "d": ["To stir to anger or action; to incite.", "To give rise to; to evoke."], "src": "iwb"}
+{"w": "provost", "pos": "noun", "d": ["The head of certain colleges and universities.", "The head of a cathedral chapter or a chief magistrate."], "src": "iwb"}
+{"w": "prow", "pos": "noun", "d": ["The front part of a ship; the bow."], "src": "iwb"}
+{"w": "prowess", "pos": "noun", "d": ["Great skill, bravery, or ability, especially in battle."], "src": "iwb"}
+{"w": "prowl", "pos": "verb", "d": ["To move about quietly and stealthily, as in hunting for prey.", "To roam through a place in a predatory or watchful way."], "src": "iwb"}
+{"w": "prox", "pos": "abbreviation", "d": ["Short for proximo; of next month."], "src": "iwb"}
+{"w": "proxene", "pos": "noun", "d": ["An older form of pyroxene, a group of dark-colored silicate minerals."], "src": "iwb"}
+{"w": "proxenet", "pos": "noun", "d": ["A go-between, especially in arranging marriages or illicit affairs; a procurer."], "src": "iwb"}
+{"w": "proximad", "pos": "adverb", "d": ["Toward the proximal end; toward the center or point of attachment."], "src": "iwb"}
+{"w": "proximal", "pos": "adjective", "d": ["Nearer to the center of the body or to the point of attachment; nearest."], "src": "iwb"}
+{"w": "proximate", "pos": "adjective", "d": ["Nearest in space, time, or relationship; immediate."], "src": "iwb"}
+{"w": "proxime", "pos": "adverb", "d": ["Very nearly; closely."], "src": "iwb"}
+{"w": "proximious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "proximity", "pos": "noun", "d": ["Nearness in space, time, or relationship."], "src": "iwb"}
+{"w": "proximo", "pos": "adverb", "d": ["In the next month; of next month."], "src": "iwb"}
+{"w": "pruce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "prude", "pos": "noun", "d": ["A person who is excessively modest or easily shocked, especially by matters of sex."], "src": "iwb"}
+{"w": "prudence", "pos": "noun", "d": ["Careful good judgment in managing practical affairs; caution."], "src": "iwb"}
+{"w": "prudency", "pos": "noun", "d": ["The quality of being prudent; prudence."], "src": "iwb"}
+{"w": "prudent", "pos": "adjective", "d": ["Showing careful, sensible judgment; cautious and discreet."], "src": "iwb"}
+{"w": "prudery", "pos": "noun", "d": ["Excessive modesty or primness, especially regarding sexual matters."], "src": "iwb"}
+{"w": "prudhomme", "pos": "noun", "d": ["A man of known honesty and good judgment.", "In France, a member of a council that settles labor disputes."], "src": "iwb"}
+{"w": "prudish", "pos": "adjective", "d": ["Excessively modest or prim, especially about sexual matters."], "src": "iwb"}
+{"w": "pruinate", "pos": "verb", "d": ["To cover with a frostlike powdery bloom."], "src": "iwb"}
+{"w": "pruinose", "pos": "adjective", "d": ["Covered with a powdery waxy bloom like frost."], "src": "iwb"}
+{"w": "pruinous", "pos": "adjective", "d": ["Frosty in appearance; covered with a powdery bloom."], "src": "iwb"}
+{"w": "prune", "pos": "verb", "d": ["To trim away dead or overgrown branches from a plant.", "To cut out as unwanted or superfluous."], "src": "iwb"}
+{"w": "prunella", "pos": "noun", "d": ["A genus of low-growing herbs with purple flower heads, including self-heal.", "A strong smooth fabric formerly used for shoes and clerical gowns."], "src": "iwb"}
+{"w": "prunelle", "pos": "noun", "d": ["A small dark wild plum.", "A French liqueur flavored with plums."], "src": "iwb"}
+{"w": "prunello", "pos": "noun", "d": ["A variety of plum; a small prune."], "src": "iwb"}
+{"w": "pruniferous", "pos": "adjective", "d": ["Bearing plums."], "src": "iwb"}
+{"w": "prunus", "pos": "noun", "d": ["The genus of flowering trees and shrubs that includes plums, cherries, peaches, apricots, and almonds."], "src": "iwb"}
+{"w": "prurience", "pos": "noun", "d": ["Itching.", "Lustful desire; lasciviousness."], "src": "iwb"}
+{"w": "pruriency", "pos": "noun", "d": ["The state of being prurient; prurience."], "src": "iwb"}
+{"w": "prurient", "pos": "adjective", "d": ["Having an unhealthy or excessive interest in sexual matters."], "src": "iwb"}
+{"w": "pruriginous", "pos": "adjective", "d": ["Relating to prurigo; marked by intense itching of the skin."], "src": "iwb"}
+{"w": "prurigo", "pos": "noun", "d": ["A chronic skin disease marked by severely itchy bumps or nodules."], "src": "iwb"}
+{"w": "pruritus", "pos": "noun", "d": ["Severe itching of the skin, often without any visible rash."], "src": "iwb"}
+{"w": "prussian", "pos": "adjective", "d": ["Of or relating to Prussia or its people."], "src": "iwb"}
+{"w": "prussiate", "pos": "noun", "d": ["Any of the salts derived from prussic acid."], "src": "iwb"}
+{"w": "prussic", "pos": "adjective", "d": ["Of or relating to prussic acid, a poisonous compound of hydrogen and cyanide."], "src": "iwb"}
+{"w": "prutenic", "pos": "adjective", "d": ["Of or relating to Prussia, especially the sixteenth-century Prutenic astronomical tables."], "src": "iwb"}
+{"w": "pry", "pos": "verb", "d": ["To look or inquire into things in a nosy, unwelcome way.", "To lift or force open with a lever."], "src": "iwb"}
+{"w": "pryan", "pos": "noun", "d": ["A soft, white clay found in Cornwall."], "src": "iwb"}
+{"w": "prytaneum", "pos": "noun", "d": ["In ancient Greece, a public hall where chief magistrates met and honored guests were entertained."], "src": "iwb"}
+{"w": "prytanis", "pos": "noun", "d": ["One of the chief magistrates of an ancient Greek city-state, especially Athens."], "src": "iwb"}
+{"w": "prytany", "pos": "noun", "d": ["In ancient Athens, the period during which the prytanes of one tribe held presiding office."], "src": "iwb"}
+{"w": "psalm", "pos": "noun", "d": ["A sacred song or poem, especially one of the 150 in the biblical Book of Psalms."], "src": "iwb"}
+{"w": "psalmistry", "pos": "noun", "d": ["The singing or use of psalms in religious worship."], "src": "iwb"}
+{"w": "psalmody", "pos": "noun", "d": ["The act or practice of singing psalms."], "src": "iwb"}
+{"w": "psalmograph", "pos": "noun", "d": ["A writer of psalms."], "src": "iwb"}
+{"w": "psalmography", "pos": "noun", "d": ["The act or practice of writing psalms or sacred songs."], "src": "iwb"}
+{"w": "psalter", "pos": "noun", "d": ["A book containing the Psalms, often together with hymns and prayers."], "src": "iwb"}
+{"w": "psalterium", "pos": "noun", "d": ["The third stomach of a ruminant animal."], "src": "iwb"}
+{"w": "psaltery", "pos": "noun", "d": ["An ancient stringed instrument played by plucking the strings."], "src": "iwb"}
+{"w": "psammite", "pos": "noun", "d": ["A sedimentary rock formed from consolidated sand."], "src": "iwb"}
+{"w": "psarolite", "pos": "noun", "d": ["A fossilized stem of a tree fern, common in Triassic sandstone."], "src": "iwb"}
+{"w": "psellism", "pos": "noun", "d": ["Stammering or otherwise defective pronunciation."], "src": "iwb"}
+{"w": "psephism", "pos": "noun", "d": ["A decree passed by vote of the assembly in ancient Athens."], "src": "iwb"}
+{"w": "pseudaesthesia", "pos": "noun", "d": ["A false or imagined sensation, such as feeling a limb that has been amputated."], "src": "iwb"}
+{"w": "pseudembryo", "pos": "noun", "d": ["A false embryo.", "An asexual form from which the true embryo develops by budding."], "src": "iwb"}
+{"w": "pseudepigraphic", "pos": "adjective", "d": ["Falsely attributed to an author other than the real one."], "src": "iwb"}
+{"w": "pseudepigraphous", "pos": "adjective", "d": ["Falsely ascribed to a supposed author."], "src": "iwb"}
+{"w": "pseudepigraphy", "pos": "noun", "d": ["The false attribution of a writing to someone other than its real author.", "Writings so falsely attributed, taken together."], "src": "iwb"}
+{"w": "pseudhaemal", "pos": "adjective", "d": ["Relating to the blood-vessel system of segmented worms such as earthworms."], "src": "iwb"}
+{"w": "pseudo-", "pos": "prefix", "d": ["A prefix meaning false, sham, or not genuine, as in pseudonym."], "src": "iwb"}
+{"w": "pseudo-hyperthophic", "pos": "adjective", "d": ["Appearing enlarged without true growth of the tissue, as in certain muscular disorders."], "src": "iwb"}
+{"w": "pseudobacteria", "pos": "noun", "d": ["Tiny lifeless particles or granules that resemble bacteria in shape and grouping."], "src": "iwb"}
+{"w": "pseudoblepsis", "pos": "noun", "d": ["Distorted vision in which objects appear different from what they are."], "src": "iwb"}
+{"w": "pseudobranch", "pos": "noun", "d": ["A reduced, nonfunctional gill found in some fishes."], "src": "iwb"}
+{"w": "pseudobranchia", "pos": "noun", "d": ["The rudimentary false gill of certain fishes."], "src": "iwb"}
+{"w": "pseudocarp", "pos": "noun", "d": ["A false fruit formed from flower parts other than the ovary."], "src": "iwb"}
+{"w": "pseudocoele", "pos": "noun", "d": ["A body cavity without a true lining, as found in roundworms."], "src": "iwb"}
+{"w": "pseudocoelia", "pos": "noun", "d": ["The condition of having a body cavity without a true lining."], "src": "iwb"}
+{"w": "pseudodox", "pos": "noun", "d": ["A false opinion or doctrine."], "src": "iwb"}
+{"w": "pseudofilaria", "pos": "noun", "d": ["One of the two threadlike young forms produced when a gregarine embryo divides during development."], "src": "iwb"}
+{"w": "pseudograph", "pos": "noun", "d": ["A forged or falsely attributed piece of writing."], "src": "iwb"}
+{"w": "pseudography", "pos": "noun", "d": ["False or deceptive writing; the making of spurious documents."], "src": "iwb"}
+{"w": "pseudohalter", "pos": "noun", "d": ["One of the rudimentary front wings of a stylops insect, resembling a fly's halter."], "src": "iwb"}
+{"w": "pseudologist", "pos": "noun", "d": ["A person who tells falsehoods; a habitual liar."], "src": "iwb"}
+{"w": "pseudology", "pos": "noun", "d": ["The practice of telling falsehoods; systematic lying."], "src": "iwb"}
+{"w": "pseudomorph", "pos": "noun", "d": ["A mineral that has taken on the outward crystal form of a different mineral."], "src": "iwb"}
+{"w": "pseudonavicella", "pos": "noun", "d": ["A minute boat-shaped embryonic form of a gregarine parasite."], "src": "iwb"}
+{"w": "pseudonavicula", "pos": "noun", "d": ["A minute spindle-shaped embryo of a gregarine or similar protozoan."], "src": "iwb"}
+{"w": "pseudoneuroptera", "pos": "noun", "d": ["A former group of net-winged insects, now divided among other orders."], "src": "iwb"}
+{"w": "pseudoneuropterous", "pos": "adjective", "d": ["Belonging to or resembling the former insect group Pseudoneuroptera."], "src": "iwb"}
+{"w": "pseudonym", "pos": "noun", "d": ["A false name used by an author or artist instead of the real one."], "src": "iwb"}
+{"w": "pseudopod", "pos": "noun", "d": ["A temporary arm-like extension of a cell, used by amoebas to move and feed."], "src": "iwb"}
+{"w": "pseudopodium", "pos": "noun", "d": ["A temporary footlike projection of a single-celled organism, used for movement and capturing food."], "src": "iwb"}
+{"w": "pseudopupa", "pos": "noun", "d": ["A resting stage between larval stages in insects that undergo hypermetamorphosis."], "src": "iwb"}
+{"w": "pseudorhabdite", "pos": "noun", "d": ["A rodlike particle found in the skin of certain flatworms."], "src": "iwb"}
+{"w": "pseudoscope", "pos": "noun", "d": ["An optical instrument that makes solid objects look hollow and hollow ones look solid."], "src": "iwb"}
+{"w": "pseudoscopic", "pos": "adjective", "d": ["Relating to the reversed-depth effect produced by a pseudoscope."], "src": "iwb"}
+{"w": "pseudoscorpiones", "pos": "noun", "d": ["An order of tiny tailless arachnids that resemble scorpions."], "src": "iwb"}
+{"w": "pseudosphere", "pos": "noun", "d": ["A surface of constant negative curvature, formed by revolving a tractrix curve."], "src": "iwb"}
+{"w": "pseudospore", "pos": "noun", "d": ["A body resembling a spore but not a true spore."], "src": "iwb"}
+{"w": "pseudostella", "pos": "noun", "d": ["Any starlike meteor or sky phenomenon that looks like a star."], "src": "iwb"}
+{"w": "pseudostoma", "pos": "noun", "d": ["A group of cells resembling a plant stoma but having no true opening."], "src": "iwb"}
+{"w": "pseudotetramera", "pos": "noun", "d": ["A former division of beetles whose feet appear four-jointed because one joint is minute and hidden."], "src": "iwb"}
+{"w": "pseudotinea", "pos": "noun", "d": ["The bee moth or wax moth, whose larvae feed on beeswax in hives."], "src": "iwb"}
+{"w": "pseudoturbinal", "pos": "noun", "d": ["An inward fold of the nasal wall in birds and reptiles, distinct from a true turbinate bone."], "src": "iwb"}
+{"w": "pseudovary", "pos": "noun", "d": ["The organ in a viviparous insect, such as an aphid, that produces false eggs."], "src": "iwb"}
+{"w": "pseudovum", "pos": "noun", "d": ["An egglike germ produced without fertilization by the asexual females of certain insects."], "src": "iwb"}
+{"w": "pshaw", "pos": "interjection", "d": ["An exclamation expressing contempt, disdain, or impatience."], "src": "iwb"}
+{"w": "psilanthropic", "pos": "adjective", "d": ["Holding that Christ was merely human and not divine."], "src": "iwb"}
+{"w": "psilanthropism", "pos": "noun", "d": ["The doctrine that Christ was only human and not divine."], "src": "iwb"}
+{"w": "psilanthropist", "pos": "noun", "d": ["One who holds that Christ was merely human."], "src": "iwb"}
+{"w": "psilanthropy", "pos": "noun", "d": ["The doctrine of the mere humanity of Christ."], "src": "iwb"}
+{"w": "psilology", "pos": "noun", "d": ["A love of empty or idle talk."], "src": "iwb"}
+{"w": "psilomelane", "pos": "noun", "d": ["A black mineral made up of manganese oxides."], "src": "iwb"}
+{"w": "psilopaedes", "pos": "noun", "d": ["Birds whose young hatch nearly naked, with down only along the feather tracts."], "src": "iwb"}
+{"w": "psilopaedic", "pos": "adjective", "d": ["Hatched with down only on the feather tracts, as the young of certain birds."], "src": "iwb"}
+{"w": "psilosopher", "pos": "noun", "d": ["A shallow pretender to philosophy; a sham philosopher."], "src": "iwb"}
+{"w": "psitta-co-fulvine", "pos": "noun", "d": ["A yellow pigment found in the feathers of certain parrots."], "src": "iwb"}
+{"w": "psittaceous", "pos": "adjective", "d": ["Of or relating to parrots."], "src": "iwb"}
+{"w": "psittaci", "pos": "noun", "d": ["The parrots considered as a taxonomic order."], "src": "iwb"}
+{"w": "psittacid", "pos": "noun", "d": ["A parrot; a member of the parrot family."], "src": "iwb"}
+{"w": "psoas", "pos": "noun", "d": ["Either of two muscles of the loin that connect the spine to the thigh bone."], "src": "iwb"}
+{"w": "psora", "pos": "noun", "d": ["A contagious, intensely itchy skin disease; scabies."], "src": "iwb"}
+{"w": "psoriasis", "pos": "noun", "d": ["A chronic skin disease marked by dry, scaly, reddish patches."], "src": "iwb"}
+{"w": "psoric", "pos": "adjective", "d": ["Relating to or affected with psora."], "src": "iwb"}
+{"w": "psorosperm", "pos": "noun", "d": ["A minute parasitic protozoan, often a young gregarine, that forms cysts in its host's tissues."], "src": "iwb"}
+{"w": "psychagogic", "pos": "adjective", "d": ["Tending to lead or influence the mind or soul."], "src": "iwb"}
+{"w": "psychagogue", "pos": "noun", "d": ["A leader or guide of souls.", "A person who claims to call up the spirits of the dead."], "src": "iwb"}
+{"w": "psychal", "pos": "adjective", "d": ["Of or relating to the mind or soul."], "src": "iwb"}
+{"w": "psychanalysis", "pos": "noun", "d": ["An older spelling of psychoanalysis."], "src": "iwb"}
+{"w": "psyche", "pos": "noun", "d": ["The human soul, mind, or spirit.", "A genus of small bagworm moths."], "src": "iwb"}
+{"w": "psychian", "pos": "noun", "d": ["Any small moth of the genus Psyche and related genera, whose larvae are called basket worms."], "src": "iwb"}
+{"w": "psychiatria", "pos": "noun", "d": ["The branch of medicine concerned with mental disorders; psychiatry."], "src": "iwb"}
+{"w": "psychiatric", "pos": "adjective", "d": ["Of or relating to psychiatry or to mental disorders."], "src": "iwb"}
+{"w": "psychic", "pos": "adjective", "d": ["Of or relating to the mind, especially to supposed powers beyond the physical senses.", "Claiming or seeming to have powers such as telepathy or clairvoyance."], "src": "iwb"}
+{"w": "psychism", "pos": "noun", "d": ["Belief in and study of psychic phenomena such as telepathy and clairvoyance."], "src": "iwb"}
+{"w": "psycho-", "pos": "prefix", "d": ["A prefix meaning mind or soul, as in psychology."], "src": "iwb"}
+{"w": "psychoanalysis", "pos": "noun", "d": ["A treatment for mental disorders that explores unconscious thoughts and conflicts, chiefly through guided conversation."], "src": "iwb"}
+{"w": "psychoanalytic", "pos": "adjective", "d": ["Relating to psychoanalysis, the treatment of mental disorders by exploring unconscious thoughts and memories."], "src": "iwb"}
+{"w": "psychogenesis", "pos": "noun", "d": ["The origin or development of a mental state, trait, or disorder within the mind."], "src": "iwb"}
+{"w": "psychography", "pos": "noun", "d": ["Writing supposed to be produced by spirits or by a hand acting without conscious control."], "src": "iwb"}
+{"w": "psychologic", "pos": "adjective", "d": ["Relating to psychology or to the workings of the mind."], "src": "iwb"}
+{"w": "psychologist", "pos": "noun", "d": ["A person trained in psychology who studies mental processes or treats mental disorders."], "src": "iwb"}
+{"w": "psychologue", "pos": "noun", "d": ["A psychologist, as the title is given in French."], "src": "iwb"}
+{"w": "psychomachy", "pos": "noun", "d": ["A literary or artistic work about the inner battle between good and evil within the soul."], "src": "iwb"}
+{"w": "psychomancy", "pos": "noun", "d": ["Divination supposed to work through communication with the souls of the dead."], "src": "iwb"}
+{"w": "psychometry", "pos": "noun", "d": ["The supposed power of learning facts about a person or event by touching an object connected with them."], "src": "iwb"}
+{"w": "psychopannychism", "pos": "noun", "d": ["The doctrine that the soul sleeps in an unconscious state between death and the resurrection."], "src": "iwb"}
+{"w": "psychopathy", "pos": "noun", "d": ["A personality disorder marked by lack of empathy, shallow feeling, and persistent antisocial behavior.", "In older general use, any mental disorder."], "src": "iwb"}
+{"w": "psychophysical", "pos": "adjective", "d": ["Relating to the connection between the mind and the body."], "src": "iwb"}
+{"w": "psychophysics", "pos": "noun", "d": ["The branch of psychology that studies how physical stimuli are perceived by the senses and the mind."], "src": "iwb"}
+{"w": "psychopomp", "pos": "noun", "d": ["In mythology, a spirit or deity that guides the souls of the dead to the afterlife."], "src": "iwb"}
+{"w": "psychosis", "pos": "noun", "d": ["A severe mental disorder in which a person loses touch with reality, as through delusions or hallucinations."], "src": "iwb"}
+{"w": "psychotherapeutics", "pos": "noun", "d": ["The branch of medicine concerned with treating mental disorders by psychological methods."], "src": "iwb"}
+{"w": "psychotherapy", "pos": "noun", "d": ["Treatment of mental and emotional disorders through talking and other psychological methods rather than drugs or surgery."], "src": "iwb"}
+{"w": "psychozoic", "pos": "adjective", "d": ["Relating to the most recent geologic era, the age in which human life exists."], "src": "iwb"}
+{"w": "psychrometer", "pos": "noun", "d": ["An instrument for measuring the humidity of the air, using a pair of thermometers, one with a moistened bulb."], "src": "iwb"}
+{"w": "psychrometrical", "pos": "adjective", "d": ["Relating to the measurement of atmospheric humidity."], "src": "iwb"}
+{"w": "psychrometry", "pos": "noun", "d": ["The measurement of the humidity of the air."], "src": "iwb"}
+{"w": "psylla", "pos": "noun", "d": ["A tiny jumping insect that feeds on plant sap; a plant louse."], "src": "iwb"}
+{"w": "ptarmigan", "pos": "noun", "d": ["An arctic grouse whose plumage changes from brown in summer to white in winter."], "src": "iwb"}
+{"w": "ptenoglossa", "pos": "noun", "d": ["A former group of carnivorous marine snails, now classed among the higher sea snails."], "src": "iwb"}
+{"w": "ptenoglossate", "pos": "adjective", "d": ["Belonging to or resembling the ptenoglossan sea snails."], "src": "iwb"}
+{"w": "pteranodon", "pos": "noun", "d": ["A large extinct flying reptile of the Cretaceous period, with a long toothless beak and a bony head crest."], "src": "iwb"}
+{"w": "pteranodontia", "pos": "noun", "d": ["A group of extinct flying reptiles that includes the pteranodon and its close relatives."], "src": "iwb"}
+{"w": "pterichthys", "pos": "noun", "d": ["An extinct armored fish of the Devonian period, with a flattened body covered in bony plates."], "src": "iwb"}
+{"w": "pteridologist", "pos": "noun", "d": ["A person who studies ferns."], "src": "iwb"}
+{"w": "pteridology", "pos": "noun", "d": ["The branch of botany concerned with ferns."], "src": "iwb"}
+{"w": "pteridomania", "pos": "noun", "d": ["A craze for collecting and growing ferns, especially in Victorian England."], "src": "iwb"}
+{"w": "pteridophyta", "pos": "noun", "d": ["A division of spore-bearing vascular plants that includes the ferns and their allies."], "src": "iwb"}
+{"w": "pterobranchia", "pos": "noun", "d": ["A small class of tiny marine animals related to the acorn worms."], "src": "iwb"}
+{"w": "pteroceras", "pos": "noun", "d": ["A genus of tropical marine snails with flared, fingerlike shell projections; the spider conchs."], "src": "iwb"}
+{"w": "pterocletes", "pos": "noun", "d": ["In older classifications, a distinct order of desert birds made up of the sandgrouse."], "src": "iwb"}
+{"w": "pterodactyl", "pos": "noun", "d": ["An extinct flying reptile of the Jurassic and Cretaceous periods with broad membranous wings."], "src": "iwb"}
+{"w": "pterodactyli", "pos": "noun", "d": ["A group of extinct flying reptiles allied to the pterodactyl."], "src": "iwb"}
+{"w": "pteroglossal", "pos": "adjective", "d": ["Relating to the toucans of the genus Pteroglossus."], "src": "iwb"}
+{"w": "pteron", "pos": "noun", "d": ["In ancient Greek architecture, the colonnade running around the outside of a temple.", "A wing or winglike structure."], "src": "iwb"}
+{"w": "pteropappi", "pos": "noun", "d": ["Winged seed appendages; the plural of pteropappus."], "src": "iwb"}
+{"w": "pterophore", "pos": "noun", "d": ["A plume moth, a small moth with deeply divided, featherlike wings."], "src": "iwb"}
+{"w": "pteropod", "pos": "noun", "d": ["A small swimming sea snail that moves with winglike flaps; a sea butterfly."], "src": "iwb"}
+{"w": "pteropoda", "pos": "noun", "d": ["An order of small pelagic sea snails that swim by means of winglike lobes."], "src": "iwb"}
+{"w": "pterosaur", "pos": "noun", "d": ["An extinct flying reptile of the Mesozoic era."], "src": "iwb"}
+{"w": "pterosauria", "pos": "noun", "d": ["The order of extinct flying reptiles that includes all the pterosaurs."], "src": "iwb"}
+{"w": "pterosaurian", "pos": "adjective", "d": ["Relating to the pterosaurs."], "src": "iwb"}
+{"w": "pterostigma", "pos": "noun", "d": ["A thickened, often darkened spot on the leading edge of an insect's wing, as in dragonflies."], "src": "iwb"}
+{"w": "pterotic", "pos": "noun", "d": ["A bone in the ear region of the skull in fishes."], "src": "iwb"}
+{"w": "pterygium", "pos": "noun", "d": ["A fleshy, triangular growth of tissue over the white of the eye.", "In zoology, a fin or winglike part."], "src": "iwb"}
+{"w": "pterygoid", "pos": "noun", "d": ["A bone of the palate in the skulls of vertebrates."], "src": "iwb"}
+{"w": "pterygomaxillary", "pos": "adjective", "d": ["Relating to the pterygoid process of the sphenoid bone and to the maxilla."], "src": "iwb"}
+{"w": "pterygopalatine", "pos": "adjective", "d": ["Relating to the pterygoid process of the sphenoid and to the palatine bone."], "src": "iwb"}
+{"w": "pterygopodium", "pos": "noun", "d": ["In male sharks and rays, a clasper used in mating."], "src": "iwb"}
+{"w": "pterygoquadrate", "pos": "adjective", "d": ["Relating to the pterygoid and quadrate bones of the skull."], "src": "iwb"}
+{"w": "pteryla", "pos": "noun", "d": ["A tract or band of feathers growing on a bird's skin."], "src": "iwb"}
+{"w": "pterylography", "pos": "noun", "d": ["The study of the arrangement of feathers on birds."], "src": "iwb"}
+{"w": "pterylosis", "pos": "noun", "d": ["The arrangement or pattern of feather tracts on a bird."], "src": "iwb"}
+{"w": "ptilocerque", "pos": "noun", "d": ["The pen-tailed tree shrew, a small Southeast Asian mammal with a featherlike tail."], "src": "iwb"}
+{"w": "ptilopaedes", "pos": "noun", "d": ["Birds whose young hatch covered with soft downy feathers."], "src": "iwb"}
+{"w": "ptilopaedic", "pos": "adjective", "d": ["Having young that hatch covered with down."], "src": "iwb"}
+{"w": "ptilopteri", "pos": "noun", "d": ["An older name for the order of birds consisting of the penguins."], "src": "iwb"}
+{"w": "ptilosis", "pos": "noun", "d": ["Loss or shedding of the eyelashes."], "src": "iwb"}
+{"w": "ptisan", "pos": "noun", "d": ["A drink made from barley water, formerly used as a mild medicine."], "src": "iwb"}
+{"w": "ptolemaic", "pos": "adjective", "d": ["Relating to the astronomer Ptolemy, especially to his earth-centered system of the universe."], "src": "iwb"}
+{"w": "ptolemaist", "pos": "noun", "d": ["A follower of Ptolemy's earth-centered system of astronomy."], "src": "iwb"}
+{"w": "ptomaine", "pos": "noun", "d": ["Any of various nitrogen compounds formed in decaying animal matter, once blamed for food poisoning."], "src": "iwb"}
+{"w": "ptosis", "pos": "noun", "d": ["Drooping of the upper eyelid."], "src": "iwb"}
+{"w": "ptyalin", "pos": "noun", "d": ["An enzyme in saliva that begins the digestion of starch."], "src": "iwb"}
+{"w": "ptyalism", "pos": "noun", "d": ["An excessive flow of saliva."], "src": "iwb"}
+{"w": "ptyalogogue", "pos": "noun", "d": ["A substance that stimulates the flow of saliva."], "src": "iwb"}
+{"w": "ptysmagogue", "pos": "noun", "d": ["A medicine that promotes expectoration; an expectorant."], "src": "iwb"}
+{"w": "ptyxis", "pos": "noun", "d": ["The way young leaves are folded or arranged within a bud."], "src": "iwb"}
+{"w": "pubble", "pos": "adjective", "d": ["Puffed out and plump; an obsolete word for pudgy."], "src": "iwb"}
+{"w": "puberal", "pos": "adjective", "d": ["Relating to puberty."], "src": "iwb"}
+{"w": "puberty", "pos": "noun", "d": ["The stage of physical development at which a person becomes capable of sexual reproduction."], "src": "iwb"}
+{"w": "puberulent", "pos": "adjective", "d": ["Covered with fine, short, soft hairs, as a leaf or stem."], "src": "iwb"}
+{"w": "pubes", "pos": "noun", "d": ["The hair that appears on the lower abdomen at puberty.", "The pubic region of the body."], "src": "iwb"}
+{"w": "pubescence", "pos": "noun", "d": ["The arrival of puberty.", "A covering of soft, short hairs on a plant or animal."], "src": "iwb"}
+{"w": "pubescency", "pos": "noun", "d": ["The state of being pubescent; pubescence."], "src": "iwb"}
+{"w": "pubic", "pos": "adjective", "d": ["Relating to the pubes or to the front of the pelvis."], "src": "iwb"}
+{"w": "pubis", "pos": "noun", "d": ["The forward bone of the pelvis, meeting its fellow at the midline."], "src": "iwb"}
+{"w": "public school", "pos": "phrase", "d": ["In the United States, a free school supported by public taxes.", "In England, a private fee-charging secondary school."], "src": "iwb"}
+{"w": "public-hearted", "pos": "adjective", "d": ["Generous in working for the good of the community."], "src": "iwb"}
+{"w": "public-minded", "pos": "adjective", "d": ["Concerned with the welfare of the public."], "src": "iwb"}
+{"w": "public-service corporation", "pos": "phrase", "d": ["A company chartered to supply an essential public service, such as water or electricity."], "src": "iwb"}
+{"w": "public-spirited", "pos": "adjective", "d": ["Acting from concern for the public good."], "src": "iwb"}
+{"w": "publican", "pos": "noun", "d": ["In Britain, the keeper of a pub.", "In ancient Rome and in the Bible, a collector of taxes."], "src": "iwb"}
+{"w": "publicity pamphlet", "pos": "phrase", "d": ["A small printed booklet issued to advertise or promote something."], "src": "iwb"}
+{"w": "puccoon", "pos": "noun", "d": ["Any of several North American plants yielding a red or yellow dye, such as bloodroot."], "src": "iwb"}
+{"w": "puce", "pos": "adjective", "d": ["Of a dark reddish-brown color."], "src": "iwb"}
+{"w": "pucel", "pos": "noun", "d": ["An old word for a young unmarried woman; a maiden."], "src": "iwb"}
+{"w": "pucelle", "pos": "noun", "d": ["A maiden or virgin; famously, the title of Joan of Arc, the Maid of Orléans."], "src": "iwb"}
+{"w": "puceron", "pos": "noun", "d": ["A plant louse; an aphid."], "src": "iwb"}
+{"w": "pucherite", "pos": "noun", "d": ["A rare mineral composed of bismuth vanadium oxide."], "src": "iwb"}
+{"w": "puck", "pos": "noun", "d": ["A mischievous woodland sprite in folklore and in Shakespeare.", "A hard rubber disk used in ice hockey."], "src": "iwb"}
+{"w": "pucka", "pos": "adjective", "d": ["Genuine and of good quality; a variant spelling of pukka."], "src": "iwb"}
+{"w": "puckery", "pos": "adjective", "d": ["Causing the mouth to pucker, as a tart fruit does."], "src": "iwb"}
+{"w": "pucras", "pos": "noun", "d": ["The koklass pheasant, a pheasant of the Himalayan region also called the pucras pheasant."], "src": "iwb"}
+{"w": "pud", "pos": "noun", "d": ["A small lump or swelling.", "A Russian unit of weight equal to about thirty-six pounds."], "src": "iwb"}
+{"w": "puddening", "pos": "noun", "d": ["Padding of rope or canvas wrapped around a ship's mast or anchor ring to prevent chafing."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

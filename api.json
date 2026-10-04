@@ -4,7 +4,7 @@
   "creator": "Justin Addam Higgins (JAH)",
   "description": "Manon's own Signature Dictionary: every English word with original definitions, read-aloud, word programs, and a personal AI teacher.",
   "for_bots": "Machine-readable manifest. Humans use the site above; bots, scrapers, and AI assistants should use the endpoints below — plain JSON/JSONL over HTTPS, no JavaScript needed.",
-  "records_approx": 845058,
+  "records_approx": 857603,
   "records_as_of": "2026-10-04",
   "note": "Counts grow on automated schedules; re-read this file for the latest shape of the data.",
   "endpoints": [
@@ -16,7 +16,7 @@
     {
       "path": "data/dict/<chunk>.jsonl.gz",
       "format": "gzipped jsonl",
-      "desc": "Dictionary entries, one JSON object per line (846 chunks, 1000 entries each)."
+      "desc": "Dictionary entries, one JSON object per line (858 chunks, 1000 entries each)."
     },
     {
       "path": "data/index/stamp.idx.json.gz",
@@ -51,10 +51,10 @@
   "raw_example": "https://raw.githubusercontent.com/justinahiggins614-cmyk/jah-dictionary/master/data/index/dict.idx.json.gz",
   "sitemap": "https://justinahiggins614-cmyk.github.io/jah-dictionary/sitemap-index.xml",
   "schema_version": "1.1",
-  "catalog_revision": 13,
-  "generated_at": "2026-10-04T00:52:29+00:00",
-  "defined": 84379,
-  "defined_authored": 43023,
+  "catalog_revision": 14,
+  "generated_at": "2026-10-04T02:53:49+00:00",
+  "defined": 85179,
+  "defined_authored": 43823,
   "defined_template": 41356,
-  "pending_definitions": 17844
+  "pending_definitions": 17044
 }

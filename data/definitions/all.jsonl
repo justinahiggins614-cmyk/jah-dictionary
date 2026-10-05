@@ -56621,6 +56621,806 @@
 {"w": "tube-nosed", "pos": "adjective", "d": ["Having the nostrils drawn out into tubes along the beak, as in certain seabirds."], "src": "iwb"}
 {"w": "tube-shell", "pos": "noun", "d": ["A bivalve mollusk that builds a shelly tube around its siphon."], "src": "iwb"}
 {"w": "tubercle", "pos": "noun", "d": ["A small rounded lump or knob on a bone, leaf, or other surface.", "A nodule formed in the body by tuberculosis."], "src": "iwb"}
+{"w": "tubercular", "pos": "adjective", "d": ["Having small rounded bumps or tubercles on the surface.", "Affected by or relating to tuberculosis."], "src": "iwb"}
+{"w": "tuberculate", "pos": "adjective", "d": ["Covered with small rounded bumps or tubercles.", "Related to tuberculosis."], "src": "iwb"}
+{"w": "tuberculin", "pos": "noun", "d": ["A protein extract from tuberculosis bacteria used in skin tests to detect tuberculosis infection."], "src": "iwb"}
+{"w": "tuberculin test", "pos": "phrase", "d": ["A skin test that checks for tuberculosis infection by injecting a small amount of tuberculin under the skin."], "src": "iwb"}
+{"w": "tuberculization", "pos": "noun", "d": ["The formation of tubercles or the spread of tubercular disease in the body."], "src": "iwb"}
+{"w": "tuberculocidin", "pos": "noun", "d": ["A substance obtained from tubercle bacilli once thought to kill those bacteria."], "src": "iwb"}
+{"w": "tuberculoid", "pos": "adjective", "d": ["Resembling tuberculosis or a tubercle in appearance."], "src": "iwb"}
+{"w": "tuberculose", "pos": "noun", "d": ["An older term for tuberculosis."], "src": "iwb"}
+{"w": "tuberculosis", "pos": "noun", "d": ["A serious infectious disease, usually of the lungs, caused by tuberculosis bacteria."], "src": "iwb"}
+{"w": "tuberculous", "pos": "adjective", "d": ["Affected by or relating to tuberculosis."], "src": "iwb"}
+{"w": "tuberculum", "pos": "noun", "d": ["A small rounded bump or tubercle, especially in anatomy."], "src": "iwb"}
+{"w": "tuberiferous", "pos": "adjective", "d": ["Bearing or producing tubers."], "src": "iwb"}
+{"w": "tuberosity", "pos": "noun", "d": ["A rounded projection or swelling, especially on a bone."], "src": "iwb"}
+{"w": "tubicinate", "pos": "adjective", "d": ["Trumpet-shaped."], "src": "iwb"}
+{"w": "tubicolae", "pos": "noun", "d": ["A group of worms and similar animals that live in tubes they build or inhabit."], "src": "iwb"}
+{"w": "tubicolar", "pos": "adjective", "d": ["Living in a tube or tube-dwelling."], "src": "iwb"}
+{"w": "tubicole", "pos": "noun", "d": ["An animal that lives in a tube, such as certain worms."], "src": "iwb"}
+{"w": "tubicolous", "pos": "adjective", "d": ["Dwelling in tubes."], "src": "iwb"}
+{"w": "tubicorn", "pos": "noun", "d": ["A hoofed animal with hollow horns, such as an antelope or sheep."], "src": "iwb"}
+{"w": "tubiform", "pos": "adjective", "d": ["Tube-shaped."], "src": "iwb"}
+{"w": "tubinares", "pos": "noun", "d": ["Birds having tube-shaped nostrils, such as petrels and albatrosses."], "src": "iwb"}
+{"w": "tubipora", "pos": "noun", "d": ["A genus of corals having tubular polyps, including the organ-pipe coral."], "src": "iwb"}
+{"w": "tubipore", "pos": "noun", "d": ["A coral of the organ-pipe group, with tube-shaped polyps."], "src": "iwb"}
+{"w": "tubiporite", "pos": "noun", "d": ["A fossil organ-pipe coral."], "src": "iwb"}
+{"w": "tubivalve", "pos": "adjective", "d": ["Having a tube-shaped shell valve."], "src": "iwb"}
+{"w": "tubular", "pos": "adjective", "d": ["Shaped like a tube.", "Made with or consisting of tubes."], "src": "iwb"}
+{"w": "tubularia", "pos": "noun", "d": ["A genus of tube-dwelling hydroids with branched, feathery colonies."], "src": "iwb"}
+{"w": "tubulariae", "pos": "noun", "d": ["A group of hydroids that live in tubes and have tubular stems."], "src": "iwb"}
+{"w": "tubularian", "pos": "noun", "d": ["A hydroid belonging to the tubulariae group."], "src": "iwb"}
+{"w": "tubularida", "pos": "noun", "d": ["An order of hydroids with tubular polyps."], "src": "iwb"}
+{"w": "tubulate", "pos": "verb", "d": ["To shape into a tube or furnish with tubes."], "src": "iwb"}
+{"w": "tubulation", "pos": "noun", "d": ["The act of forming into tubes or the state of being tubed."], "src": "iwb"}
+{"w": "tubulature", "pos": "noun", "d": ["A system of tubes taken together."], "src": "iwb"}
+{"w": "tubulibranchian", "pos": "noun", "d": ["A sea creature with tube-like gills, especially a kind of tunicate."], "src": "iwb"}
+{"w": "tubulibranchiata", "pos": "noun", "d": ["A group of tunicates having tube-like gill openings."], "src": "iwb"}
+{"w": "tubulicole", "pos": "noun", "d": ["An animal that dwells in a tube."], "src": "iwb"}
+{"w": "tubulidentate", "pos": "noun", "d": ["A mammal of the order including the aardvark, having tubular teeth."], "src": "iwb"}
+{"w": "tubuliform", "pos": "adjective", "d": ["Shaped like a tube."], "src": "iwb"}
+{"w": "tubulipore", "pos": "noun", "d": ["A bryozoan with tubular openings in its colony."], "src": "iwb"}
+{"w": "tubulose", "pos": "adjective", "d": ["Having a tube-like form or structure."], "src": "iwb"}
+{"w": "tubulous", "pos": "adjective", "d": ["Furnished with tubes or shaped like a tube."], "src": "iwb"}
+{"w": "tubulure", "pos": "noun", "d": ["A short tube, especially a side tube on a glass vessel used in laboratories."], "src": "iwb"}
+{"w": "tucan", "pos": "noun", "d": ["An older spelling of toucan, a large-billed tropical bird."], "src": "iwb"}
+{"w": "tucet", "pos": "noun", "d": ["A musical flourish once sounded by trumpets at a feast or entrance."], "src": "iwb"}
+{"w": "tuch", "pos": "noun", "d": ["A Scots word for a touch or slight hint of something."], "src": "iwb"}
+{"w": "tuck", "pos": "verb", "d": ["To fold part of cloth or paper under or into a smaller space.", "To press or roll bedding snugly around someone."], "src": "iwb"}
+{"w": "tuck pointing", "pos": "phrase", "d": ["A masonry technique in which brick mortar joints are finished with a thin raised line of white mortar."], "src": "iwb"}
+{"w": "tuck-net", "pos": "noun", "d": ["A small fishing net with a tucked or gathered pocket for trapping fish."], "src": "iwb"}
+{"w": "tuckahoe", "pos": "noun", "d": ["A starchy edible root of an American plant, sometimes called Indian bread.", "A native or resident of Virginia, used as a nickname."], "src": "iwb"}
+{"w": "tucket", "pos": "noun", "d": ["A flourish of trumpets announcing something grand."], "src": "iwb"}
+{"w": "tucum", "pos": "noun", "d": ["A South American palm whose strong fiber is used for cordage and bowstrings."], "src": "iwb"}
+{"w": "tucuma", "pos": "noun", "d": ["A Brazilian palm bearing edible fruit and useful fiber."], "src": "iwb"}
+{"w": "tudor", "pos": "adjective", "d": ["Relating to the Tudor dynasty of English monarchs or their architectural style."], "src": "iwb"}
+{"w": "tue-iron", "pos": "noun", "d": ["A nozzle or pipe that delivers the air blast into a forge."], "src": "iwb"}
+{"w": "tuet", "pos": "noun", "d": ["A small tuft or tassel of feathers, wool, or grass."], "src": "iwb"}
+{"w": "tuf-taffeta", "pos": "noun", "d": ["A kind of stiff, puffed silk fabric with a shaggy or tufted surface."], "src": "iwb"}
+{"w": "tufa", "pos": "noun", "d": ["A porous limestone formed around springs where mineral water deposits lime."], "src": "iwb"}
+{"w": "tufaceous", "pos": "adjective", "d": ["Made of or resembling tufa."], "src": "iwb"}
+{"w": "tuff", "pos": "noun", "d": ["A rock formed from compacted volcanic ash."], "src": "iwb"}
+{"w": "tuft", "pos": "noun", "d": ["A bunch of grass, feathers, threads, or hair held together at one end."], "src": "iwb"}
+{"w": "tufty", "pos": "adjective", "d": ["Growing in or covered with tufts."], "src": "iwb"}
+{"w": "tug", "pos": "verb", "d": ["To pull hard or suddenly with force.", "A boat that tows other vessels."], "src": "iwb"}
+{"w": "tugan", "pos": "noun", "d": ["An African antelope, the gnu or wildebeest."], "src": "iwb"}
+{"w": "tuggingly", "pos": "adverb", "d": ["In a way that tugs or pulls repeatedly."], "src": "iwb"}
+{"w": "tuille", "pos": "noun", "d": ["A steel plate hanging from medieval armor to protect the thigh."], "src": "iwb"}
+{"w": "tuko-tuko", "pos": "noun", "d": ["A burrowing South American rodent that makes a tuko-tuko sound."], "src": "iwb"}
+{"w": "tula metal", "pos": "phrase", "d": ["An alloy of silver, copper, and lead nielloed for inlaid decorative work, originally from Tula, Russia."], "src": "iwb"}
+{"w": "tule", "pos": "noun", "d": ["A tall sedge or bulrush growing in western North American marshes."], "src": "iwb"}
+{"w": "tulip", "pos": "noun", "d": ["A spring-flowering bulb plant with cup-shaped blooms in many colors."], "src": "iwb"}
+{"w": "tulip-eared", "pos": "adjective", "d": ["Having upright ears shaped like tulip petals, said of certain dogs or horses."], "src": "iwb"}
+{"w": "tulip-shell", "pos": "noun", "d": ["A large, ornately marked marine snail shell shaped like a tulip."], "src": "iwb"}
+{"w": "tulipomania", "pos": "noun", "d": ["An irrational craze for buying something, originally the Dutch speculative frenzy over tulip bulbs in the 1630s."], "src": "iwb"}
+{"w": "tulipomaniac", "pos": "noun", "d": ["One caught up in a tulipomania."], "src": "iwb"}
+{"w": "tull", "pos": "noun", "d": ["A kind of silk net or bobbinet used for veils and dresses."], "src": "iwb"}
+{"w": "tulle", "pos": "noun", "d": ["A fine, sheer net fabric used for veils, gowns, and ballet skirts."], "src": "iwb"}
+{"w": "tullian", "pos": "adjective", "d": ["Relating to Servius Tullius, an early Roman king, or his institutions."], "src": "iwb"}
+{"w": "tullibee", "pos": "noun", "d": ["A small freshwater whitefish of northern North American lakes."], "src": "iwb"}
+{"w": "tum-tum", "pos": "noun", "d": ["The sound of a drumbeat or of a heart pounding."], "src": "iwb"}
+{"w": "tumble", "pos": "verb", "d": ["To fall over or roll about in a sudden, clumsy way.", "To drop sharply in price or value."], "src": "iwb"}
+{"w": "tumble-down", "pos": "adjective", "d": ["Falling into ruin; dilapidated."], "src": "iwb"}
+{"w": "tumbrel", "pos": "noun", "d": ["A two-wheeled farm cart that tips to dump its load.", "A cart that carried condemned prisoners to the guillotine during the French Revolution."], "src": "iwb"}
+{"w": "tumbril", "pos": "noun", "d": ["Another spelling of tumbrel, a tipping cart."], "src": "iwb"}
+{"w": "tumefacient", "pos": "adjective", "d": ["Causing swelling or a tumor."], "src": "iwb"}
+{"w": "tumefaction", "pos": "noun", "d": ["The process of swelling or becoming swollen."], "src": "iwb"}
+{"w": "tumefy", "pos": "verb", "d": ["To swell or cause to swell."], "src": "iwb"}
+{"w": "tumescence", "pos": "noun", "d": ["The state of being swollen, especially of a body part."], "src": "iwb"}
+{"w": "tumescent", "pos": "adjective", "d": ["Swollen or becoming swollen."], "src": "iwb"}
+{"w": "tumid", "pos": "adjective", "d": ["Swollen or bulging.", "Pompous or inflated in style."], "src": "iwb"}
+{"w": "tummals", "pos": "noun", "d": ["A Scots word for tumblers or glass cups."], "src": "iwb"}
+{"w": "tump", "pos": "noun", "d": ["A small hill or mound."], "src": "iwb"}
+{"w": "tumular", "pos": "adjective", "d": ["Relating to burial mounds or tumuli."], "src": "iwb"}
+{"w": "tumulate", "pos": "verb", "d": ["To cover with a burial mound."], "src": "iwb"}
+{"w": "tumulose", "pos": "adjective", "d": ["Full of mounds or small hills."], "src": "iwb"}
+{"w": "tumulosity", "pos": "noun", "d": ["The state of being full of mounds."], "src": "iwb"}
+{"w": "tumulous", "pos": "adjective", "d": ["Marked by mounds or small hills."], "src": "iwb"}
+{"w": "tumult", "pos": "noun", "d": ["A loud, confused uproar or commotion."], "src": "iwb"}
+{"w": "tumultuarily", "pos": "adverb", "d": ["In a tumultuous or disorderly manner."], "src": "iwb"}
+{"w": "tumultuariness", "pos": "noun", "d": ["The quality of being tumultuary or disorderly."], "src": "iwb"}
+{"w": "tumultuary", "pos": "adjective", "d": ["Occurring hastily or in disorder; made for the occasion rather than carefully planned."], "src": "iwb"}
+{"w": "tumultuate", "pos": "verb", "d": ["To make a tumult or uproar."], "src": "iwb"}
+{"w": "tumultuation", "pos": "noun", "d": ["The act of making a tumult."], "src": "iwb"}
+{"w": "tumultuous", "pos": "adjective", "d": ["Wildly noisy and disorderly.", "Marked by great commotion or confusion."], "src": "iwb"}
+{"w": "tumulus", "pos": "noun", "d": ["An ancient burial mound."], "src": "iwb"}
+{"w": "tun", "pos": "noun", "d": ["A large cask for wine or beer."], "src": "iwb"}
+{"w": "tun-bellied", "pos": "adjective", "d": ["Having a big round belly like a tun."], "src": "iwb"}
+{"w": "tun-dish", "pos": "noun", "d": ["A wooden funnel used to fill a tun or cask."], "src": "iwb"}
+{"w": "tun-great", "pos": "adjective", "d": ["As big as a tun; huge."], "src": "iwb"}
+{"w": "tuna", "pos": "noun", "d": ["A large fast-swimming ocean fish prized as food.", "The edible fruit of the prickly pear cactus."], "src": "iwb"}
+{"w": "tundra", "pos": "noun", "d": ["A vast treeless arctic plain with permanently frozen subsoil."], "src": "iwb"}
+{"w": "tungstate", "pos": "noun", "d": ["A salt of tungstic acid."], "src": "iwb"}
+{"w": "tungsten", "pos": "noun", "d": ["A very hard, dense metal with the highest melting point of all metals, used in lamp filaments and steel alloys."], "src": "iwb"}
+{"w": "tungsten lamp", "pos": "phrase", "d": ["An electric lamp whose light comes from a glowing tungsten filament."], "src": "iwb"}
+{"w": "tungsten steel", "pos": "phrase", "d": ["A hard, strong steel alloyed with tungsten, used for cutting tools."], "src": "iwb"}
+{"w": "tungstic", "pos": "adjective", "d": ["Relating to or containing tungsten."], "src": "iwb"}
+{"w": "tungstite", "pos": "noun", "d": ["A yellow mineral consisting of tungsten oxide."], "src": "iwb"}
+{"w": "tunguses", "pos": "noun", "d": ["The Tungus peoples of Siberia, also called Evenks."], "src": "iwb"}
+{"w": "tungusic", "pos": "adjective", "d": ["Relating to the Tungus peoples or their languages."], "src": "iwb"}
+{"w": "tunicata", "pos": "noun", "d": ["A subphylum of marine animals, including sea squirts, that are covered with a tunic-like outer layer."], "src": "iwb"}
+{"w": "tunicin", "pos": "noun", "d": ["A cellulose-like substance forming the outer tunic of tunicates."], "src": "iwb"}
+{"w": "tunicle", "pos": "noun", "d": ["A short vestment worn by a deacon over the alb during church services."], "src": "iwb"}
+{"w": "tunk", "pos": "noun", "d": ["A dull thudding sound."], "src": "iwb"}
+{"w": "tunnage", "pos": "noun", "d": ["The charge for passing goods through a tunnel.", "The carrying capacity of a tunnel or mine."], "src": "iwb"}
+{"w": "tunnel stern", "pos": "phrase", "d": ["A ship stern shaped with a tunnel-like recess to house the propeller."], "src": "iwb"}
+{"w": "tunny", "pos": "noun", "d": ["An older name for the tuna fish."], "src": "iwb"}
+{"w": "tup", "pos": "noun", "d": ["A male sheep, a ram."], "src": "iwb"}
+{"w": "tupai", "pos": "noun", "d": ["A treeshrew of Southeast Asia."], "src": "iwb"}
+{"w": "tupaiid", "pos": "noun", "d": ["Any member of the treeshrew family Tupaiidae."], "src": "iwb"}
+{"w": "tupelo", "pos": "noun", "d": ["A North American tree of wet lands, known for its honey and brilliant autumn leaves."], "src": "iwb"}
+{"w": "tupi", "pos": "noun", "d": ["A member of a native South American people of Brazil.", "The language family of the Tupi peoples."], "src": "iwb"}
+{"w": "tupian", "pos": "adjective", "d": ["Relating to the Tupi peoples or their languages."], "src": "iwb"}
+{"w": "tuque", "pos": "noun", "d": ["A knitted winter cap with a tassel, worn in Canada."], "src": "iwb"}
+{"w": "tur", "pos": "noun", "d": ["A wild mountain goat of the Caucasus with large curving horns."], "src": "iwb"}
+{"w": "turacin", "pos": "noun", "d": ["A copper-based red pigment found in the feathers of turacos."], "src": "iwb"}
+{"w": "turacou", "pos": "noun", "d": ["A turaco, a colorful African bird with a crest."], "src": "iwb"}
+{"w": "turacoverdin", "pos": "noun", "d": ["A green pigment found in the feathers of turacos."], "src": "iwb"}
+{"w": "turanian", "pos": "adjective", "d": ["Relating to Turan, the region of central Asia, or its peoples and languages."], "src": "iwb"}
+{"w": "turatt", "pos": "noun", "d": ["A turaco bird."], "src": "iwb"}
+{"w": "turban-shell", "pos": "noun", "d": ["A marine snail with a thick shell spiraled like a turban."], "src": "iwb"}
+{"w": "turban-top", "pos": "noun", "d": ["A turban-shell snail."], "src": "iwb"}
+{"w": "turbant", "pos": "noun", "d": ["An old word for a turban."], "src": "iwb"}
+{"w": "turbary", "pos": "noun", "d": ["The right to cut peat or turf for fuel on common land.", "A place where peat is dug."], "src": "iwb"}
+{"w": "turbellaria", "pos": "noun", "d": ["A group of mostly free-living flatworms with cilia-covered bodies."], "src": "iwb"}
+{"w": "turbellarian", "pos": "noun", "d": ["A flatworm belonging to the turbellaria."], "src": "iwb"}
+{"w": "turbeth", "pos": "noun", "d": ["A powder from the root of a tropical plant, once used as a purgative."], "src": "iwb"}
+{"w": "turbinaceous", "pos": "adjective", "d": ["Shaped like a top or an inverted cone."], "src": "iwb"}
+{"w": "turbination", "pos": "noun", "d": ["The act of spinning like a top."], "src": "iwb"}
+{"w": "turbinella", "pos": "noun", "d": ["A genus of large marine snails with turban-shaped shells, including the chank shell."], "src": "iwb"}
+{"w": "turbinite", "pos": "noun", "d": ["A fossil turban-shaped snail shell."], "src": "iwb"}
+{"w": "turbinoid", "pos": "adjective", "d": ["Resembling a turban shell or a top in shape."], "src": "iwb"}
+{"w": "turbith", "pos": "noun", "d": ["The purgative root powder also called turbeth."], "src": "iwb"}
+{"w": "turbulence", "pos": "noun", "d": ["Violent, irregular motion of air or water.", "Wild disorder or commotion."], "src": "iwb"}
+{"w": "turbulency", "pos": "noun", "d": ["The state of being turbulent."], "src": "iwb"}
+{"w": "turbulent", "pos": "adjective", "d": ["Moving violently and irregularly, like choppy water.", "Marked by disorder or unrest."], "src": "iwb"}
+{"w": "turcism", "pos": "noun", "d": ["A Turkish custom or way of life."], "src": "iwb"}
+{"w": "turcoman", "pos": "noun", "d": ["A member of the Turkoman people of central Asia, or their horse breed."], "src": "iwb"}
+{"w": "turdiformes", "pos": "noun", "d": ["A group of perching birds including the thrushes."], "src": "iwb"}
+{"w": "turdus", "pos": "noun", "d": ["The genus of birds containing the true thrushes."], "src": "iwb"}
+{"w": "turf", "pos": "noun", "d": ["A surface layer of earth held together by grass roots.", "The world of horse racing."], "src": "iwb"}
+{"w": "turfiness", "pos": "noun", "d": ["The quality of being turfy."], "src": "iwb"}
+{"w": "turfite", "pos": "noun", "d": ["One devoted to the turf or horse racing."], "src": "iwb"}
+{"w": "turfy", "pos": "adjective", "d": ["Covered with or resembling turf."], "src": "iwb"}
+{"w": "turgesce", "pos": "verb", "d": ["To become swollen or turgid."], "src": "iwb"}
+{"w": "turgescence", "pos": "noun", "d": ["The act or state of swelling."], "src": "iwb"}
+{"w": "turgescency", "pos": "noun", "d": ["Swollen condition; turgescence."], "src": "iwb"}
+{"w": "turgescent", "pos": "adjective", "d": ["Becoming swollen."], "src": "iwb"}
+{"w": "turio", "pos": "noun", "d": ["A young scaly shoot, such as an asparagus spear."], "src": "iwb"}
+{"w": "turiole", "pos": "noun", "d": ["A small turio or young shoot."], "src": "iwb"}
+{"w": "turioniferous", "pos": "adjective", "d": ["Bearing turions or young shoots."], "src": "iwb"}
+{"w": "turk", "pos": "noun", "d": ["A native or citizen of Turkey."], "src": "iwb"}
+{"w": "turkeis", "pos": "noun", "d": ["An old word for turquoise."], "src": "iwb"}
+{"w": "turkey-trot", "pos": "noun", "d": ["A lively early-1900s dance done with quick shuffling steps."], "src": "iwb"}
+{"w": "turkis", "pos": "noun", "d": ["An older spelling of turquoise."], "src": "iwb"}
+{"w": "turkle", "pos": "noun", "d": ["A Scots word for a turtle-dove."], "src": "iwb"}
+{"w": "turko", "pos": "adjective", "d": ["Turkish; relating to Turkey or the Turks."], "src": "iwb"}
+{"w": "turko-iranian", "pos": "adjective", "d": ["Relating to both Turkish and Iranian peoples or regions."], "src": "iwb"}
+{"w": "turkois", "pos": "noun", "d": ["An older spelling of turquoise."], "src": "iwb"}
+{"w": "turlupin", "pos": "noun", "d": ["A medieval French religious sect member of wandering beggars.", "A buffoon or jester."], "src": "iwb"}
+{"w": "turm", "pos": "noun", "d": ["A troop of Roman cavalry, about thirty horsemen."], "src": "iwb"}
+{"w": "turmerol", "pos": "noun", "d": ["An oil obtained from turmeric."], "src": "iwb"}
+{"w": "turn-buckle", "pos": "noun", "d": ["A metal sleeve with a threaded screw at each end for tightening rods or wires."], "src": "iwb"}
+{"w": "turn-out", "pos": "noun", "d": ["The number of people who attend an event or vote.", "A complete outfit or set of clothes."], "src": "iwb"}
+{"w": "turn-sick", "pos": "adjective", "d": ["Dizzy or nauseated from spinning or turning."], "src": "iwb"}
+{"w": "turnery", "pos": "noun", "d": ["The art or craft of shaping wood or metal on a lathe.", "Objects made on a lathe."], "src": "iwb"}
+{"w": "turney", "pos": "noun", "d": ["An old spelling of tourney, a jousting tournament."], "src": "iwb"}
+{"w": "turnhalle", "pos": "noun", "d": ["A German gymnasium or exercise hall."], "src": "iwb"}
+{"w": "turnicimorphae", "pos": "noun", "d": ["A group of small ground birds including the buttonquails."], "src": "iwb"}
+{"w": "turnip-shell", "pos": "noun", "d": ["A marine snail with a turnip-shaped shell."], "src": "iwb"}
+{"w": "turnus", "pos": "noun", "d": ["A hero of Virgil's Aeneid, the Italian prince who fought Aeneas."], "src": "iwb"}
+{"w": "turonian", "pos": "adjective", "d": ["Relating to the Turonian age of the late Cretaceous period."], "src": "iwb"}
+{"w": "turpentine state", "pos": "phrase", "d": ["A nickname for North Carolina, once a major producer of turpentine."], "src": "iwb"}
+{"w": "turpeth", "pos": "noun", "d": ["Another spelling of turbeth, the purgative root powder."], "src": "iwb"}
+{"w": "turpitude", "pos": "noun", "d": ["Shameful wickedness or moral corruption."], "src": "iwb"}
+{"w": "turquois", "pos": "noun", "d": ["An older spelling of turquoise."], "src": "iwb"}
+{"w": "turquoise", "pos": "noun", "d": ["An opaque blue-green gemstone used in jewelry."], "src": "iwb"}
+{"w": "turrel", "pos": "noun", "d": ["A tool or instrument used in glassmaking."], "src": "iwb"}
+{"w": "turret deck", "pos": "phrase", "d": ["A ship's deck with rounded sides rising above the main deck."], "src": "iwb"}
+{"w": "turret steamer", "pos": "phrase", "d": ["A cargo steamer with a turret deck."], "src": "iwb"}
+{"w": "turribant", "pos": "adjective", "d": ["Swelling or rising like a tower."], "src": "iwb"}
+{"w": "turrical", "pos": "adjective", "d": ["Tower-shaped."], "src": "iwb"}
+{"w": "turriculate", "pos": "adjective", "d": ["Having many small towers or turrets."], "src": "iwb"}
+{"w": "turrilite", "pos": "noun", "d": ["An extinct spiral-shelled sea creature related to the ammonites, known from fossils."], "src": "iwb"}
+{"w": "turritella", "pos": "noun", "d": ["A genus of small sea snails with tall, pointed, tightly coiled shells."], "src": "iwb"}
+{"w": "turritelloid", "pos": "adjective", "d": ["Shaped like a turritella shell, tall and tapering in a close spiral."], "src": "iwb"}
+{"w": "turtle peg", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "turtle-footed", "pos": "adjective", "d": ["Having feet shaped like the flippers of a turtle."], "src": "iwb"}
+{"w": "turtle-shell", "pos": "noun", "d": ["The hard outer covering of a turtle.", "Material resembling tortoiseshell, used for ornament."], "src": "iwb"}
+{"w": "turves", "pos": "noun", "d": ["The plural of turf."], "src": "iwb"}
+{"w": "tuscan", "pos": "adjective", "d": ["Relating to Tuscany in Italy, its people, or their culture."], "src": "iwb"}
+{"w": "tuscaroras", "pos": "noun", "d": ["Members of an Iroquoian people of the eastern United States."], "src": "iwb"}
+{"w": "tusche", "pos": "noun", "d": ["A black liquid ink used in lithography and drawing."], "src": "iwb"}
+{"w": "tuscor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tush", "pos": "noun", "d": ["A tusk, especially of an animal such as a boar."], "src": "iwb"}
+{"w": "tushe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tusk", "pos": "noun", "d": ["A long pointed tooth that projects from the mouth of an elephant, boar, or walrus."], "src": "iwb"}
+{"w": "tusk-shell", "pos": "noun", "d": ["A small sea mollusk with a slender curved shell shaped like a tiny tusk."], "src": "iwb"}
+{"w": "tusky", "pos": "adjective", "d": ["Having large or prominent tusks."], "src": "iwb"}
+{"w": "tussac grass", "pos": "phrase", "d": ["A coarse grass that grows in dense tufts in cold coastal regions."], "src": "iwb"}
+{"w": "tussah", "pos": "noun", "d": ["A strong brownish silk made by wild silkworms of Asia."], "src": "iwb"}
+{"w": "tussah silk", "pos": "phrase", "d": ["Fabric woven from the silk of wild Asian silkworms."], "src": "iwb"}
+{"w": "tussal", "pos": "adjective", "d": ["Relating to a cough."], "src": "iwb"}
+{"w": "tusseh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tussicular", "pos": "adjective", "d": ["Relating to or caused by coughing."], "src": "iwb"}
+{"w": "tussis", "pos": "noun", "d": ["A cough, as the term is used in medicine."], "src": "iwb"}
+{"w": "tussive", "pos": "adjective", "d": ["Relating to or caused by a cough."], "src": "iwb"}
+{"w": "tussle", "pos": "verb", "d": ["To wrestle or struggle roughly with someone."], "src": "iwb"}
+{"w": "tussock", "pos": "noun", "d": ["A dense tuft or clump of grass or sedge."], "src": "iwb"}
+{"w": "tussocky", "pos": "adjective", "d": ["Covered with or growing in tussocks."], "src": "iwb"}
+{"w": "tussuck", "pos": "noun", "d": ["A variant form of tussock, a tuft of grass."], "src": "iwb"}
+{"w": "tut", "pos": "interjection", "d": ["A short clicking sound made with the tongue to show annoyance or disapproval."], "src": "iwb"}
+{"w": "tut-mouthed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tut-nose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tut-work", "pos": "noun", "d": ["Work paid for by the job or contract rather than by the day, as in mining."], "src": "iwb"}
+{"w": "tutelage", "pos": "noun", "d": ["The care and guidance of a tutor or guardian."], "src": "iwb"}
+{"w": "tutelar", "pos": "adjective", "d": ["Serving as a guardian or protector."], "src": "iwb"}
+{"w": "tutelary", "pos": "adjective", "d": ["Acting as a guardian; protective of a person or place.", "Relating to guardianship."], "src": "iwb"}
+{"w": "tutele", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tutenag", "pos": "noun", "d": ["A silvery alloy of copper, zinc, and nickel."], "src": "iwb"}
+{"w": "tutor", "pos": "noun", "d": ["A person who gives private instruction to a student."], "src": "iwb"}
+{"w": "tutoress", "pos": "noun", "d": ["A female tutor."], "src": "iwb"}
+{"w": "tutress", "pos": "noun", "d": ["A female tutor."], "src": "iwb"}
+{"w": "tutrix", "pos": "noun", "d": ["A female tutor or guardian."], "src": "iwb"}
+{"w": "tutsan", "pos": "noun", "d": ["A shrubby plant with yellow flowers, a kind of St. Johns wort."], "src": "iwb"}
+{"w": "tutti", "pos": "adjective", "d": ["In music, played or sung by all the performers together."], "src": "iwb"}
+{"w": "tutti-frutti", "pos": "noun", "d": ["A flavor or ice cream containing mixed candied fruits."], "src": "iwb"}
+{"w": "tutty", "pos": "noun", "d": ["Crude zinc oxide collected from the flues of brass furnaces."], "src": "iwb"}
+{"w": "tuum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tuxedo", "pos": "noun", "d": ["A formal black dinner jacket with satin lapels, worn with matching trousers."], "src": "iwb"}
+{"w": "tuxedo coat", "pos": "phrase", "d": ["The dinner jacket of a tuxedo."], "src": "iwb"}
+{"w": "tuyere", "pos": "noun", "d": ["A nozzle that blows air into a blast furnace or forge."], "src": "iwb"}
+{"w": "tuz", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tuza", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "twaddle", "pos": "noun", "d": ["Silly, idle talk."], "src": "iwb"}
+{"w": "twaddy", "pos": "adjective", "d": ["Given to silly, idle talk."], "src": "iwb"}
+{"w": "twagger", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "twain", "pos": "noun", "d": ["Two, especially in the phrase in twain, meaning apart or asunder."], "src": "iwb"}
+{"w": "twaite", "pos": "noun", "d": ["A silvery fish of the shad family found in European coastal waters."], "src": "iwb"}
+{"w": "twang", "pos": "noun", "d": ["A sharp vibrating sound like that of a plucked string.", "A nasal quality in the voice."], "src": "iwb"}
+{"w": "twangle", "pos": "verb", "d": ["To twang; to make a sharp vibrating sound."], "src": "iwb"}
+{"w": "twank", "pos": "noun", "d": ["A sharp twanging sound."], "src": "iwb"}
+{"w": "twankay", "pos": "noun", "d": ["A kind of green tea from China."], "src": "iwb"}
+{"w": "twattle", "pos": "verb", "d": ["To chatter idly; to gossip."], "src": "iwb"}
+{"w": "tway", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tweag", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tweague", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tweak", "pos": "verb", "d": ["To pinch or pull with a sharp twist.", "To make small adjustments in order to improve something."], "src": "iwb"}
+{"w": "tweed", "pos": "noun", "d": ["A rough woolen cloth woven in a twill pattern."], "src": "iwb"}
+{"w": "tweedle", "pos": "verb", "d": ["To play a simple tune, especially on a pipe or fiddle."], "src": "iwb"}
+{"w": "tweedledum and tweedledee", "pos": "phrase", "d": ["Two people or things so alike as to be practically indistinguishable."], "src": "iwb"}
+{"w": "tweel", "pos": "noun", "d": ["Twill, a cloth woven with diagonal lines."], "src": "iwb"}
+{"w": "tweer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tweese", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tweeze", "pos": "verb", "d": ["To pluck or pull with tweezers."], "src": "iwb"}
+{"w": "tweezers", "pos": "noun", "d": ["A small tool with two arms for gripping tiny objects."], "src": "iwb"}
+{"w": "twelfth", "pos": "adjective", "d": ["Coming after the eleventh in a series."], "src": "iwb"}
+{"w": "twelfth-cake", "pos": "noun", "d": ["A rich cake traditionally eaten on Twelfth Night."], "src": "iwb"}
+{"w": "twelfth-day", "pos": "noun", "d": ["The sixth of January, marking the end of the Christmas season."], "src": "iwb"}
+{"w": "twelfth-night", "pos": "noun", "d": ["The evening before Epiphany, the twelfth night of Christmas."], "src": "iwb"}
+{"w": "twelfth-second", "pos": "noun", "d": ["An obsolete unit of time equal to one twelfth of a second."], "src": "iwb"}
+{"w": "twelvemo", "pos": "noun", "d": ["A book size made by folding a sheet into twelve leaves."], "src": "iwb"}
+{"w": "twentieth", "pos": "adjective", "d": ["Coming after the nineteenth in a series."], "src": "iwb"}
+{"w": "twenty-fourmo", "pos": "noun", "d": ["A book size made by folding a sheet into twenty-four leaves."], "src": "iwb"}
+{"w": "twey", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "twibil", "pos": "noun", "d": ["A two-bladed hand tool combining an axe and a mattock."], "src": "iwb"}
+{"w": "twiddle", "pos": "verb", "d": ["To turn or fiddle with something idly between the fingers."], "src": "iwb"}
+{"w": "twifallow", "pos": "verb", "d": ["To plow land a second time before sowing."], "src": "iwb"}
+{"w": "twifold", "pos": "adjective", "d": ["Twofold; double."], "src": "iwb"}
+{"w": "twig", "pos": "noun", "d": ["A small slender branch of a tree or shrub."], "src": "iwb"}
+{"w": "twiggen", "pos": "adjective", "d": ["Made of or covered with twigs."], "src": "iwb"}
+{"w": "twiggy", "pos": "adjective", "d": ["Full of twigs; slender like a twig."], "src": "iwb"}
+{"w": "twight", "pos": "verb", "d": ["To reproach or taunt, in Scots usage."], "src": "iwb"}
+{"w": "twighte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "twilight", "pos": "noun", "d": ["The soft light of the sky just after sunset or before sunrise."], "src": "iwb"}
+{"w": "twill", "pos": "noun", "d": ["A fabric woven with diagonal parallel lines."], "src": "iwb"}
+{"w": "twilly", "pos": "adjective", "d": ["Woven in a twill pattern."], "src": "iwb"}
+{"w": "twilt", "pos": "noun", "d": ["A quilted bed cover; a coverlet."], "src": "iwb"}
+{"w": "twine", "pos": "noun", "d": ["Strong string made of two or more twisted strands."], "src": "iwb"}
+{"w": "twinge", "pos": "noun", "d": ["A sudden sharp pain.", "A brief pang of guilt or regret."], "src": "iwb"}
+{"w": "twink", "pos": "verb", "d": ["To wink or blink the eye."], "src": "iwb"}
+{"w": "twinkle", "pos": "verb", "d": ["To shine with a flickering light."], "src": "iwb"}
+{"w": "twinter", "pos": "noun", "d": ["An animal, especially a sheep, that is two winters old."], "src": "iwb"}
+{"w": "twire", "pos": "verb", "d": ["To peep or glance slyly."], "src": "iwb"}
+{"w": "twire-pipe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "twirl", "pos": "verb", "d": ["To spin or rotate rapidly."], "src": "iwb"}
+{"w": "twiste", "pos": "noun", "d": ["A variant spelling of twist."], "src": "iwb"}
+{"w": "twit", "pos": "verb", "d": ["To tease or taunt someone about a fault."], "src": "iwb"}
+{"w": "twitch", "pos": "verb", "d": ["To jerk or move with a sudden involuntary motion."], "src": "iwb"}
+{"w": "twitch grass", "pos": "phrase", "d": ["A creeping grass considered a weed, also called couch grass."], "src": "iwb"}
+{"w": "twite", "pos": "noun", "d": ["A small brown finch of northern Europe."], "src": "iwb"}
+{"w": "twittingly", "pos": "adverb", "d": ["In a teasing or reproachful manner."], "src": "iwb"}
+{"w": "twittle-twattle", "pos": "noun", "d": ["Idle gossip or chatter."], "src": "iwb"}
+{"w": "two-capsuled", "pos": "adjective", "d": ["Having two capsules or seed pods."], "src": "iwb"}
+{"w": "two-cleft", "pos": "adjective", "d": ["Split or divided into two parts."], "src": "iwb"}
+{"w": "two-cycle", "pos": "adjective", "d": ["Operating on a two-stroke cycle, as an engine."], "src": "iwb"}
+{"w": "two-decker", "pos": "noun", "d": ["A warship carrying guns on two decks."], "src": "iwb"}
+{"w": "two-edged", "pos": "adjective", "d": ["Having two cutting edges, as a sword."], "src": "iwb"}
+{"w": "two-foot", "pos": "adjective", "d": ["Measuring two feet in length."], "src": "iwb"}
+{"w": "two-forked", "pos": "adjective", "d": ["Divided into two prongs like a fork."], "src": "iwb"}
+{"w": "two-hand", "pos": "adjective", "d": ["Requiring or using two hands."], "src": "iwb"}
+{"w": "two-lipped", "pos": "adjective", "d": ["Having two lips or lip-like parts, as some flowers."], "src": "iwb"}
+{"w": "two-name", "pos": "adjective", "d": ["Designated by two names, such as the genus and species of an organism."], "src": "iwb"}
+{"w": "two-parted", "pos": "adjective", "d": ["Divided into two parts."], "src": "iwb"}
+{"w": "two-phase", "pos": "adjective", "d": ["Having two phases, as an electric current with two alternating circuits."], "src": "iwb"}
+{"w": "two-ply", "pos": "adjective", "d": ["Made of two layers or strands twisted together."], "src": "iwb"}
+{"w": "two-port", "pos": "adjective", "d": ["Having two openings or ports."], "src": "iwb"}
+{"w": "two-ranked", "pos": "adjective", "d": ["Arranged in two opposite rows, as leaves on a stem."], "src": "iwb"}
+{"w": "two-sided", "pos": "adjective", "d": ["Having two sides; usable on either side."], "src": "iwb"}
+{"w": "two-speed", "pos": "adjective", "d": ["Having two speeds, as a transmission."], "src": "iwb"}
+{"w": "two-step", "pos": "noun", "d": ["A dance in duple time with two steps to the bar."], "src": "iwb"}
+{"w": "two-throw", "pos": "adjective", "d": ["Having two positions for making contact, as an electric switch."], "src": "iwb"}
+{"w": "two-to-one", "pos": "adjective", "d": ["In the ratio of two to one."], "src": "iwb"}
+{"w": "two-tongued", "pos": "adjective", "d": ["Speaking deceitfully; saying one thing and meaning another."], "src": "iwb"}
+{"w": "two-way", "pos": "adjective", "d": ["Going or working in two directions."], "src": "iwb"}
+{"w": "twyblade", "pos": "noun", "d": ["A European orchid with a pair of broad leaves on its stem."], "src": "iwb"}
+{"w": "ty-all", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tyburn ticket", "pos": "phrase", "d": ["A certificate once given in England to a prosecutor of a felon, exempting the holder from parish duties."], "src": "iwb"}
+{"w": "tychism", "pos": "noun", "d": ["The doctrine that chance is a real factor in the universe."], "src": "iwb"}
+{"w": "tychonic", "pos": "adjective", "d": ["Relating to the astronomer Tycho Brahe or his system."], "src": "iwb"}
+{"w": "tycoon", "pos": "noun", "d": ["A wealthy and powerful business person."], "src": "iwb"}
+{"w": "tydy", "pos": "adjective", "d": ["Neat and orderly; a variant spelling of tidy."], "src": "iwb"}
+{"w": "tye", "pos": "noun", "d": ["A variant spelling of tie, a fastening cord."], "src": "iwb"}
+{"w": "tyer", "pos": "noun", "d": ["One who ties or fastens something."], "src": "iwb"}
+{"w": "tyfoon", "pos": "noun", "d": ["A variant spelling of typhoon."], "src": "iwb"}
+{"w": "tyger", "pos": "noun", "d": ["An archaic spelling of tiger."], "src": "iwb"}
+{"w": "tying", "pos": "noun", "d": ["The act of fastening with a knot or cord."], "src": "iwb"}
+{"w": "tyke", "pos": "noun", "d": ["A small dog, especially a mongrel.", "A mischievous child."], "src": "iwb"}
+{"w": "tylarus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tylopoda", "pos": "noun", "d": ["A group of hoofed mammals including camels and llamas."], "src": "iwb"}
+{"w": "tylosis", "pos": "noun", "d": ["A thickening of the skin; a callus."], "src": "iwb"}
+{"w": "tymbal", "pos": "noun", "d": ["A sound-producing organ in certain insects such as cicadas."], "src": "iwb"}
+{"w": "tymp", "pos": "noun", "d": ["A shortened form of tympan."], "src": "iwb"}
+{"w": "tympan", "pos": "noun", "d": ["A sheet stretched over the platen of a printing press to cushion the paper.", "A membrane, such as the eardrum."], "src": "iwb"}
+{"w": "tympanites", "pos": "noun", "d": ["Swelling of the abdomen caused by trapped gas."], "src": "iwb"}
+{"w": "tympanitic", "pos": "adjective", "d": ["Sounding like a drum when tapped, as an inflated abdomen."], "src": "iwb"}
+{"w": "tympanitis", "pos": "noun", "d": ["Inflammation of the eardrum."], "src": "iwb"}
+{"w": "tympano-", "pos": "prefix", "d": ["A prefix meaning relating to the eardrum."], "src": "iwb"}
+{"w": "tympanohyal", "pos": "noun", "d": ["A small bone of the hyoid arch near the eardrum."], "src": "iwb"}
+{"w": "tympanum", "pos": "noun", "d": ["The eardrum.", "The triangular space within a pediment in architecture."], "src": "iwb"}
+{"w": "tynd", "pos": "adjective", "d": ["Kindled or lighted, in Scots usage."], "src": "iwb"}
+{"w": "tyne", "pos": "noun", "d": ["A prong of an antler."], "src": "iwb"}
+{"w": "tyny", "pos": "adjective", "d": ["A variant spelling of tiny."], "src": "iwb"}
+{"w": "typal", "pos": "adjective", "d": ["Relating to or serving as a type; typical."], "src": "iwb"}
+{"w": "typhlitis", "pos": "noun", "d": ["Inflammation of the cecum, the pouch at the start of the large intestine."], "src": "iwb"}
+{"w": "typhlosole", "pos": "noun", "d": ["A lengthwise fold in the intestine of some invertebrates that increases the absorbing surface."], "src": "iwb"}
+{"w": "typhoean", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "typhoid", "pos": "noun", "d": ["A serious fever caused by bacteria spread through contaminated food or water."], "src": "iwb"}
+{"w": "typhomalarial", "pos": "adjective", "d": ["Combining the features of typhoid and malaria."], "src": "iwb"}
+{"w": "typhomania", "pos": "noun", "d": ["A delirious stupor occurring in severe fevers."], "src": "iwb"}
+{"w": "typhon", "pos": "noun", "d": ["A monstrous giant of Greek myth, father of winds and storms.", "A violent whirlwind or typhoon."], "src": "iwb"}
+{"w": "typhoon", "pos": "noun", "d": ["A violent tropical cyclone of the western Pacific."], "src": "iwb"}
+{"w": "typhos", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "typhotoxin", "pos": "noun", "d": ["A poisonous substance produced by the typhoid bacterium."], "src": "iwb"}
+{"w": "typhous", "pos": "adjective", "d": ["Relating to or resembling typhus."], "src": "iwb"}
+{"w": "typhus", "pos": "noun", "d": ["A contagious fever spread by lice, marked by rash and stupor."], "src": "iwb"}
+{"w": "typic", "pos": "adjective", "d": ["Typical; characteristic of a type."], "src": "iwb"}
+{"w": "typification", "pos": "noun", "d": ["The act of representing something by a type or symbol."], "src": "iwb"}
+{"w": "typify", "pos": "verb", "d": ["To serve as a typical example of something."], "src": "iwb"}
+{"w": "typist", "pos": "noun", "d": ["A person who types, especially as an occupation."], "src": "iwb"}
+{"w": "typo", "pos": "noun", "d": ["A small error made in typing or printing."], "src": "iwb"}
+{"w": "typocosmy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "typograph", "pos": "noun", "d": ["A person skilled in typography; an early term for a printer."], "src": "iwb"}
+{"w": "typography", "pos": "noun", "d": ["The art and technique of arranging type for printing."], "src": "iwb"}
+{"w": "typothetae", "pos": "noun", "d": ["The plural of typotheta, an association of employing printers."], "src": "iwb"}
+{"w": "tyran", "pos": "noun", "d": ["An archaic spelling of tyrant."], "src": "iwb"}
+{"w": "tyrannic", "pos": "adjective", "d": ["Relating to or like a tyrant; oppressive."], "src": "iwb"}
+{"w": "tyrannicidal", "pos": "adjective", "d": ["Relating to the killing of a tyrant."], "src": "iwb"}
+{"w": "tyrannish", "pos": "adjective", "d": ["Like a tyrant; domineering."], "src": "iwb"}
+{"w": "tyrannize", "pos": "verb", "d": ["To rule cruelly and oppressively."], "src": "iwb"}
+{"w": "tyranny", "pos": "noun", "d": ["Cruel and unjust rule by a single ruler."], "src": "iwb"}
+{"w": "tyrant", "pos": "noun", "d": ["A ruler who exercises power cruelly and unjustly."], "src": "iwb"}
+{"w": "tyre", "pos": "noun", "d": ["The British spelling of tire, the rubber covering of a wheel."], "src": "iwb"}
+{"w": "tyrian", "pos": "adjective", "d": ["Relating to the ancient city of Tyre.", "Denoting a rich purple dye once made at Tyre."], "src": "iwb"}
+{"w": "tyro", "pos": "noun", "d": ["A beginner or novice in any field."], "src": "iwb"}
+{"w": "tyrociny", "pos": "noun", "d": ["The state of being a beginner; a novitiate."], "src": "iwb"}
+{"w": "tyronism", "pos": "noun", "d": ["The condition or conduct of a tyro; inexperience."], "src": "iwb"}
+{"w": "tyrotoxicon", "pos": "noun", "d": ["A poisonous compound once thought to form in spoiled milk and cheese."], "src": "iwb"}
+{"w": "tysonite", "pos": "noun", "d": ["A rare mineral composed of fluorides of rare-earth metals."], "src": "iwb"}
+{"w": "tystie", "pos": "noun", "d": ["The black guillemot, a seabird of northern coasts."], "src": "iwb"}
+{"w": "tythe", "pos": "noun", "d": ["An archaic spelling of tithe."], "src": "iwb"}
+{"w": "tzar", "pos": "noun", "d": ["A variant spelling of tsar, the former emperor of Russia."], "src": "iwb"}
+{"w": "tzarina", "pos": "noun", "d": ["A variant spelling of tsarina, the wife of a tsar."], "src": "iwb"}
+{"w": "tzaritza", "pos": "noun", "d": ["The wife or widow of a czar."], "src": "iwb"}
+{"w": "tzetze", "pos": "noun", "d": ["A biting African fly that spreads sleeping sickness; another spelling of tsetse."], "src": "iwb"}
+{"w": "u-shaped", "pos": "adjective", "d": ["Shaped like the letter U."], "src": "iwb"}
+{"w": "uakari", "pos": "noun", "d": ["A short-tailed South American monkey with a bald red face."], "src": "iwb"}
+{"w": "uberous", "pos": "adjective", "d": ["Abundant or fruitful; rich in supply."], "src": "iwb"}
+{"w": "uberty", "pos": "noun", "d": ["Fertility or abundant fruitfulness."], "src": "iwb"}
+{"w": "ubication", "pos": "noun", "d": ["The place or position where a thing is located."], "src": "iwb"}
+{"w": "ubiety", "pos": "noun", "d": ["The state of being in a particular place."], "src": "iwb"}
+{"w": "ubiquarian", "pos": "noun", "d": ["A person who seems to be present everywhere."], "src": "iwb"}
+{"w": "ubiquist", "pos": "noun", "d": ["One who is or claims to be present everywhere."], "src": "iwb"}
+{"w": "ubiquitarian", "pos": "adjective", "d": ["Holding that a divine body is present everywhere."], "src": "iwb"}
+{"w": "ubiquitariness", "pos": "noun", "d": ["The state or quality of being present everywhere."], "src": "iwb"}
+{"w": "ubiquitary", "pos": "adjective", "d": ["Present or seeming to be present everywhere."], "src": "iwb"}
+{"w": "ubiquitist", "pos": "noun", "d": ["One who is present everywhere; another form of ubiquist."], "src": "iwb"}
+{"w": "ubiquitous", "pos": "adjective", "d": ["Present everywhere at the same time."], "src": "iwb"}
+{"w": "ubiquity", "pos": "noun", "d": ["The state of being everywhere at once."], "src": "iwb"}
+{"w": "uchees", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uckewallist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "udal", "pos": "noun", "d": ["A form of freehold land tenure in the Orkney and Shetland Islands."], "src": "iwb"}
+{"w": "udder", "pos": "noun", "d": ["The milk-secreting organ of a cow or other female mammal."], "src": "iwb"}
+{"w": "udometer", "pos": "noun", "d": ["An instrument for measuring rainfall."], "src": "iwb"}
+{"w": "ugh", "pos": "interjection", "d": ["Used to express disgust, horror, or dismay."], "src": "iwb"}
+{"w": "uglesome", "pos": "adjective", "d": ["Frightful or loathsome in appearance."], "src": "iwb"}
+{"w": "uglify", "pos": "verb", "d": ["To make ugly."], "src": "iwb"}
+{"w": "uglily", "pos": "adverb", "d": ["In an ugly manner."], "src": "iwb"}
+{"w": "ugliness", "pos": "noun", "d": ["The quality or state of being ugly."], "src": "iwb"}
+{"w": "ugrian", "pos": "noun", "d": ["A member of the Finno-Ugric peoples of northern Russia and Siberia."], "src": "iwb"}
+{"w": "ugsome", "pos": "adjective", "d": ["Frightful; loathsome."], "src": "iwb"}
+{"w": "uhlan", "pos": "noun", "d": ["A lancer in certain European armies."], "src": "iwb"}
+{"w": "uintatherium", "pos": "noun", "d": ["An extinct Eocene mammal with bony hornlike growths on its head."], "src": "iwb"}
+{"w": "uitlander", "pos": "noun", "d": ["A foreigner, especially in South Africa."], "src": "iwb"}
+{"w": "ukase", "pos": "noun", "d": ["An edict or proclamation of the Russian czar."], "src": "iwb"}
+{"w": "ulan", "pos": "noun", "d": ["A lancer; another spelling of uhlan."], "src": "iwb"}
+{"w": "ularburong", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ulcer", "pos": "noun", "d": ["An open sore on the skin or a mucous membrane."], "src": "iwb"}
+{"w": "ulcerative", "pos": "adjective", "d": ["Relating to, causing, or marked by ulcers."], "src": "iwb"}
+{"w": "ulcuscle", "pos": "noun", "d": ["A small ulcer."], "src": "iwb"}
+{"w": "ulcuscule", "pos": "noun", "d": ["A very small ulcer."], "src": "iwb"}
+{"w": "ule", "pos": "noun", "d": ["A Central American tree whose latex yields a rubberlike substance."], "src": "iwb"}
+{"w": "ulema", "pos": "noun", "d": ["A body of Muslim scholars learned in Islamic law."], "src": "iwb"}
+{"w": "ulexite", "pos": "noun", "d": ["A white fibrous borate mineral."], "src": "iwb"}
+{"w": "uliginose", "pos": "adjective", "d": ["Growing in marshes; marshy."], "src": "iwb"}
+{"w": "uliginous", "pos": "adjective", "d": ["Growing in marshes; marshy."], "src": "iwb"}
+{"w": "ullage", "pos": "noun", "d": ["The amount by which a cask, bottle, or tank falls short of being full."], "src": "iwb"}
+{"w": "ullet", "pos": "noun", "d": ["An owlet; a young owl."], "src": "iwb"}
+{"w": "ullmannite", "pos": "noun", "d": ["A nickel antimony sulfide mineral."], "src": "iwb"}
+{"w": "ulluco", "pos": "noun", "d": ["An Andean plant grown for its edible tuberous roots."], "src": "iwb"}
+{"w": "ulmaceous", "pos": "adjective", "d": ["Belonging to the elm family of trees."], "src": "iwb"}
+{"w": "ulmate", "pos": "noun", "d": ["A salt of ulmic acid."], "src": "iwb"}
+{"w": "ulmic", "pos": "adjective", "d": ["Relating to ulmin or ulmic acid."], "src": "iwb"}
+{"w": "ulmin", "pos": "noun", "d": ["A dark organic substance found in humus and peat."], "src": "iwb"}
+{"w": "ulmus", "pos": "noun", "d": ["The genus of the elm trees."], "src": "iwb"}
+{"w": "ulna", "pos": "noun", "d": ["The longer inner bone of the forearm."], "src": "iwb"}
+{"w": "ulnage", "pos": "noun", "d": ["An official measurement of cloth, or the office that performs it."], "src": "iwb"}
+{"w": "ulnar", "pos": "adjective", "d": ["Relating to the ulna."], "src": "iwb"}
+{"w": "ulnare", "pos": "noun", "d": ["The wrist bone that meets the ulna."], "src": "iwb"}
+{"w": "ulodendron", "pos": "noun", "d": ["A genus of fossil trees related to the club mosses."], "src": "iwb"}
+{"w": "uloid", "pos": "adjective", "d": ["Resembling or relating to a scar."], "src": "iwb"}
+{"w": "ulonata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ulotrichan", "pos": "noun", "d": ["A person with crisp or woolly hair."], "src": "iwb"}
+{"w": "ulotrichi", "pos": "noun", "d": ["People with crisp or woolly hair."], "src": "iwb"}
+{"w": "ulotrichous", "pos": "adjective", "d": ["Having crisp or woolly hair."], "src": "iwb"}
+{"w": "ulster", "pos": "noun", "d": ["A long loose overcoat."], "src": "iwb"}
+{"w": "ulterior", "pos": "adjective", "d": ["Situated on the farther side.", "Beyond what is openly stated, as in ulterior motives."], "src": "iwb"}
+{"w": "ultima", "pos": "noun", "d": ["The last syllable of a word."], "src": "iwb"}
+{"w": "ultimatum", "pos": "noun", "d": ["A final demand backed by a threat of action if it is refused."], "src": "iwb"}
+{"w": "ultime", "pos": "adjective", "d": ["Last or final."], "src": "iwb"}
+{"w": "ultimity", "pos": "noun", "d": ["The state of being ultimate or final."], "src": "iwb"}
+{"w": "ultimo", "pos": "adverb", "d": ["In the month before the present one, as in the 5th ultimo."], "src": "iwb"}
+{"w": "ultion", "pos": "noun", "d": ["Revenge; vengeance."], "src": "iwb"}
+{"w": "ultra vires", "pos": "phrase", "d": ["Beyond one's legal power or authority."], "src": "iwb"}
+{"w": "ultra-", "pos": "prefix", "d": ["A prefix meaning beyond or exceeding, as in ultraviolet."], "src": "iwb"}
+{"w": "ultrage", "pos": "noun", "d": ["An act of extreme violence; outrage."], "src": "iwb"}
+{"w": "ultramontane", "pos": "adjective", "d": ["Situated beyond the Alps; favoring supreme papal authority."], "src": "iwb"}
+{"w": "ultramontanism", "pos": "noun", "d": ["The doctrine favoring strong papal authority over national churches."], "src": "iwb"}
+{"w": "ultroneous", "pos": "adjective", "d": ["Voluntary; done of one's own accord."], "src": "iwb"}
+{"w": "ulula", "pos": "noun", "d": ["The tawny owl; also a genus of owls."], "src": "iwb"}
+{"w": "ululant", "pos": "adjective", "d": ["Howling or wailing."], "src": "iwb"}
+{"w": "ululate", "pos": "verb", "d": ["To howl or wail loudly."], "src": "iwb"}
+{"w": "ulva", "pos": "noun", "d": ["A genus of green seaweeds, including sea lettuce."], "src": "iwb"}
+{"w": "umbe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "umbel", "pos": "noun", "d": ["A flower cluster whose stalks spring from one point like umbrella ribs."], "src": "iwb"}
+{"w": "umbellic", "pos": "adjective", "d": ["Relating to an umbel."], "src": "iwb"}
+{"w": "umbellifer", "pos": "noun", "d": ["A plant bearing umbels; a member of the parsley family."], "src": "iwb"}
+{"w": "umbellularia", "pos": "noun", "d": ["A genus of evergreen trees including the California laurel."], "src": "iwb"}
+{"w": "umbellule", "pos": "noun", "d": ["A small secondary umbel."], "src": "iwb"}
+{"w": "umbery", "pos": "adjective", "d": ["Of the color umber; dark brown."], "src": "iwb"}
+{"w": "umbilic", "pos": "adjective", "d": ["Relating to the navel."], "src": "iwb"}
+{"w": "umbilicus", "pos": "noun", "d": ["The navel."], "src": "iwb"}
+{"w": "umble pie", "pos": "phrase", "d": ["A pie made from the edible entrails of a deer."], "src": "iwb"}
+{"w": "umbles", "pos": "noun", "d": ["The edible internal organs of a deer."], "src": "iwb"}
+{"w": "umbo", "pos": "noun", "d": ["A raised boss or knob, as on a shield."], "src": "iwb"}
+{"w": "umbonate", "pos": "adjective", "d": ["Having an umbo; knobbed."], "src": "iwb"}
+{"w": "umbra", "pos": "noun", "d": ["The fully shaded inner part of a shadow."], "src": "iwb"}
+{"w": "umbraculiferous", "pos": "adjective", "d": ["Bearing an umbrella-like structure."], "src": "iwb"}
+{"w": "umbraculiform", "pos": "adjective", "d": ["Shaped like an umbrella."], "src": "iwb"}
+{"w": "umbrage", "pos": "noun", "d": ["A feeling of offense or resentment at a slight.", "Shade or shadow, especially of foliage."], "src": "iwb"}
+{"w": "umbrate", "pos": "verb", "d": ["To cast a shadow over; to shade."], "src": "iwb"}
+{"w": "umbratious", "pos": "adjective", "d": ["Shady; also, easily offended."], "src": "iwb"}
+{"w": "umbre", "pos": "noun", "d": ["The grayling, a freshwater fish."], "src": "iwb"}
+{"w": "umbrel", "pos": "noun", "d": ["An umbrella or sunshade; an early form of the word umbrella."], "src": "iwb"}
+{"w": "umbrella", "pos": "noun", "d": ["A portable canopy used for protection against rain or sun."], "src": "iwb"}
+{"w": "umbrere", "pos": "noun", "d": ["The projecting shade above the face opening of a helmet."], "src": "iwb"}
+{"w": "umbrette", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "umbriere", "pos": "noun", "d": ["The projecting front of a helmet that shades the face."], "src": "iwb"}
+{"w": "umbriferous", "pos": "adjective", "d": ["Casting or bearing shade."], "src": "iwb"}
+{"w": "umbril", "pos": "noun", "d": ["The shade or visor of a helmet."], "src": "iwb"}
+{"w": "umbrine", "pos": "noun", "d": ["A marine food fish related to the croakers."], "src": "iwb"}
+{"w": "umbrose", "pos": "adjective", "d": ["Shady."], "src": "iwb"}
+{"w": "umbrosity", "pos": "noun", "d": ["The quality of being shady."], "src": "iwb"}
+{"w": "umhofo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "umlaut", "pos": "noun", "d": ["A vowel change in Germanic languages; also the mark placed over the vowel to show it."], "src": "iwb"}
+{"w": "umpirage", "pos": "noun", "d": ["The office or function of an umpire."], "src": "iwb"}
+{"w": "umpire", "pos": "noun", "d": ["An official who enforces the rules of a game."], "src": "iwb"}
+{"w": "umpress", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "umpteen", "pos": "adjective", "d": ["Indefinitely many; a large unspecified number."], "src": "iwb"}
+{"w": "umquhile", "pos": "adjective", "d": ["Former or deceased, as in the umquhile king."], "src": "iwb"}
+{"w": "un-", "pos": "prefix", "d": ["A prefix meaning not, as in unhappy, or reversal, as in undo."], "src": "iwb"}
+{"w": "un-romanized", "pos": "adjective", "d": ["Not romanized; not written in Roman letters."], "src": "iwb"}
+{"w": "una boat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unabridged", "pos": "adjective", "d": ["Not shortened; complete and uncut."], "src": "iwb"}
+{"w": "unadvised", "pos": "adjective", "d": ["Not advised; also, rash or ill-considered."], "src": "iwb"}
+{"w": "unafiled", "pos": "adjective", "d": ["Not put on file; not recorded."], "src": "iwb"}
+{"w": "unaidable", "pos": "adjective", "d": ["That cannot be aided or helped."], "src": "iwb"}
+{"w": "unalist", "pos": "adjective", "d": ["Not placed on a list."], "src": "iwb"}
+{"w": "unalloyed", "pos": "adjective", "d": ["Not mixed with alloy; pure."], "src": "iwb"}
+{"w": "unalmsed", "pos": "adjective", "d": ["Not supported by alms or charity."], "src": "iwb"}
+{"w": "unaneled", "pos": "adjective", "d": ["Not anointed with the rite of extreme unction."], "src": "iwb"}
+{"w": "unanimity", "pos": "noun", "d": ["Complete agreement among all concerned."], "src": "iwb"}
+{"w": "unanswerability", "pos": "noun", "d": ["The quality of being impossible to answer."], "src": "iwb"}
+{"w": "unanswered", "pos": "adjective", "d": ["Not answered."], "src": "iwb"}
+{"w": "unappalled", "pos": "adjective", "d": ["Not appalled; undismayed."], "src": "iwb"}
+{"w": "unapproved", "pos": "adjective", "d": ["Not approved or sanctioned."], "src": "iwb"}
+{"w": "unaquit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unargued", "pos": "adjective", "d": ["Not argued or debated."], "src": "iwb"}
+{"w": "unarted", "pos": "adjective", "d": ["Not trained in an art or skill."], "src": "iwb"}
+{"w": "unascried", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unaserved", "pos": "adjective", "d": ["Not served or attended to."], "src": "iwb"}
+{"w": "unassented", "pos": "adjective", "d": ["Not assented to; not agreed."], "src": "iwb"}
+{"w": "unattached", "pos": "adjective", "d": ["Not attached; free from engagement or obligation."], "src": "iwb"}
+{"w": "unau", "pos": "noun", "d": ["The two-toed sloth of South America."], "src": "iwb"}
+{"w": "unaudienced", "pos": "adjective", "d": ["Not granted an audience."], "src": "iwb"}
+{"w": "unavoided", "pos": "adjective", "d": ["Not avoided."], "src": "iwb"}
+{"w": "unbalanced", "pos": "adjective", "d": ["Not balanced; also, mentally unsound."], "src": "iwb"}
+{"w": "unbaned", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unbarricadoed", "pos": "adjective", "d": ["Not blocked by barricades."], "src": "iwb"}
+{"w": "unbe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unbedinned", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unbelieved", "pos": "adjective", "d": ["Not believed."], "src": "iwb"}
+{"w": "unbereaven", "pos": "adjective", "d": ["Not deprived or bereaved."], "src": "iwb"}
+{"w": "unblemished", "pos": "adjective", "d": ["Free from blemish; spotless."], "src": "iwb"}
+{"w": "unborrowed", "pos": "adjective", "d": ["Not borrowed; original."], "src": "iwb"}
+{"w": "unbreathed", "pos": "adjective", "d": ["Not breathed; not uttered."], "src": "iwb"}
+{"w": "unbrewed", "pos": "adjective", "d": ["Not brewed."], "src": "iwb"}
+{"w": "unburiable", "pos": "adjective", "d": ["Not able to be buried."], "src": "iwb"}
+{"w": "unbusied", "pos": "adjective", "d": ["Not occupied; idle."], "src": "iwb"}
+{"w": "uncalled-for", "pos": "adjective", "d": ["Not warranted or justified by the circumstances."], "src": "iwb"}
+{"w": "uncared", "pos": "adjective", "d": ["Not cared for; neglected."], "src": "iwb"}
+{"w": "uncaused", "pos": "adjective", "d": ["Not caused; without a cause."], "src": "iwb"}
+{"w": "unce", "pos": "abbreviation", "d": ["An abbreviation of ounce."], "src": "iwb"}
+{"w": "unceasable", "pos": "adjective", "d": ["That cannot cease; unceasing."], "src": "iwb"}
+{"w": "unchancy", "pos": "adjective", "d": ["Unlucky; bringing bad luck."], "src": "iwb"}
+{"w": "uncheckable", "pos": "adjective", "d": ["That cannot be checked or verified."], "src": "iwb"}
+{"w": "uncia", "pos": "noun", "d": ["A Roman unit of weight, and a Roman coin worth one twelfth of an as."], "src": "iwb"}
+{"w": "uncial", "pos": "adjective", "d": ["Relating to a rounded majuscule script used in early manuscripts."], "src": "iwb"}
+{"w": "unciatim", "pos": "adverb", "d": ["By twelfths or ounces."], "src": "iwb"}
+{"w": "unciform", "pos": "adjective", "d": ["Hook-shaped, as the unciform bone of the wrist."], "src": "iwb"}
+{"w": "uncinata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uncinate", "pos": "adjective", "d": ["Hooked at the end."], "src": "iwb"}
+{"w": "uncinatum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uncinus", "pos": "noun", "d": ["A small hook or hooklike part."], "src": "iwb"}
+{"w": "uncircumcised", "pos": "adjective", "d": ["Not circumcised."], "src": "iwb"}
+{"w": "uncircumstandtial", "pos": "adjective", "d": ["Not circumstantial; based on direct evidence."], "src": "iwb"}
+{"w": "uncivilty", "pos": "noun", "d": ["Lack of civility; rudeness."], "src": "iwb"}
+{"w": "unco", "pos": "adjective", "d": ["Strange or remarkable.", "In Scots use, very or extremely, as in unco glad."], "src": "iwb"}
+{"w": "uncoined", "pos": "adjective", "d": ["Not formed into coins."], "src": "iwb"}
+{"w": "uncomeatable", "pos": "adjective", "d": ["Not able to be reached or approached."], "src": "iwb"}
+{"w": "uncompromising", "pos": "adjective", "d": ["Refusing to compromise; inflexible."], "src": "iwb"}
+{"w": "unconcluding", "pos": "adjective", "d": ["Not coming to a conclusion; inconclusive."], "src": "iwb"}
+{"w": "unconning", "pos": "adjective", "d": ["Ignorant; not learned."], "src": "iwb"}
+{"w": "unconsidered", "pos": "adjective", "d": ["Not thought over; disregarded."], "src": "iwb"}
+{"w": "uncontroversory", "pos": "adjective", "d": ["Not open to dispute; not controversial."], "src": "iwb"}
+{"w": "uncontrovertibly", "pos": "adverb", "d": ["In a way that cannot be disputed; indisputably."], "src": "iwb"}
+{"w": "unconverted", "pos": "adjective", "d": ["Not converted."], "src": "iwb"}
+{"w": "uncous", "pos": "noun", "d": ["Strange or remarkable people; odd ones."], "src": "iwb"}
+{"w": "uncovenanted", "pos": "adjective", "d": ["Not secured by a covenant or promise."], "src": "iwb"}
+{"w": "uncrudded", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unction", "pos": "noun", "d": ["The act of anointing with oil, especially in a religious rite.", "Warmth or fervor of expression, often affected."], "src": "iwb"}
+{"w": "unctious", "pos": "adjective", "d": ["Unctuous; excessively smooth or oily in manner."], "src": "iwb"}
+{"w": "unctuosity", "pos": "noun", "d": ["The quality of being unctuous."], "src": "iwb"}
+{"w": "unctuous", "pos": "adjective", "d": ["Oily or greasy in texture.", "Excessively smooth or flattering in manner."], "src": "iwb"}
+{"w": "uncurably", "pos": "adverb", "d": ["In a manner that cannot be cured."], "src": "iwb"}
+{"w": "uncurbable", "pos": "adjective", "d": ["That cannot be curbed or restrained."], "src": "iwb"}
+{"w": "uncus", "pos": "noun", "d": ["A hook-shaped organ or process."], "src": "iwb"}
+{"w": "uncustomed", "pos": "adjective", "d": ["Not accustomed.", "Not having paid customs duty."], "src": "iwb"}
+{"w": "uncut velvet", "pos": "phrase", "d": ["Velvet woven with its pile loops left whole instead of cut."], "src": "iwb"}
+{"w": "uncuth", "pos": "adjective", "d": ["Unknown or strange."], "src": "iwb"}
+{"w": "undampned", "pos": "adjective", "d": ["Not damped or diminished."], "src": "iwb"}
+{"w": "undated", "pos": "adjective", "d": ["Not dated; bearing no date."], "src": "iwb"}
+{"w": "undauntable", "pos": "adjective", "d": ["That cannot be daunted; fearless."], "src": "iwb"}
+{"w": "undaunted", "pos": "adjective", "d": ["Not discouraged or intimidated by danger or difficulty."], "src": "iwb"}
+{"w": "unde", "pos": "adjective", "d": ["Wavy or undulating in form, as a line in heraldry."], "src": "iwb"}
+{"w": "undecylenic", "pos": "adjective", "d": ["Relating to undecylenic acid, a fatty acid from castor oil used in antifungal medicines."], "src": "iwb"}
+{"w": "undeeded", "pos": "adjective", "d": ["Not conveyed or transferred by a legal deed."], "src": "iwb"}
+{"w": "undeniably", "pos": "adverb", "d": ["In a way that cannot be denied or disputed."], "src": "iwb"}
+{"w": "under-age", "pos": "adjective", "d": ["Below the legal age required for some activity."], "src": "iwb"}
+{"w": "under-arm", "pos": "adjective", "d": ["Situated or worn beneath the arm."], "src": "iwb"}
+{"w": "under-garment", "pos": "noun", "d": ["A garment worn beneath outer clothing."], "src": "iwb"}
+{"w": "underdo", "pos": "verb", "d": ["To do less thoroughly or completely than is needed."], "src": "iwb"}
+{"w": "underdressed", "pos": "adjective", "d": ["Dressed too plainly or too lightly for the occasion."], "src": "iwb"}
+{"w": "underfong", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "undergo", "pos": "verb", "d": ["To experience or endure something, especially something difficult."], "src": "iwb"}
+{"w": "underground insurance", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "underload starter", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "underload switch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "undermanned", "pos": "adjective", "d": ["Having fewer workers or crew members than are needed."], "src": "iwb"}
+{"w": "undernime", "pos": "verb", "d": ["To take or receive; to undertake."], "src": "iwb"}
+{"w": "underproportioned", "pos": "adjective", "d": ["Having parts that are too small in relation to the whole."], "src": "iwb"}
+{"w": "undershapen", "pos": "adjective", "d": ["Badly or poorly shaped; misshapen."], "src": "iwb"}
+{"w": "undersparred", "pos": "adjective", "d": ["Carrying too few or too small spars, as a ship."], "src": "iwb"}
+{"w": "undertaxed", "pos": "adjective", "d": ["Taxed too lightly."], "src": "iwb"}
+{"w": "undifferentiated", "pos": "adjective", "d": ["Not specialized in form or function, as an embryonic cell."], "src": "iwb"}
+{"w": "undiocesed", "pos": "adjective", "d": ["Not formed into or assigned to a diocese."], "src": "iwb"}
+{"w": "undispensed", "pos": "adjective", "d": ["Not dispensed or distributed."], "src": "iwb"}
+{"w": "undoubted", "pos": "adjective", "d": ["Not doubted; certain."], "src": "iwb"}
+{"w": "undreamed", "pos": "adjective", "d": ["Never dreamed of; not imagined."], "src": "iwb"}
+{"w": "undreamt", "pos": "adjective", "d": ["Never dreamed of; not imagined."], "src": "iwb"}
+{"w": "undulant", "pos": "adjective", "d": ["Rising and falling in waves, as in undulant fever."], "src": "iwb"}
+{"w": "undulary", "pos": "adjective", "d": ["Pertaining to waves or wavelike motion."], "src": "iwb"}
+{"w": "undulate", "pos": "verb", "d": ["To move or rise and fall like waves."], "src": "iwb"}
+{"w": "undulation", "pos": "noun", "d": ["A wavelike motion or form."], "src": "iwb"}
+{"w": "undulative", "pos": "adjective", "d": ["Having the character of waves; undulating."], "src": "iwb"}
+{"w": "undulatory", "pos": "adjective", "d": ["Relating to or producing undulation."], "src": "iwb"}
+{"w": "undulous", "pos": "adjective", "d": ["Wavy; undulating."], "src": "iwb"}
+{"w": "undwellable", "pos": "adjective", "d": ["Not fit to be lived in."], "src": "iwb"}
+{"w": "unearned", "pos": "adjective", "d": ["Not earned."], "src": "iwb"}
+{"w": "unefectual", "pos": "adjective", "d": ["Not effectual; ineffective."], "src": "iwb"}
+{"w": "unembarrassed", "pos": "adjective", "d": ["Not feeling embarrassment or shame."], "src": "iwb"}
+{"w": "unembodied", "pos": "adjective", "d": ["Not given a body or concrete form."], "src": "iwb"}
+{"w": "unemployed", "pos": "adjective", "d": ["Not employed; without a paid job."], "src": "iwb"}
+{"w": "unendly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unerring", "pos": "adjective", "d": ["Making no errors; consistently accurate."], "src": "iwb"}
+{"w": "uneth", "pos": "adverb", "d": ["Scarcely; hardly; with difficulty."], "src": "iwb"}
+{"w": "unexampled", "pos": "adjective", "d": ["Having no example or precedent; unprecedented."], "src": "iwb"}
+{"w": "unfailable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unfathered", "pos": "adjective", "d": ["Without a father; fatherless."], "src": "iwb"}
+{"w": "unfeaty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unfledged", "pos": "adjective", "d": ["Not yet having grown feathers, as a young bird.", "Inexperienced or immature."], "src": "iwb"}
+{"w": "unflinching", "pos": "adjective", "d": ["Not flinching or shrinking back; resolute."], "src": "iwb"}
+{"w": "unforeskinned", "pos": "adjective", "d": ["Not circumcised; having a foreskin."], "src": "iwb"}
+{"w": "unfounded", "pos": "adjective", "d": ["Having no basis in fact; baseless."], "src": "iwb"}
+{"w": "unfrankable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unfumed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ungainliness", "pos": "noun", "d": ["The quality of being ungainly; awkwardness."], "src": "iwb"}
+{"w": "ungenitured", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ungifted", "pos": "adjective", "d": ["Not gifted; lacking special talent."], "src": "iwb"}
+{"w": "ungka", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ungka-puti", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ungored", "pos": "adjective", "d": ["Not gored or pierced by horns."], "src": "iwb"}
+{"w": "ungual", "pos": "adjective", "d": ["Relating to a nail, claw, or hoof."], "src": "iwb"}
+{"w": "ungueal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unguent", "pos": "noun", "d": ["An ointment or salve for soothing the skin."], "src": "iwb"}
+{"w": "unguestlike", "pos": "adjective", "d": ["Not behaving as a proper guest should."], "src": "iwb"}
+{"w": "unguical", "pos": "adjective", "d": ["Pertaining to a nail, claw, or hoof."], "src": "iwb"}
+{"w": "unguicular", "pos": "adjective", "d": ["Pertaining to claws or nails; bearing claws."], "src": "iwb"}
+{"w": "unguiculata", "pos": "noun", "d": ["A former zoological group of mammals characterized by claws rather than hoofs."], "src": "iwb"}
+{"w": "unguiculate", "pos": "adjective", "d": ["Having claws; clawed."], "src": "iwb"}
+{"w": "unguiferous", "pos": "adjective", "d": ["Bearing nails, claws, or hoofs."], "src": "iwb"}
+{"w": "unguiform", "pos": "adjective", "d": ["Shaped like a nail, claw, or hoof."], "src": "iwb"}
+{"w": "unguinous", "pos": "adjective", "d": ["Oily or greasy in texture."], "src": "iwb"}
+{"w": "unguis", "pos": "noun", "d": ["A nail, claw, or hoof."], "src": "iwb"}
+{"w": "ungulata", "pos": "noun", "d": ["The hoofed mammals, forming the order Ungulata."], "src": "iwb"}
+{"w": "ungulate", "pos": "noun", "d": ["A hoofed mammal, such as a horse, cow, or deer."], "src": "iwb"}
+{"w": "unguled", "pos": "adjective", "d": ["Having hoofs; hoofed."], "src": "iwb"}
+{"w": "unguligrade", "pos": "adjective", "d": ["Walking on hoofs, as horses do."], "src": "iwb"}
+{"w": "ungulous", "pos": "adjective", "d": ["Having hoofs; hoofed."], "src": "iwb"}
+{"w": "unheard-of", "pos": "adjective", "d": ["Never heard of before; unprecedented."], "src": "iwb"}
+{"w": "unheired", "pos": "adjective", "d": ["Having no heir."], "src": "iwb"}
+{"w": "unhoped", "pos": "adjective", "d": ["Not hoped for."], "src": "iwb"}
+{"w": "unhoped-for", "pos": "adjective", "d": ["Not hoped for; unexpected."], "src": "iwb"}
+{"w": "unhosed", "pos": "adjective", "d": ["Not wearing hose or stockings."], "src": "iwb"}
+{"w": "uni-", "pos": "prefix", "d": ["One; single, as in unicycle."], "src": "iwb"}
+{"w": "uniat", "pos": "noun", "d": ["A member of an Eastern church in communion with Rome."], "src": "iwb"}
+{"w": "uniate", "pos": "noun", "d": ["A member of an Eastern church united with the Roman Catholic Church.", "Relating to such a church."], "src": "iwb"}
+{"w": "uniaxal", "pos": "adjective", "d": ["Having a single axis."], "src": "iwb"}
+{"w": "uniaxial", "pos": "adjective", "d": ["Having one axis."], "src": "iwb"}
+{"w": "unibranchiate", "pos": "adjective", "d": ["Having a single gill."], "src": "iwb"}
+{"w": "unicameral", "pos": "adjective", "d": ["Having a single legislative chamber."], "src": "iwb"}
+{"w": "unicapsular", "pos": "adjective", "d": ["Having a single capsule, as a plant ovary."], "src": "iwb"}
+{"w": "unicarinated", "pos": "adjective", "d": ["Having a single keel or ridge."], "src": "iwb"}
+{"w": "unicelled", "pos": "adjective", "d": ["Consisting of a single cell."], "src": "iwb"}
+{"w": "unicellular", "pos": "adjective", "d": ["Consisting of one cell."], "src": "iwb"}
+{"w": "unicentral", "pos": "adjective", "d": ["Having a single center."], "src": "iwb"}
+{"w": "unicity", "pos": "noun", "d": ["The state of being one or unique; oneness."], "src": "iwb"}
+{"w": "uniclinal", "pos": "adjective", "d": ["Sloping or dipping in one direction, as rock strata."], "src": "iwb"}
+{"w": "unicolorous", "pos": "adjective", "d": ["Of a single color throughout."], "src": "iwb"}
+{"w": "unicorn", "pos": "noun", "d": ["A mythical horse-like creature with a single horn on its forehead."], "src": "iwb"}
+{"w": "unicostate", "pos": "adjective", "d": ["Having a single rib or midrib."], "src": "iwb"}
+{"w": "unicursal", "pos": "adjective", "d": ["Capable of being drawn in one continuous line without lifting the pen."], "src": "iwb"}
+{"w": "unideaed", "pos": "adjective", "d": ["Having no ideas; lacking ideas."], "src": "iwb"}
+{"w": "unidimensional", "pos": "adjective", "d": ["Having only one dimension."], "src": "iwb"}
+{"w": "unifacial", "pos": "adjective", "d": ["Having or worked on only one face or surface."], "src": "iwb"}
+{"w": "unific", "pos": "adjective", "d": ["Making one; tending to unify."], "src": "iwb"}
+{"w": "unifilar", "pos": "adjective", "d": ["Consisting of a single thread or wire."], "src": "iwb"}
+{"w": "uniflagellate", "pos": "adjective", "d": ["Having a single flagellum."], "src": "iwb"}
+{"w": "uniflorous", "pos": "adjective", "d": ["Bearing a single flower."], "src": "iwb"}
+{"w": "unifolliate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unifollilate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uniformitarian", "pos": "noun", "d": ["One who holds that geological change results from the same gradual processes observable today."], "src": "iwb"}
+{"w": "unifromness", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unify", "pos": "verb", "d": ["To make into one; to bring together as a single whole."], "src": "iwb"}
+{"w": "unigeniture", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unigenous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unijugate", "pos": "adjective", "d": ["Having a single pair of leaflets, as a pinnate leaf."], "src": "iwb"}
+{"w": "unilabiate", "pos": "adjective", "d": ["Having a single lip, as a corolla."], "src": "iwb"}
+{"w": "unilateral", "pos": "adjective", "d": ["One-sided; involving or affecting one side only."], "src": "iwb"}
+{"w": "uniliteral", "pos": "adjective", "d": ["Consisting of a single letter."], "src": "iwb"}
+{"w": "unilobar", "pos": "adjective", "d": ["Having a single lobe."], "src": "iwb"}
+{"w": "unilocular", "pos": "adjective", "d": ["Having a single chamber or compartment."], "src": "iwb"}
+{"w": "unimpairable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unimproved", "pos": "adjective", "d": ["Not improved."], "src": "iwb"}
+{"w": "unimuscular", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unincumbered", "pos": "adjective", "d": ["Not encumbered; free from burdens or claims."], "src": "iwb"}
+{"w": "uninfringible", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uninteressed", "pos": "adjective", "d": ["Not interested; feeling no interest."], "src": "iwb"}
+{"w": "uninucleated", "pos": "adjective", "d": ["Having a single nucleus."], "src": "iwb"}
+{"w": "unio", "pos": "noun", "d": ["A genus of freshwater mussels."], "src": "iwb"}
+{"w": "uniocular", "pos": "adjective", "d": ["Having or relating to a single eye."], "src": "iwb"}
+{"w": "uniovulate", "pos": "adjective", "d": ["Having a single ovule."], "src": "iwb"}
+{"w": "unipara", "pos": "noun", "d": ["A woman who has given birth to one child."], "src": "iwb"}
+{"w": "uniparous", "pos": "adjective", "d": ["Producing one offspring at a birth; having borne one child."], "src": "iwb"}
+{"w": "uniped", "pos": "noun", "d": ["An animal having only one foot."], "src": "iwb"}
+{"w": "unipersonal", "pos": "adjective", "d": ["Of or for a single person; used in one grammatical person only."], "src": "iwb"}
+{"w": "uniphonous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uniplicate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unipolar", "pos": "adjective", "d": ["Having a single pole."], "src": "iwb"}
+{"w": "uniquity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uniradiated", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uniramous", "pos": "adjective", "d": ["Having a single branch, as an arthropod appendage."], "src": "iwb"}
+{"w": "uniseptate", "pos": "adjective", "d": ["Having a single dividing wall or partition."], "src": "iwb"}
+{"w": "uniserial", "pos": "adjective", "d": ["Arranged in a single row or series."], "src": "iwb"}
+{"w": "uniseriate", "pos": "adjective", "d": ["Arranged in a single row or series."], "src": "iwb"}
+{"w": "unisexual", "pos": "adjective", "d": ["Of one sex only; having male or female flowers but not both."], "src": "iwb"}
+{"w": "unisilicate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unison", "pos": "noun", "d": ["The sounding of the same note by two or more voices or instruments.", "Complete agreement or harmony."], "src": "iwb"}
+{"w": "unite", "pos": "verb", "d": ["To join together into one."], "src": "iwb"}
+{"w": "unitude", "pos": "noun", "d": ["The state of being one; oneness."], "src": "iwb"}
+{"w": "univalence", "pos": "noun", "d": ["The state of being univalent; having a valence of one."], "src": "iwb"}
+{"w": "univalent", "pos": "adjective", "d": ["Having a chemical valence of one."], "src": "iwb"}
+{"w": "univalve", "pos": "noun", "d": ["A mollusk having a single shell, such as a snail."], "src": "iwb"}
+{"w": "univalvia", "pos": "noun", "d": ["A group of mollusks having a single shell."], "src": "iwb"}
+{"w": "univalvular", "pos": "adjective", "d": ["Having a single valve."], "src": "iwb"}
+{"w": "univariant", "pos": "adjective", "d": ["Having or depending on a single variable."], "src": "iwb"}
+{"w": "universalian", "pos": "noun", "d": ["One who believes in the universal salvation of all people."], "src": "iwb"}
+{"w": "university extension", "pos": "phrase", "d": ["University courses offered to people not enrolled as regular students."], "src": "iwb"}
+{"w": "universological", "pos": "adjective", "d": ["Relating to universology."], "src": "iwb"}
+{"w": "universologist", "pos": "noun", "d": ["One who studies universology."], "src": "iwb"}
+{"w": "universology", "pos": "noun", "d": ["The study of the universe as an ordered whole."], "src": "iwb"}
+{"w": "univocacy", "pos": "noun", "d": ["The quality of having one clear meaning; lack of ambiguity."], "src": "iwb"}
+{"w": "univocal", "pos": "adjective", "d": ["Having only one meaning; unambiguous."], "src": "iwb"}
+{"w": "univocation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unkard", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unkemmed", "pos": "adjective", "d": ["Not combed; unkempt."], "src": "iwb"}
+{"w": "unkent", "pos": "adjective", "d": ["Unknown; not known."], "src": "iwb"}
+{"w": "unketh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unkle", "pos": "noun", "d": ["An obsolete variant spelling of uncle."], "src": "iwb"}
+{"w": "unknowledged", "pos": "adjective", "d": ["Lacking knowledge; ignorant."], "src": "iwb"}
+{"w": "unleavened", "pos": "adjective", "d": ["Made without yeast or other leavening."], "src": "iwb"}
+{"w": "unlicked", "pos": "adjective", "d": ["Not brought into proper shape; crude and unfinished."], "src": "iwb"}
+{"w": "unliquidated", "pos": "adjective", "d": ["Not settled or determined in amount, as a debt."], "src": "iwb"}
+{"w": "unliquored", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unlisted", "pos": "adjective", "d": ["Not listed."], "src": "iwb"}
+{"w": "unlocated", "pos": "adjective", "d": ["Not located; not assigned a place."], "src": "iwb"}
+{"w": "unlooked-for", "pos": "adjective", "d": ["Not looked for; unexpected."], "src": "iwb"}
+{"w": "unmasterable", "pos": "adjective", "d": ["That cannot be mastered."], "src": "iwb"}
+{"w": "unmentionables", "pos": "noun", "d": ["Things not fit to be mentioned; a euphemism for underwear."], "src": "iwb"}
+{"w": "unmercied", "pos": "adjective", "d": ["Without mercy; unmerciful."], "src": "iwb"}
+{"w": "unmoralized", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unmorrised", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unmoved", "pos": "adjective", "d": ["Not moved; emotionally unaffected."], "src": "iwb"}
+{"w": "unnapped", "pos": "adjective", "d": ["Lacking a nap or fuzzy surface, as cloth."], "src": "iwb"}
+{"w": "unneighbored", "pos": "adjective", "d": ["Having no neighbors; isolated."], "src": "iwb"}
+{"w": "unnethe", "pos": "adverb", "d": ["Scarcely; hardly; with difficulty."], "src": "iwb"}
+{"w": "unnooked", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unnumbered", "pos": "adjective", "d": ["Not numbered; too many to count."], "src": "iwb"}
+{"w": "unorganized", "pos": "adjective", "d": ["Not organized."], "src": "iwb"}
+{"w": "unoriginated", "pos": "adjective", "d": ["Having no origin; uncreated."], "src": "iwb"}
+{"w": "unoriginately", "pos": "adverb", "d": ["In a way that has no origin; from no beginning."], "src": "iwb"}
+{"w": "unowed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unowned", "pos": "adjective", "d": ["Not owned; having no owner."], "src": "iwb"}
+{"w": "unpaired", "pos": "adjective", "d": ["Not paired; single or odd."], "src": "iwb"}
+{"w": "unparagoned", "pos": "adjective", "d": ["Without equal; unmatched."], "src": "iwb"}
+{"w": "unparalleled", "pos": "adjective", "d": ["Having no parallel or equal."], "src": "iwb"}
+{"w": "unparched", "pos": "adjective", "d": ["Not parched; not dried out."], "src": "iwb"}
+{"w": "unparented", "pos": "adjective", "d": ["Without parents; orphaned."], "src": "iwb"}
+{"w": "unpathed", "pos": "adjective", "d": ["Without a path; trackless."], "src": "iwb"}
+{"w": "unpathwayed", "pos": "adjective", "d": ["Without pathways; trackless."], "src": "iwb"}
+{"w": "unpaved", "pos": "adjective", "d": ["Not paved."], "src": "iwb"}
+{"w": "unpedigreed", "pos": "adjective", "d": ["Without a pedigree; of unknown lineage."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

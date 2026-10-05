@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="js/signin.js"></script>
+<script src="js/signin.js"></script><script src="js/godmode.js"></script>
 <script>/* profile-aware storage wrapper: signed out = plain localStorage (unchanged); signed in = per-profile namespace */
 var PS=(typeof JAHProfile!=="undefined"&&JAHProfile)?JAHProfile.store:{get:function(k){try{return localStorage.getItem(k)}catch(e){return null}},set:function(k,v){try{localStorage.setItem(k,v)}catch(e){}},remove:function(k){try{localStorage.removeItem(k)}catch(e){}}};
 function jahChatKey(base){return (typeof JAHProfile!=="undefined"&&JAHProfile)?JAHProfile.chatKey(base):base;}</script>

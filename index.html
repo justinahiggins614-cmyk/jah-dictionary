@@ -1425,5 +1425,16 @@ document.addEventListener("DOMContentLoaded",function(){
   if (window.JAHProfile && JAHProfile.ui) JAHProfile.ui.renderButton(mount);
 })();
 </script>
+<script>
+(function () {
+  /* Profiles v2 Step 6(a) — "Make it mine" page greeting near the header mount.
+     Renders ONLY when personalization is live (signed in + opted in + My view);
+     signed-out and Signature-view visitors see nothing. */
+  if (window.JAHProfile && JAHProfile.ui) {
+    var gmount = document.querySelector('header') || document.body;
+    JAHProfile.ui.renderGreeting(gmount);
+  }
+})();
+</script>
 </body>
 </html>

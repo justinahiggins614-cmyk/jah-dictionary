@@ -998,10 +998,10 @@ function teacherReply(q,e,D,pos){
  var w=e.w,low=String(q).toLowerCase(),senses=Array.isArray(e.d)?e.d:[e.d];
  function firstSense(){var e=window._e;if(!e||!e.d||!e.d.length)return "(the Signature Dictionary definition is still being written)";return cleanSense(senses[0]||"").slice(0,300)}
  if(/^(hi|hello|hey|yo|good (morning|afternoon|evening))\b/.test(low)){
-  if(window.JAHtalk)return JAHtalk.reply(jahProfile(e),q);
+  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),'word:'+(e.w||''))).reply(q);
   return "Hello! I'm your personal AI teacher for the word \u201c"+w+"\u201d. Ask me what it means, how to use it in a sentence, how to spell it, what its stamp is \u2014 anything about this word.";}
  if(/thank/.test(low)){
-  if(window.JAHtalk)return JAHtalk.reply(jahProfile(e),q);
+  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),'word:'+(e.w||''))).reply(q);
   return "You're very welcome! Words are wonderful things. Ask me anything else about \u201c"+w+"\u201d.";}
  if(/duties|what do you do|what can you do|your job|your role|your abilities|help me/.test(low)){
   if(window.JAHtalk)return JAHtalk.duties(jahProfile(e));}
@@ -1024,7 +1024,7 @@ function teacherReply(q,e,D,pos){
  if(/pronounce|speak|say it|read/.test(low))return "Tap \u201cHear word\u201d to hear \u201c"+w+"\u201d spoken, or \u201cRead aloud\u201d and I will read the whole entry to you \u2014 you can change the speed too.";
  if(/who|jah|iwb|source|where.*from/.test(low))return "The normal definitions on this page are written fresh for The Signature Dictionary. The deterministic definition, the stamp ("+e.st+"), the word program, and I \u2014 your teacher \u2014 are made by the JAH system.";
  if(/mean|defin|what is|what does|what are|define/.test(low))return "In plain words: "+firstSense()+"\n\nThat's the Signature Dictionary sense. The deterministic reading adds that \u201c"+w+"\u201d is a "+D.syl+"-syllable form of "+D.len+" letters with alphabetic sum "+D.sum+" (root "+D.dr+").";
- if(window.JAHtalk)return JAHtalk.reply(jahProfile(e),q);
+ if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),'word:'+(e.w||''))).reply(q);
  return "As your teacher for \u201c"+w+"\u201d, here's the heart of it: "+firstSense()+"\n\nYou can also ask me for a sentence using it, how to spell it, its syllables, its stamp, or where it appears in the catalogs.";
 }
 function wireTeacher(e,D,pos){

@@ -83,6 +83,23 @@ def main():
     assert hw_pat.search(html), "headword corpus count marker not found"
     html = hw_pat.sub(lambda m: m.group(1) + fmt(words) + m.group(2), html, count=1)
 
+    # --- prose "N English headwords" mentions (meta + body copy) ---
+    # These went stale when the word drip grew the corpus from 102,218 ->
+    # 102,223; stamp them from stats.json so they never drift again.
+    # meta / og / twitter descriptions: "... original definitions for N English headwords, ..."
+    hwmeta_pat = re.compile(r'(original definitions for )[\d,]+( English headwords)')
+    matches = hwmeta_pat.findall(html)
+    assert matches, "headword meta count marker not found"
+    html = hwmeta_pat.sub(lambda m: m.group(1) + fmt(words) + m.group(2), html)
+    # Machine-access line: "headwords.csv (word,pos,stamp — N rows)"
+    hwcsv_pat = re.compile(r'(\(word,pos,stamp — )[\d,]+( rows\))')
+    assert hwcsv_pat.search(html), "headwords.csv rows marker not found"
+    html = hwcsv_pat.sub(lambda m: m.group(1) + fmt(words) + m.group(2), html, count=1)
+    # Intro line: "(N headwords + JAH catalog terms)"
+    hwintro_pat = re.compile(r'\([\d,]+ headwords \+ JAH catalog terms\)')
+    assert hwintro_pat.search(html), "intro headword count marker not found"
+    html = hwintro_pat.sub('(' + fmt(words) + ' headwords + JAH catalog terms)', html, count=1)
+
     # --- defined/pending stat rows (added once, then re-stamped) ---
     # Visible naming: official site name is "The Signature Dictionary"; the
     # internal drip files (iwb_drip.jsonl etc.) keep their code IDs, but every

@@ -50404,3 +50404,803 @@
 {"w":"thick-skinned","pos":"adjective","d":["Having thick skin; not easily hurt or offended."]}
 {"w":"thick-skulled","pos":"adjective","d":["Stupid; dull-witted."]}
 {"w":"thick-winded","pos":"adjective","d":["Short of breath; breathing with difficulty."]}
+{"w": "thicket", "pos": "noun", "d": ["A dense patch of shrubs, bushes, or small trees growing close together."], "src": "iwb"}
+{"w": "thider", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thief", "pos": "noun", "d": ["A person who steals the property of another."], "src": "iwb"}
+{"w": "thienone", "pos": "noun", "d": ["A ketone compound derived from thiophene."], "src": "iwb"}
+{"w": "thienyl", "pos": "noun", "d": ["A univalent radical derived from thiophene."], "src": "iwb"}
+{"w": "thieve", "pos": "verb", "d": ["To take the property of another without permission or right."], "src": "iwb"}
+{"w": "thievery", "pos": "noun", "d": ["The act or practice of stealing."], "src": "iwb"}
+{"w": "thievish", "pos": "adjective", "d": ["Having the nature or habits of a thief."], "src": "iwb"}
+{"w": "thigh", "pos": "noun", "d": ["The part of the leg between the hip and the knee."], "src": "iwb"}
+{"w": "thigmotactic", "pos": "adjective", "d": ["Relating to or showing thigmotaxis, movement or growth in response to touch."], "src": "iwb"}
+{"w": "thigmotaxis", "pos": "noun", "d": ["Movement or growth of an organism in response to the stimulus of touch or contact."], "src": "iwb"}
+{"w": "thilk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thill", "pos": "noun", "d": ["One of the two shafts of a wagon or cart, between which a horse is harnessed."], "src": "iwb"}
+{"w": "thimble", "pos": "noun", "d": ["A small metal or plastic cap worn on the finger to push a needle through cloth in sewing."], "src": "iwb"}
+{"w": "thin-skinned", "pos": "adjective", "d": ["Easily hurt or offended by criticism."], "src": "iwb"}
+{"w": "thine", "pos": "pronoun", "d": ["An archaic possessive form of thou, meaning yours."], "src": "iwb"}
+{"w": "thinnish", "pos": "adjective", "d": ["Somewhat thin; rather thin."], "src": "iwb"}
+{"w": "thinolite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thio-", "pos": "prefix", "d": ["A chemistry prefix denoting sulfur in place of oxygen in a compound."], "src": "iwb"}
+{"w": "thiocarbonate", "pos": "noun", "d": ["A salt of thiocarbonic acid."], "src": "iwb"}
+{"w": "thiocarbonic", "pos": "adjective", "d": ["Of or relating to thiocarbonic acid."], "src": "iwb"}
+{"w": "thiocyanate", "pos": "noun", "d": ["A salt of thiocyanic acid."], "src": "iwb"}
+{"w": "thiocyanic", "pos": "adjective", "d": ["Of or relating to thiocyanic acid."], "src": "iwb"}
+{"w": "thionaphthene", "pos": "noun", "d": ["A sulfur-containing organic compound with fused benzene and thiophene rings."], "src": "iwb"}
+{"w": "thionic", "pos": "adjective", "d": ["Containing sulfur, especially in certain acids and salts."], "src": "iwb"}
+{"w": "thionine", "pos": "noun", "d": ["A violet dye used in staining tissues for microscopy."], "src": "iwb"}
+{"w": "thionol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thionoline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thionyl", "pos": "noun", "d": ["The divalent group SO, found in thionyl chloride."], "src": "iwb"}
+{"w": "thiophene", "pos": "noun", "d": ["A sulfur-containing organic compound with a five-membered ring, related to benzene."], "src": "iwb"}
+{"w": "thiophenic", "pos": "adjective", "d": ["Of or relating to thiophene."], "src": "iwb"}
+{"w": "thiophenol", "pos": "noun", "d": ["An organic compound that is the sulfur analog of phenol."], "src": "iwb"}
+{"w": "thiophthene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thiosulphate", "pos": "noun", "d": ["A salt of thiosulphuric acid."], "src": "iwb"}
+{"w": "thiosulphuric", "pos": "adjective", "d": ["Of or relating to thiosulphuric acid."], "src": "iwb"}
+{"w": "thiotolene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thioxene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "third rail", "pos": "phrase", "d": ["An electrified rail that supplies power to an electric train."], "src": "iwb"}
+{"w": "third-borough", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "third-penny", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "third-rail system", "pos": "phrase", "d": ["A railway electrification system in which power is supplied to trains through an extra rail."], "src": "iwb"}
+{"w": "thirdings", "pos": "noun", "d": ["A third part or share of something."], "src": "iwb"}
+{"w": "thirl", "pos": "verb", "d": ["To pierce or bore a hole through."], "src": "iwb"}
+{"w": "thirst", "pos": "noun", "d": ["The feeling or need for drink."], "src": "iwb"}
+{"w": "thirstily", "pos": "adverb", "d": ["In a thirsty manner; eagerly."], "src": "iwb"}
+{"w": "thirstiness", "pos": "noun", "d": ["The state or quality of being thirsty."], "src": "iwb"}
+{"w": "thirstle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thirsty", "pos": "adjective", "d": ["Feeling a need or desire to drink."], "src": "iwb"}
+{"w": "thirteen", "pos": "noun", "d": ["The number 13, one more than twelve."], "src": "iwb"}
+{"w": "thirteenth", "pos": "adjective", "d": ["Coming next after the twelfth in order."], "src": "iwb"}
+{"w": "thirtieth", "pos": "adjective", "d": ["Coming next after the twenty-ninth in order."], "src": "iwb"}
+{"w": "thirty-second", "pos": "noun", "d": ["One of thirty-two equal parts of something."], "src": "iwb"}
+{"w": "thistle", "pos": "noun", "d": ["A plant with prickly leaves and purple flower heads."], "src": "iwb"}
+{"w": "thistly", "pos": "adjective", "d": ["Like a thistle; full of thistles."], "src": "iwb"}
+{"w": "thither", "pos": "adverb", "d": ["To that place; in that direction."], "src": "iwb"}
+{"w": "thitherto", "pos": "adverb", "d": ["To that point; so far."], "src": "iwb"}
+{"w": "thitsee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thlipsis", "pos": "noun", "d": ["Compression or constriction of a body part or vessel."], "src": "iwb"}
+{"w": "tho", "pos": "conjunction", "d": ["An informal spelling of though."], "src": "iwb"}
+{"w": "thole", "pos": "noun", "d": ["A pin set in the side of a boat to hold an oar in place."], "src": "iwb"}
+{"w": "thomaean", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thomaism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thomas phosphate", "pos": "phrase", "d": ["A phosphate fertilizer made from the slag produced in steelmaking."], "src": "iwb"}
+{"w": "thomas process", "pos": "phrase", "d": ["A steelmaking process that removes phosphorus from iron by using a basic furnace lining."], "src": "iwb"}
+{"w": "thomas slag", "pos": "phrase", "d": ["The phosphorus-rich slag from the Thomas process, used as fertilizer."], "src": "iwb"}
+{"w": "thomism", "pos": "noun", "d": ["The philosophical system of Thomas Aquinas."], "src": "iwb"}
+{"w": "thomsenolite", "pos": "noun", "d": ["A mineral composed of sodium, calcium, aluminum, and fluorine."], "src": "iwb"}
+{"w": "thomson process", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thomsonian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thomsonite", "pos": "noun", "d": ["A zeolite mineral occurring in radiating crystal groups."], "src": "iwb"}
+{"w": "thooid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thor", "pos": "noun", "d": ["The Norse god of thunder."], "src": "iwb"}
+{"w": "thoracentesis", "pos": "noun", "d": ["Surgical puncture of the chest wall to remove fluid from the space around the lungs."], "src": "iwb"}
+{"w": "thoracic", "pos": "adjective", "d": ["Relating to the thorax, or chest."], "src": "iwb"}
+{"w": "thoracica", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thoracometer", "pos": "noun", "d": ["An instrument for measuring the size or movement of the chest."], "src": "iwb"}
+{"w": "thoracoplasty", "pos": "noun", "d": ["Surgical repair or reshaping of the chest wall."], "src": "iwb"}
+{"w": "thoracostraca", "pos": "noun", "d": ["A group of crustaceans including crabs, lobsters, and shrimp."], "src": "iwb"}
+{"w": "thoracotomy", "pos": "noun", "d": ["A surgical incision into the chest wall."], "src": "iwb"}
+{"w": "thorax", "pos": "noun", "d": ["The part of the body between the neck and the abdomen."], "src": "iwb"}
+{"w": "thoria", "pos": "noun", "d": ["Thorium dioxide, a compound used in ceramics and optics."], "src": "iwb"}
+{"w": "thorium", "pos": "noun", "d": ["A radioactive chemical element with the symbol Th."], "src": "iwb"}
+{"w": "thorn", "pos": "noun", "d": ["A sharp, pointed growth on the stem of a plant."], "src": "iwb"}
+{"w": "thorn-headed", "pos": "adjective", "d": ["Having a head armed with thorns or spines, as certain parasitic worms."], "src": "iwb"}
+{"w": "thorny", "pos": "adjective", "d": ["Full of thorns."], "src": "iwb"}
+{"w": "thoro", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thorough bass", "pos": "phrase", "d": ["A system of musical notation in which a bass line is written with figures indicating the harmony."], "src": "iwb"}
+{"w": "thorough-brace", "pos": "noun", "d": ["A thick leather strap supporting the body of a carriage."], "src": "iwb"}
+{"w": "thorough-lighted", "pos": "adjective", "d": ["Lighted from both sides, as a room with windows on opposite walls."], "src": "iwb"}
+{"w": "thoroughpaced", "pos": "adjective", "d": ["Thorough or complete in character; fully trained."], "src": "iwb"}
+{"w": "thorp", "pos": "noun", "d": ["A small village or hamlet, especially in older place names."], "src": "iwb"}
+{"w": "thorpe", "pos": "noun", "d": ["A variant spelling of thorp, meaning a small village or hamlet."], "src": "iwb"}
+{"w": "thoth", "pos": "noun", "d": ["The ancient Egyptian god of writing, wisdom, and the moon, often shown with the head of an ibis."], "src": "iwb"}
+{"w": "thought transference", "pos": "phrase", "d": ["The supposed transfer of a thought directly from one mind to another without words or signs."], "src": "iwb"}
+{"w": "thousand legs", "pos": "noun", "d": ["A common name for a millipede, an arthropod with many jointed legs."], "src": "iwb"}
+{"w": "thousandth", "pos": "adjective", "d": ["Coming next after the nine-hundred-ninety-ninth in a series.", "One part in a thousand equal parts of something."], "src": "iwb"}
+{"w": "thowel", "pos": "noun", "d": ["A pin or peg set in the side of a boat against which an oar rests in rowing."], "src": "iwb"}
+{"w": "thowl", "pos": "noun", "d": ["A variant spelling of thowel, a peg against which an oar rests in a boat."], "src": "iwb"}
+{"w": "thracian", "pos": "adjective", "d": ["Of or relating to Thrace, an ancient region in the southeastern Balkans."], "src": "iwb"}
+{"w": "thrack", "pos": "verb", "d": ["To load or burden something heavily."], "src": "iwb"}
+{"w": "thraldom", "pos": "noun", "d": ["The state of being a thrall; bondage or servitude."], "src": "iwb"}
+{"w": "thrall", "pos": "noun", "d": ["A slave or serf in ancient or medieval times.", "The power of being fascinated or enslaved by something, as in held in thrall."], "src": "iwb"}
+{"w": "thrall-like", "pos": "adjective", "d": ["Resembling a thrall; suggesting bondage or servitude."], "src": "iwb"}
+{"w": "thranite", "pos": "noun", "d": ["The rower of the topmost tier of oars on an ancient trireme."], "src": "iwb"}
+{"w": "thrapple", "pos": "noun", "d": ["The windpipe; the throat."], "src": "iwb"}
+{"w": "thrash", "pos": "verb", "d": ["To beat grain or seed out of its husks.", "To beat or strike someone or something repeatedly.", "To defeat an opponent soundly."], "src": "iwb"}
+{"w": "thrashel", "pos": "noun", "d": ["An old variant of threshold, the strip of wood or stone at the bottom of a doorway."], "src": "iwb"}
+{"w": "thrasonical", "pos": "adjective", "d": ["Boastful and vainglorious, like the braggart soldier Thrason in classical comedy."], "src": "iwb"}
+{"w": "thraste", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thrave", "pos": "noun", "d": ["A bundle or measure of cut grain, often made up of two shocks."], "src": "iwb"}
+{"w": "thraw", "pos": "verb", "d": ["To twist or wrench something out of shape.", "To be stubborn or ill-tempered, in Scots usage."], "src": "iwb"}
+{"w": "thread-shaped", "pos": "adjective", "d": ["Long and thin like a thread."], "src": "iwb"}
+{"w": "threadiness", "pos": "noun", "d": ["The quality of being threadlike or stringy."], "src": "iwb"}
+{"w": "thready", "pos": "adjective", "d": ["Consisting of or looking like threads.", "Of a pulse, thin and weak like a thread."], "src": "iwb"}
+{"w": "threap", "pos": "verb", "d": ["To argue, dispute, or contradict someone.", "To insist or maintain something stubbornly."], "src": "iwb"}
+{"w": "threave", "pos": "noun", "d": ["A bundle of grain stalks laid together; a shock of corn."], "src": "iwb"}
+{"w": "three-coat", "pos": "adjective", "d": ["Applied in three layers, as of paint or plaster."], "src": "iwb"}
+{"w": "three-color", "pos": "adjective", "d": ["Made in or using three colors."], "src": "iwb"}
+{"w": "three-cornered", "pos": "adjective", "d": ["Having three corners or angles."], "src": "iwb"}
+{"w": "three-decker", "pos": "noun", "d": ["Something built with three decks, tiers, or layers, such as a large sandwich."], "src": "iwb"}
+{"w": "three-flowered", "pos": "adjective", "d": ["Bearing three flowers."], "src": "iwb"}
+{"w": "three-handed", "pos": "adjective", "d": ["Designed to be used or played by three people."], "src": "iwb"}
+{"w": "three-leafed", "pos": "adjective", "d": ["Having three leaves or leaflike parts."], "src": "iwb"}
+{"w": "three-leaved", "pos": "adjective", "d": ["Having three leaves; three-leafed."], "src": "iwb"}
+{"w": "three-lobed", "pos": "adjective", "d": ["Divided into three lobes or rounded parts."], "src": "iwb"}
+{"w": "three-mile", "pos": "adjective", "d": ["Extending or reaching for three miles."], "src": "iwb"}
+{"w": "three-nerved", "pos": "adjective", "d": ["Having three nerves or veins, as a plant leaf."], "src": "iwb"}
+{"w": "three-parted", "pos": "adjective", "d": ["Divided into three parts."], "src": "iwb"}
+{"w": "three-pile", "pos": "adjective", "d": ["Made with three thicknesses or folds, as of fabric or velvet."], "src": "iwb"}
+{"w": "three-ply", "pos": "adjective", "d": ["Made of three layers or strands."], "src": "iwb"}
+{"w": "three-pointed", "pos": "adjective", "d": ["Having three points or sharp ends."], "src": "iwb"}
+{"w": "three-port", "pos": "adjective", "d": ["Having three openings or ports."], "src": "iwb"}
+{"w": "three-quarter", "pos": "adjective", "d": ["Equal to three fourths of a whole."], "src": "iwb"}
+{"w": "three-score", "pos": "adjective", "d": ["Amounting to sixty, since a score is twenty."], "src": "iwb"}
+{"w": "three-sided", "pos": "adjective", "d": ["Having three sides, as a triangle."], "src": "iwb"}
+{"w": "three-square", "pos": "adjective", "d": ["Triangular in cross section, as a file or scraper."], "src": "iwb"}
+{"w": "three-torque system of control", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "three-valved", "pos": "adjective", "d": ["Having three valves or valvelike parts."], "src": "iwb"}
+{"w": "three-way", "pos": "adjective", "d": ["Involving three people, groups, or directions."], "src": "iwb"}
+{"w": "threne", "pos": "noun", "d": ["A song of mourning; a lament."], "src": "iwb"}
+{"w": "threnode", "pos": "noun", "d": ["A poem or song lamenting the dead; a threnody."], "src": "iwb"}
+{"w": "threnodist", "pos": "noun", "d": ["One who composes or sings a threnody."], "src": "iwb"}
+{"w": "threnody", "pos": "noun", "d": ["A song or poem of lamentation, especially for the dead."], "src": "iwb"}
+{"w": "threpe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "threpsology", "pos": "noun", "d": ["The study of nutrition and how living things feed and grow."], "src": "iwb"}
+{"w": "thresh", "pos": "verb", "d": ["To beat grain or seed from its husks.", "To move or toss about violently."], "src": "iwb"}
+{"w": "thresh-fold", "pos": "noun", "d": ["A floor or area where grain is threshed."], "src": "iwb"}
+{"w": "threste", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thretteen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thretty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "threw", "pos": "verb", "d": ["The past tense of throw."], "src": "iwb"}
+{"w": "thribble", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thrice", "pos": "adverb", "d": ["Three times; on three occasions."], "src": "iwb"}
+{"w": "thrid", "pos": "verb", "d": ["To pass a thread through, as a needle; to thread."], "src": "iwb"}
+{"w": "thrifallow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thrift", "pos": "noun", "d": ["Careful and sparing management of money or resources.", "A low-growing coastal plant with pink flowers."], "src": "iwb"}
+{"w": "thriftily", "pos": "adverb", "d": ["In a thrifty manner; with careful economy."], "src": "iwb"}
+{"w": "thriftiness", "pos": "noun", "d": ["The quality of being thrifty; economical habits."], "src": "iwb"}
+{"w": "thrifty", "pos": "adjective", "d": ["Careful and sparing with money or resources; economical."], "src": "iwb"}
+{"w": "thrill", "pos": "verb", "d": ["To cause a sudden feeling of excitement or fear.", "To feel a sudden excitement run through one."], "src": "iwb"}
+{"w": "thring", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thrips", "pos": "noun", "d": ["Tiny slender insects that suck the juices of plants and damage crops."], "src": "iwb"}
+{"w": "thrist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thrittene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thrive", "pos": "verb", "d": ["To grow vigorously and prosper."], "src": "iwb"}
+{"w": "thriven", "pos": "verb", "d": ["The past participle of thrive."], "src": "iwb"}
+{"w": "thrivingly", "pos": "adverb", "d": ["In a thriving manner; prosperously."], "src": "iwb"}
+{"w": "thrivingness", "pos": "noun", "d": ["The state or quality of thriving; vigorous prosperity."], "src": "iwb"}
+{"w": "throaty", "pos": "adjective", "d": ["Low, deep, and hoarse in sound, like a sound from the throat."], "src": "iwb"}
+{"w": "throb", "pos": "verb", "d": ["To beat with force or regularity, as a heart or pulse."], "src": "iwb"}
+{"w": "throdden", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "throe", "pos": "noun", "d": ["A sharp pang of pain or anguish."], "src": "iwb"}
+{"w": "thrombin", "pos": "noun", "d": ["An enzyme in blood that converts fibrinogen into fibrin, helping blood clot."], "src": "iwb"}
+{"w": "thrombosis", "pos": "noun", "d": ["The formation of a blood clot inside a blood vessel."], "src": "iwb"}
+{"w": "thrombus", "pos": "noun", "d": ["A clot of blood formed inside a blood vessel."], "src": "iwb"}
+{"w": "throne", "pos": "noun", "d": ["The special chair on which a king, queen, or bishop sits on formal occasions."], "src": "iwb"}
+{"w": "throng", "pos": "noun", "d": ["A large crowd of people gathered closely together."], "src": "iwb"}
+{"w": "throp", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thropple", "pos": "noun", "d": ["The windpipe; the throat."], "src": "iwb"}
+{"w": "throstle", "pos": "noun", "d": ["The song thrush, a bird known for its musical call.", "A machine for spinning wool or cotton."], "src": "iwb"}
+{"w": "throttle", "pos": "noun", "d": ["A device that controls the flow of fuel or power to an engine."], "src": "iwb"}
+{"w": "throve", "pos": "verb", "d": ["The past tense of thrive."], "src": "iwb"}
+{"w": "throw-crook", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "throw-off", "pos": "noun", "d": ["The act of starting play by throwing the ball, as in football.", "A trick or distraction meant to mislead someone."], "src": "iwb"}
+{"w": "throwe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "throwing stick", "pos": "noun", "d": ["A short stick shaped to be hurled as a weapon or hunting tool."], "src": "iwb"}
+{"w": "throwster", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thrum", "pos": "noun", "d": ["The loose fringe of unwoven warp threads left at the end of a piece of cloth.", "A low, steady humming or plucking sound, as of strings being touched."], "src": "iwb"}
+{"w": "thrum-eyed", "pos": "adjective", "d": ["Having the anthers near the top of the flower tube, as in certain primroses."], "src": "iwb"}
+{"w": "thrummy", "pos": "adjective", "d": ["Having a short, thick, shaggy surface like a fringe."], "src": "iwb"}
+{"w": "thrush", "pos": "noun", "d": ["A small to medium songbird with a spotted breast, known for its musical call.", "A white fungal infection of the mouth and throat, common in babies.", "A painful infection of a horse's hoof."], "src": "iwb"}
+{"w": "thrushel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thrust", "pos": "noun", "d": ["A sudden, forceful push or lunge forward.", "The forward force produced by an engine or propeller.", "A strong effort to push an idea or plan forward."], "src": "iwb"}
+{"w": "thrustle", "pos": "noun", "d": ["A small European songbird with a spotted breast, also called the song thrush."], "src": "iwb"}
+{"w": "thryes", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thryfallow", "pos": "adjective", "d": ["Plowed three times before sowing, as land."], "src": "iwb"}
+{"w": "thud", "pos": "noun", "d": ["A dull, heavy sound, as of something large striking the ground."], "src": "iwb"}
+{"w": "thug", "pos": "noun", "d": ["A violent criminal or hired ruffian.", "A member of a historical Indian sect of robbers and murderers."], "src": "iwb"}
+{"w": "thuggism", "pos": "noun", "d": ["Violent criminal behavior like that of a thug.", "The practices of the historical Thuggee sect of India."], "src": "iwb"}
+{"w": "thuja", "pos": "noun", "d": ["Any of a genus of evergreen cone-bearing trees and shrubs, including the arborvitae."], "src": "iwb"}
+{"w": "thule", "pos": "noun", "d": ["A far-off, mysterious land at the edge of the known world."], "src": "iwb"}
+{"w": "thulia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thulium", "pos": "noun", "d": ["A soft, silvery rare-earth chemical element with the symbol Tm."], "src": "iwb"}
+{"w": "thummie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thummim", "pos": "noun", "d": ["One of the sacred objects kept in the breastplate of the ancient Jewish high priest."], "src": "iwb"}
+{"w": "thump", "pos": "noun", "d": ["A heavy blow with something blunt.", "The dull sound of such a blow."], "src": "iwb"}
+{"w": "thundery", "pos": "adjective", "d": ["Marked by thunder or threatening thunder."], "src": "iwb"}
+{"w": "thundrous", "pos": "adjective", "d": ["Full of thunder; thunderous."], "src": "iwb"}
+{"w": "thunny", "pos": "noun", "d": ["An old name for the tuna, a large sea fish of the mackerel family."], "src": "iwb"}
+{"w": "thurgh", "pos": "preposition", "d": ["An old spelling of through."], "src": "iwb"}
+{"w": "thurible", "pos": "noun", "d": ["A metal container for burning incense, swung on chains in religious ceremonies."], "src": "iwb"}
+{"w": "thuriferous", "pos": "adjective", "d": ["Producing or bearing incense."], "src": "iwb"}
+{"w": "thurification", "pos": "noun", "d": ["The act of burning incense, especially in worship."], "src": "iwb"}
+{"w": "thuringian", "pos": "adjective", "d": ["Of or from Thuringia, a state in central Germany."], "src": "iwb"}
+{"w": "thuringite", "pos": "noun", "d": ["A dark green iron-rich mineral of the chlorite group."], "src": "iwb"}
+{"w": "thurl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thurrok", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thurst", "pos": "noun", "d": ["An old spelling of thirst."], "src": "iwb"}
+{"w": "thuya", "pos": "noun", "d": ["An evergreen cone-bearing tree of the cypress family; a variant spelling of thuja."], "src": "iwb"}
+{"w": "thuyin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thwack", "pos": "verb", "d": ["To strike with a sharp, flat blow."], "src": "iwb"}
+{"w": "thwaite", "pos": "noun", "d": ["A clearing in a wood or forest, especially one turned into farmland."], "src": "iwb"}
+{"w": "thwart", "pos": "verb", "d": ["To oppose a plan or effort and keep it from succeeding."], "src": "iwb"}
+{"w": "thwartingly", "pos": "adverb", "d": ["In a way that thwarts or frustrates."], "src": "iwb"}
+{"w": "thwite", "pos": "verb", "d": ["To cut or whittle with a knife."], "src": "iwb"}
+{"w": "thwittle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thyine wood", "pos": "phrase", "d": ["A fragrant wood from a North African tree, prized in ancient times for fine woodwork."], "src": "iwb"}
+{"w": "thylacine", "pos": "noun", "d": ["A large, now-extinct carnivorous marsupial of Tasmania, also called the Tasmanian tiger."], "src": "iwb"}
+{"w": "thyme", "pos": "noun", "d": ["A small, fragrant herb with tiny leaves, used in cooking and medicine."], "src": "iwb"}
+{"w": "thymene", "pos": "noun", "d": ["A colorless liquid hydrocarbon obtained from the oil of thyme."], "src": "iwb"}
+{"w": "thymiatechny", "pos": "noun", "d": ["The art of making perfumes or incense."], "src": "iwb"}
+{"w": "thymic", "pos": "adjective", "d": ["Of or relating to the thymus gland."], "src": "iwb"}
+{"w": "thymol", "pos": "noun", "d": ["A strong-smelling antiseptic compound obtained from thyme oil."], "src": "iwb"}
+{"w": "thymy", "pos": "adjective", "d": ["Smelling of or like thyme."], "src": "iwb"}
+{"w": "thyro-", "pos": "prefix", "d": ["A prefix meaning the thyroid gland or thyroid cartilage, as in thyrohyoid."], "src": "iwb"}
+{"w": "thyroarytenoid", "pos": "adjective", "d": ["Relating to the thyroid cartilage and the arytenoid cartilage of the voice box."], "src": "iwb"}
+{"w": "thyrohyal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "thyrohyoid", "pos": "adjective", "d": ["Relating to the thyroid cartilage and the hyoid bone in the neck."], "src": "iwb"}
+{"w": "thyroid", "pos": "noun", "d": ["A gland in the front of the neck that controls how fast the body uses energy.", "The large cartilage of the voice box that forms the Adam's apple."], "src": "iwb"}
+{"w": "thyroideal", "pos": "adjective", "d": ["Of or relating to the thyroid gland."], "src": "iwb"}
+{"w": "thyrotomy", "pos": "noun", "d": ["A surgical cut into the thyroid cartilage of the voice box."], "src": "iwb"}
+{"w": "thyrse", "pos": "noun", "d": ["A dense, cone-shaped cluster of flowers on a single stalk.", "The ivy-wreathed staff carried by followers of Bacchus."], "src": "iwb"}
+{"w": "thyrsoid", "pos": "adjective", "d": ["Shaped like or resembling a thyrse."], "src": "iwb"}
+{"w": "thyrsus", "pos": "noun", "d": ["A staff tipped with a pine cone and wreathed in ivy, carried by Bacchus and his followers.", "In botany, a thyrse."], "src": "iwb"}
+{"w": "thysanopter", "pos": "noun", "d": ["An insect of the order Thysanoptera; a thrips."], "src": "iwb"}
+{"w": "thysanoptera", "pos": "noun", "d": ["An order of tiny, narrow-winged insects; the thrips."], "src": "iwb"}
+{"w": "thysanopteran", "pos": "noun", "d": ["A thrips; an insect of the order Thysanoptera."], "src": "iwb"}
+{"w": "thysanura", "pos": "noun", "d": ["An order of small, wingless insects with bristle-like tails, including silverfish."], "src": "iwb"}
+{"w": "thysanuran", "pos": "noun", "d": ["An insect of the order Thysanura, such as a silverfish."], "src": "iwb"}
+{"w": "thysanurous", "pos": "adjective", "d": ["Of or belonging to the Thysanura."], "src": "iwb"}
+{"w": "thysbe", "pos": "noun", "d": ["An old variant spelling of Thisbe, the heroine of the ancient tale of Pyramus and Thisbe."], "src": "iwb"}
+{"w": "tiar", "pos": "noun", "d": ["An old spelling of tiara."], "src": "iwb"}
+{"w": "tiara", "pos": "noun", "d": ["A jeweled ornamental band or crown worn on the head, especially by women.", "The triple crown worn by the pope."], "src": "iwb"}
+{"w": "tib-cat", "pos": "noun", "d": ["A female cat; a she-cat."], "src": "iwb"}
+{"w": "tibia", "pos": "noun", "d": ["The inner and larger of the two bones of the lower leg; the shinbone."], "src": "iwb"}
+{"w": "tibial", "pos": "adjective", "d": ["Of or relating to the tibia."], "src": "iwb"}
+{"w": "tibiale", "pos": "noun", "d": ["A bone of the ankle that joins with the lower end of the tibia."], "src": "iwb"}
+{"w": "tibicinate", "pos": "verb", "d": ["To play upon a pipe or flute."], "src": "iwb"}
+{"w": "tibio-", "pos": "prefix", "d": ["A prefix meaning the tibia, as in tibiotarsus."], "src": "iwb"}
+{"w": "tibiotarsal", "pos": "adjective", "d": ["Of or relating to the tibiotarsus."], "src": "iwb"}
+{"w": "tibiotarsus", "pos": "noun", "d": ["The long bone of a bird's leg formed by the tibia fused with the bones of the ankle."], "src": "iwb"}
+{"w": "tibrie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tic", "pos": "noun", "d": ["A sudden, brief, involuntary twitch of a muscle, especially of the face."], "src": "iwb"}
+{"w": "tice", "pos": "verb", "d": ["To lure or entice."], "src": "iwb"}
+{"w": "tichorrhine", "pos": "adjective", "d": ["Having a narrow nose."], "src": "iwb"}
+{"w": "tick", "pos": "noun", "d": ["A tiny blood-sucking arachnid that fastens onto animals and people.", "A small mark made to check off an item.", "A very short moment of time."], "src": "iwb"}
+{"w": "tickle", "pos": "verb", "d": ["To touch lightly in a way that causes laughter or a tingling feeling.", "To amuse or please someone."], "src": "iwb"}
+{"w": "tickle-footed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ticklenburg", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ticklish", "pos": "adjective", "d": ["Sensitive to being tickled.", "Needing careful handling; delicate or tricky."], "src": "iwb"}
+{"w": "ticpolonga", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tid", "pos": "adjective", "d": ["Tender or fond."], "src": "iwb"}
+{"w": "tidde", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tiddle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tiddledywinks", "pos": "noun", "d": ["The game of tiddlywinks; a variant spelling."], "src": "iwb"}
+{"w": "tiddlywinks", "pos": "noun", "d": ["A game in which small discs are flipped into a cup by pressing their edges."], "src": "iwb"}
+{"w": "tide-rode", "pos": "adjective", "d": ["Swung around by the tide while riding at anchor, as a ship."], "src": "iwb"}
+{"w": "tidesman", "pos": "noun", "d": ["A customs officer who boards ships on arrival to prevent smuggling."], "src": "iwb"}
+{"w": "tidife", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tidily", "pos": "adverb", "d": ["In a neat and orderly way."], "src": "iwb"}
+{"w": "tidiness", "pos": "noun", "d": ["The quality or state of being neat and orderly."], "src": "iwb"}
+{"w": "tidy", "pos": "adjective", "d": ["Neat, clean, and well arranged.", "Considerable in amount, as a tidy sum."], "src": "iwb"}
+{"w": "tidytips", "pos": "noun", "d": ["A low-growing California wildflower with yellow-centered white blossoms."], "src": "iwb"}
+{"w": "tie-rod", "pos": "noun", "d": ["A metal rod that holds parts of a structure together by pulling against tension."], "src": "iwb"}
+{"w": "tienda", "pos": "noun", "d": ["A small shop or store; the Spanish word for shop."], "src": "iwb"}
+{"w": "tierce", "pos": "noun", "d": ["An old cask holding about forty-two gallons, or the liquid measure it represents.", "In fencing, a position of the sword hand with the palm down, used in parrying.", "A set or sequence of three."], "src": "iwb"}
+{"w": "tierce-major", "pos": "noun", "d": ["In music, a major third interval spanning two whole tones."], "src": "iwb"}
+{"w": "tiercel", "pos": "noun", "d": ["A male hawk or falcon, usually about a third smaller than the female."], "src": "iwb"}
+{"w": "tiercet", "pos": "noun", "d": ["A group of three lines of verse; a tercet."], "src": "iwb"}
+{"w": "tiers etat", "pos": "phrase", "d": ["The French name for the Third Estate, the common people of France before the Revolution."], "src": "iwb"}
+{"w": "tiff", "pos": "noun", "d": ["A petty quarrel or brief fit of bad temper."], "src": "iwb"}
+{"w": "tiffin", "pos": "noun", "d": ["A light midday meal or lunch, especially in India.", "A small stackable carrier used to hold such a meal."], "src": "iwb"}
+{"w": "tift", "pos": "noun", "d": ["A slight dispute or quarrel; a tiff."], "src": "iwb"}
+{"w": "tig", "pos": "noun", "d": ["The children's chasing game also called tag."], "src": "iwb"}
+{"w": "tigella", "pos": "noun", "d": ["In botany, the young stem of a seedling."], "src": "iwb"}
+{"w": "tigelle", "pos": "noun", "d": ["The small stem of a young plant; a tigella."], "src": "iwb"}
+{"w": "tiger-eye", "pos": "noun", "d": ["A golden-brown gemstone with a silky, shifting luster like a cat's eye."], "src": "iwb"}
+{"w": "tiger-foot", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tigerine", "pos": "adjective", "d": ["Resembling or characteristic of a tiger."], "src": "iwb"}
+{"w": "tigh", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tiglic", "pos": "adjective", "d": ["Relating to tiglic acid, an organic acid found in croton oil."], "src": "iwb"}
+{"w": "tigress", "pos": "noun", "d": ["A female tiger."], "src": "iwb"}
+{"w": "tike", "pos": "noun", "d": ["A small, mischievous child."], "src": "iwb"}
+{"w": "tikoor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tikor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tikur", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tikus", "pos": "noun", "d": ["The Malay and Indonesian word for a rat or mouse."], "src": "iwb"}
+{"w": "til seed", "pos": "phrase", "d": ["The seed of the sesame plant, eaten as food and pressed for its oil."], "src": "iwb"}
+{"w": "til tree", "pos": "phrase", "d": ["The sesame plant, grown for its oily seeds."], "src": "iwb"}
+{"w": "tilde", "pos": "noun", "d": ["A wavy diacritical mark (~) placed over a letter or used in various notations."], "src": "iwb"}
+{"w": "tile-drain", "pos": "noun", "d": ["A clay or concrete pipe laid underground to drain water from farmland."], "src": "iwb"}
+{"w": "tilery", "pos": "noun", "d": ["A place where tiles are made."], "src": "iwb"}
+{"w": "tilia", "pos": "noun", "d": ["The genus of trees that includes the lindens and basswoods."], "src": "iwb"}
+{"w": "tiliaceous", "pos": "adjective", "d": ["Belonging to or resembling the linden family of trees."], "src": "iwb"}
+{"w": "tillandsia", "pos": "noun", "d": ["A genus of tropical plants, the air plants, that take in water through their leaves."], "src": "iwb"}
+{"w": "tilley seed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tillodont", "pos": "noun", "d": ["An extinct hoofed mammal of the Eocene period."], "src": "iwb"}
+{"w": "tillodontia", "pos": "noun", "d": ["An order of extinct hoofed mammals of the early Cenozoic era."], "src": "iwb"}
+{"w": "tilly-vally", "pos": "noun", "d": ["Trifling or silly talk; nonsense."], "src": "iwb"}
+{"w": "tilt", "pos": "verb", "d": ["To lean or tip to one side.", "To charge at an opponent with a lance, as in a joust."], "src": "iwb"}
+{"w": "tilt hammer", "pos": "phrase", "d": ["A heavy power-driven hammer used in forging metal."], "src": "iwb"}
+{"w": "tilt-mill", "pos": "noun", "d": ["A mill or forge equipped with a tilt hammer."], "src": "iwb"}
+{"w": "tilt-up", "pos": "adjective", "d": ["Built by casting concrete wall panels flat and then tilting them upright."], "src": "iwb"}
+{"w": "tilt-yard", "pos": "noun", "d": ["An enclosed area where knights practiced tilting; a jousting field."], "src": "iwb"}
+{"w": "tilth", "pos": "noun", "d": ["The condition of soil as prepared for planting by tilling.", "Land that has been tilled."], "src": "iwb"}
+{"w": "tim-whiskey", "pos": "noun", "d": ["An old card game resembling whist."], "src": "iwb"}
+{"w": "timal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "timaline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "timbal", "pos": "noun", "d": ["A small kettledrum."], "src": "iwb"}
+{"w": "timbale", "pos": "noun", "d": ["A savory mixture of meat, fish, or vegetables baked in a mold."], "src": "iwb"}
+{"w": "timbre", "pos": "noun", "d": ["The distinctive quality or color of a musical tone."], "src": "iwb"}
+{"w": "timbrel", "pos": "noun", "d": ["A small tambourine-like drum."], "src": "iwb"}
+{"w": "timburine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "time policy", "pos": "phrase", "d": ["An insurance policy that covers a specified period of time."], "src": "iwb"}
+{"w": "time signature", "pos": "phrase", "d": ["In music, a sign at the start of a piece showing the number and kind of beats in each measure."], "src": "iwb"}
+{"w": "time-honored", "pos": "adjective", "d": ["Respected because of long-standing custom or tradition."], "src": "iwb"}
+{"w": "time-table", "pos": "noun", "d": ["A schedule listing the times of events, departures, or classes."], "src": "iwb"}
+{"w": "timeliness", "pos": "noun", "d": ["The quality of happening at a suitable or opportune time."], "src": "iwb"}
+{"w": "timenoguy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "timid", "pos": "adjective", "d": ["Lacking courage or confidence; easily frightened."], "src": "iwb"}
+{"w": "timist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "timmer", "pos": "noun", "d": ["A Scots form of timber."], "src": "iwb"}
+{"w": "timocracy", "pos": "noun", "d": ["A form of government in which political power is tied to the ownership of property."], "src": "iwb"}
+{"w": "timocratic", "pos": "adjective", "d": ["Relating to or characteristic of a timocracy."], "src": "iwb"}
+{"w": "timoneer", "pos": "noun", "d": ["A helmsman; one who steers a ship."], "src": "iwb"}
+{"w": "timorous", "pos": "adjective", "d": ["Full of fear; timid and easily frightened."], "src": "iwb"}
+{"w": "timorsome", "pos": "adjective", "d": ["Timid and easily frightened."], "src": "iwb"}
+{"w": "timothy grass", "pos": "phrase", "d": ["A perennial grass widely grown for hay."], "src": "iwb"}
+{"w": "timous", "pos": "adjective", "d": ["Timely; occurring at the right moment."], "src": "iwb"}
+{"w": "timpano", "pos": "noun", "d": ["A kettledrum."], "src": "iwb"}
+{"w": "tinamides", "pos": "noun", "d": ["Birds of the tinamou family."], "src": "iwb"}
+{"w": "tinamou", "pos": "noun", "d": ["A ground-dwelling bird of Central and South America, resembling a partridge."], "src": "iwb"}
+{"w": "tinchel", "pos": "noun", "d": ["A ring of hunters closing in on game during a hunt."], "src": "iwb"}
+{"w": "tinct", "pos": "adjective", "d": ["Tinted; tinged with color."], "src": "iwb"}
+{"w": "tinctorial", "pos": "adjective", "d": ["Relating to dyeing or coloring."], "src": "iwb"}
+{"w": "tind", "pos": "verb", "d": ["To kindle or set alight."], "src": "iwb"}
+{"w": "tine", "pos": "noun", "d": ["A slender pointed prong, as of a fork or an antler."], "src": "iwb"}
+{"w": "tinea", "pos": "noun", "d": ["A fungal skin infection such as ringworm.", "A genus of small moths that includes the clothes moths."], "src": "iwb"}
+{"w": "tineid", "pos": "noun", "d": ["A moth of the family that includes the clothes moths."], "src": "iwb"}
+{"w": "tinet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ting", "pos": "noun", "d": ["A light, clear ringing sound, as of metal struck."], "src": "iwb"}
+{"w": "tinge", "pos": "noun", "d": ["A slight trace or shade of color."], "src": "iwb"}
+{"w": "tingis", "pos": "noun", "d": ["A genus of small lace bugs."], "src": "iwb"}
+{"w": "tingle", "pos": "verb", "d": ["To feel a prickling or stinging sensation."], "src": "iwb"}
+{"w": "tink", "pos": "verb", "d": ["To make a light metallic ringing sound."], "src": "iwb"}
+{"w": "tinkle", "pos": "verb", "d": ["To make a light ringing sound like small bells."], "src": "iwb"}
+{"w": "tinnen", "pos": "adjective", "d": ["Made of tin."], "src": "iwb"}
+{"w": "tinnient", "pos": "adjective", "d": ["Making a ringing or tinkling sound."], "src": "iwb"}
+{"w": "tinnitus", "pos": "noun", "d": ["A persistent ringing or buzzing sound in the ears."], "src": "iwb"}
+{"w": "tinny", "pos": "adjective", "d": ["Having a thin, metallic sound.", "Made of or tasting like tin."], "src": "iwb"}
+{"w": "tinsel", "pos": "noun", "d": ["Thin strips of glittering material used as decoration."], "src": "iwb"}
+{"w": "tint", "pos": "noun", "d": ["A slight shade or variety of color."], "src": "iwb"}
+{"w": "tintamar", "pos": "noun", "d": ["A noisy uproar; a clamor."], "src": "iwb"}
+{"w": "tinternell", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tintinnabular", "pos": "adjective", "d": ["Relating to the ringing of bells."], "src": "iwb"}
+{"w": "tintinnabulary", "pos": "noun", "d": ["A collection or set of bells."], "src": "iwb"}
+{"w": "tintinnabulation", "pos": "noun", "d": ["The ringing of bells."], "src": "iwb"}
+{"w": "tintinnabulous", "pos": "adjective", "d": ["Resounding with the ringing of bells."], "src": "iwb"}
+{"w": "tintinnabulum", "pos": "noun", "d": ["A bell, especially a small one."], "src": "iwb"}
+{"w": "tinto", "pos": "noun", "d": ["A dark red wine of Portugal or Spain."], "src": "iwb"}
+{"w": "tip-up", "pos": "noun", "d": ["A device designed to tip upward, such as an ice-fishing rig that signals a bite."], "src": "iwb"}
+{"w": "tipple", "pos": "verb", "d": ["To drink alcohol habitually or in small sips."], "src": "iwb"}
+{"w": "tippling-house", "pos": "noun", "d": ["A tavern or other place where liquor is sold and drunk."], "src": "iwb"}
+{"w": "tipsify", "pos": "verb", "d": ["To make slightly drunk."], "src": "iwb"}
+{"w": "tipsily", "pos": "adverb", "d": ["In a slightly drunken manner."], "src": "iwb"}
+{"w": "tipsiness", "pos": "noun", "d": ["The state of being slightly drunk."], "src": "iwb"}
+{"w": "tipster", "pos": "noun", "d": ["One who gives tips or advance information, especially for betting."], "src": "iwb"}
+{"w": "tipsy", "pos": "adjective", "d": ["Slightly drunk; unsteady from drink."], "src": "iwb"}
+{"w": "tipula", "pos": "noun", "d": ["A genus of large crane flies."], "src": "iwb"}
+{"w": "tipulary", "pos": "adjective", "d": ["Relating to or resembling the crane flies of the genus Tipula."], "src": "iwb"}
+{"w": "tirade", "pos": "noun", "d": ["A long, angry speech of criticism or accusation."], "src": "iwb"}
+{"w": "tirailleur", "pos": "noun", "d": ["A French light infantryman or sharpshooter; a skirmisher."], "src": "iwb"}
+{"w": "tire-woman", "pos": "noun", "d": ["A woman employed to dress or arrange the hair and clothing of another woman."], "src": "iwb"}
+{"w": "tiring-house", "pos": "noun", "d": ["A room in an Elizabethan theater where actors dressed for their parts."], "src": "iwb"}
+{"w": "tiring-room", "pos": "noun", "d": ["A room where actors dress for the stage; a theater dressing room."], "src": "iwb"}
+{"w": "tirl", "pos": "verb", "d": ["To turn or rotate, as on an axis."], "src": "iwb"}
+{"w": "tirma", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tiro", "pos": "noun", "d": ["A beginner in any art or profession; a novice."], "src": "iwb"}
+{"w": "tironian", "pos": "adjective", "d": ["Relating to Marcus Tullius Tiro, the Roman freedman credited with inventing a system of shorthand.", "Written in or relating to ancient Roman shorthand."], "src": "iwb"}
+{"w": "tirralirra", "pos": "noun", "d": ["A trilling, rippling warble, especially the song of a lark."], "src": "iwb"}
+{"w": "tirrit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tirwit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tisane", "pos": "noun", "d": ["A hot drink made by steeping herbs or flowers in water.", "A mild medicinal infusion."], "src": "iwb"}
+{"w": "tisar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tisic", "pos": "noun", "d": ["An old name for consumption of the lungs; tuberculosis."], "src": "iwb"}
+{"w": "tisicky", "pos": "adjective", "d": ["Affected with or relating to consumption of the lungs."], "src": "iwb"}
+{"w": "tisri", "pos": "noun", "d": ["The seventh month of the Jewish calendar, corresponding roughly to September and October."], "src": "iwb"}
+{"w": "tit", "pos": "noun", "d": ["A very small songbird, such as the titmouse.", "A teat or nipple."], "src": "iwb"}
+{"w": "titan", "pos": "noun", "d": ["A person of great power, importance, or influence.", "In Greek myth, one of the giant gods who ruled before the Olympians."], "src": "iwb"}
+{"w": "titan crane", "pos": "noun", "d": ["A very large revolving crane used for heavy lifting."], "src": "iwb"}
+{"w": "titaniferous", "pos": "adjective", "d": ["Containing or yielding titanium."], "src": "iwb"}
+{"w": "titanite", "pos": "noun", "d": ["A mineral of calcium, titanium, and silicon, sometimes cut as a gemstone."], "src": "iwb"}
+{"w": "titanitic", "pos": "adjective", "d": ["Relating to or containing the mineral titanite."], "src": "iwb"}
+{"w": "titano-", "pos": "prefix", "d": ["A prefix used in chemistry to denote the presence of titanium."], "src": "iwb"}
+{"w": "titanotherium", "pos": "noun", "d": ["A large extinct hoofed mammal of the Eocene epoch, related to the rhinoceros."], "src": "iwb"}
+{"w": "tith", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tithe", "pos": "noun", "d": ["A tenth part of income or produce paid as a tax or church offering.", "Any small or token share."], "src": "iwb"}
+{"w": "tithonic", "pos": "adjective", "d": ["Relating to the chemical action of light rays."], "src": "iwb"}
+{"w": "tithonographic", "pos": "adjective", "d": ["Relating to photography produced by the chemical action of light."], "src": "iwb"}
+{"w": "tithonometer", "pos": "noun", "d": ["An instrument for measuring the chemical or actinic power of light."], "src": "iwb"}
+{"w": "tithymal", "pos": "noun", "d": ["Any of several plants of the spurge family, with milky juice."], "src": "iwb"}
+{"w": "titi", "pos": "noun", "d": ["A small South American monkey with a long tail.", "An evergreen tree or shrub of the southeastern United States."], "src": "iwb"}
+{"w": "titillate", "pos": "verb", "d": ["To excite or stimulate in a pleasant, playful way.", "To tickle."], "src": "iwb"}
+{"w": "titivate", "pos": "verb", "d": ["To make neat, smart, or spruce; to dress up."], "src": "iwb"}
+{"w": "title-page", "pos": "noun", "d": ["The page of a book that gives its title, author, and publisher."], "src": "iwb"}
+{"w": "titmal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "titter-totter", "pos": "noun", "d": ["A seesaw."], "src": "iwb"}
+{"w": "titterel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tittimouse", "pos": "noun", "d": ["A titmouse; a very small songbird."], "src": "iwb"}
+{"w": "tittivate", "pos": "verb", "d": ["To smarten up; to make neat or tidy in dress or appearance."], "src": "iwb"}
+{"w": "tittle", "pos": "noun", "d": ["A tiny mark or stroke in writing, such as the dot over an i.", "A very small part or particle; a jot."], "src": "iwb"}
+{"w": "tittle-tattle", "pos": "noun", "d": ["Idle, trifling talk; gossip.", "A person who gossips."], "src": "iwb"}
+{"w": "tittuppy", "pos": "adjective", "d": ["Prancing or moving with a lively, springy gait, as a horse."], "src": "iwb"}
+{"w": "titty", "pos": "noun", "d": ["A breast or nipple."], "src": "iwb"}
+{"w": "titubate", "pos": "verb", "d": ["To stumble or totter, especially in speech."], "src": "iwb"}
+{"w": "titubation", "pos": "noun", "d": ["A stumbling, reeling, or unsteady movement."], "src": "iwb"}
+{"w": "titular", "pos": "adjective", "d": ["Holding or bearing a title without exercising the duties of the office.", "Existing in name or title only."], "src": "iwb"}
+{"w": "titulary", "pos": "adjective", "d": ["Of or relating to titles or a title."], "src": "iwb"}
+{"w": "tituled", "pos": "adjective", "d": ["Having a title; titled."], "src": "iwb"}
+{"w": "tiver", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tivoli", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tivy", "pos": "adverb", "d": ["With great speed; at full gallop."], "src": "iwb"}
+{"w": "tiza", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tlinkit", "pos": "noun", "d": ["A light, sharp, ringing sound like that of a small bell."], "src": "iwb"}
+{"w": "tmesis", "pos": "noun", "d": ["The separation of the parts of a compound word by one or more intervening words."], "src": "iwb"}
+{"w": "to compound a felony", "pos": "phrase", "d": ["To agree, for a reward, not to prosecute a person guilty of a felony."], "src": "iwb"}
+{"w": "to-", "pos": "prefix", "d": ["A prefix meaning this, as in today and tonight."], "src": "iwb"}
+{"w": "to-do", "pos": "noun", "d": ["A bustle, fuss, or commotion."], "src": "iwb"}
+{"w": "toad", "pos": "noun", "d": ["A tailless amphibian resembling a frog but with drier, warty skin.", "A mean or contemptible person."], "src": "iwb"}
+{"w": "toady", "pos": "noun", "d": ["A person who flatters and fawns on others to win favor."], "src": "iwb"}
+{"w": "toast", "pos": "noun", "d": ["Sliced bread browned by heat.", "A proposal to drink in honor of a person or thing; the act of drinking to someone's health."], "src": "iwb"}
+{"w": "toat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tobacconing", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tobacconist", "pos": "noun", "d": ["A seller of tobacco and smokers' supplies."], "src": "iwb"}
+{"w": "tobias fish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tobie", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tobine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tobit", "pos": "noun", "d": ["A book of the Apocrypha telling the story of the righteous Tobit and his son Tobias."], "src": "iwb"}
+{"w": "toboggan", "pos": "noun", "d": ["A long, narrow sled, curled up at the front, for sliding down snowy slopes."], "src": "iwb"}
+{"w": "toby", "pos": "noun", "d": ["A drinking mug shaped like a stout, jolly man, often wearing a three-cornered hat."], "src": "iwb"}
+{"w": "toccata", "pos": "noun", "d": ["A musical composition for keyboard, in a free, improvisational style."], "src": "iwb"}
+{"w": "toccatella", "pos": "noun", "d": ["A short toccata."], "src": "iwb"}
+{"w": "toccatina", "pos": "noun", "d": ["A short toccata."], "src": "iwb"}
+{"w": "tocher", "pos": "noun", "d": ["A dowry; the money or property a bride brings to her husband."], "src": "iwb"}
+{"w": "tockay", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toco", "pos": "noun", "d": ["A large toucan of South America, with a huge orange bill; the toco toucan."], "src": "iwb"}
+{"w": "tocororo", "pos": "noun", "d": ["The Cuban trogon, a colorful bird that is the national bird of Cuba."], "src": "iwb"}
+{"w": "tocsin", "pos": "noun", "d": ["An alarm bell, or the ringing of such a bell as a warning.", "Any warning signal."], "src": "iwb"}
+{"w": "tod", "pos": "noun", "d": ["A fox.", "A unit of weight for wool, equal to 28 pounds."], "src": "iwb"}
+{"w": "toddle", "pos": "verb", "d": ["To walk with short, unsteady steps, as a young child."], "src": "iwb"}
+{"w": "toddy", "pos": "noun", "d": ["A hot drink of liquor, water, sugar, and spices.", "The sweet sap of certain palm trees, used as a drink."], "src": "iwb"}
+{"w": "tody", "pos": "noun", "d": ["A very small, brightly colored insect-eating bird of the West Indies."], "src": "iwb"}
+{"w": "toe drop", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toe hold", "pos": "noun", "d": ["A hold in wrestling in which the opponent's foot is twisted by the toes.", "A small but firm advantage or beginning from which further progress can be made."], "src": "iwb"}
+{"w": "toed", "pos": "adjective", "d": ["Having toes, especially of a specified kind or number, as in three-toed."], "src": "iwb"}
+{"w": "toff", "pos": "noun", "d": ["A well-dressed, dandified man; a member of the upper class."], "src": "iwb"}
+{"w": "toffee", "pos": "noun", "d": ["A chewy candy made by boiling sugar and butter together."], "src": "iwb"}
+{"w": "toffy", "pos": "adjective", "d": ["Like a toff; dandified or snobbish."], "src": "iwb"}
+{"w": "tofore", "pos": "preposition", "d": ["Before; in front of."], "src": "iwb"}
+{"w": "toforn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toft", "pos": "noun", "d": ["A homestead; a house with its outbuildings and land."], "src": "iwb"}
+{"w": "tofus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tog", "pos": "verb", "d": ["To dress, especially in fine or formal clothes."], "src": "iwb"}
+{"w": "toga", "pos": "noun", "d": ["A loose outer garment worn by citizens of ancient Rome."], "src": "iwb"}
+{"w": "toggle", "pos": "verb", "d": ["To switch back and forth between two states or settings.", "To fasten with a toggle."], "src": "iwb"}
+{"w": "toght", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "togider", "pos": "adverb", "d": ["Together."], "src": "iwb"}
+{"w": "togidres", "pos": "adverb", "d": ["Together."], "src": "iwb"}
+{"w": "togue", "pos": "noun", "d": ["A large lake trout of northern North America."], "src": "iwb"}
+{"w": "tohew", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tohubohu", "pos": "noun", "d": ["Utter confusion or disorder; chaos."], "src": "iwb"}
+{"w": "toil", "pos": "noun", "d": ["Hard, exhausting labor.", "A net or snare set to catch game."], "src": "iwb"}
+{"w": "toilinette", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toise", "pos": "noun", "d": ["An old French unit of length equal to about six feet."], "src": "iwb"}
+{"w": "toison", "pos": "noun", "d": ["A fleece, especially the Golden Fleece of Greek legend."], "src": "iwb"}
+{"w": "tokay", "pos": "noun", "d": ["A sweet white wine made near Tokay, Hungary."], "src": "iwb"}
+{"w": "tokin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tola", "pos": "noun", "d": ["A unit of weight used in India, equal to about 180 grains."], "src": "iwb"}
+{"w": "tolane", "pos": "noun", "d": ["A colorless crystalline chemical compound of two phenyl groups joined by a triple bond."], "src": "iwb"}
+{"w": "tole", "pos": "noun", "d": ["Lacquered or enameled metalware, often painted and gilt for decoration."], "src": "iwb"}
+{"w": "toledo", "pos": "noun", "d": ["A finely made sword blade from Toledo, Spain."], "src": "iwb"}
+{"w": "tolerability", "pos": "noun", "d": ["The quality of being tolerable or bearable."], "src": "iwb"}
+{"w": "tolerable", "pos": "adjective", "d": ["Able to be borne or endured.", "Fairly good; passable."], "src": "iwb"}
+{"w": "tolletane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tolsester", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tolstoian", "pos": "adjective", "d": ["Pertaining to Leo Tolstoy or his moral philosophy, which emphasized nonviolence, simple living, and spiritual purity."], "src": "iwb"}
+{"w": "tolstoyan", "pos": "adjective", "d": ["Relating to Leo Tolstoy or to a follower of his moral and religious teachings."], "src": "iwb"}
+{"w": "tolt", "pos": "noun", "d": ["A smooth four-beat running gait of the Icelandic horse, in which at least one foot is always on the ground."], "src": "iwb"}
+{"w": "toltec", "pos": "noun", "d": ["A member of an ancient Mesoamerican people who built a powerful culture in central Mexico before the Aztecs."], "src": "iwb"}
+{"w": "tolu", "pos": "noun", "d": ["An aromatic reddish-brown balsam obtained from a South American tree, used in flavorings and cough remedies."], "src": "iwb"}
+{"w": "toluene", "pos": "noun", "d": ["A colorless flammable liquid hydrocarbon used as a solvent and in making paints, glues, and explosives."], "src": "iwb"}
+{"w": "toluenyl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toluid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toluidine", "pos": "noun", "d": ["A crystalline organic compound related to aniline, used in making dyes and other chemicals."], "src": "iwb"}
+{"w": "toluol", "pos": "noun", "d": ["Another name for toluene, a colorless liquid hydrocarbon used as a solvent."], "src": "iwb"}
+{"w": "toluole", "pos": "noun", "d": ["An alternate spelling of toluol, the liquid hydrocarbon toluene."], "src": "iwb"}
+{"w": "tolutation", "pos": "noun", "d": ["An ambling or pacing gait, especially the smooth running pace of a horse."], "src": "iwb"}
+{"w": "toluyl", "pos": "noun", "d": ["A chemical radical derived from toluic acid, used in organic chemistry."], "src": "iwb"}
+{"w": "toluylene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tolyl", "pos": "noun", "d": ["A chemical group derived from toluene by removing one hydrogen atom."], "src": "iwb"}
+{"w": "tolylene", "pos": "noun", "d": ["A divalent chemical radical derived from toluene, used in making industrial chemicals."], "src": "iwb"}
+{"w": "tolypeutine", "pos": "noun", "d": ["A three-banded armadillo of the genus Tolypeutes, native to South America."], "src": "iwb"}
+{"w": "tom and jerry", "pos": "phrase", "d": ["A hot drink made with beaten eggs, rum or brandy, sugar, and hot water or milk."], "src": "iwb"}
+{"w": "tom-tom", "pos": "noun", "d": ["A small double-headed hand drum of Asian or African origin."], "src": "iwb"}
+{"w": "tomahawk", "pos": "noun", "d": ["A light ax once used as a weapon and tool by certain Native American peoples.", "A long-range guided cruise missile used by the United States military."], "src": "iwb"}
+{"w": "tomaley", "pos": "noun", "d": ["The soft green substance found in the body of a cooked lobster, made up of its liver and pancreas."], "src": "iwb"}
+{"w": "toman", "pos": "noun", "d": ["An Iranian unit of money equal to ten rials."], "src": "iwb"}
+{"w": "tomb", "pos": "noun", "d": ["A burial place, vault, or monument in which a dead person is laid to rest."], "src": "iwb"}
+{"w": "tome", "pos": "noun", "d": ["A large, heavy book, especially one of serious scholarly content."], "src": "iwb"}
+{"w": "tomentose", "pos": "adjective", "d": ["Covered with a dense matting of short, soft hairs, as the leaves of certain plants."], "src": "iwb"}
+{"w": "tomentous", "pos": "adjective", "d": ["Covered with dense, soft, matted hairs; an alternate form of tomentose."], "src": "iwb"}
+{"w": "tomentum", "pos": "noun", "d": ["A covering of dense, matted, woolly hairs on a plant or animal."], "src": "iwb"}
+{"w": "tomium", "pos": "noun", "d": ["The sharp cutting edge of a bird's beak."], "src": "iwb"}
+{"w": "tommy atkins", "pos": "phrase", "d": ["A nickname for a British soldier, especially an infantryman."], "src": "iwb"}
+{"w": "tomopteris", "pos": "noun", "d": ["A genus of transparent marine worms that swim freely in open ocean waters."], "src": "iwb"}
+{"w": "tompon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tomtate", "pos": "noun", "d": ["A small grunt fish common in the warm coastal waters of the western Atlantic."], "src": "iwb"}
+{"w": "ton mile", "pos": "phrase", "d": ["A unit of freight transportation equal to one ton carried one mile."], "src": "iwb"}
+{"w": "tonality", "pos": "noun", "d": ["The key or tonal character of a piece of music.", "The general arrangement and effect of tones or colors in a picture."], "src": "iwb"}
+{"w": "tonca bean", "pos": "phrase", "d": ["An alternate spelling of tonka bean, the fragrant seed used in flavorings and perfumes."], "src": "iwb"}
+{"w": "tong", "pos": "noun", "d": ["A fraternal or community organization among Chinese people living abroad.", "A tool with two arms joined at a pivot, used for gripping and lifting things."], "src": "iwb"}
+{"w": "tonga", "pos": "noun", "d": ["A light two-wheeled horse-drawn carriage used in South Asia."], "src": "iwb"}
+{"w": "tonge", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tongkang", "pos": "noun", "d": ["A small two-masted wooden sailing vessel used in the waters of the Malay Archipelago."], "src": "iwb"}
+{"w": "tongo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tongue-pad", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tongue-shaped", "pos": "adjective", "d": ["Shaped like a tongue; long, flat, and rounded at the tip."], "src": "iwb"}
+{"w": "tongue-shell", "pos": "noun", "d": ["A marine brachiopod of the genus Lingula, having a tongue-shaped shell."], "src": "iwb"}
+{"w": "tongue-tie", "pos": "noun", "d": ["A condition in which a short fold of tissue under the tongue limits its free movement."], "src": "iwb"}
+{"w": "tonguester", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tonite", "pos": "adverb", "d": ["An alternate spelling of tonight."], "src": "iwb"}
+{"w": "tonka bean", "pos": "phrase", "d": ["The fragrant seed of a South American tree, used in perfumes and flavorings."], "src": "iwb"}
+{"w": "tonnage", "pos": "noun", "d": ["The total carrying capacity of a ship, measured in tons.", "A tax or duty charged on ships based on their carrying capacity."], "src": "iwb"}
+{"w": "tonne", "pos": "noun", "d": ["A metric unit of mass equal to 1,000 kilograms."], "src": "iwb"}
+{"w": "tonneau", "pos": "noun", "d": ["The rear passenger compartment of an early automobile.", "A fitted cover for the open cargo bed of a pickup truck."], "src": "iwb"}
+{"w": "tonnihood", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tonnish", "pos": "adjective", "d": ["Belonging to or characteristic of fashionable high society."], "src": "iwb"}
+{"w": "tonometer", "pos": "noun", "d": ["An instrument for measuring the pressure inside the eye.", "An instrument used to measure musical pitch."], "src": "iwb"}
+{"w": "tonometry", "pos": "noun", "d": ["The measurement of tension or pressure, especially the pressure inside the eye."], "src": "iwb"}
+{"w": "tonophant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tonquin bean", "pos": "phrase", "d": ["An alternate spelling of tonka bean, the fragrant seed used in perfumes and flavorings."], "src": "iwb"}
+{"w": "tonsil", "pos": "noun", "d": ["A small mass of lymphoid tissue on each side at the back of the throat."], "src": "iwb"}
+{"w": "tonsilar", "pos": "adjective", "d": ["Relating to the tonsils; an alternate spelling of tonsillar."], "src": "iwb"}
+{"w": "tonsilitic", "pos": "adjective", "d": ["Affected with or relating to tonsillitis."], "src": "iwb"}
+{"w": "tonsilitis", "pos": "noun", "d": ["An alternate spelling of tonsillitis, an inflammation of the tonsils."], "src": "iwb"}
+{"w": "tonsilotome", "pos": "noun", "d": ["A surgical instrument used for cutting out the tonsils."], "src": "iwb"}
+{"w": "tonsilotomy", "pos": "noun", "d": ["The surgical removal or cutting out of a tonsil."], "src": "iwb"}
+{"w": "tonsor", "pos": "noun", "d": ["A barber; one who shaves and cuts hair."], "src": "iwb"}
+{"w": "tontine insurance", "pos": "phrase", "d": ["A form of insurance in which the benefits are shared among the members who survive to the end of a set period."], "src": "iwb"}
+{"w": "tonus", "pos": "noun", "d": ["The normal state of slight, steady contraction in resting muscles."], "src": "iwb"}
+{"w": "tool steel", "pos": "phrase", "d": ["A hard, strong steel specially made for cutting tools, dies, and machine parts."], "src": "iwb"}
+{"w": "tool-post", "pos": "noun", "d": ["The part of a lathe that holds the cutting tool firmly in place."], "src": "iwb"}
+{"w": "tool-rest", "pos": "noun", "d": ["A support on a lathe or grinding machine that steadies the cutting tool."], "src": "iwb"}
+{"w": "tool-stock", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toom", "pos": "adjective", "d": ["Empty; a word used in Scotland."], "src": "iwb"}
+{"w": "toon", "pos": "noun", "d": ["A large East Indian tree of the mahogany family, yielding a reddish timber."], "src": "iwb"}
+{"w": "toot", "pos": "noun", "d": ["A short, sharp blast, as of a horn or whistle."], "src": "iwb"}
+{"w": "tootle", "pos": "verb", "d": ["To blow a horn or whistle in short, soft blasts.", "To move or travel along in a slow, leisurely way."], "src": "iwb"}
+{"w": "toozoo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "top fermentation", "pos": "phrase", "d": ["Fermentation in which the yeast rises to the top of the liquid, as in brewing ale."], "src": "iwb"}
+{"w": "top out", "pos": "phrase", "d": ["To reach the top or highest point.", "To fill something up to the top."], "src": "iwb"}
+{"w": "top rake", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "top-armor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "top-block", "pos": "noun", "d": ["A pulley block fastened at the top of a mast or derrick."], "src": "iwb"}
+{"w": "top-boots", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "top-chain", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "top-cloth", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "top-drain", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "top-dress", "pos": "verb", "d": ["To spread fertilizer or manure on the surface of land or growing crops."], "src": "iwb"}
+{"w": "top-hamper", "pos": "noun", "d": ["The upper masts, rigging, and sails of a ship."], "src": "iwb"}
+{"w": "top-heavy", "pos": "adjective", "d": ["Having too much weight at the top, so as to be likely to tip over."], "src": "iwb"}
+{"w": "top-light", "pos": "noun", "d": ["A window set above a door or another window.", "Light coming from above."], "src": "iwb"}
+{"w": "top-proud", "pos": "adjective", "d": ["Excessively proud; haughty."], "src": "iwb"}
+{"w": "top-rope", "pos": "noun", "d": ["The highest rope surrounding a professional wrestling ring."], "src": "iwb"}
+{"w": "top-shaped", "pos": "adjective", "d": ["Shaped like a spinning top."], "src": "iwb"}
+{"w": "top-shell", "pos": "noun", "d": ["A sea snail with a conical, top-shaped shell."], "src": "iwb"}
+{"w": "top-tackle", "pos": "noun", "d": ["A tackle used in hoisting or lowering the topmast of a ship."], "src": "iwb"}
+{"w": "top-timbers", "pos": "noun", "d": ["The uppermost timbers in the frame of a ship."], "src": "iwb"}
+{"w": "top-tool", "pos": "noun", "d": ["A blacksmith's tool held on top of the work and struck with a hammer."], "src": "iwb"}
+{"w": "topau", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "topaz", "pos": "noun", "d": ["A usually yellowish transparent gemstone."], "src": "iwb"}
+{"w": "topazolite", "pos": "noun", "d": ["A yellowish-green variety of garnet used as a gemstone."], "src": "iwb"}
+{"w": "tope", "pos": "noun", "d": ["A small shark found in European and other coastal waters.", "A dome-shaped Buddhist shrine or monument; a stupa."], "src": "iwb"}
+{"w": "topek", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "topet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tophaceous", "pos": "adjective", "d": ["Having a sandy or gritty texture, like tufa."], "src": "iwb"}
+{"w": "tophet", "pos": "noun", "d": ["A place of punishment or suffering; hell."], "src": "iwb"}
+{"w": "tophus", "pos": "noun", "d": ["A chalky deposit of urates in the tissues, especially in gout."], "src": "iwb"}
+{"w": "topi", "pos": "noun", "d": ["A lightweight sun helmet worn in tropical countries.", "An African antelope with a reddish-brown coat and curved horns."], "src": "iwb"}
+{"w": "topographer", "pos": "noun", "d": ["A person who studies or maps the topography of a region."], "src": "iwb"}
+{"w": "topographic", "pos": "adjective", "d": ["Relating to the physical features of a land area or to their detailed mapping."], "src": "iwb"}
+{"w": "topographist", "pos": "noun", "d": ["A person who maps or describes the topography of a place."], "src": "iwb"}
+{"w": "topography", "pos": "noun", "d": ["The arrangement of the physical features of a land area.", "A detailed map or description of those features."], "src": "iwb"}
+{"w": "toponomy", "pos": "noun", "d": ["The study of place names; toponymy."], "src": "iwb"}
+{"w": "toponym", "pos": "noun", "d": ["A place name."], "src": "iwb"}
+{"w": "toponymy", "pos": "noun", "d": ["The study of the origins and meanings of place names."], "src": "iwb"}
+{"w": "topophone", "pos": "noun", "d": ["An instrument for determining the direction from which a sound comes."], "src": "iwb"}
+{"w": "topple", "pos": "verb", "d": ["To fall over from being unbalanced.", "To cause to fall over; to overthrow."], "src": "iwb"}
+{"w": "tops-and-bottoms", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "topsman", "pos": "noun", "d": ["A sailor stationed in a ship's top to handle the sails aloft."], "src": "iwb"}
+{"w": "topsy-turvy", "pos": "adjective", "d": ["Upside down or in complete disorder."], "src": "iwb"}
+{"w": "toque", "pos": "noun", "d": ["A tall, brimless hat, such as the cap worn by a chef."], "src": "iwb"}
+{"w": "toquet", "pos": "noun", "d": ["A small, close-fitting cap or hood."], "src": "iwb"}
+{"w": "tor", "pos": "noun", "d": ["A rocky hill or crag."], "src": "iwb"}
+{"w": "tora", "pos": "noun", "d": ["The plural form of Torah."], "src": "iwb"}
+{"w": "torah", "pos": "noun", "d": ["The body of Jewish law and teaching, especially the first five books of the Bible."], "src": "iwb"}
+{"w": "toran", "pos": "noun", "d": ["An ornamental arched gateway in Indian architecture."], "src": "iwb"}
+{"w": "torase", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torbernite", "pos": "noun", "d": ["A green copper uranium phosphate mineral that forms square crystals."], "src": "iwb"}
+{"w": "torc", "pos": "noun", "d": ["A rigid metal neck ring worn by the ancient Celts."], "src": "iwb"}
+{"w": "torch", "pos": "noun", "d": ["A portable light made of a flaming stick or other burning material.", "A flashlight."], "src": "iwb"}
+{"w": "torch race", "pos": "phrase", "d": ["A relay race in which runners carry a lighted torch."], "src": "iwb"}
+{"w": "torchon lace", "pos": "phrase", "d": ["A coarse, strong bobbin lace worked in geometric patterns."], "src": "iwb"}
+{"w": "torchon paper", "pos": "phrase", "d": ["A rough-textured paper used for watercolor painting."], "src": "iwb"}
+{"w": "tore", "pos": "verb", "d": ["Past tense of tear."], "src": "iwb"}
+{"w": "toreador", "pos": "noun", "d": ["A bullfighter, especially one who fights on horseback."], "src": "iwb"}
+{"w": "toret", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toreumatography", "pos": "noun", "d": ["A written description of embossed or chased metalwork."], "src": "iwb"}
+{"w": "toreumatology", "pos": "noun", "d": ["The study of embossed or chased metalwork."], "src": "iwb"}
+{"w": "toreutic", "pos": "adjective", "d": ["Relating to artistic metalwork done in relief by embossing or chasing."], "src": "iwb"}
+{"w": "torgoch", "pos": "noun", "d": ["A lake-dwelling char, a reddish-bellied freshwater fish of Wales."], "src": "iwb"}
+{"w": "torilto", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torinese", "pos": "adjective", "d": ["Of or relating to Turin, Italy."], "src": "iwb"}
+{"w": "tormentil", "pos": "noun", "d": ["A low-growing plant with yellow flowers, whose astringent root is used in medicine."], "src": "iwb"}
+{"w": "tormentress", "pos": "noun", "d": ["A woman who torments."], "src": "iwb"}
+{"w": "tormentry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torminous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torn", "pos": "verb", "d": ["Past participle of tear."], "src": "iwb"}
+{"w": "torose", "pos": "adjective", "d": ["Cylindrical with rounded swellings at intervals."], "src": "iwb"}
+{"w": "torosity", "pos": "noun", "d": ["The condition of being cylindrical with swellings at intervals."], "src": "iwb"}
+{"w": "torpedinous", "pos": "adjective", "d": ["Relating to or resembling a torpedo."], "src": "iwb"}
+{"w": "torpedo", "pos": "noun", "d": ["A self-propelled underwater weapon launched at ships.", "An electric ray."], "src": "iwb"}
+{"w": "torpedo body", "pos": "phrase", "d": ["An early automobile body style with a long, tapered, streamlined shape."], "src": "iwb"}
+{"w": "torpedo boom", "pos": "phrase", "d": ["A spar projecting from a ship to support its torpedo nets."], "src": "iwb"}
+{"w": "torpedo catcher", "pos": "phrase", "d": ["A small, fast warship designed to intercept torpedo boats."], "src": "iwb"}
+{"w": "torpedo shell", "pos": "phrase", "d": ["The outer casing of a torpedo."], "src": "iwb"}
+{"w": "torpedo station", "pos": "phrase", "d": ["A naval station equipped for torpedo boats and torpedoes."], "src": "iwb"}
+{"w": "torpedo stern", "pos": "phrase", "d": ["A rounded, overhanging stern of a ship."], "src": "iwb"}
+{"w": "torpedo tube", "pos": "phrase", "d": ["A tube from which torpedoes are launched."], "src": "iwb"}
+{"w": "torpedo-boat destroyer", "pos": "phrase", "d": ["A fast warship designed to hunt down torpedo boats; the modern destroyer."], "src": "iwb"}
+{"w": "torpescence", "pos": "noun", "d": ["A state of numbness or inactivity; torpor."], "src": "iwb"}
+{"w": "torpescent", "pos": "adjective", "d": ["Becoming numb or sluggish."], "src": "iwb"}
+{"w": "torpid", "pos": "adjective", "d": ["Mentally or physically sluggish; numb and inactive."], "src": "iwb"}
+{"w": "torpify", "pos": "verb", "d": ["To make numb or sluggish."], "src": "iwb"}
+{"w": "torpitude", "pos": "noun", "d": ["A state of sluggish inactivity; torpor."], "src": "iwb"}
+{"w": "torpor", "pos": "noun", "d": ["A state of mental and physical inactivity; sluggishness."], "src": "iwb"}
+{"w": "torporific", "pos": "adjective", "d": ["Causing torpor or sluggishness."], "src": "iwb"}
+{"w": "torquate", "pos": "adjective", "d": ["Having a ringlike band or collar of contrasting color."], "src": "iwb"}
+{"w": "torrefy", "pos": "verb", "d": ["To roast or dry with heat, as ores or drugs."], "src": "iwb"}
+{"w": "torrens system", "pos": "phrase", "d": ["A system of registering land titles in which the state guarantees ownership."], "src": "iwb"}
+{"w": "torrentine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torricellian", "pos": "adjective", "d": ["Relating to Torricelli or to his barometer."], "src": "iwb"}
+{"w": "torril", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torsade", "pos": "noun", "d": ["A twisted cord or braid used as decoration."], "src": "iwb"}
+{"w": "torse", "pos": "noun", "d": ["A twisted band or wreath, especially as a heraldic crest ornament."], "src": "iwb"}
+{"w": "torsel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torsibillty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torsion electrometer", "pos": "phrase", "d": ["An electrometer that measures electric potential by the torsion of a suspended wire."], "src": "iwb"}
+{"w": "torsion galvanometer", "pos": "phrase", "d": ["A galvanometer that measures electric current by the torsion of a suspended wire."], "src": "iwb"}
+{"w": "torsion head", "pos": "phrase", "d": ["The rotating upper part of a torsion balance from which the wire is suspended."], "src": "iwb"}
+{"w": "torsion indicator", "pos": "phrase", "d": ["An instrument that shows the amount of twisting in a shaft or wire."], "src": "iwb"}
+{"w": "torsion meter", "pos": "phrase", "d": ["An instrument for measuring the twisting force in a shaft."], "src": "iwb"}
+{"w": "torsk", "pos": "noun", "d": ["A large North Atlantic food fish of the cod family, also called the cusk."], "src": "iwb"}
+{"w": "torso", "pos": "noun", "d": ["The trunk of the human body, without head, arms, or legs.", "A statue of a human trunk without head or limbs."], "src": "iwb"}
+{"w": "tort", "pos": "noun", "d": ["A wrongful act, other than a breach of contract, for which the injured party may sue for damages."], "src": "iwb"}
+{"w": "torta", "pos": "noun", "d": ["A cake, tart, or pie, especially in Italian or Spanish cooking."], "src": "iwb"}
+{"w": "torteau", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torticollis", "pos": "noun", "d": ["A condition in which the neck is twisted, holding the head to one side."], "src": "iwb"}
+{"w": "tortility", "pos": "noun", "d": ["The quality of being twisted or coiled."], "src": "iwb"}
+{"w": "tortilla", "pos": "noun", "d": ["A thin, flat round bread of cornmeal or wheat flour, used in Mexican cooking."], "src": "iwb"}
+{"w": "tortious", "pos": "adjective", "d": ["Relating to or constituting a tort; wrongful."], "src": "iwb"}
+{"w": "tortricid", "pos": "noun", "d": ["A moth of the family Tortricidae, whose larvae roll leaves."], "src": "iwb"}
+{"w": "tortrix", "pos": "noun", "d": ["Any tortricid moth; a moth of the genus Tortrix."], "src": "iwb"}
+{"w": "tortulous", "pos": "adjective", "d": ["Full of twists and turns; winding."], "src": "iwb"}
+{"w": "tortuose", "pos": "adjective", "d": ["Twisted or winding."], "src": "iwb"}
+{"w": "tortuoslty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tortuous", "pos": "adjective", "d": ["Full of twists and turns, like a winding road.", "Indirect or tricky rather than straightforward."], "src": "iwb"}
+{"w": "torturingly", "pos": "adverb", "d": ["In a way that causes extreme suffering or distress."], "src": "iwb"}
+{"w": "torturous", "pos": "adjective", "d": ["Causing great pain or suffering.", "Extremely difficult or unpleasant to endure."], "src": "iwb"}
+{"w": "torula", "pos": "noun", "d": ["A small rounded projection or swelling.", "A genus of dark-colored fungi."], "src": "iwb"}
+{"w": "torulose", "pos": "adjective", "d": ["Cylindrical but with slight swellings at intervals, like a string of beads."], "src": "iwb"}
+{"w": "torulous", "pos": "adjective", "d": ["Having small rounded swellings at intervals."], "src": "iwb"}
+{"w": "torus", "pos": "noun", "d": ["A large rounded molding at the base of a column.", "A ring-shaped surface or object, like a donut.", "A rounded ridge or projection on a plant or animal."], "src": "iwb"}
+{"w": "torved", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "torvity", "pos": "noun", "d": ["Sternness or grimness of appearance."], "src": "iwb"}
+{"w": "torvous", "pos": "adjective", "d": ["Stern and forbidding in look or manner."], "src": "iwb"}
+{"w": "tory", "pos": "noun", "d": ["A member or supporter of the Conservative party in Britain.", "An American colonist who supported the British side in the Revolutionary War."], "src": "iwb"}
+{"w": "toscatter", "pos": "verb", "d": ["To scatter about in different directions."], "src": "iwb"}
+{"w": "tose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tosh", "pos": "noun", "d": ["Foolish talk; nonsense."], "src": "iwb"}
+{"w": "toss", "pos": "verb", "d": ["To throw lightly or casually with the hand.", "To throw up in the air, as a coin, to decide something by chance.", "To move restlessly from side to side."], "src": "iwb"}
+{"w": "tossel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tossily", "pos": "adverb", "d": ["In a manner suggesting a quick tossing motion."], "src": "iwb"}
+{"w": "tossy", "pos": "adjective", "d": ["Characterized by tossing; restless or unsteady."], "src": "iwb"}
+{"w": "tost", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tosto", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toswink", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tot", "pos": "noun", "d": ["A very small child.", "A small drink of liquor.", "A small amount of something."], "src": "iwb"}
+{"w": "tota", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "totalis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "totalisator", "pos": "noun", "d": ["A machine or system that records bets and computes odds in parimutuel wagering."], "src": "iwb"}
+{"w": "totalization", "pos": "noun", "d": ["The act of totaling or bringing to a total."], "src": "iwb"}
+{"w": "totalizator", "pos": "noun", "d": ["A variant spelling of totalisator."], "src": "iwb"}
+{"w": "tote", "pos": "verb", "d": ["To carry by hand or on the body.", "To add up; to total."], "src": "iwb"}
+{"w": "totem", "pos": "noun", "d": ["An animal, plant, or object held sacred as the emblem of a tribe or clan.", "Any person or thing that serves as a revered symbol."], "src": "iwb"}
+{"w": "totem pole", "pos": "noun", "d": ["A tall wooden post carved and painted with totemic figures, erected by Native peoples of the Pacific Northwest."], "src": "iwb"}
+{"w": "totem post", "pos": "noun", "d": ["A post bearing carved totem figures."], "src": "iwb"}
+{"w": "totipalmate", "pos": "adjective", "d": ["Having all four toes joined by a single web, as in pelicans."], "src": "iwb"}
+{"w": "totipalmi", "pos": "noun", "d": ["An obsolete order of swimming birds having all four toes connected by a web."], "src": "iwb"}
+{"w": "totipresence", "pos": "noun", "d": ["The quality of being present everywhere; omnipresence."], "src": "iwb"}
+{"w": "totipresent", "pos": "adjective", "d": ["Present in every place at the same time."], "src": "iwb"}
+{"w": "totteringly", "pos": "adverb", "d": ["In a tottering manner; with unsteady or faltering motion."], "src": "iwb"}
+{"w": "tottery", "pos": "adjective", "d": ["Unsteady in movement or structure; liable to totter."], "src": "iwb"}
+{"w": "tottle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tottlish", "pos": "adjective", "d": ["Ticklish or easily tickled; also, unsteady or shaky."], "src": "iwb"}
+{"w": "totty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toucan", "pos": "noun", "d": ["A tropical American bird with a very large, brightly colored bill."], "src": "iwb"}
+{"w": "toucanet", "pos": "noun", "d": ["A small toucan."], "src": "iwb"}
+{"w": "touch-box", "pos": "noun", "d": ["A small box for holding tinder to catch a spark."], "src": "iwb"}
+{"w": "touch-me-not", "pos": "noun", "d": ["A plant whose ripe seed pods burst open when touched, scattering the seeds.", "A warning not to touch or meddle."], "src": "iwb"}
+{"w": "touch-needle", "pos": "noun", "d": ["A needle used with a touchstone to test the purity of gold."], "src": "iwb"}
+{"w": "touch-paper", "pos": "noun", "d": ["Paper soaked in a nitrate solution so that it burns readily, used for lighting fires and fireworks."], "src": "iwb"}
+{"w": "touchily", "pos": "adverb", "d": ["In an easily offended or irritable manner."], "src": "iwb"}
+{"w": "touchiness", "pos": "noun", "d": ["The quality of being easily offended; oversensitivity."], "src": "iwb"}
+{"w": "touchy", "pos": "adjective", "d": ["Easily offended or made angry.", "Requiring delicate handling; risky or sensitive."], "src": "iwb"}
+{"w": "tough-cake", "pos": "noun", "d": ["Refined copper cast in flat ingots."], "src": "iwb"}
+{"w": "tough-pitch", "pos": "noun", "d": ["A stage of copper refining at which the metal is fully malleable."], "src": "iwb"}
+{"w": "touite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "toupee", "pos": "noun", "d": ["A small wig worn to cover a bald spot."], "src": "iwb"}
+{"w": "toupet", "pos": "noun", "d": ["A toupee; a tuft of hair worn on the forehead."], "src": "iwb"}
+{"w": "touraco", "pos": "noun", "d": ["A crested African bird with brilliant plumage, related to the plantain-eaters."], "src": "iwb"}
+{"w": "touring car", "pos": "noun", "d": ["An open automobile with seating for five or more, popular in the early twentieth century."], "src": "iwb"}
+{"w": "tourmaline", "pos": "noun", "d": ["A hard mineral of various colors, sometimes used as a gemstone."], "src": "iwb"}
+{"w": "tourn", "pos": "noun", "d": ["An old name for the circuit court of a sheriff."], "src": "iwb"}
+{"w": "tournery", "pos": "noun", "d": ["The art or work of turning objects on a lathe."], "src": "iwb"}
+{"w": "tourney", "pos": "noun", "d": ["A medieval contest of knights in mock combat.", "Any formal contest or tournament."], "src": "iwb"}
+{"w": "tourniquet", "pos": "noun", "d": ["A band or device drawn tightly around a limb to stop bleeding."], "src": "iwb"}
+{"w": "tournois", "pos": "noun", "d": ["An old French monetary unit, the livre tournois."], "src": "iwb"}
+{"w": "tous-les-mois", "pos": "phrase", "d": ["French for every month; also, the name of a starch obtained from canna roots."], "src": "iwb"}
+{"w": "tousche", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "touse", "pos": "verb", "d": ["To pull about roughly; to tousle."], "src": "iwb"}
+{"w": "tousel", "pos": "verb", "d": ["To pull about roughly; to tousle."], "src": "iwb"}
+{"w": "tousle", "pos": "verb", "d": ["To disarrange or rumple, as the hair.", "To handle roughly."], "src": "iwb"}
+{"w": "tousy", "pos": "adjective", "d": ["Disheveled or tangled; in disorder."], "src": "iwb"}
+{"w": "tout", "pos": "verb", "d": ["To praise or promote something persistently in order to sell it.", "To try to obtain customers or bets by importunity, as at a race track."], "src": "iwb"}
+{"w": "tout-ensemble", "pos": "phrase", "d": ["The whole effect or impression of a thing taken together; an outfit or ensemble."], "src": "iwb"}
+{"w": "touze", "pos": "verb", "d": ["A Scots form of touse; to pull about roughly."], "src": "iwb"}
+{"w": "tow", "pos": "noun", "d": ["A rope or cable used for towing.", "The act of pulling something behind a vehicle or vessel.", "The coarse broken fibers of flax or hemp."], "src": "iwb"}
+{"w": "towardliness", "pos": "noun", "d": ["Readiness or willingness to comply; a favorable disposition."], "src": "iwb"}
+{"w": "towel", "pos": "noun", "d": ["A cloth for drying the body, hands, or dishes.", "To dry or wipe with a towel."], "src": "iwb"}
+{"w": "towery", "pos": "adjective", "d": ["Having towers; adorned with towers.", "Rising high; towering."], "src": "iwb"}
+{"w": "towhee", "pos": "noun", "d": ["A North American songbird with a dark head and reddish sides."], "src": "iwb"}
+{"w": "town-crier", "pos": "noun", "d": ["A person formerly employed by a town to make public announcements by voice in the streets."], "src": "iwb"}
+{"w": "townsfolk", "pos": "noun", "d": ["The people of a town."], "src": "iwb"}
+{"w": "townsman", "pos": "noun", "d": ["A male inhabitant of a town; a fellow townsman."], "src": "iwb"}
+{"w": "townspeople", "pos": "noun", "d": ["The inhabitants of a town."], "src": "iwb"}
+{"w": "towser", "pos": "noun", "d": ["A large rough-haired dog, especially one kept as a watchdog."], "src": "iwb"}
+{"w": "towy", "pos": "adjective", "d": ["Made of tow; resembling tow."], "src": "iwb"}
+{"w": "toxaemia", "pos": "noun", "d": ["A variant spelling of toxemia."], "src": "iwb"}
+{"w": "toxalbumin", "pos": "noun", "d": ["A poisonous substance resembling albumin, produced by bacteria or found in some plants."], "src": "iwb"}
+{"w": "toxemia", "pos": "noun", "d": ["A condition caused by toxins circulating in the blood."], "src": "iwb"}
+{"w": "toxicogenic", "pos": "adjective", "d": ["Producing poison or toxins."], "src": "iwb"}
+{"w": "toxicological", "pos": "adjective", "d": ["Relating to toxicology, the study of poisons."], "src": "iwb"}
+{"w": "toxicologist", "pos": "noun", "d": ["A scientist who studies poisons and their effects."], "src": "iwb"}
+{"w": "toxicomania", "pos": "noun", "d": ["A morbid craving for poisons or toxic drugs."], "src": "iwb"}
+{"w": "toxifera", "pos": "noun", "d": ["A group of poisonous animals."], "src": "iwb"}
+{"w": "toxin", "pos": "noun", "d": ["A poisonous substance produced by a living organism, such as a bacterium."], "src": "iwb"}
+{"w": "toxine", "pos": "noun", "d": ["A variant spelling of toxin."], "src": "iwb"}
+{"w": "toxiphobia", "pos": "noun", "d": ["An abnormal fear of being poisoned."], "src": "iwb"}
+{"w": "toxodon", "pos": "noun", "d": ["An extinct plant-eating mammal of South America, resembling a huge rhinoceros."], "src": "iwb"}
+{"w": "toxodonta", "pos": "noun", "d": ["A suborder of extinct South American hoofed mammals including the toxodon."], "src": "iwb"}
+{"w": "toxoglossa", "pos": "noun", "d": ["A group of poisonous sea snails with hollow dart-like teeth, including the cone shells."], "src": "iwb"}
+{"w": "toxoid", "pos": "noun", "d": ["A toxin that has been treated so that it is harmless but still causes immunity."], "src": "iwb"}
+{"w": "toxophilite", "pos": "noun", "d": ["A lover of archery; one skilled in shooting with the bow."], "src": "iwb"}
+{"w": "toxotes", "pos": "noun", "d": ["A genus of small fishes, the archerfishes, that shoot down insects by spitting water."], "src": "iwb"}
+{"w": "toyingly", "pos": "adverb", "d": ["In a playful or trifling manner."], "src": "iwb"}
+{"w": "toze", "pos": "", "d": [], "src": "iwb", "unsure": true}

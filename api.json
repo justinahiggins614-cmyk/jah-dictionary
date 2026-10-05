@@ -51,10 +51,10 @@
   "raw_example": "https://raw.githubusercontent.com/justinahiggins614-cmyk/jah-dictionary/master/data/index/dict.idx.json.gz",
   "sitemap": "https://justinahiggins614-cmyk.github.io/jah-dictionary/sitemap-index.xml",
   "schema_version": "1.1",
-  "catalog_revision": 30,
-  "generated_at": "2026-10-05T08:39:19+00:00",
-  "defined": 96379,
-  "defined_authored": 55023,
+  "catalog_revision": 31,
+  "generated_at": "2026-10-05T08:53:29+00:00",
+  "defined": 97179,
+  "defined_authored": 55823,
   "defined_template": 41356,
-  "pending_definitions": 5844
+  "pending_definitions": 5044
 }

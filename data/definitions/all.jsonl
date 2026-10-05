@@ -52621,6 +52621,806 @@
 {"w": "structurist", "pos": "noun", "d": ["One who studies structures."], "src": "iwb"}
 {"w": "strude", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "strull", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "strum", "pos": "verb", "d": ["To play a stringed instrument by brushing the fingers lightly across the strings."], "src": "iwb"}
+{"w": "struma", "pos": "noun", "d": ["An enlargement of the thyroid gland in the neck, commonly called a goiter."], "src": "iwb"}
+{"w": "strumose", "pos": "adjective", "d": ["Having a cushion-like swelling at the base, as some mosses and seed capsules do."], "src": "iwb"}
+{"w": "strung", "pos": "adjective", "d": ["Fitted with strings, as a racket or an instrument is.", "Tense and nervous from strain or excitement."], "src": "iwb"}
+{"w": "strunt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "struntian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "struse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "strut", "pos": "verb", "d": ["To walk with stiff, proud, and showy steps."], "src": "iwb"}
+{"w": "struthian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "struthio", "pos": "noun", "d": ["The genus of large flightless birds that includes the ostrich."], "src": "iwb"}
+{"w": "struthiones", "pos": "noun", "d": ["Ostriches of the genus Struthio; the plural of struthio."], "src": "iwb"}
+{"w": "struthious", "pos": "adjective", "d": ["Relating to the ostrich.", "Like an ostrich, especially in trying to hide from an obvious danger."], "src": "iwb"}
+{"w": "struvite", "pos": "noun", "d": ["A mineral of magnesium ammonium phosphate found in some kidney stones and in guano."], "src": "iwb"}
+{"w": "strychnia", "pos": "noun", "d": ["An old name for strychnine, the bitter poisonous alkaloid."], "src": "iwb"}
+{"w": "strychnic", "pos": "adjective", "d": ["Relating to or containing strychnine."], "src": "iwb"}
+{"w": "strychnine", "pos": "noun", "d": ["A very bitter and highly poisonous substance obtained from the seeds of certain tropical trees, once used to kill pests."], "src": "iwb"}
+{"w": "strychnos", "pos": "noun", "d": ["A genus of tropical trees and shrubs that yields strychnine and related poisons."], "src": "iwb"}
+{"w": "stryphnic", "pos": "adjective", "d": ["Astringent; causing living tissue to contract or pucker."], "src": "iwb"}
+{"w": "stub", "pos": "noun", "d": ["The short end of something left after most of it has been used, such as a cigarette or a ticket."], "src": "iwb"}
+{"w": "stubbiness", "pos": "noun", "d": ["The quality of being short and thick."], "src": "iwb"}
+{"w": "stubble", "pos": "noun", "d": ["Short stiff growth left after cutting, such as beard hair or the stalks left in a harvested field."], "src": "iwb"}
+{"w": "stubbly", "pos": "adjective", "d": ["Covered with or rough from stubble."], "src": "iwb"}
+{"w": "stubby", "pos": "adjective", "d": ["Short and thick in shape."], "src": "iwb"}
+{"w": "stucco", "pos": "noun", "d": ["A plaster used to coat and decorate the outside walls of buildings."], "src": "iwb"}
+{"w": "stuck-up", "pos": "adjective", "d": ["Thinking too highly of oneself; snobbish and unfriendly."], "src": "iwb"}
+{"w": "stuckle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stud-horse", "pos": "noun", "d": ["A stallion kept for breeding."], "src": "iwb"}
+{"w": "studdery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "studding sail", "pos": "noun", "d": ["An extra sail set outside a square sail to catch more wind in light breezes."], "src": "iwb"}
+{"w": "stufa", "pos": "noun", "d": ["A heated chamber, such as a stove room.", "A volcanic vent that gives off hot watery vapor."], "src": "iwb"}
+{"w": "stuffiness", "pos": "noun", "d": ["The quality of being stuffy, as of stale air in a closed room."], "src": "iwb"}
+{"w": "stuffy", "pos": "adjective", "d": ["Lacking fresh air; close and stale.", "Dull, stiff, and overly formal in manner."], "src": "iwb"}
+{"w": "stuke", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stull", "pos": "noun", "d": ["A timber framework or platform used to support the walls or floor of a mine."], "src": "iwb"}
+{"w": "stulm", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stulp", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stultification", "pos": "noun", "d": ["The act of making someone or something look foolish or absurd."], "src": "iwb"}
+{"w": "stultify", "pos": "verb", "d": ["To make someone or something appear foolish.", "To cause an effort or process to become useless or ineffective."], "src": "iwb"}
+{"w": "stultiloquence", "pos": "noun", "d": ["Foolish or silly talk."], "src": "iwb"}
+{"w": "stultiloquent", "pos": "adjective", "d": ["Talking in a foolish or silly way."], "src": "iwb"}
+{"w": "stultiloquy", "pos": "noun", "d": ["Foolish speech."], "src": "iwb"}
+{"w": "stulty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stum", "pos": "noun", "d": ["Grape juice that has not yet fermented into wine."], "src": "iwb"}
+{"w": "stumble", "pos": "verb", "d": ["To trip or lose one's footing while walking.", "To speak or act in a hesitant, faltering way."], "src": "iwb"}
+{"w": "stumbling-block", "pos": "noun", "d": ["An obstacle or difficulty that trips up progress."], "src": "iwb"}
+{"w": "stumbling-stone", "pos": "noun", "d": ["An obstacle or cause of failure."], "src": "iwb"}
+{"w": "stumblingly", "pos": "adverb", "d": ["In a faltering or unsteady manner."], "src": "iwb"}
+{"w": "stump", "pos": "noun", "d": ["The base of a tree left in the ground after the trunk has been cut down."], "src": "iwb"}
+{"w": "stump-tailed", "pos": "adjective", "d": ["Having a very short or stubby tail."], "src": "iwb"}
+{"w": "stumpiness", "pos": "noun", "d": ["The quality of being short and thick like a stump."], "src": "iwb"}
+{"w": "stumpy", "pos": "adjective", "d": ["Short and thick like a stump."], "src": "iwb"}
+{"w": "stun", "pos": "verb", "d": ["To shock or daze someone so that they cannot think or act clearly."], "src": "iwb"}
+{"w": "stundist", "pos": "noun", "d": ["A member of a Russian Protestant sect known for holding prayer meetings."], "src": "iwb"}
+{"w": "stung", "pos": "verb", "d": ["Pierced or wounded by a stinger, as of a bee or a nettle."], "src": "iwb"}
+{"w": "stunk", "pos": "verb", "d": ["Gave off a very bad smell."], "src": "iwb"}
+{"w": "stunt", "pos": "noun", "d": ["A daring or spectacular feat performed for show."], "src": "iwb"}
+{"w": "stupa", "pos": "noun", "d": ["A dome-shaped Buddhist shrine built to hold relics."], "src": "iwb"}
+{"w": "stupe", "pos": "noun", "d": ["A cloth soaked in hot liquid and applied to the body as a poultice."], "src": "iwb"}
+{"w": "stupefy", "pos": "verb", "d": ["To dull the senses or make someone unable to think clearly.", "To amaze someone completely."], "src": "iwb"}
+{"w": "stupendous", "pos": "adjective", "d": ["Amazingly large or impressive."], "src": "iwb"}
+{"w": "stupify", "pos": "verb", "d": ["A variant spelling of stupefy."], "src": "iwb"}
+{"w": "stupor", "pos": "noun", "d": ["A dazed state in which a person is nearly unconscious and cannot respond normally."], "src": "iwb"}
+{"w": "stupose", "pos": "adjective", "d": ["Covered with fine, soft, matted hairs, as some plant surfaces are."], "src": "iwb"}
+{"w": "stuprate", "pos": "verb", "d": ["To corrupt or violate, in an old legal or literary sense."], "src": "iwb"}
+{"w": "stupration", "pos": "noun", "d": ["The act of debauching or violating someone; sexual corruption."], "src": "iwb"}
+{"w": "stuprum", "pos": "noun", "d": ["In Roman law, a disgraceful or unlawful sexual act."], "src": "iwb"}
+{"w": "sturb", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sturdily", "pos": "adverb", "d": ["In a strong, solid, and dependable way."], "src": "iwb"}
+{"w": "sturdiness", "pos": "noun", "d": ["The quality of being strong, solid, and hard to damage."], "src": "iwb"}
+{"w": "sturdy", "pos": "adjective", "d": ["Strongly and solidly built; hard to break or push over."], "src": "iwb"}
+{"w": "sturgeon", "pos": "noun", "d": ["A large primitive fish of northern waters, valued for its flesh and for caviar."], "src": "iwb"}
+{"w": "sturiones", "pos": "noun", "d": ["Sturgeons; the plural of sturio."], "src": "iwb"}
+{"w": "sturionian", "pos": "adjective", "d": ["Relating to sturgeons."], "src": "iwb"}
+{"w": "sturk", "pos": "noun", "d": ["A young ox or heifer, especially in northern England and Scotland."], "src": "iwb"}
+{"w": "sturnoid", "pos": "adjective", "d": ["Resembling a starling in form or habits."], "src": "iwb"}
+{"w": "sturt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stut", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sty", "pos": "noun", "d": ["A pen or enclosure for pigs.", "A painful red swelling on the edge of an eyelid."], "src": "iwb"}
+{"w": "styan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "styca", "pos": "noun", "d": ["A small copper coin used in Anglo-Saxon England."], "src": "iwb"}
+{"w": "stye", "pos": "noun", "d": ["A painful swelling on the edge of an eyelid."], "src": "iwb"}
+{"w": "stygial", "pos": "adjective", "d": ["Dark and gloomy like the underworld; infernal."], "src": "iwb"}
+{"w": "stygian", "pos": "adjective", "d": ["Extremely dark and gloomy, like the river Styx of the underworld."], "src": "iwb"}
+{"w": "stylagalmaic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "styliferous", "pos": "adjective", "d": ["Bearing a style or styles, as a flower pistil does."], "src": "iwb"}
+{"w": "styliform", "pos": "adjective", "d": ["Shaped like a stylus; slender and pointed."], "src": "iwb"}
+{"w": "stylo-", "pos": "prefix", "d": ["A combining form meaning a style or column, as in stylograph."], "src": "iwb"}
+{"w": "styloglossal", "pos": "adjective", "d": ["Relating to the styloglossus, a muscle that raises and draws back the tongue."], "src": "iwb"}
+{"w": "stylograph", "pos": "noun", "d": ["A kind of fountain pen with a fine tubular writing point instead of a nib."], "src": "iwb"}
+{"w": "stylography", "pos": "noun", "d": ["Writing done with a stylograph."], "src": "iwb"}
+{"w": "stylohyal", "pos": "adjective", "d": ["Relating to the stylohyal, a small bone near the base of the skull."], "src": "iwb"}
+{"w": "stylohyoid", "pos": "adjective", "d": ["Relating to the styloid process and the hyoid bone in the neck."], "src": "iwb"}
+{"w": "styloid", "pos": "adjective", "d": ["Slender and pointed like a writing stylus."], "src": "iwb"}
+{"w": "stylomastoid", "pos": "adjective", "d": ["Relating to the styloid and mastoid processes of the skull."], "src": "iwb"}
+{"w": "stylomaxillary", "pos": "adjective", "d": ["Relating to the styloid process and the upper jaw."], "src": "iwb"}
+{"w": "stylometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stylommata", "pos": "noun", "d": ["Land snails and slugs with eyes carried on the tips of tentacle stalks."], "src": "iwb"}
+{"w": "stylommatophora", "pos": "noun", "d": ["The order of air-breathing land snails and slugs."], "src": "iwb"}
+{"w": "stylommatophorous", "pos": "adjective", "d": ["Belonging to the Stylommatophora, the land snails and slugs."], "src": "iwb"}
+{"w": "stylopodium", "pos": "noun", "d": ["A cushion-like swelling at the base of the styles in the flowers of the carrot family."], "src": "iwb"}
+{"w": "stylops", "pos": "noun", "d": ["A genus of small parasitic insects that develop inside bees and wasps."], "src": "iwb"}
+{"w": "stymie", "pos": "verb", "d": ["To block or thwart so that progress becomes difficult or impossible."], "src": "iwb"}
+{"w": "styphnate", "pos": "noun", "d": ["A salt of styphnic acid, some forms of which are used in explosive mixtures."], "src": "iwb"}
+{"w": "styphnic", "pos": "adjective", "d": ["Of or relating to styphnic acid, a yellow crystalline acid used in making explosives."], "src": "iwb"}
+{"w": "styptic", "pos": "adjective", "d": ["Able to stop bleeding by causing tissue or blood vessels to contract."], "src": "iwb"}
+{"w": "styracin", "pos": "noun", "d": ["A white crystalline compound obtained from storax resin, used in perfumery."], "src": "iwb"}
+{"w": "styrax", "pos": "noun", "d": ["A fragrant balsamic resin obtained from certain trees, used in perfumes and incense.", "Any tree of the genus that yields this resin."], "src": "iwb"}
+{"w": "styrol", "pos": "noun", "d": ["An older name for styrene, a liquid hydrocarbon used in making plastics."], "src": "iwb"}
+{"w": "styrolene", "pos": "noun", "d": ["An older spelling of styrene, a hydrocarbon used in producing plastics and synthetic rubber."], "src": "iwb"}
+{"w": "styrone", "pos": "noun", "d": ["A fragrant crystalline alcohol found in storax and cinnamon oil, used in perfumery."], "src": "iwb"}
+{"w": "styryl", "pos": "noun", "d": ["A chemical group derived from styrene, consisting of a vinyl group attached to a benzene ring."], "src": "iwb"}
+{"w": "styx", "pos": "noun", "d": ["In Greek mythology, the river of the underworld across which the dead were ferried."], "src": "iwb"}
+{"w": "suability", "pos": "noun", "d": ["The quality or state of being able to be sued in a court of law."], "src": "iwb"}
+{"w": "suable", "pos": "adjective", "d": ["Liable to be sued in a court of law."], "src": "iwb"}
+{"w": "suade", "pos": "verb", "d": ["To persuade or urge, now used only in archaic or rare contexts."], "src": "iwb"}
+{"w": "suadible", "pos": "adjective", "d": ["Easily persuaded; capable of being convinced."], "src": "iwb"}
+{"w": "suage", "pos": "noun", "d": ["Persuasion; the act of persuading, now obsolete."], "src": "iwb"}
+{"w": "suant", "pos": "adjective", "d": ["Following after; pursuant, in obsolete use."], "src": "iwb"}
+{"w": "suasible", "pos": "adjective", "d": ["Capable of being persuaded or convinced."], "src": "iwb"}
+{"w": "suasion", "pos": "noun", "d": ["The act or power of persuading; moral influence rather than force."], "src": "iwb"}
+{"w": "suasive", "pos": "adjective", "d": ["Tending to persuade; persuasive."], "src": "iwb"}
+{"w": "suasory", "pos": "adjective", "d": ["Serving to persuade or advise.", "A speech or writing intended to persuade."], "src": "iwb"}
+{"w": "suave", "pos": "adjective", "d": ["Smoothly charming and polite in manner."], "src": "iwb"}
+{"w": "suavify", "pos": "verb", "d": ["To make smooth or polished in manner; to soften."], "src": "iwb"}
+{"w": "suaviloquent", "pos": "adjective", "d": ["Speaking smoothly and sweetly; pleasingly eloquent."], "src": "iwb"}
+{"w": "suaviloquy", "pos": "noun", "d": ["Smooth, sweet, or agreeable speech."], "src": "iwb"}
+{"w": "suavity", "pos": "noun", "d": ["Smooth politeness and grace of manner."], "src": "iwb"}
+{"w": "sub judice", "pos": "phrase", "d": ["Under consideration by a court of law; not yet decided by a judge."], "src": "iwb"}
+{"w": "sub-", "pos": "prefix", "d": ["A prefix meaning under, below, or secondary, as in subway and substandard."], "src": "iwb"}
+{"w": "subaduncate", "pos": "adjective", "d": ["Bent or hooked downward at the tip, as a beak or claw."], "src": "iwb"}
+{"w": "subah", "pos": "noun", "d": ["A province or administrative division in Mughal India."], "src": "iwb"}
+{"w": "subahdar", "pos": "noun", "d": ["The governor of a province in Mughal India."], "src": "iwb"}
+{"w": "subahdary", "pos": "noun", "d": ["The office or jurisdiction of a subahdar."], "src": "iwb"}
+{"w": "subaquaneous", "pos": "adjective", "d": ["Growing, living, or formed beneath the surface of water."], "src": "iwb"}
+{"w": "subarration", "pos": "noun", "d": ["The formal pledging of a betrothal by a kiss or ring, in ancient custom."], "src": "iwb"}
+{"w": "subaud", "pos": "verb", "d": ["To supply in thought what is omitted in speech; to understand by implication."], "src": "iwb"}
+{"w": "subbrachian", "pos": "adjective", "d": ["Situated beneath the arm or armpit."], "src": "iwb"}
+{"w": "subclavian", "pos": "adjective", "d": ["Situated beneath the collarbone."], "src": "iwb"}
+{"w": "subderisorious", "pos": "adjective", "d": ["Somewhat derisive or mocking."], "src": "iwb"}
+{"w": "subdititious", "pos": "adjective", "d": ["Substituted fraudulently; counterfeit."], "src": "iwb"}
+{"w": "subdolous", "pos": "adjective", "d": ["Crafty and deceitful; cunning."], "src": "iwb"}
+{"w": "subduce", "pos": "verb", "d": ["To withdraw or take away; to subtract."], "src": "iwb"}
+{"w": "subdulcid", "pos": "adjective", "d": ["Slightly or mildly sweet."], "src": "iwb"}
+{"w": "subendymal", "pos": "adjective", "d": ["Situated beneath the ependyma, the lining of the brain's ventricles."], "src": "iwb"}
+{"w": "suberate", "pos": "noun", "d": ["A salt or ester of suberic acid."], "src": "iwb"}
+{"w": "subereous", "pos": "adjective", "d": ["Of the nature of cork; corky in texture."], "src": "iwb"}
+{"w": "suberite", "pos": "noun", "d": ["Any marine sponge of the genus Suberites."], "src": "iwb"}
+{"w": "suberization", "pos": "noun", "d": ["The process by which plant cells develop corky walls, as in the formation of bark."], "src": "iwb"}
+{"w": "suberize", "pos": "verb", "d": ["To convert into corky tissue, as plant cells do in forming bark."], "src": "iwb"}
+{"w": "suberone", "pos": "noun", "d": ["A cyclic ketone obtained from suberic acid, used in chemical synthesis."], "src": "iwb"}
+{"w": "suberous", "pos": "adjective", "d": ["Corky in texture; resembling cork."], "src": "iwb"}
+{"w": "subfusk", "pos": "adjective", "d": ["Darkish or dusky in color; somewhat brownish."], "src": "iwb"}
+{"w": "subhastation", "pos": "noun", "d": ["A public auction, especially in Roman law a sale of confiscated property."], "src": "iwb"}
+{"w": "subhumerate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subincusation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subitaneous", "pos": "adjective", "d": ["Sudden; occurring without warning."], "src": "iwb"}
+{"w": "subitany", "pos": "noun", "d": ["Suddenness; the quality of being sudden."], "src": "iwb"}
+{"w": "subito", "pos": "adverb", "d": ["In music, a direction meaning immediately or at once."], "src": "iwb"}
+{"w": "subject-matter", "pos": "noun", "d": ["The topic or substance of a discourse, writing, or legal dispute."], "src": "iwb"}
+{"w": "subjectivism", "pos": "noun", "d": ["The philosophical view that truth or reality depends on individual perception rather than existing independently."], "src": "iwb"}
+{"w": "subjectivist", "pos": "noun", "d": ["One who holds the philosophical view of subjectivism."], "src": "iwb"}
+{"w": "subjectivity", "pos": "noun", "d": ["The quality of being based on personal feelings or opinions rather than objective facts."], "src": "iwb"}
+{"w": "subjicible", "pos": "adjective", "d": ["Capable of being subjected or brought under control."], "src": "iwb"}
+{"w": "subjugate", "pos": "verb", "d": ["To bring under control by force; to conquer and subdue."], "src": "iwb"}
+{"w": "subjugation", "pos": "noun", "d": ["The act of conquering and bringing under control; the state of being subjugated."], "src": "iwb"}
+{"w": "subjugator", "pos": "noun", "d": ["One who conquers and brings others under control."], "src": "iwb"}
+{"w": "subjunctive", "pos": "noun", "d": ["In grammar, the mood of a verb expressing wishes, doubts, or hypothetical situations rather than facts."], "src": "iwb"}
+{"w": "sublapsarian", "pos": "adjective", "d": ["Relating to the theological doctrine that God's decree of election came after the decree permitting the fall of man."], "src": "iwb"}
+{"w": "sublapsary", "pos": "adjective", "d": ["Pertaining to sublapsarianism; the same as sublapsarian."], "src": "iwb"}
+{"w": "sublative", "pos": "adjective", "d": ["Tending to take away or remove."], "src": "iwb"}
+{"w": "sublimate", "pos": "verb", "d": ["To refine or elevate to a purer state.", "In chemistry, to change from a solid to a vapor without becoming liquid."], "src": "iwb"}
+{"w": "sublimatory", "pos": "noun", "d": ["A vessel used in the chemical process of sublimation."], "src": "iwb"}
+{"w": "sublimification", "pos": "noun", "d": ["The act or process of subliming; sublimation."], "src": "iwb"}
+{"w": "subliminal", "pos": "adjective", "d": ["Below the threshold of conscious awareness; perceived without being noticed."], "src": "iwb"}
+{"w": "sublimity", "pos": "noun", "d": ["The quality of being sublime; lofty grandeur of thought or expression."], "src": "iwb"}
+{"w": "sublition", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "submergence", "pos": "noun", "d": ["The act of submerging or sinking below a surface; the state of being submerged."], "src": "iwb"}
+{"w": "submerse", "pos": "verb", "d": ["To plunge or sink beneath a surface; to submerge."], "src": "iwb"}
+{"w": "subministrate", "pos": "verb", "d": ["To supply or furnish; to provide what is needed."], "src": "iwb"}
+{"w": "subnect", "pos": "verb", "d": ["To tie or fasten from below; to bind underneath."], "src": "iwb"}
+{"w": "subnex", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subnuvolar", "pos": "adjective", "d": ["Somewhat cloudy; partially overcast."], "src": "iwb"}
+{"w": "subordinacy", "pos": "noun", "d": ["The state or quality of being subordinate; subordination."], "src": "iwb"}
+{"w": "subordinancy", "pos": "noun", "d": ["The same as subordinacy; the state of being subordinate."], "src": "iwb"}
+{"w": "subpena", "pos": "noun", "d": ["A variant spelling of subpoena; a court order commanding attendance."], "src": "iwb"}
+{"w": "subpoena", "pos": "noun", "d": ["A court order commanding a person to appear and give testimony."], "src": "iwb"}
+{"w": "subpoenal", "pos": "adjective", "d": ["Of or relating to a subpoena."], "src": "iwb"}
+{"w": "subreption", "pos": "noun", "d": ["The obtaining of something by fraud or concealment; in law, the suppression of facts to gain a favor."], "src": "iwb"}
+{"w": "subreptitious", "pos": "adjective", "d": ["Done secretly or stealthily; surreptitious."], "src": "iwb"}
+{"w": "subreptive", "pos": "adjective", "d": ["Obtained by fraud or concealment."], "src": "iwb"}
+{"w": "subriguous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subrogate", "pos": "verb", "d": ["In law, to substitute one person or thing for another, especially a creditor's rights."], "src": "iwb"}
+{"w": "subsannation", "pos": "noun", "d": ["Mockery or derision; scornful laughter."], "src": "iwb"}
+{"w": "subsecute", "pos": "verb", "d": ["To follow close upon; to come after in sequence."], "src": "iwb"}
+{"w": "subsecutive", "pos": "adjective", "d": ["Following in succession; coming after in order."], "src": "iwb"}
+{"w": "subsellium", "pos": "noun", "d": ["A bench or seat, especially one for clergy in a church choir."], "src": "iwb"}
+{"w": "subsequency", "pos": "noun", "d": ["The state of being subsequent; succession."], "src": "iwb"}
+{"w": "subservience", "pos": "noun", "d": ["The state of being excessively willing to serve or obey others."], "src": "iwb"}
+{"w": "subserviency", "pos": "noun", "d": ["The same as subservience; excessive readiness to serve."], "src": "iwb"}
+{"w": "subsidence", "pos": "noun", "d": ["The gradual sinking or settling of land or a structure; a lessening of intensity."], "src": "iwb"}
+{"w": "subsidency", "pos": "noun", "d": ["The state of being subordinate or dependent on another."], "src": "iwb"}
+{"w": "subsidiarily", "pos": "adverb", "d": ["In a secondary or supporting capacity, rather than as the main matter."], "src": "iwb"}
+{"w": "subsidize", "pos": "verb", "d": ["To support with a grant of money, especially to keep prices down or keep an undertaking going."], "src": "iwb"}
+{"w": "subsidy", "pos": "noun", "d": ["A grant of money, especially from a government, to support an enterprise or keep prices down."], "src": "iwb"}
+{"w": "subsistence department", "pos": "phrase", "d": ["A department charged with supplying food and provisions, especially in an army."], "src": "iwb"}
+{"w": "subsistency", "pos": "noun", "d": ["The state of having real existence."], "src": "iwb"}
+{"w": "substantiate", "pos": "verb", "d": ["To support with evidence; to prove to be true."], "src": "iwb"}
+{"w": "substantiation", "pos": "noun", "d": ["The act of proving or supporting a claim with evidence."], "src": "iwb"}
+{"w": "substantival", "pos": "adjective", "d": ["Of or functioning as a substantive; nounlike."], "src": "iwb"}
+{"w": "substantivize", "pos": "verb", "d": ["To turn into a noun or use as a noun."], "src": "iwb"}
+{"w": "substituent", "pos": "noun", "d": ["A person or thing that takes the place of another.", "An atom or group of atoms that replaces another in a molecule."], "src": "iwb"}
+{"w": "substitution", "pos": "noun", "d": ["The act of putting one person or thing in the place of another."], "src": "iwb"}
+{"w": "substitutive", "pos": "adjective", "d": ["Serving as a substitute; involving substitution."], "src": "iwb"}
+{"w": "substract", "pos": "verb", "d": ["To take away from a whole; a variant form of subtract."], "src": "iwb"}
+{"w": "substractor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "substrate", "pos": "noun", "d": ["The surface or material on which an organism grows or to which it is attached.", "In chemistry, the substance on which an enzyme acts."], "src": "iwb"}
+{"w": "substruct", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subsultive", "pos": "adjective", "d": ["Marked by sudden involuntary twitching or jerking."], "src": "iwb"}
+{"w": "subsultory", "pos": "adjective", "d": ["Leaping or jerking suddenly; marked by abrupt starts."], "src": "iwb"}
+{"w": "subsultus", "pos": "noun", "d": ["Involuntary twitching of the muscles or tendons, as in fever."], "src": "iwb"}
+{"w": "subsume", "pos": "verb", "d": ["To include under a broader class, rule, or principle."], "src": "iwb"}
+{"w": "subsumptive", "pos": "adjective", "d": ["Relating to or involving the act of subsuming."], "src": "iwb"}
+{"w": "subtectacle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subtegulaneous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subterfluent", "pos": "adjective", "d": ["Flowing beneath the surface."], "src": "iwb"}
+{"w": "subterfluous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subterfuge", "pos": "noun", "d": ["A trick or evasion used to escape a rule, duty, or difficulty."], "src": "iwb"}
+{"w": "subterranean", "pos": "adjective", "d": ["Existing or occurring beneath the earth's surface.", "Secret or hidden from view."], "src": "iwb"}
+{"w": "subterranity", "pos": "noun", "d": ["The state of being beneath the earth's surface."], "src": "iwb"}
+{"w": "subterrany", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subtiliate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subtilism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subtility", "pos": "noun", "d": ["The quality of being subtle; subtlety."], "src": "iwb"}
+{"w": "subtilization", "pos": "noun", "d": ["The act of making fine, delicate, or highly refined."], "src": "iwb"}
+{"w": "subtilize", "pos": "verb", "d": ["To make subtle, fine, or refined.", "To draw excessively fine distinctions."], "src": "iwb"}
+{"w": "subtilty", "pos": "noun", "d": ["Subtlety; the quality of being subtle."], "src": "iwb"}
+{"w": "subtlety", "pos": "noun", "d": ["The quality of being subtle; delicacy or fineness.", "A fine or delicate distinction."], "src": "iwb"}
+{"w": "subtly", "pos": "adverb", "d": ["In a subtle manner; delicately or faintly."], "src": "iwb"}
+{"w": "subtrahend", "pos": "noun", "d": ["The number to be subtracted from another."], "src": "iwb"}
+{"w": "subtrude", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subulate", "pos": "adjective", "d": ["Shaped like an awl; tapering to a fine point."], "src": "iwb"}
+{"w": "subulicornes", "pos": "noun", "d": ["An old entomological name for insects with awl-shaped antennae."], "src": "iwb"}
+{"w": "subuliform", "pos": "adjective", "d": ["Shaped like an awl."], "src": "iwb"}
+{"w": "subulipalp", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subumbonal", "pos": "adjective", "d": ["Situated below the umbo, the raised beak of a bivalve shell."], "src": "iwb"}
+{"w": "subundation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suburb", "pos": "noun", "d": ["A residential district lying at or just beyond the edge of a city."], "src": "iwb"}
+{"w": "suburbian", "pos": "adjective", "d": ["Of or like a suburb."], "src": "iwb"}
+{"w": "suburbicary", "pos": "adjective", "d": ["Of or relating to the suburbs, especially those of Rome."], "src": "iwb"}
+{"w": "subvene", "pos": "verb", "d": ["To come to the aid of; to support or relieve."], "src": "iwb"}
+{"w": "subventaneous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subvention", "pos": "noun", "d": ["A grant of money, especially by a government, in aid of an undertaking."], "src": "iwb"}
+{"w": "subventitious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "subversive", "pos": "adjective", "d": ["Tending to undermine or overthrow an established order."], "src": "iwb"}
+{"w": "subvitalized", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "succade", "pos": "noun", "d": ["Fruit peel preserved in sugar; candied peel."], "src": "iwb"}
+{"w": "succedane", "pos": "noun", "d": ["A substitute, especially for a medicine."], "src": "iwb"}
+{"w": "succedaneum", "pos": "noun", "d": ["Something used as a substitute, especially a medicine used in place of another."], "src": "iwb"}
+{"w": "succentor", "pos": "noun", "d": ["An assistant to the precentor in a cathedral choir."], "src": "iwb"}
+{"w": "successor", "pos": "noun", "d": ["One who follows another in an office or position."], "src": "iwb"}
+{"w": "succiduous", "pos": "adjective", "d": ["Ready to fall; falling off when mature."], "src": "iwb"}
+{"w": "succiferous", "pos": "adjective", "d": ["Bearing or producing juice or sap."], "src": "iwb"}
+{"w": "succinamate", "pos": "noun", "d": ["A salt or ester of succinamic acid."], "src": "iwb"}
+{"w": "succinamic", "pos": "adjective", "d": ["Of or derived from succinamic acid, an amide of succinic acid."], "src": "iwb"}
+{"w": "succinate", "pos": "noun", "d": ["A salt or ester of succinic acid."], "src": "iwb"}
+{"w": "succinct", "pos": "adjective", "d": ["Expressed clearly in few words; brief and to the point."], "src": "iwb"}
+{"w": "succinic", "pos": "adjective", "d": ["Of or derived from succinic acid, an acid found in amber."], "src": "iwb"}
+{"w": "succinimide", "pos": "noun", "d": ["A chemical compound derived from succinic acid, used in medicine."], "src": "iwb"}
+{"w": "succinite", "pos": "noun", "d": ["A fossil resin; a variety of amber."], "src": "iwb"}
+{"w": "succinous", "pos": "adjective", "d": ["Of or relating to amber."], "src": "iwb"}
+{"w": "succinurate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "succinuric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "succinyl", "pos": "noun", "d": ["A chemical group derived from succinic acid."], "src": "iwb"}
+{"w": "succise", "pos": "adjective", "d": ["Cut off abruptly at the base, as some roots."], "src": "iwb"}
+{"w": "succision", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "succor", "pos": "noun", "d": ["Help given to one in distress."], "src": "iwb"}
+{"w": "succory", "pos": "noun", "d": ["Chicory; a plant with blue flowers used as a salad herb and coffee substitute."], "src": "iwb"}
+{"w": "succotash", "pos": "noun", "d": ["A dish of corn and beans cooked together."], "src": "iwb"}
+{"w": "succoteague", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "succuba", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "succubine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "succubous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "succubus", "pos": "noun", "d": ["A female demon believed to lie with sleeping men."], "src": "iwb"}
+{"w": "succula", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "succulence", "pos": "noun", "d": ["The quality of being juicy or full of juice."], "src": "iwb"}
+{"w": "succulency", "pos": "noun", "d": ["Juiciness; the state of being succulent."], "src": "iwb"}
+{"w": "succulent", "pos": "adjective", "d": ["Full of juice; juicy.", "A plant with thick fleshy leaves that store water."], "src": "iwb"}
+{"w": "succulous", "pos": "adjective", "d": ["Full of juice or sap."], "src": "iwb"}
+{"w": "succumb", "pos": "verb", "d": ["To yield to superior force; to give way.", "To die."], "src": "iwb"}
+{"w": "succursal", "pos": "adjective", "d": ["Serving as a branch or auxiliary, especially of a church."], "src": "iwb"}
+{"w": "succus", "pos": "noun", "d": ["Juice; a liquid extract of plant or animal matter."], "src": "iwb"}
+{"w": "succussive", "pos": "adjective", "d": ["Pertaining to shaking, especially as a diagnostic method."], "src": "iwb"}
+{"w": "suchospondylous", "pos": "adjective", "d": ["Having vertebrae shaped like those of a crocodile."], "src": "iwb"}
+{"w": "suck", "pos": "verb", "d": ["To draw into the mouth by creating a partial vacuum.", "To draw milk from a breast or udder."], "src": "iwb"}
+{"w": "suckanhock", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suckatash", "pos": "noun", "d": ["A variant spelling of succotash, a dish of corn and beans."], "src": "iwb"}
+{"w": "sucker state", "pos": "phrase", "d": ["A nickname for the state of Illinois."], "src": "iwb"}
+{"w": "sucket", "pos": "noun", "d": ["An old term for a sweetmeat; candied fruit."], "src": "iwb"}
+{"w": "suckle", "pos": "verb", "d": ["To feed with milk from the breast.", "To take milk from the breast."], "src": "iwb"}
+{"w": "sucrate", "pos": "noun", "d": ["A compound of sugar with a metallic oxide or base."], "src": "iwb"}
+{"w": "sucre", "pos": "noun", "d": ["A former unit of money used in Ecuador before it adopted the United States dollar."], "src": "iwb"}
+{"w": "sucrose", "pos": "noun", "d": ["The common chemical name for ordinary table sugar, a sweet carbohydrate found in plants."], "src": "iwb"}
+{"w": "suction", "pos": "noun", "d": ["The force that draws something in when air or liquid pressure is lowered, as when drinking through a straw."], "src": "iwb"}
+{"w": "suctoria", "pos": "noun", "d": ["A group of tiny single-celled water animals that feed by sucking the contents of other cells through thin tubes."], "src": "iwb"}
+{"w": "suctorial", "pos": "adjective", "d": ["Made for sucking, as with a mouth or organ built to draw in liquid."], "src": "iwb"}
+{"w": "suctorian", "pos": "noun", "d": ["Any one of the tiny sucking animals that make up the group Suctoria."], "src": "iwb"}
+{"w": "suctorious", "pos": "adjective", "d": ["Having suckers or a sucking mouth."], "src": "iwb"}
+{"w": "sudamina", "pos": "noun", "d": ["Tiny clear blisters on the skin caused by blocked sweat during heavy sweating."], "src": "iwb"}
+{"w": "sudarium", "pos": "noun", "d": ["A cloth used for wiping sweat from the face or body."], "src": "iwb"}
+{"w": "sudary", "pos": "noun", "d": ["A room or place fitted for sweating, as in an old-time bathhouse."], "src": "iwb"}
+{"w": "sudation", "pos": "noun", "d": ["The act of sweating or giving off perspiration."], "src": "iwb"}
+{"w": "sudatorium", "pos": "noun", "d": ["A heated room in an ancient bathhouse where bathers sat and sweated."], "src": "iwb"}
+{"w": "sudatory", "pos": "adjective", "d": ["Relating to sweating or causing sweat."], "src": "iwb"}
+{"w": "sudd", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suddenty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sudoral", "pos": "adjective", "d": ["Relating to sweat or perspiration."], "src": "iwb"}
+{"w": "sudoriferous", "pos": "adjective", "d": ["Producing or carrying sweat, as in a sweat gland."], "src": "iwb"}
+{"w": "sudorific", "pos": "adjective", "d": ["Causing sweating."], "src": "iwb"}
+{"w": "sudoriparous", "pos": "adjective", "d": ["Producing sweat."], "src": "iwb"}
+{"w": "sudorous", "pos": "adjective", "d": ["Wet with sweat; sweaty."], "src": "iwb"}
+{"w": "sudra", "pos": "noun", "d": ["The lowest of the four main social classes in the traditional Hindu caste system."], "src": "iwb"}
+{"w": "suds", "pos": "noun", "d": ["Foamy bubbles made by soap mixed with water."], "src": "iwb"}
+{"w": "suede", "pos": "noun", "d": ["A soft leather with a napped surface, made from the underside of animal skin."], "src": "iwb"}
+{"w": "suent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suer", "pos": "noun", "d": ["One who sues; a person bringing a case in a court of law."], "src": "iwb"}
+{"w": "suet", "pos": "noun", "d": ["The hard fat found around the kidneys of cattle and sheep, used in cooking and puddings."], "src": "iwb"}
+{"w": "suety", "pos": "adjective", "d": ["Made of or resembling suet; fatty."], "src": "iwb"}
+{"w": "suf-", "pos": "prefix", "d": ["A form of the prefix sub- used before words beginning with f, meaning under or beneath, as in suffer."], "src": "iwb"}
+{"w": "suffice", "pos": "verb", "d": ["To be enough for a need or purpose."], "src": "iwb"}
+{"w": "sufficience", "pos": "noun", "d": ["The quality of being enough for what is needed."], "src": "iwb"}
+{"w": "sufficiency", "pos": "noun", "d": ["An amount that is enough; the state of having all that is needed."], "src": "iwb"}
+{"w": "suffisance", "pos": "noun", "d": ["Enough supply; an ample amount for a purpose."], "src": "iwb"}
+{"w": "suffisant", "pos": "adjective", "d": ["Enough to serve the purpose; sufficient."], "src": "iwb"}
+{"w": "suffix", "pos": "noun", "d": ["A letter or group of letters added to the end of a word to change its meaning, as -ness in kindness.", "To add a suffix to a word."], "src": "iwb"}
+{"w": "sufflaminate", "pos": "verb", "d": ["To slow down or bring to a stop; to obstruct."], "src": "iwb"}
+{"w": "sufflate", "pos": "verb", "d": ["To blow up or inflate with air."], "src": "iwb"}
+{"w": "sufflation", "pos": "noun", "d": ["The act of blowing up or inflating with air."], "src": "iwb"}
+{"w": "suffocate", "pos": "verb", "d": ["To kill or be killed by stopping the breath, as by cutting off air."], "src": "iwb"}
+{"w": "suffocation", "pos": "noun", "d": ["Death or distress caused by being unable to breathe."], "src": "iwb"}
+{"w": "suffocative", "pos": "adjective", "d": ["Tending to cause suffocation."], "src": "iwb"}
+{"w": "suffossion", "pos": "noun", "d": ["The act of digging beneath something so as to undermine it."], "src": "iwb"}
+{"w": "suffragan", "pos": "noun", "d": ["An assistant bishop in some Christian churches."], "src": "iwb"}
+{"w": "suffragant", "pos": "adjective", "d": ["Having a voice or vote, as in choosing a bishop."], "src": "iwb"}
+{"w": "suffragate", "pos": "verb", "d": ["To give a vote for; to support by voting."], "src": "iwb"}
+{"w": "suffragator", "pos": "noun", "d": ["One who votes or gives support to a candidate."], "src": "iwb"}
+{"w": "suffrage", "pos": "noun", "d": ["The right to vote in public elections."], "src": "iwb"}
+{"w": "suffragette", "pos": "noun", "d": ["A woman who campaigned for the right to vote in the early twentieth century."], "src": "iwb"}
+{"w": "suffraginous", "pos": "adjective", "d": ["Relating to the hock joint of a four-legged animal."], "src": "iwb"}
+{"w": "suffragist", "pos": "noun", "d": ["A person who works to extend voting rights to more people."], "src": "iwb"}
+{"w": "suffrago", "pos": "noun", "d": ["The hock or ankle joint of a four-legged animal."], "src": "iwb"}
+{"w": "suffrance", "pos": "noun", "d": ["Suffering or patient endurance."], "src": "iwb"}
+{"w": "suffrutescent", "pos": "adjective", "d": ["Becoming somewhat woody at the base, as certain plants are."], "src": "iwb"}
+{"w": "suffruticose", "pos": "adjective", "d": ["Somewhat shrubby; having stems that are partly woody."], "src": "iwb"}
+{"w": "suffruticous", "pos": "adjective", "d": ["Somewhat shrubby in growth."], "src": "iwb"}
+{"w": "suffumigate", "pos": "verb", "d": ["To expose to fumes or smoke from below."], "src": "iwb"}
+{"w": "suffumigation", "pos": "noun", "d": ["The act of fumigating with smoke rising from below."], "src": "iwb"}
+{"w": "suffumige", "pos": "noun", "d": ["Smoke or fumes used to treat or disinfect something."], "src": "iwb"}
+{"w": "suffuse", "pos": "verb", "d": ["To spread over or through, as color spreading across the cheeks."], "src": "iwb"}
+{"w": "suffusion", "pos": "noun", "d": ["The spreading of a color, liquid, or light over a surface."], "src": "iwb"}
+{"w": "sufi", "pos": "noun", "d": ["A Muslim who practices Sufism, the mystical path of Islam."], "src": "iwb"}
+{"w": "sufism", "pos": "noun", "d": ["The mystical tradition within Islam that seeks direct personal closeness to God."], "src": "iwb"}
+{"w": "sug", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sugar-house", "pos": "noun", "d": ["A building where sugar is refined from cane or beets."], "src": "iwb"}
+{"w": "sugariness", "pos": "noun", "d": ["The quality of being sweet or sugary."], "src": "iwb"}
+{"w": "sugescent", "pos": "adjective", "d": ["Sucking; drawing in by suction."], "src": "iwb"}
+{"w": "suggestive medicine", "pos": "phrase", "d": ["Medical treatment that works through mental suggestion rather than drugs."], "src": "iwb"}
+{"w": "suggestress", "pos": "noun", "d": ["A woman who suggests or proposes something."], "src": "iwb"}
+{"w": "suggil", "pos": "verb", "d": ["To bruise the skin, as by a blow."], "src": "iwb"}
+{"w": "sui generis", "pos": "phrase", "d": ["Of its own kind; one of a kind and not fitting any ordinary class."], "src": "iwb"}
+{"w": "suicidal", "pos": "adjective", "d": ["Likely to lead to death or ruin, or relating to the act of taking one's own life."], "src": "iwb"}
+{"w": "suicidical", "pos": "adjective", "d": ["Relating to suicide; suicidal."], "src": "iwb"}
+{"w": "suicidism", "pos": "noun", "d": ["The practice or tendency of suicide."], "src": "iwb"}
+{"w": "suicism", "pos": "noun", "d": ["The act of taking one's own life."], "src": "iwb"}
+{"w": "suillage", "pos": "noun", "d": ["Filthy drainage or refuse carried off by water."], "src": "iwb"}
+{"w": "suilline", "pos": "adjective", "d": ["Like a pig; swinish."], "src": "iwb"}
+{"w": "suine", "pos": "adjective", "d": ["Relating to swine; of or like a pig."], "src": "iwb"}
+{"w": "suing", "pos": "noun", "d": ["The act of bringing a case before a court of law."], "src": "iwb"}
+{"w": "suint", "pos": "noun", "d": ["The natural grease in sheep's wool, a mixture of sweat and oil."], "src": "iwb"}
+{"w": "suiogoths", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suitor", "pos": "noun", "d": ["A person bringing a suit or case in a court of law.", "A man who seeks a woman's hand in marriage."], "src": "iwb"}
+{"w": "suitress", "pos": "noun", "d": ["A woman who brings a suit in a court of law."], "src": "iwb"}
+{"w": "suji", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sula", "pos": "noun", "d": ["The genus of seabirds that includes the boobies and gannets."], "src": "iwb"}
+{"w": "sulcate", "pos": "adjective", "d": ["Marked with grooves or furrows."], "src": "iwb"}
+{"w": "sulcation", "pos": "noun", "d": ["The formation of grooves or furrows on a surface."], "src": "iwb"}
+{"w": "sulciform", "pos": "adjective", "d": ["Shaped like a groove or furrow."], "src": "iwb"}
+{"w": "sulcus", "pos": "noun", "d": ["A groove or furrow, especially one on the surface of the brain or another organ."], "src": "iwb"}
+{"w": "suleah fish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sulk", "pos": "verb", "d": ["To be silent and gloomy out of ill temper."], "src": "iwb"}
+{"w": "sulkily", "pos": "adverb", "d": ["In a sullen, gloomy manner."], "src": "iwb"}
+{"w": "sulkiness", "pos": "noun", "d": ["The state of being sulky or sullen."], "src": "iwb"}
+{"w": "sulky", "pos": "adjective", "d": ["Gloomy and silent from ill temper.", "A light two-wheeled carriage for one person, drawn by a single horse."], "src": "iwb"}
+{"w": "sull", "pos": "noun", "d": ["A plow, especially in old or dialectal use."], "src": "iwb"}
+{"w": "sullevate", "pos": "verb", "d": ["To raise or lift up."], "src": "iwb"}
+{"w": "sulliage", "pos": "noun", "d": ["Filthy drainage or refuse; sewage."], "src": "iwb"}
+{"w": "sully", "pos": "verb", "d": ["To stain or tarnish, as by doing harm to a reputation."], "src": "iwb"}
+{"w": "sulphacid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sulphamate", "pos": "noun", "d": ["A salt or ester of sulphamic acid."], "src": "iwb"}
+{"w": "sulphamic", "pos": "adjective", "d": ["Relating to sulphamic acid, a strong acid containing sulphur and nitrogen."], "src": "iwb"}
+{"w": "sulphamide", "pos": "noun", "d": ["A chemical compound of sulfur, nitrogen, and hydrogen, used in some industrial and laboratory processes."], "src": "iwb"}
+{"w": "sulphanilic", "pos": "adjective", "d": ["Relating to sulphanilic acid, a crystalline compound used in making dyes and in chemical testing."], "src": "iwb"}
+{"w": "sulphantimonate", "pos": "noun", "d": ["A salt of sulphantimonic acid, formed from antimony, sulfur, and a metal."], "src": "iwb"}
+{"w": "sulphantimonic", "pos": "adjective", "d": ["Relating to sulphantimonic acid, an acid formed from antimony sulfide and sulfur compounds."], "src": "iwb"}
+{"w": "sulphantimonious", "pos": "adjective", "d": ["Relating to sulphantimonious acid, an acid related to antimony sulfides."], "src": "iwb"}
+{"w": "sulphantimonite", "pos": "noun", "d": ["A mineral composed chiefly of antimony sulfide."], "src": "iwb"}
+{"w": "sulpharsenate", "pos": "noun", "d": ["A salt of sulpharsenic acid, containing arsenic, sulfur, and a metal."], "src": "iwb"}
+{"w": "sulpharsenic", "pos": "adjective", "d": ["Relating to sulpharsenic acid, an acid derived from arsenic sulfide compounds."], "src": "iwb"}
+{"w": "sulpharsenious", "pos": "adjective", "d": ["Relating to sulpharsenious acid, an acid derived from arsenic sulfides."], "src": "iwb"}
+{"w": "sulpharsenite", "pos": "noun", "d": ["A salt of sulpharsenious acid."], "src": "iwb"}
+{"w": "sulphate", "pos": "noun", "d": ["A salt or ester of sulfuric acid, common in minerals, fertilizers, and detergents."], "src": "iwb"}
+{"w": "sulphatic", "pos": "adjective", "d": ["Relating to or containing sulfates, as in sulphatic mineral water."], "src": "iwb"}
+{"w": "sulphato-", "pos": "prefix", "d": ["A combining form meaning containing sulfate or relating to sulfuric acid, as in sulphato-carbonate."], "src": "iwb"}
+{"w": "sulphaurate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sulphauric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sulphide", "pos": "noun", "d": ["A chemical compound of sulfur with another element or group, such as iron sulphide."], "src": "iwb"}
+{"w": "sulphinate", "pos": "noun", "d": ["A salt or ester of sulphinic acid."], "src": "iwb"}
+{"w": "sulphindigotic", "pos": "adjective", "d": ["Relating to sulphindigotic acid, a blue dye compound made by treating indigo with sulfur compounds."], "src": "iwb"}
+{"w": "sulphine", "pos": "noun", "d": ["A sulfur-containing organic compound, especially one of a class of dyes."], "src": "iwb"}
+{"w": "sulphinic", "pos": "adjective", "d": ["Relating to sulphinic acid, an organic acid containing sulfur, hydrogen, and oxygen."], "src": "iwb"}
+{"w": "sulphinide", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sulphion", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sulphite", "pos": "noun", "d": ["A salt or ester of sulfurous acid, used in preserving food and in making paper."], "src": "iwb"}
+{"w": "sulpho-", "pos": "prefix", "d": ["A combining form meaning containing sulfur or relating to sulfur compounds, as in sulpho-carbonic."], "src": "iwb"}
+{"w": "sulphoarsenic", "pos": "adjective", "d": ["Relating to arsenic compounds that contain sulfur, such as sulpharsenic acid."], "src": "iwb"}
+{"w": "sulphocarbonate", "pos": "noun", "d": ["A salt of sulphocarbonic acid, combining carbon, sulfur, and a metal."], "src": "iwb"}
+{"w": "sulphocarbonic", "pos": "adjective", "d": ["Relating to sulphocarbonic acid, an acid of carbon and sulfur."], "src": "iwb"}
+{"w": "sulphocyanate", "pos": "noun", "d": ["A salt of sulphocyanic acid, an older name for the thiocyanate compounds."], "src": "iwb"}
+{"w": "sulphocyanic", "pos": "adjective", "d": ["Relating to sulphocyanic acid, the older name for thiocyanic acid."], "src": "iwb"}
+{"w": "sulphocyanide", "pos": "noun", "d": ["A cyanide compound containing sulfur."], "src": "iwb"}
+{"w": "sulphocyanogen", "pos": "noun", "d": ["The radical from which sulphocyanate compounds are derived, made of sulfur, carbon, and nitrogen."], "src": "iwb"}
+{"w": "sulphonal", "pos": "noun", "d": ["A crystalline drug formerly used as a sleep-inducing medicine."], "src": "iwb"}
+{"w": "sulphonate", "pos": "noun", "d": ["A salt or ester of a sulphonic acid."], "src": "iwb"}
+{"w": "sulphone", "pos": "noun", "d": ["An organic compound containing the group SO2, used in solvents and some medicines."], "src": "iwb"}
+{"w": "sulphonic", "pos": "adjective", "d": ["Relating to sulphonic acids, organic acids containing the group SO3H."], "src": "iwb"}
+{"w": "sulphonium", "pos": "adjective", "d": ["Designating a compound in which a sulfur atom is bonded to three carbon groups."], "src": "iwb"}
+{"w": "sulphophosphate", "pos": "noun", "d": ["A salt or compound of sulphophosphoric acid, containing sulfur and phosphorus."], "src": "iwb"}
+{"w": "sulphophosphite", "pos": "noun", "d": ["A salt of sulphophosphorous acid."], "src": "iwb"}
+{"w": "sulphophosphoric", "pos": "adjective", "d": ["Relating to sulphophosphoric acid, a compound of sulfur and phosphorus."], "src": "iwb"}
+{"w": "sulphophosphorous", "pos": "adjective", "d": ["Relating to sulphophosphorous acid, a compound of sulfur and phosphorus."], "src": "iwb"}
+{"w": "sulphosalt", "pos": "noun", "d": ["A mineral or salt containing sulfur along with arsenic or antimony."], "src": "iwb"}
+{"w": "sulphostannate", "pos": "noun", "d": ["A salt of sulphostannic acid, containing tin, sulfur, and a metal."], "src": "iwb"}
+{"w": "sulphostannic", "pos": "adjective", "d": ["Relating to sulphostannic acid, an acid of tin and sulfur."], "src": "iwb"}
+{"w": "sulphotungstate", "pos": "noun", "d": ["A salt of sulphotungstic acid, containing tungsten, sulfur, and a metal."], "src": "iwb"}
+{"w": "sulphotungstic", "pos": "adjective", "d": ["Relating to sulphotungstic acid, an acid of tungsten and sulfur."], "src": "iwb"}
+{"w": "sulphovinic", "pos": "adjective", "d": ["Relating to sulphovinic acid, a compound formed when sulfuric acid acts on alcohol."], "src": "iwb"}
+{"w": "sulphur", "pos": "noun", "d": ["A yellow nonmetallic element that burns with a blue flame and a choking smell, used in matches, gunpowder, and sulfuric acid."], "src": "iwb"}
+{"w": "sulphur-bottom", "pos": "noun", "d": ["An old name for the blue whale, given for the yellowish tint sometimes seen on its underside."], "src": "iwb"}
+{"w": "sulphurator", "pos": "noun", "d": ["A person or device that treats something with sulfur, as in fumigating."], "src": "iwb"}
+{"w": "sulphureity", "pos": "noun", "d": ["The quality of being sulfurous."], "src": "iwb"}
+{"w": "sulphureous", "pos": "adjective", "d": ["Containing or smelling of sulfur."], "src": "iwb"}
+{"w": "sulphuret", "pos": "noun", "d": ["An old name for a sulphide, a compound of sulfur with another element."], "src": "iwb"}
+{"w": "sulphurine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sulphury", "pos": "adjective", "d": ["Containing sulfur, or having the smell or color of sulfur."], "src": "iwb"}
+{"w": "sulphuryl", "pos": "adjective", "d": ["Designating the group SO2 found in certain sulfur compounds."], "src": "iwb"}
+{"w": "sulphydrate", "pos": "noun", "d": ["A salt containing hydrogen and sulfur, such as sodium sulphydrate."], "src": "iwb"}
+{"w": "sulphydric", "pos": "adjective", "d": ["Relating to hydrogen sulfide; containing hydrogen and sulfur."], "src": "iwb"}
+{"w": "sulpician", "pos": "noun", "d": ["A member of the Society of St. Sulpice, a Catholic order of priests.", "Of or relating to that society."], "src": "iwb"}
+{"w": "sultan", "pos": "noun", "d": ["A Muslim ruler, especially the former rulers of the Ottoman Empire."], "src": "iwb"}
+{"w": "sultan-red", "pos": "noun", "d": ["A rich deep red color."], "src": "iwb"}
+{"w": "sultana", "pos": "noun", "d": ["A small seedless raisin."], "src": "iwb"}
+{"w": "sultaness", "pos": "noun", "d": ["The wife of a sultan."], "src": "iwb"}
+{"w": "sultanry", "pos": "noun", "d": ["The office, rank, or rule of a sultan."], "src": "iwb"}
+{"w": "sultany", "pos": "adjective", "d": ["Relating to a sultan; fit for a sultan."], "src": "iwb"}
+{"w": "sultrily", "pos": "adverb", "d": ["In a sultry manner."], "src": "iwb"}
+{"w": "sultriness", "pos": "noun", "d": ["The quality of being sultry; oppressive heat and dampness."], "src": "iwb"}
+{"w": "sultry", "pos": "adjective", "d": ["Hot and damp in an oppressive way.", "Sensual in a provocative way."], "src": "iwb"}
+{"w": "sulu", "pos": "noun", "d": ["A wrap-around skirt worn in the Pacific islands.", "A province and island group of the Philippines."], "src": "iwb"}
+{"w": "sumac", "pos": "noun", "d": ["A shrub or small tree with reddish fruit clusters, whose dried fruit is used as a tangy spice."], "src": "iwb"}
+{"w": "sumatra leaf", "pos": "phrase", "d": ["A broad tobacco leaf from Sumatra, prized as a cigar wrapper."], "src": "iwb"}
+{"w": "sumatran", "pos": "adjective", "d": ["Relating to Sumatra, an island of Indonesia."], "src": "iwb"}
+{"w": "sumbul", "pos": "noun", "d": ["An aromatic root used in perfumery and medicine, also called musk root."], "src": "iwb"}
+{"w": "sumerian", "pos": "adjective", "d": ["Relating to Sumer, the ancient civilization of southern Mesopotamia."], "src": "iwb"}
+{"w": "summarily", "pos": "adverb", "d": ["In a summary manner; quickly and without delay or ceremony."], "src": "iwb"}
+{"w": "summarist", "pos": "noun", "d": ["A person who makes summaries."], "src": "iwb"}
+{"w": "summarize", "pos": "verb", "d": ["To give a brief account of the main points of something."], "src": "iwb"}
+{"w": "summation", "pos": "noun", "d": ["The act of adding together; the total.", "A judge's closing address to a jury."], "src": "iwb"}
+{"w": "summer-fallow", "pos": "noun", "d": ["Land plowed and left unplanted through the summer to restore its fertility."], "src": "iwb"}
+{"w": "summerliness", "pos": "noun", "d": ["The quality of being like summer; warm, pleasant weather."], "src": "iwb"}
+{"w": "summery", "pos": "adjective", "d": ["Like summer; warm, bright, and pleasant."], "src": "iwb"}
+{"w": "summon", "pos": "verb", "d": ["To call for someone to come or appear, especially by authority."], "src": "iwb"}
+{"w": "summum bonum", "pos": "phrase", "d": ["The highest good; the ultimate goal of human life."], "src": "iwb"}
+{"w": "sumoom", "pos": "noun", "d": ["A hot, suffocating wind that blows across deserts."], "src": "iwb"}
+{"w": "sump", "pos": "noun", "d": ["A pit or reservoir that collects liquid, especially the oil reservoir at the bottom of an engine."], "src": "iwb"}
+{"w": "sumph", "pos": "noun", "d": ["A simpleton; a dull or foolish person."], "src": "iwb"}
+{"w": "sumpitan", "pos": "noun", "d": ["A long blowpipe used by peoples of Southeast Asia for hunting."], "src": "iwb"}
+{"w": "sumpter", "pos": "noun", "d": ["A horse or mule used for carrying baggage; a pack animal."], "src": "iwb"}
+{"w": "sumptuary", "pos": "adjective", "d": ["Relating to laws that regulate personal spending, especially on food and clothing."], "src": "iwb"}
+{"w": "sumptuosity", "pos": "noun", "d": ["The quality of being sumptuous; lavish splendor."], "src": "iwb"}
+{"w": "sumptuous", "pos": "adjective", "d": ["Splendid and costly; lavishly furnished or provided."], "src": "iwb"}
+{"w": "sun star", "pos": "phrase", "d": ["A large starfish with many arms that preys on other starfish."], "src": "iwb"}
+{"w": "sun-burner", "pos": "noun", "d": ["A furnace or reflector that concentrates sunlight to produce great heat."], "src": "iwb"}
+{"w": "sun-dried", "pos": "adjective", "d": ["Dried by exposure to the sun, as in sun-dried tomatoes."], "src": "iwb"}
+{"w": "sun-struck", "pos": "adjective", "d": ["Affected by too much sun; dazed or overwhelmed."], "src": "iwb"}
+{"w": "sunder", "pos": "verb", "d": ["To split apart; to separate forcibly."], "src": "iwb"}
+{"w": "sundrops", "pos": "noun", "d": ["A plant of the evening primrose family with bright yellow flowers."], "src": "iwb"}
+{"w": "sung", "pos": "verb", "d": ["Past participle of sing."], "src": "iwb"}
+{"w": "sunk", "pos": "verb", "d": ["Past participle of sink."], "src": "iwb"}
+{"w": "sunn", "pos": "noun", "d": ["An East Indian fiber plant whose strong fiber is used for rope and sacking."], "src": "iwb"}
+{"w": "sunna", "pos": "noun", "d": ["The traditional practice and teachings of the Prophet Muhammad in Islam."], "src": "iwb"}
+{"w": "sunniah", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sunniness", "pos": "noun", "d": ["The quality of being full of sunlight.", "Cheerfulness or brightness of manner."], "src": "iwb"}
+{"w": "sunnite", "pos": "noun", "d": ["A member of the Sunni branch of Islam."], "src": "iwb"}
+{"w": "sunnud", "pos": "noun", "d": ["A written grant or deed from a ruler or government in India."], "src": "iwb"}
+{"w": "sunup", "pos": "noun", "d": ["The time of day when the sun rises; sunrise."], "src": "iwb"}
+{"w": "sup", "pos": "verb", "d": ["To take a small drink of a liquid into the mouth.", "To eat the evening meal (now rare)."], "src": "iwb"}
+{"w": "supe", "pos": "noun", "d": ["An informal shortening of supernumerary, an extra actor with no spoken lines.", "An informal shortening of superintendent."], "src": "iwb"}
+{"w": "super-", "pos": "prefix", "d": ["A prefix meaning above, beyond, or more than, as in supernatural."], "src": "iwb"}
+{"w": "superacidulated", "pos": "adjective", "d": ["Made intensely sour or acidic."], "src": "iwb"}
+{"w": "superannuate", "pos": "verb", "d": ["To retire a worker on account of age or infirmity.", "To become old or out of date."], "src": "iwb"}
+{"w": "superannuation", "pos": "noun", "d": ["Retirement from work on account of age, often with a pension."], "src": "iwb"}
+{"w": "superbiate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "superchery", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "supercilious", "pos": "adjective", "d": ["Behaving as though superior to others; haughtily disdainful."], "src": "iwb"}
+{"w": "supererogant", "pos": "noun", "d": ["A person who does more than duty requires."], "src": "iwb"}
+{"w": "supererogative", "pos": "adjective", "d": ["Going beyond what is required or expected."], "src": "iwb"}
+{"w": "supererogatory", "pos": "adjective", "d": ["Done in addition to what is required."], "src": "iwb"}
+{"w": "superexcination", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "superfetate", "pos": "verb", "d": ["To conceive a second fetus while already pregnant."], "src": "iwb"}
+{"w": "superficial", "pos": "adjective", "d": ["Lying on or affecting only the surface.", "Concerned with appearances rather than real meaning."], "src": "iwb"}
+{"w": "superficiary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "superficies", "pos": "noun", "d": ["The outer surface or face of a thing.", "In Roman law, the right to build on the land of another."], "src": "iwb"}
+{"w": "superfluitant", "pos": "adjective", "d": ["Floating on the surface of a fluid."], "src": "iwb"}
+{"w": "superfluity", "pos": "noun", "d": ["An amount beyond what is needed; excess.", "An unnecessary thing."], "src": "iwb"}
+{"w": "superfluous", "pos": "adjective", "d": ["More than is needed or wanted; unnecessary."], "src": "iwb"}
+{"w": "superincumbence", "pos": "noun", "d": ["The state of lying or resting upon something."], "src": "iwb"}
+{"w": "superintendency", "pos": "noun", "d": ["The office, term, or duties of a superintendent.", "The act of overseeing or directing work."], "src": "iwb"}
+{"w": "superioress", "pos": "noun", "d": ["A woman who holds authority over a religious house, especially a convent."], "src": "iwb"}
+{"w": "superlative", "pos": "adjective", "d": ["Of the very highest quality or degree.", "In grammar, expressing the highest degree, as in best."], "src": "iwb"}
+{"w": "superlucration", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "supermundial", "pos": "adjective", "d": ["Existing above the world; celestial."], "src": "iwb"}
+{"w": "supernacular", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "supernaculum", "pos": "noun", "d": ["The act of draining a cup to the very last drop."], "src": "iwb"}
+{"w": "supernal", "pos": "adjective", "d": ["Belonging to the heavens; celestial.", "Lofty or sublime."], "src": "iwb"}
+{"w": "superpartient", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "supersede", "pos": "verb", "d": ["To take the place of; to replace."], "src": "iwb"}
+{"w": "supersedeas", "pos": "noun", "d": ["A court order that halts or suspends legal proceedings."], "src": "iwb"}
+{"w": "supersedure", "pos": "noun", "d": ["The act of replacing or displacing something."], "src": "iwb"}
+{"w": "superstition", "pos": "noun", "d": ["A belief in magical or supernatural causes for events, held without evidence."], "src": "iwb"}
+{"w": "superstitious", "pos": "adjective", "d": ["Characterized by or holding superstitions."], "src": "iwb"}
+{"w": "superstruct", "pos": "verb", "d": ["To build or construct upon something."], "src": "iwb"}
+{"w": "superstructor", "pos": "noun", "d": ["A person who builds or constructs upon a foundation."], "src": "iwb"}
+{"w": "superterranean", "pos": "adjective", "d": ["Existing or occurring above the surface of the earth."], "src": "iwb"}
+{"w": "supertuberation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "supervacaneous", "pos": "adjective", "d": ["Beyond what is required; superfluous."], "src": "iwb"}
+{"w": "supervene", "pos": "verb", "d": ["To come or occur as something additional or unexpected."], "src": "iwb"}
+{"w": "supervenient", "pos": "adjective", "d": ["Coming upon something as an addition or interruption."], "src": "iwb"}
+{"w": "supervention", "pos": "noun", "d": ["The act or fact of coming upon something unexpectedly."], "src": "iwb"}
+{"w": "supervisal", "pos": "noun", "d": ["The act or function of supervising."], "src": "iwb"}
+{"w": "supervisory", "pos": "adjective", "d": ["Relating to or involved in supervising."], "src": "iwb"}
+{"w": "supination", "pos": "noun", "d": ["The act of turning the hand or foot so that the palm faces upward.", "The position of lying face upward."], "src": "iwb"}
+{"w": "supinator", "pos": "noun", "d": ["A muscle in the forearm that turns the palm upward."], "src": "iwb"}
+{"w": "supine", "pos": "adjective", "d": ["Lying on the back with the face upward.", "Inactive or passive, especially through laziness."], "src": "iwb"}
+{"w": "supinity", "pos": "noun", "d": ["The state of lying face upward.", "Inaction or indolence."], "src": "iwb"}
+{"w": "supparasitation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suppeditate", "pos": "verb", "d": ["To supply or furnish what is needed."], "src": "iwb"}
+{"w": "suppeditation", "pos": "noun", "d": ["The act of supplying or furnishing."], "src": "iwb"}
+{"w": "supple", "pos": "adjective", "d": ["Bending or moving easily; flexible.", "Adaptable and willing to comply."], "src": "iwb"}
+{"w": "supple-chapped", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "supple-jack", "pos": "noun", "d": ["A tropical climbing plant whose tough stems are used for walking sticks."], "src": "iwb"}
+{"w": "suppletive", "pos": "adjective", "d": ["Serving to fill a gap or make up a deficiency."], "src": "iwb"}
+{"w": "suppliance", "pos": "noun", "d": ["The act of supplying something that is needed."], "src": "iwb"}
+{"w": "supplicancy", "pos": "noun", "d": ["The state of humbly asking for something; entreaty."], "src": "iwb"}
+{"w": "supplicant", "pos": "noun", "d": ["A person who makes a humble request."], "src": "iwb"}
+{"w": "supplicat", "pos": "noun", "d": ["A formal petition, especially one addressed to the pope."], "src": "iwb"}
+{"w": "supplicatingly", "pos": "adverb", "d": ["In a manner that humbly begs for something."], "src": "iwb"}
+{"w": "supplicator", "pos": "noun", "d": ["A person who makes a humble or earnest request."], "src": "iwb"}
+{"w": "supposal", "pos": "noun", "d": ["The act of supposing.", "Something assumed without proof."], "src": "iwb"}
+{"w": "supposititious", "pos": "adjective", "d": ["Falsely substituted for the genuine thing.", "Imaginary or merely supposed."], "src": "iwb"}
+{"w": "suppositor", "pos": "noun", "d": ["A person who supposes or assumes something.", "A person who fraudulently substitutes one thing for another."], "src": "iwb"}
+{"w": "suppository", "pos": "noun", "d": ["A small cone of medicine inserted into a body cavity, usually the rectum."], "src": "iwb"}
+{"w": "supposure", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suppurant", "pos": "adjective", "d": ["Causing or producing pus."], "src": "iwb"}
+{"w": "suppurate", "pos": "verb", "d": ["To form or discharge pus."], "src": "iwb"}
+{"w": "suppuration", "pos": "noun", "d": ["The formation or discharge of pus."], "src": "iwb"}
+{"w": "suppurative", "pos": "adjective", "d": ["Relating to or causing the formation of pus."], "src": "iwb"}
+{"w": "supputate", "pos": "verb", "d": ["To compute or calculate; to reckon."], "src": "iwb"}
+{"w": "supputation", "pos": "noun", "d": ["The act of computing or reckoning."], "src": "iwb"}
+{"w": "suppute", "pos": "verb", "d": ["To compute or reckon."], "src": "iwb"}
+{"w": "supra", "pos": "adverb", "d": ["Above or earlier in a text, as in a citation.", "Above or beyond something."], "src": "iwb"}
+{"w": "supra-acromial", "pos": "adjective", "d": ["Situated above the acromion, the bony point of the shoulder."], "src": "iwb"}
+{"w": "supra-angular", "pos": "adjective", "d": ["Situated above the angular bone of the lower jaw."], "src": "iwb"}
+{"w": "supra-auricular", "pos": "adjective", "d": ["Situated above the ear."], "src": "iwb"}
+{"w": "supra-axillary", "pos": "adjective", "d": ["Situated above the armpit."], "src": "iwb"}
+{"w": "supra-esophagal", "pos": "adjective", "d": ["Situated above the esophagus."], "src": "iwb"}
+{"w": "supra-esophageal", "pos": "adjective", "d": ["Situated above the esophagus."], "src": "iwb"}
+{"w": "supra-ethmoid", "pos": "adjective", "d": ["Situated above the ethmoid bone of the skull."], "src": "iwb"}
+{"w": "supra-ilium", "pos": "noun", "d": ["In some animals, the part of the pelvis above the ilium."], "src": "iwb"}
+{"w": "supra-oesophagal", "pos": "adjective", "d": ["Situated above the oesophagus."], "src": "iwb"}
+{"w": "supraglotic", "pos": "adjective", "d": ["Situated above the glottis of the larynx."], "src": "iwb"}
+{"w": "supralapsarian", "pos": "adjective", "d": ["Relating to the doctrine that God's decree of election came before the Fall."], "src": "iwb"}
+{"w": "supralapsary", "pos": "adjective", "d": ["Same as supralapsarian."], "src": "iwb"}
+{"w": "suprapubian", "pos": "adjective", "d": ["Situated above the pubic bone."], "src": "iwb"}
+{"w": "suprascalpular", "pos": "adjective", "d": ["Situated above the shoulder blade."], "src": "iwb"}
+{"w": "suprascalpulary", "pos": "adjective", "d": ["Same as suprascapular."], "src": "iwb"}
+{"w": "supremacy", "pos": "noun", "d": ["The state of being supreme in power or authority."], "src": "iwb"}
+{"w": "supremity", "pos": "noun", "d": ["The state of being supreme; supremacy."], "src": "iwb"}
+{"w": "sur-", "pos": "prefix", "d": ["A prefix meaning over or above, as in surcharge."], "src": "iwb"}
+{"w": "sura", "pos": "noun", "d": ["A chapter of the Quran.", "In Sanskrit writings, a god or divine being."], "src": "iwb"}
+{"w": "suradanni", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suraddition", "pos": "noun", "d": ["Something added on top of what is already there.", "The act of adding more to an existing amount."], "src": "iwb"}
+{"w": "surah", "pos": "noun", "d": ["One of the chapters of the Quran.", "Each of the 114 divisions of the Islamic holy book."], "src": "iwb"}
+{"w": "sural", "pos": "adjective", "d": ["Relating to the calf of the leg."], "src": "iwb"}
+{"w": "surance", "pos": "noun", "d": ["An obsolete word meaning assurance or a guarantee."], "src": "iwb"}
+{"w": "surangular", "pos": "noun", "d": ["A bone forming part of the lower jaw in reptiles and some other animals.", "An adjective describing the angular bone of the jaw."], "src": "iwb"}
+{"w": "surbase", "pos": "noun", "d": ["A molding that runs along the top of a baseboard.", "The upper molding crowning a pedestal."], "src": "iwb"}
+{"w": "surbate", "pos": "verb", "d": ["To beat down or trample, as horses do with their hooves.", "To batter or bruise by heavy pounding."], "src": "iwb"}
+{"w": "surbeat", "pos": "verb", "d": ["To beat or strike repeatedly."], "src": "iwb"}
+{"w": "surbed", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "surbet", "pos": "noun", "d": ["A frozen dessert made from sweetened fruit juice; a sorbet."], "src": "iwb"}
+{"w": "surcease", "pos": "noun", "d": ["A coming to an end; a stopping.", "A pause or relief from something painful or tiresome."], "src": "iwb"}
+{"w": "surcharge", "pos": "noun", "d": ["An extra charge added to a price or tax.", "An overprint on a postage stamp that changes its value."], "src": "iwb"}
+{"w": "surcingle", "pos": "noun", "d": ["A strap passed around a horse's body to hold a blanket or saddle in place."], "src": "iwb"}
+{"w": "surcle", "pos": "noun", "d": ["A young shoot or sucker growing from the base of a plant."], "src": "iwb"}
+{"w": "surcloy", "pos": "verb", "d": ["To fill to the point of disgust; to sicken by overindulgence."], "src": "iwb"}
+{"w": "surcoat", "pos": "noun", "d": ["A loose outer coat or tunic worn over armor or other clothing."], "src": "iwb"}
+{"w": "surcrew", "pos": "verb", "d": ["To add to; to increase."], "src": "iwb"}
+{"w": "surculate", "pos": "verb", "d": ["To multiply a plant by means of its suckers or shoots.", "To prune or remove suckers from a plant."], "src": "iwb"}
+{"w": "surculation", "pos": "noun", "d": ["The act of pruning suckers from a plant."], "src": "iwb"}
+{"w": "surculose", "pos": "adjective", "d": ["Producing many suckers or shoots."], "src": "iwb"}
+{"w": "surd", "pos": "noun", "d": ["In mathematics, an irrational root of a number, such as the square root of two.", "An obsolete word for a person who is deaf."], "src": "iwb"}
+{"w": "surdiny", "pos": "noun", "d": ["A small fish of the sardine kind."], "src": "iwb"}
+{"w": "sure-footed", "pos": "adjective", "d": ["Not likely to stumble or fall; steady on one's feet.", "Confident and steady in one's actions."], "src": "iwb"}
+{"w": "suresby", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suretiship", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "surety", "pos": "noun", "d": ["A person who agrees to pay another's debt if that person fails to pay.", "The state of being certain or secure."], "src": "iwb"}
+{"w": "surface loading", "pos": "phrase", "d": ["The amount of material or flow applied to each unit of area of a surface.", "In water treatment, the rate of flow treated per unit of surface area."], "src": "iwb"}
+{"w": "surface tension", "pos": "noun", "d": ["The tendency of a liquid's surface to act like a stretched skin because of the pull between its molecules."], "src": "iwb"}
+{"w": "surfeit", "pos": "noun", "d": ["An excess of something; more than is wanted or needed.", "An uncomfortable fullness from eating or drinking too much."], "src": "iwb"}
+{"w": "surfeit-water", "pos": "noun", "d": ["A medicinal drink once used as a remedy for indigestion from overeating."], "src": "iwb"}
+{"w": "surfel", "pos": "noun", "d": ["In computer graphics, a small surface element used to build up a three-dimensional image."], "src": "iwb"}
+{"w": "surfle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "surfoot", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "surfy", "pos": "adjective", "d": ["Having or marked by breaking waves; full of surf."], "src": "iwb"}
+{"w": "surgent", "pos": "adjective", "d": ["Rising or swelling, as a wave."], "src": "iwb"}
+{"w": "surgeoncy", "pos": "noun", "d": ["The office or position of a surgeon."], "src": "iwb"}
+{"w": "surgeonry", "pos": "noun", "d": ["The art and practice of surgery; surgical treatment."], "src": "iwb"}
+{"w": "surgy", "pos": "adjective", "d": ["Rising in surges; billowy."], "src": "iwb"}
+{"w": "suricat", "pos": "noun", "d": ["A small African mammal that digs burrows and lives in colonies; the suricate or meerkat."], "src": "iwb"}
+{"w": "surinam toad", "pos": "phrase", "d": ["A flat South American toad that carries its eggs on its back until they hatch."], "src": "iwb"}
+{"w": "surintendant", "pos": "noun", "d": ["A French title for a superintendent or overseer, especially a high government official."], "src": "iwb"}
+{"w": "surlily", "pos": "adverb", "d": ["In a surly manner; rudely and with bad temper."], "src": "iwb"}
+{"w": "surliness", "pos": "noun", "d": ["The quality of being surly; rude and gloomy bad temper."], "src": "iwb"}
+{"w": "surling", "pos": "noun", "d": ["A surly person; a sour-tempered fellow."], "src": "iwb"}
+{"w": "surloin", "pos": "noun", "d": ["A cut of beef from the loin; a sirloin."], "src": "iwb"}
+{"w": "surly", "pos": "adjective", "d": ["Bad-tempered and rude; unfriendly and gruff."], "src": "iwb"}
+{"w": "surmark", "pos": "noun", "d": ["An extra mark placed on paper or cloth, such as a watermark."], "src": "iwb"}
+{"w": "surmisal", "pos": "noun", "d": ["The act of guessing without proof; a conjecture."], "src": "iwb"}
+{"w": "surmise", "pos": "verb", "d": ["To form an opinion or guess without firm evidence.", "A guess formed without firm evidence."], "src": "iwb"}
+{"w": "surmount", "pos": "verb", "d": ["To overcome an obstacle or difficulty.", "To get to the top of; to climb over."], "src": "iwb"}
+{"w": "surmullet", "pos": "noun", "d": ["A sea fish with a reddish body and barbels on its chin; the striped red mullet."], "src": "iwb"}
+{"w": "surmulot", "pos": "noun", "d": ["The common brown rat."], "src": "iwb"}
+{"w": "surnominal", "pos": "adjective", "d": ["Relating to a surname or family name."], "src": "iwb"}
+{"w": "suroxidate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suroxide", "pos": "noun", "d": ["A chemical compound of an element with an extra proportion of oxygen; a peroxide."], "src": "iwb"}
+{"w": "surpass", "pos": "verb", "d": ["To go beyond in amount, quality, or achievement; to exceed."], "src": "iwb"}
+{"w": "surphul", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "surplice", "pos": "noun", "d": ["A loose white garment worn by clergy and choir members over their other robes."], "src": "iwb"}
+{"w": "surprisal", "pos": "noun", "d": ["The act of surprising someone; a sudden and unexpected event."], "src": "iwb"}
+{"w": "surquedous", "pos": "adjective", "d": ["Proud and arrogant; haughty."], "src": "iwb"}
+{"w": "surquedrous", "pos": "adjective", "d": ["Proud and arrogant; haughty."], "src": "iwb"}
+{"w": "surquedry", "pos": "noun", "d": ["Proud and overbearing behavior; arrogance."], "src": "iwb"}
+{"w": "surquidry", "pos": "noun", "d": ["An old form of the word surquedry; proud and overbearing behavior."], "src": "iwb"}
+{"w": "surrebound", "pos": "verb", "d": ["To bounce back again; to recoil."], "src": "iwb"}
+{"w": "surrebut", "pos": "noun", "d": ["In law, the plaintiff's answer to the defendant's rebutter in a chain of pleadings."], "src": "iwb"}
+{"w": "surrein", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "surrejoin", "pos": "verb", "d": ["In law, to answer a rejoinder; to reply to the other side's reply."], "src": "iwb"}
+{"w": "surrejoinder", "pos": "noun", "d": ["In law, the plaintiff's reply to the defendant's rejoinder."], "src": "iwb"}
+{"w": "surrender", "pos": "verb", "d": ["To yield to an opponent and stop resisting.", "To give up possession or control of something."], "src": "iwb"}
+{"w": "surrenderee", "pos": "noun", "d": ["The person to whom something is surrendered."], "src": "iwb"}
+{"w": "surrenderor", "pos": "noun", "d": ["The person who surrenders something."], "src": "iwb"}
+{"w": "surrendry", "pos": "noun", "d": ["The act of surrendering; a giving up."], "src": "iwb"}
+{"w": "surreption", "pos": "noun", "d": ["The act of getting something by stealth or trickery."], "src": "iwb"}
+{"w": "surreptitious", "pos": "adjective", "d": ["Done in secret; kept hidden to avoid notice."], "src": "iwb"}
+{"w": "surrogate", "pos": "noun", "d": ["A person or thing acting in place of another; a substitute.", "A judge who handles wills and estates in some states."], "src": "iwb"}
+{"w": "surrogation", "pos": "noun", "d": ["The act of putting one person or thing in the place of another."], "src": "iwb"}
+{"w": "surrow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "surroyal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sursanure", "pos": "noun", "d": ["An old word for a wound that is healing or has healed; a scar."], "src": "iwb"}
+{"w": "surseance", "pos": "noun", "d": ["An old word for a coming to an end; cessation."], "src": "iwb"}
+{"w": "sursolid", "pos": "noun", "d": ["In old mathematics, the fifth power of a number."], "src": "iwb"}
+{"w": "surstyle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sursum corda", "pos": "phrase", "d": ["A Latin phrase meaning \"lift up your hearts,\" used in Christian worship."], "src": "iwb"}
+{"w": "surtax", "pos": "noun", "d": ["An additional tax charged on top of the regular tax."], "src": "iwb"}
+{"w": "surtout", "pos": "noun", "d": ["A man's long overcoat.", "A large ornamental serving dish or table centerpiece."], "src": "iwb"}
+{"w": "surturbrand", "pos": "noun", "d": ["A kind of brown coal; lignite."], "src": "iwb"}
+{"w": "surucucu", "pos": "noun", "d": ["A large venomous pit viper of South America; the bushmaster."], "src": "iwb"}
+{"w": "surveillant", "pos": "noun", "d": ["A person who watches over others; an overseer or inspector."], "src": "iwb"}
+{"w": "survene", "pos": "verb", "d": ["To come as something added or unexpected; to supervene."], "src": "iwb"}
+{"w": "survenue", "pos": "noun", "d": ["The act of supervening; an added or unexpected occurrence."], "src": "iwb"}
+{"w": "surveyor", "pos": "noun", "d": ["A person who measures and maps land."], "src": "iwb"}
+{"w": "surview", "pos": "noun", "d": ["A general view or survey of something."], "src": "iwb"}
+{"w": "survise", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "survivance", "pos": "noun", "d": ["The state of outliving another; survival.", "In Scots law, the right to succeed to property."], "src": "iwb"}
+{"w": "survivancy", "pos": "noun", "d": ["The state or condition of being a survivor."], "src": "iwb"}
+{"w": "survivency", "pos": "noun", "d": ["The quality of surviving; the state of continuing to live."], "src": "iwb"}
+{"w": "susceptibility", "pos": "noun", "d": ["The quality of being easily affected or influenced."], "src": "iwb"}
+{"w": "susceptible", "pos": "adjective", "d": ["Easily affected, influenced, or harmed by something."], "src": "iwb"}
+{"w": "susception", "pos": "noun", "d": ["The act of taking up or receiving something."], "src": "iwb"}
+{"w": "susceptive", "pos": "adjective", "d": ["Able or ready to receive; receptive."], "src": "iwb"}
+{"w": "susceptivity", "pos": "noun", "d": ["The quality or state of being susceptible to influence, feeling, or disease."], "src": "iwb"}
+{"w": "susceptor", "pos": "noun", "d": ["One who or that which takes up or receives something."], "src": "iwb"}
+{"w": "suscipiency", "pos": "noun", "d": ["The state or quality of being receptive; receptiveness."], "src": "iwb"}
+{"w": "suscipient", "pos": "noun", "d": ["One who takes or receives; a receiver."], "src": "iwb"}
+{"w": "suscitability", "pos": "noun", "d": ["The capacity to be roused or stirred into activity."], "src": "iwb"}
+{"w": "suscitate", "pos": "verb", "d": ["To rouse from inaction; to stir into activity."], "src": "iwb"}
+{"w": "suscitation", "pos": "noun", "d": ["The act of rousing or reviving; a stirring into activity."], "src": "iwb"}
+{"w": "suslik", "pos": "noun", "d": ["A small burrowing ground squirrel of Europe and Asia."], "src": "iwb"}
+{"w": "suspectiousness", "pos": "noun", "d": ["The quality of being full of suspicion; suspiciousness."], "src": "iwb"}
+{"w": "suspend", "pos": "verb", "d": ["To hang from above so as to hang freely.", "To stop temporarily; to hold in abeyance."], "src": "iwb"}
+{"w": "suspensation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suspense", "pos": "noun", "d": ["A state of anxious uncertainty while awaiting an outcome."], "src": "iwb"}
+{"w": "suspensibility", "pos": "noun", "d": ["The quality of being capable of suspension."], "src": "iwb"}
+{"w": "suspensible", "pos": "adjective", "d": ["Capable of being suspended."], "src": "iwb"}
+{"w": "suspensive", "pos": "adjective", "d": ["Tending to suspend or hold back.", "Marked by suspense; keeping one in uncertain expectation."], "src": "iwb"}
+{"w": "suspensor", "pos": "noun", "d": ["A structure, such as a ligament or muscle, that holds an organ suspended.", "One who suspends."], "src": "iwb"}
+{"w": "suspensorium", "pos": "noun", "d": ["A supporting framework that holds a part suspended, as the bony structure supporting the lower jaw in fishes."], "src": "iwb"}
+{"w": "suspensory", "pos": "adjective", "d": ["Serving to suspend or support.", "Of or relating to suspension."], "src": "iwb"}
+{"w": "suspicable", "pos": "adjective", "d": ["Open to suspicion; that may be suspected."], "src": "iwb"}
+{"w": "suspiciency", "pos": "noun", "d": ["Suspicion; the state of suspecting."], "src": "iwb"}
+{"w": "suspicion", "pos": "noun", "d": ["A feeling that something is wrong or that someone is guilty, without certain proof.", "A slight trace or hint of something."], "src": "iwb"}
+{"w": "suspicious", "pos": "adjective", "d": ["Arousing distrust; giving cause for suspicion.", "Feeling or showing suspicion."], "src": "iwb"}
+{"w": "suspiral", "pos": "adjective", "d": ["Of or relating to sighing or breathing."], "src": "iwb"}
+{"w": "suspiration", "pos": "noun", "d": ["A sigh; a deep breath."], "src": "iwb"}
+{"w": "suspire", "pos": "verb", "d": ["To sigh; to breathe."], "src": "iwb"}
+{"w": "sustain", "pos": "verb", "d": ["To keep going; to maintain over time.", "To support or bear up, as a weight.", "To suffer or endure."], "src": "iwb"}
+{"w": "sustaltic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sustenance", "pos": "noun", "d": ["Food and drink needed to keep one alive; nourishment.", "The means of maintaining life or growth."], "src": "iwb"}
+{"w": "sustentacle", "pos": "noun", "d": ["That which sustains or supports; a support."], "src": "iwb"}
+{"w": "sustentacular", "pos": "adjective", "d": ["Serving to sustain or support."], "src": "iwb"}
+{"w": "sustentate", "pos": "verb", "d": ["To sustain; to support."], "src": "iwb"}
+{"w": "sustentation", "pos": "noun", "d": ["The act of sustaining; maintenance and support."], "src": "iwb"}
+{"w": "sustentative", "pos": "adjective", "d": ["Tending to sustain; supporting."], "src": "iwb"}
+{"w": "sustention", "pos": "noun", "d": ["The act of sustaining; support or maintenance."], "src": "iwb"}
+{"w": "suster", "pos": "noun", "d": ["An obsolete form of sister."], "src": "iwb"}
+{"w": "sustre", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "susu", "pos": "noun", "d": ["A rotating savings club in which members pool money and take turns receiving the payout."], "src": "iwb"}
+{"w": "susurrant", "pos": "adjective", "d": ["Whispering; making a soft murmuring sound."], "src": "iwb"}
+{"w": "susurration", "pos": "noun", "d": ["A soft whispering or rustling sound."], "src": "iwb"}
+{"w": "susurringly", "pos": "adverb", "d": ["In a whispering or softly murmuring manner."], "src": "iwb"}
+{"w": "susurrous", "pos": "adjective", "d": ["Full of soft whispers; rustling gently."], "src": "iwb"}
+{"w": "susurrus", "pos": "noun", "d": ["A soft whispering or rustling sound."], "src": "iwb"}
+{"w": "sutile", "pos": "adjective", "d": ["Sewn or stitched together."], "src": "iwb"}
+{"w": "sutler", "pos": "noun", "d": ["A merchant who follows an army to sell provisions to soldiers."], "src": "iwb"}
+{"w": "sutling", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sutor", "pos": "noun", "d": ["A shoemaker; a cobbler."], "src": "iwb"}
+{"w": "sutra", "pos": "noun", "d": ["An aphoristic sacred text of Hinduism or Buddhism."], "src": "iwb"}
+{"w": "suttee", "pos": "noun", "d": ["The former Hindu practice of a widow immolating herself on her husband's funeral pyre."], "src": "iwb"}
+{"w": "suttle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sutural", "pos": "adjective", "d": ["Of or relating to a suture."], "src": "iwb"}
+{"w": "suturated", "pos": "adjective", "d": ["Joined by a suture or sutures; stitched."], "src": "iwb"}
+{"w": "suture", "pos": "noun", "d": ["A stitch or row of stitches holding the edges of a wound or incision together.", "The line of union between two parts, as between bones of the skull."], "src": "iwb"}
+{"w": "suwarrow", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "suzerain", "pos": "noun", "d": ["A feudal overlord; a state exercising control over a vassal state."], "src": "iwb"}
+{"w": "suzerainty", "pos": "noun", "d": ["The dominion or authority of a suzerain; overlordship."], "src": "iwb"}
+{"w": "swa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swab", "pos": "noun", "d": ["A small piece of absorbent material used for cleaning or for taking a sample.", "A mop used for cleaning decks."], "src": "iwb"}
+{"w": "swad", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swaddle", "pos": "verb", "d": ["To wrap a baby snugly in cloth."], "src": "iwb"}
+{"w": "swag", "pos": "noun", "d": ["Goods, especially stolen goods; loot.", "Free promotional items given away.", "A decorative hanging drape of fabric."], "src": "iwb"}
+{"w": "swag-bellied", "pos": "adjective", "d": ["Having a large, sagging belly."], "src": "iwb"}
+{"w": "swage", "pos": "noun", "d": ["A tool with a shaped face used in forging metal.", "A shaped groove or stamp worked into metal."], "src": "iwb"}
+{"w": "swaggy", "pos": "adjective", "d": ["Having style, confidence, or cool swagger."], "src": "iwb"}
+{"w": "swagsman", "pos": "noun", "d": ["In Australia, an itinerant worker who carries his belongings in a swag."], "src": "iwb"}
+{"w": "swain", "pos": "noun", "d": ["A young man, especially a lover or suitor.", "A country youth; a rustic."], "src": "iwb"}
+{"w": "swaip", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swale", "pos": "noun", "d": ["A low tract of marshy land; a shallow depression that holds water."], "src": "iwb"}
+{"w": "swallow-tailed", "pos": "adjective", "d": ["Having a deeply forked tail like a swallow's.", "Cut with tapering forked tails, as a swallow-tailed coat."], "src": "iwb"}
+{"w": "swam", "pos": "verb", "d": ["Past tense of swim."], "src": "iwb"}
+{"w": "swamp", "pos": "noun", "d": ["A wetland overgrown with trees and shrubs; a boggy tract."], "src": "iwb"}
+{"w": "swampy", "pos": "adjective", "d": ["Like a swamp; wet, soft, and marshy."], "src": "iwb"}
+{"w": "swan", "pos": "noun", "d": ["A large waterbird with a long neck, usually white in the adult."], "src": "iwb"}
+{"w": "swan-hopping", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swan-upping", "pos": "noun", "d": ["The annual counting and marking of swans on the River Thames in England."], "src": "iwb"}
+{"w": "swang", "pos": "verb", "d": ["A past tense of swing, chiefly in dialect."], "src": "iwb"}
+{"w": "swanimote", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swanky", "pos": "adjective", "d": ["Stylishly impressive; fancy and fashionable."], "src": "iwb"}
+{"w": "swannery", "pos": "noun", "d": ["A place where swans are kept or bred."], "src": "iwb"}
+{"w": "swanny", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swape", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sward", "pos": "noun", "d": ["Grassy ground; turf."], "src": "iwb"}
+{"w": "sward-cutter", "pos": "noun", "d": ["An implement for cutting sward or turf."], "src": "iwb"}
+{"w": "swardy", "pos": "adjective", "d": ["Covered with sward; grassy."], "src": "iwb"}
+{"w": "sware", "pos": "verb", "d": ["An obsolete past tense of swear."], "src": "iwb"}
+{"w": "swarf", "pos": "noun", "d": ["Fine metal filings or shavings produced in machining."], "src": "iwb"}
+{"w": "swarm", "pos": "noun", "d": ["A large dense group of insects, especially bees, moving together.", "A great crowd of people moving together."], "src": "iwb"}
+{"w": "swart", "pos": "adjective", "d": ["Dark in color or complexion; swarthy."], "src": "iwb"}
+{"w": "swarth", "pos": "noun", "d": ["A swath; a row of mown grass."], "src": "iwb"}
+{"w": "swarthily", "pos": "adverb", "d": ["In a swarthy manner; with dark coloring."], "src": "iwb"}
+{"w": "swarthiness", "pos": "noun", "d": ["The quality of being swarthy; darkness of complexion."], "src": "iwb"}
+{"w": "swarthy", "pos": "adjective", "d": ["Dark-skinned; dark in complexion."], "src": "iwb"}
+{"w": "swartiness", "pos": "noun", "d": ["Darkness of color or complexion; swarthiness."], "src": "iwb"}
+{"w": "swarty", "pos": "adjective", "d": ["Swarthy; dark in color."], "src": "iwb"}
+{"w": "swarve", "pos": "verb", "d": ["To swerve; to turn aside."], "src": "iwb"}
+{"w": "swash", "pos": "verb", "d": ["To move with a splashing or dashing sound.", "To swagger; to move with ostentation."], "src": "iwb"}
+{"w": "swastica", "pos": "noun", "d": ["An older variant spelling of swastika."], "src": "iwb"}
+{"w": "swastika", "pos": "noun", "d": ["An ancient symbol of a cross with bent arms, once a good-luck emblem and later the emblem of Nazi Germany."], "src": "iwb"}
+{"w": "swat", "pos": "verb", "d": ["To hit sharply with a quick blow."], "src": "iwb"}
+{"w": "swatch", "pos": "noun", "d": ["A small sample of fabric or other material."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

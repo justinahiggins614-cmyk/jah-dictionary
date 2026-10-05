@@ -15,13 +15,18 @@ Outputs (all derived from data, never hardcoded):
       fetches this small map, then only the one gz dict chunk holding the
       tapped word — the archive never loads all chunks at once.
   data/lexical/shards.json      manifest: {letter: {file, count}} + totals.
-  az/<L>.html                   the A-Z word archive: the full headword
-      catalog as collapsible <details> lists grouped by first two letters
-      (phone-friendly), every entry showing its phonetic construction, part
-      of speech, deterministic stamp and a ?w= deep link; a filter-as-you-type
-      search box; a count header stamped from the dataset; and a lazy
-      full-entry preview that loads the word's gz dict chunk on demand.
-      Readable by non-JS bots and humans with JavaScript disabled.
+  az/<L>.html                   the A-Z word archive: collapsible <details>
+      lists grouped by first two letters (phone-friendly), every group
+      collapsed by default and LAZY — a group's entries render only on first
+      open, fetched from that letter's data/lexical/shard-<L>.json (never a
+      full-letter DOM dump, so phones never choke). Every entry shows its
+      phonetic construction, part of speech, deterministic stamp and a ?w=
+      deep link; a filter-as-you-type search box (loads the letter shard once,
+      renders matches on demand); a count header stamped from the dataset;
+      and a lazy full-entry preview that loads the word's gz dict chunk on
+      demand. The per-letter shard JSON files (in sitemap-lexical.xml) carry
+      the full machine-readable catalog for crawlers/RAG; a <noscript> note
+      points no-JavaScript readers at them.
   sitemap-lexical.xml           dedicated lexical sitemap (urlset) listing
       every machine shard JSON; registered in sitemap-index.xml (idempotent).
       The human-readable az/<L>.html archive pages live in
@@ -160,6 +165,12 @@ def az_search_html(n, total_e):
 
 
 def entry_row(w, pos, pron, sense, st):
+    """Static HTML for one word entry.
+
+    NOTE: groups_html() no longer calls this (groups render lazily); the
+    page's entryRowJS() in AZ_SCRIPT is the JS mirror of this markup — keep
+    the two in sync if the entry layout ever changes.
+    """
     h = ['<dt data-w="%s"><a href="%s">%s</a>'
          % (esc(w), esc(w_url(w)), esc(w))]
     if pron:
@@ -182,6 +193,12 @@ def entry_row(w, pos, pron, sense, st):
 
 
 def groups_html(rows):
+    """Collapsed group shells only — entries render lazily on first open.
+
+    Manon's A-Z rule: no full dumps in the DOM. Each <details> carries its
+    two-letter prefix in data-grp; the page JS fetches data/lexical/shard-<L>
+    .json once and renders that group's rows on demand.
+    """
     groups, order = {}, []
     for r in rows:
         w = r[0]
@@ -192,13 +209,12 @@ def groups_html(rows):
         groups[pfx].append(r)
     parts = []
     for pfx in order:
-        grows = groups[pfx]
-        label = "%d words" % len(grows) if len(grows) != 1 else "1 word"
-        parts.append('<details class="azgrp"><summary>%s '
-                     '<span class="n">&middot; %s</span></summary><dl>'
-                     % (esc(pfx), label))
-        parts.extend(entry_row(*r) for r in grows)
-        parts.append("</dl></details>")
+        n = len(groups[pfx])
+        label = "%d words" % n if n != 1 else "1 word"
+        parts.append('<details class="azgrp" data-grp="%s"><summary>%s '
+                     '<span class="n">&middot; %s</span></summary>'
+                     '<dl class="azgrp-body" data-loaded="0"></dl></details>'
+                     % (esc(pfx), esc(pfx), label))
     return "\n".join(parts)
 
 
@@ -274,6 +290,7 @@ dd{margin:2px 0 8px 0;font-size:.95em}
 @@SEARCH@@
 @@BEST@@
 @@GROUPS@@
+<noscript><p style="font-family:Arial;font-size:.9em;background:#fff;border:1px solid #e4dcc4;border-radius:6px;padding:10px 12px">This archive loads each word group on demand with JavaScript (so phones never download the whole letter at once). Without JavaScript, the full machine-readable word list for this letter lives at <a href="@@SHARDJSON@@">@@SHARDJSON@@</a> — every headword with its part of speech, pronunciation, first sense and stamp.</p></noscript>
 <p class="nav">@@LETTERLINKS@@</p>
 <p style="font-family:Arial;font-size:.85em;color:#6b5f3e">Archive page generated from The Signature Dictionary data for crawlers and no-JavaScript readers. Full entries (stamps, word programs, read-aloud, AI teachers) live at each word's page.</p>
 </div>
@@ -290,23 +307,91 @@ AZ_SCRIPT = """(function(){
 var LETTER="@@LETTER@@";
 var q=document.getElementById("azq"),hit=document.getElementById("azhit");
 function lw(s){return (s||"").toLowerCase();}
-/* filter-as-you-type: show matching entries, auto-expand their groups */
+/* ---- Lazy A-Z groups (Manon's rule: no full dumps in the DOM) ----
+   Each details.azgrp carries its two-letter prefix in data-grp. The first
+   time a group opens, the page fetches this letter's compact shard JSON
+   (data/lexical/shard-<L>.json, already sitemap'd for crawlers) and renders
+   only that group's entries. The filter box does the same: it loads the
+   shard once, then renders only matching words. */
+function grpOf(w){w=String(w==null?"":w).toLowerCase();return w.length>=2?w.slice(0,2):w;}
+function escH(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+function entryRowJS(r){
+  var w=r[0],pos=r[1],pron=r[2],sense=r[3],st=r[4];
+  var h='<dt data-w="'+escH(w)+'"><a href="../?w='+encodeURIComponent(w)+'">'+escH(w)+'</a>';
+  if(pron)h+=' <span class="pron" title="IWB phonetic respelling &mdash; approximate pronunciation">'+escH(pron)+'</span>';
+  if(pos)h+=' <span class="pos">'+escH(pos)+'</span>';
+  if(st)h+=' <span class="stamp">'+escH(st)+'</span>';
+  h+='</dt><dd>';
+  if(sense)h+=escH(String(sense).slice(0,300));
+  h+=' <button type="button" class="azprev" data-w="'+escH(w)+'">full entry &#9656;</button><div class="azfull" data-open="0" data-loaded="0" style="display:none"></div></dd>';
+  return h;
+}
+var shardRows=null,shardTried=false,shardWaiters=[];
+function ensureShard(cb){
+  if(shardRows){cb(shardRows);return;}
+  shardWaiters.push(cb);
+  if(shardTried)return;
+  shardTried=true;
+  fetchText("../data/lexical/shard-"+LETTER+".json").then(function(t){
+    try{shardRows=JSON.parse(t);}catch(e){shardRows=null;}
+    var w=shardWaiters;shardWaiters=[];
+    w.forEach(function(f){f(shardRows);});
+  }).catch(function(){
+    var w=shardWaiters;shardWaiters=[];
+    w.forEach(function(f){f(null);});
+  });
+}
+function loadGroup(d){
+  var dl=d.querySelector("dl.azgrp-body");
+  if(!dl||dl.getAttribute("data-loaded")==="1")return;
+  dl.setAttribute("data-loaded","1");
+  dl.innerHTML='<dt class="azload">Loading words&hellip;</dt>';
+  ensureShard(function(rows){
+    if(!rows){dl.innerHTML='<dt class="azload">Could not load these words &mdash; <a href="../">search the whole dictionary instead &rarr;</a></dt>';dl.setAttribute("data-loaded","0");return;}
+    var pfx=d.getAttribute("data-grp"),h="",i;
+    for(i=0;i<rows.length;i++){var r=rows[i];if(grpOf(r[0])===pfx)h+=entryRowJS(r);}
+    dl.innerHTML=h||'<dt class="azload">No words in this group.</dt>';
+  });
+}
+document.addEventListener("toggle",function(ev){
+  var d=ev.target;
+  if(d&&d.tagName==="DETAILS"&&d.classList&&d.classList.contains("azgrp")&&d.open)loadGroup(d);
+},true);
+/* filter-as-you-type: load the letter shard once, render only matches */
 q.addEventListener("input",function(){
-  var t=lw(q.value).replace(/^\\s+|\\s+$/g,""),n=0,i,j;
-  var groups=document.querySelectorAll("details.azgrp");
-  for(i=0;i<groups.length;i++){
-    var g=groups[i],dts=g.getElementsByTagName("dt"),vis=0;
-    for(j=0;j<dts.length;j++){
-      var dt=dts[j],dd=dt.nextElementSibling;
-      var show=!t||lw(dt.getAttribute("data-w")||"").indexOf(t)!==-1;
-      dt.style.display=show?"":"none";
-      if(dd&&dd.tagName==="DD")dd.style.display=show?"":"none";
-      if(show){vis++;n++;}
+  var t=lw(q.value).replace(/^\\s+|\\s+$/g,"");
+  var groups=document.querySelectorAll("details.azgrp"),i;
+  if(!t){
+    for(i=0;i<groups.length;i++){
+      var g0=groups[i],dl0=g0.querySelector("dl.azgrp-body");
+      if(dl0){dl0.setAttribute("data-loaded","0");dl0.innerHTML="";}
+      g0.style.display="";g0.open=false;
     }
-    g.style.display=vis?"":"none";
-    g.open=!!t&&vis>0;
+    hit.textContent="";
+    return;
   }
-  hit.textContent=t?(n+" match"+(n===1?"":"es")):"";
+  hit.textContent="searching\\u2026";
+  ensureShard(function(rows){
+    if(!rows){hit.textContent="Could not load the word list \\u2014 try the main search.";return;}
+    var n=0,g,dl,pfx,r,h,c,j;
+    for(i=0;i<groups.length;i++){
+      g=groups[i];dl=g.querySelector("dl.azgrp-body");pfx=g.getAttribute("data-grp");
+      h="";c=0;
+      for(j=0;j<rows.length;j++){
+        r=rows[j];
+        if(grpOf(r[0])!==pfx)continue;
+        if(lw(r[0]).indexOf(t)===-1)continue;
+        if(c<400)h+=entryRowJS(r);
+        c++;
+      }
+      if(c>400)h+='<dt class="azload">\\u2026and '+(c-400).toLocaleString()+' more \\u2014 keep typing to narrow it down.</dt>';
+      if(dl){dl.setAttribute("data-loaded","1");dl.innerHTML=h;}
+      g.style.display=c?"":"none";
+      g.open=c>0;
+      n+=c;
+    }
+    hit.textContent=n.toLocaleString()+" match"+(n===1?"":"es");
+  });
 });
 /* Lazy full-entry preview: fetch the tiny per-letter location map, then only
    the one gz dict chunk holding the tapped word. Never loads all chunks. */
@@ -446,6 +531,8 @@ def write_static_az(shards, total_w, total_e):
         page = page.replace("@@SEARCH@@", az_search_html(len(rows), total_e))
         page = page.replace("@@BEST@@", BEST_HTML)
         page = page.replace("@@GROUPS@@", groups_html(rows))
+        page = page.replace("@@SHARDJSON@@",
+                            "../data/lexical/shard-%s.json" % L)
         page = page.replace("@@SCRIPT@@",
                             AZ_SCRIPT.replace("@@LETTER@@", L))
         with open(os.path.join(AZDIR, "%s.html" % L), "w",

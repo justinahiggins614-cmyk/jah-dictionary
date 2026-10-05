@@ -57421,6 +57421,806 @@
 {"w": "unpathwayed", "pos": "adjective", "d": ["Without pathways; trackless."], "src": "iwb"}
 {"w": "unpaved", "pos": "adjective", "d": ["Not paved."], "src": "iwb"}
 {"w": "unpedigreed", "pos": "adjective", "d": ["Without a pedigree; of unknown lineage."], "src": "iwb"}
+{"w": "unpeeled", "pos": "adjective", "d": ["Not peeled; having the skin or outer covering still on."], "src": "iwb"}
+{"w": "unpeerable", "pos": "adjective", "d": ["Not able to be matched or equaled; without a peer."], "src": "iwb"}
+{"w": "unpeered", "pos": "adjective", "d": ["Having no peer; without an equal."], "src": "iwb"}
+{"w": "unpitousty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unplaced", "pos": "adjective", "d": ["Not placed; left without an assigned spot, position, or role."], "src": "iwb"}
+{"w": "unplained", "pos": "adjective", "d": ["Not explained; left without an explanation."], "src": "iwb"}
+{"w": "unpleaded", "pos": "adjective", "d": ["Not pleaded; not argued or presented as a plea."], "src": "iwb"}
+{"w": "unpleasive", "pos": "adjective", "d": ["Not pleasant; disagreeable."], "src": "iwb"}
+{"w": "unpoised", "pos": "adjective", "d": ["Not poised; lacking balance, steadiness, or composure."], "src": "iwb"}
+{"w": "unportunate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unportuous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unprejudiced", "pos": "adjective", "d": ["Not prejudiced; fair and impartial, not swayed by preconceived opinion."], "src": "iwb"}
+{"w": "unprelated", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unprevented", "pos": "adjective", "d": ["Not prevented; not stopped or hindered from happening."], "src": "iwb"}
+{"w": "unprotestantize", "pos": "verb", "d": ["To strip of Protestant character or influence."], "src": "iwb"}
+{"w": "unpursed", "pos": "adjective", "d": ["Not pursed; not drawn together like the mouth of a purse."], "src": "iwb"}
+{"w": "unquestioned", "pos": "adjective", "d": ["Not questioned; accepted as true without doubt or challenge."], "src": "iwb"}
+{"w": "unrazored", "pos": "adjective", "d": ["Not shaved with a razor; unshaven."], "src": "iwb"}
+{"w": "unrecuring", "pos": "adjective", "d": ["Not recurring; not coming back or happening again."], "src": "iwb"}
+{"w": "unredeemed", "pos": "adjective", "d": ["Not redeemed; not bought back, rescued, or set free."], "src": "iwb"}
+{"w": "unrelenting", "pos": "adjective", "d": ["Not relenting; harsh and severe, continuing without softening."], "src": "iwb"}
+{"w": "unremitting", "pos": "adjective", "d": ["Never stopping; continuing steadily without pause or relief."], "src": "iwb"}
+{"w": "unreprievable", "pos": "adjective", "d": ["Not able to be reprieved; unable to be spared from punishment."], "src": "iwb"}
+{"w": "unreproachable", "pos": "adjective", "d": ["Beyond reproach; blameless and not deserving of blame."], "src": "iwb"}
+{"w": "unreproved", "pos": "adjective", "d": ["Not reproved; not scolded or found fault with."], "src": "iwb"}
+{"w": "unresisted", "pos": "adjective", "d": ["Not resisted; met with no opposition."], "src": "iwb"}
+{"w": "unrevenued", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unrioted", "pos": "adjective", "d": ["Not rioted; free from rioting or violent disorder."], "src": "iwb"}
+{"w": "unrivaled", "pos": "adjective", "d": ["Having no rival; unmatched and beyond comparison."], "src": "iwb"}
+{"w": "unruled", "pos": "adjective", "d": ["Not ruled or governed; without control.", "Not marked with straight ruled lines, as of paper."], "src": "iwb"}
+{"w": "unruliment", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unruliness", "pos": "noun", "d": ["The state of being unruly; disorderly behavior and lack of discipline."], "src": "iwb"}
+{"w": "unsatiability", "pos": "noun", "d": ["The quality of being insatiable; inability to be satisfied."], "src": "iwb"}
+{"w": "unsatiable", "pos": "adjective", "d": ["Not able to be satiated; impossible to satisfy."], "src": "iwb"}
+{"w": "unscapable", "pos": "adjective", "d": ["Not able to be escaped from; inescapable."], "src": "iwb"}
+{"w": "unsceptered", "pos": "adjective", "d": ["Not bearing a scepter; stripped of royal authority."], "src": "iwb"}
+{"w": "unsceptred", "pos": "adjective", "d": ["Not bearing a scepter; deprived of royal power."], "src": "iwb"}
+{"w": "unseconded", "pos": "adjective", "d": ["Not seconded; lacking a seconder or supporting voice, as of a motion."], "src": "iwb"}
+{"w": "unseminared", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unsensed", "pos": "adjective", "d": ["Not sensed; not perceived by the senses."], "src": "iwb"}
+{"w": "unshakable", "pos": "adjective", "d": ["Not able to be shaken; firm, steady, and unwavering."], "src": "iwb"}
+{"w": "unshaked", "pos": "adjective", "d": ["Not shaken; not disturbed or unsettled."], "src": "iwb"}
+{"w": "unshapen", "pos": "adjective", "d": ["Not shaped; without form; shapeless."], "src": "iwb"}
+{"w": "unshrubbed", "pos": "adjective", "d": ["Not planted with shrubs; lacking shrubs."], "src": "iwb"}
+{"w": "unsisting", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unslacked", "pos": "adjective", "d": ["Not slackened; not loosened or allowed to relax."], "src": "iwb"}
+{"w": "unslaked", "pos": "adjective", "d": ["Not slaked; not quenched or satisfied, as of thirst.", "Not combined with water, as of lime."], "src": "iwb"}
+{"w": "unsoldiered", "pos": "adjective", "d": ["Deprived of soldiers; not manned or guarded by troops."], "src": "iwb"}
+{"w": "unsonable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unsorted", "pos": "adjective", "d": ["Not sorted; not arranged into groups or order."], "src": "iwb"}
+{"w": "unspecialized", "pos": "adjective", "d": ["Not specialized; general in nature rather than limited to one field."], "src": "iwb"}
+{"w": "unspiritalize", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unstockinged", "pos": "adjective", "d": ["Not wearing stockings; barelegged."], "src": "iwb"}
+{"w": "unsucceedable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unsured", "pos": "adjective", "d": ["Not assured or made certain; left in doubt."], "src": "iwb"}
+{"w": "unswayable", "pos": "adjective", "d": ["Not able to be swayed; unable to be moved or influenced."], "src": "iwb"}
+{"w": "untalked", "pos": "adjective", "d": ["Not talked of; not discussed or mentioned."], "src": "iwb"}
+{"w": "untangibly", "pos": "adverb", "d": ["In an untangible manner; in a way that cannot be touched or grasped."], "src": "iwb"}
+{"w": "unthriftihead", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unthriftihood", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "untithed", "pos": "adjective", "d": ["Not tithed; not paying or yielding tithes."], "src": "iwb"}
+{"w": "untrained", "pos": "adjective", "d": ["Not trained; lacking training, instruction, or practice."], "src": "iwb"}
+{"w": "untrenched", "pos": "adjective", "d": ["Not cut with trenches; not provided with trenches."], "src": "iwb"}
+{"w": "untrowable", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "unused", "pos": "adjective", "d": ["Not used; not put to use or in service."], "src": "iwb"}
+{"w": "unvisibly", "pos": "adverb", "d": ["In an unvisible manner; so as not to be seen; invisibly."], "src": "iwb"}
+{"w": "unvitiated", "pos": "adjective", "d": ["Not vitiated; not corrupted, impaired, or spoiled; pure."], "src": "iwb"}
+{"w": "unwarranted", "pos": "adjective", "d": ["Not warranted; unjustified and without proper authority."], "src": "iwb"}
+{"w": "unwedgeable", "pos": "adjective", "d": ["Not able to be forced apart with a wedge."], "src": "iwb"}
+{"w": "unweeting", "pos": "adjective", "d": ["Not knowing; unaware."], "src": "iwb"}
+{"w": "unweighed", "pos": "adjective", "d": ["Not weighed; not measured or considered carefully."], "src": "iwb"}
+{"w": "unweldy", "pos": "adjective", "d": ["Not weldy; unwieldy; difficult to handle or manage."], "src": "iwb"}
+{"w": "unwemmed", "pos": "adjective", "d": ["Unblemished; free from spot or stain."], "src": "iwb"}
+{"w": "up-line", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "up-over", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "up-to-date", "pos": "adjective", "d": ["Current; including the latest information or developments."], "src": "iwb"}
+{"w": "up-train", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "up-wind", "pos": "adjective", "d": ["Toward the direction from which the wind blows; against the wind."], "src": "iwb"}
+{"w": "upas", "pos": "noun", "d": ["A poisonous tree of the East Indies whose sap is used as arrow poison."], "src": "iwb"}
+{"w": "upbar", "pos": "verb", "d": ["To bar up; to fasten or secure with a bar."], "src": "iwb"}
+{"w": "upbear", "pos": "verb", "d": ["To bear up; to lift, support, or sustain."], "src": "iwb"}
+{"w": "upbind", "pos": "verb", "d": ["To bind up; to tie, wrap, or fasten together."], "src": "iwb"}
+{"w": "upblow", "pos": "noun", "d": ["An upward blast; a blowing up."], "src": "iwb"}
+{"w": "upbraid", "pos": "verb", "d": ["To scold; to reproach with fault or blame."], "src": "iwb"}
+{"w": "upbreak", "pos": "verb", "d": ["To break up; to break open from below."], "src": "iwb"}
+{"w": "upbreathe", "pos": "verb", "d": ["To breathe up; to exhale upward."], "src": "iwb"}
+{"w": "upbreed", "pos": "verb", "d": ["To breed up; to rear or bring up."], "src": "iwb"}
+{"w": "upbrought", "pos": "verb", "d": ["Brought up; reared."], "src": "iwb"}
+{"w": "upbuoyance", "pos": "noun", "d": ["The quality of rising or floating upward; buoyancy."], "src": "iwb"}
+{"w": "upburst", "pos": "noun", "d": ["An upward burst; a sudden breaking out upward."], "src": "iwb"}
+{"w": "upcast", "pos": "noun", "d": ["An upward throw or casting.", "A shaft or passage through which air rises in a mine."], "src": "iwb"}
+{"w": "upcaught", "pos": "verb", "d": ["Caught up; seized or snatched up."], "src": "iwb"}
+{"w": "upcheer", "pos": "verb", "d": ["To cheer up; to make glad or hopeful."], "src": "iwb"}
+{"w": "upclimb", "pos": "verb", "d": ["To climb up; to ascend."], "src": "iwb"}
+{"w": "upcoil", "pos": "verb", "d": ["To coil up; to wind into a coil."], "src": "iwb"}
+{"w": "upcountry", "pos": "adjective", "d": ["Of or in the interior of a country; inland, away from the coast."], "src": "iwb"}
+{"w": "upcurl", "pos": "verb", "d": ["To curl up; to curl upward."], "src": "iwb"}
+{"w": "updive", "pos": "verb", "d": ["To dive upward; to rise toward the surface."], "src": "iwb"}
+{"w": "updraw", "pos": "verb", "d": ["To draw up; to pull or raise upward."], "src": "iwb"}
+{"w": "upend", "pos": "verb", "d": ["To set or stand upright on one end.", "To turn upside down; to overturn."], "src": "iwb"}
+{"w": "upeygan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upfill", "pos": "verb", "d": ["To fill completely; to fill to the top."], "src": "iwb"}
+{"w": "upflow", "pos": "verb", "d": ["To flow in an upward direction."], "src": "iwb"}
+{"w": "upflung", "pos": "adjective", "d": ["Flung or thrown upward."], "src": "iwb"}
+{"w": "upgather", "pos": "verb", "d": ["To gather together into a heap or pile."], "src": "iwb"}
+{"w": "upgaze", "pos": "verb", "d": ["To gaze or look upward."], "src": "iwb"}
+{"w": "upgive", "pos": "verb", "d": ["To give up; to surrender or yield."], "src": "iwb"}
+{"w": "upgrow", "pos": "verb", "d": ["To grow up; to spring up from the ground."], "src": "iwb"}
+{"w": "upgrowth", "pos": "noun", "d": ["The act or process of growing up.", "Something that has grown up, as a plant or a town."], "src": "iwb"}
+{"w": "upgush", "pos": "verb", "d": ["To gush or spout upward."], "src": "iwb"}
+{"w": "uphaf", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uphand", "pos": "noun", "d": ["An archaic term for one who has the upper hand; a superior or an equal."], "src": "iwb"}
+{"w": "uphang", "pos": "verb", "d": ["To hang up; to suspend aloft."], "src": "iwb"}
+{"w": "uphasp", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upheaped", "pos": "adjective", "d": ["Heaped or piled up."], "src": "iwb"}
+{"w": "upheaval", "pos": "noun", "d": ["A lifting or heaving up.", "A violent upward movement of the earth's crust.", "A sudden and violent change or disruption."], "src": "iwb"}
+{"w": "upheave", "pos": "verb", "d": ["To heave or lift upward."], "src": "iwb"}
+{"w": "upheld", "pos": "adjective", "d": ["Held up or aloft.", "Maintained in force; sustained, as a court decision."], "src": "iwb"}
+{"w": "upher", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uphill", "pos": "adjective", "d": ["Going up a hill; ascending.", "Requiring great effort; difficult."], "src": "iwb"}
+{"w": "uphilt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uphoard", "pos": "verb", "d": ["To hoard or store up for future use."], "src": "iwb"}
+{"w": "uphold", "pos": "verb", "d": ["To hold up; to support or sustain.", "To maintain or defend, as a principle, law, or decision."], "src": "iwb"}
+{"w": "upholster", "pos": "verb", "d": ["To furnish with upholstery; to cover furniture with padding, springs, and fabric."], "src": "iwb"}
+{"w": "upholstery", "pos": "noun", "d": ["The materials used in upholstering furniture, such as padding, springs, and fabric.", "The trade or work of upholstering."], "src": "iwb"}
+{"w": "uphroe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upkeep", "pos": "noun", "d": ["The act of keeping in good repair; maintenance.", "The cost or expense of maintaining something."], "src": "iwb"}
+{"w": "upland", "pos": "noun", "d": ["High land above the surrounding lowlands; a region of hills or plateaus.", "The interior high country of a region."], "src": "iwb"}
+{"w": "uplay", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uplead", "pos": "verb", "d": ["To lead or conduct upward."], "src": "iwb"}
+{"w": "uplean", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uplift", "pos": "verb", "d": ["To lift or raise up.", "To raise to a higher moral, spiritual, or social level."], "src": "iwb"}
+{"w": "uplock", "pos": "verb", "d": ["To lock up; to secure with a lock."], "src": "iwb"}
+{"w": "uplook", "pos": "noun", "d": ["An upward look; a glance directed above."], "src": "iwb"}
+{"w": "upmost", "pos": "adjective", "d": ["Highest in place or rank; topmost."], "src": "iwb"}
+{"w": "upokororo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uppent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uppertendom", "pos": "noun", "d": ["The upper classes of society collectively; the aristocracy."], "src": "iwb"}
+{"w": "uppile", "pos": "verb", "d": ["To pile up; to heap together."], "src": "iwb"}
+{"w": "uppish", "pos": "adjective", "d": ["Self-important and snobbish; putting on airs.", "Given to treating others as inferiors."], "src": "iwb"}
+{"w": "upplight", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uppluck", "pos": "verb", "d": ["To pluck up; to pull up by the roots."], "src": "iwb"}
+{"w": "uppricked", "pos": "adjective", "d": ["Pricked up, as the ears of a listening animal."], "src": "iwb"}
+{"w": "upprop", "pos": "verb", "d": ["To prop up; to support with a prop."], "src": "iwb"}
+{"w": "upraise", "pos": "verb", "d": ["To raise up; to lift aloft."], "src": "iwb"}
+{"w": "uprear", "pos": "verb", "d": ["To rear up; to raise aloft.", "To rise on the hind legs, as a horse does."], "src": "iwb"}
+{"w": "upridged", "pos": "adjective", "d": ["Thrown up into ridges; ridged upward."], "src": "iwb"}
+{"w": "upright", "pos": "adjective", "d": ["Standing erect; vertical.", "Honest and honorable in character."], "src": "iwb"}
+{"w": "uprighteously", "pos": "adverb", "d": ["In an upright or righteous manner."], "src": "iwb"}
+{"w": "uprise", "pos": "verb", "d": ["To rise up; to get up from a lower position.", "To rise in revolt against authority."], "src": "iwb"}
+{"w": "uprist", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uproar", "pos": "noun", "d": ["A loud, confused noise; a tumult.", "A public disturbance or angry outcry."], "src": "iwb"}
+{"w": "uproarious", "pos": "adjective", "d": ["Making or marked by an uproar; very noisy.", "Extremely funny; provoking loud laughter."], "src": "iwb"}
+{"w": "uproll", "pos": "verb", "d": ["To roll up; to wind into a roll."], "src": "iwb"}
+{"w": "uproot", "pos": "verb", "d": ["To tear up by the roots.", "To remove or displace completely from a home or position."], "src": "iwb"}
+{"w": "uprouse", "pos": "verb", "d": ["To rouse up; to awaken or stir into action."], "src": "iwb"}
+{"w": "uprun", "pos": "verb", "d": ["To run up; to ascend by running."], "src": "iwb"}
+{"w": "uprush", "pos": "verb", "d": ["To rush or surge upward."], "src": "iwb"}
+{"w": "upsarokas", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upseek", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upsend", "pos": "verb", "d": ["To send up; to cause to rise or ascend."], "src": "iwb"}
+{"w": "upset", "pos": "adjective", "d": ["Overturned; knocked over.", "Disturbed in mind; emotionally troubled.", "Disturbed in the stomach; queasy."], "src": "iwb"}
+{"w": "upsetting thermometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upshoot", "pos": "verb", "d": ["To shoot or sprout upward; to grow up rapidly."], "src": "iwb"}
+{"w": "upshot", "pos": "noun", "d": ["The final outcome or conclusion of a matter."], "src": "iwb"}
+{"w": "upside", "pos": "noun", "d": ["The upper side or surface of something.", "A positive or favorable aspect of a situation."], "src": "iwb"}
+{"w": "upsidown", "pos": "adjective", "d": ["Upside down; turned over with the top underneath."], "src": "iwb"}
+{"w": "upsilon", "pos": "noun", "d": ["The twentieth letter of the Greek alphabet."], "src": "iwb"}
+{"w": "upsitting", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upskip", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upsnatch", "pos": "verb", "d": ["To snatch up; to seize quickly and eagerly."], "src": "iwb"}
+{"w": "upsoar", "pos": "verb", "d": ["To soar upward; to rise high into the air."], "src": "iwb"}
+{"w": "upsodown", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upspear", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upspring", "pos": "verb", "d": ["To spring up; to rise or appear suddenly."], "src": "iwb"}
+{"w": "upspurner", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upstairs", "pos": "adverb", "d": ["Up the stairs; to or on an upper floor."], "src": "iwb"}
+{"w": "upstand", "pos": "verb", "d": ["To stand up; to rise to one's feet."], "src": "iwb"}
+{"w": "upstare", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upstart", "pos": "noun", "d": ["A person who has suddenly risen to wealth or power and behaves with arrogant presumption."], "src": "iwb"}
+{"w": "upstay", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upsterte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upstir", "pos": "verb", "d": ["To stir up; to rouse or excite."], "src": "iwb"}
+{"w": "upstream", "pos": "adverb", "d": ["Against the current; toward the source of a stream.", "At an earlier stage of a process or supply chain."], "src": "iwb"}
+{"w": "upstreet", "pos": "adverb", "d": ["Up the street; toward the upper end of the street."], "src": "iwb"}
+{"w": "upstroke", "pos": "noun", "d": ["An upward stroke, as of a pen, brush, or oar."], "src": "iwb"}
+{"w": "upsun", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "upswarm", "pos": "verb", "d": ["To swarm upward; to rise in a crowded mass."], "src": "iwb"}
+{"w": "upsway", "pos": "verb", "d": ["To sway or swing upward."], "src": "iwb"}
+{"w": "upswell", "pos": "verb", "d": ["To swell up; to rise in a swell."], "src": "iwb"}
+{"w": "upsyturvy", "pos": "adjective", "d": ["Topsy-turvy; in complete disorder or confusion."], "src": "iwb"}
+{"w": "uptails all", "pos": "phrase", "d": ["In complete confusion or disorder; everything thrown into a tangle."], "src": "iwb"}
+{"w": "uptake", "pos": "noun", "d": ["The act of taking up; absorption.", "Mental grasp; quickness of understanding."], "src": "iwb"}
+{"w": "uptear", "pos": "verb", "d": ["To tear up; to rip or pull apart."], "src": "iwb"}
+{"w": "upthrow", "pos": "verb", "d": ["To throw up; to toss upward."], "src": "iwb"}
+{"w": "upthunder", "pos": "verb", "d": ["To send up with a thunderous sound; to thunder aloft."], "src": "iwb"}
+{"w": "uptie", "pos": "verb", "d": ["To tie up; to fasten or secure with a tie."], "src": "iwb"}
+{"w": "uptill", "pos": "preposition", "d": ["Until; up to the time of."], "src": "iwb"}
+{"w": "uptown", "pos": "adverb", "d": ["Toward or in the upper part of a town or city."], "src": "iwb"}
+{"w": "uptrace", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uptrain", "pos": "noun", "d": ["A train running in the 'up' direction of a railway line, usually toward the principal city or terminus."], "src": "iwb"}
+{"w": "upturn", "pos": "noun", "d": ["An upward movement or improvement, especially in trade or business.", "An upward turn or bend of a road or path."], "src": "iwb"}
+{"w": "upupa", "pos": "noun", "d": ["A genus of brightly colored Old World birds, the hoopoes, known for their fan-shaped crests."], "src": "iwb"}
+{"w": "upwaft", "pos": "verb", "d": ["To carry or rise upward on a current of air."], "src": "iwb"}
+{"w": "upward", "pos": "adverb", "d": ["Toward a higher place, level, or amount."], "src": "iwb"}
+{"w": "upwhirl", "pos": "noun", "d": ["An upward-spiraling column of air, dust, or smoke."], "src": "iwb"}
+{"w": "upwind", "pos": "adverb", "d": ["In the direction from which the wind blows; against the wind."], "src": "iwb"}
+{"w": "upwreath", "pos": "verb", "d": ["To curl or rise upward in wreathlike spirals, as smoke does."], "src": "iwb"}
+{"w": "upyat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "urachus", "pos": "noun", "d": ["A fibrous cord in the fetus that connects the bladder to the navel and later becomes a ligament."], "src": "iwb"}
+{"w": "uraemia", "pos": "noun", "d": ["A dangerous condition in which waste products that the kidneys fail to remove, especially urea, build up in the blood."], "src": "iwb"}
+{"w": "uraemic", "pos": "adjective", "d": ["Of or relating to uraemia.", "Affected by uraemia."], "src": "iwb"}
+{"w": "uraeum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uraeus", "pos": "noun", "d": ["The figure of a rearing cobra worn on the headdress of ancient Egyptian kings as a sign of royal power."], "src": "iwb"}
+{"w": "ural", "pos": "adjective", "d": ["Of or relating to the Ural Mountains of Russia or to the peoples of that region."], "src": "iwb"}
+{"w": "ural-altaic", "pos": "adjective", "d": ["Of or relating to the Uralic and Altaic language families taken as one group, a grouping once proposed by scholars."], "src": "iwb"}
+{"w": "urali", "pos": "noun", "d": ["A potent arrow poison of South America prepared from plant extracts, related to curare."], "src": "iwb"}
+{"w": "uralian", "pos": "adjective", "d": ["Of or relating to the Ural Mountains or the Ural region."], "src": "iwb"}
+{"w": "uralite", "pos": "noun", "d": ["A greenish mineral formed when pyroxene changes into amphibole while keeping the shape of the original crystal."], "src": "iwb"}
+{"w": "uralitization", "pos": "noun", "d": ["The natural process by which pyroxene changes into the mineral uralite."], "src": "iwb"}
+{"w": "uramil", "pos": "noun", "d": ["A colorless crystalline organic compound formed by the reduction of alloxan, related to the barbiturates."], "src": "iwb"}
+{"w": "uran-ocher", "pos": "noun", "d": ["A soft yellow powdery uranium mineral formed by the weathering and decay of uranium ores."], "src": "iwb"}
+{"w": "uran-ochre", "pos": "noun", "d": ["A yellowish ocherlike uranium mineral formed by the weathering of uraninite."], "src": "iwb"}
+{"w": "uran-utan", "pos": "noun", "d": ["A large long-armed ape of the forests of Borneo and Sumatra; an orangutan."], "src": "iwb"}
+{"w": "uranate", "pos": "noun", "d": ["A chemical compound formed when uranic acid joins with a base; a salt containing uranium."], "src": "iwb"}
+{"w": "urania", "pos": "noun", "d": ["A genus of large, brightly colored day-flying moths of the tropics.", "The ancient Greek muse of astronomy."], "src": "iwb"}
+{"w": "uranian", "pos": "adjective", "d": ["Of or relating to the planet Uranus."], "src": "iwb"}
+{"w": "uranic", "pos": "adjective", "d": ["Containing uranium in its higher valence state.", "Relating to the sky or the planet Uranus."], "src": "iwb"}
+{"w": "uranin", "pos": "noun", "d": ["The sodium salt of fluorescein, a yellow-green fluorescent dye used as a tracer in water and in leak detection."], "src": "iwb"}
+{"w": "uraninite", "pos": "noun", "d": ["A dense black radioactive mineral consisting mostly of uranium oxide; the chief ore of uranium."], "src": "iwb"}
+{"w": "uraniscoplasty", "pos": "noun", "d": ["Surgical repair of a defect in the roof of the mouth; plastic surgery of the palate."], "src": "iwb"}
+{"w": "uraniscoraphy", "pos": "noun", "d": ["Surgical stitching of a cleft or opening in the palate."], "src": "iwb"}
+{"w": "uraniscorrhaphy", "pos": "noun", "d": ["The surgical stitching together of a cleft in the palate."], "src": "iwb"}
+{"w": "uranite", "pos": "noun", "d": ["A name for certain green or yellow water-bearing uranium phosphate minerals, especially torbernite and autunite."], "src": "iwb"}
+{"w": "uranitic", "pos": "adjective", "d": ["Of, relating to, or containing uranium."], "src": "iwb"}
+{"w": "uranium", "pos": "noun", "d": ["A heavy silvery-white radioactive metal, element number 92, used as the main fuel for nuclear reactors."], "src": "iwb"}
+{"w": "uranographic", "pos": "adjective", "d": ["Of or relating to uranography; describing or mapping the heavens."], "src": "iwb"}
+{"w": "uranographist", "pos": "noun", "d": ["One who maps or describes the stars and constellations; an astronomical cartographer."], "src": "iwb"}
+{"w": "uranography", "pos": "noun", "d": ["The descriptive branch of astronomy that charts and describes the heavens."], "src": "iwb"}
+{"w": "uranolite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uranology", "pos": "noun", "d": ["The study of the heavens and heavenly bodies; astronomy."], "src": "iwb"}
+{"w": "uranometria", "pos": "noun", "d": ["A map or atlas of the stars and constellations."], "src": "iwb"}
+{"w": "uranometry", "pos": "noun", "d": ["The measurement of the heavens; the branch of astronomy that measures the positions and distances of stars."], "src": "iwb"}
+{"w": "uranoplasty", "pos": "noun", "d": ["Plastic surgery to repair a defect in the palate."], "src": "iwb"}
+{"w": "uranoscopy", "pos": "noun", "d": ["Examination of the roof of the mouth, the palate."], "src": "iwb"}
+{"w": "uranoso-", "pos": "prefix", "d": ["A combining form meaning uranium in its lower valence state."], "src": "iwb"}
+{"w": "uranous", "pos": "adjective", "d": ["Of or containing uranium in its lower valence state."], "src": "iwb"}
+{"w": "uranus", "pos": "noun", "d": ["The seventh planet from the sun, a distant gas giant that spins on its side with a strongly tilted axis.", "In Greek myth, the personification of the sky, husband of Gaea."], "src": "iwb"}
+{"w": "uranyl", "pos": "noun", "d": ["A group of one uranium atom and two oxygen atoms that acts as a single unit in uranium salts."], "src": "iwb"}
+{"w": "urao", "pos": "noun", "d": ["A natural mineral of sodium carbonate found in the waters and salt deposits of a lake in Venezuela."], "src": "iwb"}
+{"w": "urare", "pos": "noun", "d": ["A South American arrow poison prepared from certain plants; a form of curare."], "src": "iwb"}
+{"w": "urari", "pos": "noun", "d": ["A potent arrow poison of tropical South America prepared from plant juices; curare."], "src": "iwb"}
+{"w": "urate", "pos": "noun", "d": ["A salt of uric acid."], "src": "iwb"}
+{"w": "uratic", "pos": "adjective", "d": ["Of or relating to urates or to uric acid."], "src": "iwb"}
+{"w": "urbane", "pos": "adjective", "d": ["Polished and courteous in manner; showing refined ease in social life."], "src": "iwb"}
+{"w": "urbaniste", "pos": "noun", "d": ["A specialist in the planning and design of cities and towns; an urban planner."], "src": "iwb"}
+{"w": "urbicolae", "pos": "noun", "d": ["Animals or plants that dwell in towns or cities."], "src": "iwb"}
+{"w": "urbicolous", "pos": "adjective", "d": ["Living or growing in towns or cities."], "src": "iwb"}
+{"w": "urcelate", "pos": "adjective", "d": ["Shaped like a small urn or pitcher."], "src": "iwb"}
+{"w": "urceolar", "pos": "adjective", "d": ["Relating to or having the shape of a small pitcher."], "src": "iwb"}
+{"w": "urceolate", "pos": "adjective", "d": ["Urner-shaped; shaped like an urn or a pitcher."], "src": "iwb"}
+{"w": "urceole", "pos": "noun", "d": ["A small urn-shaped vessel or structure."], "src": "iwb"}
+{"w": "urceolus", "pos": "noun", "d": ["A small urn-shaped structure or part."], "src": "iwb"}
+{"w": "urchin", "pos": "noun", "d": ["A mischievous or raggedly dressed young child.", "A short name for a sea urchin, the spiny round sea animal."], "src": "iwb"}
+{"w": "urchon", "pos": "noun", "d": ["A hedgehog; an old form of the word urchin."], "src": "iwb"}
+{"w": "urdu", "pos": "noun", "d": ["An Indo-Aryan language of Pakistan and northern India, written in a form of the Arabic script.", "The official national language of Pakistan."], "src": "iwb"}
+{"w": "ure", "pos": "noun", "d": ["An old word meaning use, practice, or habit, as in the phrase 'in ure' meaning in use."], "src": "iwb"}
+{"w": "urea", "pos": "noun", "d": ["The main nitrogen waste product carried in urine, formed when the body breaks down proteins."], "src": "iwb"}
+{"w": "urechitoxin", "pos": "noun", "d": ["A poisonous crystalline substance obtained from the leaves of certain tropical American shrubs."], "src": "iwb"}
+{"w": "uredo", "pos": "noun", "d": ["A pustule of rust-colored spores that a rust fungus forms on a plant leaf.", "A genus of such rust fungi."], "src": "iwb"}
+{"w": "ureter", "pos": "noun", "d": ["The narrow tube that carries urine from each kidney down to the bladder."], "src": "iwb"}
+{"w": "ureteritis", "pos": "noun", "d": ["Inflammation of a ureter."], "src": "iwb"}
+{"w": "urethra", "pos": "noun", "d": ["The canal through which urine passes out of the body from the bladder."], "src": "iwb"}
+{"w": "urethral", "pos": "adjective", "d": ["Of or relating to the urethra."], "src": "iwb"}
+{"w": "urethritis", "pos": "noun", "d": ["Inflammation of the urethra."], "src": "iwb"}
+{"w": "urethroplasty", "pos": "noun", "d": ["Surgical repair or rebuilding of the urethra."], "src": "iwb"}
+{"w": "urethroscope", "pos": "noun", "d": ["A slender instrument for viewing the inside of the urethra."], "src": "iwb"}
+{"w": "urethroscopy", "pos": "noun", "d": ["Examination of the urethra by means of a urethroscope."], "src": "iwb"}
+{"w": "urethrotome", "pos": "noun", "d": ["A surgical knife used to cut a narrowing or stricture of the urethra."], "src": "iwb"}
+{"w": "urethrotomy", "pos": "noun", "d": ["Surgical cutting into the urethra, usually to open a stricture."], "src": "iwb"}
+{"w": "urgence", "pos": "noun", "d": ["Urgency; pressing need or importance."], "src": "iwb"}
+{"w": "urgency", "pos": "noun", "d": ["The quality of needing immediate action or attention.", "An urgent matter; a pressing need."], "src": "iwb"}
+{"w": "uric", "pos": "adjective", "d": ["Of, relating to, or derived from urine or from uric acid."], "src": "iwb"}
+{"w": "urim", "pos": "noun", "d": ["One of the sacred lots worn by the ancient Hebrew high priest to discover the divine will, usually named with the Thummim."], "src": "iwb"}
+{"w": "urinal", "pos": "noun", "d": ["A wall fixture in which men urinate.", "A portable vessel for receiving urine, used by the sick."], "src": "iwb"}
+{"w": "urinarium", "pos": "noun", "d": ["A public place fitted with urinals."], "src": "iwb"}
+{"w": "urinary", "pos": "adjective", "d": ["Of or relating to urine or to the organs that form and carry it."], "src": "iwb"}
+{"w": "urinate", "pos": "verb", "d": ["To pass urine out of the body."], "src": "iwb"}
+{"w": "urination", "pos": "noun", "d": ["The act or process of passing urine."], "src": "iwb"}
+{"w": "urinative", "pos": "adjective", "d": ["Of or relating to urination; tending to cause the passing of urine."], "src": "iwb"}
+{"w": "urinator", "pos": "noun", "d": ["One who urinates.", "An old word for a diver, one who goes under water."], "src": "iwb"}
+{"w": "urine", "pos": "noun", "d": ["The yellowish liquid waste filtered from the blood by the kidneys and passed from the body."], "src": "iwb"}
+{"w": "uriniferous", "pos": "adjective", "d": ["Carrying or conveying urine, as the tiny tubules of the kidney do."], "src": "iwb"}
+{"w": "uriniparous", "pos": "adjective", "d": ["Producing or giving off urine."], "src": "iwb"}
+{"w": "urinogenital", "pos": "adjective", "d": ["Of or relating to both the urinary and the genital organs; urogenital."], "src": "iwb"}
+{"w": "urinometer", "pos": "noun", "d": ["An instrument for measuring the specific gravity, or density, of urine."], "src": "iwb"}
+{"w": "urinometry", "pos": "noun", "d": ["The measurement of urine, especially of its specific gravity."], "src": "iwb"}
+{"w": "urinose", "pos": "adjective", "d": ["Smelling of urine; resembling urine in odor."], "src": "iwb"}
+{"w": "urinous", "pos": "adjective", "d": ["Of the nature of urine; containing urine or like urine."], "src": "iwb"}
+{"w": "urite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "urith", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "urn", "pos": "noun", "d": ["A tall vase, often with a lid, used especially to hold the ashes of a cremated person.", "A large metal container with a tap for serving hot drinks."], "src": "iwb"}
+{"w": "urn-shaped", "pos": "adjective", "d": ["Shaped like an urn, with a narrow neck and a rounded body."], "src": "iwb"}
+{"w": "uro-", "pos": "prefix", "d": ["A prefix meaning urine or the urinary tract, as in urology."], "src": "iwb"}
+{"w": "urobilin", "pos": "noun", "d": ["A yellow pigment in urine formed from the breakdown of hemoglobin."], "src": "iwb"}
+{"w": "urocele", "pos": "noun", "d": ["A swelling of the scrotum caused by urine leaking into its tissues."], "src": "iwb"}
+{"w": "urocerata", "pos": "noun", "d": ["The horntails, a family of wasps that bore into wood."], "src": "iwb"}
+{"w": "urochord", "pos": "noun", "d": ["The notochord confined to the tail of a tunicate larva, as in sea squirts."], "src": "iwb"}
+{"w": "urochorda", "pos": "noun", "d": ["The tunicates, a group of sea animals whose larvae have a tail notochord, including sea squirts."], "src": "iwb"}
+{"w": "urochrome", "pos": "noun", "d": ["The yellow pigment that gives urine its normal color."], "src": "iwb"}
+{"w": "urochs", "pos": "noun", "d": ["An old spelling of aurochs, the extinct wild ox of Europe."], "src": "iwb"}
+{"w": "urocord", "pos": "noun", "d": ["A variant of urochord, the tail notochord of a tunicate larva."], "src": "iwb"}
+{"w": "urocyst", "pos": "noun", "d": ["A sac or pouch in an animal that holds urine."], "src": "iwb"}
+{"w": "urodela", "pos": "noun", "d": ["The order of tailed amphibians, including salamanders and newts."], "src": "iwb"}
+{"w": "urodele", "pos": "noun", "d": ["A salamander or newt; a member of the order Urodela."], "src": "iwb"}
+{"w": "urodelian", "pos": "adjective", "d": ["Relating to urodeles; salamander-like."], "src": "iwb"}
+{"w": "uroerythrin", "pos": "noun", "d": ["A red pigment sometimes found in urine."], "src": "iwb"}
+{"w": "urogastric", "pos": "adjective", "d": ["Relating to the urinary organs and the stomach."], "src": "iwb"}
+{"w": "urogenital", "pos": "adjective", "d": ["Relating to the urinary and reproductive organs taken together."], "src": "iwb"}
+{"w": "uroglaucin", "pos": "noun", "d": ["A blue pigment sometimes found in urine."], "src": "iwb"}
+{"w": "urohaematin", "pos": "noun", "d": ["A red pigment found in urine, related to uroerythrin."], "src": "iwb"}
+{"w": "urohyal", "pos": "noun", "d": ["A bone at the back of the tongue or throat of a fish."], "src": "iwb"}
+{"w": "urology", "pos": "noun", "d": ["The branch of medicine dealing with the urinary tract and the male reproductive organs."], "src": "iwb"}
+{"w": "uromere", "pos": "noun", "d": ["One of the segments forming the abdomen of an insect or other arthropod."], "src": "iwb"}
+{"w": "uronology", "pos": "noun", "d": ["The study of urine, especially as used in diagnosing disease."], "src": "iwb"}
+{"w": "uropod", "pos": "noun", "d": ["One of a pair of appendages near the tail of a crustacean such as a shrimp."], "src": "iwb"}
+{"w": "uropoetic", "pos": "adjective", "d": ["Producing urine."], "src": "iwb"}
+{"w": "uropygial", "pos": "adjective", "d": ["Relating to the rump of a bird."], "src": "iwb"}
+{"w": "uropygium", "pos": "noun", "d": ["The rump of a bird, where the tail feathers are attached."], "src": "iwb"}
+{"w": "urosacral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uroscopy", "pos": "noun", "d": ["The examination of urine as an aid to diagnosis."], "src": "iwb"}
+{"w": "urosome", "pos": "noun", "d": ["The abdomen or hind part of the body of a crustacean."], "src": "iwb"}
+{"w": "urostege", "pos": "noun", "d": ["One of the broad scales on the underside of a snake's tail."], "src": "iwb"}
+{"w": "urosteon", "pos": "noun", "d": ["The hindmost bone of the breastbone of a bird."], "src": "iwb"}
+{"w": "urosternite", "pos": "noun", "d": ["The plate on the underside of one of the abdominal segments of an insect or other arthropod."], "src": "iwb"}
+{"w": "urostyle", "pos": "noun", "d": ["The slender rod-like bone at the end of the backbone of a frog."], "src": "iwb"}
+{"w": "urox", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uroxanate", "pos": "noun", "d": ["A salt of uroxanic acid."], "src": "iwb"}
+{"w": "uroxanic", "pos": "adjective", "d": ["Relating to uroxanic acid, a compound derived from uric acid."], "src": "iwb"}
+{"w": "uroxanthin", "pos": "noun", "d": ["The yellow pigment of urine; urochrome."], "src": "iwb"}
+{"w": "urrhodin", "pos": "noun", "d": ["A red pigment sometimes found in urine."], "src": "iwb"}
+{"w": "urry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ursa", "pos": "noun", "d": ["A female bear.", "Ursa Major and Ursa Minor, the constellations of the Great Bear and Little Bear."], "src": "iwb"}
+{"w": "ursal", "pos": "adjective", "d": ["Relating to bears."], "src": "iwb"}
+{"w": "ursiform", "pos": "adjective", "d": ["Shaped like a bear."], "src": "iwb"}
+{"w": "ursine", "pos": "adjective", "d": ["Like a bear in form or nature."], "src": "iwb"}
+{"w": "urson", "pos": "noun", "d": ["The Canadian porcupine."], "src": "iwb"}
+{"w": "ursuk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ursula", "pos": "noun", "d": ["A woman's given name."], "src": "iwb"}
+{"w": "ursuline", "pos": "noun", "d": ["A nun of the Roman Catholic order founded under the patronage of Saint Ursula."], "src": "iwb"}
+{"w": "ursus", "pos": "noun", "d": ["The scientific name for the genus of bears."], "src": "iwb"}
+{"w": "urtica", "pos": "noun", "d": ["The nettles, a genus of plants that sting when touched."], "src": "iwb"}
+{"w": "urticaceous", "pos": "adjective", "d": ["Relating to the nettle family of plants."], "src": "iwb"}
+{"w": "urtical", "pos": "adjective", "d": ["Relating to nettles."], "src": "iwb"}
+{"w": "urticaria", "pos": "noun", "d": ["Hives; an itchy rash of raised red welts on the skin."], "src": "iwb"}
+{"w": "urticate", "pos": "verb", "d": ["To sting or irritate the skin like a nettle."], "src": "iwb"}
+{"w": "urubu", "pos": "noun", "d": ["A black vulture of South America."], "src": "iwb"}
+{"w": "urus", "pos": "noun", "d": ["The aurochs, the extinct wild ox of Europe."], "src": "iwb"}
+{"w": "urva", "pos": "noun", "d": ["The crab-eating mongoose of southern Asia."], "src": "iwb"}
+{"w": "usable", "pos": "adjective", "d": ["Able to be used; fit for use."], "src": "iwb"}
+{"w": "usance", "pos": "noun", "d": ["The customary time allowed for paying a bill of exchange.", "Old use; custom."], "src": "iwb"}
+{"w": "usant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "usbegs", "pos": "noun", "d": ["An older spelling of Uzbeks, the people of Uzbekistan."], "src": "iwb"}
+{"w": "usbeks", "pos": "noun", "d": ["An older spelling of Uzbeks, the people of Uzbekistan."], "src": "iwb"}
+{"w": "usher", "pos": "noun", "d": ["A person who shows people to their seats in a theater, church, or court.", "To escort or guide someone into a place."], "src": "iwb"}
+{"w": "usitative", "pos": "adjective", "d": ["In grammar, expressing habitual or repeated action."], "src": "iwb"}
+{"w": "usnea", "pos": "noun", "d": ["Beard lichen; a genus of grayish lichens that hang from trees in long strands."], "src": "iwb"}
+{"w": "usnic", "pos": "adjective", "d": ["Relating to usnic acid, a substance found in lichens."], "src": "iwb"}
+{"w": "usquebaugh", "pos": "noun", "d": ["Whiskey, especially Irish or Scottish whiskey."], "src": "iwb"}
+{"w": "usself", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "ustion", "pos": "noun", "d": ["A burn; the act of burning."], "src": "iwb"}
+{"w": "ustorious", "pos": "adjective", "d": ["Relating to burning; caustic."], "src": "iwb"}
+{"w": "ustulate", "pos": "adjective", "d": ["Browned or darkened as if slightly scorched."], "src": "iwb"}
+{"w": "ustulation", "pos": "noun", "d": ["The act of scorching or roasting with heat."], "src": "iwb"}
+{"w": "usucaption", "pos": "noun", "d": ["In Roman law, the gaining of ownership through long, unchallenged possession."], "src": "iwb"}
+{"w": "usufruct", "pos": "noun", "d": ["The legal right to use and enjoy another person's property without destroying it."], "src": "iwb"}
+{"w": "usufructuary", "pos": "noun", "d": ["A person who holds a usufruct."], "src": "iwb"}
+{"w": "usurary", "pos": "adjective", "d": ["Relating to usury or to a usurer."], "src": "iwb"}
+{"w": "usure", "pos": "noun", "d": ["An archaic word for usury."], "src": "iwb"}
+{"w": "usurp", "pos": "verb", "d": ["To seize power or a position wrongfully, without right."], "src": "iwb"}
+{"w": "usurpatory", "pos": "adjective", "d": ["Involving or marked by usurpation."], "src": "iwb"}
+{"w": "usurpature", "pos": "noun", "d": ["The act of usurping."], "src": "iwb"}
+{"w": "usurpingly", "pos": "adverb", "d": ["In a manner that seizes power or position wrongfully."], "src": "iwb"}
+{"w": "usury", "pos": "noun", "d": ["The practice of lending money at an unfairly high rate of interest."], "src": "iwb"}
+{"w": "utas", "pos": "noun", "d": ["In the church calendar, the eighth day after a feast, completing its octave."], "src": "iwb"}
+{"w": "utensil", "pos": "noun", "d": ["A tool or instrument used for a practical purpose, especially in cooking or eating."], "src": "iwb"}
+{"w": "uterine", "pos": "adjective", "d": ["Relating to the uterus."], "src": "iwb"}
+{"w": "utero", "pos": "noun", "d": ["The womb, as in the phrase in utero, meaning inside the womb."], "src": "iwb"}
+{"w": "uterus", "pos": "noun", "d": ["The womb; the organ in which a fetus develops before birth."], "src": "iwb"}
+{"w": "uti possidetis", "pos": "phrase", "d": ["A principle of international law holding that a new state keeps the borders it held before independence."], "src": "iwb"}
+{"w": "utia", "pos": "noun", "d": ["A hutia, a burrowing rodent of the West Indies."], "src": "iwb"}
+{"w": "utica", "pos": "noun", "d": ["A city in New York state.", "An ancient city on the coast of North Africa."], "src": "iwb"}
+{"w": "utile", "pos": "adjective", "d": ["Useful or beneficial."], "src": "iwb"}
+{"w": "utilitarian", "pos": "adjective", "d": ["Designed to be useful rather than attractive.", "Relating to the belief that right actions are those that produce the greatest happiness."], "src": "iwb"}
+{"w": "utis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "utlary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "utmost", "pos": "adjective", "d": ["The greatest possible; of the highest degree.", "Farthest; most distant."], "src": "iwb"}
+{"w": "utopia", "pos": "noun", "d": ["An imagined place where everything is perfect, especially a perfect society."], "src": "iwb"}
+{"w": "utopian", "pos": "adjective", "d": ["Relating to a utopia; ideally perfect but not practical."], "src": "iwb"}
+{"w": "utopical", "pos": "adjective", "d": ["Relating to an imagined ideal society; utopian."], "src": "iwb"}
+{"w": "utopist", "pos": "noun", "d": ["A person who advocates or dreams of a perfect, ideal society."], "src": "iwb"}
+{"w": "utraquist", "pos": "noun", "d": ["A member of a 15th-century Bohemian religious party that insisted the laity receive communion in both bread and wine."], "src": "iwb"}
+{"w": "utricle", "pos": "noun", "d": ["A small saclike structure, especially the organ of balance in the inner ear.", "In certain plants, a tiny bladder that traps small insects or water creatures."], "src": "iwb"}
+{"w": "utricular", "pos": "adjective", "d": ["Relating to or resembling a utricle."], "src": "iwb"}
+{"w": "utricularia", "pos": "noun", "d": ["A genus of carnivorous plants, the bladderworts, which catch tiny water animals in small underwater bladders."], "src": "iwb"}
+{"w": "utriculate", "pos": "adjective", "d": ["Shaped like a small bladder; furnished with utricles."], "src": "iwb"}
+{"w": "utriculoid", "pos": "adjective", "d": ["Resembling a utricle."], "src": "iwb"}
+{"w": "utriculus", "pos": "noun", "d": ["The utricle of the inner ear, a small sac that helps sense gravity and head movement."], "src": "iwb"}
+{"w": "utro", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "utro-", "pos": "prefix", "d": ["A combining form meaning uterus."], "src": "iwb"}
+{"w": "uva", "pos": "noun", "d": ["A grape, or anything shaped like a bunch of grapes."], "src": "iwb"}
+{"w": "uva-ursi", "pos": "noun", "d": ["The bearberry, an evergreen shrub whose leaves have long been used as an herbal remedy for bladder troubles."], "src": "iwb"}
+{"w": "uvate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uvea", "pos": "noun", "d": ["The middle coat of the eyeball, made up of the iris, the ciliary body, and the choroid."], "src": "iwb"}
+{"w": "uveous", "pos": "adjective", "d": ["Relating to the uvea."], "src": "iwb"}
+{"w": "uvic", "pos": "adjective", "d": ["Of or derived from grapes."], "src": "iwb"}
+{"w": "uvitic", "pos": "adjective", "d": ["Relating to uvitic acid, a crystalline aromatic acid."], "src": "iwb"}
+{"w": "uvitonic", "pos": "adjective", "d": ["Relating to uvitonic acid, an acid derived from uvitic acid."], "src": "iwb"}
+{"w": "uvrou", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "uvula", "pos": "noun", "d": ["The small cone of flesh hanging down at the back of the throat."], "src": "iwb"}
+{"w": "uvular", "pos": "adjective", "d": ["Relating to the uvula.", "Denoting a speech sound produced at the back of the throat, near the uvula."], "src": "iwb"}
+{"w": "uvulatomy", "pos": "noun", "d": ["Surgical cutting into or removal of the uvula."], "src": "iwb"}
+{"w": "uvulitis", "pos": "noun", "d": ["Inflammation of the uvula."], "src": "iwb"}
+{"w": "uwarowite", "pos": "noun", "d": ["A green chromium-bearing variety of garnet, usually spelled uvarovite."], "src": "iwb"}
+{"w": "uxorial", "pos": "adjective", "d": ["Of or relating to a wife; wifely."], "src": "iwb"}
+{"w": "uxoricidal", "pos": "adjective", "d": ["Relating to the killing of a wife."], "src": "iwb"}
+{"w": "uxoricide", "pos": "noun", "d": ["The act of killing one's wife.", "A man who has killed his wife."], "src": "iwb"}
+{"w": "uxorious", "pos": "adjective", "d": ["Excessively fond of or submissive to one's wife."], "src": "iwb"}
+{"w": "uzema", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "v hook", "pos": "noun", "d": ["A hook bent into the shape of the letter V."], "src": "iwb"}
+{"w": "v moth", "pos": "noun", "d": ["A moth whose wings show a V-shaped mark."], "src": "iwb"}
+{"w": "vaagmer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vacancy", "pos": "noun", "d": ["A post, office, or room that is unfilled or unoccupied.", "The state of being empty or unoccupied."], "src": "iwb"}
+{"w": "vacant", "pos": "adjective", "d": ["Empty; not occupied or in use.", "Showing no expression or thought, as a vacant stare."], "src": "iwb"}
+{"w": "vacate", "pos": "verb", "d": ["To leave empty; to move out of.", "To make void; to set aside, as a court order."], "src": "iwb"}
+{"w": "vacatur", "pos": "noun", "d": ["The setting aside or annulment of a court judgment or order."], "src": "iwb"}
+{"w": "vaccary", "pos": "noun", "d": ["A pasture or farm for cows; a dairy farm."], "src": "iwb"}
+{"w": "vaccina", "pos": "noun", "d": ["Vaccine matter taken from cowpox, used for inoculation."], "src": "iwb"}
+{"w": "vaccinal", "pos": "adjective", "d": ["Relating to vaccination or to vaccine."], "src": "iwb"}
+{"w": "vaccinate", "pos": "verb", "d": ["To inoculate with a vaccine so as to build immunity against a disease."], "src": "iwb"}
+{"w": "vaccine point", "pos": "noun", "d": ["A small sharp instrument used to scratch vaccine matter into the skin."], "src": "iwb"}
+{"w": "vaccinia", "pos": "noun", "d": ["Cowpox, the mild disease once used to vaccinate against smallpox.", "The virus used in the smallpox vaccine."], "src": "iwb"}
+{"w": "vaccinist", "pos": "noun", "d": ["A person who performs vaccinations or advocates vaccination."], "src": "iwb"}
+{"w": "vaccinium", "pos": "noun", "d": ["A genus of shrubs including the blueberry, the cranberry, and the huckleberry."], "src": "iwb"}
+{"w": "vacher", "pos": "noun", "d": ["A keeper of cows; a cowherd."], "src": "iwb"}
+{"w": "vachery", "pos": "noun", "d": ["A place where cows are kept; a dairy farm."], "src": "iwb"}
+{"w": "vachette clasp", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vacillancy", "pos": "noun", "d": ["The state of wavering; indecision."], "src": "iwb"}
+{"w": "vacillant", "pos": "adjective", "d": ["Wavering; unsteady in purpose or opinion."], "src": "iwb"}
+{"w": "vacillate", "pos": "verb", "d": ["To waver between different opinions or courses of action."], "src": "iwb"}
+{"w": "vacillation", "pos": "noun", "d": ["The act of wavering; unsteadiness of mind or opinion."], "src": "iwb"}
+{"w": "vacillatory", "pos": "adjective", "d": ["Given to vacillating; unsteady."], "src": "iwb"}
+{"w": "vacuate", "pos": "verb", "d": ["To make empty; to empty out."], "src": "iwb"}
+{"w": "vacuation", "pos": "noun", "d": ["The act of emptying; the state of being emptied."], "src": "iwb"}
+{"w": "vacuist", "pos": "noun", "d": ["One who holds that a vacuum can exist."], "src": "iwb"}
+{"w": "vacuity", "pos": "noun", "d": ["Emptiness; an empty space.", "Lack of intelligence or thought; dullness."], "src": "iwb"}
+{"w": "vacuna", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vacuolated", "pos": "adjective", "d": ["Having or full of vacuoles."], "src": "iwb"}
+{"w": "vacuolation", "pos": "noun", "d": ["The formation of vacuoles within cells or tissue."], "src": "iwb"}
+{"w": "vacuole", "pos": "noun", "d": ["A small fluid-filled cavity within a living cell."], "src": "iwb"}
+{"w": "vacuometer", "pos": "noun", "d": ["An instrument for measuring the degree of vacuum."], "src": "iwb"}
+{"w": "vacuous", "pos": "adjective", "d": ["Empty; devoid of contents.", "Showing a lack of thought or intelligence; inane."], "src": "iwb"}
+{"w": "vacuum cleaner", "pos": "noun", "d": ["An electric appliance that cleans floors and surfaces by sucking up dirt and dust."], "src": "iwb"}
+{"w": "vadantes", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vade", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vade mecum", "pos": "noun", "d": ["A book or manual carried about for constant reference; literally, 'go with me.'"], "src": "iwb"}
+{"w": "vadimony", "pos": "noun", "d": ["A pledge or surety given in a legal proceeding; bail."], "src": "iwb"}
+{"w": "vadium", "pos": "noun", "d": ["A pledge or pawn; security given for a debt or obligation."], "src": "iwb"}
+{"w": "vae", "pos": "interjection", "d": ["An exclamation of woe or sorrow; alas."], "src": "iwb"}
+{"w": "vafrous", "pos": "adjective", "d": ["Crafty; sly; cunning."], "src": "iwb"}
+{"w": "vagabond", "pos": "noun", "d": ["A person who wanders from place to place with no settled home.", "Wandering from place to place; unsettled in habits."], "src": "iwb"}
+{"w": "vagabondry", "pos": "noun", "d": ["The life or practices of a vagabond; vagrancy."], "src": "iwb"}
+{"w": "vagal", "pos": "adjective", "d": ["Relating to the vagus nerve."], "src": "iwb"}
+{"w": "vagancy", "pos": "noun", "d": ["The state of being a vagrant; a wandering, unsettled life."], "src": "iwb"}
+{"w": "vagantes", "pos": "noun", "d": ["Wandering scholars or clerks of the Middle Ages."], "src": "iwb"}
+{"w": "vagary", "pos": "noun", "d": ["An odd, unpredictable notion or action; a whim.", "An erratic change or wandering from the usual course."], "src": "iwb"}
+{"w": "vagient", "pos": "adjective", "d": ["Crying or wailing like a young child."], "src": "iwb"}
+{"w": "vagina", "pos": "noun", "d": ["The canal leading from the uterus to the outside of the body in female mammals."], "src": "iwb"}
+{"w": "vaginal", "pos": "adjective", "d": ["Relating to the vagina.", "In botany, forming a sheath about a stem."], "src": "iwb"}
+{"w": "vaginant", "pos": "adjective", "d": ["Forming a sheath; sheathing, as the base of certain leaves."], "src": "iwb"}
+{"w": "vaginate", "pos": "adjective", "d": ["Enclosed in a sheath; sheathed."], "src": "iwb"}
+{"w": "vaginati", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vaginervose", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vaginicola", "pos": "noun", "d": ["A genus of microscopic stalked organisms that live inside tiny protective tubes."], "src": "iwb"}
+{"w": "vaginismus", "pos": "noun", "d": ["Painful involuntary spasm of the muscles around the vagina."], "src": "iwb"}
+{"w": "vaginitis", "pos": "noun", "d": ["Inflammation of the vagina."], "src": "iwb"}
+{"w": "vaginopennous", "pos": "adjective", "d": ["Having the wings enclosed in a sheath, as beetles."], "src": "iwb"}
+{"w": "vaginula", "pos": "noun", "d": ["A small sheath, especially the one at the base of the stalk in mosses."], "src": "iwb"}
+{"w": "vaginule", "pos": "noun", "d": ["A little sheath; the same as vaginula."], "src": "iwb"}
+{"w": "vagissate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vagous", "pos": "adjective", "d": ["Wandering; rambling; unsettled."], "src": "iwb"}
+{"w": "vagrancy", "pos": "noun", "d": ["The state of wandering without a home or visible means of support."], "src": "iwb"}
+{"w": "vagrant", "pos": "noun", "d": ["A person who wanders about with no settled home.", "Wandering; roaming without a fixed home."], "src": "iwb"}
+{"w": "vague", "pos": "adjective", "d": ["Not clearly expressed or defined; indistinct."], "src": "iwb"}
+{"w": "vagus", "pos": "noun", "d": ["The tenth cranial nerve, which runs from the brainstem down through the neck and chest to the abdomen."], "src": "iwb"}
+{"w": "vail", "pos": "verb", "d": ["To lower in token of respect or submission, as a flag, sail, or hat.", "A tip or gratuity formerly given to servants."], "src": "iwb"}
+{"w": "vaimure", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vain", "pos": "adjective", "d": ["Having no result; unsuccessful, as a vain effort.", "Excessively proud of one's looks or achievements; conceited."], "src": "iwb"}
+{"w": "vair", "pos": "noun", "d": ["A soft gray-and-white fur from a kind of squirrel, much used in medieval dress and in heraldry."], "src": "iwb"}
+{"w": "vairy", "pos": "adjective", "d": ["Marked with the vair fur pattern in heraldry, with alternating rows of colored and silver bell-shaped figures."], "src": "iwb"}
+{"w": "vaishnava", "pos": "noun", "d": ["A Hindu worshipper of Vishnu as the supreme god."], "src": "iwb"}
+{"w": "vaishnavism", "pos": "noun", "d": ["The worship of Vishnu as the supreme god within Hinduism."], "src": "iwb"}
+{"w": "vaisya", "pos": "noun", "d": ["A member of the Hindu caste of merchants, farmers, and traders."], "src": "iwb"}
+{"w": "vaivode", "pos": "noun", "d": ["A ruler, governor, or military commander; a variant spelling of voivode."], "src": "iwb"}
+{"w": "vakeel", "pos": "noun", "d": ["An agent, attorney, or legal representative in India."], "src": "iwb"}
+{"w": "valance", "pos": "noun", "d": ["A short hanging border of fabric draped along the top of a curtain, bed, or shelf."], "src": "iwb"}
+{"w": "vale", "pos": "noun", "d": ["A valley, especially a broad low one between hills."], "src": "iwb"}
+{"w": "valedictorian", "pos": "noun", "d": ["The graduate, usually the highest ranked in the class, who delivers the farewell speech at commencement."], "src": "iwb"}
+{"w": "valedictory", "pos": "adjective", "d": ["Relating to or spoken as a farewell, as in a valedictory address.", "A farewell speech delivered at a graduation ceremony."], "src": "iwb"}
+{"w": "valence", "pos": "noun", "d": ["The combining power of an atom, shown by the number of bonds it can form with other atoms.", "A short decorative hanging border; a variant spelling of valance."], "src": "iwb"}
+{"w": "valencia", "pos": "noun", "d": ["A city and region on the eastern coast of Spain.", "A sweet, juicy variety of orange named for that region."], "src": "iwb"}
+{"w": "valenciennes lace", "pos": "phrase", "d": ["A delicate bobbin lace with a flat braid pattern, originally made in Valenciennes, France."], "src": "iwb"}
+{"w": "valency", "pos": "noun", "d": ["The combining power of an atom; another word for valence."], "src": "iwb"}
+{"w": "valentia", "pos": "noun", "d": ["Valor or worthiness; an old word for courage."], "src": "iwb"}
+{"w": "valentinian", "pos": "noun", "d": ["Any of three Roman emperors named Valentinian who ruled in the fourth century."], "src": "iwb"}
+{"w": "valeramide", "pos": "noun", "d": ["The amide compound formed from valeric acid."], "src": "iwb"}
+{"w": "valerian", "pos": "noun", "d": ["A tall flowering plant whose strong-smelling roots are used as a mild sedative.", "The dried root of this plant, used in herbal medicine to calm the nerves."], "src": "iwb"}
+{"w": "valerianaceous", "pos": "adjective", "d": ["Belonging to the valerian family of flowering plants."], "src": "iwb"}
+{"w": "valeric", "pos": "adjective", "d": ["Relating to valerian or to valeric acid, a sharp-smelling fatty acid."], "src": "iwb"}
+{"w": "valeridine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "valerin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "valeritrine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "valero-", "pos": "prefix", "d": ["A prefix in chemical names meaning derived from or related to valeric acid."], "src": "iwb"}
+{"w": "valerone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "valeryl", "pos": "noun", "d": ["A chemical group derived from valeric acid, used in forming esters and amides."], "src": "iwb"}
+{"w": "valerylene", "pos": "noun", "d": ["A colorless, flammable hydrocarbon gas."], "src": "iwb"}
+{"w": "valet", "pos": "noun", "d": ["A personal servant who looks after a man's clothes and daily needs.", "An attendant who parks guests' cars at a hotel or restaurant."], "src": "iwb"}
+{"w": "valetudinarian", "pos": "noun", "d": ["A person in poor or delicate health; an invalid.", "A person who is constantly worried about being ill."], "src": "iwb"}
+{"w": "valetudinary", "pos": "noun", "d": ["A hospital or home for people in poor health."], "src": "iwb"}
+{"w": "valetudinous", "pos": "adjective", "d": ["Sickly or infirm in health."], "src": "iwb"}
+{"w": "valhalla", "pos": "noun", "d": ["In Norse mythology, the great hall where warriors slain in battle feast with Odin."], "src": "iwb"}
+{"w": "valiance", "pos": "noun", "d": ["Bold courage, especially in facing danger."], "src": "iwb"}
+{"w": "valiancy", "pos": "noun", "d": ["Valor; brave and fearless conduct."], "src": "iwb"}
+{"w": "valiant", "pos": "adjective", "d": ["Brave and courageous, especially in battle."], "src": "iwb"}
+{"w": "valinch", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "valise", "pos": "noun", "d": ["A small traveling bag or hand-carried suitcase."], "src": "iwb"}
+{"w": "valkyria", "pos": "noun", "d": ["A valkyrie, one of the maidens in Norse myth who chose which warriors would enter Valhalla."], "src": "iwb"}
+{"w": "valkyrian", "pos": "adjective", "d": ["Relating to or like a valkyrie."], "src": "iwb"}
+{"w": "vallancy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vallar", "pos": "adjective", "d": ["Relating to a defensive rampart, as in a vallar crown given for being first over an enemy wall."], "src": "iwb"}
+{"w": "vallary", "pos": "adjective", "d": ["Given as a reward for scaling an enemy rampart, as in a vallary crown."], "src": "iwb"}
+{"w": "vallation", "pos": "noun", "d": ["The act of building defensive entrenchments around a camp or town.", "A rampart or line of entrenchments."], "src": "iwb"}
+{"w": "vallatory", "pos": "adjective", "d": ["Relating to defensive entrenchments or ramparts."], "src": "iwb"}
+{"w": "vallecula", "pos": "noun", "d": ["A small groove or depression on the surface of an organ, especially in the brain or throat."], "src": "iwb"}
+{"w": "vallum", "pos": "noun", "d": ["A defensive wall or rampart, especially one built by the ancient Romans."], "src": "iwb"}
+{"w": "valonia", "pos": "noun", "d": ["The large acorn cups of certain Mediterranean oaks, used in tanning leather."], "src": "iwb"}
+{"w": "valor", "pos": "noun", "d": ["Courage in the face of danger, especially in battle."], "src": "iwb"}
+{"w": "valorization", "pos": "noun", "d": ["The act of fixing or raising the price of a commodity, often by government action."], "src": "iwb"}
+{"w": "valsalvian", "pos": "adjective", "d": ["Relating to the Valsalva maneuver, in which a person forcefully exhales against a closed airway."], "src": "iwb"}
+{"w": "valuably", "pos": "adverb", "d": ["In a way that is useful or worth a great deal."], "src": "iwb"}
+{"w": "valuator", "pos": "noun", "d": ["A person who estimates or appraises the worth of something."], "src": "iwb"}
+{"w": "valued policy", "pos": "phrase", "d": ["An insurance policy that names a fixed sum to be paid if the insured property is lost."], "src": "iwb"}
+{"w": "valued-policy law", "pos": "phrase", "d": ["A law requiring an insurer to pay the full stated value of a policy when the insured property is totally destroyed."], "src": "iwb"}
+{"w": "valure", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "valval", "pos": "adjective", "d": ["Of or relating to a valve; valvular."], "src": "iwb"}
+{"w": "valvar", "pos": "adjective", "d": ["Of or relating to a valve."], "src": "iwb"}
+{"w": "valvasor", "pos": "noun", "d": ["A great feudal vassal holding land directly from the emperor in the old Holy Roman Empire."], "src": "iwb"}
+{"w": "valvata", "pos": "noun", "d": ["A genus of tiny freshwater snails with coiled shells."], "src": "iwb"}
+{"w": "valvate", "pos": "adjective", "d": ["Meeting edge to edge without overlapping, as the petals of some flower buds."], "src": "iwb"}
+{"w": "valve-shell", "pos": "noun", "d": ["The hinged shell of a bivalve mollusk, or one of its two parts."], "src": "iwb"}
+{"w": "valvula", "pos": "noun", "d": ["A small valve or valvelike flap in the body, such as in the heart or intestines."], "src": "iwb"}
+{"w": "valvular", "pos": "adjective", "d": ["Of, relating to, or having valves."], "src": "iwb"}
+{"w": "valvule", "pos": "noun", "d": ["A small valve, especially a little valvelike flap in the body."], "src": "iwb"}
+{"w": "valylene", "pos": "noun", "d": ["A colorless unsaturated hydrocarbon."], "src": "iwb"}
+{"w": "vambrace", "pos": "noun", "d": ["A piece of armor protecting the forearm."], "src": "iwb"}
+{"w": "vamose", "pos": "verb", "d": ["To leave quickly; to make a hasty exit."], "src": "iwb"}
+{"w": "vamp", "pos": "verb", "d": ["To improvise, patching something together on the spot.", "To refurbish or give new life to something old."], "src": "iwb"}
+{"w": "vampirism", "pos": "noun", "d": ["Belief in vampires or the practices attributed to them.", "The act of living off others like a parasite."], "src": "iwb"}
+{"w": "vamure", "pos": "noun", "d": ["A defensive outer wall built in front of the main wall of a fortification."], "src": "iwb"}
+{"w": "van-courier", "pos": "noun", "d": ["A messenger or herald who rides ahead to announce someone's arrival; a variant of avant-courier."], "src": "iwb"}
+{"w": "vanadate", "pos": "noun", "d": ["A salt or ester of vanadic acid, containing vanadium and oxygen."], "src": "iwb"}
+{"w": "vanadic", "pos": "adjective", "d": ["Containing vanadium, especially in its highest combining state."], "src": "iwb"}
+{"w": "vanadinite", "pos": "noun", "d": ["A bright red or orange mineral that is an important ore of vanadium."], "src": "iwb"}
+{"w": "vanadious", "pos": "adjective", "d": ["Containing vanadium in a lower combining state than vanadic."], "src": "iwb"}
+{"w": "vanadite", "pos": "noun", "d": ["A brownish mineral composed of copper vanadate."], "src": "iwb"}
+{"w": "vanadium", "pos": "noun", "d": ["A hard, silvery metallic element used to strengthen steel."], "src": "iwb"}
+{"w": "vanadium bronze", "pos": "phrase", "d": ["A bronze alloy containing vanadium, valued for its hardness and strength."], "src": "iwb"}
+{"w": "vanadous", "pos": "adjective", "d": ["Containing vanadium in a lower combining state; the same as vanadious."], "src": "iwb"}
+{"w": "vanadyl", "pos": "noun", "d": ["A chemical group made of one vanadium and one oxygen atom, found in many vanadium compounds."], "src": "iwb"}
+{"w": "vandyke beard", "pos": "phrase", "d": ["A short, pointed beard like those painted by the artist Van Dyck."], "src": "iwb"}
+{"w": "vane", "pos": "noun", "d": ["A flat blade or plate set to catch the wind, as on a weather vane or windmill.", "A thin fin or feather-like part that steadies or guides something in motion."], "src": "iwb"}
+{"w": "vanessa", "pos": "noun", "d": ["A genus of brightly colored butterflies that includes the painted ladies and red admirals."], "src": "iwb"}
+{"w": "vanessian", "pos": "adjective", "d": ["Relating to or resembling the Vanessa butterflies."], "src": "iwb"}
+{"w": "vang", "pos": "noun", "d": ["A rope or tackle on a sailboat that holds the boom down and steadies the sail."], "src": "iwb"}
+{"w": "vanglo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vanillate", "pos": "noun", "d": ["A salt or ester of vanillic acid."], "src": "iwb"}
+{"w": "vanillic", "pos": "adjective", "d": ["Relating to vanilla or to vanillic acid, a compound derived from vanilla."], "src": "iwb"}
+{"w": "vanillin", "pos": "noun", "d": ["The fragrant compound that gives vanilla its characteristic smell and flavor."], "src": "iwb"}
+{"w": "vanilloes", "pos": "noun", "d": ["The pods of the vanilla plant; an old variant spelling of vanillas."], "src": "iwb"}
+{"w": "vanillyl", "pos": "noun", "d": ["A chemical group derived from vanillin, used in flavor chemistry."], "src": "iwb"}
+{"w": "vaniloquence", "pos": "noun", "d": ["Empty, boastful talk; speaking that is full of vanity and little substance."], "src": "iwb"}
+{"w": "vanity box", "pos": "phrase", "d": ["A small box or case for holding cosmetics and small personal items at a dressing table."], "src": "iwb"}
+{"w": "vanjas", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vanner hawk", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vant-courier", "pos": "noun", "d": ["A messenger who rides ahead to announce someone's coming; a variant spelling of avant-courier."], "src": "iwb"}
+{"w": "vantage game", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vantage point", "pos": "noun", "d": ["A position that gives a good view of the surroundings.", "A position or circumstance that gives one an advantage."], "src": "iwb"}
+{"w": "vap", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vapid", "pos": "adjective", "d": ["Lacking liveliness or interest; dull and flat in flavor or character.", "Having lost its sparkle or spirit, as of a stale drink."], "src": "iwb"}
+{"w": "vapor", "pos": "noun", "d": ["The gaseous form of a substance that is normally a liquid or solid, such as steam rising from hot water.", "Something insubstantial and fleeting, like a wisp of steam that quickly disappears."], "src": "iwb"}
+{"w": "vapor galvanizing", "pos": "phrase", "d": ["A process for coating metal by exposing it to hot zinc vapor so that a protective layer forms on the surface."], "src": "iwb"}
+{"w": "vapor pressure", "pos": "phrase", "d": ["The pressure that the vapor of a liquid exerts when it stands in balance with the liquid inside a closed space."], "src": "iwb"}
+{"w": "vapor tension", "pos": "phrase", "d": ["The tendency of a liquid to give off vapor, measured as the pressure of its vapor at a given temperature."], "src": "iwb"}
+{"w": "vaporiferous", "pos": "adjective", "d": ["Producing or carrying vapor."], "src": "iwb"}
+{"w": "vaporific", "pos": "adjective", "d": ["Turning into vapor or producing vapor."], "src": "iwb"}
+{"w": "vaporiform", "pos": "adjective", "d": ["Having the form or appearance of vapor."], "src": "iwb"}
+{"w": "vaporimeter", "pos": "noun", "d": ["An instrument for measuring the pressure or tension of vapor."], "src": "iwb"}
+{"w": "vaporization", "pos": "noun", "d": ["The change of a liquid or solid into vapor."], "src": "iwb"}
+{"w": "vaporose", "pos": "adjective", "d": ["Full of vapor; vaporous."], "src": "iwb"}
+{"w": "vapulation", "pos": "noun", "d": ["The act of beating or flogging; a whipping."], "src": "iwb"}
+{"w": "vaquero", "pos": "noun", "d": ["A cowboy or cattle herder, especially in Mexico and the American Southwest.", "A hired hand skilled in handling horses and cattle."], "src": "iwb"}
+{"w": "vara", "pos": "noun", "d": ["A Spanish unit of length, roughly equal to a yard.", "A staff or rod carried as a sign of office."], "src": "iwb"}
+{"w": "varan", "pos": "noun", "d": ["A monitor lizard."], "src": "iwb"}
+{"w": "varangian", "pos": "noun", "d": ["A member of the Varangian Guard, the Viking-descended bodyguard of the Byzantine emperors.", "Of or belonging to the Varangians."], "src": "iwb"}
+{"w": "varanus", "pos": "noun", "d": ["The genus of large lizards that includes the monitor lizards."], "src": "iwb"}
+{"w": "vare", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "varec", "pos": "noun", "d": ["Seaweed, especially kelp gathered for its ashes, once used in making glass and soap."], "src": "iwb"}
+{"w": "vargueno", "pos": "noun", "d": ["A Spanish cabinet with a fall front that opens to form a writing desk."], "src": "iwb"}
+{"w": "vari", "pos": "noun", "d": ["A ruffed lemur, a large black-and-white lemur of Madagascar.", "The plural of the Latin adjective varius, meaning various."], "src": "iwb"}
+{"w": "varices", "pos": "noun", "d": ["The plural of varix; abnormally swollen and twisted veins."], "src": "iwb"}
+{"w": "variciform", "pos": "adjective", "d": ["Shaped like a varix; like a swollen twisted vein."], "src": "iwb"}
+{"w": "varicocele", "pos": "noun", "d": ["An abnormal swelling of the veins in the spermatic cord above the testicle."], "src": "iwb"}
+{"w": "varicose", "pos": "adjective", "d": ["Abnormally swollen, twisted, and enlarged, as of veins in the leg."], "src": "iwb"}
+{"w": "varicosis", "pos": "noun", "d": ["A condition marked by the presence of varicose veins."], "src": "iwb"}
+{"w": "varicosity", "pos": "noun", "d": ["The state of being varicose; a varicose swelling."], "src": "iwb"}
+{"w": "varicotomy", "pos": "noun", "d": ["The surgical cutting out or removal of a varicose vein."], "src": "iwb"}
+{"w": "varicous", "pos": "adjective", "d": ["Relating to or affected with varices; varicose."], "src": "iwb"}
+{"w": "variegate", "pos": "verb", "d": ["To mark or diversify with different colors, patches, or varieties."], "src": "iwb"}
+{"w": "variegation", "pos": "noun", "d": ["Varied coloring or marking, as of leaves streaked with white or yellow."], "src": "iwb"}
+{"w": "varietal", "pos": "adjective", "d": ["Of or relating to a variety, especially of wine grapes.", "Made from a single named grape variety, as of wine."], "src": "iwb"}
+{"w": "varietas", "pos": "noun", "d": ["The Latin word for variety, used in scientific naming for a subdivision below a subspecies."], "src": "iwb"}
+{"w": "variety show", "pos": "phrase", "d": ["A stage entertainment made up of a series of different acts, such as songs, dances, and comedy."], "src": "iwb"}
+{"w": "varify", "pos": "verb", "d": ["To make varied; to diversify."], "src": "iwb"}
+{"w": "variola", "pos": "noun", "d": ["Smallpox, the contagious disease that causes fever and leaves pitted scars."], "src": "iwb"}
+{"w": "variolar", "pos": "adjective", "d": ["Relating to smallpox."], "src": "iwb"}
+{"w": "variole", "pos": "noun", "d": ["A pitted scar left by smallpox.", "A small rounded spot or nodule, as in certain volcanic rocks."], "src": "iwb"}
+{"w": "variolic", "pos": "adjective", "d": ["Relating to or resembling smallpox."], "src": "iwb"}
+{"w": "variolite", "pos": "noun", "d": ["A volcanic rock containing small rounded nodules or spherules."], "src": "iwb"}
+{"w": "variolitic", "pos": "adjective", "d": ["Relating to or containing variolite."], "src": "iwb"}
+{"w": "varioloid", "pos": "noun", "d": ["A mild form of smallpox, especially in a person already vaccinated."], "src": "iwb"}
+{"w": "variolous", "pos": "adjective", "d": ["Relating to smallpox; marked by smallpox."], "src": "iwb"}
+{"w": "variometer", "pos": "noun", "d": ["An instrument for measuring variations, especially of the earth's magnetic field or of an aircraft's rate of climb."], "src": "iwb"}
+{"w": "variorum", "pos": "noun", "d": ["An edition of a work containing the notes of various editors and the differing readings of manuscripts.", "Including variant readings and the notes of many commentators."], "src": "iwb"}
+{"w": "variscite", "pos": "noun", "d": ["A green mineral, a hydrated phosphate of aluminum, sometimes cut as a gemstone."], "src": "iwb"}
+{"w": "varisse", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "varix", "pos": "noun", "d": ["An abnormally swollen, twisted vein."], "src": "iwb"}
+{"w": "vark", "pos": "noun", "d": ["A pig, especially in South African use."], "src": "iwb"}
+{"w": "varlet", "pos": "noun", "d": ["A dishonest or unprincipled man; a knave.", "In older use, a male servant or attendant."], "src": "iwb"}
+{"w": "varletry", "pos": "noun", "d": ["The rabble; a crowd of base or rascally people."], "src": "iwb"}
+{"w": "varnish", "pos": "noun", "d": ["A clear liquid that dries to a hard glossy coating on wood or other surfaces.", "To coat with varnish."], "src": "iwb"}
+{"w": "varsity", "pos": "noun", "d": ["The main or first team representing a school or college in a sport.", "In British use, a university, especially in sport."], "src": "iwb"}
+{"w": "varsovienne", "pos": "noun", "d": ["A graceful dance of Polish origin for couples, in triple time."], "src": "iwb"}
+{"w": "vartabed", "pos": "noun", "d": ["An Armenian priest of the higher celibate order, a doctor of the church."], "src": "iwb"}
+{"w": "varuna", "pos": "noun", "d": ["In Hindu mythology, the god of the waters and of the cosmic order."], "src": "iwb"}
+{"w": "varus", "pos": "adjective", "d": ["Bent inward or bowlegged, as of a limb turned toward the midline."], "src": "iwb"}
+{"w": "varvel", "pos": "noun", "d": ["A small metal ring on the strap of a hawk's leg, often engraved with the owner's name."], "src": "iwb"}
+{"w": "vas", "pos": "noun", "d": ["An anatomical vessel or duct that carries fluid, such as the vas deferens.", "The Latin word for vessel."], "src": "iwb"}
+{"w": "vascular", "pos": "adjective", "d": ["Relating to the vessels that carry blood or other fluids through the body.", "Relating to the vessels that carry sap in plants."], "src": "iwb"}
+{"w": "vasculose", "pos": "noun", "d": ["A woody substance forming part of plant cell walls."], "src": "iwb"}
+{"w": "vasculum", "pos": "noun", "d": ["A botanist's tin box for carrying freshly gathered plants."], "src": "iwb"}
+{"w": "vase", "pos": "noun", "d": ["An open container, usually taller than wide, for holding flowers or for decoration."], "src": "iwb"}
+{"w": "vase clock", "pos": "phrase", "d": ["A clock whose case is shaped like a vase."], "src": "iwb"}
+{"w": "vase-shaped", "pos": "adjective", "d": ["Shaped like a vase."], "src": "iwb"}
+{"w": "vasectomy", "pos": "noun", "d": ["A surgical operation in which the vas deferens is cut to prevent the passage of sperm."], "src": "iwb"}
+{"w": "vasiform", "pos": "adjective", "d": ["Shaped like a vessel or duct."], "src": "iwb"}
+{"w": "vaso-inhibitory", "pos": "adjective", "d": ["Tending to check or restrain the action of the blood vessels."], "src": "iwb"}
+{"w": "vasoconstrictor", "pos": "noun", "d": ["An agent that narrows the blood vessels and so raises blood pressure.", "Causing blood vessels to narrow."], "src": "iwb"}
+{"w": "vasodentine", "pos": "noun", "d": ["Dentine containing blood vessels, found in the teeth of some fishes."], "src": "iwb"}
+{"w": "vasodilator", "pos": "noun", "d": ["An agent that widens the blood vessels.", "Causing blood vessels to widen."], "src": "iwb"}
+{"w": "vasoformative", "pos": "adjective", "d": ["Forming or developing blood vessels."], "src": "iwb"}
+{"w": "vasomotor", "pos": "adjective", "d": ["Regulating the diameter of blood vessels."], "src": "iwb"}
+{"w": "vassaless", "pos": "noun", "d": ["A female vassal."], "src": "iwb"}
+{"w": "vassalry", "pos": "noun", "d": ["The body of vassals; vassals collectively.", "The condition or tenure of a vassal."], "src": "iwb"}
+{"w": "vastel", "pos": "noun", "d": ["A rich flat cake of medieval times, made of fine flour."], "src": "iwb"}
+{"w": "vastidity", "pos": "noun", "d": ["Vastness; immense extent."], "src": "iwb"}
+{"w": "vastitude", "pos": "noun", "d": ["Vastness; great extent or bulk."], "src": "iwb"}
+{"w": "vasty", "pos": "adjective", "d": ["Vast; of immense extent."], "src": "iwb"}
+{"w": "vasum", "pos": "noun", "d": ["A vessel; a flask-shaped container, especially in botanical use."], "src": "iwb"}
+{"w": "vatican council", "pos": "phrase", "d": ["An ecumenical council of the Roman Catholic Church held at the Vatican, as in 1869-1870 or 1962-1965."], "src": "iwb"}
+{"w": "vaticide", "pos": "noun", "d": ["The killing of a prophet."], "src": "iwb"}
+{"w": "vaticinal", "pos": "adjective", "d": ["Prophetic; relating to prophecy."], "src": "iwb"}
+{"w": "vaticinate", "pos": "verb", "d": ["To prophesy; to foretell the future."], "src": "iwb"}
+{"w": "vaticination", "pos": "noun", "d": ["The act of prophesying; a prediction."], "src": "iwb"}
+{"w": "vaticinator", "pos": "noun", "d": ["One who prophesies; a prophet."], "src": "iwb"}
+{"w": "vaticine", "pos": "adjective", "d": ["Prophetic."], "src": "iwb"}
+{"w": "vaudeville", "pos": "noun", "d": ["A form of stage entertainment made up of short varied acts, including songs, dances, and comedy sketches."], "src": "iwb"}
+{"w": "vaudois", "pos": "noun", "d": ["A member of the Vaudois, a Protestant sect of the French Alps; a Waldensian.", "Of or belonging to the Vaudois."], "src": "iwb"}
+{"w": "vaudoux", "pos": "noun", "d": ["A form of voodoo, the folk religion of Haiti."], "src": "iwb"}
+{"w": "vaulty", "pos": "adjective", "d": ["Arched like a vault; vaulted."], "src": "iwb"}
+{"w": "vaunce", "pos": "verb", "d": ["To advance or spring forth; now used only in old writing."], "src": "iwb"}
+{"w": "vaunt", "pos": "verb", "d": ["To boast or brag about oneself or one's deeds.", "A boastful remark."], "src": "iwb"}
+{"w": "vaunt-courier", "pos": "noun", "d": ["A messenger sent ahead to announce the coming of another; a forerunner."], "src": "iwb"}
+{"w": "vauntingly", "pos": "adverb", "d": ["In a boastful manner."], "src": "iwb"}
+{"w": "vauquelinite", "pos": "noun", "d": ["A rare mineral, a chromate of lead and copper, named for the chemist Vauquelin."], "src": "iwb"}
+{"w": "vaut", "pos": "verb", "d": ["To leap or vault; an old variant of vault."], "src": "iwb"}
+{"w": "vauty", "pos": "adjective", "d": ["Vaulted; arched like a vault."], "src": "iwb"}
+{"w": "vavasor", "pos": "noun", "d": ["In feudal times, a vassal holding land from another vassal rather than directly from the king."], "src": "iwb"}
+{"w": "vavasory", "pos": "noun", "d": ["The land or tenure held by a vavasor."], "src": "iwb"}
+{"w": "vaward", "pos": "noun", "d": ["The front or leading part of an army drawn up in battle formation."], "src": "iwb"}
+{"w": "vaza parrot", "pos": "phrase", "d": ["A large dark-colored parrot of Madagascar, akin to the vasa parrot."], "src": "iwb"}
+{"w": "veadar", "pos": "noun", "d": ["An extra month added to the Jewish calendar in leap years, also called Adar II."], "src": "iwb"}
+{"w": "veal", "pos": "noun", "d": ["The tender flesh of a young calf, used as meat."], "src": "iwb"}
+{"w": "vection", "pos": "noun", "d": ["The act of carrying or conveying something from one place to another."], "src": "iwb"}
+{"w": "vectitation", "pos": "noun", "d": ["The act or state of being carried or conveyed."], "src": "iwb"}
+{"w": "vecture", "pos": "noun", "d": ["The carrying or conveyance of goods from place to place.", "Also the charge paid for such carriage."], "src": "iwb"}
+{"w": "veda", "pos": "noun", "d": ["One of the ancient sacred scriptures of Hinduism, composed in Sanskrit."], "src": "iwb"}
+{"w": "vedanta", "pos": "noun", "d": ["A system of Hindu philosophy founded on the teachings of the Upanishads."], "src": "iwb"}
+{"w": "vedantic", "pos": "adjective", "d": ["Of or relating to the Vedanta system of Hindu philosophy."], "src": "iwb"}
+{"w": "vedantist", "pos": "noun", "d": ["One who follows or studies the Vedanta system of philosophy."], "src": "iwb"}
+{"w": "vedette", "pos": "noun", "d": ["A mounted soldier posted as a sentinel in advance of an army.", "A small naval vessel used for scouting or patrol."], "src": "iwb"}
+{"w": "vedro", "pos": "noun", "d": ["A Russian unit of liquid measure equal to about three and a quarter gallons."], "src": "iwb"}
+{"w": "veer", "pos": "verb", "d": ["To change direction or course, as the wind or a ship does.", "To let out or pay out a rope or cable in a controlled manner."], "src": "iwb"}
+{"w": "veery", "pos": "noun", "d": ["A small brown thrush of North America noted for its sweet descending song."], "src": "iwb"}
+{"w": "vega", "pos": "noun", "d": ["A brilliant blue-white star in the constellation Lyra, one of the brightest in the night sky."], "src": "iwb"}
+{"w": "vegetability", "pos": "noun", "d": ["The state or quality of being a plant; plant-like life."], "src": "iwb"}
+{"w": "vegetal", "pos": "adjective", "d": ["Of, relating to, or consisting of vegetables or plants."], "src": "iwb"}
+{"w": "vegetate", "pos": "verb", "d": ["To grow or live as a plant does.", "To lead a dull, inactive, uneventful life."], "src": "iwb"}
+{"w": "vegetative", "pos": "adjective", "d": ["Of or relating to plant growth or vegetation.", "Growing or developing without apparent thought or activity."], "src": "iwb"}
+{"w": "vegete", "pos": "adjective", "d": ["Vigorous, lively, and in good health."], "src": "iwb"}
+{"w": "vegetism", "pos": "noun", "d": ["The doctrine or practice of vegetarianism."], "src": "iwb"}
+{"w": "vegetive", "pos": "adjective", "d": ["Capable of growing; producing vegetation."], "src": "iwb"}
+{"w": "vegeto-animal", "pos": "adjective", "d": ["Partaking of the natures of both plants and animals."], "src": "iwb"}
+{"w": "vegetous", "pos": "adjective", "d": ["Vigorous and lively; full of vitality."], "src": "iwb"}
+{"w": "vehemence", "pos": "noun", "d": ["Great force, energy, or intensity of feeling."], "src": "iwb"}
+{"w": "vehemency", "pos": "noun", "d": ["Vehemence; passionate intensity."], "src": "iwb"}
+{"w": "vehement", "pos": "adjective", "d": ["Showing strong, passionate feeling; forceful and intense."], "src": "iwb"}
+{"w": "vehicular", "pos": "adjective", "d": ["Of or relating to vehicles."], "src": "iwb"}
+{"w": "vehiculary", "pos": "adjective", "d": ["Serving as or relating to a vehicle for conveyance."], "src": "iwb"}
+{"w": "vehiculate", "pos": "verb", "d": ["To carry or convey in or by means of a vehicle."], "src": "iwb"}
+{"w": "vehiculation", "pos": "noun", "d": ["Conveyance in or by a vehicle."], "src": "iwb"}
+{"w": "vehiculatory", "pos": "adjective", "d": ["Serving to carry or convey; of a vehicle."], "src": "iwb"}
+{"w": "vehm", "pos": "noun", "d": ["The secret tribunal of medieval Germany; also called the Vehmgericht."], "src": "iwb"}
+{"w": "vehme", "pos": "noun", "d": ["A variant spelling of vehm, the secret medieval German tribunal."], "src": "iwb"}
+{"w": "vehmgericht", "pos": "noun", "d": ["The secret court of medieval Germany that tried serious crimes in private sessions."], "src": "iwb"}
+{"w": "veil", "pos": "noun", "d": ["A light cloth or covering worn over the head or face.", "Anything that covers or conceals like a veil."], "src": "iwb"}
+{"w": "veiled plate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vein", "pos": "noun", "d": ["A blood vessel that carries blood back to the heart.", "A narrow streak, seam, or lode running through rock or other material.", "A distinctive streak or line, as in marble or a leaf."], "src": "iwb"}
+{"w": "vein quartz", "pos": "phrase", "d": ["Quartz occurring as a vein filling cracks in rock."], "src": "iwb"}
+{"w": "veiny", "pos": "adjective", "d": ["Full of or marked by veins."], "src": "iwb"}
+{"w": "velar", "pos": "adjective", "d": ["Of or relating to the soft palate, or pronounced with the back of the tongue against the soft palate."], "src": "iwb"}
+{"w": "velarium", "pos": "noun", "d": ["A large awning, especially the one stretched over Roman amphitheaters to shade spectators."], "src": "iwb"}
+{"w": "velate", "pos": "adjective", "d": ["Provided with or covered by a velum or veil."], "src": "iwb"}
+{"w": "veldt", "pos": "noun", "d": ["The open grassy plains of southern Africa."], "src": "iwb"}
+{"w": "veldt sore", "pos": "phrase", "d": ["A stubborn skin ulcer common in southern Africa."], "src": "iwb"}
+{"w": "vele", "pos": "noun", "d": ["An archaic spelling of veil."], "src": "iwb"}
+{"w": "velella", "pos": "noun", "d": ["A genus of small jellyfish-like ocean creatures that drift on the surface of the sea."], "src": "iwb"}
+{"w": "veliferous", "pos": "adjective", "d": ["Bearing sails or a velum."], "src": "iwb"}
+{"w": "veliger", "pos": "noun", "d": ["The larval stage of many mollusks, bearing a velum used for swimming."], "src": "iwb"}
+{"w": "velitation", "pos": "noun", "d": ["A slight or petty skirmish.", "A mild dispute or controversy."], "src": "iwb"}
+{"w": "velivolant", "pos": "adjective", "d": ["Flying with sails; swift-moving."], "src": "iwb"}
+{"w": "vell", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "velleity", "pos": "noun", "d": ["A faint or slight wish; a mere inclination without resolve to act."], "src": "iwb"}
+{"w": "vellet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "vellicate", "pos": "verb", "d": ["To twitch or cause to twitch; to pluck or pinch slightly."], "src": "iwb"}
+{"w": "vellication", "pos": "noun", "d": ["A twitching motion, especially of a muscle."], "src": "iwb"}
+{"w": "vellicative", "pos": "adjective", "d": ["Causing twitching; plucking or pinching."], "src": "iwb"}
+{"w": "vellon", "pos": "noun", "d": ["A base copper coin formerly used in Spain."], "src": "iwb"}
+{"w": "vellum", "pos": "noun", "d": ["Fine parchment prepared from calfskin, used for writing and bookbinding."], "src": "iwb"}
+{"w": "vellumy", "pos": "adjective", "d": ["Resembling vellum in smoothness or appearance."], "src": "iwb"}
+{"w": "velocimeter", "pos": "noun", "d": ["An instrument for measuring the speed of motion."], "src": "iwb"}
+{"w": "velocipede", "pos": "noun", "d": ["An early form of the bicycle, especially one with three wheels."], "src": "iwb"}
+{"w": "velocipedist", "pos": "noun", "d": ["A rider of a velocipede."], "src": "iwb"}
+{"w": "velours", "pos": "noun", "d": ["A soft velvety fabric resembling velvet, such as velveteen."], "src": "iwb"}
+{"w": "veloute", "pos": "noun", "d": ["A smooth white sauce thickened with a light stock."], "src": "iwb"}
+{"w": "veltfare", "pos": "noun", "d": ["An old name for the fieldfare, a large European thrush."], "src": "iwb"}
+{"w": "velum", "pos": "noun", "d": ["The soft palate.", "A veil-like membrane or flap on certain animals and plants."], "src": "iwb"}
+{"w": "velure", "pos": "noun", "d": ["Velvet or a fabric resembling velvet.", "A smooth finish resembling velvet."], "src": "iwb"}
+{"w": "velutina", "pos": "noun", "d": ["A genus of small sea snails with velvety shells."], "src": "iwb"}
+{"w": "velutinous", "pos": "adjective", "d": ["Velvety in texture or appearance."], "src": "iwb"}
+{"w": "velverd", "pos": "noun", "d": ["An archaic form of the word velvet."], "src": "iwb"}
+{"w": "velveret", "pos": "noun", "d": ["A kind of cotton velvet; velveteen."], "src": "iwb"}
+{"w": "velvety", "pos": "adjective", "d": ["Soft and smooth like velvet."], "src": "iwb"}
+{"w": "vena", "pos": "noun", "d": ["A vein; especially in anatomy, a blood vessel returning blood to the heart."], "src": "iwb"}
+{"w": "venada", "pos": "noun", "d": ["The flesh of a deer; venison."], "src": "iwb"}
+{"w": "venal", "pos": "adjective", "d": ["Corrupt and willing to be bought; open to bribery.", "Of or relating to veins."], "src": "iwb"}
+{"w": "venantes", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "venary", "pos": "adjective", "d": ["Pertaining to hunting or the chase."], "src": "iwb"}
+{"w": "venatica", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "venatorial", "pos": "adjective", "d": ["Relating to hunting or to hunters."], "src": "iwb"}
+{"w": "vend", "pos": "verb", "d": ["To sell, especially as a business or trade."], "src": "iwb"}
+{"w": "vendee", "pos": "noun", "d": ["The person to whom something is sold; a buyer."], "src": "iwb"}
+{"w": "vendemiaire", "pos": "noun", "d": ["The first month of the French revolutionary calendar."], "src": "iwb"}
+{"w": "vendetta", "pos": "noun", "d": ["A bitter and long-continued feud between families, often involving revenge killing."], "src": "iwb"}
+{"w": "vendibility", "pos": "noun", "d": ["The quality of being vendible; salability."], "src": "iwb"}
+{"w": "venditate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "venditation", "pos": "noun", "d": ["The act of exposing for sale.", "Ostentatious display; boasting."], "src": "iwb"}
+{"w": "vendition", "pos": "noun", "d": ["The act of selling; a sale."], "src": "iwb"}
+{"w": "vendue", "pos": "noun", "d": ["A public sale at which goods are sold to the highest bidder; an auction."], "src": "iwb"}
+{"w": "veneer", "pos": "noun", "d": ["A thin layer of fine wood laid over a coarser surface.", "A superficial show or appearance of something."], "src": "iwb"}
+{"w": "venefical", "pos": "adjective", "d": ["Acting by means of poison; poisonous."], "src": "iwb"}
+{"w": "venefice", "pos": "noun", "d": ["The practice or art of poisoning.", "Sorcery or witchcraft involving poisons."], "src": "iwb"}
+{"w": "veneficial", "pos": "adjective", "d": ["Poisonous; pertaining to poisoning or sorcery."], "src": "iwb"}
+{"w": "veneficious", "pos": "adjective", "d": ["Poisonous; acting by poison."], "src": "iwb"}
+{"w": "venemous", "pos": "adjective", "d": ["An archaic form of venomous."], "src": "iwb"}
+{"w": "venenate", "pos": "verb", "d": ["To poison; to envenom."], "src": "iwb"}
+{"w": "venenation", "pos": "noun", "d": ["The act of poisoning."], "src": "iwb"}
+{"w": "venene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "venenose", "pos": "adjective", "d": ["Venomous; poisonous."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

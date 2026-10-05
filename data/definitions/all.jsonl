@@ -55821,6 +55821,806 @@
 {"w": "toxotes", "pos": "noun", "d": ["A genus of small fishes, the archerfishes, that shoot down insects by spitting water."], "src": "iwb"}
 {"w": "toyingly", "pos": "adverb", "d": ["In a playful or trifling manner."], "src": "iwb"}
 {"w": "toze", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tozy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trabea", "pos": "noun", "d": ["A short ceremonial robe worn by certain Roman officials and priests, often striped with purple."], "src": "iwb"}
+{"w": "trabecula", "pos": "noun", "d": ["A small rod or beam of bony or fibrous tissue that strengthens a larger structure."], "src": "iwb"}
+{"w": "trabecular", "pos": "adjective", "d": ["Relating to or formed of trabeculae."], "src": "iwb"}
+{"w": "trabeculate", "pos": "adjective", "d": ["Having or marked by trabeculae."], "src": "iwb"}
+{"w": "trabu", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tracery", "pos": "noun", "d": ["Ornamental stonework that divides and decorates the upper part of a Gothic window."], "src": "iwb"}
+{"w": "trachea", "pos": "noun", "d": ["The tube that carries air from the throat to the lungs; the windpipe.", "Any of the air-conducting tubes in the body of an insect."], "src": "iwb"}
+{"w": "tracheal", "pos": "adjective", "d": ["Relating to the trachea or windpipe."], "src": "iwb"}
+{"w": "trachearia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tracheary", "pos": "adjective", "d": ["Relating to the water-conducting cells of a plant's woody tissue."], "src": "iwb"}
+{"w": "tracheata", "pos": "noun", "d": ["A proposed group of arthropods, such as insects and centipedes, that breathe through air tubes."], "src": "iwb"}
+{"w": "tracheate", "pos": "adjective", "d": ["Breathing through tracheae or air tubes, as insects do."], "src": "iwb"}
+{"w": "tracheid", "pos": "noun", "d": ["A long hollow cell in the wood of plants that carries water upward."], "src": "iwb"}
+{"w": "tracheitis", "pos": "noun", "d": ["Inflammation of the trachea or windpipe."], "src": "iwb"}
+{"w": "trachelidan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trachelipod", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trachelipoda", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trachelobranchiate", "pos": "adjective", "d": ["Having gills situated on the neck."], "src": "iwb"}
+{"w": "trachelorrhaphy", "pos": "noun", "d": ["The surgical stitching of a torn uterine cervix."], "src": "iwb"}
+{"w": "trachenchyma", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tracheobranchia", "pos": "noun", "d": ["A gill-like breathing organ found in some insect larvae."], "src": "iwb"}
+{"w": "tracheobronchial", "pos": "adjective", "d": ["Relating to the trachea and the bronchial tubes."], "src": "iwb"}
+{"w": "tracheocele", "pos": "noun", "d": ["A swelling or hernia-like protrusion of the windpipe."], "src": "iwb"}
+{"w": "tracheophonae", "pos": "noun", "d": ["A group of perching birds distinguished by the simple structure of their vocal organs."], "src": "iwb"}
+{"w": "tracheoscopy", "pos": "noun", "d": ["Examination of the inside of the windpipe with a lighted instrument."], "src": "iwb"}
+{"w": "tracheotomy", "pos": "noun", "d": ["A surgical cut into the windpipe to create an opening for breathing."], "src": "iwb"}
+{"w": "trachinoid", "pos": "adjective", "d": ["Resembling or related to the weever fishes."], "src": "iwb"}
+{"w": "trachitis", "pos": "noun", "d": ["Inflammation of the windpipe."], "src": "iwb"}
+{"w": "trachoma", "pos": "noun", "d": ["A contagious eye disease that roughens the inner eyelid and can cause blindness."], "src": "iwb"}
+{"w": "trachycarpous", "pos": "adjective", "d": ["Bearing rough or harsh fruit."], "src": "iwb"}
+{"w": "trachymedusae", "pos": "noun", "d": ["An order of small deep-sea jellyfishes."], "src": "iwb"}
+{"w": "trachyspermous", "pos": "adjective", "d": ["Bearing rough or harsh seeds."], "src": "iwb"}
+{"w": "trachystomata", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trachyte", "pos": "noun", "d": ["A light-colored volcanic rock rich in feldspar."], "src": "iwb"}
+{"w": "trachytic", "pos": "adjective", "d": ["Relating to or resembling trachyte."], "src": "iwb"}
+{"w": "trachytoid", "pos": "adjective", "d": ["Resembling trachyte."], "src": "iwb"}
+{"w": "track-road", "pos": "noun", "d": ["A path beside a canal or river along which horses tow boats."], "src": "iwb"}
+{"w": "tractator", "pos": "noun", "d": ["One who writes a treatise or discusses a subject at length."], "src": "iwb"}
+{"w": "tractility", "pos": "noun", "d": ["The quality of being tractable or capable of being drawn out."], "src": "iwb"}
+{"w": "traction wheel", "pos": "phrase", "d": ["A wheel designed to grip the ground and pull a vehicle forward."], "src": "iwb"}
+{"w": "tractite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tractitious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tractor propeller", "pos": "phrase", "d": ["An aircraft propeller mounted at the front so that it pulls the craft forward."], "src": "iwb"}
+{"w": "tractor screw", "pos": "phrase", "d": ["A screw propeller placed ahead of its support so that it pulls rather than pushes."], "src": "iwb"}
+{"w": "tractrix", "pos": "noun", "d": ["A curve traced by an object dragged along a surface by a string of fixed length."], "src": "iwb"}
+{"w": "trad", "pos": "noun", "d": ["Traditional jazz played in the style of the early New Orleans bands."], "src": "iwb"}
+{"w": "trade name", "pos": "phrase", "d": ["The name under which a business sells its goods or services."], "src": "iwb"}
+{"w": "trade union", "pos": "phrase", "d": ["An organized association of workers formed to protect their wages and working conditions."], "src": "iwb"}
+{"w": "trade-mark", "pos": "noun", "d": ["A distinctive mark or name legally registered to identify a maker's goods."], "src": "iwb"}
+{"w": "trade-unionist", "pos": "noun", "d": ["A member or supporter of a trade union."], "src": "iwb"}
+{"w": "trades union", "pos": "phrase", "d": ["A union of workers in related trades; a trade union."], "src": "iwb"}
+{"w": "trades-unionist", "pos": "noun", "d": ["A member or supporter of a trades union."], "src": "iwb"}
+{"w": "tradescantia", "pos": "noun", "d": ["A genus of American plants with three-petaled flowers, including the spiderwort."], "src": "iwb"}
+{"w": "tradesfolk", "pos": "noun", "d": ["People who work at skilled manual trades."], "src": "iwb"}
+{"w": "tradesman", "pos": "noun", "d": ["A man who works at a skilled trade or keeps a small shop."], "src": "iwb"}
+{"w": "tradespeople", "pos": "noun", "d": ["People who work at skilled trades or keep shops."], "src": "iwb"}
+{"w": "tradeswoman", "pos": "noun", "d": ["A woman who works at a skilled trade or keeps a small shop."], "src": "iwb"}
+{"w": "traditionarily", "pos": "adverb", "d": ["In the manner of tradition; according to tradition."], "src": "iwb"}
+{"w": "traditive", "pos": "adjective", "d": ["Handed down by tradition from one generation to another."], "src": "iwb"}
+{"w": "traditor", "pos": "noun", "d": ["One who betrays a trust or surrenders something sacred to an enemy."], "src": "iwb"}
+{"w": "traduce", "pos": "verb", "d": ["To speak falsely and maliciously about someone; to slander."], "src": "iwb"}
+{"w": "traducent", "pos": "noun", "d": ["One who slanders or speaks evil of another."], "src": "iwb"}
+{"w": "traducian", "pos": "noun", "d": ["One who holds that the soul is passed down from the parents to the child."], "src": "iwb"}
+{"w": "traducible", "pos": "adjective", "d": ["Capable of being handed down or propagated from parent to child."], "src": "iwb"}
+{"w": "traducingly", "pos": "adverb", "d": ["In a slandering or defamatory manner."], "src": "iwb"}
+{"w": "traduct", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "traffic mile", "pos": "phrase", "d": ["A unit of transportation equal to one vehicle or passenger carried one mile."], "src": "iwb"}
+{"w": "trafficker", "pos": "noun", "d": ["One who carries on trade, especially unlawful trade in drugs or people."], "src": "iwb"}
+{"w": "tragacanth", "pos": "noun", "d": ["A gummy substance from certain shrubs, used to stiffen cloth and thicken medicines."], "src": "iwb"}
+{"w": "tragedian", "pos": "noun", "d": ["An actor who specializes in tragic roles.", "A writer of tragedies."], "src": "iwb"}
+{"w": "tragedienne", "pos": "noun", "d": ["An actress who specializes in tragic roles."], "src": "iwb"}
+{"w": "tragi-comedy", "pos": "noun", "d": ["A play that mixes tragic and comic elements."], "src": "iwb"}
+{"w": "tragi-comi-pastoral", "pos": "noun", "d": ["A dramatic work blending tragic, comic, and pastoral elements."], "src": "iwb"}
+{"w": "tragi-comic", "pos": "adjective", "d": ["Mixing tragedy and comedy."], "src": "iwb"}
+{"w": "tragic", "pos": "adjective", "d": ["Causing great sorrow or disaster; mournful.", "Relating to tragedy in literature."], "src": "iwb"}
+{"w": "tragopan", "pos": "noun", "d": ["Any of several brightly colored Asian pheasants with horn-like wattles."], "src": "iwb"}
+{"w": "tragus", "pos": "noun", "d": ["The small cartilaginous flap in front of the opening of the ear."], "src": "iwb"}
+{"w": "trail rope", "pos": "phrase", "d": ["A long rope dragged from a balloon to steady its flight near the ground."], "src": "iwb"}
+{"w": "trailing edge", "pos": "phrase", "d": ["The rear edge of an aircraft wing or propeller blade."], "src": "iwb"}
+{"w": "train dispatcher", "pos": "phrase", "d": ["An official who directs the movement of trains over a section of track."], "src": "iwb"}
+{"w": "train oil", "pos": "phrase", "d": ["Oil rendered from whale blubber."], "src": "iwb"}
+{"w": "trainel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trainy", "pos": "adjective", "d": ["Having the smell or greasy quality of train oil."], "src": "iwb"}
+{"w": "traipse", "pos": "verb", "d": ["To walk or wander about in a tired or aimless way."], "src": "iwb"}
+{"w": "trais", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trait", "pos": "noun", "d": ["A distinguishing quality or characteristic of a person or thing."], "src": "iwb"}
+{"w": "traiteur", "pos": "noun", "d": ["A traditional folk healer, especially among Louisiana Creoles."], "src": "iwb"}
+{"w": "traitor", "pos": "noun", "d": ["One who betrays a country, cause, or trust."], "src": "iwb"}
+{"w": "traitoress", "pos": "noun", "d": ["A woman who betrays a trust or country."], "src": "iwb"}
+{"w": "traitress", "pos": "noun", "d": ["A woman who is a traitor."], "src": "iwb"}
+{"w": "traject", "pos": "verb", "d": ["To throw or hurl across or through."], "src": "iwb"}
+{"w": "trajet", "pos": "noun", "d": ["A journey or crossing from one place to another."], "src": "iwb"}
+{"w": "trajetry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tralation", "pos": "noun", "d": ["A metaphor; the figurative use of a word in place of its proper sense."], "src": "iwb"}
+{"w": "tralatition", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tralatitious", "pos": "adjective", "d": ["Handed down from one to another; derived by metaphor."], "src": "iwb"}
+{"w": "tralineate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tralucency", "pos": "noun", "d": ["The quality of letting some light pass through; translucence."], "src": "iwb"}
+{"w": "tralucent", "pos": "adjective", "d": ["Letting light pass through partially; translucent."], "src": "iwb"}
+{"w": "tram", "pos": "noun", "d": ["A streetcar running on rails in a city.", "A small wagon or car used in mines."], "src": "iwb"}
+{"w": "trama", "pos": "noun", "d": ["The inner fleshy tissue of a mushroom's cap or gills."], "src": "iwb"}
+{"w": "tramble", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trammel", "pos": "noun", "d": ["Anything that hinders free movement; a restraint.", "A fishing net with three layers of mesh.", "A shackle for hobbling a horse."], "src": "iwb"}
+{"w": "trammel wheel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tramontana", "pos": "noun", "d": ["A cold north wind of the Mediterranean region."], "src": "iwb"}
+{"w": "tramontane", "pos": "adjective", "d": ["Coming from beyond the mountains, especially the Alps.", "Foreign or barbarous in manner."], "src": "iwb"}
+{"w": "tramp", "pos": "verb", "d": ["To walk with heavy, noisy steps.", "To wander from place to place on foot."], "src": "iwb"}
+{"w": "trample", "pos": "verb", "d": ["To tread heavily and crush underfoot."], "src": "iwb"}
+{"w": "trampoose", "pos": "verb", "d": ["To tramp or walk heavily about."], "src": "iwb"}
+{"w": "tranation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tranect", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trangram", "pos": "noun", "d": ["A word formed by rearranging the letters of another word; an anagram."], "src": "iwb"}
+{"w": "trannel", "pos": "noun", "d": ["A wooden peg or pin used to fasten timbers together."], "src": "iwb"}
+{"w": "tranquil", "pos": "adjective", "d": ["Calm, peaceful, and free from disturbance."], "src": "iwb"}
+{"w": "tranquilization", "pos": "noun", "d": ["The act of making calm or peaceful."], "src": "iwb"}
+{"w": "tranquillity", "pos": "noun", "d": ["The state of being calm and peaceful."], "src": "iwb"}
+{"w": "tranquillization", "pos": "noun", "d": ["The act of rendering calm, as by a sedative drug."], "src": "iwb"}
+{"w": "tranquillize", "pos": "verb", "d": ["To make calm or peaceful."], "src": "iwb"}
+{"w": "trans-", "pos": "prefix", "d": ["A prefix meaning across, beyond, or through, as in transatlantic."], "src": "iwb"}
+{"w": "transact", "pos": "verb", "d": ["To carry on or conduct business."], "src": "iwb"}
+{"w": "transactor", "pos": "noun", "d": ["One who transacts or conducts business."], "src": "iwb"}
+{"w": "transalpine", "pos": "adjective", "d": ["Lying or situated beyond the Alps."], "src": "iwb"}
+{"w": "transanimate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transanimation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transatlantic", "pos": "adjective", "d": ["Crossing or lying beyond the Atlantic Ocean."], "src": "iwb"}
+{"w": "transaudient", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transcalency", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transcalent", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transcend", "pos": "verb", "d": ["To rise above or go beyond the limits of.", "To surpass in excellence."], "src": "iwb"}
+{"w": "transcendency", "pos": "noun", "d": ["The quality of surpassing others; excellence beyond ordinary limits."], "src": "iwb"}
+{"w": "transcension", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transcolate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transcolation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transcontinental", "pos": "adjective", "d": ["Extending or crossing a continent."], "src": "iwb"}
+{"w": "transcorporate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transcribbler", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transcribe", "pos": "verb", "d": ["To write out a copy of spoken or recorded words.", "To arrange music for a different instrument or voice."], "src": "iwb"}
+{"w": "transcur", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transcurrence", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transdialect", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transduction", "pos": "noun", "d": ["The transfer of genetic material from one bacterium to another by a virus.", "The conversion of one form of energy or a signal into another."], "src": "iwb"}
+{"w": "transe", "pos": "noun", "d": ["A state of mental abstraction; a trance."], "src": "iwb"}
+{"w": "transelement", "pos": "verb", "d": ["To change from one element into another."], "src": "iwb"}
+{"w": "transenne", "pos": "noun", "d": ["A screen of latticework, especially one enclosing a shrine or choir."], "src": "iwb"}
+{"w": "transept", "pos": "noun", "d": ["The crosswise part of a church between the nave and the choir."], "src": "iwb"}
+{"w": "transexion", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transfeminate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transferee", "pos": "noun", "d": ["One to whom something is transferred."], "src": "iwb"}
+{"w": "transferography", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transferrence", "pos": "noun", "d": ["The act of transferring from one place or person to another."], "src": "iwb"}
+{"w": "transferrible", "pos": "adjective", "d": ["Capable of being transferred."], "src": "iwb"}
+{"w": "transfigurate", "pos": "verb", "d": ["To change in form or appearance; to transfigure."], "src": "iwb"}
+{"w": "transfiguration", "pos": "noun", "d": ["A change in form or appearance.", "The glorified change in Christ's appearance witnessed by the disciples."], "src": "iwb"}
+{"w": "transfigure", "pos": "verb", "d": ["To change the outward form or appearance of."], "src": "iwb"}
+{"w": "transfix", "pos": "verb", "d": ["To pierce through with a pointed weapon.", "To hold motionless, as with amazement or terror."], "src": "iwb"}
+{"w": "transfluent", "pos": "adjective", "d": ["Flowing across or through."], "src": "iwb"}
+{"w": "transflux", "pos": "noun", "d": ["A flowing across; a passage of fluid through something."], "src": "iwb"}
+{"w": "transforate", "pos": "verb", "d": ["To bore or pierce through."], "src": "iwb"}
+{"w": "transformative", "pos": "adjective", "d": ["Causing or marked by a thorough change."], "src": "iwb"}
+{"w": "transfreight", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transfretation", "pos": "noun", "d": ["A crossing over a strait or narrow sea."], "src": "iwb"}
+{"w": "transfrete", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transfuge", "pos": "noun", "d": ["One who flees from one party to another; a deserter."], "src": "iwb"}
+{"w": "transfugitive", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transfund", "pos": "verb", "d": ["To pour from one vessel into another; to transfer by pouring."], "src": "iwb"}
+{"w": "transfuse", "pos": "verb", "d": ["To transfer blood from one person or animal to another.", "To spread or diffuse through something."], "src": "iwb"}
+{"w": "transfusible", "pos": "adjective", "d": ["Capable of being transfused."], "src": "iwb"}
+{"w": "transfusion", "pos": "noun", "d": ["The transfer of blood from one person or animal into another.", "The act of pouring or diffusing something through."], "src": "iwb"}
+{"w": "transfusive", "pos": "adjective", "d": ["Tending to transfuse; capable of being transfused."], "src": "iwb"}
+{"w": "transgress", "pos": "verb", "d": ["To go beyond a limit or law; to violate.", "To pass over or across."], "src": "iwb"}
+{"w": "transgressor", "pos": "noun", "d": ["One who breaks a law or command; an offender."], "src": "iwb"}
+{"w": "transhape", "pos": "verb", "d": ["To change the shape or form of."], "src": "iwb"}
+{"w": "tranship", "pos": "verb", "d": ["To transfer goods from one ship or vehicle to another."], "src": "iwb"}
+{"w": "transhuman", "pos": "adjective", "d": ["Beyond what is human; surpassing normal human limits."], "src": "iwb"}
+{"w": "transience", "pos": "noun", "d": ["The quality of lasting only a short time."], "src": "iwb"}
+{"w": "transiency", "pos": "noun", "d": ["The state of being transient; brief duration."], "src": "iwb"}
+{"w": "transient", "pos": "adjective", "d": ["Lasting only a short time; passing quickly."], "src": "iwb"}
+{"w": "transilience", "pos": "noun", "d": ["A leaping or passing from one thing to another."], "src": "iwb"}
+{"w": "transiliency", "pos": "noun", "d": ["The quality of leaping across; abrupt transition."], "src": "iwb"}
+{"w": "transire", "pos": "noun", "d": ["A customs permit allowing goods to pass from one place to another."], "src": "iwb"}
+{"w": "transisthmian", "pos": "adjective", "d": ["Extending across or situated beyond an isthmus."], "src": "iwb"}
+{"w": "transition zone", "pos": "phrase", "d": ["An area of change between two different regions or conditions."], "src": "iwb"}
+{"w": "transitorily", "pos": "adverb", "d": ["In a passing or temporary manner."], "src": "iwb"}
+{"w": "transitoriness", "pos": "noun", "d": ["The quality of being short-lived or temporary."], "src": "iwb"}
+{"w": "translatitious", "pos": "adjective", "d": ["Transferred from a literal to a figurative sense; metaphorical."], "src": "iwb"}
+{"w": "translative", "pos": "adjective", "d": ["Relating to translation; serving to translate."], "src": "iwb"}
+{"w": "translatory", "pos": "adjective", "d": ["Pertaining to translation."], "src": "iwb"}
+{"w": "translatress", "pos": "noun", "d": ["A woman who translates."], "src": "iwb"}
+{"w": "translavation", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transliterate", "pos": "verb", "d": ["To write words in the letters of a different alphabet."], "src": "iwb"}
+{"w": "transliteration", "pos": "noun", "d": ["The act of writing words in a different alphabet."], "src": "iwb"}
+{"w": "translocation", "pos": "noun", "d": ["The act of moving from one place to another.", "In genetics, the exchange of segments between chromosomes."], "src": "iwb"}
+{"w": "translucence", "pos": "noun", "d": ["The quality of letting light pass through partially."], "src": "iwb"}
+{"w": "translucency", "pos": "noun", "d": ["The state of being translucent."], "src": "iwb"}
+{"w": "translucent", "pos": "adjective", "d": ["Allowing light to pass through but not transparent."], "src": "iwb"}
+{"w": "translucid", "pos": "adjective", "d": ["Translucent; letting some light through."], "src": "iwb"}
+{"w": "translunary", "pos": "adjective", "d": ["Beyond the moon; celestial."], "src": "iwb"}
+{"w": "transmarine", "pos": "adjective", "d": ["Beyond or across the sea."], "src": "iwb"}
+{"w": "transmeable", "pos": "adjective", "d": ["Capable of being passed through or permeated."], "src": "iwb"}
+{"w": "transmeate", "pos": "verb", "d": ["To pass through something, as a fluid seeps through a porous surface."], "src": "iwb"}
+{"w": "transmeation", "pos": "noun", "d": ["The act or process of passing through something."], "src": "iwb"}
+{"w": "transmew", "pos": "verb", "d": ["To change from one form or condition into another; to transform."], "src": "iwb"}
+{"w": "transmigrant", "pos": "noun", "d": ["A person who passes through a country or place on the way to a final destination.", "In some beliefs, a soul passing from one body into another after death."], "src": "iwb"}
+{"w": "transmigrate", "pos": "verb", "d": ["To move from one place, state, or body into another.", "Of a soul, to pass into a new body after death."], "src": "iwb"}
+{"w": "transmigration", "pos": "noun", "d": ["The passing of the soul into another body after death, as taught in several religions.", "The act of moving from one place or condition to another."], "src": "iwb"}
+{"w": "transmigrator", "pos": "noun", "d": ["One who transmigrates; one who passes from one place or body into another."], "src": "iwb"}
+{"w": "transmigratory", "pos": "adjective", "d": ["Relating to or marked by transmigration."], "src": "iwb"}
+{"w": "transmissibility", "pos": "noun", "d": ["The quality of being transmissible; the ease with which something, such as a disease, passes from one person or thing to another."], "src": "iwb"}
+{"w": "transmissible", "pos": "adjective", "d": ["Able to be passed from one person or thing to another, as a disease or a signal."], "src": "iwb"}
+{"w": "transmission dynamometer", "pos": "noun", "d": ["An instrument that measures the power transmitted through a rotating shaft, used in testing engines and machines."], "src": "iwb"}
+{"w": "transmissive", "pos": "adjective", "d": ["Having the quality of transmitting; allowing light, heat, or signals to pass through."], "src": "iwb"}
+{"w": "transmittal", "pos": "noun", "d": ["The act of transmitting something from one place or person to another.", "A message, document, or item that is sent."], "src": "iwb"}
+{"w": "transmittance", "pos": "noun", "d": ["The fraction of light or other radiation that passes through a material rather than being absorbed or reflected."], "src": "iwb"}
+{"w": "transmittible", "pos": "adjective", "d": ["Capable of being passed or sent from one place, person, or thing to another."], "src": "iwb"}
+{"w": "transmogrification", "pos": "noun", "d": ["A complete and often surprising change of form or character, especially into something strange or grotesque."], "src": "iwb"}
+{"w": "transmogrify", "pos": "verb", "d": ["To change completely in form or appearance, often in a strange or comical way."], "src": "iwb"}
+{"w": "transmove", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transmutability", "pos": "noun", "d": ["The capacity to be changed from one form, substance, or nature into another."], "src": "iwb"}
+{"w": "transmutation", "pos": "noun", "d": ["The act of changing something into a different form or substance.", "In alchemy, the supposed conversion of base metals into gold."], "src": "iwb"}
+{"w": "transmute", "pos": "verb", "d": ["To change into another form, substance, or nature."], "src": "iwb"}
+{"w": "transmutual", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transnatation", "pos": "noun", "d": ["The act of swimming across a body of water, such as a river or channel."], "src": "iwb"}
+{"w": "transnature", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transom", "pos": "noun", "d": ["A horizontal beam or bar across the top of a door or window.", "A small window set above a door."], "src": "iwb"}
+{"w": "transpadane", "pos": "adjective", "d": ["Situated beyond the Po River; relating to the region north of the Po in Italy."], "src": "iwb"}
+{"w": "transpalatine", "pos": "adjective", "d": ["Situated across or beyond the Palatine Hill in Rome."], "src": "iwb"}
+{"w": "transpare", "pos": "verb", "d": ["To appear or become evident; to show through."], "src": "iwb"}
+{"w": "transparence", "pos": "noun", "d": ["The quality of being transparent; the state of letting light pass through so that things behind can be seen."], "src": "iwb"}
+{"w": "transpass", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transpatronize", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transpeciate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transpicuous", "pos": "adjective", "d": ["Transparent; so clear that light passes through and objects are plainly seen.", "Easy to see through or understand; crystal clear."], "src": "iwb"}
+{"w": "transpierce", "pos": "verb", "d": ["To pierce completely through; to pass through by piercing."], "src": "iwb"}
+{"w": "transpiration", "pos": "noun", "d": ["The process by which water vapor escapes from a living plant through its leaves and stems.", "The act of passing through pores or a membrane."], "src": "iwb"}
+{"w": "transpiratory", "pos": "adjective", "d": ["Relating to or causing transpiration."], "src": "iwb"}
+{"w": "transpire", "pos": "verb", "d": ["To happen or take place; to occur.", "Of a plant, to give off water vapor through its pores."], "src": "iwb"}
+{"w": "transplace", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transplant", "pos": "verb", "d": ["To move something from one place and fix it in another, as a seedling set into a new bed or an organ placed into a patient's body."], "src": "iwb"}
+{"w": "transplendency", "pos": "noun", "d": ["Radiant brightness that shines through; brilliant clearness."], "src": "iwb"}
+{"w": "transplendent", "pos": "adjective", "d": ["Shining through; brilliantly clear and radiant."], "src": "iwb"}
+{"w": "transposal", "pos": "noun", "d": ["The act of transposing; the state of being transposed.", "Something that has been transposed from one place, order, or key to another."], "src": "iwb"}
+{"w": "transpose", "pos": "verb", "d": ["To change the relative position or order of two or more things.", "In music, to write or play a piece in a key different from the original."], "src": "iwb"}
+{"w": "transposition", "pos": "noun", "d": ["The act of transposing; a change in the order, position, or key of something."], "src": "iwb"}
+{"w": "transpositive", "pos": "adjective", "d": ["Relating to or involving transposition."], "src": "iwb"}
+{"w": "transprint", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transprose", "pos": "verb", "d": ["To turn into prose, as to rewrite verse in ordinary prose form."], "src": "iwb"}
+{"w": "transregionate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transshape", "pos": "verb", "d": ["To change the shape or form of something; to transform."], "src": "iwb"}
+{"w": "transship", "pos": "verb", "d": ["To transfer goods from one ship, train, or other carrier to another during a journey."], "src": "iwb"}
+{"w": "transsummer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transubstantiate", "pos": "verb", "d": ["To change one substance into another.", "In Christian theology, to change the bread and wine of the Eucharist into the body and blood of Christ."], "src": "iwb"}
+{"w": "transubstantiation", "pos": "noun", "d": ["The changing of one substance into another.", "The doctrine that the bread and wine of the Eucharist become the body and blood of Christ."], "src": "iwb"}
+{"w": "transubstantiator", "pos": "noun", "d": ["One who changes one substance into another.", "One who holds the doctrine of transubstantiation."], "src": "iwb"}
+{"w": "transudation", "pos": "noun", "d": ["The oozing of a fluid through a membrane or pores.", "The fluid that has passed through in this way."], "src": "iwb"}
+{"w": "transudatory", "pos": "adjective", "d": ["Relating to transudation.", "Allowing fluid to ooze through."], "src": "iwb"}
+{"w": "transude", "pos": "verb", "d": ["To ooze or pass through pores or a membrane."], "src": "iwb"}
+{"w": "transume", "pos": "verb", "d": ["To take or transfer from one place to another.", "To make a written copy of a record."], "src": "iwb"}
+{"w": "transumpt", "pos": "noun", "d": ["A copy or transcript of a legal record."], "src": "iwb"}
+{"w": "transvasate", "pos": "verb", "d": ["To pour from one vessel into another."], "src": "iwb"}
+{"w": "transvasation", "pos": "noun", "d": ["The act of pouring from one vessel into another."], "src": "iwb"}
+{"w": "transvection", "pos": "noun", "d": ["The act of carrying or conveying across.", "In medieval belief, the carrying of witches through the air."], "src": "iwb"}
+{"w": "transverberate", "pos": "verb", "d": ["To pierce or strike through."], "src": "iwb"}
+{"w": "transversal", "pos": "adjective", "d": ["Lying or running across from side to side.", "Cutting across other lines, as a line crossing a set of parallel lines."], "src": "iwb"}
+{"w": "transverse", "pos": "adjective", "d": ["Lying or extending across something.", "At right angles to the long axis of a body."], "src": "iwb"}
+{"w": "transversion", "pos": "noun", "d": ["The act of turning across or over.", "In genetics, a mutation that replaces a purine base with a pyrimidine or the reverse."], "src": "iwb"}
+{"w": "transvert", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "transvolation", "pos": "noun", "d": ["The act of flying across or over."], "src": "iwb"}
+{"w": "trant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trap shooting", "pos": "phrase", "d": ["A sport in which shooters fire at clay targets flung into the air."], "src": "iwb"}
+{"w": "trapan", "pos": "verb", "d": ["To trap or ensnare by trickery."], "src": "iwb"}
+{"w": "trape", "pos": "verb", "d": ["To wander or trudge about idly; to traipse."], "src": "iwb"}
+{"w": "trapezate", "pos": "adjective", "d": ["Shaped like a trapezium; four-sided."], "src": "iwb"}
+{"w": "trapeze", "pos": "noun", "d": ["A short horizontal bar hung by two ropes, used by acrobats."], "src": "iwb"}
+{"w": "trapeziform", "pos": "adjective", "d": ["Having the form of a trapezium."], "src": "iwb"}
+{"w": "trapezium", "pos": "noun", "d": ["A quadrilateral with no parallel sides.", "A small bone of the wrist at the base of the thumb."], "src": "iwb"}
+{"w": "trapezohedral", "pos": "adjective", "d": ["Having the form of a trapezohedron."], "src": "iwb"}
+{"w": "trapezohedron", "pos": "noun", "d": ["A solid bounded by congruent four-sided faces."], "src": "iwb"}
+{"w": "trapezoid", "pos": "noun", "d": ["A quadrilateral with exactly one pair of parallel sides.", "A small bone of the wrist next to the trapezium."], "src": "iwb"}
+{"w": "trappings", "pos": "noun", "d": ["Ornamental coverings or decorations, especially for a horse.", "The outward signs or accessories of rank or office."], "src": "iwb"}
+{"w": "trappous", "pos": "adjective", "d": ["Relating to or resembling trapp, a dark volcanic rock."], "src": "iwb"}
+{"w": "trappures", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trappy", "pos": "adjective", "d": ["Full of traps or snares.", "Tricky or deceptive."], "src": "iwb"}
+{"w": "trashily", "pos": "adverb", "d": ["In a trashy manner; cheaply or shoddily."], "src": "iwb"}
+{"w": "trashiness", "pos": "noun", "d": ["The quality of being trashy; worthlessness."], "src": "iwb"}
+{"w": "trashy", "pos": "adjective", "d": ["Of poor quality; cheap and worthless.", "Showy in a cheap or tasteless way."], "src": "iwb"}
+{"w": "trass", "pos": "noun", "d": ["A volcanic rock ground up for use in making hydraulic cement."], "src": "iwb"}
+{"w": "traulism", "pos": "noun", "d": ["Stammering or stuttering in speech."], "src": "iwb"}
+{"w": "traumatic", "pos": "adjective", "d": ["Relating to a wound or bodily injury.", "Causing or marked by severe emotional shock."], "src": "iwb"}
+{"w": "traumatism", "pos": "noun", "d": ["The morbid condition resulting from a wound or severe shock."], "src": "iwb"}
+{"w": "traunce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "traunt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "travail", "pos": "noun", "d": ["Painful or laborious work; toil.", "The pangs of childbirth."], "src": "iwb"}
+{"w": "trave", "pos": "noun", "d": ["A crossbeam in a building.", "A frame for holding a horse still while it is being shod."], "src": "iwb"}
+{"w": "travel-tainted", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "travers", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "traverse", "pos": "verb", "d": ["To travel across or through.", "To move back and forth over."], "src": "iwb"}
+{"w": "traverse drill", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "travertine", "pos": "noun", "d": ["A light-colored limestone deposited by mineral springs, used as building stone."], "src": "iwb"}
+{"w": "travois", "pos": "noun", "d": ["A frame of two poles dragged behind a horse or dog, used to carry loads."], "src": "iwb"}
+{"w": "trawl", "pos": "verb", "d": ["To fish by dragging a large net through the water behind a boat.", "A large cone-shaped fishing net dragged behind a boat to catch fish."], "src": "iwb"}
+{"w": "tray-trip", "pos": "noun", "d": ["An old dice game once played in English taverns."], "src": "iwb"}
+{"w": "treacher", "pos": "noun", "d": ["An obsolete word for a cheat or deceiver.", "An obsolete word for a traitor."], "src": "iwb"}
+{"w": "treachery", "pos": "noun", "d": ["The betrayal of trust by someone who owes loyalty."], "src": "iwb"}
+{"w": "treachetour", "pos": "noun", "d": ["An obsolete spelling of treacher, meaning a deceiver or traitor."], "src": "iwb"}
+{"w": "treachour", "pos": "noun", "d": ["An obsolete form of the word for a traitor or deceiver."], "src": "iwb"}
+{"w": "treacle", "pos": "noun", "d": ["A thick dark sweet syrup made during sugar refining.", "Cloyingly sweet or sentimental talk or writing."], "src": "iwb"}
+{"w": "treacly", "pos": "adjective", "d": ["Thick and sweet like treacle.", "Sickeningly sweet or sentimental."], "src": "iwb"}
+{"w": "tread", "pos": "verb", "d": ["To step or walk on something.", "To crush or press down with the feet."], "src": "iwb"}
+{"w": "tread-softly", "pos": "noun", "d": ["A stinging shrub of the southeastern United States whose hairs cause a painful rash."], "src": "iwb"}
+{"w": "treadle", "pos": "noun", "d": ["A foot-operated lever that drives a machine, as on a sewing machine or loom."], "src": "iwb"}
+{"w": "treague", "pos": "noun", "d": ["An obsolete word for a truce."], "src": "iwb"}
+{"w": "treason", "pos": "noun", "d": ["The crime of betraying one's own country.", "A betrayal of trust or loyalty."], "src": "iwb"}
+{"w": "treasure-house", "pos": "noun", "d": ["A place where treasure is kept.", "A rich store of valuable things."], "src": "iwb"}
+{"w": "treasure-trove", "pos": "noun", "d": ["Valuable items found hidden whose owner is unknown."], "src": "iwb"}
+{"w": "treasuress", "pos": "noun", "d": ["A woman who is a treasurer."], "src": "iwb"}
+{"w": "treasury stock", "pos": "noun", "d": ["Shares that a company has bought back from investors and holds itself."], "src": "iwb"}
+{"w": "treble", "pos": "adjective", "d": ["Three times as much or as many.", "The highest voice or part in music.", "To make three times greater."], "src": "iwb"}
+{"w": "treblet", "pos": "noun", "d": ["A small or young singer of the treble part."], "src": "iwb"}
+{"w": "trebly", "pos": "adverb", "d": ["In a treble or threefold manner."], "src": "iwb"}
+{"w": "trebuchet", "pos": "noun", "d": ["A medieval siege engine that hurled stones with a long swinging arm."], "src": "iwb"}
+{"w": "trebucket", "pos": "noun", "d": ["An archaic spelling variant of the trebuchet, the medieval counterweighted catapult."], "src": "iwb"}
+{"w": "trecentist", "pos": "noun", "d": ["An Italian artist or writer of the 1300s."], "src": "iwb"}
+{"w": "trecento", "pos": "noun", "d": ["The 1300s in Italian art and literature."], "src": "iwb"}
+{"w": "trechometer", "pos": "noun", "d": ["An instrument for measuring distance traveled on a road."], "src": "iwb"}
+{"w": "treckschuyt", "pos": "noun", "d": ["A covered Dutch canal boat once used for passengers and freight."], "src": "iwb"}
+{"w": "treddle", "pos": "noun", "d": ["A dialectal form of treadle, a foot-operated lever.", "In Scotland, the round droppings of sheep or hares."], "src": "iwb"}
+{"w": "tredille", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tree burial", "pos": "noun", "d": ["The practice of placing the dead in trees or on raised platforms."], "src": "iwb"}
+{"w": "tree calf", "pos": "noun", "d": ["Calfskin bookbinding stained with a branching tree-like pattern."], "src": "iwb"}
+{"w": "treen", "pos": "noun", "d": ["Small household articles made of wood."], "src": "iwb"}
+{"w": "tref", "pos": "adjective", "d": ["Not kosher; forbidden by Jewish dietary law."], "src": "iwb"}
+{"w": "trefle", "pos": "noun", "d": ["A trefoil ornament.", "The suit of clubs in French playing cards."], "src": "iwb"}
+{"w": "treget", "pos": "noun", "d": ["An obsolete word for trickery or deceit."], "src": "iwb"}
+{"w": "tregetry", "pos": "noun", "d": ["Deceitful trickery; imposture."], "src": "iwb"}
+{"w": "trehala", "pos": "noun", "d": ["A sweet manna-like substance formed by insects on certain plants."], "src": "iwb"}
+{"w": "trehalose", "pos": "noun", "d": ["A sugar found in fungi, insects, and plants that helps cells survive drying."], "src": "iwb"}
+{"w": "treillage", "pos": "noun", "d": ["Latticework or trellis work, especially for training vines."], "src": "iwb"}
+{"w": "trekometer", "pos": "noun", "d": ["An instrument that measures the distance a person walks."], "src": "iwb"}
+{"w": "trellis", "pos": "noun", "d": ["A frame of crossed strips that supports climbing plants."], "src": "iwb"}
+{"w": "tremando", "pos": "adverb", "d": ["In music, to be played with a trembling effect."], "src": "iwb"}
+{"w": "trematode", "pos": "noun", "d": ["A parasitic flatworm, such as a fluke."], "src": "iwb"}
+{"w": "trematodea", "pos": "noun", "d": ["The class of parasitic flatworms commonly called flukes."], "src": "iwb"}
+{"w": "trematoid", "pos": "adjective", "d": ["Resembling a trematode or fluke."], "src": "iwb"}
+{"w": "tremble", "pos": "verb", "d": ["To shake slightly from fear, cold, or weakness."], "src": "iwb"}
+{"w": "tremella", "pos": "noun", "d": ["A genus of jelly-like fungi."], "src": "iwb"}
+{"w": "tremex", "pos": "noun", "d": ["A genus of large wood-boring wasps."], "src": "iwb"}
+{"w": "tremie", "pos": "noun", "d": ["A pipe used to place concrete underwater without mixing it with water."], "src": "iwb"}
+{"w": "tremolando", "pos": "adverb", "d": ["In music, with a rapid trembling or wavering of tone."], "src": "iwb"}
+{"w": "tremolite", "pos": "noun", "d": ["A white or gray mineral of the amphibole group."], "src": "iwb"}
+{"w": "tremolo", "pos": "noun", "d": ["A musical effect produced by the rapid repetition of a single note or the rapid alternation between two notes.", "In singing, a trembling or wavering quality of the voice."], "src": "iwb"}
+{"w": "tremor", "pos": "noun", "d": ["An involuntary shaking or quivering of the body or a part of it.", "A slight earthquake."], "src": "iwb"}
+{"w": "tremulant", "pos": "noun", "d": ["A stop on a pipe organ that gives the tone a trembling or wavering quality."], "src": "iwb"}
+{"w": "tremulent", "pos": "adjective", "d": ["Trembling or quivering."], "src": "iwb"}
+{"w": "tremulous", "pos": "adjective", "d": ["Shaking or quivering slightly, as from fear, weakness, or excitement.", "Timid or nervous in manner."], "src": "iwb"}
+{"w": "tren", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trench", "pos": "noun", "d": ["A long narrow ditch dug in the ground, especially one used for military defense, drainage, or irrigation."], "src": "iwb"}
+{"w": "trench-plough", "pos": "noun", "d": ["A plow designed to cut deep furrows or ditches in the soil."], "src": "iwb"}
+{"w": "trench-plow", "pos": "noun", "d": ["A plow designed to cut deep furrows or ditches in the soil."], "src": "iwb"}
+{"w": "trencher-man", "pos": "noun", "d": ["A person who eats heartily and with great appetite."], "src": "iwb"}
+{"w": "trendle", "pos": "noun", "d": ["A small wheel, roller, or disk."], "src": "iwb"}
+{"w": "trennel", "pos": "noun", "d": ["A long wooden peg or pin used to fasten the timbers of a ship."], "src": "iwb"}
+{"w": "trental", "pos": "noun", "d": ["A set of thirty masses said for the repose of a dead person's soul, or the fee paid for them."], "src": "iwb"}
+{"w": "trente et quarante", "pos": "phrase", "d": ["A French card game of chance whose name means thirty and forty."], "src": "iwb"}
+{"w": "trenton period", "pos": "phrase", "d": ["A division of the Ordovician geologic period, named for the Trenton limestone of New York."], "src": "iwb"}
+{"w": "trepan", "pos": "noun", "d": ["A cylindrical saw used by surgeons to cut a circular opening in the skull."], "src": "iwb"}
+{"w": "trepang", "pos": "noun", "d": ["A sea cucumber, especially as prepared for food in East Asian cooking."], "src": "iwb"}
+{"w": "trepeget", "pos": "noun", "d": ["A medieval engine of war for hurling stones; an early form of the trebuchet."], "src": "iwb"}
+{"w": "trephine", "pos": "noun", "d": ["A small cylindrical surgical saw for removing a circular section of bone, especially from the skull."], "src": "iwb"}
+{"w": "trepid", "pos": "adjective", "d": ["Trembling with fear; fearful."], "src": "iwb"}
+{"w": "tres-tine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tres-tyne", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tresayle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tresor", "pos": "noun", "d": ["A treasury; a storehouse for valuable things."], "src": "iwb"}
+{"w": "trespass", "pos": "verb", "d": ["To enter another person's land or property without permission.", "To commit an offense or sin."], "src": "iwb"}
+{"w": "tress", "pos": "noun", "d": ["A long lock or braid of hair."], "src": "iwb"}
+{"w": "tressel", "pos": "noun", "d": ["A supporting frame or stand; a trestle."], "src": "iwb"}
+{"w": "tressy", "pos": "adjective", "d": ["Adorned with or full of tresses; having long flowing hair."], "src": "iwb"}
+{"w": "trestle", "pos": "noun", "d": ["A frame with legs used as a support, as for a tabletop, a bridge, or a scaffold."], "src": "iwb"}
+{"w": "tret", "pos": "noun", "d": ["An allowance formerly made for loss in the weight of certain goods through waste or handling."], "src": "iwb"}
+{"w": "trething", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tretis", "pos": "noun", "d": ["An archaic spelling of treatise."], "src": "iwb"}
+{"w": "tretys", "pos": "noun", "d": ["An archaic spelling of treatise."], "src": "iwb"}
+{"w": "trevat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trevet", "pos": "noun", "d": ["An iron stand with three legs for holding a pot over a fire; a trivet."], "src": "iwb"}
+{"w": "trew", "pos": "adjective", "d": ["An archaic or Scots spelling of true."], "src": "iwb"}
+{"w": "trewe", "pos": "adjective", "d": ["An archaic spelling of true."], "src": "iwb"}
+{"w": "trewth", "pos": "noun", "d": ["An archaic spelling of truth."], "src": "iwb"}
+{"w": "trey", "pos": "noun", "d": ["A three at cards or dice; a card or die face showing three spots."], "src": "iwb"}
+{"w": "tri-", "pos": "prefix", "d": ["A combining form meaning three."], "src": "iwb"}
+{"w": "triacle", "pos": "noun", "d": ["An old medicinal preparation believed to counteract poison; an antidote."], "src": "iwb"}
+{"w": "triacontahedral", "pos": "adjective", "d": ["Having thirty faces, as a polyhedron."], "src": "iwb"}
+{"w": "triaconter", "pos": "noun", "d": ["An ancient vessel propelled by thirty oars."], "src": "iwb"}
+{"w": "triad", "pos": "noun", "d": ["A group or set of three."], "src": "iwb"}
+{"w": "triakisoctahedron", "pos": "noun", "d": ["A solid with twenty-four triangular faces, formed by raising a low pyramid on each face of an octahedron."], "src": "iwb"}
+{"w": "trial balance", "pos": "phrase", "d": ["In bookkeeping, a list of all ledger balances drawn up to check that total debits equal total credits."], "src": "iwb"}
+{"w": "trialogue", "pos": "noun", "d": ["A conversation or discussion involving three people."], "src": "iwb"}
+{"w": "triander", "pos": "noun", "d": ["A plant having three stamens."], "src": "iwb"}
+{"w": "triandria", "pos": "noun", "d": ["The Linnaean class of plants having three stamens."], "src": "iwb"}
+{"w": "triandrian", "pos": "adjective", "d": ["Belonging to the Triandria; having three stamens."], "src": "iwb"}
+{"w": "trias", "pos": "noun", "d": ["An early geological term for the Triassic period of the Mesozoic era."], "src": "iwb"}
+{"w": "triatic", "pos": "adjective", "d": ["Of or relating to the Triassic period."], "src": "iwb"}
+{"w": "tribble", "pos": "noun", "d": ["A small, round, furry fictional creature known for multiplying extremely fast."], "src": "iwb"}
+{"w": "tribolet", "pos": "noun", "d": ["A tapered steel mandrel used by jewelers to shape and size finger rings."], "src": "iwb"}
+{"w": "tribometer", "pos": "noun", "d": ["An instrument for measuring friction between two rubbing surfaces."], "src": "iwb"}
+{"w": "tribromophenol", "pos": "noun", "d": ["A bromine compound of phenol formerly used as an antiseptic."], "src": "iwb"}
+{"w": "tribromphenol", "pos": "noun", "d": ["A variant spelling of tribromophenol, an antiseptic bromine compound."], "src": "iwb"}
+{"w": "tribual", "pos": "adjective", "d": ["Of or belonging to a tribe; tribal."], "src": "iwb"}
+{"w": "tribular", "pos": "adjective", "d": ["Of or relating to tribute; tributary."], "src": "iwb"}
+{"w": "tribulation", "pos": "noun", "d": ["Great trouble or suffering; a severe trial or affliction."], "src": "iwb"}
+{"w": "tribunary", "pos": "adjective", "d": ["Of or relating to a tribunal."], "src": "iwb"}
+{"w": "tribunate", "pos": "noun", "d": ["The office or term of a tribune in ancient Rome."], "src": "iwb"}
+{"w": "tribunician", "pos": "adjective", "d": ["Of or relating to a Roman tribune or the tribunate."], "src": "iwb"}
+{"w": "tribunitial", "pos": "adjective", "d": ["Of or relating to the tribunes or tribunate, especially in revolutionary France."], "src": "iwb"}
+{"w": "tribunitian", "pos": "adjective", "d": ["Of or belonging to a tribune or the tribunate."], "src": "iwb"}
+{"w": "tribunitious", "pos": "adjective", "d": ["Of or pertaining to a tribune; tribunician."], "src": "iwb"}
+{"w": "tributarily", "pos": "adverb", "d": ["In the manner of a tributary; as a tribute or contribution."], "src": "iwb"}
+{"w": "tributariness", "pos": "noun", "d": ["The state or quality of being tributary."], "src": "iwb"}
+{"w": "tributary", "pos": "noun", "d": ["A stream or river that flows into a larger river or lake.", "A nation or ruler that pays tribute to another power."], "src": "iwb"}
+{"w": "trica", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tricarballylic", "pos": "adjective", "d": ["Of or relating to tricarballylic acid, an organic acid with three carboxyl groups."], "src": "iwb"}
+{"w": "trice", "pos": "noun", "d": ["A very short period of time; a moment.", "To hoist or lash up with a rope, as a sail."], "src": "iwb"}
+{"w": "tricennarious", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tricennial", "pos": "adjective", "d": ["Occurring once every thirty years; lasting thirty years."], "src": "iwb"}
+{"w": "triceps", "pos": "noun", "d": ["The large muscle at the back of the upper arm that straightens the elbow."], "src": "iwb"}
+{"w": "trichiasis", "pos": "noun", "d": ["A condition in which the eyelashes grow inward and irritate the eye."], "src": "iwb"}
+{"w": "trichiniasis", "pos": "noun", "d": ["Disease caused by parasitic trichina worms; trichinosis."], "src": "iwb"}
+{"w": "trichinize", "pos": "verb", "d": ["To infect with trichinae; to make trichinous."], "src": "iwb"}
+{"w": "trichinoscope", "pos": "noun", "d": ["An instrument for examining meat for the presence of trichinae."], "src": "iwb"}
+{"w": "trichinosis", "pos": "noun", "d": ["A painful disease caused by eating undercooked meat infested with trichina larvae."], "src": "iwb"}
+{"w": "trichinous", "pos": "adjective", "d": ["Containing trichinae; affected with trichinosis."], "src": "iwb"}
+{"w": "trichite", "pos": "noun", "d": ["A minute hairlike crystal found in certain rocks and minerals."], "src": "iwb"}
+{"w": "trichiuriform", "pos": "adjective", "d": ["Shaped like or resembling a cutlassfish; long, flat, and swordlike."], "src": "iwb"}
+{"w": "trichiuroid", "pos": "adjective", "d": ["Resembling or related to the cutlassfishes."], "src": "iwb"}
+{"w": "trichiurus", "pos": "noun", "d": ["A genus of long, ribbonlike predatory marine fishes, the cutlassfishes."], "src": "iwb"}
+{"w": "trichobranchia", "pos": "noun", "d": ["A group of marine bristle worms distinguished by hairlike gills."], "src": "iwb"}
+{"w": "trichocyst", "pos": "noun", "d": ["A tiny threadlike structure in certain single-celled organisms that can be shot out for defense."], "src": "iwb"}
+{"w": "trichogyne", "pos": "noun", "d": ["The slender, hairlike receptive tip of the female organ in certain algae and fungi."], "src": "iwb"}
+{"w": "trichomanes", "pos": "noun", "d": ["A genus of delicate filmy ferns, the bristle ferns."], "src": "iwb"}
+{"w": "trichomatose", "pos": "adjective", "d": ["Covered with hairs; hairy."], "src": "iwb"}
+{"w": "trichome", "pos": "noun", "d": ["A fine hairlike outgrowth on the surface of a plant, as on a leaf."], "src": "iwb"}
+{"w": "trichophore", "pos": "noun", "d": ["A structure or organ that bears hairs."], "src": "iwb"}
+{"w": "trichopter", "pos": "noun", "d": ["A caddisfly; an insect of the order Trichoptera."], "src": "iwb"}
+{"w": "trichoptera", "pos": "noun", "d": ["An order of mothlike aquatic insects, the caddisflies."], "src": "iwb"}
+{"w": "trichopteran", "pos": "noun", "d": ["A caddisfly; a member of the order Trichoptera."], "src": "iwb"}
+{"w": "trichoscolices", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trichotomous", "pos": "adjective", "d": ["Divided into three parts or branches."], "src": "iwb"}
+{"w": "trichotomy", "pos": "noun", "d": ["Division into three parts or classes."], "src": "iwb"}
+{"w": "trichroic", "pos": "adjective", "d": ["Exhibiting trichroism; showing three colors."], "src": "iwb"}
+{"w": "trichroism", "pos": "noun", "d": ["The property of showing three different colors when viewed in different directions."], "src": "iwb"}
+{"w": "tricipital", "pos": "adjective", "d": ["Having three heads, as a muscle."], "src": "iwb"}
+{"w": "trickery", "pos": "noun", "d": ["The use of tricks to deceive or cheat."], "src": "iwb"}
+{"w": "trickiness", "pos": "noun", "d": ["The quality of being tricky; craftiness or slipperiness."], "src": "iwb"}
+{"w": "trickle", "pos": "verb", "d": ["To flow or fall in drops or in a thin, slow stream.", "To move or come gradually in small numbers."], "src": "iwb"}
+{"w": "tricksiness", "pos": "noun", "d": ["The quality of being tricksy; playful mischievousness."], "src": "iwb"}
+{"w": "trickster", "pos": "noun", "d": ["One who deceives by tricks; a cheat.", "A mischievous figure in myth and folklore."], "src": "iwb"}
+{"w": "tricksy", "pos": "adjective", "d": ["Playful and mischievous; full of tricks."], "src": "iwb"}
+{"w": "tricky", "pos": "adjective", "d": ["Hard to handle or deal with; requiring skill and care.", "Crafty or deceitful."], "src": "iwb"}
+{"w": "triclinate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tricliniary", "pos": "adjective", "d": ["Of or relating to a triclinium, a Roman dining room."], "src": "iwb"}
+{"w": "tricoccous", "pos": "adjective", "d": ["In botany, composed of three one-seeded carpels that split apart when ripe."], "src": "iwb"}
+{"w": "tricrotic", "pos": "adjective", "d": ["Showing three beats or waves in the arterial pulse."], "src": "iwb"}
+{"w": "tricrotism", "pos": "noun", "d": ["The condition of having a tricrotic pulse."], "src": "iwb"}
+{"w": "tricrotous", "pos": "adjective", "d": ["Tricrotic; showing a triple pulse beat."], "src": "iwb"}
+{"w": "tridacna", "pos": "noun", "d": ["A genus of very large tropical marine clams, the giant clams."], "src": "iwb"}
+{"w": "tridactyle", "pos": "adjective", "d": ["Having three toes or three digits."], "src": "iwb"}
+{"w": "triddler", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tride", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tridecatylene", "pos": "noun", "d": ["An unsaturated hydrocarbon containing thirteen carbon atoms."], "src": "iwb"}
+{"w": "tridymite", "pos": "noun", "d": ["A crystalline form of silica found in volcanic rocks."], "src": "iwb"}
+{"w": "triedral", "pos": "adjective", "d": ["Having three faces; trihedral."], "src": "iwb"}
+{"w": "triennial", "pos": "adjective", "d": ["Occurring once every three years; lasting three years."], "src": "iwb"}
+{"w": "trieterical", "pos": "adjective", "d": ["Of or relating to a trieteris, a festival held every three years in ancient Greece."], "src": "iwb"}
+{"w": "trieterics", "pos": "noun", "d": ["Rites or a festival celebrated every three years in ancient Greece."], "src": "iwb"}
+{"w": "trifarious", "pos": "adjective", "d": ["In botany, arranged in three rows."], "src": "iwb"}
+{"w": "trifistulary", "pos": "adjective", "d": ["Having three pipes or tubular openings."], "src": "iwb"}
+{"w": "trifle", "pos": "noun", "d": ["A thing of little value or importance.", "A dessert of sponge cake layered with fruit, custard, and cream."], "src": "iwb"}
+{"w": "triflorous", "pos": "adjective", "d": ["In botany, bearing three flowers."], "src": "iwb"}
+{"w": "trifoly", "pos": "noun", "d": ["A plant with three-lobed leaves, such as clover; a trefoil."], "src": "iwb"}
+{"w": "triforium", "pos": "noun", "d": ["In church architecture, a gallery or arcade above the nave arches."], "src": "iwb"}
+{"w": "trig", "pos": "adjective", "d": ["Neat, trim, and smart in appearance.", "Sound and sturdy; in good condition."], "src": "iwb"}
+{"w": "trigamist", "pos": "noun", "d": ["One who is married to three spouses at once."], "src": "iwb"}
+{"w": "trigamous", "pos": "adjective", "d": ["Married to three spouses at the same time.", "In botany, bearing three kinds of flowers."], "src": "iwb"}
+{"w": "trigenic", "pos": "adjective", "d": ["In genetics, involving or controlled by three genes."], "src": "iwb"}
+{"w": "triger process", "pos": "phrase", "d": ["A method of sinking mine shafts through watery ground using a pressurized caisson."], "src": "iwb"}
+{"w": "trigesimo-secundo", "pos": "noun", "d": ["A book size made by folding a printed sheet into thirty-two leaves; thirty-twomo."], "src": "iwb"}
+{"w": "trigintal", "pos": "adjective", "d": ["Of or relating to the number thirty."], "src": "iwb"}
+{"w": "trigonia", "pos": "noun", "d": ["A genus of extinct bivalve mollusks common as fossils."], "src": "iwb"}
+{"w": "trigonid", "pos": "noun", "d": ["The three-cusped cutting part of a lower molar tooth in mammals."], "src": "iwb"}
+{"w": "trigonocerous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trigonodont", "pos": "adjective", "d": ["Having triangular or three-cusped teeth."], "src": "iwb"}
+{"w": "trigonometric", "pos": "adjective", "d": ["Of or relating to trigonometry."], "src": "iwb"}
+{"w": "trigonometry", "pos": "noun", "d": ["The branch of mathematics dealing with the relations between the sides and angles of triangles."], "src": "iwb"}
+{"w": "trigrammic", "pos": "adjective", "d": ["Of or relating to a trigram; made up of three characters or strokes."], "src": "iwb"}
+{"w": "trigraph", "pos": "noun", "d": ["A group of three letters representing a single sound."], "src": "iwb"}
+{"w": "trigynia", "pos": "noun", "d": ["In the Linnaean system, a group of plants having three pistils."], "src": "iwb"}
+{"w": "trigynian", "pos": "adjective", "d": ["Of or relating to trigynia; having three pistils."], "src": "iwb"}
+{"w": "trihedral", "pos": "adjective", "d": ["Having three faces, as a solid angle."], "src": "iwb"}
+{"w": "trihedron", "pos": "noun", "d": ["A solid figure bounded by three faces meeting at a point."], "src": "iwb"}
+{"w": "trijugate", "pos": "adjective", "d": ["In botany, having three pairs of leaflets."], "src": "iwb"}
+{"w": "trijugous", "pos": "adjective", "d": ["Trijugate; bearing three pairs of leaflets."], "src": "iwb"}
+{"w": "trikosane", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trilinguar", "pos": "adjective", "d": ["Expressed in three languages; trilingual."], "src": "iwb"}
+{"w": "trilithon", "pos": "noun", "d": ["A structure of two upright stones supporting a horizontal lintel, as at Stonehenge."], "src": "iwb"}
+{"w": "trill", "pos": "noun", "d": ["A rapid alternation between two adjacent musical notes.", "A quavering, warbling sound, as of a bird."], "src": "iwb"}
+{"w": "trillachan", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trillium", "pos": "noun", "d": ["A genus of woodland wildflowers with three-petaled blooms."], "src": "iwb"}
+{"w": "trillo", "pos": "noun", "d": ["A trill; a quavering vocal ornament in singing."], "src": "iwb"}
+{"w": "trilobation", "pos": "noun", "d": ["Division into three lobes."], "src": "iwb"}
+{"w": "trilobita", "pos": "noun", "d": ["An order of extinct marine arthropods, the trilobites."], "src": "iwb"}
+{"w": "trilobite", "pos": "noun", "d": ["An extinct marine arthropod with a distinctly three-lobed body."], "src": "iwb"}
+{"w": "trilobitic", "pos": "adjective", "d": ["Of or relating to trilobites."], "src": "iwb"}
+{"w": "triluminar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trimeran", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trimerous", "pos": "adjective", "d": ["In botany, having the floral parts arranged in threes."], "src": "iwb"}
+{"w": "trimesitic", "pos": "adjective", "d": ["Of or relating to trimesic acid, an organic acid with three carboxyl groups."], "src": "iwb"}
+{"w": "trimestral", "pos": "adjective", "d": ["Occurring every three months; quarterly."], "src": "iwb"}
+{"w": "trimestrial", "pos": "adjective", "d": ["Trimestral; occurring every three months."], "src": "iwb"}
+{"w": "trimorph", "pos": "noun", "d": ["One of three distinct forms assumed by the same species or substance."], "src": "iwb"}
+{"w": "trimurti", "pos": "noun", "d": ["The Hindu triad of the gods Brahma, Vishnu, and Shiva."], "src": "iwb"}
+{"w": "trimyarian", "pos": "adjective", "d": ["In zoology, having three adductor muscles, as certain bivalves."], "src": "iwb"}
+{"w": "trinal", "pos": "adjective", "d": ["Threefold; consisting of three parts or persons."], "src": "iwb"}
+{"w": "trindle", "pos": "noun", "d": ["A small wheel; a trundle."], "src": "iwb"}
+{"w": "trine", "pos": "noun", "d": ["An astrological aspect in which two bodies are 120 degrees apart.", "A group or set of three."], "src": "iwb"}
+{"w": "tringa", "pos": "noun", "d": ["A genus of shorebirds, the sandpipers and their allies."], "src": "iwb"}
+{"w": "tringle", "pos": "noun", "d": ["A rod or bar from which a curtain hangs."], "src": "iwb"}
+{"w": "tringoid", "pos": "adjective", "d": ["Resembling the sandpiper genus Tringa."], "src": "iwb"}
+{"w": "trinitarian", "pos": "noun", "d": ["One who believes in the doctrine of the Trinity.", "Of or relating to the Trinity."], "src": "iwb"}
+{"w": "trinitrophenol", "pos": "noun", "d": ["A yellow crystalline explosive compound, picric acid."], "src": "iwb"}
+{"w": "triniunity", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trink", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trinket", "pos": "noun", "d": ["A small ornament or piece of jewelry of little value."], "src": "iwb"}
+{"w": "trinketry", "pos": "noun", "d": ["Trinkets considered together; small ornaments."], "src": "iwb"}
+{"w": "trinkle", "pos": "verb", "d": ["To flow or fall in tiny drops; to trickle gently."], "src": "iwb"}
+{"w": "trinoctial", "pos": "adjective", "d": ["Lasting three nights; of or relating to three nights."], "src": "iwb"}
+{"w": "trioecia", "pos": "noun", "d": ["In the Linnaean system, a class of plants bearing male, female, and bisexual flowers on separate plants."], "src": "iwb"}
+{"w": "trioecious", "pos": "adjective", "d": ["Having male, female, and bisexual flowers on three separate plants."], "src": "iwb"}
+{"w": "triole", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trional", "pos": "noun", "d": ["A crystalline drug formerly used as a sedative and sleep aid."], "src": "iwb"}
+{"w": "trionychoidea", "pos": "noun", "d": ["A superfamily of turtles, the softshell turtles."], "src": "iwb"}
+{"w": "trior", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "triose", "pos": "noun", "d": ["A sugar containing three carbon atoms."], "src": "iwb"}
+{"w": "trip hammer", "pos": "phrase", "d": ["A large, heavy power-driven hammer used for forging metal."], "src": "iwb"}
+{"w": "tripartient", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tripe", "pos": "noun", "d": ["The edible stomach lining of cattle or other ruminants.", "Something worthless; nonsense."], "src": "iwb"}
+{"w": "tripe-de-roche", "pos": "phrase", "d": ["An edible lichen that grows on rocks in arctic regions; rock tripe."], "src": "iwb"}
+{"w": "tripel", "pos": "noun", "d": ["A strong, pale, Belgian-style ale."], "src": "iwb"}
+{"w": "triphthong", "pos": "noun", "d": ["A combination of three vowel sounds pronounced in a single syllable."], "src": "iwb"}
+{"w": "triphyline", "pos": "noun", "d": ["A phosphate mineral containing lithium."], "src": "iwb"}
+{"w": "triphylite", "pos": "noun", "d": ["A lithium iron phosphate mineral."], "src": "iwb"}
+{"w": "tripitaka", "pos": "noun", "d": ["The canonical scriptures of Buddhism, the Three Baskets."], "src": "iwb"}
+{"w": "triplasian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "triple-crowned", "pos": "adjective", "d": ["Wearing or adorned with three crowns, as the papal tiara."], "src": "iwb"}
+{"w": "triple-headed", "pos": "adjective", "d": ["Having three heads."], "src": "iwb"}
+{"w": "triple-tail", "pos": "noun", "d": ["A large marine food fish with greatly enlarged dorsal and anal fins."], "src": "iwb"}
+{"w": "triplicate-ternate", "pos": "adjective", "d": ["In botany, thrice divided into threes, as a compound leaf."], "src": "iwb"}
+{"w": "triplicity", "pos": "noun", "d": ["The quality or state of being triple.", "In astrology, any of the four groups of three zodiacal signs."], "src": "iwb"}
+{"w": "triplicostate", "pos": "adjective", "d": ["In botany, having three ribs or veins."], "src": "iwb"}
+{"w": "triploblastic", "pos": "adjective", "d": ["In embryology, having three germ layers."], "src": "iwb"}
+{"w": "triploidite", "pos": "noun", "d": ["A manganese phosphate mineral."], "src": "iwb"}
+{"w": "tripodian", "pos": "adjective", "d": ["Of or relating to a tripod."], "src": "iwb"}
+{"w": "tripody", "pos": "noun", "d": ["In prosody, a group of three metrical feet."], "src": "iwb"}
+{"w": "tripoli", "pos": "noun", "d": ["A soft, crumbly siliceous earth used for polishing; rottenstone."], "src": "iwb"}
+{"w": "tripoline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tripos", "pos": "noun", "d": ["The honors examinations at the University of Cambridge."], "src": "iwb"}
+{"w": "triptych", "pos": "noun", "d": ["A picture or carving made in three panels hinged together."], "src": "iwb"}
+{"w": "tripudiary", "pos": "adjective", "d": ["Of or relating to dancing, especially the Roman war dance."], "src": "iwb"}
+{"w": "tripudiate", "pos": "verb", "d": ["To dance with leaping steps; to perform a war dance."], "src": "iwb"}
+{"w": "tripudiation", "pos": "noun", "d": ["Dancing with leaping steps; a lively dance."], "src": "iwb"}
+{"w": "triquetral", "pos": "adjective", "d": ["Three-cornered; relating to the triquetrum bone of the wrist."], "src": "iwb"}
+{"w": "triquetrous", "pos": "adjective", "d": ["Three-edged; triangular in cross section, as some plant stems."], "src": "iwb"}
+{"w": "triquetrum", "pos": "noun", "d": ["One of the small bones of the wrist.", "An ancient astronomical instrument for measuring altitudes."], "src": "iwb"}
+{"w": "trisaccharid", "pos": "noun", "d": ["A variant spelling of trisaccharide, a three-unit sugar."], "src": "iwb"}
+{"w": "trisaccharide", "pos": "noun", "d": ["A carbohydrate made up of three linked sugar units."], "src": "iwb"}
+{"w": "trisagion", "pos": "noun", "d": ["A hymn beginning with the words Holy God in Eastern Christian worship."], "src": "iwb"}
+{"w": "triseralous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "triskele", "pos": "noun", "d": ["A symbol of three bent legs or spirals radiating from a common center."], "src": "iwb"}
+{"w": "triskelion", "pos": "noun", "d": ["A triskele; a three-branched spiral symbol."], "src": "iwb"}
+{"w": "trismus", "pos": "noun", "d": ["Sustained spasm of the jaw muscles; lockjaw."], "src": "iwb"}
+{"w": "trisnitrate", "pos": "noun", "d": ["A nitrate containing three nitrate groups."], "src": "iwb"}
+{"w": "trisoctahedron", "pos": "noun", "d": ["A crystal form with twenty-four triangular faces."], "src": "iwb"}
+{"w": "trispast", "pos": "noun", "d": ["A machine with three pulleys for raising heavy weights."], "src": "iwb"}
+{"w": "trispaston", "pos": "noun", "d": ["A trispast; a three-pulley hoisting machine."], "src": "iwb"}
+{"w": "trispermous", "pos": "adjective", "d": ["In botany, having or producing three seeds."], "src": "iwb"}
+{"w": "trist", "pos": "adjective", "d": ["Sad or sorrowful; gloomy."], "src": "iwb"}
+{"w": "triste", "pos": "adjective", "d": ["Sad or sorrowful in mood or tone."], "src": "iwb"}
+{"w": "tristichous", "pos": "adjective", "d": ["In botany, arranged in three vertical rows."], "src": "iwb"}
+{"w": "tristitiate", "pos": "verb", "d": ["To make sad or sorrowful."], "src": "iwb"}
+{"w": "trisulc", "pos": "adjective", "d": ["Having three furrows or grooves."], "src": "iwb"}
+{"w": "trite", "pos": "adjective", "d": ["Worn out by constant use; commonplace and dull."], "src": "iwb"}
+{"w": "tritheite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trithionate", "pos": "noun", "d": ["A salt of trithionic acid."], "src": "iwb"}
+{"w": "triticin", "pos": "noun", "d": ["A carbohydrate found in wheat and related grasses."], "src": "iwb"}
+{"w": "triticum", "pos": "noun", "d": ["The genus of grasses that includes wheat."], "src": "iwb"}
+{"w": "tritorium", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tritovum", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tritozooid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "trituberculy", "pos": "noun", "d": ["The condition of having three cusps on a molar tooth, as in early mammals."], "src": "iwb"}
+{"w": "triturate", "pos": "verb", "d": ["To grind or rub into a fine powder."], "src": "iwb"}
+{"w": "trituration", "pos": "noun", "d": ["The act of grinding a substance into fine powder.", "A substance prepared by grinding, as in homeopathic pharmacy."], "src": "iwb"}
+{"w": "triture", "pos": "noun", "d": ["The act of grinding a substance into a fine powder by rubbing or pounding."], "src": "iwb"}
+{"w": "triturium", "pos": "noun", "d": ["A vessel used to separate liquids that have different densities."], "src": "iwb"}
+{"w": "trityl", "pos": "noun", "d": ["A chemical group made of three phenyl rings joined to a single carbon atom, used in organic chemistry."], "src": "iwb"}
+{"w": "tritylene", "pos": "noun", "d": ["An old chemistry name for propylene, a flammable gas used in making plastics."], "src": "iwb"}
+{"w": "triumvir", "pos": "noun", "d": ["One of three people who rule or govern jointly."], "src": "iwb"}
+{"w": "triumviry", "pos": "noun", "d": ["Joint rule by three people; the office or power of a triumvir."], "src": "iwb"}
+{"w": "triune", "pos": "adjective", "d": ["Being three in one; made of three parts that form a single whole."], "src": "iwb"}
+{"w": "triungulus", "pos": "noun", "d": ["The tiny, active first-stage larva of certain beetles, such as blister beetles."], "src": "iwb"}
+{"w": "trivalent", "pos": "adjective", "d": ["Having a chemical combining power of three; able to bond with three atoms."], "src": "iwb"}
+{"w": "triverbial", "pos": "adjective", "d": ["Relating to certain days in the Roman calendar on which the praetor could hear legal cases."], "src": "iwb"}
+{"w": "trivet", "pos": "noun", "d": ["A three-legged metal stand for holding a pot or kettle over a fire."], "src": "iwb"}
+{"w": "trivium", "pos": "noun", "d": ["The three basic liberal arts of grammar, rhetoric, and logic taught in medieval schools."], "src": "iwb"}
+{"w": "troad", "pos": "noun", "d": ["The ancient region surrounding the city of Troy in Asia Minor."], "src": "iwb"}
+{"w": "troat", "pos": "noun", "d": ["The cry of a deer, especially a buck at rutting time."], "src": "iwb"}
+{"w": "trocar", "pos": "noun", "d": ["A sharp-pointed surgical instrument used to pierce the body and drain fluids."], "src": "iwb"}
+{"w": "trocha", "pos": "noun", "d": ["A rough trail cut through a forest.", "A fortified military line, as used in the Cuban wars."], "src": "iwb"}
+{"w": "trochal", "pos": "adjective", "d": ["Relating to the wheel-like ring of cilia used by rotifers for feeding."], "src": "iwb"}
+{"w": "trochanter", "pos": "noun", "d": ["One of the bony knobs near the top of the thigh bone where muscles attach."], "src": "iwb"}
+{"w": "trochantine", "pos": "noun", "d": ["The smaller of the two trochanters on the thigh bone; the lesser trochanter."], "src": "iwb"}
+{"w": "trochar", "pos": "noun", "d": ["An older spelling of trocar, a sharp surgical piercing instrument."], "src": "iwb"}
+{"w": "troche", "pos": "noun", "d": ["A small medicinal lozenge that dissolves slowly in the mouth."], "src": "iwb"}
+{"w": "trochee", "pos": "noun", "d": ["A metrical foot of two syllables, a stressed one followed by an unstressed one."], "src": "iwb"}
+{"w": "trochil", "pos": "noun", "d": ["A hummingbird."], "src": "iwb"}
+{"w": "trochili", "pos": "noun", "d": ["The plural of trochilus; hummingbirds."], "src": "iwb"}
+{"w": "trochilidist", "pos": "noun", "d": ["A person who studies hummingbirds."], "src": "iwb"}
+{"w": "trochilos", "pos": "noun", "d": ["A variant name for trochilus, the hummingbird."], "src": "iwb"}
+{"w": "trochilus", "pos": "noun", "d": ["A hummingbird, especially of the group that includes the ruby-throated hummingbird."], "src": "iwb"}
+{"w": "trochiscus", "pos": "noun", "d": ["An old word for a medicinal lozenge; a troche."], "src": "iwb"}
+{"w": "trochisk", "pos": "noun", "d": ["A variant of trochiscus; a medicinal lozenge."], "src": "iwb"}
+{"w": "trochite", "pos": "noun", "d": ["A small fossil disk formed from a stem segment of an ancient crinoid."], "src": "iwb"}
+{"w": "trochlea", "pos": "noun", "d": ["A pulley-like groove or structure in the body, such as the groove at the end of the thigh bone."], "src": "iwb"}
+{"w": "trochlear", "pos": "adjective", "d": ["Shaped like a pulley; relating to a trochlea."], "src": "iwb"}
+{"w": "trochleary", "pos": "adjective", "d": ["Of or like a trochlea; trochlear."], "src": "iwb"}
+{"w": "trochoid", "pos": "noun", "d": ["The curve traced by a point on a wheel rolling along a straight line, such as a cycloid."], "src": "iwb"}
+{"w": "trochometer", "pos": "noun", "d": ["An instrument that measures distance by counting the turns of a wheel."], "src": "iwb"}
+{"w": "trochosphere", "pos": "noun", "d": ["The free-swimming early larval stage of certain worms and mollusks, ringed with cilia."], "src": "iwb"}
+{"w": "trochus", "pos": "noun", "d": ["A top shell, a cone-shaped marine snail with a pearly inside."], "src": "iwb"}
+{"w": "troco", "pos": "noun", "d": ["An old English lawn game played with wooden balls and cues, also called lawn billiards."], "src": "iwb"}
+{"w": "trod", "pos": "verb", "d": ["Past tense of tread; stepped or walked on."], "src": "iwb"}
+{"w": "trode", "pos": "noun", "d": ["An old word for a track, path, or footprint."], "src": "iwb"}
+{"w": "troglodyte", "pos": "noun", "d": ["A person who lives in a cave; a cave dweller.", "A brutish or reclusive person who avoids company."], "src": "iwb"}
+{"w": "troglodytic", "pos": "adjective", "d": ["Like a troglodyte; living in caves or brutish in manner."], "src": "iwb"}
+{"w": "trogon", "pos": "noun", "d": ["A brightly colored tropical bird with brilliant plumage and a long tail."], "src": "iwb"}
+{"w": "trogonoid", "pos": "adjective", "d": ["Like or relating to the trogons."], "src": "iwb"}
+{"w": "trogue", "pos": "noun", "d": ["In mining, a wooden trough used as a drain."], "src": "iwb"}
+{"w": "troic", "pos": "adjective", "d": ["Relating to ancient Troy; Trojan."], "src": "iwb"}
+{"w": "troilite", "pos": "noun", "d": ["A bronze-colored iron sulfide mineral found only in meteorites."], "src": "iwb"}
+{"w": "troilus", "pos": "noun", "d": ["The spicebush swallowtail, a large black American butterfly with yellow and blue markings."], "src": "iwb"}
+{"w": "troilus butterfly", "pos": "phrase", "d": ["A large black American butterfly with yellow spots on the front wings and blue spots on the rear wings."], "src": "iwb"}
+{"w": "trois point", "pos": "phrase", "d": ["In backgammon, the third point from the outer edge on each player's home table."], "src": "iwb"}
+{"w": "trojan", "pos": "adjective", "d": ["Of or relating to ancient Troy or its people."], "src": "iwb"}
+{"w": "troll", "pos": "noun", "d": ["A giant or dwarf in Scandinavian folklore that lives in caves or hills.", "A person who posts upsetting comments online to provoke others."], "src": "iwb"}
+{"w": "trolley", "pos": "noun", "d": ["A passenger car that runs on rails and draws power from an overhead wire; a streetcar.", "A small wheeled cart used for moving goods."], "src": "iwb"}
+{"w": "trolley car", "pos": "phrase", "d": ["A streetcar; a passenger car running on rails and powered by an overhead wire."], "src": "iwb"}
+{"w": "trolley wire", "pos": "phrase", "d": ["An overhead wire that supplies electricity to streetcars and trolleys."], "src": "iwb"}
+{"w": "trollmydames", "pos": "noun", "d": ["An old card game popular in the seventeenth century."], "src": "iwb"}
+{"w": "trollop", "pos": "noun", "d": ["An untidy, slovenly woman.", "A woman of loose morals."], "src": "iwb"}
+{"w": "trollopee", "pos": "noun", "d": ["A young or small trollop; a diminutive form of trollop."], "src": "iwb"}
+{"w": "trolly", "pos": "noun", "d": ["An alternate spelling of trolley."], "src": "iwb"}
+{"w": "trombone", "pos": "noun", "d": ["A brass wind instrument with a long sliding tube that changes the pitch."], "src": "iwb"}
+{"w": "trommel", "pos": "noun", "d": ["A revolving cylindrical screen used to sift ores, gravel, or soil."], "src": "iwb"}
+{"w": "tromp", "pos": "verb", "d": ["To walk with heavy, noisy steps.", "To defeat thoroughly."], "src": "iwb"}
+{"w": "trompe", "pos": "noun", "d": ["An apparatus that blows air into a furnace using a falling stream of water.", "An old word for a trumpet."], "src": "iwb"}
+{"w": "trompil", "pos": "noun", "d": ["An opening in a trompe, a water-powered blowing device."], "src": "iwb"}
+{"w": "tron", "pos": "noun", "d": ["A public weighing machine or scale used in old Scottish markets."], "src": "iwb"}
+{"w": "trona", "pos": "noun", "d": ["A natural sodium carbonate mineral used in making glass and soap."], "src": "iwb"}
+{"w": "trone", "pos": "noun", "d": ["An old spelling of throne.", "A variant of tron, a public market scale."], "src": "iwb"}
+{"w": "troop", "pos": "noun", "d": ["A group of soldiers.", "A crowd or company of people or animals."], "src": "iwb"}
+{"w": "troostite", "pos": "noun", "d": ["A manganese-bearing variety of the mineral willemite, often brownish in color."], "src": "iwb"}
+{"w": "tropaeolin", "pos": "noun", "d": ["Any of a group of orange or yellow dyes used as chemical indicators."], "src": "iwb"}
+{"w": "trope", "pos": "noun", "d": ["A figure of speech in which a word is used in a figurative sense.", "A common theme or device used in stories and art."], "src": "iwb"}
+{"w": "tropeine", "pos": "noun", "d": ["Any of a class of alkaloids formed by combining tropine with an organic acid."], "src": "iwb"}
+{"w": "trophi", "pos": "noun", "d": ["The plural of trophus; the mouthparts of an insect."], "src": "iwb"}
+{"w": "trophic", "pos": "adjective", "d": ["Relating to nutrition or to feeding relationships between organisms."], "src": "iwb"}
+{"w": "trophonian", "pos": "adjective", "d": ["Relating to Trophonius, the ancient Greek oracle, or to his dark underground cave."], "src": "iwb"}
+{"w": "trophosome", "pos": "noun", "d": ["The feeding part of a hydroid colony, made up of the nutritive polyps."], "src": "iwb"}
+{"w": "trophosperm", "pos": "noun", "d": ["The part of a plant's ovary to which the young seeds are attached."], "src": "iwb"}
+{"w": "trophy", "pos": "noun", "d": ["A prize given to the winner of a contest.", "Anything kept as a reminder of a victory or success."], "src": "iwb"}
+{"w": "tropic", "pos": "noun", "d": ["Either of the two lines of latitude 23.5 degrees north or south of the equator."], "src": "iwb"}
+{"w": "tropidine", "pos": "noun", "d": ["An oily alkaloid obtained by removing water from tropine."], "src": "iwb"}
+{"w": "tropilidene", "pos": "noun", "d": ["An old chemistry name for cyclohepta-1,3,5-triene, a seven-membered ring hydrocarbon."], "src": "iwb"}
+{"w": "tropine", "pos": "noun", "d": ["A crystalline alkaloid from nightshade plants, used in making atropine."], "src": "iwb"}
+{"w": "tropism", "pos": "noun", "d": ["The turning or growing of a plant or organism toward or away from a stimulus such as light."], "src": "iwb"}
+{"w": "tropist", "pos": "noun", "d": ["A person who uses or studies tropes and figures of speech."], "src": "iwb"}
+{"w": "tropologic", "pos": "adjective", "d": ["Relating to tropology; involving figurative interpretation."], "src": "iwb"}
+{"w": "tropologize", "pos": "verb", "d": ["To speak or write in tropes; to interpret figuratively."], "src": "iwb"}
+{"w": "tropology", "pos": "noun", "d": ["The study and use of tropes, especially the figurative or moral reading of scripture."], "src": "iwb"}
+{"w": "troppo", "pos": "adverb", "d": ["In music, too much; used in the phrase non troppo, meaning not too much."], "src": "iwb"}
+{"w": "trossers", "pos": "noun", "d": ["An old variant spelling of trousers."], "src": "iwb"}
+{"w": "trot", "pos": "verb", "d": ["To move at a gait between a walk and a run, with a bouncing step.", "To hurry along; to move quickly."], "src": "iwb"}
+{"w": "troth", "pos": "noun", "d": ["Faithfulness or loyalty, especially as pledged in marriage."], "src": "iwb"}
+{"w": "trottoir", "pos": "noun", "d": ["A sidewalk; a paved path for walkers beside a street."], "src": "iwb"}
+{"w": "trou-de-loup", "pos": "noun", "d": ["A hidden pit with a sharpened stake at the bottom, used as a military trap."], "src": "iwb"}
+{"w": "troubadour", "pos": "noun", "d": ["A medieval poet of southern France who sang of love and chivalry.", "A traveling singer or poet."], "src": "iwb"}
+{"w": "troublous", "pos": "adjective", "d": ["Full of trouble; stormy or turbulent."], "src": "iwb"}
+{"w": "trough", "pos": "noun", "d": ["A long narrow open container for holding water or feed for animals.", "A low point between two waves, hills, or ridges."], "src": "iwb"}
+{"w": "trough-shell", "pos": "noun", "d": ["A bivalve mollusk that builds a shelly tube around its siphon."], "src": "iwb"}
+{"w": "troul", "pos": "verb", "d": ["An old spelling of troll; to sing loudly or in succession."], "src": "iwb"}
+{"w": "trounce", "pos": "verb", "d": ["To defeat thoroughly; to beat badly."], "src": "iwb"}
+{"w": "troupe", "pos": "noun", "d": ["A company of actors, dancers, or other performers who travel together."], "src": "iwb"}
+{"w": "troupial", "pos": "noun", "d": ["A tropical American bird of the oriole family, with black and orange plumage."], "src": "iwb"}
+{"w": "trouse", "pos": "noun", "d": ["Trousers or breeches, especially in Scottish use."], "src": "iwb"}
+{"w": "trousers", "pos": "noun", "d": ["A garment for the lower body that covers each leg separately; pants."], "src": "iwb"}
+{"w": "trousse", "pos": "noun", "d": ["A bundle or case, especially a surgeon's case of instruments."], "src": "iwb"}
+{"w": "trousseau", "pos": "noun", "d": ["The clothes and linens a bride brings to her marriage."], "src": "iwb"}
+{"w": "trout-colored", "pos": "adjective", "d": ["Having the mottled brownish or olive color of a trout."], "src": "iwb"}
+{"w": "trouvere", "pos": "noun", "d": ["A medieval poet and singer of northern France; a northern troubadour."], "src": "iwb"}
+{"w": "trouveur", "pos": "noun", "d": ["A variant of trouvere; a medieval French poet and singer."], "src": "iwb"}
+{"w": "trover", "pos": "noun", "d": ["A legal action to recover the value of personal property wrongfully taken."], "src": "iwb"}
+{"w": "trow", "pos": "verb", "d": ["To believe or think; an old word for suppose."], "src": "iwb"}
+{"w": "trowel", "pos": "noun", "d": ["A flat-bladed hand tool used by masons to spread mortar and by gardeners to dig."], "src": "iwb"}
+{"w": "trowl", "pos": "verb", "d": ["An old variant of troll; to sing a catch or roll along."], "src": "iwb"}
+{"w": "trowsed", "pos": "adjective", "d": ["Dressed in trousers."], "src": "iwb"}
+{"w": "trowsers", "pos": "noun", "d": ["An old variant spelling of trousers."], "src": "iwb"}
+{"w": "truage", "pos": "noun", "d": ["Tribute or a tax paid to a ruler.", "A pledge of truth or peace made on payment of a tax."], "src": "iwb"}
+{"w": "truancy", "pos": "noun", "d": ["Staying away from school or duty without permission."], "src": "iwb"}
+{"w": "truand", "pos": "noun", "d": ["A vagabond or beggar; a rogue."], "src": "iwb"}
+{"w": "truant", "pos": "noun", "d": ["A person, especially a student, who stays away from duty without permission."], "src": "iwb"}
+{"w": "trub", "pos": "noun", "d": ["The cloudy sediment left at the bottom of fermenting beer or wine."], "src": "iwb"}
+{"w": "trubu", "pos": "noun", "d": ["An East Indian herring caught for its flesh and its roe."], "src": "iwb"}
+{"w": "truce", "pos": "noun", "d": ["An agreement to stop fighting temporarily."], "src": "iwb"}
+{"w": "truchman", "pos": "noun", "d": ["An interpreter or guide in the East; an old word for a dragoman."], "src": "iwb"}
+{"w": "trucidation", "pos": "noun", "d": ["The act of killing; slaughter."], "src": "iwb"}
+{"w": "truckle", "pos": "verb", "d": ["To yield or submit in a servile way."], "src": "iwb"}
+{"w": "truckle-bed", "pos": "noun", "d": ["A low bed on wheels that slides under a larger bed; a trundle bed."], "src": "iwb"}
+{"w": "truculence", "pos": "noun", "d": ["Fierceness or cruelty of manner; aggressive hostility."], "src": "iwb"}
+{"w": "truculency", "pos": "noun", "d": ["The quality of being truculent; fierceness."], "src": "iwb"}
+{"w": "truculent", "pos": "adjective", "d": ["Fierce and cruel; aggressively defiant."], "src": "iwb"}
+{"w": "trudge", "pos": "verb", "d": ["To walk slowly and heavily because of tiredness or difficulty."], "src": "iwb"}
+{"w": "trudgen stroke", "pos": "phrase", "d": ["A swimming stroke that joins an overarm pull with a scissor kick."], "src": "iwb"}
+{"w": "true-blue", "pos": "adjective", "d": ["Loyal and faithful; staunch."], "src": "iwb"}
+{"w": "true-born", "pos": "adjective", "d": ["Genuinely born to a rank or title; native and legitimate."], "src": "iwb"}
+{"w": "true-bred", "pos": "adjective", "d": ["Of pure or genuine breeding; thoroughly trained in good manners."], "src": "iwb"}
+{"w": "true-hearted", "pos": "adjective", "d": ["Loyal, sincere, and honest."], "src": "iwb"}
+{"w": "true-penny", "pos": "noun", "d": ["An honest, trusty fellow; an old term of praise."], "src": "iwb"}
+{"w": "truffle", "pos": "noun", "d": ["An edible underground fungus prized as a delicacy.", "A rich ball-shaped chocolate candy."], "src": "iwb"}
+{"w": "trug", "pos": "noun", "d": ["A shallow wooden basket used by gardeners."], "src": "iwb"}
+{"w": "trugging-house", "pos": "noun", "d": ["An old word for a brothel."], "src": "iwb"}
+{"w": "truism", "pos": "noun", "d": ["A statement so obviously true that it says nothing new."], "src": "iwb"}
+{"w": "truismatic", "pos": "adjective", "d": ["Relating to or full of truisms."], "src": "iwb"}
+{"w": "truite", "pos": "noun", "d": ["An old spelling of trout."], "src": "iwb"}
+{"w": "trull", "pos": "noun", "d": ["An old word for a prostitute or a low, slovenly woman."], "src": "iwb"}
+{"w": "trullization", "pos": "noun", "d": ["The act of laying coats of plaster on a wall with a trowel."], "src": "iwb"}
+{"w": "trump", "pos": "noun", "d": ["A playing card of the suit that outranks the others.", "A person or thing that wins unexpectedly."], "src": "iwb"}
+{"w": "trumpery", "pos": "noun", "d": ["Showy but worthless finery; trifles of no value."], "src": "iwb"}
+{"w": "trumpet", "pos": "noun", "d": ["A brass wind instrument with a flared bell, played with valves."], "src": "iwb"}
+{"w": "trumpet-shaped", "pos": "adjective", "d": ["Shaped like a trumpet; flaring wide at one end."], "src": "iwb"}
+{"w": "trumpet-tongued", "pos": "adjective", "d": ["Having a loud, powerful voice; speaking boldly and forcefully."], "src": "iwb"}
+{"w": "trumpie", "pos": "noun", "d": ["Richardson's skua, a seabird that chases other birds to steal their food."], "src": "iwb"}
+{"w": "truncal", "pos": "adjective", "d": ["Relating to the trunk of the body or of a tree."], "src": "iwb"}
+{"w": "truncate", "pos": "verb", "d": ["To cut short; to shorten by cutting off a part."], "src": "iwb"}
+{"w": "truncation", "pos": "noun", "d": ["The act of cutting short; the state of being cut short."], "src": "iwb"}
+{"w": "trunch", "pos": "noun", "d": ["An old word for a stake or small post."], "src": "iwb"}
+{"w": "truncheoneer", "pos": "noun", "d": ["A person armed with a truncheon, such as a constable."], "src": "iwb"}
+{"w": "truncus", "pos": "noun", "d": ["The main trunk of an artery, vein, or nerve."], "src": "iwb"}
+{"w": "trundle", "pos": "verb", "d": ["To roll along heavily; to move on small wheels."], "src": "iwb"}
+{"w": "trundle-bed", "pos": "noun", "d": ["A low bed on wheels that rolls under a larger bed."], "src": "iwb"}
+{"w": "trunk engine", "pos": "phrase", "d": ["A steam engine in which a hollow trunk takes the place of the piston rod."], "src": "iwb"}
+{"w": "trunk piston", "pos": "phrase", "d": ["A long, hollow piston whose skirt guides it inside the cylinder."], "src": "iwb"}
+{"w": "trunk steamer", "pos": "phrase", "d": ["A cargo ship built with a raised central deck running along its length."], "src": "iwb"}
+{"w": "trunnel", "pos": "noun", "d": ["A wooden peg used to fasten timbers, especially in shipbuilding; a treenail."], "src": "iwb"}
+{"w": "trunnion", "pos": "noun", "d": ["A cylindrical pin on which a cannon or telescope pivots."], "src": "iwb"}
+{"w": "trusion", "pos": "noun", "d": ["The act of thrusting or pushing; an old and rare word."], "src": "iwb"}
+{"w": "truss", "pos": "noun", "d": ["A framework of joined beams that supports a roof or bridge."], "src": "iwb"}
+{"w": "trust company", "pos": "phrase", "d": ["A corporation that manages trusts and acts as a trustee or financial agent."], "src": "iwb"}
+{"w": "trustee process", "pos": "phrase", "d": ["A legal proceeding by which a creditor attaches money or property held for the debtor by someone else."], "src": "iwb"}
+{"w": "trustee stock", "pos": "phrase", "d": ["Stocks or securities that a trustee is legally allowed to hold as trust investments."], "src": "iwb"}
+{"w": "trustily", "pos": "adverb", "d": ["In a faithful and reliable manner; loyally."], "src": "iwb"}
+{"w": "trustiness", "pos": "noun", "d": ["The quality of being trusty; faithfulness and reliability."], "src": "iwb"}
+{"w": "trusty", "pos": "adjective", "d": ["Worthy of trust; reliable and faithful."], "src": "iwb"}
+{"w": "truth-lover", "pos": "noun", "d": ["A person who loves the truth."], "src": "iwb"}
+{"w": "truth-teller", "pos": "noun", "d": ["A person who tells the truth."], "src": "iwb"}
+{"w": "truthy", "pos": "adjective", "d": ["Having the ring of truth; seeming true.", "In programming, treated as true in a logical test."], "src": "iwb"}
+{"w": "trutination", "pos": "noun", "d": ["The act of weighing or balancing; careful deliberation."], "src": "iwb"}
+{"w": "truttaceous", "pos": "adjective", "d": ["Relating to or resembling a trout."], "src": "iwb"}
+{"w": "try cock", "pos": "phrase", "d": ["A small valve used to test the water level in a steam boiler."], "src": "iwb"}
+{"w": "try-square", "pos": "noun", "d": ["A carpenter's tool for marking and testing right angles."], "src": "iwb"}
+{"w": "trypsin", "pos": "noun", "d": ["A digestive enzyme that breaks down proteins in the small intestine."], "src": "iwb"}
+{"w": "trypsinogen", "pos": "noun", "d": ["The inactive substance made by the pancreas that turns into trypsin."], "src": "iwb"}
+{"w": "tryptic", "pos": "adjective", "d": ["Relating to trypsin or to digestion by trypsin."], "src": "iwb"}
+{"w": "tryptone", "pos": "noun", "d": ["A mixture of broken-down proteins used in laboratories to grow bacteria."], "src": "iwb"}
+{"w": "tryst", "pos": "noun", "d": ["A secret meeting, especially between lovers.", "An appointed meeting place."], "src": "iwb"}
+{"w": "tsar", "pos": "noun", "d": ["The title of the former emperors of Russia."], "src": "iwb"}
+{"w": "tsarina", "pos": "noun", "d": ["The wife of a tsar."], "src": "iwb"}
+{"w": "tsaritsa", "pos": "noun", "d": ["A variant of tsarina; the wife of a tsar."], "src": "iwb"}
+{"w": "tschakmeck", "pos": "noun", "d": ["The chameck, a kind of spider monkey with tiny thumb-less hands."], "src": "iwb"}
+{"w": "tschego", "pos": "noun", "d": ["A West African ape related to the gorilla and chimpanzee, noted for building large nests."], "src": "iwb"}
+{"w": "tsebe", "pos": "noun", "d": ["The springbok, a swift South African antelope."], "src": "iwb"}
+{"w": "tsetse", "pos": "noun", "d": ["A biting African fly that spreads sleeping sickness."], "src": "iwb"}
+{"w": "tsung tu", "pos": "noun", "d": ["A former Chinese title for a governor-general or viceroy of a province."], "src": "iwb"}
+{"w": "tsung-li yamen", "pos": "phrase", "d": ["A former Chinese government office that handled foreign affairs."], "src": "iwb"}
+{"w": "tu-whit", "pos": "interjection", "d": ["An imitation of the hooting cry of an owl."], "src": "iwb"}
+{"w": "tu-whoo", "pos": "interjection", "d": ["An imitation of the hooting of an owl."], "src": "iwb"}
+{"w": "tuatara", "pos": "noun", "d": ["A lizard-like reptile of New Zealand, the last survivor of an ancient order."], "src": "iwb"}
+{"w": "tuatera", "pos": "noun", "d": ["A variant spelling of tuatara."], "src": "iwb"}
+{"w": "tuba", "pos": "noun", "d": ["A large brass wind instrument with a deep, low tone."], "src": "iwb"}
+{"w": "tubby", "pos": "adjective", "d": ["Short and plump; chubby."], "src": "iwb"}
+{"w": "tube-nosed", "pos": "adjective", "d": ["Having the nostrils drawn out into tubes along the beak, as in certain seabirds."], "src": "iwb"}
+{"w": "tube-shell", "pos": "noun", "d": ["A bivalve mollusk that builds a shelly tube around its siphon."], "src": "iwb"}
+{"w": "tubercle", "pos": "noun", "d": ["A small rounded lump or knob on a bone, leaf, or other surface.", "A nodule formed in the body by tuberculosis."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

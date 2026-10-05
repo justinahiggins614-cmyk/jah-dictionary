@@ -51821,6 +51821,806 @@
 {"w": "squierie", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "squiery", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "squiffy", "pos": "adjective", "d": ["Slightly drunk."], "src": "iwb"}
+{"w": "squiggle", "pos": "noun", "d": ["A short, irregular wavy line or doodle."], "src": "iwb"}
+{"w": "squilgee", "pos": "noun", "d": ["An old variant spelling of squeegee, a rubber-edged tool for wiping water from windows."], "src": "iwb"}
+{"w": "squill", "pos": "noun", "d": ["A bulbous plant related to the hyacinth, with blue flowers and bitter medicinal juice."], "src": "iwb"}
+{"w": "squilla", "pos": "noun", "d": ["A mantis shrimp, a marine crustacean with powerful grasping claws."], "src": "iwb"}
+{"w": "squillitic", "pos": "adjective", "d": ["Made with or relating to squill, a medicinal bulb plant."], "src": "iwb"}
+{"w": "squinance", "pos": "noun", "d": ["An old variant of squinancy, a severe inflammation of the throat."], "src": "iwb"}
+{"w": "squinancy", "pos": "noun", "d": ["An old name for quinsy, a severe abscess-like inflammation of the throat."], "src": "iwb"}
+{"w": "squinch", "pos": "noun", "d": ["An arch or bracket set across the corner of a square room to support a dome or spire."], "src": "iwb"}
+{"w": "squinsy", "pos": "noun", "d": ["An old variant of the word quinsy."], "src": "iwb"}
+{"w": "squint", "pos": "verb", "d": ["To narrow the eyes to see more clearly or against bright light.", "To look at something from the corner of the eye."], "src": "iwb"}
+{"w": "squint-eye", "pos": "noun", "d": ["A condition in which one eye looks in a different direction from the other."], "src": "iwb"}
+{"w": "squintifego", "pos": "noun", "d": ["A squinting person, used in old writing as a mocking nickname."], "src": "iwb"}
+{"w": "squiny", "pos": "adjective", "d": ["Appearing to squint; having narrow or half-closed eyes."], "src": "iwb"}
+{"w": "squinzey", "pos": "noun", "d": ["An old variant spelling of quinsy, a severe throat inflammation."], "src": "iwb"}
+{"w": "squir", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "squiralty", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "squire", "pos": "noun", "d": ["A man who attends a knight, or a country gentleman.", "A gallant who escorts a lady."], "src": "iwb"}
+{"w": "squirm", "pos": "verb", "d": ["To twist and turn the body with discomfort or embarrassment."], "src": "iwb"}
+{"w": "squirr", "pos": "verb", "d": ["To dart quickly, like a startled squirrel."], "src": "iwb"}
+{"w": "squirrel", "pos": "noun", "d": ["A small bushy-tailed rodent that climbs trees and stores nuts."], "src": "iwb"}
+{"w": "squirt", "pos": "verb", "d": ["To send out a thin jet of liquid quickly.", "To eject fluid in a sudden spurt."], "src": "iwb"}
+{"w": "squiry", "pos": "adjective", "d": ["Like a squirrel in appearance or habits."], "src": "iwb"}
+{"w": "squitch grass", "pos": "noun", "d": ["Quitch grass, a creeping grass weed with tough spreading roots."], "src": "iwb"}
+{"w": "squitee", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stab", "pos": "verb", "d": ["To pierce with a pointed weapon or tool.", "To wound by thrusting a sharp point."], "src": "iwb"}
+{"w": "stab culture", "pos": "noun", "d": ["A bacteria sample grown by piercing solid jelly-like medium with an inoculating needle."], "src": "iwb"}
+{"w": "stabat mater", "pos": "noun", "d": ["A Latin hymn on the sorrows of the Virgin Mary at the cross."], "src": "iwb"}
+{"w": "stabbingly", "pos": "adverb", "d": ["In a sharp, piercing manner, like a knife thrust."], "src": "iwb"}
+{"w": "stabiliment", "pos": "noun", "d": ["A zigzag band of silk a spider adds to its web as a decoration."], "src": "iwb"}
+{"w": "stabilitate", "pos": "verb", "d": ["To make stable; an old form of the verb stabilize."], "src": "iwb"}
+{"w": "stable stand", "pos": "noun", "d": ["A stall or compartment in a stable where a horse stands."], "src": "iwb"}
+{"w": "stablish", "pos": "verb", "d": ["An old form of establish, meaning to set up or found."], "src": "iwb"}
+{"w": "stabulation", "pos": "noun", "d": ["The act of housing animals in a stable."], "src": "iwb"}
+{"w": "staccato", "pos": "adjective", "d": ["Played with short, detached, sharply separated notes."], "src": "iwb"}
+{"w": "stack-guard", "pos": "noun", "d": ["A protective covering or guard placed over a smokestack."], "src": "iwb"}
+{"w": "stacket", "pos": "noun", "d": ["A small stake or pointed stick."], "src": "iwb"}
+{"w": "stacte", "pos": "noun", "d": ["A sweet spice or perfume of ancient texts, likely an oil of myrrh."], "src": "iwb"}
+{"w": "staddle", "pos": "noun", "d": ["A framework for holding a haystack off the ground."], "src": "iwb"}
+{"w": "stade", "pos": "noun", "d": ["An ancient Greek unit of distance, roughly one eighth of a mile."], "src": "iwb"}
+{"w": "stadia hairs", "pos": "noun", "d": ["Two fine horizontal lines in a surveying telescope used to measure distance."], "src": "iwb"}
+{"w": "stadia wires", "pos": "noun", "d": ["The cross hairs of a surveying telescope used for distance measurement."], "src": "iwb"}
+{"w": "stadimeter", "pos": "noun", "d": ["An instrument for measuring distances, especially at sea."], "src": "iwb"}
+{"w": "stadtholder", "pos": "noun", "d": ["The chief magistrate of the old Dutch republic."], "src": "iwb"}
+{"w": "stafette", "pos": "noun", "d": ["A mounted military courier carrying dispatches."], "src": "iwb"}
+{"w": "staffier", "pos": "noun", "d": ["An old word for a footman or attendant."], "src": "iwb"}
+{"w": "stag", "pos": "noun", "d": ["A fully grown male deer."], "src": "iwb"}
+{"w": "stag-evil", "pos": "noun", "d": ["An old name for a spasmodic disease of horses resembling tetanus."], "src": "iwb"}
+{"w": "stag-horn coral", "pos": "noun", "d": ["A branching coral that resembles deer antlers."], "src": "iwb"}
+{"w": "stag-horn fern", "pos": "noun", "d": ["A fern with broad forked fronds shaped like antlers."], "src": "iwb"}
+{"w": "stag-horned", "pos": "adjective", "d": ["Having antlers like a stag."], "src": "iwb"}
+{"w": "stage director", "pos": "noun", "d": ["The person who directs the acting and staging of a play."], "src": "iwb"}
+{"w": "stage fright", "pos": "noun", "d": ["Nervousness felt when performing before an audience."], "src": "iwb"}
+{"w": "stage manager", "pos": "noun", "d": ["The person who runs the backstage operations of a play."], "src": "iwb"}
+{"w": "stage-struck", "pos": "adjective", "d": ["Fascinated by the theater and eager to act in plays."], "src": "iwb"}
+{"w": "stagery", "pos": "noun", "d": ["Theatrical scenery and stage effects."], "src": "iwb"}
+{"w": "staggeringly", "pos": "adverb", "d": ["In an astonishing or overwhelming manner."], "src": "iwb"}
+{"w": "stagirite", "pos": "noun", "d": ["A native of Stagira; a name for Aristotle, who was born there."], "src": "iwb"}
+{"w": "stagnancy", "pos": "noun", "d": ["The state of being stagnant or inactive."], "src": "iwb"}
+{"w": "stagnant", "pos": "adjective", "d": ["Not flowing or moving, and often becoming foul.", "Lacking activity or growth."], "src": "iwb"}
+{"w": "stagnate", "pos": "verb", "d": ["To stop flowing or developing and become inactive."], "src": "iwb"}
+{"w": "stagy", "pos": "adjective", "d": ["Exaggerated and theatrical in manner."], "src": "iwb"}
+{"w": "stahlian", "pos": "adjective", "d": ["Relating to Georg Ernst Stahl and his theory of phlogiston."], "src": "iwb"}
+{"w": "stahlism", "pos": "noun", "d": ["The chemical theory of Stahl, especially phlogiston theory."], "src": "iwb"}
+{"w": "staid", "pos": "adjective", "d": ["Serious, sober, and respectable in manner."], "src": "iwb"}
+{"w": "stail", "pos": "noun", "d": ["A stallion; an old variant form."], "src": "iwb"}
+{"w": "stain", "pos": "verb", "d": ["To leave a mark on something that is hard to remove.", "To discolor by contact with a pigment."], "src": "iwb"}
+{"w": "stair", "pos": "noun", "d": ["One step in a series of steps for going up or down."], "src": "iwb"}
+{"w": "staith", "pos": "noun", "d": ["A landing place for loading ships, especially with coal."], "src": "iwb"}
+{"w": "stake-driver", "pos": "noun", "d": ["A tool or machine for driving stakes into the ground."], "src": "iwb"}
+{"w": "staktometer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stal", "pos": "adjective", "d": ["Stole; an old past tense of steal."], "src": "iwb"}
+{"w": "stalactic", "pos": "adjective", "d": ["Relating to or like a stalactite."], "src": "iwb"}
+{"w": "stalactiform", "pos": "adjective", "d": ["Shaped like a stalactite."], "src": "iwb"}
+{"w": "stalactite", "pos": "noun", "d": ["A mineral formation hanging down from a cave ceiling."], "src": "iwb"}
+{"w": "stalactitic", "pos": "adjective", "d": ["Like or containing stalactites."], "src": "iwb"}
+{"w": "stalactitiform", "pos": "adjective", "d": ["Formed like a stalactite."], "src": "iwb"}
+{"w": "stalagmite", "pos": "noun", "d": ["A mineral formation rising from a cave floor."], "src": "iwb"}
+{"w": "stalagmitic", "pos": "adjective", "d": ["Like or containing stalagmites."], "src": "iwb"}
+{"w": "stalder", "pos": "noun", "d": ["A rack or frame for stacking things, especially hay."], "src": "iwb"}
+{"w": "stale", "pos": "adjective", "d": ["No longer fresh.", "Lacking novelty or interest."], "src": "iwb"}
+{"w": "stalk", "pos": "noun", "d": ["The main stem of a plant.", "A stiff, stealthy walk or pursuit."], "src": "iwb"}
+{"w": "stalk-eyed", "pos": "adjective", "d": ["Having eyes on movable stalks, like a crab."], "src": "iwb"}
+{"w": "stalking-horse", "pos": "noun", "d": ["A horse or screen used to hide a hunter.", "A sham candidate masking someone's real intent."], "src": "iwb"}
+{"w": "stalky", "pos": "adjective", "d": ["Having a tall thin stem like a stalk."], "src": "iwb"}
+{"w": "stall", "pos": "noun", "d": ["A small compartment for one animal in a barn.", "A small booth or stand for selling goods."], "src": "iwb"}
+{"w": "stall-feed", "pos": "verb", "d": ["To feed animals kept in stalls."], "src": "iwb"}
+{"w": "stallon", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stamen", "pos": "noun", "d": ["The pollen-producing part of a flower."], "src": "iwb"}
+{"w": "stamin", "pos": "adjective", "d": ["Bearing or relating to stamens."], "src": "iwb"}
+{"w": "stamina", "pos": "noun", "d": ["The physical or mental strength to keep going through effort."], "src": "iwb"}
+{"w": "stamineal", "pos": "adjective", "d": ["Relating to stamens."], "src": "iwb"}
+{"w": "stamineous", "pos": "adjective", "d": ["Furnished with stamens."], "src": "iwb"}
+{"w": "staminiferous", "pos": "adjective", "d": ["Bearing stamens."], "src": "iwb"}
+{"w": "stammel", "pos": "noun", "d": ["A coarse woolen cloth, often dyed red."], "src": "iwb"}
+{"w": "stammer", "pos": "verb", "d": ["To speak with involuntary pauses and repeated sounds."], "src": "iwb"}
+{"w": "stampede", "pos": "noun", "d": ["A sudden wild rush of frightened animals or people."], "src": "iwb"}
+{"w": "stance", "pos": "noun", "d": ["The way a person stands, especially when ready for action.", "An attitude taken on an issue."], "src": "iwb"}
+{"w": "stanch", "pos": "verb", "d": ["To stop the flow of blood or liquid."], "src": "iwb"}
+{"w": "stanchel", "pos": "noun", "d": ["A stone doorpost; also a bar of a window."], "src": "iwb"}
+{"w": "stand-by", "pos": "noun", "d": ["Someone kept ready to act when needed."], "src": "iwb"}
+{"w": "standard-bred", "pos": "adjective", "d": ["Of a breed of horse used in harness racing, judged by a standard of speed."], "src": "iwb"}
+{"w": "standard-wing", "pos": "noun", "d": ["A bird of paradise with long ornamental wing feathers."], "src": "iwb"}
+{"w": "standel", "pos": "noun", "d": ["A young tree left standing when the others around it are cut."], "src": "iwb"}
+{"w": "stander-by", "pos": "noun", "d": ["One who stands near and watches."], "src": "iwb"}
+{"w": "standerat", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "standerath", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stane", "pos": "noun", "d": ["A stone; a Scots form of the word."], "src": "iwb"}
+{"w": "stang", "pos": "noun", "d": ["A pole or pointed stake.", "A sudden sharp pain."], "src": "iwb"}
+{"w": "stanhope", "pos": "noun", "d": ["A light two-wheeled carriage with a high seat.", "A kind of early printing press."], "src": "iwb"}
+{"w": "staniel", "pos": "noun", "d": ["The kestrel, a small hovering falcon."], "src": "iwb"}
+{"w": "stanielry", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stank", "pos": "noun", "d": ["A pond or pool.", "The past tense of stink."], "src": "iwb"}
+{"w": "stannary", "pos": "adjective", "d": ["Relating to tin mines.", "A tin-mining district."], "src": "iwb"}
+{"w": "stannate", "pos": "noun", "d": ["A salt of stannic acid, containing tin."], "src": "iwb"}
+{"w": "stannel", "pos": "noun", "d": ["A kestrel; a variant of staniel."], "src": "iwb"}
+{"w": "stannic", "pos": "adjective", "d": ["Containing tin in its higher valence state."], "src": "iwb"}
+{"w": "stanniferous", "pos": "adjective", "d": ["Containing or yielding tin."], "src": "iwb"}
+{"w": "stannine", "pos": "noun", "d": ["A metallic tin ore; another name for stannite."], "src": "iwb"}
+{"w": "stannite", "pos": "noun", "d": ["A mineral ore of tin."], "src": "iwb"}
+{"w": "stanno-", "pos": "prefix", "d": ["A combining form meaning tin, as in stannous."], "src": "iwb"}
+{"w": "stannofluoride", "pos": "noun", "d": ["A compound of tin and fluorine used in toothpaste."], "src": "iwb"}
+{"w": "stannoso-", "pos": "prefix", "d": ["A combining form denoting the lower-valence, stannous form of tin."], "src": "iwb"}
+{"w": "stannotype", "pos": "noun", "d": ["A method of printing using plates faced with tin."], "src": "iwb"}
+{"w": "stannous", "pos": "adjective", "d": ["Containing tin in its lower valence state."], "src": "iwb"}
+{"w": "stannum", "pos": "noun", "d": ["The Latin name for tin, used as its chemical symbol Sn."], "src": "iwb"}
+{"w": "stannyel", "pos": "noun", "d": ["A kestrel; a variant of staniel."], "src": "iwb"}
+{"w": "stant", "pos": "adjective", "d": ["Standing erect, as an animal shown in heraldry."], "src": "iwb"}
+{"w": "stanyel", "pos": "noun", "d": ["A kestrel; a variant of staniel."], "src": "iwb"}
+{"w": "stanza", "pos": "noun", "d": ["A group of lines forming a section of a poem."], "src": "iwb"}
+{"w": "stapedial", "pos": "adjective", "d": ["Relating to the stapes bone of the ear."], "src": "iwb"}
+{"w": "stapelia", "pos": "noun", "d": ["A group of African succulent plants with star-shaped, foul-smelling flowers."], "src": "iwb"}
+{"w": "stapes", "pos": "noun", "d": ["The stirrup-shaped bone of the middle ear."], "src": "iwb"}
+{"w": "staphyline", "pos": "adjective", "d": ["Shaped like a grape or bunch of grapes."], "src": "iwb"}
+{"w": "staphylinid", "pos": "noun", "d": ["A rove beetle, a member of the Staphylinidae family."], "src": "iwb"}
+{"w": "staphyloma", "pos": "noun", "d": ["An abnormal bulging of the outer coat of the eye."], "src": "iwb"}
+{"w": "staphylomatous", "pos": "adjective", "d": ["Affected by or like a staphyloma."], "src": "iwb"}
+{"w": "staphyloplasty", "pos": "noun", "d": ["Surgical repair of the uvula or soft palate."], "src": "iwb"}
+{"w": "staphyloraphy", "pos": "noun", "d": ["The surgical stitching of a cleft palate."], "src": "iwb"}
+{"w": "staphylorrhaphy", "pos": "noun", "d": ["Another spelling of staphyloraphy, the stitching of a cleft palate."], "src": "iwb"}
+{"w": "staphylotomy", "pos": "noun", "d": ["The surgical cutting of the uvula."], "src": "iwb"}
+{"w": "staple", "pos": "noun", "d": ["A main product or article of trade.", "A U-shaped metal fastener."], "src": "iwb"}
+{"w": "star drift", "pos": "noun", "d": ["The apparent slow motion of stars caused by the movement of the earth."], "src": "iwb"}
+{"w": "star stereogram", "pos": "noun", "d": ["A stereo picture pair showing a field of stars in three dimensions."], "src": "iwb"}
+{"w": "star-blind", "pos": "adjective", "d": ["Dazzled by starlight; poetically blinded by the stars."], "src": "iwb"}
+{"w": "star-bowlines", "pos": "noun", "d": ["Ropes on the starboard side used to steady a ship's sails."], "src": "iwb"}
+{"w": "star-chamber", "pos": "noun", "d": ["A secret, arbitrary English court once held at Westminster."], "src": "iwb"}
+{"w": "star-crossed", "pos": "adjective", "d": ["Thwarted by bad luck; ill-fated in love."], "src": "iwb"}
+{"w": "star-read", "pos": "adjective", "d": ["Guided by the stars, as in astrology."], "src": "iwb"}
+{"w": "star-spangled", "pos": "adjective", "d": ["Decorated with stars, as the American flag."], "src": "iwb"}
+{"w": "starch", "pos": "noun", "d": ["A white food substance from grains and potatoes, used for stiffening cloth."], "src": "iwb"}
+{"w": "starchy", "pos": "adjective", "d": ["Containing much starch.", "Stiff and formal in manner."], "src": "iwb"}
+{"w": "stare", "pos": "verb", "d": ["To look steadily at someone or something."], "src": "iwb"}
+{"w": "starf", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stargaser", "pos": "noun", "d": ["One who gazes at the stars, especially an astrologer."], "src": "iwb"}
+{"w": "stargasing", "pos": "noun", "d": ["The act of gazing at the stars."], "src": "iwb"}
+{"w": "staringly", "pos": "adverb", "d": ["In a staring manner."], "src": "iwb"}
+{"w": "stark", "pos": "adjective", "d": ["Complete and harsh.", "Bare and severe in appearance."], "src": "iwb"}
+{"w": "starn", "pos": "noun", "d": ["A star; a northern form of the word."], "src": "iwb"}
+{"w": "starosty", "pos": "noun", "d": ["The office or district of a starost, a Slavic official."], "src": "iwb"}
+{"w": "starriness", "pos": "noun", "d": ["The quality of being full of stars."], "src": "iwb"}
+{"w": "starry", "pos": "adjective", "d": ["Full of stars.", "Shining like stars."], "src": "iwb"}
+{"w": "start-up", "pos": "noun", "d": ["A newly founded business.", "The act of starting a machine."], "src": "iwb"}
+{"w": "startle", "pos": "verb", "d": ["To frighten suddenly and cause a jump."], "src": "iwb"}
+{"w": "startlingly", "pos": "adverb", "d": ["In a surprising, sudden manner."], "src": "iwb"}
+{"w": "startlish", "pos": "adjective", "d": ["Easily startled."], "src": "iwb"}
+{"w": "starvation", "pos": "noun", "d": ["Suffering or death from lack of food."], "src": "iwb"}
+{"w": "starve", "pos": "verb", "d": ["To suffer or die from lack of food."], "src": "iwb"}
+{"w": "starvedly", "pos": "adverb", "d": ["In a starving manner."], "src": "iwb"}
+{"w": "stasimon", "pos": "noun", "d": ["A choral song in Greek tragedy sung while the chorus stands still."], "src": "iwb"}
+{"w": "stasis", "pos": "noun", "d": ["A state of inactivity or standstill."], "src": "iwb"}
+{"w": "statal", "pos": "adjective", "d": ["Relating to a state or government."], "src": "iwb"}
+{"w": "statant", "pos": "adjective", "d": ["Standing upright on all feet, as an animal shown in heraldry."], "src": "iwb"}
+{"w": "statarian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "statary", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "state socialism", "pos": "noun", "d": ["A system in which the state owns and controls industry."], "src": "iwb"}
+{"w": "stateliness", "pos": "noun", "d": ["Dignified, impressive grandeur."], "src": "iwb"}
+{"w": "states-general", "pos": "noun", "d": ["The former national assembly of the Netherlands and of France."], "src": "iwb"}
+{"w": "statesman", "pos": "noun", "d": ["A skilled and respected political leader."], "src": "iwb"}
+{"w": "stateswoman", "pos": "noun", "d": ["A skilled and respected female political leader."], "src": "iwb"}
+{"w": "stathmograph", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stationariness", "pos": "noun", "d": ["The state of being stationary, not moving."], "src": "iwb"}
+{"w": "statism", "pos": "noun", "d": ["The principle of giving the state strong control over society."], "src": "iwb"}
+{"w": "statist", "pos": "noun", "d": ["One who supports statism.", "A person who works with statistics."], "src": "iwb"}
+{"w": "statistician", "pos": "noun", "d": ["A person who works with statistics."], "src": "iwb"}
+{"w": "stative", "pos": "adjective", "d": ["Expressing a state rather than an action, as a verb."], "src": "iwb"}
+{"w": "statoblast", "pos": "noun", "d": ["A reproductive bud formed inside certain freshwater animals."], "src": "iwb"}
+{"w": "statocracy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stator", "pos": "noun", "d": ["The stationary part of an electric motor or generator."], "src": "iwb"}
+{"w": "statua", "pos": "noun", "d": ["A statue; the Latin form of the word."], "src": "iwb"}
+{"w": "statuary", "pos": "noun", "d": ["Statues collectively.", "The art of making statues."], "src": "iwb"}
+{"w": "statue", "pos": "noun", "d": ["A carved or cast figure of a person or animal."], "src": "iwb"}
+{"w": "statuesque", "pos": "adjective", "d": ["Tall and graceful like a statue."], "src": "iwb"}
+{"w": "statuette", "pos": "noun", "d": ["A small statue."], "src": "iwb"}
+{"w": "statuminate", "pos": "verb", "d": ["To prop up or support, as with a stake."], "src": "iwb"}
+{"w": "stature", "pos": "noun", "d": ["A person's height.", "A person's standing or importance."], "src": "iwb"}
+{"w": "status in quo", "pos": "phrase", "d": ["The existing state of affairs, unchanged."], "src": "iwb"}
+{"w": "status quo", "pos": "noun", "d": ["The current state of things."], "src": "iwb"}
+{"w": "statutably", "pos": "adverb", "d": ["According to statute or law."], "src": "iwb"}
+{"w": "staunch", "pos": "adjective", "d": ["Firm and loyal.", "Watertight; stopping a flow."], "src": "iwb"}
+{"w": "staurolite", "pos": "noun", "d": ["A brown mineral often forming cross-shaped crystals."], "src": "iwb"}
+{"w": "staurolitic", "pos": "adjective", "d": ["Relating to or containing staurolite."], "src": "iwb"}
+{"w": "stauroscope", "pos": "noun", "d": ["An instrument for studying crystal structure with polarized light."], "src": "iwb"}
+{"w": "staurotide", "pos": "noun", "d": ["A variety of the mineral staurolite."], "src": "iwb"}
+{"w": "stave", "pos": "noun", "d": ["One of the wooden strips forming a barrel.", "A verse or stanza of a song."], "src": "iwb"}
+{"w": "staw", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stead", "pos": "noun", "d": ["The place of something.", "Use or behalf, as in standing in good stead."], "src": "iwb"}
+{"w": "steadily", "pos": "adverb", "d": ["In a steady, even manner."], "src": "iwb"}
+{"w": "steadiness", "pos": "noun", "d": ["The quality of being steady."], "src": "iwb"}
+{"w": "steak", "pos": "noun", "d": ["A thick slice of meat or fish for broiling."], "src": "iwb"}
+{"w": "stealth", "pos": "noun", "d": ["Secret, cautious movement to avoid notice."], "src": "iwb"}
+{"w": "stealthily", "pos": "adverb", "d": ["In a stealthy manner."], "src": "iwb"}
+{"w": "stealthiness", "pos": "noun", "d": ["The quality of being stealthy."], "src": "iwb"}
+{"w": "steam engine", "pos": "noun", "d": ["An engine driven by steam power."], "src": "iwb"}
+{"w": "steaminess", "pos": "noun", "d": ["The state of being full of steam or vapor."], "src": "iwb"}
+{"w": "steamy", "pos": "adjective", "d": ["Full of steam.", "Hot and humid."], "src": "iwb"}
+{"w": "stean", "pos": "verb", "d": ["To line a well with stone or brick."], "src": "iwb"}
+{"w": "steaningp", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "steapsin", "pos": "noun", "d": ["A fat-digesting enzyme of the pancreas."], "src": "iwb"}
+{"w": "stearate", "pos": "noun", "d": ["A salt of stearic acid."], "src": "iwb"}
+{"w": "stearic", "pos": "adjective", "d": ["Relating to stearin or stearic acid."], "src": "iwb"}
+{"w": "stearin", "pos": "noun", "d": ["A solid fatty substance from animal fats used in candles."], "src": "iwb"}
+{"w": "stearolic", "pos": "adjective", "d": ["Relating to stearolic acid, an unsaturated fatty acid."], "src": "iwb"}
+{"w": "stearone", "pos": "noun", "d": ["A waxy ketone obtained from stearic acid."], "src": "iwb"}
+{"w": "stearoptene", "pos": "noun", "d": ["The solid part of a volatile oil."], "src": "iwb"}
+{"w": "stearrhea", "pos": "noun", "d": ["Excessive fatty discharge, especially in the stool."], "src": "iwb"}
+{"w": "stearyl", "pos": "adjective", "d": ["Relating to the stearyl radical derived from stearic acid."], "src": "iwb"}
+{"w": "steatite", "pos": "noun", "d": ["Soapstone, a soft talc rock."], "src": "iwb"}
+{"w": "steatitic", "pos": "adjective", "d": ["Like or containing steatite."], "src": "iwb"}
+{"w": "steatoma", "pos": "noun", "d": ["A fatty tumor or cyst."], "src": "iwb"}
+{"w": "steatomatous", "pos": "adjective", "d": ["Relating to or like a steatoma."], "src": "iwb"}
+{"w": "steatopyga", "pos": "noun", "d": ["An accumulation of fat on the buttocks."], "src": "iwb"}
+{"w": "steatopygous", "pos": "adjective", "d": ["Having prominent fat deposits on the buttocks."], "src": "iwb"}
+{"w": "sted", "pos": "noun", "d": ["A place; an old form of stead."], "src": "iwb"}
+{"w": "stee", "pos": "noun", "d": ["A ladder; an old word for a steep ascent."], "src": "iwb"}
+{"w": "steek", "pos": "verb", "d": ["To stitch or sew.", "To shut fast."], "src": "iwb"}
+{"w": "steelbow goods", "pos": "noun", "d": ["Farm stock and tools lent to a tenant with the land, to be returned."], "src": "iwb"}
+{"w": "steeliness", "pos": "noun", "d": ["The quality of being steely."], "src": "iwb"}
+{"w": "steem", "pos": "noun", "d": ["Esteem; a Scots form of the word."], "src": "iwb"}
+{"w": "steen", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "steenbok", "pos": "noun", "d": ["A small African antelope."], "src": "iwb"}
+{"w": "steep", "pos": "adjective", "d": ["Rising sharply.", "Soaked in liquid."], "src": "iwb"}
+{"w": "steep-down", "pos": "adjective", "d": ["Sharply descending."], "src": "iwb"}
+{"w": "steep-up", "pos": "adjective", "d": ["Sharply rising."], "src": "iwb"}
+{"w": "steepiness", "pos": "noun", "d": ["The quality of being steep."], "src": "iwb"}
+{"w": "steeple", "pos": "noun", "d": ["A tall tower on a church."], "src": "iwb"}
+{"w": "steeple-crowned", "pos": "adjective", "d": ["Having a tall steeple-like crown, as a hat."], "src": "iwb"}
+{"w": "steepy", "pos": "adjective", "d": ["Steep."], "src": "iwb"}
+{"w": "steersman", "pos": "noun", "d": ["One who steers a ship or boat."], "src": "iwb"}
+{"w": "steersmate", "pos": "noun", "d": ["A fellow steersman; a companion at the helm."], "src": "iwb"}
+{"w": "steeve", "pos": "verb", "d": ["To stow cargo by pressing it in.", "To tilt a bowsprit upward."], "src": "iwb"}
+{"w": "steg", "pos": "noun", "d": ["A gander; a male goose in northern dialect."], "src": "iwb"}
+{"w": "steganographist", "pos": "noun", "d": ["One skilled in steganography, hidden writing."], "src": "iwb"}
+{"w": "steganography", "pos": "noun", "d": ["The art of hiding messages within other messages."], "src": "iwb"}
+{"w": "steganophthalmata", "pos": "noun", "d": ["A group of fishes with the eyes covered by skin."], "src": "iwb"}
+{"w": "steganopod", "pos": "noun", "d": ["A bird with all four toes webbed together."], "src": "iwb"}
+{"w": "stegnosis", "pos": "noun", "d": ["The narrowing of a bodily passage."], "src": "iwb"}
+{"w": "stegnotic", "pos": "adjective", "d": ["Tending to narrow or constrict bodily passages."], "src": "iwb"}
+{"w": "stegocephala", "pos": "noun", "d": ["An extinct group of amphibian-like animals."], "src": "iwb"}
+{"w": "stegosauria", "pos": "noun", "d": ["The group of plated dinosaurs including Stegosaurus."], "src": "iwb"}
+{"w": "stegosaurus", "pos": "noun", "d": ["A plated dinosaur with spikes on its tail."], "src": "iwb"}
+{"w": "steik", "pos": "noun", "d": ["A steak; a Scots form of the word."], "src": "iwb"}
+{"w": "stein", "pos": "noun", "d": ["A large earthenware beer mug."], "src": "iwb"}
+{"w": "steinbock", "pos": "noun", "d": ["The ibex, a wild mountain goat."], "src": "iwb"}
+{"w": "steinkle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stela", "pos": "noun", "d": ["An upright stone slab bearing an inscription."], "src": "iwb"}
+{"w": "stele", "pos": "noun", "d": ["The central cylinder of vascular tissue in a plant stem."], "src": "iwb"}
+{"w": "stelene", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stell", "pos": "verb", "d": ["To fix or place in position; an old form of stall."], "src": "iwb"}
+{"w": "stellar", "pos": "adjective", "d": ["Relating to stars.", "Outstanding in quality."], "src": "iwb"}
+{"w": "stellerid", "pos": "noun", "d": ["A starfish; a member of the starfish group."], "src": "iwb"}
+{"w": "stellerida", "pos": "noun", "d": ["The order of starfishes."], "src": "iwb"}
+{"w": "stelleridan", "pos": "adjective", "d": ["Relating to starfishes."], "src": "iwb"}
+{"w": "stelliferous", "pos": "adjective", "d": ["Bearing or abounding in stars."], "src": "iwb"}
+{"w": "stelliform", "pos": "adjective", "d": ["Shaped like a star."], "src": "iwb"}
+{"w": "stellular", "pos": "adjective", "d": ["Like a small star."], "src": "iwb"}
+{"w": "stellulate", "pos": "adjective", "d": ["Marked with small star-like spots."], "src": "iwb"}
+{"w": "stelmatopoda", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stelography", "pos": "noun", "d": ["The art of writing or engraving on stone pillars."], "src": "iwb"}
+{"w": "stem-clasping", "pos": "adjective", "d": ["Grasping the stem, as leaves that wrap around it."], "src": "iwb"}
+{"w": "stem-winder", "pos": "noun", "d": ["A watch wound by turning its stem."], "src": "iwb"}
+{"w": "stem-winding", "pos": "noun", "d": ["The act of winding a watch by its stem."], "src": "iwb"}
+{"w": "stemma", "pos": "noun", "d": ["A family tree.", "A chart showing the descent of manuscripts."], "src": "iwb"}
+{"w": "stemmery", "pos": "noun", "d": ["A place where tobacco stems are stripped."], "src": "iwb"}
+{"w": "stemmy", "pos": "adjective", "d": ["Full of stems.", "Tasting of stems, as tobacco."], "src": "iwb"}
+{"w": "stemple", "pos": "noun", "d": ["A timber crossbar in a mine shaft."], "src": "iwb"}
+{"w": "stench", "pos": "noun", "d": ["A very bad smell."], "src": "iwb"}
+{"w": "stenchy", "pos": "adjective", "d": ["Having a stench."], "src": "iwb"}
+{"w": "stencil", "pos": "noun", "d": ["A pattern with cut-out shapes used for painting designs."], "src": "iwb"}
+{"w": "stenoderm", "pos": "noun", "d": ["A bat of the short-faced leaf-nosed group."], "src": "iwb"}
+{"w": "stenodermine", "pos": "adjective", "d": ["Relating to the stenoderm bats."], "src": "iwb"}
+{"w": "stenograph", "pos": "noun", "d": ["One who writes shorthand.", "A machine for writing shorthand."], "src": "iwb"}
+{"w": "stenography", "pos": "noun", "d": ["The art of writing in shorthand."], "src": "iwb"}
+{"w": "stenophyllous", "pos": "adjective", "d": ["Having narrow leaves."], "src": "iwb"}
+{"w": "stenosis", "pos": "noun", "d": ["An abnormal narrowing of a bodily passage."], "src": "iwb"}
+{"w": "stenostome", "pos": "adjective", "d": ["Having a narrow mouth."], "src": "iwb"}
+{"w": "stent", "pos": "noun", "d": ["A small tube placed in a vessel to keep it open."], "src": "iwb"}
+{"w": "stentor", "pos": "noun", "d": ["A person with a very loud voice."], "src": "iwb"}
+{"w": "stentorian", "pos": "adjective", "d": ["Extremely loud, like the voice of Stentor."], "src": "iwb"}
+{"w": "stentorin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stentorious", "pos": "adjective", "d": ["Loud-voiced; stentorian."], "src": "iwb"}
+{"w": "stentoronic", "pos": "adjective", "d": ["Stentorian; extremely loud."], "src": "iwb"}
+{"w": "stentorophonic", "pos": "adjective", "d": ["Loud-voiced like Stentor."], "src": "iwb"}
+{"w": "step-", "pos": "prefix", "d": ["A prefix denoting relation by marriage, as in stepmother."], "src": "iwb"}
+{"w": "step-up", "pos": "noun", "d": ["An increase.", "An electrical transformer that raises voltage."], "src": "iwb"}
+{"w": "stephanion", "pos": "noun", "d": ["A wreath or chaplet worn on the head."], "src": "iwb"}
+{"w": "stephanite", "pos": "noun", "d": ["A silver antimony sulfide mineral."], "src": "iwb"}
+{"w": "stephanotis", "pos": "noun", "d": ["A climbing shrub with fragrant white waxy flowers."], "src": "iwb"}
+{"w": "steppe", "pos": "noun", "d": ["A vast treeless grassland plain."], "src": "iwb"}
+{"w": "stepping-stone", "pos": "noun", "d": ["A stone to step on in crossing water.", "A means of advancement toward a goal."], "src": "iwb"}
+{"w": "stercobilin", "pos": "noun", "d": ["The pigment that gives feces its brown color."], "src": "iwb"}
+{"w": "stercolin", "pos": "noun", "d": ["Stercobilin; the brown pigment of feces."], "src": "iwb"}
+{"w": "stercoraceous", "pos": "adjective", "d": ["Relating to or consisting of dung."], "src": "iwb"}
+{"w": "stercoranism", "pos": "noun", "d": ["The doctrine that the consecrated bread undergoes digestion."], "src": "iwb"}
+{"w": "stercoranist", "pos": "noun", "d": ["One who holds the doctrine of stercoranism."], "src": "iwb"}
+{"w": "stercorarian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stercorary", "pos": "adjective", "d": ["Relating to dung."], "src": "iwb"}
+{"w": "stercorate", "pos": "verb", "d": ["To fertilize with dung."], "src": "iwb"}
+{"w": "stercoration", "pos": "noun", "d": ["The act of manuring with dung."], "src": "iwb"}
+{"w": "stercorianism", "pos": "noun", "d": ["A variant form of stercoranism."], "src": "iwb"}
+{"w": "stercorin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stercory", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sterculiaceous", "pos": "adjective", "d": ["Belonging to the sterculia plant family."], "src": "iwb"}
+{"w": "stere", "pos": "noun", "d": ["A cubic meter, a unit of volume for stacked firewood."], "src": "iwb"}
+{"w": "sterelmintha", "pos": "noun", "d": ["A group of parasitic worms in old classifications."], "src": "iwb"}
+{"w": "stereo-", "pos": "prefix", "d": ["A combining form meaning solid or three-dimensional."], "src": "iwb"}
+{"w": "stereobate", "pos": "noun", "d": ["The solid base of a building or column."], "src": "iwb"}
+{"w": "stereochrome", "pos": "noun", "d": ["A picture made by stereochromy."], "src": "iwb"}
+{"w": "stereochromic", "pos": "adjective", "d": ["Relating to stereochromy."], "src": "iwb"}
+{"w": "stereochromy", "pos": "noun", "d": ["A process of mural painting on plaster with waterglass."], "src": "iwb"}
+{"w": "stereoelectric", "pos": "adjective", "d": ["Pertaining to the conduction of electricity through solids."], "src": "iwb"}
+{"w": "stereogram", "pos": "noun", "d": ["A picture giving a three-dimensional effect."], "src": "iwb"}
+{"w": "stereograph", "pos": "noun", "d": ["A pair of pictures for viewing in a stereoscope."], "src": "iwb"}
+{"w": "stereography", "pos": "noun", "d": ["The art of representing solids on a flat surface."], "src": "iwb"}
+{"w": "stereometer", "pos": "noun", "d": ["An instrument for measuring solid bodies."], "src": "iwb"}
+{"w": "stereometric", "pos": "adjective", "d": ["Relating to stereometry."], "src": "iwb"}
+{"w": "stereometry", "pos": "noun", "d": ["The measurement of solid bodies."], "src": "iwb"}
+{"w": "stereomonoscope", "pos": "noun", "d": ["An instrument giving a single three-dimensional image."], "src": "iwb"}
+{"w": "stereoplasm", "pos": "noun", "d": ["The more solid part of a cell's protoplasm."], "src": "iwb"}
+{"w": "stereopticon", "pos": "noun", "d": ["A slide projector using two lenses for dissolving views."], "src": "iwb"}
+{"w": "stereoscope", "pos": "noun", "d": ["An instrument for viewing two pictures as one solid image."], "src": "iwb"}
+{"w": "stereoscopic", "pos": "adjective", "d": ["Giving a three-dimensional effect."], "src": "iwb"}
+{"w": "stereoscopist", "pos": "noun", "d": ["One skilled in stereoscopy."], "src": "iwb"}
+{"w": "stereoscopy", "pos": "noun", "d": ["The science of three-dimensional viewing."], "src": "iwb"}
+{"w": "stereostatic", "pos": "adjective", "d": ["Relating to the equilibrium of solid bodies."], "src": "iwb"}
+{"w": "stereotomic", "pos": "adjective", "d": ["Relating to stereotomy."], "src": "iwb"}
+{"w": "stereotomy", "pos": "noun", "d": ["The art of cutting solid stone into shapes."], "src": "iwb"}
+{"w": "stereotype", "pos": "noun", "d": ["An oversimplified fixed image of a group.", "A printing plate cast from set type."], "src": "iwb"}
+{"w": "stereotypery", "pos": "noun", "d": ["The art of making stereotype printing plates."], "src": "iwb"}
+{"w": "stereotypic", "pos": "adjective", "d": ["Relating to or like a stereotype."], "src": "iwb"}
+{"w": "stereotypist", "pos": "noun", "d": ["One who makes stereotype plates."], "src": "iwb"}
+{"w": "stereotypographer", "pos": "noun", "d": ["A printer who works with stereotype plates."], "src": "iwb"}
+{"w": "stereotypography", "pos": "noun", "d": ["Printing by means of stereotype plates."], "src": "iwb"}
+{"w": "stereotypy", "pos": "noun", "d": ["Repetitive, purposeless behavior, as in caged animals."], "src": "iwb"}
+{"w": "sterhydraulic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sterile", "pos": "adjective", "d": ["Free from germs.", "Unable to produce offspring."], "src": "iwb"}
+{"w": "sterility", "pos": "noun", "d": ["The state of being sterile."], "src": "iwb"}
+{"w": "sterilization", "pos": "noun", "d": ["The act of making sterile."], "src": "iwb"}
+{"w": "sterilize", "pos": "verb", "d": ["To make sterile; to free from germs."], "src": "iwb"}
+{"w": "sterlet", "pos": "noun", "d": ["A small sturgeon of Europe and Asia."], "src": "iwb"}
+{"w": "stern", "pos": "adjective", "d": ["Severe and strict.", "The rear part of a ship."], "src": "iwb"}
+{"w": "stern-wheel", "pos": "noun", "d": ["A paddle wheel at the stern of a boat."], "src": "iwb"}
+{"w": "sternbergite", "pos": "noun", "d": ["A silver-iron sulfide mineral."], "src": "iwb"}
+{"w": "sternebra", "pos": "noun", "d": ["One of the segments of the breastbone."], "src": "iwb"}
+{"w": "sternite", "pos": "noun", "d": ["The underside plate of an insect's body segment."], "src": "iwb"}
+{"w": "sterno-", "pos": "prefix", "d": ["A combining form meaning the sternum."], "src": "iwb"}
+{"w": "sternocoracoid", "pos": "adjective", "d": ["Relating to the sternum and coracoid bone."], "src": "iwb"}
+{"w": "sternocostal", "pos": "adjective", "d": ["Relating to the sternum and ribs."], "src": "iwb"}
+{"w": "sternohyoid", "pos": "noun", "d": ["A muscle of the neck between the sternum and the hyoid bone."], "src": "iwb"}
+{"w": "sternomastoid", "pos": "adjective", "d": ["Relating to the sternum and the mastoid process."], "src": "iwb"}
+{"w": "sternothyroid", "pos": "adjective", "d": ["Relating to the sternum and the thyroid cartilage."], "src": "iwb"}
+{"w": "sternsman", "pos": "noun", "d": ["One who steers at the stern; a steersman."], "src": "iwb"}
+{"w": "sternum", "pos": "noun", "d": ["The breastbone."], "src": "iwb"}
+{"w": "sternutation", "pos": "noun", "d": ["The act of sneezing."], "src": "iwb"}
+{"w": "sternutative", "pos": "adjective", "d": ["Causing sneezing."], "src": "iwb"}
+{"w": "sternutatory", "pos": "noun", "d": ["A substance that causes sneezing."], "src": "iwb"}
+{"w": "sterquilinous", "pos": "adjective", "d": ["Like or belonging to a dunghill."], "src": "iwb"}
+{"w": "sterre", "pos": "noun", "d": ["A star; an old form of the word."], "src": "iwb"}
+{"w": "sterrink", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sterrometal", "pos": "noun", "d": ["A kind of bronze alloy."], "src": "iwb"}
+{"w": "stert", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sterte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stertorious", "pos": "adjective", "d": ["Snoring; stertorous."], "src": "iwb"}
+{"w": "stertorous", "pos": "adjective", "d": ["Characterized by heavy snoring sounds."], "src": "iwb"}
+{"w": "sterve", "pos": "verb", "d": ["To starve; an old form of the word."], "src": "iwb"}
+{"w": "stet", "pos": "verb", "d": ["Let it stand; a proofreader's mark canceling a correction."], "src": "iwb"}
+{"w": "stethal", "pos": "adjective", "d": ["Relating to the chest."], "src": "iwb"}
+{"w": "stethograph", "pos": "noun", "d": ["An instrument for recording chest movements."], "src": "iwb"}
+{"w": "stethometer", "pos": "noun", "d": ["An instrument for measuring chest expansion."], "src": "iwb"}
+{"w": "stethoscope", "pos": "noun", "d": ["An instrument for listening to sounds in the chest."], "src": "iwb"}
+{"w": "stethoscopic", "pos": "adjective", "d": ["Relating to the stethoscope."], "src": "iwb"}
+{"w": "stethoscopist", "pos": "noun", "d": ["One skilled in using the stethoscope."], "src": "iwb"}
+{"w": "stethoscopy", "pos": "noun", "d": ["Examination by means of the stethoscope."], "src": "iwb"}
+{"w": "stevedore", "pos": "noun", "d": ["A person who loads and unloads ships."], "src": "iwb"}
+{"w": "stew", "pos": "verb", "d": ["To cook slowly in liquid.", "A dish of meat and vegetables cooked slowly."], "src": "iwb"}
+{"w": "steward", "pos": "noun", "d": ["A person who manages property or serves passengers."], "src": "iwb"}
+{"w": "stewardess", "pos": "noun", "d": ["A female flight or ship attendant."], "src": "iwb"}
+{"w": "stewartry", "pos": "noun", "d": ["The office or district of a steward."], "src": "iwb"}
+{"w": "stey", "pos": "adjective", "d": ["Steep; a Scots form."], "src": "iwb"}
+{"w": "sthenic", "pos": "adjective", "d": ["Marked by strength and vigor."], "src": "iwb"}
+{"w": "stiacciato", "pos": "noun", "d": ["Very low relief sculpture."], "src": "iwb"}
+{"w": "stian", "pos": "noun", "d": ["A sty on the eye; a Scots form of stye."], "src": "iwb"}
+{"w": "stibborn", "pos": "adjective", "d": ["Stubborn; an old variant spelling."], "src": "iwb"}
+{"w": "stibial", "pos": "adjective", "d": ["Relating to antimony."], "src": "iwb"}
+{"w": "stibiated", "pos": "adjective", "d": ["Combined with antimony."], "src": "iwb"}
+{"w": "stibic", "pos": "adjective", "d": ["Relating to antimony in its higher valence state."], "src": "iwb"}
+{"w": "stibiconite", "pos": "noun", "d": ["A hydrated antimony oxide mineral."], "src": "iwb"}
+{"w": "stibine", "pos": "noun", "d": ["A poisonous gas of antimony and hydrogen."], "src": "iwb"}
+{"w": "stibious", "pos": "adjective", "d": ["Relating to antimony in its lower valence state."], "src": "iwb"}
+{"w": "stibium", "pos": "noun", "d": ["The Latin name for antimony."], "src": "iwb"}
+{"w": "stibnite", "pos": "noun", "d": ["A mineral sulfide of antimony."], "src": "iwb"}
+{"w": "stibonium", "pos": "noun", "d": ["A compound of antimony and hydrogen with organic radicals."], "src": "iwb"}
+{"w": "sticcado", "pos": "noun", "d": ["A musical instrument of wooden bars struck with mallets."], "src": "iwb"}
+{"w": "stich", "pos": "noun", "d": ["A line or verse of poetry.", "A row of stitches."], "src": "iwb"}
+{"w": "stichidium", "pos": "noun", "d": ["A pod-like branch bearing spores in certain algae."], "src": "iwb"}
+{"w": "stichomancy", "pos": "noun", "d": ["Divination by opening a book at random and reading the lines."], "src": "iwb"}
+{"w": "stichometrical", "pos": "adjective", "d": ["Relating to stichometry."], "src": "iwb"}
+{"w": "stichometry", "pos": "noun", "d": ["Measurement of a text by lines or verses."], "src": "iwb"}
+{"w": "stick-lac", "pos": "noun", "d": ["Lac resin in its natural stick form on twigs."], "src": "iwb"}
+{"w": "stick-seed", "pos": "noun", "d": ["A plant with seeds that cling to clothing."], "src": "iwb"}
+{"w": "stick-tight", "pos": "noun", "d": ["A bur-like seed that sticks to clothing."], "src": "iwb"}
+{"w": "stickiness", "pos": "noun", "d": ["The quality of being sticky."], "src": "iwb"}
+{"w": "stickit", "pos": "adjective", "d": ["Stuck.", "Spoiled or bungled, in Scots use."], "src": "iwb"}
+{"w": "stickle", "pos": "verb", "d": ["To argue over small points.", "A shallow rapid in a stream."], "src": "iwb"}
+{"w": "stiddy", "pos": "noun", "d": ["An anvil; a variant of stithy."], "src": "iwb"}
+{"w": "stiff", "pos": "adjective", "d": ["Not bending easily.", "Difficult or severe."], "src": "iwb"}
+{"w": "stiff-backed", "pos": "adjective", "d": ["Having a rigid back; unyielding."], "src": "iwb"}
+{"w": "stiff-hearted", "pos": "adjective", "d": ["Hard-hearted; unfeeling."], "src": "iwb"}
+{"w": "stiff-necked", "pos": "adjective", "d": ["Stubbornly refusing to yield."], "src": "iwb"}
+{"w": "stiff-tailed", "pos": "adjective", "d": ["Having a stiff tail, as certain ducks."], "src": "iwb"}
+{"w": "stifle", "pos": "verb", "d": ["To smother or suppress.", "The knee joint of a horse or dog."], "src": "iwb"}
+{"w": "stigma", "pos": "noun", "d": ["A mark of disgrace.", "The pollen-receiving part of a flower."], "src": "iwb"}
+{"w": "stigmaria", "pos": "noun", "d": ["A fossil root system of ancient trees."], "src": "iwb"}
+{"w": "stigmata", "pos": "noun", "d": ["Marks resembling the wounds of Christ.", "The plural of stigma."], "src": "iwb"}
+{"w": "stigmatist", "pos": "noun", "d": ["One who bears the stigmata.", "One who brands with disgrace."], "src": "iwb"}
+{"w": "stigmatization", "pos": "noun", "d": ["The act of marking with disgrace."], "src": "iwb"}
+{"w": "stigmatize", "pos": "verb", "d": ["To mark with disgrace or infamy."], "src": "iwb"}
+{"w": "stigonomancy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stike", "pos": "noun", "d": ["A small bundle of sheaves; a variant of stook."], "src": "iwb"}
+{"w": "stilar", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stilbene", "pos": "noun", "d": ["A hydrocarbon used in making dyes and optical brighteners."], "src": "iwb"}
+{"w": "stilbite", "pos": "noun", "d": ["A zeolite mineral forming sheaf-like crystals."], "src": "iwb"}
+{"w": "stile", "pos": "noun", "d": ["Steps for climbing over a fence.", "A manner of writing; style."], "src": "iwb"}
+{"w": "stilet", "pos": "noun", "d": ["A stiletto; a small dagger."], "src": "iwb"}
+{"w": "stiletto", "pos": "noun", "d": ["A slender pointed dagger."], "src": "iwb"}
+{"w": "still-burn", "pos": "noun", "d": ["Heartburn."], "src": "iwb"}
+{"w": "still-closing", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "still-hunt", "pos": "verb", "d": ["To hunt game stealthily on foot."], "src": "iwb"}
+{"w": "stillatitious", "pos": "adjective", "d": ["Falling drop by drop."], "src": "iwb"}
+{"w": "stillatory", "pos": "noun", "d": ["A place for distilling; a still room."], "src": "iwb"}
+{"w": "stillicide", "pos": "noun", "d": ["A continual dripping of water."], "src": "iwb"}
+{"w": "stillicidious", "pos": "adjective", "d": ["Falling in drops."], "src": "iwb"}
+{"w": "stilliform", "pos": "adjective", "d": ["Drop-shaped."], "src": "iwb"}
+{"w": "stillson wrench", "pos": "noun", "d": ["An adjustable pipe wrench."], "src": "iwb"}
+{"w": "stilly", "pos": "adverb", "d": ["In a still, quiet manner."], "src": "iwb"}
+{"w": "stilpnomelane", "pos": "noun", "d": ["A black mica-like mineral."], "src": "iwb"}
+{"w": "stilt", "pos": "noun", "d": ["A long pole for walking raised above the ground.", "A long-legged wading bird."], "src": "iwb"}
+{"w": "stilton", "pos": "noun", "d": ["A rich blue-veined English cheese."], "src": "iwb"}
+{"w": "stilton cheese", "pos": "noun", "d": ["Stilton, a blue-veined English cheese."], "src": "iwb"}
+{"w": "stilty", "pos": "adjective", "d": ["Like a stilt; tall and thin-legged."], "src": "iwb"}
+{"w": "stime", "pos": "noun", "d": ["A glimpse or small amount."], "src": "iwb"}
+{"w": "stimey", "pos": "adjective", "d": ["Faintly glimmering."], "src": "iwb"}
+{"w": "stimie", "pos": "noun", "d": ["A variant of stymie, a blocked golf shot."], "src": "iwb"}
+{"w": "stimulant", "pos": "noun", "d": ["Something that stimulates or excites activity."], "src": "iwb"}
+{"w": "stimulate", "pos": "verb", "d": ["To rouse to action; to excite."], "src": "iwb"}
+{"w": "stimulation", "pos": "noun", "d": ["The act of stimulating."], "src": "iwb"}
+{"w": "stimulative", "pos": "adjective", "d": ["Tending to stimulate."], "src": "iwb"}
+{"w": "stimulator", "pos": "noun", "d": ["One who or that which stimulates."], "src": "iwb"}
+{"w": "stimulatress", "pos": "noun", "d": ["A female stimulator."], "src": "iwb"}
+{"w": "stimulism", "pos": "noun", "d": ["The doctrine that stimulation is the basis of life."], "src": "iwb"}
+{"w": "stimulus", "pos": "noun", "d": ["Something that provokes a response."], "src": "iwb"}
+{"w": "stimy", "pos": "verb", "d": ["To stymie; to block in golf."], "src": "iwb"}
+{"w": "sting", "pos": "verb", "d": ["To pierce with a stinger.", "A sharp pain from a sting."], "src": "iwb"}
+{"w": "sting ray", "pos": "noun", "d": ["A flat fish with a venomous barbed tail."], "src": "iwb"}
+{"w": "stingaree", "pos": "noun", "d": ["A stingray."], "src": "iwb"}
+{"w": "stingily", "pos": "adverb", "d": ["In a stingy manner."], "src": "iwb"}
+{"w": "stinginess", "pos": "noun", "d": ["The quality of being stingy."], "src": "iwb"}
+{"w": "stingo", "pos": "noun", "d": ["Strong old ale or beer."], "src": "iwb"}
+{"w": "stingy", "pos": "adjective", "d": ["Unwilling to spend or give."], "src": "iwb"}
+{"w": "stink", "pos": "verb", "d": ["To give off a bad smell.", "A foul odor."], "src": "iwb"}
+{"w": "stinkard", "pos": "noun", "d": ["A stinking, contemptible person."], "src": "iwb"}
+{"w": "stint", "pos": "verb", "d": ["To limit or be sparing.", "A limited amount or period of work."], "src": "iwb"}
+{"w": "stintedness", "pos": "noun", "d": ["The state of being stinted."], "src": "iwb"}
+{"w": "stipe", "pos": "noun", "d": ["The stalk of a plant part, as a mushroom stem."], "src": "iwb"}
+{"w": "stipel", "pos": "noun", "d": ["A small stipule at the base of a leaflet."], "src": "iwb"}
+{"w": "stipend", "pos": "noun", "d": ["A fixed regular payment for services."], "src": "iwb"}
+{"w": "stipendiarian", "pos": "noun", "d": ["One who receives a stipend."], "src": "iwb"}
+{"w": "stipendiary", "pos": "adjective", "d": ["Receiving a stipend.", "One who receives a stipend."], "src": "iwb"}
+{"w": "stipendiate", "pos": "verb", "d": ["To support by a stipend."], "src": "iwb"}
+{"w": "stipitate", "pos": "adjective", "d": ["Borne on a stipe."], "src": "iwb"}
+{"w": "stipitiform", "pos": "adjective", "d": ["Shaped like a stipe."], "src": "iwb"}
+{"w": "stipple", "pos": "verb", "d": ["To paint or engrave with small dots."], "src": "iwb"}
+{"w": "stiptic", "pos": "adjective", "d": ["Tending to stop bleeding."], "src": "iwb"}
+{"w": "stipula", "pos": "noun", "d": ["A small leaf-like appendage at a leaf base; Latin for stipule."], "src": "iwb"}
+{"w": "stipulaceous", "pos": "adjective", "d": ["Relating to or bearing stipules."], "src": "iwb"}
+{"w": "stipular", "pos": "adjective", "d": ["Relating to stipules."], "src": "iwb"}
+{"w": "stipulary", "pos": "adjective", "d": ["Relating to stipules."], "src": "iwb"}
+{"w": "stipulate", "pos": "verb", "d": ["To specify as a condition of an agreement."], "src": "iwb"}
+{"w": "stipule", "pos": "noun", "d": ["A small leaf-like growth at the base of a leafstalk."], "src": "iwb"}
+{"w": "stir", "pos": "verb", "d": ["To mix by moving around.", "A commotion."], "src": "iwb"}
+{"w": "stiriated", "pos": "adjective", "d": ["Formed into icicles."], "src": "iwb"}
+{"w": "stirious", "pos": "adjective", "d": ["Like icicles; frozen into drops."], "src": "iwb"}
+{"w": "stirk", "pos": "noun", "d": ["A young ox or heifer."], "src": "iwb"}
+{"w": "stirp", "pos": "noun", "d": ["A race or stock; a family line."], "src": "iwb"}
+{"w": "stirpiculture", "pos": "noun", "d": ["The breeding of special stocks by selection."], "src": "iwb"}
+{"w": "stirrup", "pos": "noun", "d": ["The loop hanging from a saddle that holds the rider's foot."], "src": "iwb"}
+{"w": "stirt", "pos": "verb", "d": ["To start up suddenly.", "A sudden start."], "src": "iwb"}
+{"w": "stirte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stitch", "pos": "noun", "d": ["One loop of thread in sewing.", "To sew with stitches."], "src": "iwb"}
+{"w": "stitchel", "pos": "noun", "d": ["A variant of stickle; a shallow rapid in a stream."], "src": "iwb"}
+{"w": "stitchery", "pos": "noun", "d": ["Needlework; the art of stitching."], "src": "iwb"}
+{"w": "stith", "pos": "noun", "d": ["An anvil; an old form of stithy."], "src": "iwb"}
+{"w": "stithy", "pos": "noun", "d": ["An anvil."], "src": "iwb"}
+{"w": "stive", "pos": "verb", "d": ["To stuff or pack tightly."], "src": "iwb"}
+{"w": "stoak", "pos": "verb", "d": ["To stop the flow of water; to dam."], "src": "iwb"}
+{"w": "stoat", "pos": "noun", "d": ["A weasel-like animal that turns white in winter."], "src": "iwb"}
+{"w": "stocah", "pos": "noun", "d": ["A short dagger; an old form."], "src": "iwb"}
+{"w": "stoccade", "pos": "noun", "d": ["A fencer's thrust; a variant of stoccado."], "src": "iwb"}
+{"w": "stoccado", "pos": "noun", "d": ["A thrust in fencing."], "src": "iwb"}
+{"w": "stochastic", "pos": "adjective", "d": ["Involving random chance."], "src": "iwb"}
+{"w": "stock-blind", "pos": "adjective", "d": ["Completely blind."], "src": "iwb"}
+{"w": "stock-still", "pos": "adjective", "d": ["Perfectly motionless."], "src": "iwb"}
+{"w": "stockade", "pos": "noun", "d": ["A defensive wall of upright posts."], "src": "iwb"}
+{"w": "stockinet", "pos": "noun", "d": ["An elastic knitted fabric."], "src": "iwb"}
+{"w": "stocky", "pos": "adjective", "d": ["Short and thickset."], "src": "iwb"}
+{"w": "stodgy", "pos": "adjective", "d": ["Heavy and dull.", "Hard to digest."], "src": "iwb"}
+{"w": "stoechiology", "pos": "noun", "d": ["An old term for the doctrine of the elements."], "src": "iwb"}
+{"w": "stoechiometry", "pos": "noun", "d": ["An old term for stoichiometry."], "src": "iwb"}
+{"w": "stogy", "pos": "noun", "d": ["A long cheap cigar."], "src": "iwb"}
+{"w": "stoic", "pos": "noun", "d": ["One who bears pain without complaint.", "Unmoved by feeling."], "src": "iwb"}
+{"w": "stoichiological", "pos": "adjective", "d": ["Relating to stoichiology."], "src": "iwb"}
+{"w": "stoichiology", "pos": "noun", "d": ["The doctrine of the elements; the study of chemical composition."], "src": "iwb"}
+{"w": "stoichiometric", "pos": "adjective", "d": ["Relating to stoichiometry."], "src": "iwb"}
+{"w": "stoichiometry", "pos": "noun", "d": ["The calculation of chemical proportions in reactions."], "src": "iwb"}
+{"w": "stoke", "pos": "verb", "d": ["To feed and stir a fire."], "src": "iwb"}
+{"w": "stokey", "pos": "noun", "d": ["One who stokes a furnace."], "src": "iwb"}
+{"w": "stola", "pos": "noun", "d": ["A long robe worn by Roman women."], "src": "iwb"}
+{"w": "stole", "pos": "noun", "d": ["A long scarf worn by clergy.", "The past tense of steal."], "src": "iwb"}
+{"w": "stolid", "pos": "adjective", "d": ["Showing little feeling or interest."], "src": "iwb"}
+{"w": "stolon", "pos": "noun", "d": ["A creeping stem that roots to form new plants."], "src": "iwb"}
+{"w": "stoloniferous", "pos": "adjective", "d": ["Bearing stolons."], "src": "iwb"}
+{"w": "stoma", "pos": "noun", "d": ["A small opening, as a leaf pore."], "src": "iwb"}
+{"w": "stomachy", "pos": "adjective", "d": ["Proud or irritable.", "Having a large stomach."], "src": "iwb"}
+{"w": "stomapoda", "pos": "noun", "d": ["The mantis shrimps, a group of crustaceans."], "src": "iwb"}
+{"w": "stomate", "pos": "adjective", "d": ["Having stomata."], "src": "iwb"}
+{"w": "stomatiferous", "pos": "adjective", "d": ["Bearing stomata."], "src": "iwb"}
+{"w": "stomatitis", "pos": "noun", "d": ["Inflammation of the mouth."], "src": "iwb"}
+{"w": "stomatoda", "pos": "noun", "d": ["Animals having a mouth."], "src": "iwb"}
+{"w": "stomatodaeum", "pos": "noun", "d": ["The mouth cavity of an embryo."], "src": "iwb"}
+{"w": "stomatode", "pos": "noun", "d": ["An animal with a mouth."], "src": "iwb"}
+{"w": "stomatogastric", "pos": "adjective", "d": ["Relating to the mouth and stomach."], "src": "iwb"}
+{"w": "stomatology", "pos": "noun", "d": ["The study of the mouth and its diseases."], "src": "iwb"}
+{"w": "stomatoplastic", "pos": "adjective", "d": ["Relating to plastic surgery of the mouth."], "src": "iwb"}
+{"w": "stomatoplasty", "pos": "noun", "d": ["Plastic surgery of the mouth."], "src": "iwb"}
+{"w": "stomatopod", "pos": "noun", "d": ["A mantis shrimp."], "src": "iwb"}
+{"w": "stomatopoda", "pos": "noun", "d": ["The order of mantis shrimps."], "src": "iwb"}
+{"w": "stomatoscope", "pos": "noun", "d": ["An instrument for examining the mouth."], "src": "iwb"}
+{"w": "stomatous", "pos": "adjective", "d": ["Having a mouth or mouth-like opening."], "src": "iwb"}
+{"w": "stomodaeum", "pos": "noun", "d": ["The embryonic mouth cavity."], "src": "iwb"}
+{"w": "stomp", "pos": "verb", "d": ["To stamp heavily with the foot."], "src": "iwb"}
+{"w": "stond", "pos": "noun", "d": ["Astonishment; a sudden shock."], "src": "iwb"}
+{"w": "stone-blind", "pos": "adjective", "d": ["Completely blind."], "src": "iwb"}
+{"w": "stone-cold", "pos": "adjective", "d": ["Cold as stone; completely cold."], "src": "iwb"}
+{"w": "stone-dead", "pos": "adjective", "d": ["Completely dead."], "src": "iwb"}
+{"w": "stone-deaf", "pos": "adjective", "d": ["Completely deaf."], "src": "iwb"}
+{"w": "stone-hearted", "pos": "adjective", "d": ["Cruel and unfeeling."], "src": "iwb"}
+{"w": "stone-horse", "pos": "noun", "d": ["A stallion; an uncastrated horse."], "src": "iwb"}
+{"w": "stone-still", "pos": "adjective", "d": ["Perfectly still."], "src": "iwb"}
+{"w": "stonebrearer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stonehenge", "pos": "noun", "d": ["The prehistoric stone circle on Salisbury Plain, England."], "src": "iwb"}
+{"w": "stonesmickle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stonily", "pos": "adverb", "d": ["In a stony manner."], "src": "iwb"}
+{"w": "stoniness", "pos": "noun", "d": ["The quality of being stony."], "src": "iwb"}
+{"w": "stonish", "pos": "verb", "d": ["To astonish; an old form."], "src": "iwb"}
+{"w": "stont", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stony", "pos": "adjective", "d": ["Full of stones.", "Hard and unfeeling."], "src": "iwb"}
+{"w": "stook", "pos": "noun", "d": ["A shock of sheaves set up in a field."], "src": "iwb"}
+{"w": "stool", "pos": "noun", "d": ["A seat without a back.", "A low bench."], "src": "iwb"}
+{"w": "stoom", "pos": "noun", "d": ["Steam or vapor; a Scots word."], "src": "iwb"}
+{"w": "stoop", "pos": "verb", "d": ["To bend the body forward.", "A small porch at a house entrance."], "src": "iwb"}
+{"w": "stoor", "pos": "noun", "d": ["Dust or commotion; a Scots word."], "src": "iwb"}
+{"w": "stop order", "pos": "noun", "d": ["An order to stop an action, as in trading."], "src": "iwb"}
+{"w": "stop-gap", "pos": "noun", "d": ["A temporary substitute."], "src": "iwb"}
+{"w": "stop-over", "pos": "noun", "d": ["A brief stop during a journey."], "src": "iwb"}
+{"w": "stope", "pos": "noun", "d": ["A step-like excavation in a mine."], "src": "iwb"}
+{"w": "stopping-out", "pos": "noun", "d": ["The process of masking parts of a plate in etching."], "src": "iwb"}
+{"w": "stopple", "pos": "noun", "d": ["A stopper or plug."], "src": "iwb"}
+{"w": "stor", "pos": "noun", "d": ["A store; an old or dialectal form."], "src": "iwb"}
+{"w": "storax", "pos": "noun", "d": ["A fragrant resin from the storax tree."], "src": "iwb"}
+{"w": "storey", "pos": "noun", "d": ["One floor of a building."], "src": "iwb"}
+{"w": "storge", "pos": "noun", "d": ["Natural parental affection."], "src": "iwb"}
+{"w": "stork", "pos": "noun", "d": ["A large long-legged wading bird."], "src": "iwb"}
+{"w": "stork-billed", "pos": "adjective", "d": ["Having a bill like a stork's."], "src": "iwb"}
+{"w": "storm-beat", "pos": "adjective", "d": ["Beaten by storms."], "src": "iwb"}
+{"w": "stormily", "pos": "adverb", "d": ["In a stormy manner."], "src": "iwb"}
+{"w": "storminess", "pos": "noun", "d": ["The quality of being stormy."], "src": "iwb"}
+{"w": "stormy", "pos": "adjective", "d": ["Full of storms.", "Violent in temper."], "src": "iwb"}
+{"w": "storven", "pos": "adjective", "d": ["Starved; an old past participle."], "src": "iwb"}
+{"w": "story-teller", "pos": "noun", "d": ["One who tells stories."], "src": "iwb"}
+{"w": "story-telling", "pos": "noun", "d": ["The act of telling stories."], "src": "iwb"}
+{"w": "story-writer", "pos": "noun", "d": ["One who writes stories."], "src": "iwb"}
+{"w": "stot", "pos": "noun", "d": ["A young bullock.", "A bounce or rebound."], "src": "iwb"}
+{"w": "stote", "pos": "noun", "d": ["A stoat; an old form."], "src": "iwb"}
+{"w": "stound", "pos": "noun", "d": ["A short time.", "A pang or shock."], "src": "iwb"}
+{"w": "stoup", "pos": "noun", "d": ["A drinking cup.", "A basin for holy water."], "src": "iwb"}
+{"w": "stour", "pos": "noun", "d": ["Dust, turmoil, or battle; a Scots word."], "src": "iwb"}
+{"w": "stout", "pos": "adjective", "d": ["Strong and thick.", "Brave and resolute."], "src": "iwb"}
+{"w": "stout-hearted", "pos": "adjective", "d": ["Brave and resolute."], "src": "iwb"}
+{"w": "stovain", "pos": "noun", "d": ["A local anesthetic; a variant of stovaine."], "src": "iwb"}
+{"w": "stovaine", "pos": "noun", "d": ["A synthetic local anesthetic."], "src": "iwb"}
+{"w": "stove", "pos": "noun", "d": ["An apparatus for heating or cooking."], "src": "iwb"}
+{"w": "stow", "pos": "verb", "d": ["To pack away neatly."], "src": "iwb"}
+{"w": "stowce", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stowre", "pos": "noun", "d": ["A variant of stour; dust or conflict."], "src": "iwb"}
+{"w": "strabism", "pos": "noun", "d": ["Squinting; a variant of strabismus."], "src": "iwb"}
+{"w": "strabismometer", "pos": "noun", "d": ["An instrument for measuring squint of the eyes."], "src": "iwb"}
+{"w": "strabismus", "pos": "noun", "d": ["A squint; misalignment of the eyes."], "src": "iwb"}
+{"w": "strabotomy", "pos": "noun", "d": ["Surgical cutting of an eye muscle to correct squint."], "src": "iwb"}
+{"w": "straddle", "pos": "verb", "d": ["To sit with legs on either side."], "src": "iwb"}
+{"w": "stradometrical", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "straggle", "pos": "verb", "d": ["To stray or fall behind."], "src": "iwb"}
+{"w": "stragulum", "pos": "noun", "d": ["A spread or covering, as a rug."], "src": "iwb"}
+{"w": "straight-joint", "pos": "noun", "d": ["A joint made with straight-cut ends."], "src": "iwb"}
+{"w": "straight-lined", "pos": "adjective", "d": ["Bounded by straight lines."], "src": "iwb"}
+{"w": "straight-out", "pos": "adjective", "d": ["Direct and unreserved."], "src": "iwb"}
+{"w": "straight-pight", "pos": "adjective", "d": ["Set straight; an old term."], "src": "iwb"}
+{"w": "straight-spoken", "pos": "adjective", "d": ["Speaking plainly and directly."], "src": "iwb"}
+{"w": "straik", "pos": "verb", "d": ["To stroke; a Scots form of stroke."], "src": "iwb"}
+{"w": "straint", "pos": "noun", "d": ["An old variant of the word strain."], "src": "iwb"}
+{"w": "strait", "pos": "noun", "d": ["A narrow passage of water.", "Narrow; strict."], "src": "iwb"}
+{"w": "strait-handed", "pos": "adjective", "d": ["Close-fisted; stingy."], "src": "iwb"}
+{"w": "strait-jacket", "pos": "noun", "d": ["A garment restraining a violent person."], "src": "iwb"}
+{"w": "strait-laced", "pos": "adjective", "d": ["Excessively strict in morals."], "src": "iwb"}
+{"w": "strait-waistcoat", "pos": "noun", "d": ["A straitjacket."], "src": "iwb"}
+{"w": "strake", "pos": "noun", "d": ["A row of planks on a ship's hull.", "An iron tire on a wheel."], "src": "iwb"}
+{"w": "strale", "pos": "noun", "d": ["A variant of strake."], "src": "iwb"}
+{"w": "stram", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stramazoun", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stramineous", "pos": "adjective", "d": ["Straw-like; made of straw."], "src": "iwb"}
+{"w": "stramonium", "pos": "noun", "d": ["The thorn apple plant, used as a drug."], "src": "iwb"}
+{"w": "strang", "pos": "adjective", "d": ["Strong; a Scots form."], "src": "iwb"}
+{"w": "strangle", "pos": "verb", "d": ["To choke to death by squeezing the throat."], "src": "iwb"}
+{"w": "strangle hold", "pos": "noun", "d": ["A wrestling grip around the neck."], "src": "iwb"}
+{"w": "strangulate", "pos": "verb", "d": ["To strangle; to constrict."], "src": "iwb"}
+{"w": "strangulation", "pos": "noun", "d": ["The act of strangling."], "src": "iwb"}
+{"w": "strangury", "pos": "noun", "d": ["Painful, difficult urination."], "src": "iwb"}
+{"w": "strany", "pos": "adjective", "d": ["A variant of strang; strong."], "src": "iwb"}
+{"w": "strap-shaped", "pos": "adjective", "d": ["Long and narrow like a strap."], "src": "iwb"}
+{"w": "strappado", "pos": "noun", "d": ["An old torture of hoisting a victim by the wrists."], "src": "iwb"}
+{"w": "strapple", "pos": "verb", "d": ["To struggle; a Scots word."], "src": "iwb"}
+{"w": "strass", "pos": "noun", "d": ["A brilliant glass used for imitation gems."], "src": "iwb"}
+{"w": "strata", "pos": "noun", "d": ["Layers of rock; the plural of stratum."], "src": "iwb"}
+{"w": "stratarithmetry", "pos": "noun", "d": ["The science of measuring rock strata."], "src": "iwb"}
+{"w": "strategetic", "pos": "adjective", "d": ["An old variant of strategic."], "src": "iwb"}
+{"w": "strategist", "pos": "noun", "d": ["One skilled in strategy."], "src": "iwb"}
+{"w": "strategus", "pos": "noun", "d": ["A Greek military commander."], "src": "iwb"}
+{"w": "strath", "pos": "noun", "d": ["A wide river valley in Scotland."], "src": "iwb"}
+{"w": "strathspey", "pos": "noun", "d": ["A slow Scottish dance.", "The tune for such a dance."], "src": "iwb"}
+{"w": "straticulate", "pos": "verb", "d": ["To arrange in layers."], "src": "iwb"}
+{"w": "stratification", "pos": "noun", "d": ["Arrangement in layers."], "src": "iwb"}
+{"w": "stratiform", "pos": "adjective", "d": ["Formed in layers."], "src": "iwb"}
+{"w": "stratify", "pos": "verb", "d": ["To form into layers."], "src": "iwb"}
+{"w": "stratigraphic", "pos": "adjective", "d": ["Relating to stratigraphy."], "src": "iwb"}
+{"w": "stratigraphy", "pos": "noun", "d": ["The study of rock layers."], "src": "iwb"}
+{"w": "strato-cirrus", "pos": "noun", "d": ["A layered high cloud; stratocirrus."], "src": "iwb"}
+{"w": "strato-cumulus", "pos": "noun", "d": ["A low layered lumpy cloud."], "src": "iwb"}
+{"w": "stratocracy", "pos": "noun", "d": ["Government by the army."], "src": "iwb"}
+{"w": "stratographic", "pos": "adjective", "d": ["Relating to the description of strata."], "src": "iwb"}
+{"w": "stratography", "pos": "noun", "d": ["The written description of geological strata."], "src": "iwb"}
+{"w": "stratonic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stratotic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stratum", "pos": "noun", "d": ["A layer of rock or material."], "src": "iwb"}
+{"w": "stratus", "pos": "noun", "d": ["A low, gray, layered cloud."], "src": "iwb"}
+{"w": "straught", "pos": "adjective", "d": ["Stretched out; distracted."], "src": "iwb"}
+{"w": "straw", "pos": "noun", "d": ["Dried stalks of grain."], "src": "iwb"}
+{"w": "straw-colored", "pos": "adjective", "d": ["Pale yellow like straw."], "src": "iwb"}
+{"w": "straw-cutter", "pos": "noun", "d": ["A machine for cutting straw."], "src": "iwb"}
+{"w": "strawy", "pos": "adjective", "d": ["Like straw; full of straw."], "src": "iwb"}
+{"w": "stray", "pos": "verb", "d": ["To wander from the path.", "Lost or wandering."], "src": "iwb"}
+{"w": "stre", "pos": "noun", "d": ["A street; an old form."], "src": "iwb"}
+{"w": "streak", "pos": "noun", "d": ["A long thin mark or line.", "To mark with streaks."], "src": "iwb"}
+{"w": "streaky", "pos": "adjective", "d": ["Marked with streaks."], "src": "iwb"}
+{"w": "stream clock", "pos": "noun", "d": ["A clock driven by flowing water."], "src": "iwb"}
+{"w": "stream gold", "pos": "noun", "d": ["Gold found in stream beds; placer gold."], "src": "iwb"}
+{"w": "stream line", "pos": "noun", "d": ["A line showing the direction of fluid flow."], "src": "iwb"}
+{"w": "stream wheel", "pos": "noun", "d": ["A water wheel driven by a stream."], "src": "iwb"}
+{"w": "streaminess", "pos": "noun", "d": ["The quality of being streamy."], "src": "iwb"}
+{"w": "stree", "pos": "verb", "d": ["An old variant of stretch."], "src": "iwb"}
+{"w": "streek", "pos": "verb", "d": ["To stretch out.", "To lay out a corpse."], "src": "iwb"}
+{"w": "streel", "pos": "verb", "d": ["To trail or drag untidily.", "A slovenly person."], "src": "iwb"}
+{"w": "streight", "pos": "noun", "d": ["A strait; an old form."], "src": "iwb"}
+{"w": "strein", "pos": "noun", "d": ["A strain or lineage; a Scots form."], "src": "iwb"}
+{"w": "streit", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "streite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "strelitz", "pos": "noun", "d": ["A member of the old Russian guard."], "src": "iwb"}
+{"w": "strelitzia", "pos": "noun", "d": ["The bird-of-paradise flower."], "src": "iwb"}
+{"w": "strene", "pos": "noun", "d": ["Offspring or lineage; an old word."], "src": "iwb"}
+{"w": "strenger", "pos": "adjective", "d": ["An old comparative form of strong."], "src": "iwb"}
+{"w": "strengest", "pos": "adjective", "d": ["An old superlative form of strong."], "src": "iwb"}
+{"w": "strengthy", "pos": "adjective", "d": ["Strong; full of strength."], "src": "iwb"}
+{"w": "strenuity", "pos": "noun", "d": ["Strenuous exertion."], "src": "iwb"}
+{"w": "strenuous", "pos": "adjective", "d": ["Requiring great effort.", "Vigorous and energetic."], "src": "iwb"}
+{"w": "streperous", "pos": "adjective", "d": ["Noisy and boisterous."], "src": "iwb"}
+{"w": "strepitores", "pos": "noun", "d": ["An old group name for the singing perching birds."], "src": "iwb"}
+{"w": "strepsipter", "pos": "noun", "d": ["A twisted-wing parasitic insect."], "src": "iwb"}
+{"w": "strepsiptera", "pos": "noun", "d": ["The order of twisted-wing insects."], "src": "iwb"}
+{"w": "strepsipteran", "pos": "adjective", "d": ["Relating to the Strepsiptera."], "src": "iwb"}
+{"w": "strepsorhina", "pos": "noun", "d": ["The lemurs and their kin, primates with twisted nostrils."], "src": "iwb"}
+{"w": "strepsorhine", "pos": "adjective", "d": ["Relating to the strepsorhine primates."], "src": "iwb"}
+{"w": "streptobacteria", "pos": "noun", "d": ["Bacteria growing in chains."], "src": "iwb"}
+{"w": "streptococcus", "pos": "noun", "d": ["Chain-forming bacteria causing infections."], "src": "iwb"}
+{"w": "streptoneura", "pos": "noun", "d": ["A group of gastropods with twisted nerve cords."], "src": "iwb"}
+{"w": "streptothrix", "pos": "noun", "d": ["A genus of thread-like bacteria."], "src": "iwb"}
+{"w": "stretto", "pos": "noun", "d": ["A quickened passage in music.", "The closing passage of a fugue."], "src": "iwb"}
+{"w": "strew", "pos": "verb", "d": ["To scatter loosely."], "src": "iwb"}
+{"w": "strewn", "pos": "adjective", "d": ["Scattered; the past participle of strew."], "src": "iwb"}
+{"w": "stria", "pos": "noun", "d": ["A narrow groove or stripe."], "src": "iwb"}
+{"w": "striate", "pos": "adjective", "d": ["Marked with fine grooves.", "To mark with striae."], "src": "iwb"}
+{"w": "striatum", "pos": "noun", "d": ["A striped mass of nerve tissue in the brain."], "src": "iwb"}
+{"w": "striature", "pos": "noun", "d": ["The state of being striated."], "src": "iwb"}
+{"w": "strich", "pos": "noun", "d": ["An old variant of streak."], "src": "iwb"}
+{"w": "strick", "pos": "noun", "d": ["A bundle of flax fibers.", "An old variant of streak."], "src": "iwb"}
+{"w": "strickle", "pos": "noun", "d": ["A tool for leveling grain.", "A whetstone for a scythe."], "src": "iwb"}
+{"w": "strid", "pos": "noun", "d": ["A narrow part of a river where the water rushes."], "src": "iwb"}
+{"w": "stride", "pos": "verb", "d": ["To walk with long steps.", "A long step."], "src": "iwb"}
+{"w": "stridor", "pos": "noun", "d": ["A harsh, high-pitched breathing sound."], "src": "iwb"}
+{"w": "stridulate", "pos": "verb", "d": ["To make a shrill grating sound, as crickets do."], "src": "iwb"}
+{"w": "stridulation", "pos": "noun", "d": ["The shrill sound made by rubbing body parts together."], "src": "iwb"}
+{"w": "stridulator", "pos": "noun", "d": ["An insect that stridulates."], "src": "iwb"}
+{"w": "stridulatory", "pos": "adjective", "d": ["Relating to stridulation."], "src": "iwb"}
+{"w": "stridulous", "pos": "adjective", "d": ["Making a shrill grating sound."], "src": "iwb"}
+{"w": "strife", "pos": "noun", "d": ["Bitter conflict or struggle."], "src": "iwb"}
+{"w": "strigate", "pos": "adjective", "d": ["Furrowed; marked with grooves."], "src": "iwb"}
+{"w": "striges", "pos": "noun", "d": ["Grooves or flutings; the plural of strix."], "src": "iwb"}
+{"w": "strigil", "pos": "noun", "d": ["A curved scraper used by ancient Romans after bathing."], "src": "iwb"}
+{"w": "strigine", "pos": "adjective", "d": ["Relating to owls."], "src": "iwb"}
+{"w": "strigment", "pos": "noun", "d": ["Scrapings from the body; refuse."], "src": "iwb"}
+{"w": "strigose", "pos": "adjective", "d": ["Covered with stiff bristles."], "src": "iwb"}
+{"w": "strigous", "pos": "adjective", "d": ["Strigose; bristly."], "src": "iwb"}
+{"w": "strikle", "pos": "noun", "d": ["A strickle; a leveling tool."], "src": "iwb"}
+{"w": "stringency", "pos": "noun", "d": ["Strictness.", "Tightness of rules or money."], "src": "iwb"}
+{"w": "stringendo", "pos": "adverb", "d": ["With quickening pace, in music."], "src": "iwb"}
+{"w": "stringiness", "pos": "noun", "d": ["The quality of being stringy."], "src": "iwb"}
+{"w": "stringy", "pos": "adjective", "d": ["Like a string; thin and fibrous."], "src": "iwb"}
+{"w": "strip-leaf", "pos": "noun", "d": ["Tobacco leaf stripped from its stem."], "src": "iwb"}
+{"w": "stripe", "pos": "noun", "d": ["A long narrow band.", "To mark with stripes."], "src": "iwb"}
+{"w": "strisores", "pos": "noun", "d": ["An old group of birds including swifts and hummingbirds."], "src": "iwb"}
+{"w": "strive", "pos": "verb", "d": ["To make great efforts; to struggle."], "src": "iwb"}
+{"w": "striven", "pos": "adjective", "d": ["Having striven; the past participle of strive."], "src": "iwb"}
+{"w": "strix", "pos": "noun", "d": ["An owl.", "A groove or furrow."], "src": "iwb"}
+{"w": "stroam", "pos": "verb", "d": ["To wander about idly."], "src": "iwb"}
+{"w": "strobila", "pos": "noun", "d": ["The chain of segments of a tapeworm.", "A cone-like reproductive structure."], "src": "iwb"}
+{"w": "strobilaceous", "pos": "adjective", "d": ["Cone-like; relating to a strobilus."], "src": "iwb"}
+{"w": "strobile", "pos": "noun", "d": ["A cone, as of a pine; a strobilus."], "src": "iwb"}
+{"w": "strobiliform", "pos": "adjective", "d": ["Cone-shaped."], "src": "iwb"}
+{"w": "strobiline", "pos": "adjective", "d": ["Relating to a strobilus."], "src": "iwb"}
+{"w": "stroboscope", "pos": "noun", "d": ["An instrument producing the illusion of stopped motion."], "src": "iwb"}
+{"w": "strockle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "strode", "pos": "verb", "d": ["The past tense of stride."], "src": "iwb"}
+{"w": "strokesman", "pos": "noun", "d": ["The oarsman who sets the stroke."], "src": "iwb"}
+{"w": "stroll", "pos": "verb", "d": ["To walk leisurely.", "A leisurely walk."], "src": "iwb"}
+{"w": "stroma", "pos": "noun", "d": ["The supportive framework of an organ."], "src": "iwb"}
+{"w": "stromatology", "pos": "noun", "d": ["The study of stromatolites, layered fossil algae."], "src": "iwb"}
+{"w": "stromb", "pos": "noun", "d": ["A conch shell; a variant of strombus."], "src": "iwb"}
+{"w": "strombite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "stromboid", "pos": "adjective", "d": ["Like a strombus shell."], "src": "iwb"}
+{"w": "strombuliform", "pos": "adjective", "d": ["Shaped like a small top shell."], "src": "iwb"}
+{"w": "strombus", "pos": "noun", "d": ["The conch, a large spiral sea snail."], "src": "iwb"}
+{"w": "stromeyerite", "pos": "noun", "d": ["A copper-silver sulfide mineral."], "src": "iwb"}
+{"w": "strond", "pos": "noun", "d": ["A beach or shore; a Scots word."], "src": "iwb"}
+{"w": "strong-minded", "pos": "adjective", "d": ["Having a firm, decided mind."], "src": "iwb"}
+{"w": "strong-water", "pos": "noun", "d": ["Strong alcoholic liquor.", "Aqua fortis, nitric acid."], "src": "iwb"}
+{"w": "strongylid", "pos": "noun", "d": ["A roundworm of the strongyle group."], "src": "iwb"}
+{"w": "strongyloid", "pos": "adjective", "d": ["Like a strongyle worm."], "src": "iwb"}
+{"w": "strontia", "pos": "noun", "d": ["Strontium oxide."], "src": "iwb"}
+{"w": "strontian", "pos": "adjective", "d": ["Relating to strontium."], "src": "iwb"}
+{"w": "strontianite", "pos": "noun", "d": ["A mineral carbonate of strontium."], "src": "iwb"}
+{"w": "strontic", "pos": "adjective", "d": ["Relating to strontium."], "src": "iwb"}
+{"w": "strontitic", "pos": "adjective", "d": ["Containing strontianite."], "src": "iwb"}
+{"w": "strontium", "pos": "noun", "d": ["A soft metallic chemical element."], "src": "iwb"}
+{"w": "strook", "pos": "verb", "d": ["An old past tense of strike or stroke."], "src": "iwb"}
+{"w": "stroot", "pos": "verb", "d": ["To strut; a Scots form."], "src": "iwb"}
+{"w": "strop", "pos": "noun", "d": ["A leather strap for sharpening razors.", "To sharpen on a strop."], "src": "iwb"}
+{"w": "strophanthus", "pos": "noun", "d": ["A tropical plant yielding a heart poison used as medicine."], "src": "iwb"}
+{"w": "strophe", "pos": "noun", "d": ["A stanza of a poem or song."], "src": "iwb"}
+{"w": "strophic", "pos": "adjective", "d": ["Relating to a strophe."], "src": "iwb"}
+{"w": "strophiolate", "pos": "adjective", "d": ["Bearing a strophiole."], "src": "iwb"}
+{"w": "strophiole", "pos": "noun", "d": ["A small appendage on certain seeds."], "src": "iwb"}
+{"w": "strophulus", "pos": "noun", "d": ["A skin eruption of infants; red gum."], "src": "iwb"}
+{"w": "stroud", "pos": "noun", "d": ["A coarse woolen cloth."], "src": "iwb"}
+{"w": "strout", "pos": "verb", "d": ["To strut; to swell."], "src": "iwb"}
+{"w": "strove", "pos": "verb", "d": ["The past tense of strive."], "src": "iwb"}
+{"w": "strow", "pos": "verb", "d": ["To strew; an old form."], "src": "iwb"}
+{"w": "strowl", "pos": "verb", "d": ["To stroll; a variant."], "src": "iwb"}
+{"w": "strown", "pos": "adjective", "d": ["Strewn; an old past participle."], "src": "iwb"}
+{"w": "stroy", "pos": "verb", "d": ["To destroy; an old form."], "src": "iwb"}
+{"w": "structural shape", "pos": "noun", "d": ["A steel beam or bar of standard cross-section."], "src": "iwb"}
+{"w": "structural steel", "pos": "noun", "d": ["Steel used in building frames."], "src": "iwb"}
+{"w": "structurist", "pos": "noun", "d": ["One who studies structures."], "src": "iwb"}
+{"w": "strude", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "strull", "pos": "", "d": [], "src": "iwb", "unsure": true}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

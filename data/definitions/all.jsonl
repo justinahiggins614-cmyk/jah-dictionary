@@ -53421,6 +53421,806 @@
 {"w": "swastika", "pos": "noun", "d": ["An ancient symbol of a cross with bent arms, once a good-luck emblem and later the emblem of Nazi Germany."], "src": "iwb"}
 {"w": "swat", "pos": "verb", "d": ["To hit sharply with a quick blow."], "src": "iwb"}
 {"w": "swatch", "pos": "noun", "d": ["A small sample of fabric or other material."], "src": "iwb"}
+{"w": "swate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swath", "pos": "noun", "d": ["A strip of grass, grain, or hay cut down in one pass of a scythe or mower.", "A broad stretch or sweep of something."], "src": "iwb"}
+{"w": "swatte", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sway", "pos": "verb", "d": ["To move slowly back and forth or from side to side.", "To have influence or control over someone's thinking or actions."], "src": "iwb"}
+{"w": "sway bar", "pos": "phrase", "d": ["A bar in a car's suspension that keeps the body from leaning too far in a turn."], "src": "iwb"}
+{"w": "sway-backed", "pos": "adjective", "d": ["Having a back that sags downward in the middle, as some horses do."], "src": "iwb"}
+{"w": "sway-bracing", "pos": "noun", "d": ["Diagonal bracing in a frame or structure that keeps it from swaying sideways."], "src": "iwb"}
+{"w": "sweal", "pos": "verb", "d": ["To singe or scorch lightly, as in burning off hair or feathers."], "src": "iwb"}
+{"w": "swear", "pos": "verb", "d": ["To make a solemn promise, often calling on something sacred as witness.", "To use profane or vulgar language."], "src": "iwb"}
+{"w": "sweat", "pos": "noun", "d": ["The salty liquid given off through the skin when one is hot or working hard.", "A state or fit of perspiring."], "src": "iwb"}
+{"w": "sweatily", "pos": "adverb", "d": ["In a sweaty manner; while covered with sweat."], "src": "iwb"}
+{"w": "sweatiness", "pos": "noun", "d": ["The state or quality of being sweaty."], "src": "iwb"}
+{"w": "sweaty", "pos": "adjective", "d": ["Covered with or giving off sweat.", "Causing one to sweat."], "src": "iwb"}
+{"w": "swede", "pos": "noun", "d": ["A person from Sweden.", "A large yellow turnip with sweet flesh; the rutabaga."], "src": "iwb"}
+{"w": "swedenborgian", "pos": "adjective", "d": ["Of or relating to Emanuel Swedenborg or his religious teachings."], "src": "iwb"}
+{"w": "sweeny", "pos": "noun", "d": ["A wasting away of the muscles of a horse's shoulder."], "src": "iwb"}
+{"w": "sweep", "pos": "verb", "d": ["To clean or clear with a broom or brush.", "To move swiftly and smoothly across or over something."], "src": "iwb"}
+{"w": "sweep-saw", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sweepy", "pos": "adjective", "d": ["Moving or curving in a broad, smooth sweep."], "src": "iwb"}
+{"w": "sweet-breasted", "pos": "adjective", "d": ["Having a sweet, melodious voice, especially of a songbird."], "src": "iwb"}
+{"w": "sweet-scented", "pos": "adjective", "d": ["Having a sweet, pleasant smell."], "src": "iwb"}
+{"w": "sweet-sop", "pos": "noun", "d": ["A tropical fruit with sweet, custard-like pulp.", "The small tree that bears this fruit."], "src": "iwb"}
+{"w": "sweigh", "pos": "verb", "d": ["To move from side to side; to sway."], "src": "iwb"}
+{"w": "sweinmote", "pos": "noun", "d": ["A court once held in an English royal forest for offenses against forest law."], "src": "iwb"}
+{"w": "swell", "pos": "verb", "d": ["To grow larger, rounder, or fuller.", "To become filled with strong feeling, as pride or anger."], "src": "iwb"}
+{"w": "swelt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sweltry", "pos": "adjective", "d": ["Oppressively hot and humid."], "src": "iwb"}
+{"w": "swelve", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swept", "pos": "verb", "d": ["Past tense and past participle of sweep."], "src": "iwb"}
+{"w": "swerd", "pos": "noun", "d": ["Grassy ground; turf."], "src": "iwb"}
+{"w": "swerve", "pos": "verb", "d": ["To turn suddenly aside from a straight course.", "To stray from what is right or intended."], "src": "iwb"}
+{"w": "sweven", "pos": "noun", "d": ["A dream, as spoken of in old English writing."], "src": "iwb"}
+{"w": "swich", "pos": "adjective", "d": ["Such; of that kind."], "src": "iwb"}
+{"w": "swietenia", "pos": "noun", "d": ["A genus of tropical American trees that includes true mahogany."], "src": "iwb"}
+{"w": "swig", "pos": "verb", "d": ["To drink in long gulps."], "src": "iwb"}
+{"w": "swill", "pos": "verb", "d": ["To drink greedily in large mouthfuls.", "To rinse or wash out with water."], "src": "iwb"}
+{"w": "swillings", "pos": "noun", "d": ["Liquid or semi-liquid refuse fed to pigs; dregs."], "src": "iwb"}
+{"w": "swimmeret", "pos": "noun", "d": ["One of the small paired limbs under the abdomen of a lobster, shrimp, or other crustacean, used in swimming."], "src": "iwb"}
+{"w": "swinck", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swindle", "pos": "verb", "d": ["To cheat a person out of money or property by fraud."], "src": "iwb"}
+{"w": "swindlery", "pos": "noun", "d": ["The practice of cheating by fraud; swindling."], "src": "iwb"}
+{"w": "swine", "pos": "noun", "d": ["Pigs as a group.", "A coarse or contemptible person."], "src": "iwb"}
+{"w": "swine-pox", "pos": "noun", "d": ["A mild contagious disease of pigs marked by sores on the skin."], "src": "iwb"}
+{"w": "swinecrue", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swinery", "pos": "noun", "d": ["A place where pigs are kept."], "src": "iwb"}
+{"w": "swinge", "pos": "verb", "d": ["To beat or strike hard."], "src": "iwb"}
+{"w": "swingel", "pos": "noun", "d": ["The striking part of a flail, or a wooden tool for beating flax."], "src": "iwb"}
+{"w": "swingle", "pos": "verb", "d": ["To beat flax or hemp to free the fiber from the woody stalk."], "src": "iwb"}
+{"w": "swinish", "pos": "adjective", "d": ["Like a pig; grossly coarse or greedy."], "src": "iwb"}
+{"w": "swink", "pos": "noun", "d": ["Hard labor; toil."], "src": "iwb"}
+{"w": "swinney", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swipe", "pos": "verb", "d": ["To strike with a broad sweeping motion.", "To steal quickly and suddenly."], "src": "iwb"}
+{"w": "swiple", "pos": "noun", "d": ["The swinging striking part of a flail."], "src": "iwb"}
+{"w": "swipper", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swirl", "pos": "verb", "d": ["To move with a twisting or circling motion."], "src": "iwb"}
+{"w": "swish", "pos": "verb", "d": ["To move with a soft hissing or rustling sound."], "src": "iwb"}
+{"w": "switchel", "pos": "noun", "d": ["A refreshing drink of water sweetened with molasses or sugar and flavored with vinegar and ginger."], "src": "iwb"}
+{"w": "switchy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swithe", "pos": "adverb", "d": ["Very; quickly and without delay."], "src": "iwb"}
+{"w": "switzer", "pos": "noun", "d": ["A native or citizen of Switzerland.", "A Swiss soldier serving as a mercenary in a foreign army."], "src": "iwb"}
+{"w": "swive", "pos": "verb", "d": ["To have sexual intercourse with."], "src": "iwb"}
+{"w": "swivel", "pos": "noun", "d": ["A fastening that lets one part turn freely around another without twisting what it is joined to."], "src": "iwb"}
+{"w": "swivel-eyed", "pos": "adjective", "d": ["Having eyes that turn outward in different directions."], "src": "iwb"}
+{"w": "swizzle", "pos": "verb", "d": ["To stir a drink with a swizzle stick."], "src": "iwb"}
+{"w": "swob", "pos": "noun", "d": ["A mop or swab for cleaning decks and floors."], "src": "iwb"}
+{"w": "swollen", "pos": "adjective", "d": ["Enlarged beyond normal size, as from injury or fluid."], "src": "iwb"}
+{"w": "swoln", "pos": "adjective", "d": ["Enlarged or puffed up, as from fluid or growth."], "src": "iwb"}
+{"w": "swom", "pos": "verb", "d": ["Past tense of swim."], "src": "iwb"}
+{"w": "swoon", "pos": "verb", "d": ["To faint from weakness or strong emotion."], "src": "iwb"}
+{"w": "swoop", "pos": "verb", "d": ["To dive or descend suddenly and swiftly, as a hawk upon its prey."], "src": "iwb"}
+{"w": "swop", "pos": "verb", "d": ["To trade one thing for another; to exchange."], "src": "iwb"}
+{"w": "sword-shaped", "pos": "adjective", "d": ["Shaped like a sword: long, flat, and pointed."], "src": "iwb"}
+{"w": "swordick", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swordsman", "pos": "noun", "d": ["A person skilled in fighting with a sword."], "src": "iwb"}
+{"w": "swore", "pos": "verb", "d": ["Past tense of swear."], "src": "iwb"}
+{"w": "sworn", "pos": "adjective", "d": ["Bound or confirmed by a solemn oath."], "src": "iwb"}
+{"w": "swough", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swound", "pos": "verb", "d": ["An old form of the past tense of swoon."], "src": "iwb"}
+{"w": "swown", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "swum", "pos": "verb", "d": ["Past participle of swim."], "src": "iwb"}
+{"w": "swung", "pos": "verb", "d": ["Past tense and past participle of swing."], "src": "iwb"}
+{"w": "swythe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "syb", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sybarite", "pos": "noun", "d": ["A person devoted to luxurious living and self-indulgence."], "src": "iwb"}
+{"w": "sybaritic", "pos": "adjective", "d": ["Devoted to or marked by luxurious pleasure."], "src": "iwb"}
+{"w": "sybaritism", "pos": "noun", "d": ["Devotion to luxurious living and self-indulgence."], "src": "iwb"}
+{"w": "sycamine", "pos": "noun", "d": ["The black mulberry tree of the lands of the Bible."], "src": "iwb"}
+{"w": "sycamore", "pos": "noun", "d": ["A large shade tree with broad leaves and bark that peels in patches."], "src": "iwb"}
+{"w": "syce", "pos": "noun", "d": ["In India, a groom who cares for horses."], "src": "iwb"}
+{"w": "sycee", "pos": "noun", "d": ["A shoe-shaped silver ingot once used as money in China."], "src": "iwb"}
+{"w": "sychnocarpous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sycite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sycoceric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sycoceryl", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sycock", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sycones", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "syconium", "pos": "noun", "d": ["The fleshy hollow structure of a fig that holds the tiny flowers inside and ripens into the fruit."], "src": "iwb"}
+{"w": "syconus", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sycophancy", "pos": "noun", "d": ["The use of flattery to win favor or gain advantage."], "src": "iwb"}
+{"w": "sycophant", "pos": "noun", "d": ["A person who flatters someone rich or powerful in order to win favor."], "src": "iwb"}
+{"w": "sycophantcy", "pos": "noun", "d": ["The practice of flattering powerful people to gain favor or advantage."], "src": "iwb"}
+{"w": "sycophantry", "pos": "noun", "d": ["The behavior of a sycophant; flattery used to win the favor of the powerful."], "src": "iwb"}
+{"w": "sycosis", "pos": "noun", "d": ["A chronic skin infection of the hair follicles, most often in the beard area."], "src": "iwb"}
+{"w": "syderolite", "pos": "noun", "d": ["An older spelling of siderolite, a meteorite made of both stony matter and iron."], "src": "iwb"}
+{"w": "sye", "pos": "verb", "d": ["To strain or pour a liquid through a sieve."], "src": "iwb"}
+{"w": "syenite", "pos": "noun", "d": ["A coarse-grained igneous rock rich in feldspar and containing little or no quartz."], "src": "iwb"}
+{"w": "syenitic", "pos": "adjective", "d": ["Relating to or resembling syenite."], "src": "iwb"}
+{"w": "syke", "pos": "noun", "d": ["A small stream or trickling brook.", "A damp hollow or small drainage ditch in a field."], "src": "iwb"}
+{"w": "syle", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "syllabarium", "pos": "noun", "d": ["A chart or list of syllables used in teaching reading or in a syllabic writing system."], "src": "iwb"}
+{"w": "syllabary", "pos": "noun", "d": ["A set of written characters in which each character stands for a syllable.", "A chart listing the characters of such a writing system."], "src": "iwb"}
+{"w": "syllabe", "pos": "noun", "d": ["An obsolete spelling of syllable."], "src": "iwb"}
+{"w": "syllabic", "pos": "adjective", "d": ["Relating to syllables.", "Spoken or sung with each syllable given separate stress."], "src": "iwb"}
+{"w": "syllabification", "pos": "noun", "d": ["The division of words into syllables."], "src": "iwb"}
+{"w": "syllabify", "pos": "verb", "d": ["To divide words into syllables."], "src": "iwb"}
+{"w": "syllabism", "pos": "noun", "d": ["Writing or printing by syllables rather than by single letters."], "src": "iwb"}
+{"w": "syllabist", "pos": "noun", "d": ["A person skilled in the division or study of syllables."], "src": "iwb"}
+{"w": "syllabize", "pos": "verb", "d": ["To form into syllables; to divide into syllables."], "src": "iwb"}
+{"w": "syllable", "pos": "noun", "d": ["A unit of speech sounded in a single uninterrupted beat of the voice.", "A written character that stands for a syllable."], "src": "iwb"}
+{"w": "syllabub", "pos": "noun", "d": ["A dessert of sweetened milk or cream whipped with wine or spirits."], "src": "iwb"}
+{"w": "syllabus", "pos": "noun", "d": ["An outline of the topics to be covered in a course of study.", "A summary or abstract of a court decision."], "src": "iwb"}
+{"w": "syllepsis", "pos": "noun", "d": ["A figure of speech in which one word is applied to two others in different senses."], "src": "iwb"}
+{"w": "sylleptic", "pos": "adjective", "d": ["Relating to or using syllepsis."], "src": "iwb"}
+{"w": "syllidian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "syllogism", "pos": "noun", "d": ["A form of reasoning in which a conclusion follows from two given premises."], "src": "iwb"}
+{"w": "syllogistic", "pos": "adjective", "d": ["Relating to syllogisms.", "Using or based on deductive reasoning."], "src": "iwb"}
+{"w": "syllogization", "pos": "noun", "d": ["The act of forming a syllogism; reasoning by syllogism."], "src": "iwb"}
+{"w": "syllogize", "pos": "verb", "d": ["To reason by means of a syllogism."], "src": "iwb"}
+{"w": "sylph", "pos": "noun", "d": ["A slender, graceful young woman.", "An imaginary spirit of the air in old folklore."], "src": "iwb"}
+{"w": "sylphid", "pos": "noun", "d": ["A young or small sylph; a slender, graceful girl."], "src": "iwb"}
+{"w": "sylphine", "pos": "adjective", "d": ["Like a sylph; slender and graceful."], "src": "iwb"}
+{"w": "sylva", "pos": "noun", "d": ["A book or treatise about trees and forests."], "src": "iwb"}
+{"w": "sylvan", "pos": "adjective", "d": ["Relating to woods or forests; wooded and pleasant."], "src": "iwb"}
+{"w": "sylvanite", "pos": "noun", "d": ["A mineral that is a telluride of gold and silver, mined as an ore of gold."], "src": "iwb"}
+{"w": "sylvanium", "pos": "noun", "d": ["An obsolete name once proposed for the element tellurium."], "src": "iwb"}
+{"w": "sylvate", "pos": "noun", "d": ["A salt or ester of sylvic acid, a resin acid obtained from pine."], "src": "iwb"}
+{"w": "sylvestrian", "pos": "adjective", "d": ["Relating to the Sylvestrine order of monks."], "src": "iwb"}
+{"w": "sylvic", "pos": "adjective", "d": ["Relating to woods or forests.", "In chemistry, relating to sylvic acid, a resin acid obtained from pine."], "src": "iwb"}
+{"w": "sylvicoline", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sylviculture", "pos": "noun", "d": ["The cultivation and management of forests for timber and other uses."], "src": "iwb"}
+{"w": "sylviculturist", "pos": "noun", "d": ["A person skilled in the cultivation and management of forests."], "src": "iwb"}
+{"w": "sylvine", "pos": "noun", "d": ["An older name for sylvite, a mineral form of potassium chloride."], "src": "iwb"}
+{"w": "sylvite", "pos": "noun", "d": ["A mineral consisting of potassium chloride, mined as a source of potash."], "src": "iwb"}
+{"w": "sym-", "pos": "prefix", "d": ["A form of the prefix syn-, meaning 'together' or 'with', used before b, m, and p, as in symbol."], "src": "iwb"}
+{"w": "symar", "pos": "noun", "d": ["An obsolete spelling of simar, a woman's light, loose outer garment."], "src": "iwb"}
+{"w": "symarr", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "symbal", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "symbiosis", "pos": "noun", "d": ["A close living relationship between two different kinds of organisms, often benefiting both."], "src": "iwb"}
+{"w": "symbiotic", "pos": "adjective", "d": ["Relating to symbiosis; living in close association with another organism."], "src": "iwb"}
+{"w": "symbolization", "pos": "noun", "d": ["The act of representing something by symbols."], "src": "iwb"}
+{"w": "symbological", "pos": "adjective", "d": ["Relating to symbology, the study of symbols."], "src": "iwb"}
+{"w": "symbologist", "pos": "noun", "d": ["A person who studies symbols and their meanings."], "src": "iwb"}
+{"w": "symbology", "pos": "noun", "d": ["The study and interpretation of symbols."], "src": "iwb"}
+{"w": "symbranchii", "pos": "noun", "d": ["An order of eel-like fishes whose gill openings are joined into a single opening."], "src": "iwb"}
+{"w": "symmetral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "symmetrian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "symmetric", "pos": "adjective", "d": ["Having matching parts arranged evenly on opposite sides of a center or axis."], "src": "iwb"}
+{"w": "symmetrician", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "symmetrist", "pos": "noun", "d": ["A person who studies symmetry or insists on symmetrical arrangement."], "src": "iwb"}
+{"w": "symmetrize", "pos": "verb", "d": ["To make symmetrical; to bring into balanced arrangement."], "src": "iwb"}
+{"w": "symmetry", "pos": "noun", "d": ["Balanced arrangement in which parts match on opposite sides of a center, line, or plane."], "src": "iwb"}
+{"w": "sympathetic", "pos": "adjective", "d": ["Feeling or showing care and understanding for someone's suffering or trouble.", "Relating to the part of the nervous system that prepares the body for action."], "src": "iwb"}
+{"w": "sympathist", "pos": "noun", "d": ["A person who feels or expresses sympathy."], "src": "iwb"}
+{"w": "sympathize", "pos": "verb", "d": ["To feel or express sympathy; to share in another's feelings."], "src": "iwb"}
+{"w": "sympetalous", "pos": "adjective", "d": ["Having the petals united into a tube, as in many bell-shaped flowers."], "src": "iwb"}
+{"w": "symphonic", "pos": "adjective", "d": ["Relating to a symphony.", "Harmonious in sound, like an orchestra."], "src": "iwb"}
+{"w": "symphonist", "pos": "noun", "d": ["A composer of symphonies.", "A member of a symphony orchestra."], "src": "iwb"}
+{"w": "symphonize", "pos": "verb", "d": ["To arrange or perform in the manner of a symphony; to harmonize."], "src": "iwb"}
+{"w": "symphyla", "pos": "noun", "d": ["A group of tiny soil-dwelling arthropods related to centipedes, commonly called garden centipedes."], "src": "iwb"}
+{"w": "symphyseal", "pos": "adjective", "d": ["Relating to a symphysis, especially the pubic symphysis."], "src": "iwb"}
+{"w": "symphyseotomy", "pos": "noun", "d": ["A surgical operation in which the pubic symphysis is divided to widen the pelvis during childbirth."], "src": "iwb"}
+{"w": "symphysis", "pos": "noun", "d": ["A joint in which two bones are joined by cartilage, as between the pubic bones."], "src": "iwb"}
+{"w": "symphysotomy", "pos": "noun", "d": ["Surgical division of the pubic symphysis, performed to widen the pelvis in childbirth."], "src": "iwb"}
+{"w": "symphytism", "pos": "noun", "d": ["The growing together of plant parts that are normally separate."], "src": "iwb"}
+{"w": "sympiesometer", "pos": "noun", "d": ["A sensitive barometer that measures air pressure by the compression of a gas trapped above oil."], "src": "iwb"}
+{"w": "symplectic", "pos": "adjective", "d": ["Relating to a branch of geometry used to describe the motion of physical systems."], "src": "iwb"}
+{"w": "symploce", "pos": "noun", "d": ["A figure of speech in which successive clauses begin with the same word and end with the same word."], "src": "iwb"}
+{"w": "sympode", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "sympodial", "pos": "adjective", "d": ["Growing in a zigzag pattern in which each new shoot continues growth from a side bud."], "src": "iwb"}
+{"w": "sympodium", "pos": "noun", "d": ["A plant stem system built from successive side shoots, each taking over the main line of growth."], "src": "iwb"}
+{"w": "symposiac", "pos": "adjective", "d": ["Relating to a symposium or drinking party; fond of convivial discussion."], "src": "iwb"}
+{"w": "symposiarch", "pos": "noun", "d": ["The master or president of a drinking party; the director of a symposium."], "src": "iwb"}
+{"w": "symposiast", "pos": "noun", "d": ["A person taking part in a symposium or drinking party."], "src": "iwb"}
+{"w": "symposion", "pos": "noun", "d": ["An ancient Greek drinking party marked by conversation and entertainment.", "A philosophical dialogue set at such a gathering."], "src": "iwb"}
+{"w": "symptom", "pos": "noun", "d": ["A change in the body or mind felt by a sick person that points to a disease.", "Any sign that indicates the presence of some condition or problem."], "src": "iwb"}
+{"w": "symptomatic", "pos": "adjective", "d": ["Relating to or serving as a symptom.", "Showing symptoms of a disease."], "src": "iwb"}
+{"w": "symptomatology", "pos": "noun", "d": ["The branch of medicine concerned with the symptoms of disease.", "The combined symptoms that mark a particular disease."], "src": "iwb"}
+{"w": "syn-", "pos": "prefix", "d": ["A prefix meaning 'together', 'with', or 'at the same time', as in synchronize."], "src": "iwb"}
+{"w": "synacme", "pos": "noun", "d": ["The simultaneous crisis or peak of two diseases occurring together."], "src": "iwb"}
+{"w": "synacmy", "pos": "noun", "d": ["The simultaneous peak of two diseases; a variant form of synacme."], "src": "iwb"}
+{"w": "synaeresis", "pos": "noun", "d": ["The contraction of two adjacent vowels into a single syllable."], "src": "iwb"}
+{"w": "synagogical", "pos": "adjective", "d": ["Relating to a synagogue."], "src": "iwb"}
+{"w": "synagogue", "pos": "noun", "d": ["A building used by Jews for worship, study, and community gathering."], "src": "iwb"}
+{"w": "synalepha", "pos": "noun", "d": ["The blending of two vowel sounds into one syllable in pronunciation."], "src": "iwb"}
+{"w": "synallagmatic", "pos": "adjective", "d": ["Imposing mutual obligations on both parties to a contract."], "src": "iwb"}
+{"w": "synallaxine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "synaloepha", "pos": "noun", "d": ["A variant spelling of synalepha, the blending of two vowel sounds into one."], "src": "iwb"}
+{"w": "synangium", "pos": "noun", "d": ["A cluster of spore cases fused together, found in ferns and related plants."], "src": "iwb"}
+{"w": "synantherous", "pos": "adjective", "d": ["Having the stamens united by their anthers, as in the daisy family."], "src": "iwb"}
+{"w": "synanthesis", "pos": "noun", "d": ["The growing together of the parts of a flower, or of two flowers into one."], "src": "iwb"}
+{"w": "synanthous", "pos": "adjective", "d": ["Producing flowers and leaves at the same time."], "src": "iwb"}
+{"w": "synanthrose", "pos": "noun", "d": ["A sweet carbohydrate found in the roots of certain composite plants, related to inulin."], "src": "iwb"}
+{"w": "synapta", "pos": "noun", "d": ["A genus of wormlike sea cucumbers that lack tube feet."], "src": "iwb"}
+{"w": "synaptase", "pos": "noun", "d": ["An enzyme that breaks down amygdalin, the bitter compound in almonds; also called emulsin."], "src": "iwb"}
+{"w": "synapticula", "pos": "noun", "d": ["Any of the small bars that join neighboring septa in a coral skeleton."], "src": "iwb"}
+{"w": "synarchy", "pos": "noun", "d": ["Rule or government exercised jointly by several persons."], "src": "iwb"}
+{"w": "synartesis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "synarthrodia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "synarthrosis", "pos": "noun", "d": ["A joint that permits no movement, such as the sutures between skull bones."], "src": "iwb"}
+{"w": "synastry", "pos": "noun", "d": ["The astrological practice of comparing two birth charts to judge the compatibility of two people."], "src": "iwb"}
+{"w": "synaxis", "pos": "noun", "d": ["An assembly for worship in the Eastern Orthodox Church, especially a festival honoring a saint."], "src": "iwb"}
+{"w": "syncarp", "pos": "noun", "d": ["A fruit formed from several carpels joined into one body."], "src": "iwb"}
+{"w": "syncarpium", "pos": "noun", "d": ["A compound fruit formed from united carpels or ovaries."], "src": "iwb"}
+{"w": "syncategorematic", "pos": "adjective", "d": ["Having meaning only in combination with other words, as prepositions and conjunctions do."], "src": "iwb"}
+{"w": "synchondrosis", "pos": "noun", "d": ["A joint in which bones are united by cartilage, as between a rib and the breastbone."], "src": "iwb"}
+{"w": "synchondrotomy", "pos": "noun", "d": ["The surgical cutting of cartilage, especially of the pubic cartilage to widen the pelvis in childbirth."], "src": "iwb"}
+{"w": "synchoresis", "pos": "noun", "d": ["The rhetorical act of granting an opponent's point in order to turn it to one's own advantage."], "src": "iwb"}
+{"w": "synchronal", "pos": "adjective", "d": ["Happening or existing at the same time."], "src": "iwb"}
+{"w": "synchronical", "pos": "adjective", "d": ["Occurring at the same time; synchronous."], "src": "iwb"}
+{"w": "synchronism", "pos": "noun", "d": ["Occurrence at the same time.", "A table showing events in different places arranged by the same dates."], "src": "iwb"}
+{"w": "synchronistic", "pos": "adjective", "d": ["Happening at the same time.", "Relating to meaningful coincidence rather than cause and effect."], "src": "iwb"}
+{"w": "synchronization", "pos": "noun", "d": ["The act of causing things to happen or operate at the same time."], "src": "iwb"}
+{"w": "synchronize", "pos": "verb", "d": ["To cause to occur or operate at the same time."], "src": "iwb"}
+{"w": "synchronology", "pos": "noun", "d": ["The study and comparison of events that happen at the same time."], "src": "iwb"}
+{"w": "synchronous", "pos": "adjective", "d": ["Occurring at the same time.", "Happening in real time, as in a live conversation."], "src": "iwb"}
+{"w": "synchrony", "pos": "noun", "d": ["The state of occurring or existing at the same time."], "src": "iwb"}
+{"w": "synchysis", "pos": "noun", "d": ["A degenerative softening of the vitreous humor of the eye."], "src": "iwb"}
+{"w": "synclastic", "pos": "adjective", "d": ["Curving the same way in every direction, like the surface of a sphere."], "src": "iwb"}
+{"w": "synclinal", "pos": "adjective", "d": ["Sloping downward toward a central axis, as the rock layers of a syncline."], "src": "iwb"}
+{"w": "syncline", "pos": "noun", "d": ["A downward fold of rock layers with the strata dipping toward its center."], "src": "iwb"}
+{"w": "synclinical", "pos": "adjective", "d": ["Sloping toward a common center; synclinal."], "src": "iwb"}
+{"w": "synclinorium", "pos": "noun", "d": ["A broad syncline composed of many smaller folds."], "src": "iwb"}
+{"w": "syncopal", "pos": "adjective", "d": ["Relating to syncope or syncopation."], "src": "iwb"}
+{"w": "syncopate", "pos": "verb", "d": ["To shift the musical accent to a normally weak beat.", "To drop a letter or syllable from the middle of a word."], "src": "iwb"}
+{"w": "syncopation", "pos": "noun", "d": ["The shifting of musical accent to a beat that is normally unaccented."], "src": "iwb"}
+{"w": "syncope", "pos": "noun", "d": ["A brief loss of consciousness; fainting.", "The omission of a sound or syllable from the middle of a word."], "src": "iwb"}
+{"w": "syncopist", "pos": "noun", "d": ["One who syncopates, especially in music."], "src": "iwb"}
+{"w": "syncopize", "pos": "verb", "d": ["To cause to faint.", "To contract a word by dropping a sound from its middle."], "src": "iwb"}
+{"w": "syncotyledonous", "pos": "adjective", "d": ["Having the cotyledons united."], "src": "iwb"}
+{"w": "syncretic", "pos": "adjective", "d": ["Combining different beliefs, schools, or systems into one."], "src": "iwb"}
+{"w": "syncretism", "pos": "noun", "d": ["The union of different beliefs, practices, or philosophies into one system."], "src": "iwb"}
+{"w": "syncretist", "pos": "noun", "d": ["One who seeks to unite differing beliefs or systems."], "src": "iwb"}
+{"w": "syncrisis", "pos": "noun", "d": ["A rhetorical comparison of opposite things set side by side."], "src": "iwb"}
+{"w": "syncytium", "pos": "noun", "d": ["A mass of living tissue containing many nuclei within a shared cytoplasm."], "src": "iwb"}
+{"w": "syndactyl", "pos": "adjective", "d": ["Having two or more toes joined together."], "src": "iwb"}
+{"w": "syndactyle", "pos": "noun", "d": ["An animal whose toes are joined together."], "src": "iwb"}
+{"w": "syndesmography", "pos": "noun", "d": ["A written description of the ligaments of the body."], "src": "iwb"}
+{"w": "syndesmology", "pos": "noun", "d": ["The branch of anatomy dealing with the ligaments."], "src": "iwb"}
+{"w": "syndesmosis", "pos": "noun", "d": ["A joint in which bones are bound together by ligaments."], "src": "iwb"}
+{"w": "syndetic", "pos": "adjective", "d": ["Joined by a conjunction, as in bread and butter."], "src": "iwb"}
+{"w": "syndic", "pos": "noun", "d": ["A representative or agent acting for a group or corporation, especially in France or Switzerland."], "src": "iwb"}
+{"w": "syndyasmian", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "syne", "pos": "adverb", "d": ["Since; ago, as in auld lang syne."], "src": "iwb"}
+{"w": "synecdoche", "pos": "noun", "d": ["A figure of speech in which a part stands for the whole, as all hands for sailors."], "src": "iwb"}
+{"w": "synecdochical", "pos": "adjective", "d": ["Expressed by or relating to synecdoche."], "src": "iwb"}
+{"w": "synechia", "pos": "noun", "d": ["An abnormal adhesion of the iris to another part of the eye."], "src": "iwb"}
+{"w": "synecphonesis", "pos": "noun", "d": ["The merging of two syllables into one sound."], "src": "iwb"}
+{"w": "synedral", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "synentognathi", "pos": "noun", "d": ["A group of fishes, including gars and flying fishes, in which the upper jaw is joined to the skull."], "src": "iwb"}
+{"w": "synepy", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "syneresis", "pos": "noun", "d": ["The separation of liquid from a gel, as whey from curd.", "The merging of two vowels into one syllable."], "src": "iwb"}
+{"w": "synergetic", "pos": "adjective", "d": ["Working together to produce a combined effect greater than the sum of the separate parts."], "src": "iwb"}
+{"w": "synergism", "pos": "noun", "d": ["The combined action of agents producing an effect greater than the sum of their separate effects."], "src": "iwb"}
+{"w": "synergist", "pos": "noun", "d": ["An agent or muscle that works together with another to produce a combined effect."], "src": "iwb"}
+{"w": "synergy", "pos": "noun", "d": ["The combined effect of things working together that is greater than the sum of their separate effects."], "src": "iwb"}
+{"w": "syngenesia", "pos": "noun", "d": ["The Linnaean class of plants whose anthers are united into a tube."], "src": "iwb"}
+{"w": "syngenesian", "pos": "adjective", "d": ["Belonging to or relating to the Linnaean class Syngenesia."], "src": "iwb"}
+{"w": "syngenesious", "pos": "adjective", "d": ["Having the anthers united into a tube, as in composite flowers."], "src": "iwb"}
+{"w": "syngenesis", "pos": "noun", "d": ["Generation resulting from the union of two parents; sexual reproduction."], "src": "iwb"}
+{"w": "syngnathi", "pos": "noun", "d": ["A group of fishes, such as seahorses and pipefishes, with the jaws united into a tubular snout."], "src": "iwb"}
+{"w": "syngraph", "pos": "noun", "d": ["A written agreement or contract signed by the parties involved."], "src": "iwb"}
+{"w": "synizesis", "pos": "noun", "d": ["Complete closure of the pupil of the eye.", "The merging of two vowels into one syllable."], "src": "iwb"}
+{"w": "synneorosis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "synocha", "pos": "noun", "d": ["An old medical term for a continued inflammatory fever."], "src": "iwb"}
+{"w": "synochal", "pos": "adjective", "d": ["Relating to synocha, a continued inflammatory fever."], "src": "iwb"}
+{"w": "synochus", "pos": "noun", "d": ["An old medical term for a continued fever."], "src": "iwb"}
+{"w": "synocil", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "synod", "pos": "noun", "d": ["A council or assembly of church officials.", "Any formal assembly for discussion and decision."], "src": "iwb"}
+{"w": "synoecious", "pos": "adjective", "d": ["Having both male and female reproductive organs in the same flower or individual."], "src": "iwb"}
+{"w": "synomocy", "pos": "noun", "d": ["A league or confederacy bound together by oath."], "src": "iwb"}
+{"w": "synonym", "pos": "noun", "d": ["A word that has the same or nearly the same meaning as another word."], "src": "iwb"}
+{"w": "synonyma", "pos": "noun", "d": ["Synonyms considered collectively; a list of synonyms."], "src": "iwb"}
+{"w": "synonyme", "pos": "noun", "d": ["A synonym; a word of like meaning."], "src": "iwb"}
+{"w": "synonymy", "pos": "noun", "d": ["The quality of being synonymous.", "A collection of synonyms."], "src": "iwb"}
+{"w": "synoptic", "pos": "adjective", "d": ["Presenting a general summary or view of a subject.", "Relating to the Gospels of Matthew, Mark, and Luke."], "src": "iwb"}
+{"w": "synoptist", "pos": "noun", "d": ["One of the writers of the Synoptic Gospels."], "src": "iwb"}
+{"w": "synosteology", "pos": "noun", "d": ["The branch of anatomy describing the joints of the skeleton."], "src": "iwb"}
+{"w": "synosteosis", "pos": "noun", "d": ["The union of adjacent bones by bony tissue; synostosis."], "src": "iwb"}
+{"w": "synostosis", "pos": "noun", "d": ["The union of two or more bones by bony tissue."], "src": "iwb"}
+{"w": "synovia", "pos": "noun", "d": ["The clear fluid that lubricates the joints."], "src": "iwb"}
+{"w": "synovial", "pos": "adjective", "d": ["Relating to or secreting synovia, the fluid that lubricates joints."], "src": "iwb"}
+{"w": "synovitis", "pos": "noun", "d": ["Inflammation of the membrane lining a joint."], "src": "iwb"}
+{"w": "synpelmous", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "synsepalous", "pos": "adjective", "d": ["Having the sepals joined together."], "src": "iwb"}
+{"w": "syntactic", "pos": "adjective", "d": ["Relating to the arrangement of words in sentences."], "src": "iwb"}
+{"w": "syntaxis", "pos": "noun", "d": ["The arrangement of words in sentences; syntax.", "An orderly arrangement or classification."], "src": "iwb"}
+{"w": "synteresis", "pos": "noun", "d": ["The inborn capacity for moral judgment; conscience."], "src": "iwb"}
+{"w": "synteretic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "synthermal", "pos": "adjective", "d": ["Having or marked by the same temperature."], "src": "iwb"}
+{"w": "synthesist", "pos": "noun", "d": ["A person who combines separate elements into a unified whole."], "src": "iwb"}
+{"w": "synthesize", "pos": "verb", "d": ["To combine separate parts or ideas into a single coherent whole.", "To produce a substance through chemical reaction rather than extracting it naturally."], "src": "iwb"}
+{"w": "synthetize", "pos": "verb", "d": ["To bring parts together into a complete system or product."], "src": "iwb"}
+{"w": "syntomy", "pos": "noun", "d": ["Conciseness or brevity of expression."], "src": "iwb"}
+{"w": "syntonic", "pos": "adjective", "d": ["Tuned to or in agreement with surroundings; in harmony with the environment."], "src": "iwb"}
+{"w": "syntonin", "pos": "noun", "d": ["A protein substance formed in muscle tissue when acted upon by dilute acids."], "src": "iwb"}
+{"w": "syntonize", "pos": "verb", "d": ["To tune a radio circuit so it resonates at the same frequency as another."], "src": "iwb"}
+{"w": "syntony", "pos": "noun", "d": ["The state of being in tune or in accord, especially of electrical circuits."], "src": "iwb"}
+{"w": "syphering", "pos": "verb", "d": ["An older variant of ciphering, meaning to encode a message in secret writing."], "src": "iwb"}
+{"w": "syphilide", "pos": "noun", "d": ["A skin eruption that is a symptom of syphilis."], "src": "iwb"}
+{"w": "syphilis", "pos": "noun", "d": ["A serious sexually transmitted disease that progresses in stages and is treatable with antibiotics."], "src": "iwb"}
+{"w": "syphilitic", "pos": "adjective", "d": ["Relating to or affected by syphilis."], "src": "iwb"}
+{"w": "syphilization", "pos": "noun", "d": ["The obsolete practice of repeatedly inoculating a patient with syphilitic matter as a supposed treatment."], "src": "iwb"}
+{"w": "syphilize", "pos": "verb", "d": ["To inoculate with syphilis, historically done in failed attempts at immunity."], "src": "iwb"}
+{"w": "syphiloderm", "pos": "noun", "d": ["Any skin condition or lesion caused by syphilis."], "src": "iwb"}
+{"w": "syphilodermatous", "pos": "adjective", "d": ["Relating to skin lesions caused by syphilis."], "src": "iwb"}
+{"w": "syphiloid", "pos": "adjective", "d": ["Resembling syphilis in appearance or symptoms."], "src": "iwb"}
+{"w": "syphilologist", "pos": "noun", "d": ["A medical specialist in the study and treatment of syphilis."], "src": "iwb"}
+{"w": "syphilology", "pos": "noun", "d": ["The medical study of syphilis."], "src": "iwb"}
+{"w": "syphon", "pos": "noun", "d": ["A variant spelling of siphon, a tube that draws liquid up and over an edge by suction."], "src": "iwb"}
+{"w": "syren", "pos": "noun", "d": ["An older spelling of siren, a mythological woman whose singing lured sailors to danger."], "src": "iwb"}
+{"w": "syriac", "pos": "adjective", "d": ["Relating to Syriac, an ancient Semitic language related to Aramaic."], "src": "iwb"}
+{"w": "syrian", "pos": "adjective", "d": ["Relating to Syria or its people."], "src": "iwb"}
+{"w": "syriasm", "pos": "noun", "d": ["A word, phrase, or custom that is distinctly Syrian in origin."], "src": "iwb"}
+{"w": "syringa", "pos": "noun", "d": ["A genus of shrubs including lilacs and mock oranges."], "src": "iwb"}
+{"w": "syringe", "pos": "noun", "d": ["A device with a hollow needle used to inject medicine or draw out bodily fluids."], "src": "iwb"}
+{"w": "syringin", "pos": "noun", "d": ["A crystalline compound extracted from lilac bark."], "src": "iwb"}
+{"w": "syringocoele", "pos": "noun", "d": ["A cavity or cyst that forms within the spinal cord."], "src": "iwb"}
+{"w": "syringotome", "pos": "noun", "d": ["A surgical instrument for cutting into a fistula."], "src": "iwb"}
+{"w": "syringotomy", "pos": "noun", "d": ["The surgical operation of cutting into a fistula."], "src": "iwb"}
+{"w": "syrinx", "pos": "noun", "d": ["The vocal organ of birds, located where the windpipe branches.", "An ancient Greek musical instrument made of reeds of decreasing length."], "src": "iwb"}
+{"w": "syrma", "pos": "noun", "d": ["A long trailing garment worn by ancient Greek tragic actors."], "src": "iwb"}
+{"w": "syrphian", "pos": "adjective", "d": ["Relating to the syrphid or hover flies."], "src": "iwb"}
+{"w": "syrphus fly", "pos": "phrase", "d": ["A hover fly of the genus Syrphus, often marked with yellow and black stripes like a bee."], "src": "iwb"}
+{"w": "syrt", "pos": "noun", "d": ["A quicksand or sandbank in a body of water, especially in the Gulf of Sidra."], "src": "iwb"}
+{"w": "syrtis", "pos": "noun", "d": ["A shifting sandbank or quicksand in the sea."], "src": "iwb"}
+{"w": "syrup", "pos": "noun", "d": ["A thick sweet liquid made by dissolving sugar in water, often flavored."], "src": "iwb"}
+{"w": "syrupy", "pos": "adjective", "d": ["Thick and sweet like syrup.", "Overly sentimental in an annoying way."], "src": "iwb"}
+{"w": "syssarcosis", "pos": "noun", "d": ["A union of bones held together by intervening muscle tissue."], "src": "iwb"}
+{"w": "systaltic", "pos": "adjective", "d": ["Contracting in a rhythmic pulsing manner, like the heartbeat."], "src": "iwb"}
+{"w": "systasis", "pos": "noun", "d": ["A prolonged pause in an ancient Greek tragedy that holds the audience in suspense."], "src": "iwb"}
+{"w": "systematism", "pos": "noun", "d": ["The practice of treating or organizing things as systems."], "src": "iwb"}
+{"w": "systematist", "pos": "noun", "d": ["A person who classifies and organizes things into systems, especially in biology."], "src": "iwb"}
+{"w": "systematization", "pos": "noun", "d": ["The act of arranging things into an orderly system."], "src": "iwb"}
+{"w": "systematize", "pos": "verb", "d": ["To arrange things into an orderly, methodical system."], "src": "iwb"}
+{"w": "systematology", "pos": "noun", "d": ["The study of systems and their organization."], "src": "iwb"}
+{"w": "systemization", "pos": "noun", "d": ["The process of organizing something into a system."], "src": "iwb"}
+{"w": "systole", "pos": "noun", "d": ["The phase of the heartbeat when the heart muscle contracts and pumps blood out."], "src": "iwb"}
+{"w": "systolic", "pos": "adjective", "d": ["Relating to the contraction phase of the heartbeat, as in systolic blood pressure."], "src": "iwb"}
+{"w": "systyle", "pos": "adjective", "d": ["Describing columns spaced two diameters apart in classical architecture."], "src": "iwb"}
+{"w": "syth", "pos": "verb", "d": ["An older spelling of scythe, meaning to cut with a scythe."], "src": "iwb"}
+{"w": "sythe", "pos": "verb", "d": ["A variant spelling of scythe, meaning to mow or cut with a scythe."], "src": "iwb"}
+{"w": "syzygy", "pos": "noun", "d": ["An alignment of three celestial bodies in a straight line, as the sun, earth, and moon during an eclipse."], "src": "iwb"}
+{"w": "t cart", "pos": "phrase", "d": ["A cart shaped like the letter T, historically used to carry certain loads."], "src": "iwb"}
+{"w": "t connection", "pos": "phrase", "d": ["A pipe fitting shaped like a T that joins three sections of pipe."], "src": "iwb"}
+{"w": "t iron", "pos": "phrase", "d": ["A strip of iron with a T-shaped cross section, used in construction."], "src": "iwb"}
+{"w": "t rail", "pos": "phrase", "d": ["A railroad rail with a T-shaped cross section."], "src": "iwb"}
+{"w": "t square", "pos": "phrase", "d": ["A drafting tool shaped like a T, used for drawing straight horizontal lines."], "src": "iwb"}
+{"w": "taas", "pos": "abbreviation", "d": ["A term standing for transportation as a service, where riders pay per trip instead of owning vehicles."], "src": "iwb"}
+{"w": "tabacco", "pos": "noun", "d": ["An older spelling of tobacco, the dried leaves of the tobacco plant used for smoking."], "src": "iwb"}
+{"w": "tabard", "pos": "noun", "d": ["A sleeveless tunic worn over armor in the Middle Ages, often bearing a coat of arms."], "src": "iwb"}
+{"w": "tabasco sauce", "pos": "phrase", "d": ["A spicy hot sauce made from tabasco peppers, vinegar, and salt."], "src": "iwb"}
+{"w": "tabasheer", "pos": "noun", "d": ["A glassy substance found inside bamboo stalks, once used in traditional medicine."], "src": "iwb"}
+{"w": "tabbinet", "pos": "noun", "d": ["A silk fabric with a watered or moire pattern."], "src": "iwb"}
+{"w": "tabefaction", "pos": "noun", "d": ["The process of wasting away or becoming thin from disease."], "src": "iwb"}
+{"w": "tabefy", "pos": "verb", "d": ["To cause to waste away or become emaciated."], "src": "iwb"}
+{"w": "tabellion", "pos": "noun", "d": ["An official scribe or notary in ancient Rome."], "src": "iwb"}
+{"w": "tabernacle", "pos": "noun", "d": ["A portable shrine used by the Israelites during the Exodus.", "A small ornamental cabinet on a Christian altar that holds the consecrated elements."], "src": "iwb"}
+{"w": "tabernacular", "pos": "adjective", "d": ["Relating to or shaped like a tabernacle."], "src": "iwb"}
+{"w": "tabetic", "pos": "adjective", "d": ["Relating to or affected by tabes, a wasting condition of the spinal cord."], "src": "iwb"}
+{"w": "tabid", "pos": "adjective", "d": ["Wasted or emaciated by disease."], "src": "iwb"}
+{"w": "tabific", "pos": "adjective", "d": ["Causing wasting or decay of the body."], "src": "iwb"}
+{"w": "tabinet", "pos": "noun", "d": ["A variant spelling of tabbinet, a watered silk fabric."], "src": "iwb"}
+{"w": "tablature", "pos": "noun", "d": ["A system of music notation that shows finger positions on an instrument rather than pitches."], "src": "iwb"}
+{"w": "table work", "pos": "phrase", "d": ["Work done at a table, especially close handwork like sewing or drafting."], "src": "iwb"}
+{"w": "table-land", "pos": "noun", "d": ["A broad flat elevated region of land; a plateau."], "src": "iwb"}
+{"w": "tableau", "pos": "noun", "d": ["A striking scene or picture, especially a staged still-life pose."], "src": "iwb"}
+{"w": "tableau vivant", "pos": "phrase", "d": ["A scene in which costumed people pose motionless to represent a famous picture."], "src": "iwb"}
+{"w": "tabloid", "pos": "noun", "d": ["A newspaper with small pages that favors sensational stories and photographs."], "src": "iwb"}
+{"w": "taboo", "pos": "noun", "d": ["A social or religious custom forbidding something as offensive or forbidden."], "src": "iwb"}
+{"w": "tabor", "pos": "noun", "d": ["A small drum played with one stick, often paired with a pipe."], "src": "iwb"}
+{"w": "taboret", "pos": "noun", "d": ["A small low stool or cabinet, often without a back."], "src": "iwb"}
+{"w": "taborine", "pos": "noun", "d": ["A small tabor, a little drum of the type used in folk music."], "src": "iwb"}
+{"w": "taborite", "pos": "noun", "d": ["A person who plays the tabor."], "src": "iwb"}
+{"w": "tabouret", "pos": "noun", "d": ["An alternate spelling of taboret, a small stool or low cabinet."], "src": "iwb"}
+{"w": "tabrere", "pos": "verb", "d": ["To drum or tap like a tabor."], "src": "iwb"}
+{"w": "tabu", "pos": "noun", "d": ["A variant spelling of taboo, a custom that forbids something."], "src": "iwb"}
+{"w": "tabula", "pos": "noun", "d": ["A flat tablet or board used for writing or display."], "src": "iwb"}
+{"w": "tabularization", "pos": "noun", "d": ["The act of arranging information into tables."], "src": "iwb"}
+{"w": "tac", "pos": "noun", "d": ["A brief sharp sound, as of a clock ticking.", "An abbreviation for tactical, used in military contexts."], "src": "iwb"}
+{"w": "tac-au-tac", "pos": "phrase", "d": ["A French fencing term for an exchange of rapid thrusts."], "src": "iwb"}
+{"w": "tacamahac", "pos": "noun", "d": ["A fragrant resin from tropical American trees, once used in ointments."], "src": "iwb"}
+{"w": "tacamahaca", "pos": "noun", "d": ["An alternate spelling of tacamahac, a fragrant tropical tree resin."], "src": "iwb"}
+{"w": "tacaud", "pos": "noun", "d": ["A small codfish of European waters, also called the poor cod."], "src": "iwb"}
+{"w": "tace", "pos": "noun", "d": ["A silence or pause, used in music to mark a rest."], "src": "iwb"}
+{"w": "tacet", "pos": "verb", "d": ["In music, a direction meaning that an instrument or voice is silent for a passage."], "src": "iwb"}
+{"w": "tache", "pos": "noun", "d": ["A small spot, stain, or blemish."], "src": "iwb"}
+{"w": "tachhydrite", "pos": "noun", "d": ["A yellowish mineral composed of calcium and magnesium chlorides."], "src": "iwb"}
+{"w": "tachina", "pos": "noun", "d": ["A genus of parasitic flies that lay eggs on caterpillars."], "src": "iwb"}
+{"w": "tachistoscope", "pos": "noun", "d": ["An instrument that flashes images for a fraction of a second to test visual perception."], "src": "iwb"}
+{"w": "tachograph", "pos": "noun", "d": ["A device that automatically records the speed and distance traveled by a vehicle."], "src": "iwb"}
+{"w": "tachometer", "pos": "noun", "d": ["An instrument that measures the speed of a rotating shaft, usually in revolutions per minute."], "src": "iwb"}
+{"w": "tachometry", "pos": "noun", "d": ["The measurement of speed, especially the speed of rotating machinery."], "src": "iwb"}
+{"w": "tachydidaxy", "pos": "noun", "d": ["A scheme or method claiming to teach rapidly or with unusual speed."], "src": "iwb"}
+{"w": "tachyglossa", "pos": "noun", "d": ["A former genus of egg-laying mammals including the spiny anteaters."], "src": "iwb"}
+{"w": "tachygraph", "pos": "noun", "d": ["An instrument or machine for rapid writing, as of shorthand notes."], "src": "iwb"}
+{"w": "tachygraphy", "pos": "noun", "d": ["The art or practice of rapid writing, such as shorthand."], "src": "iwb"}
+{"w": "tachylyte", "pos": "noun", "d": ["A dark glassy rock formed from rapidly cooled basaltic lava."], "src": "iwb"}
+{"w": "tachymeter", "pos": "noun", "d": ["A surveying instrument for quickly determining distances and elevations."], "src": "iwb"}
+{"w": "tachymetry", "pos": "noun", "d": ["The rapid measurement of distances and elevations in surveying."], "src": "iwb"}
+{"w": "tachyscope", "pos": "noun", "d": ["An early device that shows rapid successive images to create the illusion of motion."], "src": "iwb"}
+{"w": "tacit", "pos": "adjective", "d": ["Understood or implied without being spoken or written."], "src": "iwb"}
+{"w": "tack", "pos": "noun", "d": ["A small sharp pin or nail with a broad flat head, used for fastening."], "src": "iwb"}
+{"w": "tacksman", "pos": "noun", "d": ["A Scottish farmer who leases land directly from the landlord."], "src": "iwb"}
+{"w": "tacky", "pos": "adjective", "d": ["Slightly sticky to the touch.", "Cheap, gaudy, or in poor taste."], "src": "iwb"}
+{"w": "taconic", "pos": "adjective", "d": ["Of or relating to the Taconic mountain system of the eastern United States, or to the ancient geological period named for it."], "src": "iwb"}
+{"w": "tact", "pos": "noun", "d": ["Skill and sensitivity in dealing with people or difficult situations."], "src": "iwb"}
+{"w": "tactician", "pos": "noun", "d": ["A person skilled in planning and carrying out tactics."], "src": "iwb"}
+{"w": "tactility", "pos": "noun", "d": ["The quality of being perceptible by touch; the sense of touch."], "src": "iwb"}
+{"w": "tactual", "pos": "adjective", "d": ["Of or relating to the sense of touch."], "src": "iwb"}
+{"w": "tadpole", "pos": "noun", "d": ["The larval stage of a frog or toad, living in water with a tail and gills before developing legs."], "src": "iwb"}
+{"w": "taedium", "pos": "noun", "d": ["A feeling of weariness or loathing; extreme tedium."], "src": "iwb"}
+{"w": "tael", "pos": "noun", "d": ["A Chinese unit of weight formerly used as a unit of currency for silver."], "src": "iwb"}
+{"w": "taenia", "pos": "noun", "d": ["A genus of tapeworms that includes parasites of humans and domestic animals."], "src": "iwb"}
+{"w": "taeniacide", "pos": "noun", "d": ["A medicine or substance that destroys tapeworms."], "src": "iwb"}
+{"w": "taeniada", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taeniafuge", "pos": "noun", "d": ["A medicine or substance that expels tapeworms from the body."], "src": "iwb"}
+{"w": "taeniata", "pos": "adjective", "d": ["Marked with ribbon-like bands; tape-like."], "src": "iwb"}
+{"w": "taenidium", "pos": "noun", "d": ["A spiral ridge that stiffens the breathing tubes of insects."], "src": "iwb"}
+{"w": "taenioglossa", "pos": "noun", "d": ["A former group of snails having a ribbon-like tongue with teeth arranged in sevens."], "src": "iwb"}
+{"w": "taenioglossate", "pos": "adjective", "d": ["Having a ribbon-like tongue with rows of teeth, as certain snails."], "src": "iwb"}
+{"w": "taenioid", "pos": "adjective", "d": ["Resembling a tapeworm; ribbon-like."], "src": "iwb"}
+{"w": "taenioidea", "pos": "noun", "d": ["A superfamily of tapeworms including the genus Taenia."], "src": "iwb"}
+{"w": "taeniola", "pos": "noun", "d": ["A small ribbon-like band or structure."], "src": "iwb"}
+{"w": "taeniosomi", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taeping", "pos": "noun", "d": ["An older spelling of Taiping, the mid-19th-century Chinese rebel movement."], "src": "iwb"}
+{"w": "tafferer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taffeta", "pos": "noun", "d": ["A crisp smooth silk or synthetic fabric with a lustrous finish."], "src": "iwb"}
+{"w": "taffety", "pos": "noun", "d": ["A variety of crisp lustrous fabric; an old form of taffeta."], "src": "iwb"}
+{"w": "taffrail", "pos": "noun", "d": ["The railing around the stern of a ship."], "src": "iwb"}
+{"w": "taffy", "pos": "noun", "d": ["A chewy candy made by pulling and stretching boiled sugar.", "A nickname for a Welshman."], "src": "iwb"}
+{"w": "tafia", "pos": "noun", "d": ["A coarse rum distilled from sugarcane molasses in the West Indies."], "src": "iwb"}
+{"w": "tag day", "pos": "phrase", "d": ["A day on which charitable contributions are collected, often by pinning a small tag on each donor."], "src": "iwb"}
+{"w": "tag-rag", "pos": "noun", "d": ["The lowest class of people; riffraff."], "src": "iwb"}
+{"w": "tagalog", "pos": "noun", "d": ["The language of the Tagalog people of the Philippines.", "A member of the people native to central Luzon in the Philippines."], "src": "iwb"}
+{"w": "taglia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tagliacotain", "pos": "adjective", "d": ["Of or relating to the method of nose reconstruction developed by Gasparo Tagliacozzi."], "src": "iwb"}
+{"w": "taglioni", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tagnicate", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taguan", "pos": "noun", "d": ["The Philippine flying lemur, a gliding mammal also called the colugo."], "src": "iwb"}
+{"w": "taguicati", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taha", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tahaleb", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tahitian", "pos": "adjective", "d": ["Of or relating to Tahiti or its people."], "src": "iwb"}
+{"w": "tahr", "pos": "noun", "d": ["A wild goat-like mammal of the mountains of Arabia and southern Asia."], "src": "iwb"}
+{"w": "tai", "pos": "noun", "d": ["A family of languages of Southeast Asia including Thai and Lao.", "A member of a Tai-speaking people."], "src": "iwb"}
+{"w": "tail-bay", "pos": "noun", "d": ["The part of a millrace where water leaves the waterwheel."], "src": "iwb"}
+{"w": "tail-water", "pos": "noun", "d": ["Water that has passed through a mill or dam; excess water draining from irrigated land."], "src": "iwb"}
+{"w": "taille", "pos": "noun", "d": ["A direct tax levied in France before the Revolution."], "src": "iwb"}
+{"w": "tailor", "pos": "noun", "d": ["A person who makes, alters, or repairs clothing, especially men's suits."], "src": "iwb"}
+{"w": "tailor-made", "pos": "adjective", "d": ["Made to fit a particular person or purpose; custom-made."], "src": "iwb"}
+{"w": "tailoress", "pos": "noun", "d": ["A woman who makes or alters clothing."], "src": "iwb"}
+{"w": "tailzie", "pos": "noun", "d": ["In Scots law, an entailed estate or the settlement creating it."], "src": "iwb"}
+{"w": "tain", "pos": "noun", "d": ["A thin plate of tin, especially the foil backing of a mirror."], "src": "iwb"}
+{"w": "taint", "pos": "noun", "d": ["A trace of something undesirable; a corrupting influence."], "src": "iwb"}
+{"w": "taira", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tairn", "pos": "noun", "d": ["A Scottish form of tarn, a small mountain lake."], "src": "iwb"}
+{"w": "tait", "pos": "noun", "d": ["A small lock or tuft of wool or hair."], "src": "iwb"}
+{"w": "taj mahal", "pos": "phrase", "d": ["A famous marble mausoleum at Agra, India, built by the emperor Shah Jahan."], "src": "iwb"}
+{"w": "tajacu", "pos": "noun", "d": ["An old name for the peccary, a wild pig-like mammal of the Americas."], "src": "iwb"}
+{"w": "tajassu", "pos": "noun", "d": ["An old variant name for the peccary."], "src": "iwb"}
+{"w": "take-off", "pos": "noun", "d": ["The act of an aircraft leaving the ground.", "A humorous imitation; a parody."], "src": "iwb"}
+{"w": "take-up", "pos": "noun", "d": ["The act or process of taking up, as of slack or an idea."], "src": "iwb"}
+{"w": "taking-off", "pos": "noun", "d": ["The act of leaving the ground or beginning a flight."], "src": "iwb"}
+{"w": "talapoin", "pos": "noun", "d": ["A small long-tailed African monkey."], "src": "iwb"}
+{"w": "talaria", "pos": "noun", "d": ["The winged sandals of Mercury in classical mythology."], "src": "iwb"}
+{"w": "talbot", "pos": "noun", "d": ["An old English breed of large hound, ancestor of the bloodhound."], "src": "iwb"}
+{"w": "talbotype", "pos": "noun", "d": ["An early photographic process invented by William Henry Fox Talbot."], "src": "iwb"}
+{"w": "talc", "pos": "noun", "d": ["A soft white mineral of magnesium silicate, ground into powder for cosmetics and other uses."], "src": "iwb"}
+{"w": "talcose", "pos": "adjective", "d": ["Containing or resembling talc."], "src": "iwb"}
+{"w": "talcum", "pos": "noun", "d": ["Powdered talc, as used for toilet powder."], "src": "iwb"}
+{"w": "talegalla", "pos": "noun", "d": ["An old genus name for the Australian brush turkeys."], "src": "iwb"}
+{"w": "taliacotian", "pos": "adjective", "d": ["Of or relating to the method of plastic surgery developed by Gasparo Tagliacozzi."], "src": "iwb"}
+{"w": "taliation", "pos": "noun", "d": ["An old form of retaliation; punishment in kind."], "src": "iwb"}
+{"w": "talion", "pos": "noun", "d": ["The principle of retaliation in kind, as in 'an eye for an eye'."], "src": "iwb"}
+{"w": "talipes", "pos": "noun", "d": ["A deformity of the foot; clubfoot."], "src": "iwb"}
+{"w": "talipot", "pos": "noun", "d": ["A tall fan palm of southern Asia whose leaves were used for writing upon."], "src": "iwb"}
+{"w": "talisman", "pos": "noun", "d": ["An object believed to bring good luck or ward off evil."], "src": "iwb"}
+{"w": "talkative", "pos": "adjective", "d": ["Fond of talking; inclined to talk much."], "src": "iwb"}
+{"w": "talliage", "pos": "noun", "d": ["A tax levied by feudal lords or the crown in medieval England and France."], "src": "iwb"}
+{"w": "tallis", "pos": "noun", "d": ["A Jewish prayer shawl worn during morning services."], "src": "iwb"}
+{"w": "tallith", "pos": "noun", "d": ["A variant of tallis; a Jewish prayer shawl."], "src": "iwb"}
+{"w": "tallow", "pos": "noun", "d": ["Rendered animal fat used for making candles, soap, and lubricants."], "src": "iwb"}
+{"w": "tallow-face", "pos": "noun", "d": ["A person with a pale, flabby, or unhealthy-looking face."], "src": "iwb"}
+{"w": "tallowy", "pos": "adjective", "d": ["Resembling or containing tallow; pale and fatty."], "src": "iwb"}
+{"w": "tally", "pos": "noun", "d": ["A count or record of items or scores."], "src": "iwb"}
+{"w": "tallyho", "pos": "interjection", "d": ["A huntsman's cry to urge the hounds on."], "src": "iwb"}
+{"w": "talma", "pos": "noun", "d": ["A kind of short cape or cloak."], "src": "iwb"}
+{"w": "talmud", "pos": "noun", "d": ["The body of Jewish civil and religious law and commentary on the Mishnah."], "src": "iwb"}
+{"w": "talon", "pos": "noun", "d": ["The claw of a bird of prey.", "In card games, the pack of cards left after dealing."], "src": "iwb"}
+{"w": "talook", "pos": "noun", "d": ["A variant spelling of taluk, an administrative district in India or Bangladesh."], "src": "iwb"}
+{"w": "talookdar", "pos": "noun", "d": ["A variant of talukdar, a holder of land or a revenue officer in India."], "src": "iwb"}
+{"w": "talpa", "pos": "noun", "d": ["The genus of moles that includes the common European mole."], "src": "iwb"}
+{"w": "taluk", "pos": "noun", "d": ["An administrative district or subdivision in India and Bangladesh."], "src": "iwb"}
+{"w": "talukdar", "pos": "noun", "d": ["The holder of a taluk, especially a landowner or revenue collector in India."], "src": "iwb"}
+{"w": "talus", "pos": "noun", "d": ["The ankle bone that joins the leg bones to the foot.", "A sloping heap of broken rock fragments at the base of a cliff."], "src": "iwb"}
+{"w": "tam-tam", "pos": "noun", "d": ["A flat gong or drum used in ceremonial music in parts of Africa and Asia."], "src": "iwb"}
+{"w": "tamability", "pos": "noun", "d": ["The quality of being able to be tamed or domesticated."], "src": "iwb"}
+{"w": "tamale", "pos": "noun", "d": ["A dish of seasoned filling wrapped in cornmeal dough and steamed in a corn husk."], "src": "iwb"}
+{"w": "tamandu", "pos": "noun", "d": ["A tree-dwelling anteater of South America, also called the tamandua."], "src": "iwb"}
+{"w": "tamanoir", "pos": "noun", "d": ["The giant anteater of Central and South America."], "src": "iwb"}
+{"w": "tamarack", "pos": "noun", "d": ["A slender North American larch whose needle-like leaves turn yellow and fall in autumn."], "src": "iwb"}
+{"w": "tamaric", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tamarin", "pos": "noun", "d": ["A small brightly colored South American monkey with a long tail and tufted ears."], "src": "iwb"}
+{"w": "tamarind", "pos": "noun", "d": ["A tropical tree bearing long brown pods whose tangy pulp is used in cooking and drinks."], "src": "iwb"}
+{"w": "tamarisk", "pos": "noun", "d": ["A shrub or small tree with feathery foliage and clusters of tiny pink flowers, often growing in dry salty soil."], "src": "iwb"}
+{"w": "tambac", "pos": "noun", "d": ["A copper-and-zinc alloy with a golden color, used for cheap jewelry and medals."], "src": "iwb"}
+{"w": "tambour", "pos": "noun", "d": ["A small round frame that holds cloth taut for embroidery.", "A small drum.", "The cylindrical wall that supports a dome in architecture."], "src": "iwb"}
+{"w": "tambourin", "pos": "noun", "d": ["A small drum of southern France, played with a single stick."], "src": "iwb"}
+{"w": "tambourine", "pos": "noun", "d": ["A small hand-held frame drum with metal disks around its rim, shaken or tapped to make a jingling sound."], "src": "iwb"}
+{"w": "tambreet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tamburin", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tame", "pos": "adjective", "d": ["Gentle and domesticated rather than wild.", "Dull or unexciting; lacking spirit."], "src": "iwb"}
+{"w": "tamias", "pos": "noun", "d": ["The genus of chipmunks and related ground squirrels."], "src": "iwb"}
+{"w": "tamilian", "pos": "noun", "d": ["A native speaker of Tamil, or a native of Tamil Nadu in India."], "src": "iwb"}
+{"w": "tamine", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taminy", "pos": "noun", "d": ["A thin woolen fabric formerly made in England."], "src": "iwb"}
+{"w": "tamis", "pos": "noun", "d": ["A drum-shaped sieve with a stretched cloth or mesh bottom, used for straining sauces and purees."], "src": "iwb"}
+{"w": "tamkin", "pos": "noun", "d": ["A plug used to stop the muzzle of a cannon or gun."], "src": "iwb"}
+{"w": "tammuz", "pos": "noun", "d": ["A month of the Jewish calendar falling in June and July.", "A Mesopotamian god of vegetation honored in ancient rites."], "src": "iwb"}
+{"w": "tammy", "pos": "noun", "d": ["A fine woolen fabric with a glazed surface.", "A sieve for straining liquids; a tamis."], "src": "iwb"}
+{"w": "tamp", "pos": "verb", "d": ["To pack down firmly by repeated light blows."], "src": "iwb"}
+{"w": "tampan", "pos": "noun", "d": ["A venomous tick of southern Africa that feeds on livestock and people."], "src": "iwb"}
+{"w": "tampico fiber", "pos": "phrase", "d": ["A tough yellow fiber from a Mexican agave plant, used for brushes and ropes."], "src": "iwb"}
+{"w": "tampico fibre", "pos": "phrase", "d": ["A tough yellow fiber from a Mexican agave plant, used for brushes and ropes."], "src": "iwb"}
+{"w": "tampoe", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tampon", "pos": "noun", "d": ["A plug of soft absorbent material inserted into a body cavity to absorb blood or other fluids."], "src": "iwb"}
+{"w": "tamul", "pos": "noun", "d": ["An older name for the Tamil language or the Tamil people of southern India."], "src": "iwb"}
+{"w": "tamworth", "pos": "noun", "d": ["A breed of hardy reddish pigs raised for bacon.", "A town in Staffordshire, England."], "src": "iwb"}
+{"w": "tana", "pos": "noun", "d": ["A genus of tree shrews found in Southeast Asia.", "A large lake in Ethiopia that feeds the Blue Nile."], "src": "iwb"}
+{"w": "tanager", "pos": "noun", "d": ["A small brightly colored songbird of the Americas, many species wearing red, yellow, or blue plumage."], "src": "iwb"}
+{"w": "tanagrine", "pos": "adjective", "d": ["Relating to or resembling the tanagers."], "src": "iwb"}
+{"w": "tanagroid", "pos": "adjective", "d": ["Resembling or related to the tanagers."], "src": "iwb"}
+{"w": "tandem", "pos": "noun", "d": ["A bicycle built for two riders seated one behind the other.", "An arrangement of two things placed one behind the other."], "src": "iwb"}
+{"w": "tandem cart", "pos": "phrase", "d": ["A two-wheeled carriage drawn by two horses harnessed one behind the other."], "src": "iwb"}
+{"w": "tandem engine", "pos": "phrase", "d": ["A steam engine with two cylinders set end to end, their pistons driving a common rod."], "src": "iwb"}
+{"w": "tandem system", "pos": "phrase", "d": ["A system of two parts arranged one behind the other, working together."], "src": "iwb"}
+{"w": "tang", "pos": "noun", "d": ["A strong sharp taste or smell.", "The projecting part of a tool or blade that fits into its handle."], "src": "iwb"}
+{"w": "tangalung", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tangelo", "pos": "noun", "d": ["A citrus fruit that is a cross between a tangerine and a grapefruit."], "src": "iwb"}
+{"w": "tangency", "pos": "noun", "d": ["The state of touching at a single point, as a tangent line touches a curve."], "src": "iwb"}
+{"w": "tangent spoke", "pos": "phrase", "d": ["A bicycle wheel spoke angled so that it meets the hub at a tangent instead of pointing at the center."], "src": "iwb"}
+{"w": "tangent wheel", "pos": "phrase", "d": ["A wheel in which the spokes or teeth are arranged tangentially to the hub."], "src": "iwb"}
+{"w": "tangerine", "pos": "noun", "d": ["A small sweet citrus fruit with loose orange skin, a kind of mandarin."], "src": "iwb"}
+{"w": "tanghinia", "pos": "noun", "d": ["A genus of poisonous tropical trees whose seeds yield a deadly heart poison."], "src": "iwb"}
+{"w": "tangibility", "pos": "noun", "d": ["The quality of being able to be touched or clearly perceived."], "src": "iwb"}
+{"w": "tangle", "pos": "verb", "d": ["To twist together into a confused mass."], "src": "iwb"}
+{"w": "tanglingly", "pos": "adverb", "d": ["In a way that twists or tangles things together."], "src": "iwb"}
+{"w": "tango", "pos": "noun", "d": ["A dramatic Latin American dance for couples, with slow gliding steps and sudden pauses."], "src": "iwb"}
+{"w": "tanier", "pos": "noun", "d": ["A tropical plant grown for its starchy edible root; the root itself."], "src": "iwb"}
+{"w": "tanistry", "pos": "noun", "d": ["An old Irish and Scottish custom by which a chief's successor was chosen from among eligible kinsmen during the chief's lifetime."], "src": "iwb"}
+{"w": "tanite", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tank ship", "pos": "phrase", "d": ["A ship built to carry liquid cargo, such as oil, in large tanks."], "src": "iwb"}
+{"w": "tank vessel", "pos": "phrase", "d": ["A vessel designed to transport liquids in bulk, such as an oil tanker."], "src": "iwb"}
+{"w": "tanka", "pos": "noun", "d": ["A Japanese poem of five lines with a 5-7-5-7-7 syllable pattern.", "A Tibetan Buddhist religious painting on a cloth scroll."], "src": "iwb"}
+{"w": "tankard", "pos": "noun", "d": ["A tall drinking mug, often with a lid and handle, holding about a pint."], "src": "iwb"}
+{"w": "tankia", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tannable", "pos": "adjective", "d": ["Able to be tanned; suitable for turning into leather."], "src": "iwb"}
+{"w": "tannage", "pos": "noun", "d": ["The process of tanning hides into leather.", "Tanned leather itself."], "src": "iwb"}
+{"w": "tannate", "pos": "noun", "d": ["A salt or compound formed from tannic acid."], "src": "iwb"}
+{"w": "tannery", "pos": "noun", "d": ["A place where animal hides are tanned into leather."], "src": "iwb"}
+{"w": "tannic", "pos": "adjective", "d": ["Relating to tannin; having the astringent quality of tannin."], "src": "iwb"}
+{"w": "tannier", "pos": "noun", "d": ["A variant of tanier, a tropical plant grown for its starchy edible root."], "src": "iwb"}
+{"w": "tannigen", "pos": "noun", "d": ["An astringent compound of tannin formerly used as a medicine for intestinal disorders."], "src": "iwb"}
+{"w": "tanrec", "pos": "noun", "d": ["A variant of tenrec, a small spiny mammal of Madagascar."], "src": "iwb"}
+{"w": "tansy", "pos": "noun", "d": ["A tall herb with flat clusters of small yellow button-like flowers and bitter aromatic leaves."], "src": "iwb"}
+{"w": "tant", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tantalic", "pos": "adjective", "d": ["Relating to tantalum; containing tantalum."], "src": "iwb"}
+{"w": "tantalism", "pos": "noun", "d": ["The torment of something desirable that stays just out of reach."], "src": "iwb"}
+{"w": "tantalite", "pos": "noun", "d": ["A dark heavy mineral that is a principal ore of tantalum."], "src": "iwb"}
+{"w": "tantalization", "pos": "noun", "d": ["The act of tormenting someone by keeping something desired just out of reach."], "src": "iwb"}
+{"w": "tantalize", "pos": "verb", "d": ["To tease or torment by offering something desirable but keeping it out of reach."], "src": "iwb"}
+{"w": "tantalizingly", "pos": "adverb", "d": ["In a way that excites desire while keeping satisfaction out of reach."], "src": "iwb"}
+{"w": "tantra", "pos": "noun", "d": ["A body of Hindu and Buddhist scriptures and practices centered on ritual, meditation, and the union of opposites."], "src": "iwb"}
+{"w": "tantrism", "pos": "noun", "d": ["The system of beliefs and practices based on the tantras."], "src": "iwb"}
+{"w": "tanystomata", "pos": "noun", "d": ["A group of long-tongued flies including the bee flies and their relatives."], "src": "iwb"}
+{"w": "taoism", "pos": "noun", "d": ["A Chinese philosophy and religion teaching harmony with the Tao, the natural way of the universe, through simplicity and noninterference."], "src": "iwb"}
+{"w": "taotai", "pos": "noun", "d": ["A Chinese official in charge of a circuit or district, especially in the 19th century."], "src": "iwb"}
+{"w": "tapa", "pos": "noun", "d": ["Cloth made in the Pacific islands from the beaten inner bark of trees, used for clothing and ceremony."], "src": "iwb"}
+{"w": "tapadera", "pos": "noun", "d": ["A broad leather cover over a stirrup on a western saddle, shielding the rider's foot."], "src": "iwb"}
+{"w": "tapadero", "pos": "noun", "d": ["A variant of tapadera, the leather hood covering a western saddle's stirrup."], "src": "iwb"}
+{"w": "tapayaxin", "pos": "noun", "d": ["A horned lizard of western North America, also called the horned toad."], "src": "iwb"}
+{"w": "tapestry", "pos": "noun", "d": ["A heavy woven fabric bearing pictures or designs, hung on walls as decoration."], "src": "iwb"}
+{"w": "tapestry beetle", "pos": "phrase", "d": ["A small carpet beetle whose larvae damage wool, furs, and other animal fabrics."], "src": "iwb"}
+{"w": "tapet", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tapeti", "pos": "noun", "d": ["A small wild rabbit of Central and South America."], "src": "iwb"}
+{"w": "tapetum", "pos": "noun", "d": ["A reflective layer in the eyes of many animals that improves night vision.", "A layer of nutritive tissue lining the inside of a plant's anther."], "src": "iwb"}
+{"w": "taphrenchyma", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tapinage", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tapioca", "pos": "noun", "d": ["A starchy food made from cassava root, used in puddings and as a thickener."], "src": "iwb"}
+{"w": "tapir", "pos": "noun", "d": ["A large hoofed mammal of Central and South America and Southeast Asia with a short flexible snout like a small trunk."], "src": "iwb"}
+{"w": "tapiroid", "pos": "adjective", "d": ["Resembling or related to a tapir."], "src": "iwb"}
+{"w": "tapis", "pos": "noun", "d": ["A carpet or tapestry.", "A subject under discussion, as in the phrase on the tapis."], "src": "iwb"}
+{"w": "taplings", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tapoa tafa", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tappet rod", "pos": "noun", "d": ["A rod in an engine that pushes a tappet to open and close a valve."], "src": "iwb"}
+{"w": "tappis", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tappit hen", "pos": "noun", "d": ["A large Scottish drinking vessel holding about a quart."], "src": "iwb"}
+{"w": "tapster", "pos": "noun", "d": ["A person who draws and serves beer or ale in a tavern."], "src": "iwb"}
+{"w": "taqua-nut", "pos": "noun", "d": ["The hard white seed of a South American palm, used as a substitute for ivory."], "src": "iwb"}
+{"w": "taranis", "pos": "noun", "d": ["A Celtic god of thunder."], "src": "iwb"}
+{"w": "tarantass", "pos": "noun", "d": ["A large four-wheeled Russian carriage used for long overland journeys."], "src": "iwb"}
+{"w": "tarantella", "pos": "noun", "d": ["A fast whirling dance of southern Italy, once believed to cure the bite of the tarantula."], "src": "iwb"}
+{"w": "tarantism", "pos": "noun", "d": ["A nervous disorder once believed to be caused by the bite of a tarantula and treated with frenzied dancing."], "src": "iwb"}
+{"w": "tarantula", "pos": "noun", "d": ["Any of various large hairy spiders, some with a painful bite."], "src": "iwb"}
+{"w": "tarbogan", "pos": "noun", "d": ["A sledge for sliding over snow; a toboggan."], "src": "iwb"}
+{"w": "tarboosh", "pos": "noun", "d": ["A brimless red cap worn in the Middle East and North Africa; a fez."], "src": "iwb"}
+{"w": "tardation", "pos": "noun", "d": ["The act of delaying or the state of being slowed."], "src": "iwb"}
+{"w": "tardigrada", "pos": "noun", "d": ["An order of microscopic invertebrate animals commonly called water bears."], "src": "iwb"}
+{"w": "tardigrade", "pos": "noun", "d": ["A microscopic animal also called a water bear, famous for surviving extreme heat, cold, and radiation."], "src": "iwb"}
+{"w": "tardigradous", "pos": "adjective", "d": ["Relating to or resembling a tardigrade; slow-moving."], "src": "iwb"}
+{"w": "tardily", "pos": "adverb", "d": ["In a slow or late manner."], "src": "iwb"}
+{"w": "tardiness", "pos": "noun", "d": ["The quality or habit of being late."], "src": "iwb"}
+{"w": "tardity", "pos": "noun", "d": ["Slowness; lateness."], "src": "iwb"}
+{"w": "tardo", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tardy", "pos": "adjective", "d": ["Arriving late; not on time.", "Slow in moving or acting."], "src": "iwb"}
+{"w": "tare", "pos": "noun", "d": ["The weight of packaging or a container, deducted from the gross weight to find the net weight.", "Any of several weedy vetches that grow among grain."], "src": "iwb"}
+{"w": "tarente", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tarentism", "pos": "noun", "d": ["A variant of tarantism, the dancing disorder once blamed on spider bites."], "src": "iwb"}
+{"w": "tarentula", "pos": "noun", "d": ["A kind of gecko or wall lizard found around the Mediterranean."], "src": "iwb"}
+{"w": "targe", "pos": "noun", "d": ["A small round shield once used by Scottish Highlanders."], "src": "iwb"}
+{"w": "targeteer", "pos": "noun", "d": ["A person who shoots at a target; a marksman or archer."], "src": "iwb"}
+{"w": "tarin", "pos": "noun", "d": ["A small European finch with yellow and green plumage; the siskin."], "src": "iwb"}
+{"w": "tarlatan", "pos": "noun", "d": ["A thin, stiff, transparent muslin used for dresses and screens."], "src": "iwb"}
+{"w": "tarn", "pos": "noun", "d": ["A small lake in the mountains, especially one in a glacial hollow."], "src": "iwb"}
+{"w": "taro", "pos": "noun", "d": ["A tropical plant grown for its large starchy edible roots."], "src": "iwb"}
+{"w": "tarot", "pos": "noun", "d": ["A set of illustrated cards used in fortune-telling and in certain card games."], "src": "iwb"}
+{"w": "tarpeian", "pos": "adjective", "d": ["Relating to the Tarpeian Rock in ancient Rome, from which traitors were thrown to their deaths."], "src": "iwb"}
+{"w": "tarpon", "pos": "noun", "d": ["A large silvery game fish of warm Atlantic waters, prized by anglers."], "src": "iwb"}
+{"w": "tarpum", "pos": "noun", "d": ["A variant spelling of tarpon."], "src": "iwb"}
+{"w": "tarquinish", "pos": "adjective", "d": ["Like Tarquin, the tyrannical Roman king; proud and cruel."], "src": "iwb"}
+{"w": "tarragon", "pos": "noun", "d": ["A fragrant herb with narrow leaves, used to flavor food."], "src": "iwb"}
+{"w": "tarre", "pos": "verb", "d": ["To provoke or incite; to set on, as a dog (obsolete)."], "src": "iwb"}
+{"w": "tarriance", "pos": "noun", "d": ["The act of tarrying; a delay or a temporary stay."], "src": "iwb"}
+{"w": "tarry", "pos": "verb", "d": ["To linger or delay in coming or going.", "To stay for a time; to sojourn."], "src": "iwb"}
+{"w": "tarse", "pos": "noun", "d": ["The tarsus; the ankle or its bones."], "src": "iwb"}
+{"w": "tarsectomy", "pos": "noun", "d": ["Surgical removal of the tarsus or of part of the eyelid."], "src": "iwb"}
+{"w": "tarsel", "pos": "noun", "d": ["A male hawk, especially a male falcon; a tiercel."], "src": "iwb"}
+{"w": "tarsi", "pos": "noun", "d": ["The plural of tarsus."], "src": "iwb"}
+{"w": "tarsia", "pos": "noun", "d": ["Decorative inlaid woodwork; intarsia."], "src": "iwb"}
+{"w": "tarsiatura", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tarsius", "pos": "noun", "d": ["A genus of tiny primates of Southeast Asia with enormous eyes; the tarsiers."], "src": "iwb"}
+{"w": "tarso-", "pos": "prefix", "d": ["A combining form meaning the tarsus or ankle, as in tarsometatarsal."], "src": "iwb"}
+{"w": "tarsometatarsal", "pos": "adjective", "d": ["Relating to the tarsus and the metatarsus together."], "src": "iwb"}
+{"w": "tarsometatarsus", "pos": "noun", "d": ["The long bone in a bird's leg formed by the fused tarsus and metatarsus."], "src": "iwb"}
+{"w": "tarsorrhaphy", "pos": "noun", "d": ["A surgical operation that partly sews the eyelids together."], "src": "iwb"}
+{"w": "tarsotomy", "pos": "noun", "d": ["Surgical incision into the tarsus of the eyelid."], "src": "iwb"}
+{"w": "tarsus", "pos": "noun", "d": ["The cluster of bones forming the ankle in humans.", "The stiff plate of connective tissue in the eyelid."], "src": "iwb"}
+{"w": "tart", "pos": "adjective", "d": ["Sharp or sour to the taste.", "Biting or cutting in manner or speech."], "src": "iwb"}
+{"w": "tartarated", "pos": "adjective", "d": ["Combined or treated with tartar or tartaric acid."], "src": "iwb"}
+{"w": "tartareous", "pos": "adjective", "d": ["Consisting of or resembling tartar; having a hard crust."], "src": "iwb"}
+{"w": "tartarine", "pos": "adjective", "d": ["Of or relating to tartar."], "src": "iwb"}
+{"w": "tartarus", "pos": "noun", "d": ["In Greek mythology, the deep abyss where the wicked are punished; hell."], "src": "iwb"}
+{"w": "tartralic", "pos": "adjective", "d": ["Relating to tartralic acid."], "src": "iwb"}
+{"w": "tartramate", "pos": "noun", "d": ["A salt of tartramic acid."], "src": "iwb"}
+{"w": "tartramic", "pos": "adjective", "d": ["Relating to tartramic acid."], "src": "iwb"}
+{"w": "tartramide", "pos": "noun", "d": ["The amide derived from tartaric acid."], "src": "iwb"}
+{"w": "tartrazine", "pos": "noun", "d": ["A bright yellow artificial dye used to color foods and medicines."], "src": "iwb"}
+{"w": "tartro-", "pos": "prefix", "d": ["A combining form meaning tartaric acid, as in tartronate."], "src": "iwb"}
+{"w": "tartronate", "pos": "noun", "d": ["A salt of tartronic acid."], "src": "iwb"}
+{"w": "tartronic", "pos": "adjective", "d": ["Relating to tartronic acid."], "src": "iwb"}
+{"w": "tartronyl", "pos": "noun", "d": ["The chemical radical derived from tartronic acid."], "src": "iwb"}
+{"w": "tartrovinic", "pos": "adjective", "d": ["Relating to tartrovinic acid."], "src": "iwb"}
+{"w": "tartufe", "pos": "noun", "d": ["A hypocrite, especially one who pretends to be religious."], "src": "iwb"}
+{"w": "tartuffe", "pos": "noun", "d": ["A religious hypocrite, after the title character of Moliere's comedy."], "src": "iwb"}
+{"w": "tartuffish", "pos": "adjective", "d": ["Like Tartuffe; hypocritically pious."], "src": "iwb"}
+{"w": "tartufish", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tas", "pos": "noun", "d": ["A heap or pile (chiefly Scots)."], "src": "iwb"}
+{"w": "tasco", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tasimer", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "task wage", "pos": "phrase", "d": ["Pay calculated by the job or task completed rather than by hours worked."], "src": "iwb"}
+{"w": "tasmanian", "pos": "adjective", "d": ["Of or relating to Tasmania.", "A native or inhabitant of Tasmania."], "src": "iwb"}
+{"w": "tasse", "pos": "noun", "d": ["A small cup, especially for coffee."], "src": "iwb"}
+{"w": "tassel", "pos": "noun", "d": ["An ornamental hanging tuft of threads or cords.", "The pollen-bearing flower cluster at the top of a corn plant."], "src": "iwb"}
+{"w": "tastily", "pos": "adverb", "d": ["In a tasty or pleasing manner."], "src": "iwb"}
+{"w": "tasto", "pos": "noun", "d": ["A key of a keyboard instrument; a touch in playing."], "src": "iwb"}
+{"w": "tasty", "pos": "adjective", "d": ["Pleasing to the sense of taste; delicious."], "src": "iwb"}
+{"w": "tat", "pos": "verb", "d": ["To make handmade lace by looping and knotting thread."], "src": "iwb"}
+{"w": "tataupa", "pos": "noun", "d": ["A small South American tinamou, a ground-dwelling bird."], "src": "iwb"}
+{"w": "tatch", "pos": "verb", "d": ["To thatch; a variant spelling of thatch."], "src": "iwb"}
+{"w": "tath", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tatou", "pos": "noun", "d": ["An armadillo."], "src": "iwb"}
+{"w": "tatouay", "pos": "noun", "d": ["A very large armadillo of South America."], "src": "iwb"}
+{"w": "tatouhou", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tatt", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tatta", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tatterdemalion", "pos": "noun", "d": ["A person dressed in ragged, tattered clothing; a ragamuffin."], "src": "iwb"}
+{"w": "tattle", "pos": "verb", "d": ["To gossip or chatter idly; to tell secrets.", "To report someone's misdeeds to an authority."], "src": "iwb"}
+{"w": "tattlery", "pos": "noun", "d": ["Idle gossip; the act or habit of tattling."], "src": "iwb"}
+{"w": "tatty", "pos": "adjective", "d": ["Shabby, worn, or falling apart."], "src": "iwb"}
+{"w": "tatu", "pos": "noun", "d": ["A large armadillo of South America with a heavy armored shell."], "src": "iwb"}
+{"w": "tatusiid", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tau", "pos": "noun", "d": ["The nineteenth letter of the Greek alphabet.", "A short-lived subatomic particle heavier than a muon."], "src": "iwb"}
+{"w": "taunt", "pos": "noun", "d": ["A mocking remark intended to provoke or anger someone."], "src": "iwb"}
+{"w": "tauntress", "pos": "noun", "d": ["A woman who taunts or mocks others."], "src": "iwb"}
+{"w": "taur", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tauricornous", "pos": "adjective", "d": ["Having horns like those of a bull."], "src": "iwb"}
+{"w": "tauridor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tauriform", "pos": "adjective", "d": ["Shaped like a bull."], "src": "iwb"}
+{"w": "taurocholate", "pos": "noun", "d": ["A salt of taurocholic acid found in bile."], "src": "iwb"}
+{"w": "taurocholic", "pos": "adjective", "d": ["Relating to taurocholic acid, a substance found in bile."], "src": "iwb"}
+{"w": "taurocol", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taurocolla", "pos": "noun", "d": ["A strong glue made by boiling down the hides of bulls."], "src": "iwb"}
+{"w": "tauromachian", "pos": "adjective", "d": ["Relating to bullfighting."], "src": "iwb"}
+{"w": "tauromachy", "pos": "noun", "d": ["The art or sport of fighting bulls in an arena."], "src": "iwb"}
+{"w": "taurus", "pos": "noun", "d": ["The bull, a constellation and a sign of the zodiac."], "src": "iwb"}
+{"w": "taurylic", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taut", "pos": "adjective", "d": ["Pulled or stretched tight, with no slack."], "src": "iwb"}
+{"w": "tautaug", "pos": "noun", "d": ["A dark-colored food fish of the Atlantic coast, also called the tautog or blackfish."], "src": "iwb"}
+{"w": "tautegorical", "pos": "adjective", "d": ["Expressing a thing only in terms of itself, adding no new information."], "src": "iwb"}
+{"w": "tautochrone", "pos": "noun", "d": ["A curve along which a body falls to the lowest point in the same time from any starting point."], "src": "iwb"}
+{"w": "tautochronous", "pos": "adjective", "d": ["Taking place in equal amounts of time."], "src": "iwb"}
+{"w": "tautologic", "pos": "adjective", "d": ["Involving needless repetition of the same idea in different words."], "src": "iwb"}
+{"w": "tautologist", "pos": "noun", "d": ["A person who needlessly repeats the same idea in different words."], "src": "iwb"}
+{"w": "tautologize", "pos": "verb", "d": ["To repeat the same idea needlessly in different words."], "src": "iwb"}
+{"w": "tautologous", "pos": "adjective", "d": ["Needlessly repeating the same idea in different words."], "src": "iwb"}
+{"w": "tautomeric", "pos": "adjective", "d": ["Relating to or exhibiting tautomerism."], "src": "iwb"}
+{"w": "tautomerism", "pos": "noun", "d": ["A form of isomerism in which two compounds readily change into each other, usually by the shift of a hydrogen atom."], "src": "iwb"}
+{"w": "tautoousian", "pos": "adjective", "d": ["Having the same essence or substance as another."], "src": "iwb"}
+{"w": "tautoousious", "pos": "adjective", "d": ["Of the same substance or essence."], "src": "iwb"}
+{"w": "tautophonical", "pos": "adjective", "d": ["Characterized by the repetition of the same sound."], "src": "iwb"}
+{"w": "tautophony", "pos": "noun", "d": ["The repetition of the same sound in successive words or syllables."], "src": "iwb"}
+{"w": "tautozonal", "pos": "adjective", "d": ["Belonging to the same crystal zone."], "src": "iwb"}
+{"w": "tavern", "pos": "noun", "d": ["A place where alcoholic drinks are served and often meals as well."], "src": "iwb"}
+{"w": "taw", "pos": "noun", "d": ["A large playing marble used to shoot at other marbles."], "src": "iwb"}
+{"w": "tawdriness", "pos": "noun", "d": ["The quality of being showy and cheap in appearance."], "src": "iwb"}
+{"w": "tawery", "pos": "noun", "d": ["A place where animal hides are dressed or tanned."], "src": "iwb"}
+{"w": "tawniness", "pos": "noun", "d": ["The quality of being tawny in color."], "src": "iwb"}
+{"w": "tawny", "pos": "adjective", "d": ["Of a yellowish-brown color, like tanned leather."], "src": "iwb"}
+{"w": "tax certificate", "pos": "phrase", "d": ["An official document certifying that taxes on a property have been paid."], "src": "iwb"}
+{"w": "taxaspidean", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taxel", "pos": "noun", "d": ["A single sensing element in a tactile array, like a pixel for the sense of touch."], "src": "iwb"}
+{"w": "taxeopoda", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taxiarch", "pos": "noun", "d": ["A commander of a taxis, a military unit of ancient Greece."], "src": "iwb"}
+{"w": "taxicorn", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taxidermic", "pos": "adjective", "d": ["Relating to taxidermy."], "src": "iwb"}
+{"w": "taxidermist", "pos": "noun", "d": ["A person whose work is the preservation and mounting of animal skins."], "src": "iwb"}
+{"w": "taxidermy", "pos": "noun", "d": ["The art of preparing and preserving the skins of animals so they look lifelike."], "src": "iwb"}
+{"w": "taxine", "pos": "noun", "d": ["A poisonous alkaloid obtained from the leaves of the yew tree."], "src": "iwb"}
+{"w": "taxis", "pos": "noun", "d": ["The movement of a living organism toward or away from a stimulus.", "Orderly arrangement or disposition."], "src": "iwb"}
+{"w": "taxonomic", "pos": "adjective", "d": ["Relating to the science of classifying organisms."], "src": "iwb"}
+{"w": "taxonomist", "pos": "noun", "d": ["A specialist in the classification of organisms."], "src": "iwb"}
+{"w": "taxonomy", "pos": "noun", "d": ["The science of classifying organisms into groups based on shared traits."], "src": "iwb"}
+{"w": "taxor", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "taylor-white process", "pos": "phrase", "d": ["A process for heat-treating high-speed tool steel to harden it."], "src": "iwb"}
+{"w": "tayra", "pos": "noun", "d": ["A weasel-like mammal of Central and South America with dark fur."], "src": "iwb"}
+{"w": "tazel", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tazza", "pos": "noun", "d": ["A shallow ornamental cup or dish mounted on a stem."], "src": "iwb"}
+{"w": "tchawytcha", "pos": "noun", "d": ["The chinook salmon, the largest salmon of the Pacific coast."], "src": "iwb"}
+{"w": "tchick", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "te deum", "pos": "phrase", "d": ["A Christian hymn of praise beginning with the words Te Deum laudamus."], "src": "iwb"}
+{"w": "te-hee", "pos": "interjection", "d": ["An exclamation imitating a giggling or tittering laugh."], "src": "iwb"}
+{"w": "tea-saucer", "pos": "noun", "d": ["A small shallow dish set under a teacup to catch drips."], "src": "iwb"}
+{"w": "teache", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tead", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "teade", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "teagle", "pos": "noun", "d": ["A hoisting tackle or small crane for lifting goods."], "src": "iwb"}
+{"w": "teak", "pos": "noun", "d": ["A tropical Asian tree whose hard, durable wood is used for shipbuilding and furniture."], "src": "iwb"}
+{"w": "teal", "pos": "noun", "d": ["A small freshwater duck.", "A greenish-blue color like that of the duck's wing markings."], "src": "iwb"}
+{"w": "teamster", "pos": "noun", "d": ["A driver of a truck for a living, originally a driver of a team of draft animals."], "src": "iwb"}
+{"w": "tear-falling", "pos": "adjective", "d": ["Shedding tears; weeping."], "src": "iwb"}
+{"w": "tear-thumb", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "teary", "pos": "adjective", "d": ["Full of or wet with tears."], "src": "iwb"}
+{"w": "tease", "pos": "verb", "d": ["To mock or provoke someone in a playful or unkind way."], "src": "iwb"}
+{"w": "teasel", "pos": "noun", "d": ["A tall prickly plant with spiny flower heads.", "A frame set with teasel heads used to raise the nap on cloth."], "src": "iwb"}
+{"w": "teat", "pos": "noun", "d": ["The nipple of a female mammal from which milk is drawn."], "src": "iwb"}
+{"w": "teaze-hole", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "teazel", "pos": "noun", "d": ["A variant spelling of teasel."], "src": "iwb"}
+{"w": "teazer", "pos": "noun", "d": ["A person who teases.", "A variant spelling of teasel."], "src": "iwb"}
+{"w": "teazle", "pos": "noun", "d": ["A variant spelling of teasel."], "src": "iwb"}
+{"w": "tebeth", "pos": "noun", "d": ["The tenth month of the Jewish ecclesiastical year."], "src": "iwb"}
+{"w": "techily", "pos": "adverb", "d": ["In a touchy or irritable manner."], "src": "iwb"}
+{"w": "techiness", "pos": "noun", "d": ["The quality of being touchy or easily irritated."], "src": "iwb"}
+{"w": "technic", "pos": "noun", "d": ["A technical method, detail, or point of technique."], "src": "iwb"}
+{"w": "technicological", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "techniphone", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "technism", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "technography", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "technologic", "pos": "adjective", "d": ["Relating to technology."], "src": "iwb"}
+{"w": "technologist", "pos": "noun", "d": ["A specialist in technology or in the application of a technical science."], "src": "iwb"}
+{"w": "techy", "pos": "adjective", "d": ["Easily irritated; touchy."], "src": "iwb"}
+{"w": "tectibranch", "pos": "noun", "d": ["A marine gastropod whose gills are covered by the mantle, such as a sea slug."], "src": "iwb"}
+{"w": "tectibranchia", "pos": "noun", "d": ["An order of marine gastropods with the gills covered by the mantle."], "src": "iwb"}
+{"w": "tectibranchiata", "pos": "noun", "d": ["A group of marine gastropods with the gills covered by the mantle."], "src": "iwb"}
+{"w": "tectibranchiate", "pos": "adjective", "d": ["Belonging to the Tectibranchia; having the gills covered by the mantle."], "src": "iwb"}
+{"w": "tectly", "pos": "", "d": [], "src": "iwb", "unsure": true}
+{"w": "tectology", "pos": "noun", "d": ["The study of the organization and structure of systems."], "src": "iwb"}
+{"w": "tectonic", "pos": "adjective", "d": ["Relating to the structure of the earth's crust.", "Relating to building or construction."], "src": "iwb"}
+{"w": "tectorial", "pos": "adjective", "d": ["Serving as a cover or roof."], "src": "iwb"}
+{"w": "tectrices", "pos": "noun", "d": ["The small feathers that cover the bases of a bird's larger wing and tail feathers."], "src": "iwb"}
 {"w": "-genous", "pos": "adjective", "d": ["Full of -gen; having the nature of -gen."], "src": "template", "rule": "suffix:ous:-gen"}
 {"w": "-ics", "pos": "noun", "d": ["Plural of -ic."], "src": "template", "rule": "suffix:s:-ic"}
 {"w": "-wards", "pos": "noun", "d": ["Plural of -ward."], "src": "template", "rule": "suffix:s:-ward"}

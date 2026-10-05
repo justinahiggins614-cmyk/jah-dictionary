@@ -22,5 +22,16 @@ new definitions every day. Look up a word that is on file.</p>
 <a class="btn" href="./">Back to the Dictionary</a>
 <a class="btn" href="./?q=">Search the Words</a>
 </p>
+<script src="js/signin.js"></script>
+<script>
+(function () {
+  var mount = document.querySelector("header .booksearch") ||
+              document.querySelector("nav.jtabbar") ||
+              document.querySelector("header nav") ||
+              document.querySelector("header") ||
+              document.body;
+  if (window.JAHProfile && JAHProfile.ui) JAHProfile.ui.renderButton(mount);
+})();
+</script>
 </body>
 </html>

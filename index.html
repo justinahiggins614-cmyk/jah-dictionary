@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script>try{if(localStorage.getItem('jah-theme')==='dark'){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}</script>
+<script src="js/signin.js"></script>
+<script>/* profile-aware storage wrapper: signed out = plain localStorage (unchanged); signed in = per-profile namespace */
+var PS=(typeof JAHProfile!=="undefined"&&JAHProfile)?JAHProfile.store:{get:function(k){try{return localStorage.getItem(k)}catch(e){return null}},set:function(k,v){try{localStorage.setItem(k,v)}catch(e){}},remove:function(k){try{localStorage.removeItem(k)}catch(e){}}};
+function jahChatKey(base){return (typeof JAHProfile!=="undefined"&&JAHProfile)?JAHProfile.chatKey(base):base;}</script>
+<script>try{if(PS.get('jah-theme')==='dark'){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}</script>
 <style>
 html[data-theme="dark"]{filter:invert(1) hue-rotate(180deg)}
 html[data-theme="dark"] img,html[data-theme="dark"] video,html[data-theme="dark"] canvas,html[data-theme="dark"] svg{filter:invert(1) hue-rotate(180deg)}
@@ -293,8 +297,8 @@ function verifyRecord(){var e=window._e,D=window._D;var r=JAHDict.verify(e,D);va
    permanent report ID and can be copied/exported for review. Dictionary
    definitions are versioned (definition version on the entry); a report
    proposes a change, it never silently replaces a record. */
-function jahdReports(){try{return JSON.parse(localStorage.getItem("jahd_reports")||"[]")}catch(e){return[]}}
-function jahdSaveReports(r){try{localStorage.setItem("jahd_reports",JSON.stringify(r))}catch(e){}}
+function jahdReports(){try{return JSON.parse(PS.get("jahd_reports")||"[]")}catch(e){return[]}}
+function jahdSaveReports(r){try{PS.set("jahd_reports",JSON.stringify(r))}catch(e){}}
 function openReport(){
  var e=window._e,box=document.getElementById("reportbox");if(!box)return;
  var types=["Wrong definition","Wrong spelling / word form","Wrong part of speech","Broken link","Wrong pronunciation","Wrong related word","Missing definition (word is pending)","Other"];
@@ -998,10 +1002,10 @@ function teacherReply(q,e,D,pos){
  var w=e.w,low=String(q).toLowerCase(),senses=Array.isArray(e.d)?e.d:[e.d];
  function firstSense(){var e=window._e;if(!e||!e.d||!e.d.length)return "(the Signature Dictionary definition is still being written)";return cleanSense(senses[0]||"").slice(0,300)}
  if(/^(hi|hello|hey|yo|good (morning|afternoon|evening))\b/.test(low)){
-  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),'word:'+(e.w||''))).reply(q);
+  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),jahChatKey('word:'+(e.w||'')))).reply(q);
   return "Hello! I'm your personal AI teacher for the word \u201c"+w+"\u201d. Ask me what it means, how to use it in a sentence, how to spell it, what its stamp is \u2014 anything about this word.";}
  if(/thank/.test(low)){
-  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),'word:'+(e.w||''))).reply(q);
+  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),jahChatKey('word:'+(e.w||'')))).reply(q);
   return "You're very welcome! Words are wonderful things. Ask me anything else about \u201c"+w+"\u201d.";}
  if(/duties|what do you do|what can you do|your job|your role|your abilities|help me/.test(low)){
   if(window.JAHtalk)return JAHtalk.duties(jahProfile(e));}
@@ -1024,7 +1028,7 @@ function teacherReply(q,e,D,pos){
  if(/pronounce|speak|say it|read/.test(low))return "Tap \u201cHear word\u201d to hear \u201c"+w+"\u201d spoken, or \u201cRead aloud\u201d and I will read the whole entry to you \u2014 you can change the speed too.";
  if(/who|jah|iwb|source|where.*from/.test(low))return "The normal definitions on this page are written fresh for The Signature Dictionary. The deterministic definition, the stamp ("+e.st+"), the word program, and I \u2014 your teacher \u2014 are made by the JAH system.";
  if(/mean|defin|what is|what does|what are|define/.test(low))return "In plain words: "+firstSense()+"\n\nThat's the Signature Dictionary sense. The deterministic reading adds that \u201c"+w+"\u201d is a "+D.syl+"-syllable form of "+D.len+" letters with alphabetic sum "+D.sum+" (root "+D.dr+").";
- if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),'word:'+(e.w||''))).reply(q);
+ if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),jahChatKey('word:'+(e.w||'')))).reply(q);
  return "As your teacher for \u201c"+w+"\u201d, here's the heart of it: "+firstSense()+"\n\nYou can also ask me for a sentence using it, how to spell it, its syllables, its stamp, or where it appears in the catalogs.";
 }
 function wireTeacher(e,D,pos){
@@ -1275,25 +1279,25 @@ document.addEventListener("DOMContentLoaded",route);
 
 <button id="jah-theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode">&#9681;</button>
 <script>
-(function(){try{var b=document.getElementById('jah-theme-toggle');if(!b)return;function upd(){b.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600':'\u25d0';}upd();b.addEventListener('click',function(){var dark=document.documentElement.getAttribute('data-theme')!=='dark';document.documentElement.setAttribute('data-theme',dark?'dark':'');try{localStorage.setItem('jah-theme',dark?'dark':'');}catch(e){}upd();});}catch(e){}})();
+(function(){try{var b=document.getElementById('jah-theme-toggle');if(!b)return;function upd(){b.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600':'\u25d0';}upd();b.addEventListener('click',function(){var dark=document.documentElement.getAttribute('data-theme')!=='dark';document.documentElement.setAttribute('data-theme',dark?'dark':'');try{PS.set('jah-theme',dark?'dark':'');}catch(e){}upd();});}catch(e){}})();
 </script>
 <script>
 /* JAH session restore: scroll + tabs + last record. localStorage only, nothing leaves the device. */
 (function(){try{
 var path=location.pathname.replace(/\/$/,'')||'/';
 var KEY='jah-session:'+path;
-var state={};try{state=JSON.parse(localStorage.getItem(KEY)||'{}');}catch(e){state={};}
+var state={};try{state=JSON.parse(PS.get(KEY)||'{}');}catch(e){state={};}
 var deep=/[?&](spec|patent|dossier|w|id|dial|q|query|term|word)=/i.test(location.search||'')||location.hash.length>1;
 if(state.y&&!deep){addEventListener('load',function(){setTimeout(function(){try{window.scrollTo(0,state.y);}catch(e){}},60);});}
-var t=null;addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;try{state.y=window.scrollY||window.pageYOffset;localStorage.setItem(KEY,JSON.stringify(state));}catch(e){}},600);},{passive:true});
+var t=null;addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;try{state.y=window.scrollY||window.pageYOffset;PS.set(KEY,JSON.stringify(state));}catch(e){}},600);},{passive:true});
 var tabs=[],sels=['[role="tab"]','.tab-button','.tabbtn','button.tab','a.tab','.wikitabs button'];
 for(var si=0;si<sels.length;si++){var n=document.querySelectorAll(sels[si]);for(var i=0;i<n.length;i++){if(tabs.indexOf(n[i])<0)tabs.push(n[i]);}}
 if(tabs.length){if(state.tab!=null&&tabs[state.tab]){addEventListener('load',function(){setTimeout(function(){try{tabs[state.tab].click();}catch(e){}},150);});}
-for(var k=0;k<tabs.length;k++){(function(el,i){el.addEventListener('click',function(){try{state.tab=i;localStorage.setItem(KEY,JSON.stringify(state));}catch(e){}});})(tabs[k],k);}}
+for(var k=0;k<tabs.length;k++){(function(el,i){el.addEventListener('click',function(){try{state.tab=i;PS.set(KEY,JSON.stringify(state));}catch(e){}});})(tabs[k],k);}}
 var RP=/[?&](spec|patent|dossier|w|id|dial)=([^&#]+)/i.exec(location.search||'');
-if(RP){try{localStorage.setItem('jah-last-record',decodeURIComponent(RP[2]));}catch(e){}}
-document.addEventListener('click',function(ev){var a=ev.target&&ev.target.closest?ev.target.closest('a[href]'):null;if(!a)return;var m=/[?&](spec|patent|dossier|w|id|dial)=([^&#]+)/i.exec(a.getAttribute('href')||'');if(m){try{localStorage.setItem('jah-last-record',decodeURIComponent(m[2]));}catch(e){}}},true);
-if(!deep){var last=null;try{last=localStorage.getItem('jah-last-record');}catch(e){}
+if(RP){try{PS.set('jah-last-record',decodeURIComponent(RP[2]));}catch(e){}}
+document.addEventListener('click',function(ev){var a=ev.target&&ev.target.closest?ev.target.closest('a[href]'):null;if(!a)return;var m=/[?&](spec|patent|dossier|w|id|dial)=([^&#]+)/i.exec(a.getAttribute('href')||'');if(m){try{PS.set('jah-last-record',decodeURIComponent(m[2]));}catch(e){}}},true);
+if(!deep){var last=null;try{last=PS.get('jah-last-record');}catch(e){}
 if(last){addEventListener('load',function(){setTimeout(function(){try{var el=document.querySelector('[data-id="'+last+'"],[id*="'+last+'"],a[href*="'+last+'"]');if(el)el.scrollIntoView({block:'center'});}catch(e){}},300);});}}
 }catch(e){}})();
 </script>
@@ -1374,8 +1378,8 @@ if(last){addEventListener('load',function(){setTimeout(function(){try{var el=doc
    the overlay teaches. One "OK — Got it" button dismisses; ? Guide re-opens anytime. */
 (function(){
 "use strict";
-function lsGet(k){try{return localStorage.getItem(k);}catch(e){return null;}}
-function lsSet(k,v){try{localStorage.setItem(k,v);}catch(e){}}
+function lsGet(k){try{return PS.get(k);}catch(e){return null;}}
+function lsSet(k,v){try{PS.set(k,v);}catch(e){}}
 var SEEN="jah-tour-seen-dictionary";
 function isHome(){var s=location.search||"";return !(/[?&](w|dict|id|q|az|tour)=/.test(s));}
 function openWelcome(){
@@ -1409,6 +1413,16 @@ document.addEventListener("DOMContentLoaded",function(){
   openWelcome();
  },900);
 });
+})();
+</script>
+<script>
+(function () {
+  var mount = document.querySelector("header .booksearch") ||
+              document.querySelector("nav.jtabbar") ||
+              document.querySelector("header nav") ||
+              document.querySelector("header") ||
+              document.body;
+  if (window.JAHProfile && JAHProfile.ui) JAHProfile.ui.renderButton(mount);
 })();
 </script>
 </body>

@@ -332,11 +332,18 @@ function levenshtein(a,b,cap){var la=a.length,lb=b.length;
   if(rowmin>cap)return cap+1;var t=prev;prev=cur;cur=t}
  return prev[lb]}
 function suggest(key,maxN){maxN=maxN||5;var out=[];if(!key)return out;
- var fc=key.charAt(0),n=DB.idx.length,i=bsLower(fc),checked=0;
- for(;i<n&&checked<6000;i++){var k=DB.idx[i][0];if(k.charAt(0)!==fc)break;checked++;
-  if(Math.abs(k.length-key.length)>2)continue;
+ /* centered two-pointer scan from the typed key: the old scan started at the
+    letter bucket's first row and capped at 6000 rows, so common words deep in
+    a big bucket (apple is ~68k rows into "a") never got "did you mean" hits. */
+ var n=DB.idx.length,mid=bsLower(key),a=mid-1,b=mid,checked=0,seen={};
+ function consider(k){if(seen[k])return;seen[k]=1;
+  if(Math.abs(k.length-key.length)>2)return;
   var d=levenshtein(key,k,2);if(d>0&&d<=2)out.push([d,k])}
- out.sort(function(a,b){return a[0]-b[0]||(a[1]<b[1]?-1:1)});
+ while(checked<6000&&(a>=0||b<n)){
+  if(a>=0){consider(DB.idx[a][0]);a--;checked++}
+  if(b<n){consider(DB.idx[b][0]);b++;checked++}
+  if(out.length>=40)break}
+ out.sort(function(x,y){return x[0]-y[0]||(x[1]<y[1]?-1:1)});
  return out.slice(0,maxN).map(function(x){return x[1]})}
 function nearbyWords(key,n){n=n||6;var i=bsLower(key),out=[],a=i-1,b=i;
  while(out.length<n&&(a>=0||b<DB.idx.length)){if(a>=0){out.push(DB.idx[a][0]);a--}if(out.length<n&&b<DB.idx.length){out.push(DB.idx[b][0]);b++}}
@@ -626,6 +633,7 @@ async function vHome(app){
  '<div class="stat"><div class="n">'+Number(ec).toLocaleString()+'</div><div class="l">Total entries</div></div></div></details>';
  if(s.last_updated)h+='<p class="jahstatus">Last updated: '+esc(String(s.last_updated))+' &middot; counts refresh automatically as the dictionary grows.</p>';
  h+='<div class="wotd"><h2 class="sec" style="margin-top:0">Word of the day</h2><div id="wotd"><p style="font-family:Arial">Choosing today&rsquo;s word...</p></div></div>';
+ h+=finderBarHTML();
  h+='<p style="font-family:Arial;font-size:1.06em"><b><a href="az/a.html">Browse the complete A&ndash;Z word archive</a></b> &mdash; every headword in collapsible letter lists, each with its phonetic construction and a deep link to its full entry.</p>';
  h+='<details class="jahd"><summary>What counts as an entry?</summary><p>Every lexical item in the Signature Dictionary headword corpus: common words, inflected forms, archaic and obscure roots, slang, abbreviations, prefixes and suffixes, multiword phrases &mdash; plus catalog terms (spec and patent titles from the JAH network). Each entry is one headword with its numbered senses. Entries marked &ldquo;editors are still writing&rdquo; are real headwords awaiting their authored definition; the deterministic reading is ready for every entry.</p></details>';
  h+='<p class="note">Definitions are written fresh for The Signature Dictionary. JAH deterministic definitions, stamps, programs, and AI teachers are generated live by the JAH system and are the same on every machine, every time.</p>';
@@ -985,10 +993,10 @@ function teacherReply(q,e,D,pos){
  var w=e.w,low=String(q).toLowerCase(),senses=Array.isArray(e.d)?e.d:[e.d];
  function firstSense(){var e=window._e;if(!e||!e.d||!e.d.length)return "(the Signature Dictionary definition is still being written)";return cleanSense(senses[0]||"").slice(0,300)}
  if(/^(hi|hello|hey|yo|good (morning|afternoon|evening))\b/.test(low)){
-  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),jahChatKey('word:'+(e.w||'')))).reply(q);
+  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),jahChatKey('word:'+(e.w||''))).reply(q);
   return "Hello! I'm your personal AI teacher for the word \u201c"+w+"\u201d. Ask me what it means, how to use it in a sentence, how to spell it, what its stamp is \u2014 anything about this word.";}
  if(/thank/.test(low)){
-  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),jahChatKey('word:'+(e.w||'')))).reply(q);
+  if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),jahChatKey('word:'+(e.w||''))).reply(q);
   return "You're very welcome! Words are wonderful things. Ask me anything else about \u201c"+w+"\u201d.";}
  if(/duties|what do you do|what can you do|your job|your role|your abilities|help me/.test(low)){
   if(window.JAHtalk)return JAHtalk.duties(jahProfile(e));}
@@ -1011,7 +1019,7 @@ function teacherReply(q,e,D,pos){
  if(/pronounce|speak|say it|read/.test(low))return "Tap \u201cHear word\u201d to hear \u201c"+w+"\u201d spoken, or \u201cRead aloud\u201d and I will read the whole entry to you \u2014 you can change the speed too.";
  if(/who|jah|iwb|source|where.*from/.test(low))return "The normal definitions on this page are written fresh for The Signature Dictionary. The deterministic definition, the stamp ("+e.st+"), the word program, and I \u2014 your teacher \u2014 are made by the JAH system.";
  if(/mean|defin|what is|what does|what are|define/.test(low))return "In plain words: "+firstSense()+"\n\nThat's the Signature Dictionary sense. The deterministic reading adds that \u201c"+w+"\u201d is a "+D.syl+"-syllable form of "+D.len+" letters with alphabetic sum "+D.sum+" (root "+D.dr+").";
- if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),jahChatKey('word:'+(e.w||'')))).reply(q);
+ if(window.JAHtalk)return JAHtalk.chatFor(jahProfile(e),jahChatKey('word:'+(e.w||''))).reply(q);
  return "As your teacher for \u201c"+w+"\u201d, here's the heart of it: "+firstSense()+"\n\nYou can also ask me for a sentence using it, how to spell it, its syllables, its stamp, or where it appears in the catalogs.";
 }
 function wireTeacher(e,D,pos){

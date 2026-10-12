@@ -52,6 +52,22 @@ STATSPATH = os.path.join(ROOT, "data", "index", "stats.json")
 BASE = "https://justinahiggins614-cmyk.github.io/jah-dictionary/"
 TODAY = None
 
+SIGTTS_PATH = os.path.join(os.path.dirname(ROOT), "hidden_files", "sigtts-helper.js")
+
+
+def sigtts_script():
+    """Shared read-aloud dead-voice guard (SigTTS), injected verbatim.
+
+    window.speechSynthesis may EXIST but be dead (notably the Facebook
+    in-app browser on Android: speak() silently does nothing, voices
+    never load). The helper probes aliveness, watches each utterance,
+    and falls back to online-audio tiers when the engine is dead or
+    stalls. Loaded from disk at build time so the helper stays the
+    single source of truth across the network.
+    """
+    with open(SIGTTS_PATH, "r", encoding="utf-8") as f:
+        return "<script>\n" + f.read().rstrip("\n") + "\n</script>"
+
 
 def log(msg):
     print(msg, flush=True)
@@ -478,6 +494,7 @@ BEST_HTML = """<section class="bestofbest" aria-labelledby="besth">
 </div>
 </details>
 </section>
+@@SIGTTS@@
 <script>
 (function(){
 "use strict";
@@ -485,21 +502,20 @@ var plain="Best of the Best — spring, noun. JAH-DICT-W-085532. Sense 1: The se
 var dl="spring — noun — JAH-DICT-W-085532 — The Signature Dictionary\\n\\n1. The season between winter and summer when plants begin to grow.\\n2. A coiled piece of metal that stretches and returns to its shape, used to absorb shock or store energy.\\n3. A place where water flows naturally out of the ground.";
 function copyText(t,btn){function done(ok){var o=btn.textContent;btn.textContent=ok?"Copied ✓":"Copy failed";setTimeout(function(){btn.textContent=o;},1500);}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(function(){done(true);},function(){done(false);});}else{var ta=document.createElement("textarea");ta.value=t;document.body.appendChild(ta);ta.select();try{document.execCommand("copy");done(true);}catch(e){done(false);}document.body.removeChild(ta);}}
 function download(name,text){try{var url=URL.createObjectURL(new Blob([text],{type:"text/plain"}));var a=document.createElement("a");a.href=url;a.download=name;document.body.appendChild(a);a.click();setTimeout(function(){document.body.removeChild(a);try{URL.revokeObjectURL(url);}catch(e){}},800);}catch(e){}}
-var speakTimer=null;
-function speakStop(){try{if(window.speechSynthesis)window.speechSynthesis.cancel();}catch(e){}if(speakTimer){clearTimeout(speakTimer);speakTimer=null;}}
+var speakBusy=false;
+function speakStop(){try{SigTTS.stop();}catch(e){}speakBusy=false;}
 var speakBtn=document.getElementById("best-speak");
 speakBtn.onclick=function(){
-  speakStop();
   try{
-    if(!("speechSynthesis" in window)){speakBtn.textContent="No voice on this device";setTimeout(function(){speakBtn.textContent="🔊 Read aloud";},1800);return;}
-    if(window.speechSynthesis.speaking){speakBtn.textContent="🔊 Read aloud";return;}
-    var u=new SpeechSynthesisUtterance(plain);
+    if(speakBusy){speakStop();speakBtn.textContent="🔊 Read aloud";return;}
+    SigTTS.stop();
+    speakBusy=true;
     speakBtn.textContent="⏹ Stop";
-    u.onend=function(){speakBtn.textContent="🔊 Read aloud";};
-    u.onerror=function(){speakBtn.textContent="🔊 Read aloud";};
-    window.speechSynthesis.speak(u);
-    speakTimer=setTimeout(function(){speakBtn.textContent="🔊 Read aloud";},30000);
-  }catch(e){speakBtn.textContent="🔊 Read aloud";}
+    SigTTS.speak(plain,{rate:0.95},function(ok){
+      speakBusy=false;
+      speakBtn.textContent="🔊 Read aloud";
+    });
+  }catch(e){speakBusy=false;speakBtn.textContent="🔊 Read aloud";}
 };
 document.getElementById("best-copy").onclick=function(){copyText(dl,this);};
 document.getElementById("best-dl").onclick=function(){download("spring-JAH-DICT-W-085532.txt",dl);};
@@ -509,6 +525,7 @@ document.getElementById("best-dl").onclick=function(){download("spring-JAH-DICT-
 
 def write_static_az(shards, total_w, total_e):
     os.makedirs(AZDIR, exist_ok=True)
+    sigtts_tag = sigtts_script()
     letters = sorted(shards)
     links = " ".join(
         '<a href="%s.html">%s</a>' % (L, L.upper() if L != "0" else "#")
@@ -530,6 +547,7 @@ def write_static_az(shards, total_w, total_e):
         page = page.replace("@@COUNT@@", az_count_html(L, len(rows), total_w))
         page = page.replace("@@SEARCH@@", az_search_html(len(rows), total_e))
         page = page.replace("@@BEST@@", BEST_HTML)
+        page = page.replace("@@SIGTTS@@", sigtts_tag)
         page = page.replace("@@GROUPS@@", groups_html(rows))
         page = page.replace("@@SHARDJSON@@",
                             "../data/lexical/shard-%s.json" % L)

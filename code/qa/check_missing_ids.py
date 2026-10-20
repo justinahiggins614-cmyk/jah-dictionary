@@ -18,7 +18,7 @@ DATADIR = os.path.join(ROOT, "data", "dict")
 def main():
     w_nums, t_nums = set(), set()
     bad_fmt = 0
-    pat = re.compile(r"^JAH-DICT-([WT])-(\d{6})$")
+    pat = re.compile(r"^JAH-DICT-([WT])-(\d{6,})$")
     for cf in sorted(os.listdir(DATADIR)):
         if not (cf.startswith("dict-c") and cf.endswith(".jsonl.gz")):
             continue

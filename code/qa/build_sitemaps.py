@@ -186,6 +186,11 @@ def main():
     print("wrote %s (%d rows)" % (csv_path, len(headwords)))
     files = write_word_sitemaps(headwords)
     files = [write_pages_sitemap()] + files
+    # the per-letter machine JSON shards live in sitemap-lexical.xml (built by
+    # code/build_lexical_shards.py); keep it registered in the index — its own
+    # idempotent registration is wiped when this module rewrites the index.
+    if os.path.exists(os.path.join(ROOT, "sitemap-lexical.xml")):
+        files.append("sitemap-lexical.xml")
     print("sitemap files: " + ", ".join(files))
     write_index(files)
     print("wrote sitemap-index.xml")

@@ -4,8 +4,10 @@
 Words: headword list with original IWB Dictionary definitions (data/definitions/all.jsonl);
   code/dict/build/dictionary.json  ->  build cache code/dict/build/words.jsonl
 Terms: one dictionary entry per spec (signature-one-archive + ALL its shard clones,
-  enumerated dynamically so new shards are picked up automatically) and per public
-  patent (cyber-patent-catalog index).
+  enumerated dynamically so new shards are picked up automatically), per public
+  patent (cyber-patent-catalog index), and per JAH Database (jah-databases
+  manifest — db terms are re-derived from the manifest at build time, so full
+  rebuilds keep them).
 
 Outputs:
   data/dict/dict-cNNNNN.jsonl.gz   (1000 entries per chunk, sorted by key)
@@ -51,6 +53,8 @@ def spec_index_paths():
 
 SPEC_IDXS = None  # resolved per-run via spec_index_paths()
 PAT_IDX = os.path.expanduser("~/workspace/cyber-patent-catalog/data/patents.idx.json.gz")
+DB_MANIFEST = os.path.expanduser("~/workspace/jah-databases/data/manifest.json")
+DB_BASE_URL = "https://justinahiggins614-cmyk.github.io/jah-databases/db/"
 CHUNK_SIZE = 1000
 
 
@@ -199,6 +203,64 @@ def patent_rows():
     return out
 
 
+def db_desc_sentence(db):
+    """The definition's descriptive sentence from the manifest tagline.
+    Wording matches the Q1d lane exactly so rebuilds don't churn definitions
+    whose manifest data hasn't changed."""
+    tag = (db.get("tagline") or "").strip()
+    if tag:
+        if not tag.endswith("."):
+            tag += "."
+        return tag
+    # Fallback for tagline-less databases: derive from the name.
+    name = (db.get("name") or "database").strip()
+    core = re.sub(r"\s+[Dd]atabase\s*$", "", name)
+    return "A database of %s records." % core
+
+
+def build_db_definition(db):
+    """Definition text for one database term. Deterministic from the
+    manifest fields (name, tagline, record_kind, record_count) — the same
+    wording the Q1d lane shipped, so a rebuild reproduces identical text for
+    unchanged manifest rows."""
+    name = db["name"]
+    slug = db["slug"]
+    count = int(db.get("record_count") or 0)
+    kind = (db.get("record_kind") or "").strip()
+    sent = db_desc_sentence(db)
+    if kind:
+        holds = "It holds {:,} {} records,".format(count, kind)
+    else:
+        holds = "It holds {:,} records,".format(count)
+    return ("n. A JAH Database (Property of Justin Addam Higgins): %s %s "
+            "generated boundlessly and archive-kept, marching toward one "
+            "million records. Live at %s%s/." % (sent, holds, DB_BASE_URL, slug))
+
+
+def db_rows():
+    """Stream one term per database from the JAH Databases manifest — the
+    durable source for rt='db' terms (rid = db slug). Re-derived at build
+    time so full rebuilds keep the db terms; new databases added since the
+    last build get new terms with new stamps (continued from the highest
+    shipped T-number by the caller)."""
+    with open(DB_MANIFEST, encoding="utf-8") as f:
+        manifest = json.load(f)
+    dbs = manifest.get("databases") or []
+    log("manifest databases: %d" % len(dbs))
+    slugs = [d.get("slug") for d in dbs]
+    assert all(slugs) and len(set(slugs)) == len(slugs), "slug problem in db manifest"
+    assert all(d.get("name") for d in dbs), "nameless database in db manifest"
+    out = []
+    for db in dbs:
+        name = db["name"]
+        out.append({
+            "w": name, "k": "t", "rt": "db", "rid": db["slug"],
+            "key": name.lower(), "d": build_db_definition(db), "cpc": "",
+        })
+    out.sort(key=lambda e: e["key"])
+    return out
+
+
 def load_old_term_stamps():
     """Re-read term stamps from the currently shipped chunks: {(rt, rid): stamp}
     plus the highest shipped T-number. Stamps are permanent entry IDs and are
@@ -285,7 +347,8 @@ def build_terms(old_stamps, next_t):
             "key": title.lower(), "d": dtext, "cpc": cpc,
         })
     pat_terms.sort(key=lambda e: str(e["rid"]))
-    terms = spec_terms + pat_terms
+    db_terms = db_rows()
+    terms = spec_terms + pat_terms + db_terms
     for e in terms:
         key = (e["rt"], e["rid"])
         if key in old_stamps:
@@ -296,7 +359,7 @@ def build_terms(old_stamps, next_t):
     log("term stamps reused: %d, newly assigned: %d" %
         (sum(1 for e in terms if (e["rt"], e["rid"]) in old_stamps),
          sum(1 for e in terms if (e["rt"], e["rid"]) not in old_stamps)))
-    return terms, spec_titles, pat_titles, len(spec_terms), len(pat_terms)
+    return terms, spec_titles, pat_titles, len(spec_terms), len(pat_terms), len(db_terms)
 
 
 def write_chunks(entries):
@@ -588,6 +651,23 @@ def verify(index, ipath):
             break
     assert pat_e is not None, "no patent term found"
     log("patent term resolves: OK (%s | %s)" % (pat_e["rid"], pat_e["w"][:60]))
+    # 4b. spot-check one database term (rt="db" — must survive rebuilds)
+    db_e = None
+    for r in index:
+        e_cname, e_line = r[1], r[2]
+        with gzip.open(os.path.join(DATADIR, e_cname), "rt", encoding="utf-8") as f:
+            for ln, line in enumerate(f):
+                if ln == e_line:
+                    e = json.loads(line)
+                    if e.get("k") == "t" and e.get("rt") == "db":
+                        db_e = e
+                    break
+        if db_e:
+            break
+    assert db_e is not None, "no database (db) term found"
+    assert db_e.get("st", "").startswith("JAH-DICT-T-"), "db term stamp malformed"
+    log("database term resolves: OK (%s | %s | %s)" %
+        (db_e["rid"], db_e["w"][:60], db_e["st"]))
     log("ALL VERIFICATIONS PASSED")
 
 
@@ -607,7 +687,8 @@ def main():
     log("enrichment complete")
     old_stamps, max_t = load_old_term_stamps()
     log("old term stamps loaded: %d (max T-number %d)" % (len(old_stamps), max_t))
-    terms, spec_titles, pat_titles, n_spec_terms, n_pat_terms = build_terms(old_stamps, max_t + 1)
+    terms, spec_titles, pat_titles, n_spec_terms, n_pat_terms, n_db_terms = \
+        build_terms(old_stamps, max_t + 1)
     wordset = set(e["key"] for e in words)
     spec_counts, pat_counts = build_counts(wordset, spec_titles, pat_titles)
     for e in words:
@@ -679,8 +760,8 @@ def main():
     for dp, _, fns in os.walk(os.path.join(ROOT, "data")):
         for n in fns:
             total += os.path.getsize(os.path.join(dp, n))
-    log("RESULT: words=%d spec_terms=%d patent_terms=%d chunks=%d total_entries=%d data_size=%.1fMB" %
-        (len(words), n_spec_terms, n_pat_terms, n_chunks, len(entries), total / 1048576.0))
+    log("RESULT: words=%d spec_terms=%d patent_terms=%d db_terms=%d chunks=%d total_entries=%d data_size=%.1fMB" %
+        (len(words), n_spec_terms, n_pat_terms, n_db_terms, n_chunks, len(entries), total / 1048576.0))
 
 
 if __name__ == "__main__":

@@ -1,17 +1,16 @@
 {
  "dictionary_version": "1.0",
  "schema_version": "1.1",
- "entry_count": 1250107,
+ "entry_count": 1250109,
  "words": 102223,
- "terms": 1147884,
- "total": 1250107,
+ "terms": 1147886,
+ "total": 1250109,
  "defined": 99579,
  "defined_authored": 58223,
  "defined_template": 41356,
  "pending_definitions": 2644,
  "last_updated": "2026-10-21",
- "generated_at": "2026-10-21T09:21:31+00:00",
- "catalog_revision": 41,
- "data_hash": "sha256:5661ecc1a9d56b0c387f20f11a712b96b131d2a1ac5c79b03d908488b76b70e8",
- "source": "The Signature Dictionary (original definitions)"
+ "generated_at": "2026-10-21T17:03:56+00:00",
+ "catalog_revision": 42,
+ "index_sha256": "3082bb025e1fbcf265a90fa64d2493e32a8e6d360db50fc67624a07dfbdd5343"
 }

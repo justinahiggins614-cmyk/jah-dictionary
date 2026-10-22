@@ -1,16 +1,16 @@
 {
  "dictionary_version": "1.0",
  "schema_version": "1.1",
- "entry_count": 1252017,
+ "entry_count": 1253825,
  "words": 102223,
- "terms": 1149794,
- "total": 1252017,
+ "terms": 1151602,
+ "total": 1253825,
  "defined": 99579,
  "defined_authored": 58223,
  "defined_template": 41356,
  "pending_definitions": 2644,
  "last_updated": "2026-10-22",
- "generated_at": "2026-10-22T03:53:30+00:00",
- "catalog_revision": 45,
- "index_sha256": "94734a05a9e6ae5e8d16c861c08de858bac7c18cc29d8d3a9becc22b6d3fe40e"
+ "generated_at": "2026-10-22T09:40:55+00:00",
+ "catalog_revision": 46,
+ "index_sha256": "e9a981658f6eb74b01c1a6c3f98dcf7903f9da9cd619e957da7ee04283d5841a"
 }

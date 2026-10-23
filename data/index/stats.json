@@ -12,5 +12,7 @@
  "last_updated": "2026-10-22",
  "generated_at": "2026-10-22T23:39:15+00:00",
  "catalog_revision": 49,
- "index_sha256": "84379cb932388e212cd58f5298f1a02b892c291a1bbdc783a444f57b12212d58"
+ "index_sha256": "84379cb932388e212cd58f5298f1a02b892c291a1bbdc783a444f57b12212d58",
+ "dict_idx_sha256": "465a2ab4b04c6bf8b2157bba8126d481f9f8e73b7358b09ba06757834853d583",
+ "dict_idx_rows": 1256646
 }

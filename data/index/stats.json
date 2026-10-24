@@ -1,10 +1,10 @@
 {
   "dictionary_version": "1.0",
   "schema_version": "1.1",
-  "entry_count": 1256644,
+  "entry_count": 1256645,
   "words": 102223,
-  "terms": 1154421,
-  "total": 1256644,
+  "terms": 1154422,
+  "total": 1256645,
   "defined": 99579,
   "defined_authored": 58223,
   "defined_template": 41356,
@@ -14,5 +14,5 @@
   "catalog_revision": 49,
   "index_sha256": "84379cb932388e212cd58f5298f1a02b892c291a1bbdc783a444f57b12212d58",
   "dict_idx_sha256": "e68c0f68ce59093aae92cc5ac06826942461083d80de14b7b1cb82445f170f3e",
-  "dict_idx_rows": 1262810
+  "dict_idx_rows": 1262811
 }
